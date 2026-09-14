@@ -1,0 +1,27 @@
+INDY 500 V2-C WIND RESIDUAL DIAGNOSTIC — FINAL FREEZE
+STATUS: FROZEN
+
+Final physics core transitions: 41
+Wind-linked transitions used: 39
+Raw LOYO residual coverage: 39/39
+Wind-speed-change coverage: 39/39
+Gust-change coverage: 39/39
+Wind-vector-change coverage: 38/39
+
+Purpose: test whether unresolved thermal-model error shows a stable relationship with historical wind-state proxies. This is not a new predictive wind model.
+
+Partial Spearman controlling absolute overall performance change:
+|delta wind speed|: -0.031890
+|delta gust|: +0.199002
+wind-vector change magnitude: +0.208751
+mean wind speed: +0.028497
+mean gust: +0.060187
+|delta PTSC wind|: -0.122406
+|delta forecast wind speed|: -0.045482
+|delta forecast gust|: +0.189685
+
+No strong independent wind-residual relationship remains and within-year relationships are not stable. Fixed-point or gridded historical wind cannot reconstruct instantaneous gust timing, spatial exposure around the oval, changing wind orientation, car/setup-specific aerodynamic sensitivity, or local turbulence.
+
+Decision: do not add a deterministic wind coefficient and do not introduce a production heteroskedastic wind-residual model. Wind remains a plausible contributor to unresolved variation and a candidate for prospective high-resolution data collection.
+
+Manifest SHA256: 8050d9e9dbd1cf54bdd57dc4b07e19e0be524a71090131aed6fdb08a7a156160
