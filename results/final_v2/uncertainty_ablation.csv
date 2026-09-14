@@ -1,0 +1,6 @@
+horizon_min,full_pi80_width_mph,full_pi90_width_mph,no_residual_pi80_width_reduction_pct,no_residual_pi90_width_reduction_pct
+15,1.4659,2.4239,90.42,91.38
+30,1.4751,2.4349,85.54,87.19
+60,1.5129,2.4620,79.87,81.72
+90,1.5437,2.4827,75.88,78.38
+120,1.5666,2.4984,72.79,75.67
