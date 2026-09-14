@@ -1,14 +1,59 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="950" viewBox="0 0 1600 950">
 <defs>
-<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
-<style>.box{fill:white;stroke:#222;stroke-width:2.2;rx:14;ry:14}.dash{fill:white;stroke:#555;stroke-width:2;stroke-dasharray:8 6;rx:14;ry:14}.title{font-family:Arial,Helvetica,sans-serif;font-size:30px;font-weight:700;fill:#111}.head{font-family:Arial,Helvetica,sans-serif;font-size:23px;font-weight:700;fill:#111}.body{font-family:Arial,Helvetica,sans-serif;font-size:19px;fill:#222}.small{font-family:Arial,Helvetica,sans-serif;font-size:17px;fill:#333}.label{font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:700;fill:#333;letter-spacing:.6px}.arrow{stroke:#222;stroke-width:2.2;fill:none;marker-end:url(#arrow)}</style></defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L10,5 L0,10 z" fill="#222"/>
+</marker>
+<style>
+.box{fill:white;stroke:#222;stroke-width:2.2;rx:14;ry:14}
+.dash{fill:white;stroke:#555;stroke-width:2;stroke-dasharray:8 6;rx:14;ry:14}
+.title{font-family:Arial,Helvetica,sans-serif;font-size:30px;font-weight:700;fill:#111}
+.head{font-family:Arial,Helvetica,sans-serif;font-size:23px;font-weight:700;fill:#111}
+.body{font-family:Arial,Helvetica,sans-serif;font-size:19px;fill:#222}
+.small{font-family:Arial,Helvetica,sans-serif;font-size:17px;fill:#333}
+.label{font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:700;fill:#333;letter-spacing:.6px}
+.arrow{stroke:#222;stroke-width:2.2;fill:none;marker-end:url(#arrow)}
+</style>
+</defs>
 <text x="800" y="50" text-anchor="middle" class="title">Identifiability-Driven Reformulation and Final System Architecture</text>
-<rect x="540" y="90" width="520" height="95" class="box"/><text x="800" y="126" text-anchor="middle" class="head">Original Strategy Problem</text><text x="800" y="157" text-anchor="middle" class="body">retain current result vs. withdraw for priority</text><path d="M800 185 L800 235" class="arrow"/>
-<rect x="520" y="235" width="560" height="90" class="box"/><text x="800" y="272" text-anchor="middle" class="head">Historical Identifiability Analysis</text><text x="800" y="302" text-anchor="middle" class="body">What can be reconstructed defensibly across seasons?</text><path d="M800 325 L800 360 L400 360 L400 395" class="arrow"/><path d="M800 325 L800 360 L1200 360 L1200 395" class="arrow"/>
-<rect x="170" y="395" width="460" height="170" class="dash"/><text x="400" y="432" text-anchor="middle" class="head">Opportunity Process</text><text x="400" y="466" text-anchor="middle" class="body">P(H | Q)</text><text x="400" y="500" text-anchor="middle" class="label">NOT IDENTIFIABLE RELIABLY</text><text x="400" y="533" text-anchor="middle" class="small">queue state • withdrawals • requeue • intent</text>
-<rect x="970" y="395" width="460" height="170" class="box"/><text x="1200" y="432" text-anchor="middle" class="head">Performance Process</text><text x="1200" y="466" text-anchor="middle" class="body">p(Δv | H = h)</text><text x="1200" y="500" text-anchor="middle" class="label">IDENTIFIABLE</text><text x="1200" y="533" text-anchor="middle" class="small">same-car repeats + physical state</text><path d="M1200 565 L1200 615" class="arrow"/>
-<rect x="980" y="615" width="440" height="95" class="box"/><text x="1200" y="651" text-anchor="middle" class="head">Future Physical State</text><text x="1200" y="683" text-anchor="middle" class="body">p(ΔT_track(h))</text><path d="M1200 710 L1200 760" class="arrow"/>
-<rect x="980" y="760" width="440" height="100" class="box"/><text x="1200" y="797" text-anchor="middle" class="head">FINAL_V2</text><text x="1200" y="829" text-anchor="middle" class="body">5 calibrated anchors: 15 / 30 / 60 / 90 / 120 min</text><path d="M980 810 L850 810" class="arrow"/>
-<rect x="500" y="755" width="350" height="110" class="box"/><text x="675" y="793" text-anchor="middle" class="head">OPERATIONAL_CURVE_V2</text><text x="675" y="825" text-anchor="middle" class="body">derived 15–120 min presentation</text><text x="675" y="850" text-anchor="middle" class="small">interpolation ≠ new calibration</text>
-<rect x="170" y="620" width="330" height="100" class="dash"/><text x="335" y="657" text-anchor="middle" class="head">External Queue Context</text><text x="335" y="689" text-anchor="middle" class="small">plausible opportunity window only</text><path d="M400 565 L400 620" class="arrow"/><path d="M500 670 L675 670 L675 755" class="arrow"/><path d="M675 865 L675 900 L800 900" class="arrow"/><path d="M1200 860 L1200 900 L1010 900" class="arrow"/>
-<rect x="590" y="885" width="420" height="55" class="box"/><text x="800" y="920" text-anchor="middle" class="head">Human Pit-Wall Decision</text></svg>
+<rect x="540" y="90" width="520" height="95" class="box"/>
+<text x="800" y="126" text-anchor="middle" class="head">Original Strategy Problem</text>
+<text x="800" y="157" text-anchor="middle" class="body">retain current result vs. withdraw for priority</text>
+<path d="M800 185 L800 235" class="arrow"/>
+<rect x="520" y="235" width="560" height="90" class="box"/>
+<text x="800" y="272" text-anchor="middle" class="head">Historical Identifiability Analysis</text>
+<text x="800" y="302" text-anchor="middle" class="body">What can be reconstructed defensibly across seasons?</text>
+<path d="M800 325 L800 360 L400 360 L400 395" class="arrow"/>
+<path d="M800 325 L800 360 L1200 360 L1200 395" class="arrow"/>
+<rect x="170" y="395" width="460" height="170" class="dash"/>
+<text x="400" y="432" text-anchor="middle" class="head">Opportunity Process</text>
+<text x="400" y="466" text-anchor="middle" class="body">P(H | Q)</text>
+<text x="400" y="500" text-anchor="middle" class="label">NOT IDENTIFIABLE RELIABLY</text>
+<text x="400" y="533" text-anchor="middle" class="small">queue state • withdrawals • requeue • intent</text>
+<rect x="970" y="395" width="460" height="170" class="box"/>
+<text x="1200" y="432" text-anchor="middle" class="head">Performance Process</text>
+<text x="1200" y="466" text-anchor="middle" class="body">p(Δv | H = h)</text>
+<text x="1200" y="500" text-anchor="middle" class="label">IDENTIFIABLE</text>
+<text x="1200" y="533" text-anchor="middle" class="small">same-car repeats + physical state</text>
+<path d="M1200 565 L1200 615" class="arrow"/>
+<rect x="980" y="615" width="440" height="95" class="box"/>
+<text x="1200" y="651" text-anchor="middle" class="head">Future Physical State</text>
+<text x="1200" y="683" text-anchor="middle" class="body">p(ΔT_track(h))</text>
+<path d="M1200 710 L1200 760" class="arrow"/>
+<rect x="980" y="760" width="440" height="100" class="box"/>
+<text x="1200" y="797" text-anchor="middle" class="head">FINAL_V2</text>
+<text x="1200" y="829" text-anchor="middle" class="body">5 calibrated anchors: 15 / 30 / 60 / 90 / 120 min</text>
+<path d="M980 810 L850 810" class="arrow"/>
+<rect x="500" y="755" width="350" height="110" class="box"/>
+<text x="675" y="793" text-anchor="middle" class="head">OPERATIONAL_CURVE_V2</text>
+<text x="675" y="825" text-anchor="middle" class="body">derived 15–120 min presentation</text>
+<text x="675" y="850" text-anchor="middle" class="small">interpolation ≠ new calibration</text>
+<rect x="170" y="620" width="330" height="100" class="dash"/>
+<text x="335" y="657" text-anchor="middle" class="head">External Queue Context</text>
+<text x="335" y="689" text-anchor="middle" class="small">plausible opportunity window only</text>
+<path d="M400 565 L400 620" class="arrow"/>
+<path d="M500 670 L675 670 L675 755" class="arrow"/>
+<path d="M675 865 L675 900 L800 900" class="arrow"/>
+<path d="M1200 860 L1200 900 L1010 900" class="arrow"/>
+<rect x="590" y="885" width="420" height="55" class="box"/>
+<text x="800" y="920" text-anchor="middle" class="head">Human Pit-Wall Decision</text>
+</svg>
