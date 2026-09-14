@@ -1,0 +1,31 @@
+INDY 500 V2-D UNCERTAINTY-SOURCE ABLATION — FINAL FREEZE
+STATUS: FROZEN
+
+This is an uncertainty-source ablation / sensitivity analysis, not a strict additive variance decomposition.
+
+Main result: empirical attempt-level performance residual variation is the dominant source of final predictive uncertainty.
+
+Removing empirical performance residual — mean 80% PI width reduction:
+15 min: 90.42%
+30 min: 85.54%
+60 min: 79.87%
+90 min: 75.88%
+120 min: 72.79%
+
+TRACK-ONLY mean 80% PI width:
+15 min: 0.1165 mph
+30 min: 0.1677 mph
+60 min: 0.2410 mph
+90 min: 0.2882 mph
+120 min: 0.3149 mph
+
+COEFFICIENT-ONLY mean 80% PI width:
+15 min: 0.0716 mph
+30 min: 0.1010 mph
+60 min: 0.1561 mph
+90 min: 0.2003 mph
+120 min: 0.2282 mph
+
+Future-track and coefficient uncertainty both become more important with horizon, but improving track-temperature point prediction alone would not collapse final performance intervals while empirical attempt-level variation remains dominant. Quantile-width reductions are nonlinear and interacting and must not be interpreted as additive percentages or variance shares.
+
+Manifest SHA256: 998de3e1f313367a59878b42d6bb5c7f45fa0614fcc885b39acf86a9bcf01863
