@@ -1,0 +1,23 @@
+INDY 500 V2-B SECTION MECHANISM VALIDATION — FINAL FREEZE
+STATUS: FROZEN
+
+Final physics core transitions: 41
+Transition identities linked: 39/41
+Linked transitions with usable section evidence: 39/39
+Common complete sections per linked transition: 9
+
+Section data are mechanism-validation evidence only. They are not independent training observations, do not expand effective sample size, and are not added as production predictors.
+
+Directional coherence across 39 linked transitions:
+mean = 0.723647
+median = 0.777778
+
+|delta v| >= 0.10 mph: mean coherence = 0.781481
+|delta v| >= 0.20 mph: mean coherence = 0.843434
+|delta v| >= 0.50 mph: mean coherence = 0.935185
+
+Meaningful attempt-level changes are usually spatially coherent across the lap. Large thermal-model residuals are also frequently associated with high section coherence, so a large residual does not imply a localized section anomaly.
+
+After controlling for absolute overall speed-change magnitude, no strong independent section-pattern predictor of thermal-model residual magnitude is supported. Section analysis improves mechanism interpretation but does not justify expanding the predictive feature set.
+
+Manifest SHA256: 7257a7d0eb0b5cdb4a22c5d530e2f7f445e25e0951c8a9a1ce100e3b7cf22171
