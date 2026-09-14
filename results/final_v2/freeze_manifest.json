@@ -1,0 +1,19 @@
+{
+  "project": "Indianapolis 500 Conditional Performance Decision-Support System",
+  "version": "FINAL_V2",
+  "status": "FINAL_FROZEN",
+  "freeze_time_utc": "2026-09-14T08:57:11.804052+00:00",
+  "module_status": {"V2-A":"FROZEN","V2-B":"FROZEN","V2-C":"FROZEN","V2-D":"FROZEN","V2-E":"FROZEN"},
+  "supported_horizons_min": [15,30,60,90,120],
+  "research_question": "If another on-track opportunity occurs h minutes from now, what distribution of four-lap qualifying-performance change should be expected relative to the current official result?",
+  "frozen_artifact_hashes": {
+    "physics_core_bootstrap": "adbe04c05a2cc2147b5b46ccc490457fb3e8d0277447563a71a0ea572f1edc9f",
+    "physics_core_loyo_residuals": "04ddb1f4e605451c4d30ff1b4fb8809acc8e02290bad34e719f37e5cea224086",
+    "v2a_manifest": "ed81d2148b3f9ef2e00b4d63b01793b53fd90d1e0a8692e97809fbeb20be7e69",
+    "v2b_manifest": "7257a7d0eb0b5cdb4a22c5d530e2f7f445e25e0951c8a9a1ce100e3b7cf22171",
+    "v2c_manifest": "8050d9e9dbd1cf54bdd57dc4b07e19e0be524a71090131aed6fdb08a7a156160",
+    "v2d_manifest": "998de3e1f313367a59878b42d6bb5c7f45fa0614fcc885b39acf86a9bcf01863",
+    "v2e_manifest": "c7159461938db8c292f9f2c3e37326ca3aec91ff488780949b1217e69cc8a837",
+    "system_specification": "2cb5ce48585938131c91ad0bf9782255c55fa7808b14451a58a7414b4ab8f00d"
+  }
+}
