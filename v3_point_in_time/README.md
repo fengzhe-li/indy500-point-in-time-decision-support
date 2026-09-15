@@ -1,6 +1,6 @@
 # INDY 500 V3 — Point-in-Time Probabilistic Decision Support
 
-**Project status: `FINAL_V3` — Phases 1-5 complete.**
+**Project status: `FINAL_V3_FROZEN` — Phases 1-5 complete.**
 Historical Shadow Replay + Conditional Physical Outlook.
 *Independent research prototype — not affiliated with INDYCAR or Indianapolis Motor Speedway.*
 

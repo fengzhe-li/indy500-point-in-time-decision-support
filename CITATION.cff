@@ -1,15 +1,19 @@
 cff-version: 1.2.0
-title: "Indianapolis 500 Requalification Decision Support"
+title: "Indy 500 Point-in-Time Probabilistic Decision Support System"
 message: "Please cite this repository and the frozen model version used."
 type: software
 authors:
   - family-names: Li
     given-names: Fengzhe
-repository-code: "https://github.com/fengzhe-li/indy500-requalification-result-withdrawal-decision-support"
-version: "FINAL_V2"
+repository-code: "https://github.com/fengzhe-li/indy500-point-in-time-decision-support"
+version: "FINAL_V3_FROZEN"
 date-released: 2026-09-15
 abstract: >-
-  Physics-conditioned probabilistic inference for Indianapolis 500
-  requalification decision support, with explicit historical identifiability,
-  uncertainty propagation and human-in-the-loop scope boundaries.
+  Physics-conditioned probabilistic performance inference for Indianapolis 500
+  qualifying, with explicit historical identifiability, uncertainty
+  propagation, and human-in-the-loop scope boundaries (FINAL_V2, the frozen
+  scientific core). FINAL_V3 adds a point-in-time application layer on top:
+  forecast-vintage provenance, a leakage guard, historical shadow replay,
+  evidence-aware abstention, and an isolated hypothetical scenario interface,
+  exposed through a FastAPI + React/TypeScript application.
 

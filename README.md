@@ -1,10 +1,13 @@
 <div align="center">
 
-# Indianapolis 500 Requalification Decision Support
+# Indy 500 Point-in-Time Probabilistic Decision Support System
 
-### Physics-conditioned probabilistic inference for a decision that public history cannot fully identify
+### Physics-conditioned probabilistic inference with leakage-controlled historical replay and evidence-aware abstention
 
-**FINAL_V2 frozen scientific core** · **2020–2024 reference era** · **2025 external regime evaluation** · **FINAL_V3 point-in-time application layer** · **Human in the loop**
+**Status: `FINAL_V3_FROZEN`** · **FINAL_V2 frozen scientific core** · **2020–2024 reference era** · **2025 external regime evaluation** · **Human in the loop**
+
+[![indy500-v3-ci](https://github.com/fengzhe-li/indy500-point-in-time-decision-support/actions/workflows/ci.yml/badge.svg)](https://github.com/fengzhe-li/indy500-point-in-time-decision-support/actions/workflows/ci.yml)
+[![repository-integrity](https://github.com/fengzhe-li/indy500-point-in-time-decision-support/actions/workflows/integrity.yml/badge.svg)](https://github.com/fengzhe-li/indy500-point-in-time-decision-support/actions/workflows/integrity.yml)
 
 [Methodology](docs/methodology.md) · [Model card](docs/model-card.md) · [Validation](docs/validation.md) · [Evidence engineering](docs/evidence-engineering.md) · [Full report](docs/paper/physics_conditioned_probabilistic_performance_inference.pdf) · [**FINAL_V3 application →**](v3_point_in_time/README.md)
 
@@ -13,6 +16,17 @@
 ![Identifiability-driven system boundary](figures/portfolio/identifiability-system-boundary.svg)
 
 > **The key engineering result is a boundary.** Public historical evidence does not consistently reveal queue entry, Lane 1/Lane 2 state, withdrawals, requeue timing, pit return, live queue position or team intent. The project therefore does not guess an opportunity-time model or imitate historical decisions. It estimates the identifiable conditional performance problem and leaves the final retain/withdraw judgement to the pit wall.
+
+**What this is, in one paragraph.** This repository is `FINAL_V3_FROZEN`: a point-in-time probabilistic
+decision-support system built around a frozen physics-conditioned scientific core (`FINAL_V2`). `FINAL_V2`
+estimates the conditional physical-performance distribution `p(Δv | H=h)` for a same-car repeat qualifying
+attempt; it is never refit or modified by anything described below. `FINAL_V3` adds, on top of that frozen
+core, the engineering needed to use it responsibly with real historical or hypothetical data: point-in-time
+forecast-vintage provenance, a fail-closed leakage guard, historical shadow replay, evidence-aware abstention,
+an isolated hypothetical scenario interface, and a FastAPI + React/TypeScript application, packaged with
+Docker, CI, and health/readiness checks. The system is human-in-the-loop by design: it does **not** predict
+queue waiting time, does **not** estimate `P(H=h)`, and does **not** issue a retain/withdraw recommendation or
+claim automated pit-wall strategy optimisation, at any layer.
 
 ## The system in one screen
 
