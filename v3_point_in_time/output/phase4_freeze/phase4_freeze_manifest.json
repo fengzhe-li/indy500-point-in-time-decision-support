@@ -1,0 +1,19 @@
+{
+  "backend": "FastAPI (app/, api/) -- read-only over Phase 1-3 frozen output",
+  "behavioural_regression_pass": true,
+  "files": [
+    "phase4_summary.txt",
+    "api_contract.json",
+    "ui_route_manifest.json",
+    "phase4_test_summary.txt",
+    "phase4_hashes.csv"
+  ],
+  "frontend": "React + TypeScript + Vite (frontend/)",
+  "frontend_tests_pass": true,
+  "frozen_at_utc": "2026-09-15T16:36:12.898669Z",
+  "not_to_be_called": "FINAL_V3",
+  "phase": 4,
+  "python_tests_pass": true,
+  "status": "V3_PHASE4_APPLICATION_FROZEN",
+  "v2_immutability_pass": true
+}

@@ -1,0 +1,244 @@
+{
+  "generated_at_utc": "2026-09-15T17:16:55.685621Z",
+  "scenario_mode_required_assets": [
+    {
+      "path": "weather/output/v2_future_track/v2a_full_sample_track_model_coefficients_v1.csv",
+      "purpose": "frozen M2b_mean_solar track-temperature model coefficients",
+      "sha256": "6f37876ff30c8fbc47aeb83900c23b377a99f0a620125a4eb247d0f3c01316c8",
+      "read_only_expected": true,
+      "required_by": "app/scenario_service.py (via src/final_v2_adapter.py)"
+    },
+    {
+      "path": "weather/output/v2_future_track/future_track_residuals_v1.csv",
+      "purpose": "frozen track-temperature residual pool (symmetrized bootstrap draws)",
+      "sha256": "592bdcfcd4b545194408bba429ffe309d48dcaf3f51020f17cfc6f1c24e5d5ec",
+      "read_only_expected": true,
+      "required_by": "app/scenario_service.py (via src/final_v2_adapter.py)"
+    },
+    {
+      "path": "r5_2/manual/probabilistic_physics_coefficient_bootstrap_v1.csv",
+      "purpose": "frozen performance-response coefficient bootstrap draws",
+      "sha256": "adbe04c05a2cc2147b5b46ccc490457fb3e8d0277447563a71a0ea572f1edc9f",
+      "read_only_expected": true,
+      "required_by": "app/scenario_service.py (via src/final_v2_adapter.py)"
+    },
+    {
+      "path": "r5_2/manual/probabilistic_physics_loyo_residuals_v1.csv",
+      "purpose": "frozen performance-response (LOYO) residual pool",
+      "sha256": "04ddb1f4e605451c4d30ff1b4fb8809acc8e02290bad34e719f37e5cea224086",
+      "read_only_expected": true,
+      "required_by": "app/scenario_service.py (via src/final_v2_adapter.py)"
+    },
+    {
+      "path": "weather/scripts/v2_integrate_track_to_performance_mc.py",
+      "purpose": "source of the frozen pure MC-combination functions (imported, not modified)",
+      "sha256": "18ddcbb25539e1c27a562f061c00d09231d545d9f7d6fccac845b61ed3f58e57",
+      "read_only_expected": true,
+      "required_by": "app/scenario_service.py (via src/final_v2_adapter.py)"
+    },
+    {
+      "path": "weather/scripts/v2_add_solar_features.py",
+      "purpose": "source of the frozen solar-elevation function (imported, not modified)",
+      "sha256": "253ce5f57a548c0c5143006ceb13c9be3556c7bfa43880e2087b584e332b5271",
+      "read_only_expected": true,
+      "required_by": "app/scenario_service.py (via src/final_v2_adapter.py)"
+    }
+  ],
+  "scenario_mode_required_asset_count": 6,
+  "readiness_check_baseline_assets": [
+    {
+      "path": "r5_2/manual/probabilistic_physics_coefficient_bootstrap_v1.csv",
+      "sha256": "adbe04c05a2cc2147b5b46ccc490457fb3e8d0277447563a71a0ea572f1edc9f",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "r5_2/manual/probabilistic_physics_loyo_residuals_v1.csv",
+      "sha256": "04ddb1f4e605451c4d30ff1b4fb8809acc8e02290bad34e719f37e5cea224086",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/v2_future_track/v2a_full_sample_track_model_coefficients_v1.csv",
+      "sha256": "6f37876ff30c8fbc47aeb83900c23b377a99f0a620125a4eb247d0f3c01316c8",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/v2_future_track/future_track_residuals_v1.csv",
+      "sha256": "592bdcfcd4b545194408bba429ffe309d48dcaf3f51020f17cfc6f1c24e5d5ec",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/v2_future_track/future_track_samples_with_solar_v1.csv",
+      "sha256": "8cbd0bf4061a81653a4ef082f3ae787b781434cc94bfeef8c5119139b7126b0d",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/v2_future_track/v2a_freeze_manifest_v1.json",
+      "sha256": "ed81d2148b3f9ef2e00b4d63b01793b53fd90d1e0a8692e97809fbeb20be7e69",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/v2_future_track/v2a_final_results_table_v1.csv",
+      "sha256": "c0b4e30b5452c4f01aa92570069a78b8e417cefaa020fdea8dcbf5d3a043efb4",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/v2_future_track/v2a_operational_scenario_outlook_v1.csv",
+      "sha256": "8ba250a63cea731d82192d7ed8ae2398071d435dc09d21694a6efd04503461ef",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/v2_future_track/v2a_performance_mc_integration_v1.csv",
+      "sha256": "45824fad8660775c1c52ff32ddc5db0dccfb2341eaecd7acfd0f31d4073f21c7",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/v2b_section_mechanism/v2b_freeze_manifest_v1.json",
+      "sha256": "7257a7d0eb0b5cdb4a22c5d530e2f7f445e25e0951c8a9a1ce100e3b7cf22171",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/v2c_wind_diagnostic/v2c_freeze_manifest_v1.json",
+      "sha256": "8050d9e9dbd1cf54bdd57dc4b07e19e0be524a71090131aed6fdb08a7a156160",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/v2d_uncertainty_ablation/v2d_freeze_manifest_v1.json",
+      "sha256": "998de3e1f313367a59878b42d6bb5c7f45fa0614fcc885b39acf86a9bcf01863",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/v2e_scenario_stress_test/v2e_freeze_manifest_v1.json",
+      "sha256": "c7159461938db8c292f9f2c3e37326ca3aec91ff488780949b1217e69cc8a837",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/final_integration/indy500_final_v2_freeze_manifest.json",
+      "sha256": "fe4c35e8c01610757c96e219153820d108c7063c542ed65a09e38dd77e32cf87",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/final_integration/indy500_final_v2_system_specification.md",
+      "sha256": "2cb5ce48585938131c91ad0bf9782255c55fa7808b14451a58a7414b4ab8f00d",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/final_integration/indy500_final_project_freeze_manifest_v1.json",
+      "sha256": "7c2b1bb2d8c83cd892b6c7429065132a59255542e01ff6cff4872ac349ebd5ba",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/final_integration/applicability_gate_v2.md",
+      "sha256": "97bafa3d5e93415cfaee1e791d9c8f19ec331993b035dfd4ce772d08f96223e1",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/final_integration/future_prospective_event_ledger_schema_v2.csv",
+      "sha256": "6d0a9d54b5e5a088f17126502ab09efb5eb823ad8dc57564210031f2d26345bd",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/operational_curve_v2/operational_performance_curve_v2.csv",
+      "sha256": "c78dcb30310e213e5f2a6148de7901c5fcb38f241bd1e6d7a773f4874b6c7309",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/operational_curve_v2/operational_curve_metadata_v2.json",
+      "sha256": "19c1bf9f8bf29775bab8f1d698d0a34443df5bfbcc5334431164bcd66a43d431",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/operational_curve_v2/freeze/operational_curve_v2_freeze_manifest.json",
+      "sha256": "790c159c33c38f5adeb9245827421f5036f9183337f52ba87ec30b2df29b0a7a",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/output/hrrr_ims_2020_2024_features.csv",
+      "sha256": "79607d49c617dd8582bd5568c5fdb001b02171a5709100e9c4abc00896623ef3",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/scripts/v2_integrate_track_to_performance_mc.py",
+      "sha256": "18ddcbb25539e1c27a562f061c00d09231d545d9f7d6fccac845b61ed3f58e57",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/scripts/v2_add_solar_features.py",
+      "sha256": "253ce5f57a548c0c5143006ceb13c9be3556c7bfa43880e2087b584e332b5271",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/scripts/v2_build_future_track_samples.py",
+      "sha256": "815b8254899d6d6e6f265ee07c5b09734df7dd261c2bee40ed648fff5032a32f",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/scripts/v2_future_track_conformal_calibration.py",
+      "sha256": "93a01f1245ea974877472e5b853f8869f4b9e46c93961c83249fecd6c6d0f5b0",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/scripts/build_operational_curve_v2.py",
+      "sha256": "57ff6fb907d4dae296142c16d673f25463499731f9eddf1dca81515479b32bca",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/scripts/freeze_operational_curve_v2.py",
+      "sha256": "035827374c377000a3c722f3decb4480b8ef6973c3d4fec186d2799b8d58bcee",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/scripts/final_v2_freeze.py",
+      "sha256": "471ddf0e58c4874a325a5378f024b52a8f16ca0b473234e8d96271e11c011080",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "weather/scripts/final_project_freeze.py",
+      "sha256": "be99f0b9813163ab5ea8f7214f4d20ce62d08c71be57229e59642b78a01c0621",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "docs/final_v2_system_specification.md",
+      "sha256": "d8dae50abd20374c4749be21ed88393524fe60d78bb05a62233610d89d0d598a",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    },
+    {
+      "path": "results/final_v2/freeze_manifest.json",
+      "sha256": "e20ab31f3bb9223b89d217bc3db5571b9b169353afc7ebccf2f4911b6808940c",
+      "read_only_expected": true,
+      "required_by": "app/health_service.py readiness check"
+    }
+  ],
+  "readiness_check_baseline_asset_count": 32,
+  "note": "scenario_mode_required_assets is the minimum set FINAL_V2 inference actually reads at request time. readiness_check_baseline_assets is the fuller 32-file immutability baseline app/health_service.py verifies (a superset, including freeze manifests and documentation not read at inference time). Both sets are staged into the Docker build context by scripts/prepare_docker_context.sh and made read-only at runtime via docker-compose.yml's read_only root filesystem."
+}

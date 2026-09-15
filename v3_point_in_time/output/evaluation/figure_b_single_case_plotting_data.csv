@@ -1,0 +1,4 @@
+series,value,pi80_low,pi80_high
+Observed (realised),4.695,,
+Point-in-time forecast,0.023574048313559,-0.7440452388247273,0.7983856753185113
+Realised-environment,0.0451092880919226,,

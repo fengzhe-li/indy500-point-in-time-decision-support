@@ -1,0 +1,8 @@
+source,role
+pipeline.reconcile.build() -> attempts table,chronology reconstruction (unmodified pipeline code)
+r5_2/manual/probabilistic_physics_loyo_residuals_v1.csv,observed outcome (delta_four_lap_average_speed_mph)
+weather/evidence/ptsc/indy500_day1_track_temp_2020_2024_time_normalized.csv,real observed track/ambient readings
+weather/output/hrrr_ims_2020_2024_features.csv,real NOAA HRRR forecast vintages
+weather/output/v2_future_track/v2a_full_sample_track_model_coefficients_v1.csv,frozen M2b coefficients (read-only)
+weather/output/v2_future_track/future_track_residuals_v1.csv,frozen track-residual pool (read-only)
+r5_2/manual/probabilistic_physics_coefficient_bootstrap_v1.csv,frozen performance bootstrap draws (read-only)

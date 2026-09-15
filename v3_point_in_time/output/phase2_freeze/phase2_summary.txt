@@ -1,0 +1,28 @@
+========================================================================
+INDY 500 V3 PHASE 2 -- FREEZE SUMMARY
+========================================================================
+
+Status: V3_PHASE2_POINT_IN_TIME_EVALUATION_FROZEN
+This is explicitly NOT FINAL_V3 and NOT a general performance claim.
+
+Real candidate point-in-time cases (unambiguous transition, usable timestamps): 10
+Supported (<=120 min production boundary): 1
+Out of support (realised horizon > 120 min): 9
+
+*** N=1 IS THE ENTIRE SCIENTIFICALLY EVALUABLE SAMPLE ***
+No aggregate MAE/RMSE/coverage/directional-accuracy statistic is computed
+or claimed, because a single case cannot support one. See
+phase2_qa_report.md and phase2_minimum_data_plan.md for the full
+reasoning and the 9 excluded (out-of-support) real cases, which are
+not hidden -- they are in phase2_case_table.csv with their real
+realised horizons (125.8-288.0 minutes) and OUT_OF_SUPPORT status.
+
+The single evaluated case (2021, car 60) showed a large observed
+improvement (+4.695 mph) that BOTH the point-in-time-forecast
+inference (+0.024 mph) and the realised-environment inference
+(+0.045 mph) substantially under-predicted. This is consistent with
+the frozen system's own documented position that latent setup,
+tyre, and execution factors dominate much of the predictive spread
+-- it is reported here, not concealed, per specification Step 13.
+
+Frozen at: 2026-09-15T14:48:28.960183Z

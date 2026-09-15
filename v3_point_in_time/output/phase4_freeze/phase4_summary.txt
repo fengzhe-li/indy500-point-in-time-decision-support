@@ -1,0 +1,20 @@
+========================================================================
+INDY 500 V3 PHASE 4 -- FREEZE SUMMARY
+========================================================================
+
+Status: V3_PHASE4_APPLICATION_FROZEN
+This is explicitly NOT FINAL_V3.
+
+Phase 4 is a product/interface layer only: a FastAPI application (app/, api/)
+that reads Phase 1-3's already-frozen output read-only, and a React+TypeScript
+frontend (frontend/) that renders exactly what the API returns. No scientific
+computation was added, changed, or duplicated in the frontend.
+
+Phase 4 test summary
+========================================
+Python suite (unittest discover): PASS -- Ran 63 tests in 9.819s
+V2 immutability check: PASS
+V3<->V2 behavioural regression: PASS
+Frontend suite (vitest): PASS -- Tests  7 passed (7)
+
+Frozen at: 2026-09-15T16:36:12.898461Z

@@ -1,0 +1,9 @@
+source,role
+v3_point_in_time/output/evaluation/phase2_case_table.csv,"10 defensible real 2021 candidates (Phase 2 frozen evidence, reused unmodified)"
+v3_point_in_time/output/evaluation/phase2_excluded_transitions.csv,"31 excluded pre-candidates (Phase 2 frozen evidence, reused unmodified)"
+weather/output/hrrr_ims_2020_2024_features.csv,real NOAA HRRR forecast vintages (same source as Phase 2)
+weather/output/v2_future_track/v2a_full_sample_track_model_coefficients_v1.csv,frozen M2b coefficients (read-only)
+weather/output/v2_future_track/future_track_residuals_v1.csv,frozen track-residual pool (read-only)
+r5_2/manual/probabilistic_physics_coefficient_bootstrap_v1.csv,frozen performance bootstrap draws (read-only)
+r5_2/manual/probabilistic_physics_loyo_residuals_v1.csv,frozen performance-residual pool (read-only)
+weather/output/v2d_uncertainty_ablation/v2d_uncertainty_ablation_width_reduction_v1.csv,"frozen V2-D uncertainty-source reference (display-only, read-only)"

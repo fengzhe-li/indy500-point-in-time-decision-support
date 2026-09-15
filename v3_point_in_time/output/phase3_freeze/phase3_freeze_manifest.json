@@ -1,0 +1,21 @@
+{
+  "case_category_counts": {
+    "ABSTAINED_INSUFFICIENT_TIMESTAMP": 31,
+    "CONDITIONAL_OUTLOOK_SUPPORTED_BUT_HISTORICAL_SCORING_UNSUPPORTED": 9,
+    "ILLUSTRATIVE_ONLY": 1
+  },
+  "files": [
+    "phase3_summary.txt",
+    "replay_case_summary.csv",
+    "replay_abstention_summary.csv",
+    "phase3_source_manifest.csv",
+    "phase3_hashes.csv"
+  ],
+  "frozen_at_utc": "2026-09-15T15:11:58.261245Z",
+  "illustrative_case_excluded_from_aggregate_validation": true,
+  "no_new_data_acquired": true,
+  "not_to_be_called": "FINAL_V3",
+  "phase": 3,
+  "status": "V3_PHASE3_SHADOW_REPLAY_FROZEN",
+  "total_transitions_considered": 41
+}

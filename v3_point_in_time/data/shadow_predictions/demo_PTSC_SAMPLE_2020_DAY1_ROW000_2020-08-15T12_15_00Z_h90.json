@@ -1,0 +1,24 @@
+{
+  "applicability_status": "SUPPORTED",
+  "car_or_entry_id": "PTSC_SAMPLE_2020_DAY1_ROW000",
+  "created_at": "2026-09-15T14:41:29.449732Z",
+  "decision_time": "2020-08-15T12:15:00Z",
+  "event_year": 2020,
+  "expected_delta_v": 0.28643765924507086,
+  "forecast_vintage_ids": [
+    "HRRR:20200815:2:2020-08-15 12:00:00+00:00:2020-08-15 14:00:00+00:00"
+  ],
+  "horizon_minutes": 90,
+  "input_hash": "f51341ff88c398f3b446c390f0528d3880bf377b18d5dfadde2cf742c4faf831",
+  "median_delta_v": 0.2865288633456622,
+  "model_hash": "008900eb428ad820bea907f91fe7c77a7e5965b56e20993b5acf9aed7627099d",
+  "model_version": "FINAL_V2",
+  "p_improve": 0.7119,
+  "pi80_high": 1.1060849139917543,
+  "pi80_low": -0.49238295233863444,
+  "pi90_high": 1.541409758727507,
+  "pi90_low": -0.9713757588499529,
+  "prediction_hash": "a01df411bae19b44aa541f11d79f109d5826eff44a582e3d2b86682cf9f73139",
+  "prediction_id": "demo:PTSC_SAMPLE_2020_DAY1_ROW000:2020-08-15T12:15:00Z:h90",
+  "snapshot_id": "demo:PTSC_SAMPLE_2020_DAY1_ROW000:2020-08-15T12:15:00Z"
+}

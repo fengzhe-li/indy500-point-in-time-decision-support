@@ -1,0 +1,20 @@
+{
+  "version": "4.0.0",
+  "base_path": "/api",
+  "endpoints": [
+    {"method": "GET", "path": "/api/health", "returns": "HealthResponse"},
+    {"method": "GET", "path": "/api/system/status", "returns": "SystemStatusResponse"},
+    {"method": "GET", "path": "/api/replay/cases", "returns": "ReplayCaseSummary[]"},
+    {"method": "GET", "path": "/api/replay/cases/{case_id}", "returns": "ReplayCaseSummary", "errors": ["404 case not found / no replay timeline"]},
+    {"method": "GET", "path": "/api/replay/cases/{case_id}/events", "returns": "ReplayEvent[]", "errors": ["404"]},
+    {"method": "GET", "path": "/api/replay/cases/{case_id}/outlook", "returns": "CaseOutlook", "errors": ["404"]},
+    {"method": "GET", "path": "/api/replay/cases/{case_id}/scoring", "returns": "CaseScoring", "errors": ["404"]},
+    {"method": "GET", "path": "/api/replay/abstentions", "returns": "AbstentionSummaryRow[]"},
+    {"method": "GET", "path": "/api/predictions/{prediction_id}", "returns": "PredictionDetail", "errors": ["404"]},
+    {"method": "GET", "path": "/api/predictions/{prediction_id}/provenance", "returns": "PredictionProvenance", "errors": ["404"]},
+    {"method": "GET", "path": "/api/predictions/{prediction_id}/explanation", "returns": "PredictionExplanation", "errors": ["404"]},
+    {"method": "GET", "path": "/api/validation/summary", "returns": "ValidationSummaryResponse"}
+  ],
+  "data_source": "read-only, exclusively from v3_point_in_time/output/replay/* and output/qa/*, output/phase3_freeze/* frozen by Phase 3; no endpoint calls final_v2_adapter, shadow_engine, or any Monte Carlo code",
+  "cors_allowed_origins": ["http://localhost:5173", "http://127.0.0.1:5173"]
+}

@@ -1,0 +1,30 @@
+========================================================================
+INDY 500 V3 PHASE 3 -- FREEZE SUMMARY
+========================================================================
+
+Status: V3_PHASE3_SHADOW_REPLAY_FROZEN
+This is explicitly NOT FINAL_V3 and NOT a new statistical validation claim.
+
+Phase 3 turns the Phase 1/2 point-in-time execution path into an
+auditable historical shadow-replay system over all 41 real same-car
+transitions found in the project's evidence base (same 41 Phase 2
+already inventoried; no new data acquired).
+
+Case-level category counts:
+  ABSTAINED_INSUFFICIENT_TIMESTAMP: 31
+  CONDITIONAL_OUTLOOK_SUPPORTED_BUT_HISTORICAL_SCORING_UNSUPPORTED: 9
+  ILLUSTRATIVE_ONLY: 1
+
+The single illustrative case (2021, car 60) remains approved ONLY as
+ILLUSTRATIVE_POINT_IN_TIME_SHADOW_CASE, per
+output/qa/phase2_interpretation_addendum.md, and contributes 0 to
+aggregate validation metrics.
+
+9 of the 10 real candidates now have a genuine, non-fabricated
+conditional physical outlook issued at all five calibrated anchors
+(15/30/60/90/120 min) -- inference support -- while historical
+scoring against their realised (>120 min) future attempt remains
+correctly abstained -- historical evaluation support. These are
+reported as functionally distinct, per Phase 3 Step 6.
+
+Frozen at: 2026-09-15T15:11:58.260858Z

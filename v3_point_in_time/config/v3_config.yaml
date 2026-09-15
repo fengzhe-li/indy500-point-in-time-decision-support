@@ -1,0 +1,64 @@
+# INDY 500 V3 — Point-in-Time Decision Support System
+# Phase 1 configuration.
+#
+# This file configures ONLY the V3 shadow-evaluation layer.
+# It does not change any frozen FINAL_V2 coefficient, residual pool,
+# bootstrap draw, or calibration file.
+
+project: "INDY 500 V3 Point-in-Time Probabilistic Decision Support System"
+phase: 1
+frozen_scientific_version: "FINAL_V2"
+
+# Supported calibrated horizons — copied verbatim from
+# weather/output/v2_future_track/v2a_freeze_manifest_v1.json
+# and weather/output/operational_curve_v2/operational_curve_metadata_v2.json.
+# Do not add or remove values here without updating those frozen files'
+# own definition first (which V3 must never do).
+supported_horizons_min: [15, 30, 60, 90, 120]
+max_supported_horizon_min: 120
+
+# Frozen artifact paths V3 reads (never writes).
+frozen_dependencies:
+  track_model_coefficients: "weather/output/v2_future_track/v2a_full_sample_track_model_coefficients_v1.csv"
+  track_residuals: "weather/output/v2_future_track/future_track_residuals_v1.csv"
+  track_model_name: "M2b_mean_solar"
+  performance_bootstrap: "r5_2/manual/probabilistic_physics_coefficient_bootstrap_v1.csv"
+  performance_residuals: "r5_2/manual/probabilistic_physics_loyo_residuals_v1.csv"
+  mc_integration_script: "weather/scripts/v2_integrate_track_to_performance_mc.py"
+  solar_features_script: "weather/scripts/v2_add_solar_features.py"
+
+# Monte Carlo engine settings, copied verbatim from the frozen
+# v2_integrate_track_to_performance_mc.py RANDOM_SEED / N_MC constants.
+# V3 seeds a fresh RNG with this seed per (snapshot, horizon) evaluation
+# rather than advancing one shared stream across many rows like the
+# original batch script. This keeps each evaluation independently
+# reproducible/hashable. It is a deliberate implementation difference
+# from the original script's iteration order, not a change to the
+# frozen model's mathematics, coefficients, or residual pools.
+# See existing_system_inventory.md section "design decisions".
+monte_carlo:
+  random_seed: 20260914
+  n_mc: 20000
+
+# Indianapolis Motor Speedway coordinates, copied verbatim from
+# weather/scripts/v2_add_solar_features.py.
+site:
+  latitude_deg: 39.7950
+  longitude_deg: -86.2348
+
+# Applicability gate thresholds already defined by the frozen system.
+# Thresholds NOT listed here are intentionally absent because the
+# frozen system does not define them (reported as NOT_YET_DEFINED by
+# the applicability gate rather than invented).
+applicability:
+  out_of_support_above_min: 120
+  calibrated_anchor_horizons_min: [15, 30, 60, 90, 120]
+  current_state_boundary_min: 0
+
+output_dirs:
+  forecast_vintages: "v3_point_in_time/data/forecast_vintages"
+  decision_snapshots: "v3_point_in_time/data/decision_snapshots"
+  shadow_predictions: "v3_point_in_time/data/shadow_predictions"
+  predictions: "v3_point_in_time/output/predictions"
+  evaluation: "v3_point_in_time/output/evaluation"
+  qa: "v3_point_in_time/output/qa"

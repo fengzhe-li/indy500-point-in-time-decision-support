@@ -1,0 +1,45 @@
+# Phase 5 Step 17 -- FastAPI backend image.
+#
+# Build context MUST be v3_point_in_time/docker/build_context/, produced
+# by scripts/prepare_docker_context.sh. That context contains ONLY:
+#   - the 32 frozen FINAL_V2 dependencies listed in
+#     v3_point_in_time/output/qa/v2_pre_implementation_hashes.txt
+#     (~1.3 MB total)
+#   - the v3_point_in_time/ subsystem itself (~3.6 MB total together)
+# No other part of the parent research repository is copied in.
+FROM python:3.12-slim
+
+WORKDIR /app
+
+COPY . /app
+
+RUN pip install --no-cache-dir -r v3_point_in_time/requirements.txt
+
+# Phase 5 Step 19 -- container immutability: frozen scientific assets and
+# already-frozen Phase 2/3 evidence are made read-only file-permission-wise
+# inside the image. Application code has no reason to ever write to them
+# (see app/replay_service.py, app/provenance_service.py, app/query_service.py,
+# app/scenario_service.py module docstrings), and now cannot even if a bug
+# tried to.
+RUN find /app/weather /app/r5_2 /app/results /app/docs -type f -exec chmod 444 {} \; \
+ && find /app/v3_point_in_time/output/replay /app/v3_point_in_time/output/evaluation \
+         /app/v3_point_in_time/output/qa /app/v3_point_in_time/output/phase2_freeze \
+         /app/v3_point_in_time/output/phase3_freeze /app/v3_point_in_time/config \
+         -type f -exec chmod 444 {} \;
+
+# chmod alone does not stop the process that OWNS these files as root
+# (root bypasses DAC permission checks) -- verified during Phase 5 Docker
+# testing. The real enforcement is `read_only: true` + a tmpfs /tmp in
+# docker-compose.yml, which makes the whole container filesystem
+# read-only at the kernel/mount level regardless of the process's UID.
+# Running as a non-root user here is defense in depth on top of that.
+RUN useradd --no-create-home --uid 10001 v3app
+USER v3app
+
+WORKDIR /app/v3_point_in_time/api
+EXPOSE 8000
+
+HEALTHCHECK --interval=15s --timeout=5s --start-period=10s --retries=5 \
+  CMD python -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://127.0.0.1:8000/api/health', timeout=3).status==200 else 1)"
+
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]

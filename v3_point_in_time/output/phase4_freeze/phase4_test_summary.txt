@@ -1,0 +1,6 @@
+Phase 4 test summary
+========================================
+Python suite (unittest discover): PASS -- Ran 63 tests in 9.819s
+V2 immutability check: PASS
+V3<->V2 behavioural regression: PASS
+Frontend suite (vitest): PASS -- Tests  7 passed (7)

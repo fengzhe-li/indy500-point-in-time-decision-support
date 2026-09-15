@@ -1,0 +1,43 @@
+========================================================================
+V3 STEP 11 — V2 FROZEN-ASSET IMMUTABILITY REPORT
+========================================================================
+
+Baseline captured before any V3 implementation work: v2_pre_implementation_hashes.txt
+Files checked: 32
+
+MATCH     docs/final_v2_system_specification.md
+MATCH     r5_2/manual/probabilistic_physics_coefficient_bootstrap_v1.csv
+MATCH     r5_2/manual/probabilistic_physics_loyo_residuals_v1.csv
+MATCH     results/final_v2/freeze_manifest.json
+MATCH     weather/output/final_integration/applicability_gate_v2.md
+MATCH     weather/output/final_integration/future_prospective_event_ledger_schema_v2.csv
+MATCH     weather/output/final_integration/indy500_final_project_freeze_manifest_v1.json
+MATCH     weather/output/final_integration/indy500_final_v2_freeze_manifest.json
+MATCH     weather/output/final_integration/indy500_final_v2_system_specification.md
+MATCH     weather/output/hrrr_ims_2020_2024_features.csv
+MATCH     weather/output/operational_curve_v2/freeze/operational_curve_v2_freeze_manifest.json
+MATCH     weather/output/operational_curve_v2/operational_curve_metadata_v2.json
+MATCH     weather/output/operational_curve_v2/operational_performance_curve_v2.csv
+MATCH     weather/output/v2_future_track/future_track_residuals_v1.csv
+MATCH     weather/output/v2_future_track/future_track_samples_with_solar_v1.csv
+MATCH     weather/output/v2_future_track/v2a_final_results_table_v1.csv
+MATCH     weather/output/v2_future_track/v2a_freeze_manifest_v1.json
+MATCH     weather/output/v2_future_track/v2a_full_sample_track_model_coefficients_v1.csv
+MATCH     weather/output/v2_future_track/v2a_operational_scenario_outlook_v1.csv
+MATCH     weather/output/v2_future_track/v2a_performance_mc_integration_v1.csv
+MATCH     weather/output/v2b_section_mechanism/v2b_freeze_manifest_v1.json
+MATCH     weather/output/v2c_wind_diagnostic/v2c_freeze_manifest_v1.json
+MATCH     weather/output/v2d_uncertainty_ablation/v2d_freeze_manifest_v1.json
+MATCH     weather/output/v2e_scenario_stress_test/v2e_freeze_manifest_v1.json
+MATCH     weather/scripts/build_operational_curve_v2.py
+MATCH     weather/scripts/final_project_freeze.py
+MATCH     weather/scripts/final_v2_freeze.py
+MATCH     weather/scripts/freeze_operational_curve_v2.py
+MATCH     weather/scripts/v2_add_solar_features.py
+MATCH     weather/scripts/v2_build_future_track_samples.py
+MATCH     weather/scripts/v2_future_track_conformal_calibration.py
+MATCH     weather/scripts/v2_integrate_track_to_performance_mc.py
+
+========================================================================
+OVERALL RESULT: PASS
+========================================================================

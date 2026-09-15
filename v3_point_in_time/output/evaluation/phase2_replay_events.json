@@ -1,0 +1,76 @@
+[
+  {
+    "applicability_status": "OUT_OF_SUPPORT",
+    "case_id": "2021_car12",
+    "decision_time": "2021-05-22T17:21:36Z",
+    "note": "realised horizon exceeds 120 min production boundary"
+  },
+  {
+    "applicability_status": "OUT_OF_SUPPORT",
+    "case_id": "2021_car18",
+    "decision_time": "2021-05-22T16:19:56Z",
+    "note": "realised horizon exceeds 120 min production boundary"
+  },
+  {
+    "applicability_status": "OUT_OF_SUPPORT",
+    "case_id": "2021_car2",
+    "decision_time": "2021-05-22T16:39:06Z",
+    "note": "realised horizon exceeds 120 min production boundary"
+  },
+  {
+    "applicability_status": "OUT_OF_SUPPORT",
+    "case_id": "2021_car21",
+    "decision_time": "2021-05-22T16:43:16Z",
+    "note": "realised horizon exceeds 120 min production boundary"
+  },
+  {
+    "applicability_status": "OUT_OF_SUPPORT",
+    "case_id": "2021_car26",
+    "decision_time": "2021-05-22T18:12:27Z",
+    "note": "realised horizon exceeds 120 min production boundary"
+  },
+  {
+    "applicability_status": "OUT_OF_SUPPORT",
+    "case_id": "2021_car4",
+    "decision_time": "2021-05-22T17:44:56Z",
+    "note": "realised horizon exceeds 120 min production boundary"
+  },
+  {
+    "applicability_status": "OUT_OF_SUPPORT",
+    "case_id": "2021_car47",
+    "decision_time": "2021-05-22T17:49:06Z",
+    "note": "realised horizon exceeds 120 min production boundary"
+  },
+  {
+    "applicability_status": "SUPPORTED",
+    "case_id": "2021_car60",
+    "current_ambient_temp_c": 27.77777777777778,
+    "current_official_speed": null,
+    "current_track_temp_c": 38.333333333333336,
+    "decision_time": "2021-05-22T17:58:16Z",
+    "forecast_issue_time": "2021-05-22T17:00:00Z",
+    "forecast_vintage_id": "HRRR:20210522:2:2021-05-22 17:00:00+00:00:2021-05-22 19:00:00+00:00",
+    "input_hash": "7e1a5a5828004acf8d76a503c93f77cfa3bd4bc1fb2525ec916d83329b3e782f",
+    "outlook_60min": {
+      "expected_delta_v": 0.023574048313559002,
+      "p_improve": 0.5217,
+      "pi80": [
+        -0.7440452388247273,
+        0.7983856753185113
+      ]
+    },
+    "prediction_hash": "a5d950014f1f5f13131183b334604fa86e7dd654427a73f58b7962be8cbf0588"
+  },
+  {
+    "applicability_status": "OUT_OF_SUPPORT",
+    "case_id": "2021_car7",
+    "decision_time": "2021-05-22T17:35:46Z",
+    "note": "realised horizon exceeds 120 min production boundary"
+  },
+  {
+    "applicability_status": "OUT_OF_SUPPORT",
+    "case_id": "2021_car86",
+    "decision_time": "2021-05-22T17:11:36Z",
+    "note": "realised horizon exceeds 120 min production boundary"
+  }
+]

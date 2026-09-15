@@ -1,0 +1,34 @@
+# Phase 5 Step 17 -- containerized FINAL_V3 application.
+#
+# Run scripts/prepare_docker_context.sh once (or after any change to a
+# frozen dependency / v3_point_in_time content) before `docker compose
+# build`, since the api service's build context is the staged,
+# minimal-file-set directory it produces.
+services:
+  api:
+    build:
+      context: docker/build_context
+      dockerfile: ../Dockerfile.api
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    # Phase 5 Step 19 -- the real immutability enforcement. chmod 444
+    # (set in Dockerfile.api) does not stop a root-owned process from
+    # writing its own files; a read-only root filesystem does, at the
+    # kernel/mount level, regardless of UID. /tmp is the only writable
+    # path, for whatever ephemeral scratch space uvicorn/Python want.
+    read_only: true
+    tmpfs:
+      - /tmp
+    environment:
+      - PYTHONDONTWRITEBYTECODE=1
+
+  frontend:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.frontend
+    ports:
+      - "8080:80"
+    depends_on:
+      - api
+    restart: unless-stopped

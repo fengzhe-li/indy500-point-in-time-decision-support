@@ -1,0 +1,56 @@
+{
+  "status": "FINAL_V3_FROZEN",
+  "frozen_at_utc": "2026-09-15T17:19:07.540349Z",
+  "scientific_core_version": "FINAL_V2",
+  "application_version": "FINAL_V3",
+  "supported_horizons_min": [
+    15,
+    30,
+    60,
+    90,
+    120
+  ],
+  "known_scientific_boundaries": [
+    "does_not_estimate_P(H=h)",
+    "no_queue_model",
+    "no_retain_recommendation",
+    "no_withdraw_recommendation",
+    "no_optimal_waiting_time",
+    "historical_scoring_formally_supported_count_is_0",
+    "illustrative_case_2021_car60_excluded_from_aggregate_validation"
+  ],
+  "test_status": {
+    "python_tests_pass": true,
+    "frontend_tests_pass": true,
+    "frontend_build_pass": true,
+    "v2_immutability_pass": true,
+    "behavioural_regression_pass": true,
+    "smoke_test_pass": true,
+    "docker_build_verified_this_run": true,
+    "docker_runtime_verified_this_run": true
+  },
+  "hash_ledgers": {
+    "frozen_final_v2_dependencies": "FINAL_V3_HASHES.csv (category=frozen_final_v2_dependency), 32 files",
+    "v3_scientific_source": "FINAL_V3_HASHES.csv (category=scientific_src)",
+    "historical_replay_evidence": "v3_point_in_time/output/phase3_freeze/phase3_hashes.csv",
+    "application_source": "FINAL_V3_HASHES.csv (category=application_app, application_api, frontend_src, docker, config)",
+    "scenario_interface_source": "FINAL_V3_HASHES.csv (category=application_app, path=v3_point_in_time/app/scenario_service.py)",
+    "documentation": "FINAL_V3_HASHES.csv (category=documentation)"
+  },
+  "not_to_be_called": "anything other than FINAL_V3_FROZEN",
+  "files": [
+    "FINAL_V3_SUMMARY.txt",
+    "FINAL_V3_SYSTEM_SPECIFICATION.md",
+    "FINAL_V3_MODEL_CARD.md",
+    "FINAL_V3_QA_REPORT.md",
+    "FINAL_V3_SCIENTIFIC_LIMITATIONS.md",
+    "FINAL_V3_ARCHITECTURE.md",
+    "FINAL_V3_TEST_SUMMARY.txt",
+    "FINAL_V3_API_CONTRACT.json",
+    "FINAL_V3_UI_ROUTE_MANIFEST.json",
+    "FINAL_V3_CONTAINER_ASSET_MANIFEST.json",
+    "FINAL_V3_SOURCE_MANIFEST.csv",
+    "FINAL_V3_HASHES.csv",
+    "FINAL_V3_FREEZE_MANIFEST.json"
+  ]
+}

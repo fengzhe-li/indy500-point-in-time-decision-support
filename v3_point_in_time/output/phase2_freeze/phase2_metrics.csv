@@ -1,0 +1,12 @@
+metric,value,note
+n_total_candidate_cases,10,real transitions with unambiguous pair + usable timestamps
+n_supported_le_120min,1,evaluated with FINAL_V2 scientific inference
+n_out_of_support_gt_120min,9,realised horizon exceeds production boundary; not evaluated
+single_case_id,2021_car60,
+single_case_observed_delta_v,4.695,
+single_case_forecast_expected_delta_v,0.023574048313559002,
+single_case_realised_env_expected_delta_v,0.04510928809192261,
+single_case_absolute_error_forecast,4.671425951686441,
+single_case_absolute_error_realised_env,4.6498907119080775,
+single_case_forecast_target_time_error_minutes,1.73,
+MAE_RMSE_coverage_aggregate,NOT_COMPUTED,N=1 is statistically meaningless for aggregate error/coverage statistics

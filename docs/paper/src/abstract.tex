@@ -1,0 +1,34 @@
+Indianapolis 500 qualifying creates a distinctive sequential decision problem once a car has established a
+valid four-lap result: a team may withdraw that result and enter a higher-priority queue in pursuit of an
+earlier reattempt, or retain it and wait for another opportunity while the physical environment evolves.
+Historical investigation showed that queue entry, lane state, withdrawal timing, requeue behaviour and team
+intent could not be reconstructed consistently enough across seasons to support a defensible waiting-time
+model. The problem was therefore reformulated conditionally: if another on-track opportunity occurs $h$
+minutes from now, what distribution of four-lap performance change should be expected relative to the
+car's current official result? The resulting scientific target is $p(\Delta v \mid H=h)$, deliberately not
+$P(H=h)$.
+
+A frozen 2020--2024 performance core of 41 evidence-qualified same-car transitions was reconstructed with
+explicit provenance, confidence and quarantine rules. A zero-intercept physical-response model links changes
+in track and ambient temperature to changes in four-lap average speed; a separately validated future
+track-state model propagates horizon, future ambient-temperature change, current thermal gap and solar
+state. Three uncertainty sources -- future track-state uncertainty, bootstrap coefficient uncertainty, and
+empirical attempt-level residual variation -- are combined by Monte Carlo simulation into calibrated
+probabilistic outlooks at five validated horizons (15, 30, 60, 90, 120 minutes). Externally, on 15 eligible
+2025 hybrid-era repeat attempts using realised environmental conditions, the frozen inference core achieved
+MAE $=0.492$ mph, median absolute error $=0.425$ mph, RMSE $=0.610$ mph, 80\% predictive-interval
+coverage of 80\%, 90\% coverage of 100\%, and directional accuracy of 46.7\%.
+
+That evaluation isolates the physical-inference layer using realised future weather rather than a live forecast.
+A subsequent point-in-time evaluation layer was therefore constructed on top of the same frozen scientific
+core: a forecast-vintage store enforcing \texttt{forecast.issue\_time} $\le$ \texttt{decision\_time}, an
+immutable-snapshot historical shadow replay, and evidence-aware abstention that reports, rather than hides,
+every case the available evidence cannot support. Of 41 historical same-car transitions, only 10 yield a
+genuine, non-fabricated point-in-time decision case; of those, 9 support a full five-horizon conditional
+physical outlook while their realised recurrence falls outside the 120-minute calibrated boundary, and exactly
+one -- retained explicitly as an illustrative diagnostic, never as validation evidence -- falls near a calibrated
+anchor. We report plainly that the point-in-time architecture and leakage controls are demonstrated in
+running software, while statistically meaningful point-in-time forecast validation remains, on the currently
+available evidence, not established. The system does not predict queue waiting time, next-opportunity time,
+or an optimal retain/withdraw strategy; it is intended as one quantitative layer within a broader human
+pit-wall decision.

@@ -1,0 +1,24 @@
+{
+  "applicability_status": "SUPPORTED",
+  "car_or_entry_id": "21",
+  "created_at": "2026-09-15T15:11:25.834030Z",
+  "decision_time": "2021-05-22T16:43:16Z",
+  "event_year": 2021,
+  "expected_delta_v": -0.015907755269267743,
+  "forecast_vintage_ids": [
+    "HRRR:20210522:1:2021-05-22 16:00:00+00:00:2021-05-22 17:00:00+00:00"
+  ],
+  "horizon_minutes": 30,
+  "input_hash": "6c05a137e171e0e1d69c09148d055ced0a8e58ff6b29a27683b3e5073e906314",
+  "median_delta_v": -0.012647134864504438,
+  "model_hash": "008900eb428ad820bea907f91fe7c77a7e5965b56e20993b5acf9aed7627099d",
+  "model_version": "FINAL_V2",
+  "p_improve": 0.49005,
+  "pi80_high": 0.7538705191266034,
+  "pi80_low": -0.7515558681187015,
+  "pi90_high": 1.21495586214162,
+  "pi90_low": -1.2339678622500363,
+  "prediction_hash": "9f735b72c066b1b4f1c99c971bf2361474858c87591bb8b21de6beca1798d64f",
+  "prediction_id": "phase3:2021_car21:h30",
+  "snapshot_id": "phase3:2021_car21"
+}

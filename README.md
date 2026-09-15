@@ -4,9 +4,9 @@
 
 ### Physics-conditioned probabilistic inference for a decision that public history cannot fully identify
 
-**FINAL_V2 frozen scientific core** · **2020–2024 reference era** · **2025 external regime evaluation** · **Human in the loop**
+**FINAL_V2 frozen scientific core** · **2020–2024 reference era** · **2025 external regime evaluation** · **FINAL_V3 point-in-time application layer** · **Human in the loop**
 
-[Methodology](docs/methodology.md) · [Model card](docs/model-card.md) · [Validation](docs/validation.md) · [Evidence engineering](docs/evidence-engineering.md) · [Full report](docs/paper/physics_conditioned_probabilistic_performance_inference.pdf)
+[Methodology](docs/methodology.md) · [Model card](docs/model-card.md) · [Validation](docs/validation.md) · [Evidence engineering](docs/evidence-engineering.md) · [Full report](docs/paper/physics_conditioned_probabilistic_performance_inference.pdf) · [**FINAL_V3 application →**](v3_point_in_time/README.md)
 
 </div>
 
@@ -28,6 +28,116 @@
 | External directional accuracy | **46.7%** | Weak direction discrimination, reported without concealment |
 
 The model is more useful as a **probabilistic physical-opportunity envelope** than as a binary prediction that the next run will be faster. Of the 15 external cases, **4** lie inside the production boundary of ≤120 minutes; that subset has MAE **0.221 mph**, RMSE **0.269 mph**, 80% coverage **100%**, 90% coverage **100%**, and directional accuracy **50%**. These four cases are too few for a broad calibration claim.
+
+## FINAL_V3: point-in-time application layer
+
+**Status: `FINAL_V3_FROZEN`.** On top of the frozen `FINAL_V2` scientific core above, a second engineering
+layer turns the model into an auditable, evidence-aware decision-support application: a point-in-time
+historical replay system, a strictly isolated hypothetical scenario mode, a FastAPI + React/TypeScript
+application, and Docker/CI packaging. None of it changes a single frozen coefficient, residual pool, or
+calibration file — see [`v3_point_in_time/`](v3_point_in_time/) for the full subsystem.
+
+![FINAL_V3 architecture](figures/final_v3/figureA_final_v3_architecture.png)
+
+Two paths share the frozen scientific core and nothing else: a **historical path** that only ever reads
+already-frozen, point-in-time-controlled evidence through a read-only API, and a **hypothetical path** that
+runs the same frozen adapter on user-supplied hypothetical input and returns an ephemeral result that can
+never be written back into historical evidence. Neither path estimates opportunity timing, models a queue,
+or issues a retain/withdraw recommendation.
+
+### Historical Shadow Replay
+
+A forecast-vintage store enforces `forecast.issue_time <= decision_time` before any historical inference is
+issued; a fail-closed guard independently re-checks the same invariant. The replay engine then separates two
+questions that are easy to conflate but must not be:
+
+- **Inference support** — can the frozen model issue a conditional outlook `p(Δv | H=h)` at a calibrated
+  horizon, given the current physical state and an available forecast vintage?
+- **Historical scoring support** — can a realised historical outcome be defensibly paired with that outlook
+  and scored?
+
+| Evidence / result | Value |
+|---|---:|
+| Same-car transitions in the frozen 2020–2024 core | 41 |
+| Excluded / abstained pre-candidates (ambiguous pairing or no usable timestamp) | 31 |
+| Genuine point-in-time candidate cases | 10 |
+| Cases with full 5-horizon inference support | 9 |
+| Cases abstained from historical scoring (realised horizon > 120 min) | 9 |
+| Illustrative-only shadow case (2021, car 60) | 1 |
+| Cases contributing to formal aggregate historical-scoring validation | **0** |
+
+**Point-in-time architecture and leakage control: demonstrated. Statistically meaningful point-in-time
+forecast validation: not established.** This is reported as an evidence/identifiability boundary, the same way
+the rest of this project treats unidentifiable quantities — not concealed, not padded with a larger but less
+defensible sample. The one near-anchor case (2021, car 60) is retained as `ILLUSTRATIVE_POINT_IN_TIME_SHADOW_CASE`
+only, is never counted toward validation, and is featured because it demonstrates a genuine evidence/model
+boundary: its forecast-conditioned (+0.0236 mph) and realised-environment (+0.0451 mph) expectations were
+close to each other, while the observed change (+4.695 mph) was far larger than either.
+
+### Hypothetical Scenario Mode
+
+A separate, isolated interface (`POST /api/scenario/infer`) runs the identical frozen `FINAL_V2` adapter on
+user-supplied hypothetical current-state input, for demonstration and exploration. Every response is labelled
+`HYPOTHETICAL_SCENARIO` / `NOT_HISTORICAL_EVIDENCE`, uses a minimum input contract derived directly from what
+the frozen adapter requires, and is never written to any historical store or counted in any validation metric.
+
+### Evidence-Aware Abstention
+
+Wherever evidence does not support an inference or a historical score, the system says so explicitly with a
+machine-readable reason code (`INSUFFICIENT_ATTEMPT_TIMESTAMP`, `HORIZON_OUT_OF_SUPPORT`,
+`NON_ANCHOR_EVALUATION_NOT_APPROVED`, ...) rather than silently dropping the case. Abstention is a first-class,
+auditable output, not an application error.
+
+### Application
+
+| Pit-Wall Outlook | Scenario Mode |
+|---|---|
+| ![Pit-Wall Outlook](v3_point_in_time/output/final_ui_preview/01_pit_wall_outlook.png) | ![Scenario Mode](v3_point_in_time/output/final_ui_preview/02_scenario_mode.png) |
+| Conditional physical outlook across all five calibrated horizons for the deterministically selected, non-illustrative default case. | Hypothetical scenario inference, clearly labelled `HYPOTHETICAL SCENARIO — NOT HISTORICAL EVIDENCE`. |
+
+| Historical Shadow Replay | Validation & Abstention |
+|---|---|
+| ![Historical Shadow Replay](v3_point_in_time/output/final_ui_preview/03_historical_replay.png) | ![Validation and Abstention](v3_point_in_time/output/final_ui_preview/05_validation_abstention.png) |
+| Time-ordered replay events with an explicit information-cutoff boundary between what was known at time *t* and what was only observed later. | Authoritative evidence counts and abstention-reason breakdown, read live from the same frozen Phase 3 output as the numbers above. |
+
+### Quick start
+
+```bash
+pip install -r v3_point_in_time/requirements.txt
+cd v3_point_in_time/frontend && npm install && cd ../..
+
+./v3_point_in_time/scripts/run_v3_app.sh
+# API:      http://127.0.0.1:8000  (docs at /docs)
+# Frontend: http://127.0.0.1:5173
+```
+
+### Docker
+
+```bash
+cd v3_point_in_time
+./scripts/prepare_docker_context.sh   # stages a minimal (~3.6 MB) build context
+docker compose up --build
+# API:      http://localhost:8000
+# Frontend: http://localhost:8080
+```
+
+The API container's filesystem is mounted read-only at runtime and runs as a non-root user, so frozen
+scientific assets cannot be modified even by the process serving them.
+
+### Testing
+
+```bash
+python3 -m unittest discover -s v3_point_in_time/tests -p 'test_*.py' -v   # 92 tests
+cd v3_point_in_time/frontend && npx vitest run                              # 9 tests
+python3 v3_point_in_time/scripts/smoke_test.py                              # end-to-end smoke test
+```
+
+**`FINAL_V3_FROZEN`** · **101/101 tests PASS** · **V2 immutability PASS (32/32 frozen dependencies byte-identical)**
+· **V3↔V2 behavioural regression PASS**. These are engineering-verification results, not the project's
+scientific finding — the primary results remain the 41-transition reference core, the 2025 external
+physical-layer evaluation, and the qualified cross-regime transferability evidence above. Full detail:
+[`v3_point_in_time/README.md`](v3_point_in_time/README.md), [architecture](v3_point_in_time/output/final_documentation/final_v3_architecture.md),
+[model card](v3_point_in_time/output/final_documentation/FINAL_V3_MODEL_CARD.md), [scientific limitations](v3_point_in_time/output/final_documentation/scientific_limitations.md).
 
 ## The engineering problem
 
@@ -236,9 +346,11 @@ weather/                  observed weather, future-state model and FINAL_V2 outp
 r5_2/                     frozen 2020–2024 physical-response core
 r6_regime_extension/      2019/2025 regime evidence and external evaluation
 figures/portfolio/        curated GitHub visual narrative
+figures/final_v3/         FINAL_V3 architecture/evidence-flow/illustrative-case figures
 docs/                     technical documentation and final report
 scripts/                  presentation regeneration and integrity checks
 tests/                    pipeline and portfolio QA
+v3_point_in_time/         FINAL_V3: point-in-time replay, Scenario Mode, FastAPI + React app, Docker, CI
 ```
 
 For the detailed module and status inventory, open [the repository guide](docs/reproducibility.md) and [figure gallery](figures/GALLERY.md).
@@ -253,6 +365,9 @@ For the detailed module and status inventory, open [the repository guide](docs/r
 - 2022 shows a marked thermal-regime shift and future-track interval undercoverage.
 - Wind proxies do not represent the spatial aerodynamic exposure around the oval.
 - Technical transferability is qualified; qualifying-format applicability must be checked separately.
+- FINAL_V3's point-in-time evidence base yields only 10 genuine candidate cases and 0 cases with formal aggregate historical-scoring support; statistically meaningful point-in-time forecast validation is not established (architecture and leakage control are demonstrated in running software; evidence volume is the limitation, not infrastructure).
+- The one near-anchor point-in-time case (2021, car 60) is illustrative only and must never be read as validation.
+- Neither FINAL_V2 nor FINAL_V3 models opportunity timing, queue state, or a retain/withdraw strategy, historically or hypothetically.
 
 ## Documentation
 
@@ -267,10 +382,24 @@ For the detailed module and status inventory, open [the repository guide](docs/r
 - [Reproducibility](docs/reproducibility.md)
 - [Technical challenges](docs/technical_challenges.md)
 - [FINAL_V2 system specification](docs/final_v2_system_specification.md)
-- [Full research report](docs/paper/physics_conditioned_probabilistic_performance_inference.pdf)
+- [Full research report](docs/paper/physics_conditioned_probabilistic_performance_inference.pdf) (includes FINAL_V3 Section 10, "Point-in-Time Historical Shadow Evaluation")
+- [FINAL_V3 application README](v3_point_in_time/README.md)
+- [FINAL_V3 architecture](v3_point_in_time/output/final_documentation/final_v3_architecture.md)
+- [FINAL_V3 model card](v3_point_in_time/output/final_documentation/FINAL_V3_MODEL_CARD.md)
+- [FINAL_V3 system specification](v3_point_in_time/output/final_documentation/FINAL_V3_SYSTEM_SPECIFICATION.md)
+- [FINAL_V3 scientific limitations](v3_point_in_time/output/final_documentation/scientific_limitations.md)
+- [FINAL_V3 QA report](v3_point_in_time/output/qa/final_v3_qa_report.md)
 
 ## Author and citation
 
 **Fengzhe Li** · University College London
 
-If this repository informs your work, cite the project and the versioned frozen artefacts used. The scientific core is `FINAL_V2`; the regulation-aware evidence extension is `R6_REGULATION_AWARE_EXTENSION_V1_FROZEN`.
+If this repository informs your work, cite the project and the versioned frozen artefacts used. The scientific core is `FINAL_V2`; the regulation-aware evidence extension is `R6_REGULATION_AWARE_EXTENSION_V1_FROZEN`; the point-in-time application layer is `FINAL_V3_FROZEN`.
+
+## Status
+
+| Layer | Status |
+|---|---|
+| Scientific core | `FINAL_V2` — frozen |
+| Regulation-aware evidence extension | `R6_REGULATION_AWARE_EXTENSION_V1_FROZEN` |
+| Point-in-time application layer | `FINAL_V3_FROZEN` — 101/101 tests PASS, V2 immutability PASS, V3↔V2 behavioural regression PASS |

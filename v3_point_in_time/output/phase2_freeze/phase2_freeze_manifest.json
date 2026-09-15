@@ -1,0 +1,17 @@
+{
+  "files": [
+    "phase2_summary.txt",
+    "phase2_metrics.csv",
+    "phase2_case_table.csv",
+    "phase2_source_manifest.csv",
+    "phase2_hashes.csv"
+  ],
+  "frozen_at_utc": "2026-09-15T14:48:28.960519Z",
+  "n_out_of_support": 9,
+  "n_supported": 1,
+  "n_total_candidate_cases": 10,
+  "not_to_be_called": "FINAL_V3",
+  "phase": 2,
+  "sample_size_caveat": "N=1 supported case. No aggregate error/coverage statistics are computed or claimed. This freeze demonstrates the point-in-time execution path end-to-end on real evidence, not a validated performance benchmark.",
+  "status": "V3_PHASE2_POINT_IN_TIME_EVALUATION_FROZEN"
+}

@@ -1,0 +1,59 @@
+{
+  "app": "INDY 500 V3 Pit-Wall Decision Support",
+  "routing_model": "single-page, in-memory tab state (no react-router dependency)",
+  "pages": [
+    {
+      "key": "outlook",
+      "title": "Pit-Wall Outlook",
+      "component": "src/pages/PitWallOutlook.tsx",
+      "consumes": [
+        "/api/replay/cases",
+        "/api/replay/cases/{id}",
+        "/api/replay/cases/{id}/events",
+        "/api/replay/cases/{id}/outlook",
+        "/api/replay/cases/{id}/scoring"
+      ]
+    },
+    {
+      "key": "scenario",
+      "title": "Scenario Mode",
+      "component": "src/pages/ScenarioMode.tsx",
+      "consumes": [
+        "/api/scenario/schema",
+        "/api/scenario/infer"
+      ]
+    },
+    {
+      "key": "replay",
+      "title": "Historical Shadow Replay",
+      "component": "src/pages/HistoricalReplay.tsx",
+      "consumes": [
+        "/api/replay/cases",
+        "/api/replay/cases/{id}",
+        "/api/replay/cases/{id}/events",
+        "/api/replay/cases/{id}/scoring"
+      ]
+    },
+    {
+      "key": "evidence",
+      "title": "Evidence & Explanation",
+      "component": "src/pages/EvidenceExplanation.tsx",
+      "consumes": [
+        "/api/predictions/{id}",
+        "/api/predictions/{id}/provenance",
+        "/api/predictions/{id}/explanation"
+      ]
+    },
+    {
+      "key": "validation",
+      "title": "Validation / Applicability / Abstention",
+      "component": "src/pages/ValidationAbstention.tsx",
+      "consumes": [
+        "/api/validation/summary",
+        "/api/replay/cases",
+        "/api/replay/abstentions"
+      ]
+    }
+  ],
+  "scientific_recomputation_in_frontend": false
+}

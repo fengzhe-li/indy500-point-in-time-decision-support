@@ -1,0 +1,23 @@
+========================================================================
+INDY 500 V3 -- FINAL_V3 FREEZE SUMMARY
+========================================================================
+
+Status: FINAL_V3_FROZEN
+
+This is the final planned development phase for this subsystem.
+No Phase 6 is planned.
+
+Python tests: PASS -- Ran 92 tests in 10.584s
+V2 immutability: PASS
+V3<->V2 behavioural regression: PASS
+Smoke test: PASS
+Frontend tests: PASS -- Tests  9 passed (9)
+Frontend build: PASS
+Docker build: PASS
+Docker runtime: PASS
+
+Scientific target: p(delta_v | H=h) for h in {15,30,60,90,120} minutes.
+Does not estimate P(H=h), queue waiting time, or a retain/withdraw
+recommendation, in either historical replay or Scenario Mode.
+
+Frozen at: 2026-09-15T17:19:07.540079Z

@@ -6,3 +6,14 @@ __pycache__/
 venv/
 tmp/
 *.log
+*.aux
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+*.bbl
+*.blg
+node_modules/
+v3_point_in_time/docker/build_context/
+v3_point_in_time/frontend/dist/

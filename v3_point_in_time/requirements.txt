@@ -1,0 +1,22 @@
+# Phase 5 Step 16 -- dependency locking for the V3 point-in-time layer
+# (Phase 1-5: science, API, and scripts under v3_point_in_time/).
+#
+# Scope: exactly what src/, app/, api/, scripts/, and tests/ import,
+# plus pdfplumber/pandas which pipeline.reconcile (used read-only by
+# scripts/run_phase2_evaluation.py and scripts/run_phase3_replay.py)
+# requires. Does not attempt to lock the entire parent repository's
+# dependency set -- most of it (parsers for unrelated data sources,
+# etc.) is out of scope for this subsystem.
+#
+# Install with: pip install -r v3_point_in_time/requirements.txt
+
+fastapi==0.141.1
+uvicorn[standard]==0.53.0
+httpx==0.28.1
+pytest==9.1.1
+PyYAML==6.0.3
+pandas==3.0.5
+numpy==2.5.3
+matplotlib==3.11.1
+pdfplumber==0.11.10
+scikit-learn==1.9.0
