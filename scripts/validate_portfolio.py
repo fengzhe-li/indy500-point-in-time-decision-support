@@ -30,10 +30,14 @@ def require(condition: bool, message: str) -> None:
 
 def main() -> None:
     readme = (ROOT / "README.md").read_text(encoding="utf-8")
-    image_refs = re.findall(r"!\[[^]]*\]\(([^)]+)\)", readme)
+    all_image_refs = re.findall(r"!\[[^]]*\]\(([^)]+)\)", readme)
+    # Remote badges (e.g. GitHub Actions status badges) are not local figure
+    # files and are not expected to resolve on disk; only local figure paths
+    # are checked here.
+    image_refs = [ref for ref in all_image_refs if not ref.startswith(("http://", "https://"))]
     require(bool(image_refs), "README contains figures")
     missing = [ref for ref in image_refs if not (ROOT / ref).is_file()]
-    require(not missing, f"all {len(image_refs)} README figure references resolve")
+    require(not missing, f"all {len(image_refs)} README local figure references resolve")
 
     core = json.loads((ROOT / "r5_2/manual/probabilistic_physics_core_v1.json").read_text())
     require(abs(core["mean_core"]["full_data_huber_coefficients"]["delta_track_temp_c"] + 0.03482532976361639) < 1e-12, "frozen track coefficient matches README")

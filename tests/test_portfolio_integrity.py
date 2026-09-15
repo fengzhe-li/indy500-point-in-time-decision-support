@@ -10,7 +10,10 @@ ROOT = Path(__file__).resolve().parents[1]
 class PortfolioIntegrityTests(unittest.TestCase):
     def test_readme_images_exist(self):
         text = (ROOT / "README.md").read_text(encoding="utf-8")
-        refs = re.findall(r"!\[[^]]*\]\(([^)]+)\)", text)
+        all_refs = re.findall(r"!\[[^]]*\]\(([^)]+)\)", text)
+        # Remote badges (e.g. GitHub Actions status badges) are not local
+        # figure files and are not expected to resolve on disk.
+        refs = [ref for ref in all_refs if not ref.startswith(("http://", "https://"))]
         self.assertGreaterEqual(len(refs), 12)
         self.assertEqual([], [ref for ref in refs if not (ROOT / ref).is_file()])
 
