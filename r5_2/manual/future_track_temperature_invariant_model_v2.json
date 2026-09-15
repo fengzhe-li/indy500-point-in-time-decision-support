@@ -1,0 +1,28 @@
+{
+  "version": "R5.2_FUTURE_TRACK_TEMP_INVARIANT_V2",
+  "target": "delta_track_temp_c",
+  "model": "THERMAL_CORE_INVARIANT",
+  "features": [
+    "horizon_hours",
+    "horizon_x_track_state",
+    "delta_ambient_temp_c"
+  ],
+  "track_reference_c": 40.0,
+  "fit": "zero-intercept Huber",
+  "coefficients": {
+    "horizon_hours": 1.2401651894949368,
+    "horizon_x_track_state": -0.13069421674273024,
+    "delta_ambient_temp_c": 1.1933366012769153
+  },
+  "physical_invariance": {
+    "wait_zero_implies_delta_track_zero": true
+  },
+  "residual": {
+    "source": "leave-one-year-out",
+    "mean": -0.04770834429223424,
+    "median": -0.09583353957635932,
+    "sd": 2.068084319229811,
+    "p05": -3.6363430499099607,
+    "p95": 3.6676571061011916
+  }
+}

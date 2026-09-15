@@ -45,3 +45,4 @@ def total_seconds(text):
         return None
     minutes, seconds = text.strip().split(":")
     return round(int(minutes) * 60 + float(seconds), 4)
+

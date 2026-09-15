@@ -1,0 +1,3 @@
+year,input_clean_transitions,primary_safe_transitions,excluded_transitions,from_exact,from_interpolated,from_unsafe_gap,from_outside_range,to_exact,to_interpolated,to_unsafe_gap,to_outside_range
+2019,10,10,0,0,10,0,0,0,10,0,0
+2025,24,23,1,0,24,0,0,0,23,0,1

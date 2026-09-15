@@ -1,0 +1,27 @@
+{
+  "phase": "R4F9-D",
+  "status": "R4F9_EVALUATION_AND_REPLAY_FROZEN",
+  "probabilistic_replay": {
+    "n": 19,
+    "role": "RETROSPECTIVE_CALIBRATION_DIAGNOSTIC",
+    "external_holdout": false
+  },
+  "representative_cases": {
+    "selection": "DETERMINISTIC_RULE_BASED",
+    "manual_cherry_pick": false,
+    "n": 5
+  },
+  "last_chance": {
+    "n": 10,
+    "role": "DESCRIPTIVE_CASE_REPLAY_ONLY",
+    "numeric_final_qualification_probability_scored": false
+  },
+  "brier_reference": {
+    "type": "SAME_SAMPLE_CONSTANT_EVENT_RATE",
+    "interpretation": "descriptive climatology reference only"
+  },
+  "historical_actions_are_optimal_labels": false,
+  "model_refit_after_evaluation": false,
+  "r4f8h_reopened": false,
+  "final_research_boundary": "The system is evaluated as a decision-support simulator under frozen decision-time state, performance uncertainty, structural wait assumptions, cutoff sensitivity, and static observable benchmark semantics. It does not claim exact historical counterfactuals, empirical queue reconstruction, or dynamic final-rank prediction."
+}

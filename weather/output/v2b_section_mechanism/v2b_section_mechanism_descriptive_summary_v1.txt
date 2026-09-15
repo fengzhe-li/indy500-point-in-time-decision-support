@@ -1,0 +1,86 @@
+====================================================================================================
+INDY 500 V2-B SECTION MECHANISM DESCRIPTIVE SUMMARY
+====================================================================================================
+
+LINKAGE
+final physics core: 41
+transition identities linked: 39/41
+transitions with usable common complete sections: 39/39
+
+COMMON COMPLETE SECTION COUNT
+n_common_complete_sections
+9    39
+
+DIRECTION COHERENCE
+count    39.000000
+mean      0.723647
+std       0.208450
+min       0.333333
+10%       0.444444
+25%       0.555556
+50%       0.777778
+75%       0.888889
+90%       1.000000
+max       1.000000
+
+SECTION CHANGE DISPERSION
+count    39.000000
+mean      0.655272
+std       0.488590
+min       0.226990
+10%       0.329736
+25%       0.425880
+50%       0.531099
+75%       0.683814
+90%       1.037577
+max       3.110709
+
+MAX ABSOLUTE SECTION-CHANGE SHARE
+count    39.000000
+mean      0.236091
+std       0.056483
+min       0.171160
+10%       0.180365
+25%       0.193873
+50%       0.227326
+75%       0.257493
+90%       0.311669
+max       0.440702
+
+ABSOLUTE PHYSICS RESIDUAL
+count    39.000000
+mean      0.564586
+std       0.896232
+min       0.000000
+10%       0.065478
+25%       0.143544
+50%       0.291846
+75%       0.504382
+90%       1.190617
+max       4.617627
+
+LOWEST DIRECTION COHERENCE CASES
+ year  car_number         driver_name  delta_four_lap_average_speed_mph  direction_coherence  sd_delta_section_speed_mph  max_abs_section_change_share  abs_residual_loyo_centered
+ 2020           9         Scott Dixon                            -0.041             0.333333                    0.421283                      0.218911                    0.525302
+ 2023          27       Kyle Kirkwood                             0.045             0.333333                    0.343992                      0.339078                    0.022739
+ 2021          25       Stefan Wilson                            -0.020             0.444444                    0.801143                      0.242901                    0.369702
+ 2023          33        Ed Carpenter                            -0.109             0.444444                    0.522455                      0.204083                    0.348027
+ 2021          16 Simona De Silvestro                             0.222             0.444444                    0.537139                      0.440702                    0.291846
+ 2020           8     Marcus Ericsson                             0.094             0.444444                    0.582045                      0.189184                    0.259891
+ 2020           9         Scott Dixon                             0.102             0.444444                    0.856612                      0.245994                    0.168425
+ 2023          66         Tony Kanaan                             0.174             0.444444                    0.431023                      0.300497                    0.072437
+ 2020          47          Conor Daly                             0.071             0.555556                    0.857881                      0.231252                    0.372680
+ 2021           7    Felix Rosenqvist                             0.246             0.555556                    0.860048                      0.265557                    0.204801
+
+HIGHEST ABSOLUTE PHYSICS RESIDUAL CASES
+ year  car_number      driver_name  delta_four_lap_average_speed_mph  direction_coherence  sd_delta_section_speed_mph  max_abs_section_change_share  abs_residual_loyo_centered
+ 2021          60      Jack Harvey                             4.695             1.000000                    1.568689                      0.173908                    4.617627
+ 2023          77     Callum Ilott                             3.462             0.888889                    3.110709                      0.288101                    3.392225
+ 2020          81       Ben Hanley                             1.971             0.888889                    1.127358                      0.183910                    1.579455
+ 2021          26     Colton Herta                            -1.419             0.888889                    1.141755                      0.189098                    1.272254
+ 2020          59      Max Chilton                             1.484             1.000000                    1.015132                      0.250199                    1.170208
+ 2021           4   Dalton Kellett                            -0.927             0.888889                    0.661577                      0.236412                    0.954361
+ 2023          66      Tony Kanaan                             0.727             0.777778                    0.642127                      0.248330                    0.768755
+ 2023           6 Felix Rosenqvist                             0.848             1.000000                    0.428809                      0.197591                    0.719960
+ 2021          18         Ed Jones                             0.798             1.000000                    0.226990                      0.173853                    0.526164
+ 2020           9      Scott Dixon                            -0.041             0.333333                    0.421283                      0.218911                    0.525302

@@ -1,0 +1,31 @@
+{
+  "within_run_complete_lap4_rows": 110,
+  "within_run_full_physics_rows": 110,
+  "first_attempt_rows": 71,
+  "first_attempt_full_physics_rows": 71,
+  "same_car_repeat_transitions": 27,
+  "same_car_repeat_full_physics_rows": 27,
+  "years_with_first_run_sequence": [
+    "2020",
+    "2021",
+    "2023",
+    "2024"
+  ],
+  "within_run_by_year": {
+    "2020": 39,
+    "2021": 48,
+    "2023": 17,
+    "2024": 6
+  },
+  "first_run_by_year": {
+    "2020": 28,
+    "2021": 33,
+    "2023": 9,
+    "2024": 1
+  },
+  "repeat_by_year": {
+    "2020": 11,
+    "2021": 15,
+    "2023": 1
+  }
+}

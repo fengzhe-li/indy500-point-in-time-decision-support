@@ -1,0 +1,16 @@
+metric,value,expected,status
+2021_series_id_resolved,True,True,PASS
+2021_events_api_http_200,200,200,PASS
+2021_events_api_json,True,True,PASS
+2021_indy500_event_found,1,>0,PASS
+2023_series_id_resolved,True,True,PASS
+2023_events_api_http_200,200,200,PASS
+2023_events_api_json,True,True,PASS
+2023_indy500_event_found,1,>0,PASS
+2024_series_id_resolved,True,True,PASS
+2024_events_api_http_200,200,200,PASS
+2024_events_api_json,True,True,PASS
+2024_indy500_event_found,1,>0,PASS
+2021_last_chance_session_found,0,>0,WARN
+2023_last_chance_session_found,0,>0,WARN
+2024_last_chance_session_found,0,>0,WARN

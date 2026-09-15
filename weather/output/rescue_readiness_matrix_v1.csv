@@ -1,0 +1,16 @@
+﻿domain,status,historical_truth_quality,downstream_use,blocking_full_simulator,notes
+FOUR_LAP_PERFORMANCE,READY,HIGH,DIRECT,False,Canonical four-lap attempt performance is ready.
+LAP_PERFORMANCE,READY,HIGH,DIRECT,False,Lap-level performance is ready.
+PERFORMANCE_MODEL,READY_WITH_BASELINE_LIMITATIONS,LIMITED_MODEL_SIGNAL,PROBABILISTIC_BASELINE,False,Use uncertainty-aware baseline. Do not overstate predictive skill.
+WEATHER_FORECAST,READY,HIGH,DIRECT_DECISION_TIME_FEATURE,False,HRRR decision-time leakage controls preserved.
+OBSERVED_TRACK_TEMPERATURE,READY,HIGH,DIRECT_WHERE_TIME_ALIGNMENT_SUPPORTED,False,PTSC observed track temperature; no air-to-track proxy.
+2022_REPEAT_PAIR_CHRONOLOGY,READY_WITH_LIMITATIONS,PARTIAL_ORDERING,SUPPORTED_SUBSET,False,Decision-relevant repeat drivers covered: 8/8.
+ACTION_SEMANTICS,READY_WITH_LIMITATIONS,PARTIAL_SOURCE_NATIVE,SUPPORTED_SUBSET,False,Drivers with supported action semantics: 8/8.
+LANE_IDENTITY,PARTIAL,SPARSE,ONLY_EXPLICIT_ROWS,True,Explicit Lane1/Lane2 rows: 2.
+CONTEMPORANEOUS_RANK_CUTOFF,PARTIAL,PARTIAL,SUPPORTED_ANCHORS_ONLY,True,Decision-state rows: 7; rank rows: 0; cutoff rows: 7.
+QUEUE_MEMBERSHIP_POSITION,PARTIAL,SPARSE,SUPPORTED_ANCHORS_ONLY,True,Queue evidence rows: 5; explicit membership: 1; explicit position: 1.
+QUEUE_WAIT_TIME,LATENT,NOT_IDENTIFIABLE,LATENT_SENSITIVITY_VARIABLE,True,Do not use inter-attempt gap as queue wait.
+PIT_SERVICE_STATE,UNKNOWN_NOT_IDENTIFIABLE,NOT_IDENTIFIABLE,UNKNOWN,True,Service/refuel/cooling/tire/setup state must remain unknown.
+INTERRUPTION_TRACK_STATE,READY_WITH_LIMITATIONS,PARTIAL_EVENT_STATE,SUPPORTED_EVENT_ANCHORS,False,Rain-related grip/speed loss and terminal wet state supported; post-restart state unknown.
+RUBBER_GRIP_EVOLUTION,UNKNOWN_NOT_IDENTIFIABLE,NOT_IDENTIFIABLE,UNKNOWN,True,Elapsed time may not proxy track evolution.
+TIRE_THERMAL_PRESSURE,UNKNOWN_NOT_IDENTIFIABLE,NOT_IDENTIFIABLE,UNKNOWN,True,"No attempt-specific tire temperature, pressure, thermal, or fresh-tire truth."

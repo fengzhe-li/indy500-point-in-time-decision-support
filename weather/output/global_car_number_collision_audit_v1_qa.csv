@@ -1,0 +1,9 @@
+﻿metric,value,status
+canonical_loaded,329,PASS
+known_2022_car06_car6_collision_detected,1,PASS
+scripts_scanned,88,PASS
+output_csvs_scanned,247,PASS
+identity_key_numeric_normalization_used_by_this_audit,0,PASS
+canonical_data_mutated,0,PASS
+existing_output_data_mutated,0,PASS
+source_scripts_mutated,0,PASS

@@ -1,0 +1,53 @@
+{
+  "phase": "R4F6J_B",
+  "status": "R4F6J_B_TEMPORAL_SUPPORT_POTENTIAL_READY",
+  "purpose": "Measure strict repeat temporal support independently of current Fast Friday reference availability.",
+  "year_support": [
+    {
+      "year": 2020,
+      "primary_repeat_pairs": 13,
+      "both_point_time": 11,
+      "both_interval_time": 0,
+      "both_any_temporal": 11,
+      "both_chronology_usable": 0,
+      "both_environment_alignment_usable": 11
+    },
+    {
+      "year": 2021,
+      "primary_repeat_pairs": 16,
+      "both_point_time": 16,
+      "both_interval_time": 0,
+      "both_any_temporal": 16,
+      "both_chronology_usable": 0,
+      "both_environment_alignment_usable": 16
+    },
+    {
+      "year": 2022,
+      "primary_repeat_pairs": 7,
+      "both_point_time": 0,
+      "both_interval_time": 0,
+      "both_any_temporal": 0,
+      "both_chronology_usable": 7,
+      "both_environment_alignment_usable": 0
+    },
+    {
+      "year": 2023,
+      "primary_repeat_pairs": 5,
+      "both_point_time": 1,
+      "both_interval_time": 0,
+      "both_any_temporal": 1,
+      "both_chronology_usable": 0,
+      "both_environment_alignment_usable": 1
+    },
+    {
+      "year": 2024,
+      "primary_repeat_pairs": 2,
+      "both_point_time": 0,
+      "both_interval_time": 1,
+      "both_any_temporal": 1,
+      "both_chronology_usable": 1,
+      "both_environment_alignment_usable": 0
+    }
+  ],
+  "decision_rule": "If 2020-2022 have substantial point/interval temporal support, newly recovered Fast Friday references can materially expand strict repeat-window validation. If temporal support is absent, do not continue pursuing the local residual-window heuristic."
+}

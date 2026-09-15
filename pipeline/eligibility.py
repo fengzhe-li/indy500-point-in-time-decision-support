@@ -1,4 +1,4 @@
-from collections import Counter
+from collections import Counter, defaultdict
 from .config import CORE_PERFORMANCE_YEARS, RUN_RECORDED_AT
 
 TARGETS = ("FOUR_LAP_PERFORMANCE", "WITHIN_CAR_COMPARISON", "CHRONOLOGY", "QUEUE_CALIBRATION")

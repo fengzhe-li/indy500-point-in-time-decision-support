@@ -1,0 +1,11 @@
+﻿driver_name,attempt_count,attempt_ids,chronology_covered_before,chronology_covered_after,newly_fully_covered
+Alexander Rossi,2,1e2facfd-2c67-5b5a-9556-04ef28eeb0d8|b3147013-0fda-5982-bea1-85788019ef89,True,True,False
+Callum Ilott,2,3cd6d98a-da75-5822-8dae-05e83ad8457c|8fa25fec-e5a6-5844-b3d7-f67c9dc91378,False,True,True
+Colton Herta,2,784d352d-2b04-566e-8aef-19317c10d0fa|88fe3936-d77d-5a12-bdd7-0104979729da,False,False,False
+David Malukas,2,619575d3-e7eb-5cce-886f-0a8485b98eba|85c917fa-1c7a-52cb-a47f-468b4bdae9a5,False,False,False
+Helio Castroneves,2,01896a4f-c482-5093-a806-89bc4273641d|90eea27e-6e83-5e24-8428-811eae3ff157,True,True,False
+Josef Newgarden,2,83034975-303c-57b1-9190-95bc705d3941|a395f440-40c9-5b57-82bb-b5353a862b0f,True,True,False
+Marco Andretti,2,63982b5e-7639-5140-a6a2-702a77c2fc85|c044edbc-0f6c-5aab-bdef-9c4156b50617,False,False,False
+Sage Karam,3,2c453335-3a19-5653-8d5c-79d94db93028|4778bf12-3fb5-5321-b4ae-9dc2f0880c25|8e0c8731-4ddc-515a-949e-7902dd01eaeb,False,False,False
+Scott McLaughlin,2,43d9c081-67f5-5d6f-8b48-9db0ac683a6c|d2ae8749-6312-5afd-b193-dd23dc071124,True,True,False
+Takuma Sato,2,21e8c99e-b04c-516d-85a8-ccfbaed7ff46|3f221659-74ff-5901-97dc-08071a734690,False,False,False

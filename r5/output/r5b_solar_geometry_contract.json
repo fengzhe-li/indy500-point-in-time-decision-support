@@ -1,0 +1,12 @@
+{
+  "algorithm": "NOAA fractional-year equation-of-time/declination approximation",
+  "forcing_source": "decision-safe HRRR and past-safe PTSC",
+  "latitude_deg": 39.795,
+  "longitude_deg": -86.234,
+  "observation_unit": "one complete qualifying attempt",
+  "phase": "R5B",
+  "rows": 110,
+  "section_ids": "preserved in canonical section table; no section-specific environmental measurement claimed",
+  "timezone": "UTC",
+  "version": "R5B_SOLAR_GEOMETRY_V1"
+}

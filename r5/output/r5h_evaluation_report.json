@@ -1,0 +1,64 @@
+{
+  "ablations": [
+    {
+      "ablation": "A_NO_CHANGE",
+      "bias_mph": -0.47766666666667057,
+      "mae_mph": 0.6912222222222226,
+      "model": "BASELINE",
+      "n": 27,
+      "rmse_mph": 1.2911374973398582
+    },
+    {
+      "ablation": "C_PHYSICS_NO_TRACK",
+      "bias_mph": 1.270682612499996,
+      "mae_mph": 1.9797491928777735,
+      "model": "ABLATION_PHYSICS_NO_TRACK",
+      "n": 27,
+      "rmse_mph": 2.2890148241485906
+    },
+    {
+      "ablation": "D_PHYSICS_NO_SOLAR",
+      "bias_mph": 0.7111427463411071,
+      "mae_mph": 1.832464474473701,
+      "model": "ABLATION_PHYSICS_NO_SOLAR",
+      "n": 27,
+      "rmse_mph": 2.2134284900686074
+    },
+    {
+      "ablation": "E_FINAL_PHYSICS",
+      "bias_mph": 0.2154938120370332,
+      "mae_mph": 0.9828447049259237,
+      "model": "M1_TRACK_LINEAR",
+      "n": 27,
+      "rmse_mph": 1.320729989265902
+    },
+    {
+      "ablation": "B_LEGACY_FAST_FRIDAY_CENTERED",
+      "bias_mph": -0.5422441698768955,
+      "mae_mph": 0.736794329905104,
+      "model": "R4F7_ONLINE_SHRUNK_FIELD_MEAN_DIFFERENCE",
+      "n": 27,
+      "rmse_mph": 1.302269482324014
+    }
+  ],
+  "benchmark_crossing_evaluation": "NOT_IDENTIFIABLE_AS_AN_INDEPENDENT_PROBABILITY_TEST_FROM_27 TRANSITIONS; action labels not used",
+  "evaluation_N": 27,
+  "final_model_metrics": {
+    "ablation": "E_FINAL_PHYSICS",
+    "bias_mph": 0.2154938120370332,
+    "mae_mph": 0.9828447049259237,
+    "model": "M1_TRACK_LINEAR",
+    "n": 27,
+    "rmse_mph": 1.320729989265902
+  },
+  "historical_actions_optimal_labels_used": false,
+  "limitations": [
+    "same 27 transitions support development and LOYO evaluation",
+    "2023 has one transition",
+    "no independent lane-wait ground truth"
+  ],
+  "phase": "R5H",
+  "physics_improves_over_no_change_mae": false,
+  "refit_after_evaluation": false,
+  "status": "PASS_WITH_SEVERE_SAMPLE_LIMITATIONS"
+}

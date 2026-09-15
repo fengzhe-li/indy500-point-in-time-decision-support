@@ -1,0 +1,7 @@
+metric,value,expected,status
+frozen_target_ids,110,110,PASS
+target_times,110,110,PASS
+ptsc_sources_present,True,True,PASS
+canonical_hrrr_present,True,True,PASS
+target_sources_present,6,>=5,PASS
+schema_only_no_model_fit,True,True,PASS

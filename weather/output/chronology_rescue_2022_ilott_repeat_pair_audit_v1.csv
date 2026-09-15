@@ -1,0 +1,16 @@
+﻿metric,value
+canonical_ilott_objects,2
+canonical_ilott_attempt_ids,2
+v3_linked_rows,2
+text_files_scanned,29
+local_text_hits,8
+total_evidence_rows,18
+exact_speed_evidence_rows,2
+first_run_evidence_rows,3
+second_run_evidence_rows,3
+withdraw_evidence_rows,0
+lane1_evidence_rows,3
+lane2_evidence_rows,0
+queue_evidence_rows,3
+adjudication_candidates,4
+final_status,ILOTT_REPEAT_PAIR_ADJUDICATION_READY

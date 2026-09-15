@@ -1,0 +1,36 @@
+{
+  "phase": "R4F7T1",
+  "status": "R4F7T1_2022_2025_TRANSFER_CLOSEOUT_COMPLETE",
+  "2022": {
+    "attempt_rows": 44,
+    "matched_first_attempt_rows": 32,
+    "time_support": {
+      "rows": 44,
+      "time_point_utc_nonempty": 0,
+      "canonical_start_time_utc_nonempty": 0,
+      "canonical_end_time_utc_nonempty": 0,
+      "time_lower_utc_nonempty": 5,
+      "time_upper_utc_nonempty": 5,
+      "chronology_usable_true": 21
+    },
+    "raw_fast_friday_mae_mph": 2.4976562500000012,
+    "raw_fast_friday_rmse_mph": 3.187579131370704,
+    "raw_fast_friday_bias_mph": -1.9101562500000027,
+    "frozen_prior_calibrated_mae_mph": 3.0209609375000097,
+    "frozen_prior_calibrated_rmse_mph": 3.640157002038726,
+    "frozen_prior_calibrated_bias_mph": -2.5959158653846286,
+    "actual_minus_reference_mean_mph": 1.9101562500000027,
+    "role": "DEGRADED_CHRONOLOGY_TRANSFER_ROBUSTNESS",
+    "interpretation_boundary": "2022 is not promoted to ordinary point-time prequential validation unless actual nonempty timestamp support demonstrates that capability."
+  },
+  "2025": {
+    "canonical_reference_rows": 33,
+    "qualifying_outcome_rows_locally": 0,
+    "role": "TECHNICAL_REGIME_REFERENCE_TRANSFER_EVIDENCE_ONLY",
+    "performance_validation_performed": false,
+    "interpretation_boundary": "The project currently contains 2025 Fast Friday entry-strength reference evidence but no canonical 2025 qualifying outcome panel. No artificial reference-vs-reference validation is performed."
+  },
+  "frozen_main_model_changed": false,
+  "2024_validation_reopened": false,
+  "next_major_stage": "R4F8_ACTION_MONTE_CARLO_INTEGRATION"
+}

@@ -1,0 +1,13 @@
+﻿metric,value
+canonical_attempts_2022,44
+attempts_with_chronology_evidence,8
+attempts_without_chronology_evidence,36
+attempts_with_bounded_interval,5
+attempts_ordering_only,3
+repeated_attempts_total,8
+repeated_attempts_with_chronology,1
+decision_status_candidates_total,12
+decision_status_candidates_with_chronology,3
+high_priority_rescue_attempts,16
+medium_priority_rescue_attempts,23
+low_priority_rescue_attempts,5

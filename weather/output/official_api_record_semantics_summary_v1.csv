@@ -1,0 +1,6 @@
+﻿year,session_id,record_count,unique_car_count,repeated_car_count,likely_granularity,api_index_equals_finish_count,position_finish_comparable_count,details_id_strictly_increasing,status_distribution
+2020,5771,59,33,20,MULTI_ROW_RESULT_HISTORY,59,59,True,{}
+2021,5838,59,35,20,MULTI_ROW_RESULT_HISTORY,59,59,True,{}
+2022,6033,44,33,10,MULTI_ROW_RESULT_HISTORY,44,44,True,{}
+2023,6202,34,34,0,ONE_ROW_PER_CAR_FINAL_RESULT,34,34,True,{}
+2024,6382,34,34,0,ONE_ROW_PER_CAR_FINAL_RESULT,34,34,True,{}

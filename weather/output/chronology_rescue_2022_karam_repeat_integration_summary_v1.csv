@@ -1,0 +1,15 @@
+﻿metric,value
+chronology_rows_before,162
+chronology_rows_after,164
+action_rows_before,6
+action_rows_after,7
+2022_chronology_before,19
+2022_chronology_after,21
+coverage_before_pct,43.18
+coverage_after_pct,47.73
+repeat_coverage_before,7/8
+repeat_coverage_after,8/8
+newly_covered,Sage Karam
+lane_rows_before,1
+lane_rows_after,1
+karam_no_attempt_promoted,0

@@ -1,0 +1,15 @@
+feature,target,n,pearson_r
+prior3_speed,y_speed,36,0.016264
+prior5_speed,y_speed,36,-0.051197
+prior3_speed_fraction,y_speed,36,0.122905
+prior5_speed_fraction,y_speed,36,0.104330
+prior3_fade,y_fade,36,-0.251735
+prior5_fade,y_fade,36,-0.264643
+prior3_fade_fraction,y_fade,36,-0.126758
+prior5_fade_fraction,y_fade,36,-0.106392
+track_change,y_speed,39,-0.175909
+track_rate,y_speed,39,0.057020
+ambient_change,y_speed,39,-0.084744
+ambient_rate,y_speed,39,0.188423
+shortwave_change,y_speed,40,0.102053
+shortwave_rate,y_speed,40,0.154403

@@ -1,0 +1,56 @@
+{
+  "phase": "R4P2",
+  "purpose": "Construct consecutive same-car multi-run transitions, historical environment changes, and decision-safe past-only cross-car repeat signals.",
+  "multi_run_input_rows": 162,
+  "multi_run_groups": 70,
+  "consecutive_transition_rows": 92,
+  "environment_linked_transition_rows": 39,
+  "timed_transition_rows": 40,
+  "past_only_cross_car_signal_rows": 40,
+  "per_year": {
+    "2020": {
+      "transitions": 13,
+      "timed_transitions": 11,
+      "full_environment_transitions": 11,
+      "rows_with_full_prior3_signal": 8,
+      "rows_with_full_prior5_signal": 6
+    },
+    "2021": {
+      "transitions": 16,
+      "timed_transitions": 16,
+      "full_environment_transitions": 15,
+      "rows_with_full_prior3_signal": 13,
+      "rows_with_full_prior5_signal": 11
+    },
+    "2022": {
+      "transitions": 8,
+      "timed_transitions": 0,
+      "full_environment_transitions": 0,
+      "rows_with_full_prior3_signal": 0,
+      "rows_with_full_prior5_signal": 0
+    },
+    "2023": {
+      "transitions": 35,
+      "timed_transitions": 12,
+      "full_environment_transitions": 12,
+      "rows_with_full_prior3_signal": 9,
+      "rows_with_full_prior5_signal": 7
+    },
+    "2024": {
+      "transitions": 20,
+      "timed_transitions": 1,
+      "full_environment_transitions": 1,
+      "rows_with_full_prior3_signal": 0,
+      "rows_with_full_prior5_signal": 0
+    }
+  },
+  "semantics": {
+    "speed_delta": "after four-lap average speed minus before speed",
+    "fade_delta": "after late-run fade minus before fade; positive means later run retains late-run speed better",
+    "elapsed_time": "time between approximate performance observations; never interpreted as queue wait",
+    "environment_delta": "retrospective change between historical attempt observations; useful for physical association analysis but not automatically a decision-time future predictor",
+    "cross_car_signal": "Only earlier repeat outcomes from other cars are used. No centered or future window data are included.",
+    "window_definition": "No fixed window duration is imposed. Nearest prior 3 and 5 distinct-car repeat observations are summarized with actual time span."
+  },
+  "model_fitting_performed": false
+}

@@ -1,0 +1,66 @@
+{
+  "phase": "R4F6E",
+  "status": "R4F6E_FAST_FRIDAY_NUMERIC_CONTENT_AUDIT_READY",
+  "pdf_recovery_attempted": 2,
+  "pdf_recovered": 2,
+  "assets_audited": 10,
+  "year_summary": [
+    {
+      "year": 2020,
+      "assets": 1,
+      "four_lap_or_qual_sim_assets": 0,
+      "no_tow_numeric_assets": 0,
+      "general_session_numeric_assets": 0,
+      "total_mph_hits": 0,
+      "best_local_evidence": "WEAK_OR_CONTEXT_ONLY",
+      "model_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2021,
+      "assets": 2,
+      "four_lap_or_qual_sim_assets": 1,
+      "no_tow_numeric_assets": 0,
+      "general_session_numeric_assets": 0,
+      "total_mph_hits": 10,
+      "best_local_evidence": "FOUR_LAP_OR_QUAL_SIM_NUMERIC",
+      "model_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2022,
+      "assets": 1,
+      "four_lap_or_qual_sim_assets": 0,
+      "no_tow_numeric_assets": 0,
+      "general_session_numeric_assets": 0,
+      "total_mph_hits": 0,
+      "best_local_evidence": "WEAK_OR_CONTEXT_ONLY",
+      "model_role": "DEGRADED_VALIDATION"
+    },
+    {
+      "year": 2023,
+      "assets": 3,
+      "four_lap_or_qual_sim_assets": 1,
+      "no_tow_numeric_assets": 0,
+      "general_session_numeric_assets": 1,
+      "total_mph_hits": 45,
+      "best_local_evidence": "FOUR_LAP_OR_QUAL_SIM_NUMERIC",
+      "model_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2024,
+      "assets": 3,
+      "four_lap_or_qual_sim_assets": 1,
+      "no_tow_numeric_assets": 0,
+      "general_session_numeric_assets": 1,
+      "total_mph_hits": 44,
+      "best_local_evidence": "FOUR_LAP_OR_QUAL_SIM_NUMERIC",
+      "model_role": "VALIDATION_ONLY"
+    }
+  ],
+  "reference_hierarchy": [
+    "FOUR_LAP_QUALIFYING_SIM",
+    "NO_TOW_SINGLE_LAP",
+    "GENERAL_FAST_FRIDAY_SESSION_SPEED"
+  ],
+  "important_constraint": "Numeric content detection does not yet create a canonical entry reference. Driver-level extraction and row-level provenance are required next.",
+  "next_phase": "Extract driver/car-level Fast Friday reference rows from the strongest verified assets and quantify coverage against Day1 qualifying entries."
+}

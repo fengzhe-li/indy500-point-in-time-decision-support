@@ -1,0 +1,35 @@
+{
+  "phase": "R4LC4",
+  "status": "R4LC4_LAST_CHANCE_CANONICAL_ATTEMPT_CANDIDATES_READY",
+  "official_records": 15,
+  "records_by_year": {
+    "2021": 7,
+    "2023": 4,
+    "2024": 4
+  },
+  "entry_groups": 13,
+  "repeat_candidate_groups": 2,
+  "repeat_candidate_rows": 4,
+  "repeat_groups": [
+    {
+      "year": 2021,
+      "car_number": "11",
+      "driver_name": "Charlie Kimball",
+      "record_count": 2,
+      "speeds_mph": "227.811;227.584"
+    },
+    {
+      "year": 2021,
+      "car_number": "75",
+      "driver_name": "RC Enerson",
+      "record_count": 2,
+      "speeds_mph": "227.298;226.813"
+    }
+  ],
+  "important_constraints": [
+    "Official record order is preserved only as provenance and is not treated as true attempt chronology.",
+    "EventsSessionsDetailsID is preserved but not assumed to encode chronological order.",
+    "No withdraw/retain action is inferred from duplicate records without independent chronology evidence.",
+    "2023 and 2024 API records currently represent only single official records per participating entry."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "phase": "R4F4B",
+  "status": "R4F4B_REPEAT_RESIDUAL_TEMPORAL_POSITION_AUDIT_READY",
+  "repeat_residuals": 40,
+  "repeat_before_all_development_decisions": 0,
+  "repeat_during_development_decision_sequence": 0,
+  "repeat_after_all_development_decisions": 39,
+  "interpretation": "Repeat-derived normalized residuals are evaluated for temporal availability relative to first-attempt decision states. If they occur predominantly after the initial decision sequence, they must be treated as posterior sequential window evidence rather than contemporaneous predictors of first-run decisions.",
+  "revised_window_architecture": {
+    "initial_sequence": "PRESESSION_ENTRY_REFERENCE + PAST CROSS-CAR FIRST-RUN PERFORMANCE + THERMAL/WEATHER STATE",
+    "later_sequence": "INITIAL WINDOW ESTIMATE + OBSERVED CROSS-CAR REPEAT RESIDUAL UPDATES"
+  },
+  "next_phase": "Construct leakage-safe pre-session performance references for first-run cross-car normalization."
+}

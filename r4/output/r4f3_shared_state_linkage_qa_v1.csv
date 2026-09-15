@@ -1,0 +1,8 @@
+metric,value,expected,status
+counterfactual_input_states,50,50,PASS
+validation_rows_in_development_state_audit,0,0,PASS
+performance_attempt_exact_link_failures,0,0,PASS
+window_uses_future_attempts,0,0,PASS
+ptsc_uses_future_observation,0,0,PASS
+historical_action_required_for_counterfactual_engine,0,0,PASS
+historical_wait_not_fabricated,0,0,PASS

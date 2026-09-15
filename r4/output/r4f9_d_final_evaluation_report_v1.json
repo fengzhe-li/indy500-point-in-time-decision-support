@@ -1,0 +1,39 @@
+{
+  "phase": "R4F9-D",
+  "status": "R4F9_EVALUATION_AND_REPLAY_FROZEN",
+  "representative_cases": 5,
+  "last_chance_cases": 10,
+  "brier_skill": {
+    "IMPROVE_CURRENT": {
+      "event_rate": 0.7894736842105263,
+      "model_brier": 0.24040831876729007,
+      "reference_brier": 0.1662049861495845,
+      "skill": -0.4464567179165284
+    },
+    "CROSS_DECISION_TIME_BENCHMARK": {
+      "event_rate": 0.3684210526315789,
+      "model_brier": 0.14691703708773138,
+      "reference_brier": 0.23268698060941825,
+      "skill": 0.36860654299201145
+    }
+  },
+  "qa": {
+    "pass": 12,
+    "warn": 0,
+    "fail": 0
+  },
+  "protected_input_hashes": {
+    "r4/output/r4f9_c_probabilistic_replay_rows_v1.csv": "190b523f8b4285f6430070ed67c48b4c3ef722a73843b81c6da771dc150b563e",
+    "r4/output/r4f9_b3_final_historical_outcome_interface_v1.csv": "1ad685ae65af8f77aaf98088ce1146a31109caba54d99627ba1ace2bf957a04f",
+    "r4/output/r4f8h_g_action_mc_scenario_results_v1.csv": "0987ce0aa5e08ed28db2ef371f8080cd1c21d2ecb45657213a41626b049addb0",
+    "r4/output/r4f8h_h_priority_break_even_summary_v1.csv": "12c57ed653b2304ab17c05aaef352caa73a08d6adda7124a37b17fd5cf534dfc"
+  },
+  "output_hashes": {
+    "r4/output/r4f9_d_representative_case_replay_v1.csv": "9202590aa9d65dd86de45b679bb315c18d16145a7ad8b7094f16436867219a93",
+    "r4/output/r4f9_d_last_chance_case_replay_v1.csv": "31f39a87981916b57c0d593a68cb7027fbf706c27cab4206d3ce3c69578dc1d7",
+    "r4/output/r4f9_d_brier_reference_skill_v1.csv": "2f1192acca74c7d952d1a9cad9a6c52c5d659073ac21024e5ab3d6d11829b001",
+    "r4/output/r4f9_d_final_evaluation_qa_v1.csv": "6a8ee9dd1e5ab7fb860dd622e3637eb3cb8ef56e904013ac51ab9fb70328110a",
+    "r4/output/r4f9_d_final_evaluation_contract_v1.json": "9f48eb73130007515a6ce223f7e8939d2893d44c314debb1a6d1fb3d90a247aa"
+  },
+  "next_phase": "R4_RESEARCH_ENGINEERING_COMPLETE_RESULTS_SYNTHESIS"
+}

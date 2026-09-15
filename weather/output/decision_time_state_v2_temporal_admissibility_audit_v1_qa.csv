@@ -1,0 +1,7 @@
+﻿metric,value,status
+decision_rows_audited,7,PASS
+queue_rows_audited,5,PASS
+temporal_classification_complete,12,PASS
+action_lane_currently_used_as_observable,8,EXPECTED_FIX_REQUIRED
+queue_currently_used_as_observable,3,EXPECTED_FIX_REQUIRED
+active_ledger_mutation,0,PASS

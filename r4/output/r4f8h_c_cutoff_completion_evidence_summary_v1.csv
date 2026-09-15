@@ -1,0 +1,8 @@
+evidence_component,source,support,allowed_use,forbidden_use
+R4F8E exact session remaining,r4/output/r4f8e_reconstructed_decision_numeric_state_v1.csv,0/60 exact decision-safe remaining-time values,ESTABLISHES UNRESOLVED HISTORICAL COUNTDOWN,DO NOT FABRICATE COUNTDOWN
+R4F8H-A readiness audit,r4/output/r4f8h_a_final_mc_readiness_report_v1.json,0/170 cutoff-completion-ready action rows,READINESS BOUNDARY,NOT A CUTOFF MODEL
+R4F8H-B repository audit,r4/output/r4f8h_b_cutoff_evidence_resolution_report_v1.json,Repository contains cutoff-related candidates but no general exact decision-safe remaining-time source,EVIDENCE RESOLUTION BOUNDARY,DO NOT EQUATE SCENARIO GRIDS WITH OBSERVATIONS
+Existing cutoff feasibility grid,weather/output/queue_wait_cutoff_feasibility_grid_v1.csv,144 rows,STRUCTURAL SANITY CHECK / SENSITIVITY SUPPORT,NOT HISTORICAL DECISION-SAFE SESSION REMAINING
+Run-duration reference,weather/output/queue_wait_run_duration_reference_v1.csv,6 summary/reference rows,LATER COMPLETION-DURATION COMPONENT,DO NOT TURN INTO QUEUE WAIT OR SESSION REMAINING
+2024 scheduled end,data/canonical/v1/qualifying_events.csv,2024-05-18T21:50:00Z exists in repository,2024-SPECIFIC SUPPORT WHERE DECISION-TIME JOIN IS VALID,DO NOT GENERALIZE AS CROSS-YEAR HISTORICAL CUTOFF
+Last Chance timing,r4/output/r4lc5b_last_chance_predecision_state_ledger_v1.csv,bounded/qualitative timing states exist; exact remaining minutes unresolved,QUALITATIVE / BOUNDED INTERPRETATION,NO FABRICATED EXACT LAST CHANCE COUNTDOWN

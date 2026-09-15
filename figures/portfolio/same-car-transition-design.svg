@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#45c7d8"/></marker></defs>
+<rect width="1600" height="900" fill="#0b1118"/>
+<text x="80" y="85" fill="#edf4f7" font-family="Arial" font-size="42" font-weight="700">Why same-car transitions are the modelling unit</text>
+<text x="80" y="125" fill="#9bb0bd" font-family="Arial" font-size="21">Differencing reduces persistent car/driver/configuration variation without erasing latent run state.</text>
+<rect x="100" y="210" width="620" height="230" rx="18" fill="#141e29" stroke="#65d6a6" stroke-width="3"/>
+<text x="128" y="252" fill="#65d6a6" font-family="Arial" font-size="23" font-weight="700">RETAINED DESIGN</text>
+<text x="128" y="290" fill="#edf4f7" font-family="Arial" font-size="19">CAR A • ATTEMPT 1  →  CAR A • ATTEMPT 2</text>
+<text x="128" y="321" fill="#9bb0bd" font-family="Arial" font-size="19">Δ four-lap speed</text>
+<text x="128" y="352" fill="#9bb0bd" font-family="Arial" font-size="19">Δ track temperature + Δ ambient temperature</text>
+<text x="128" y="383" fill="#9bb0bd" font-family="Arial" font-size="19">persistent identity is held closer to constant</text>
+<rect x="880" y="210" width="620" height="230" rx="18" fill="#141e29" stroke="#f26d6d" stroke-width="3" stroke-dasharray="12 9"/>
+<text x="908" y="252" fill="#f26d6d" font-family="Arial" font-size="23" font-weight="700">REJECTED COMPARISON</text>
+<text x="908" y="290" fill="#edf4f7" font-family="Arial" font-size="19">CAR A  →  CAR B  →  CAR C</text>
+<text x="908" y="321" fill="#9bb0bd" font-family="Arial" font-size="19">car, driver, setup and preparation all change</text>
+<text x="908" y="352" fill="#9bb0bd" font-family="Arial" font-size="19">cross-car order can confound environment</text>
+<text x="908" y="383" fill="#9bb0bd" font-family="Arial" font-size="19">not used as the core response design</text>
+<rect x="300" y="570" width="1000" height="175" rx="18" fill="#141e29" stroke="#ff9f43" stroke-width="3"/>
+<text x="328" y="612" fill="#ff9f43" font-family="Arial" font-size="23" font-weight="700">WHAT DIFFERENCING DOES NOT REMOVE</text>
+<text x="328" y="650" fill="#edf4f7" font-family="Arial" font-size="19">tyre preparation • setup changes • execution • wind exposure • latent vehicle state</text>
+<text x="328" y="681" fill="#9bb0bd" font-family="Arial" font-size="19">These remain in empirical attempt-level residual uncertainty.</text>
+</svg>

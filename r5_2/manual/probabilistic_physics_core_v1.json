@@ -1,0 +1,39 @@
+{
+  "version": "R5.2_PROBABILISTIC_PHYSICS_CORE_V1",
+  "target": "delta_four_lap_average_speed_mph",
+  "performance_unit": "mph",
+  "observation_unit": "one complete four-lap qualifying attempt",
+  "mean_core": {
+    "features": [
+      "delta_track_temp_c",
+      "delta_air_temp_c"
+    ],
+    "coefficient_constraints": {
+      "delta_track_temp_c": "<=0",
+      "delta_air_temp_c": "unconstrained"
+    },
+    "full_data_huber_coefficients": {
+      "delta_track_temp_c": -0.03482532976361639,
+      "delta_air_temp_c": 0.18239338404039918
+    },
+    "generic_reattempt_intercept": 0.0
+  },
+  "uncertainty": {
+    "coefficient_bootstrap_draws": 5000,
+    "residual_source": "leave-one-year-out residuals",
+    "residual_centering": "median centered",
+    "removed_residual_median_mph": 0.0795725265351449,
+    "residual_sd_mph": 1.0248797710233175,
+    "residual_percentiles_mph": {
+      "p05": -0.5253020699355216,
+      "p50": 0.0,
+      "p95": 1.5794549401495201
+    }
+  },
+  "secondary_variables": {
+    "gust_wind": "sensitivity / uncertainty; not frozen as mean causal coefficient",
+    "shortwave_cloud": "thermal forcing / track-state mechanism",
+    "air_density": "diagnostic only"
+  },
+  "physical_zero_invariance": true
+}

@@ -1,0 +1,34 @@
+{
+  "forbidden": [
+    "tyre temperature",
+    "corner-specific track temperature",
+    "future realized weather"
+  ],
+  "inputs": [
+    "weather/output/hrrr_ims_2020_2024_features.csv",
+    "weather/output/hrrr_ims_2020_2024_features.csv",
+    "weather/output/hrrr_ims_2020_2024_features.csv",
+    "weather/output/hrrr_ims_2020_2024_features.csv",
+    "weather/output/hrrr_ims_2020_2024_features.csv",
+    "weather/output/hrrr_ims_2020_2024_features.csv",
+    "weather/output/hrrr_ims_2020_2024_features.csv",
+    "weather/output/hrrr_ims_2020_2024_features.csv",
+    "weather/output/hrrr_ims_2020_2024_features.csv",
+    "weather/output/hrrr_ims_2020_2024_features.csv",
+    "weather/evidence/ptsc/indy500_day1_track_temp_2020_2024_time_normalized.csv",
+    "weather/evidence/ptsc/indy500_day1_track_temp_2020_2024_time_normalized.csv",
+    "r4/output/r4p1_attempt_four_lap_panel_v1.csv",
+    "data/canonical/v1/attempt_laps.csv",
+    "data/canonical/v1/attempt_sections.csv",
+    "data/canonical/v1/attempts.csv",
+    "data/canonical/v1/attempts.csv"
+  ],
+  "phase": "R5A",
+  "rules": [
+    "no inferred absent fields",
+    "PTSC track temperature is distinct from ambient temperature",
+    "HRRR forecast use requires issue+90min <= decision time",
+    "Fast Friday is not a mandatory primary feature"
+  ],
+  "version": "R5A_PHYSICS_FEATURE_CONTRACT_V1"
+}

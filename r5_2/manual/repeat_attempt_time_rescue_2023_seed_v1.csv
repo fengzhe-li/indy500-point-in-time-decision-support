@@ -1,0 +1,11 @@
+year,car_number,driver_name,speed_mph,attempt_role,time_et,time_utc,time_quality,source_authority,notes
+2023,6,Felix Rosenqvist,233.099,FIRST_ATTEMPT,2023-05-20 11:55,2023-05-20T15:55:00Z,EXACT_MINUTE,INDYCAR_OFFICIAL,Official IndyCar states first attempt occurred at 11:55 a.m. ET.
+2023,6,Felix Rosenqvist,233.947,SECOND_ATTEMPT,2023-05-20 16:42,2023-05-20T20:42:00Z,EXACT_MINUTE,INDYCAR_OFFICIAL,Official IndyCar states second run occurred at 4:42 p.m. ET.
+2023,12,Will Power,232.719,LATER_ATTEMPT,,,SEQUENCE_ONLY,INDYCAR_OFFICIAL,Official final Day1 result; known later attempt in repeat sequence.
+2023,6,Helio Castroneves,231.954,SECOND_ATTEMPT,,,SEQUENCE_ONLY,PUBLIC_REPORT_PLUS_OFFICIAL_RESULT,Reported as improvement on second run; official result confirms 231.954.
+2023,18,David Malukas,231.769,LATER_ATTEMPT,,,SEQUENCE_ONLY,INDYCAR_OFFICIAL,Official Day1 result confirms later 231.769.
+2023,23,Ryan Hunter-Reay,232.133,LATER_ATTEMPT,,,SEQUENCE_ONLY,INDYCAR_OFFICIAL,Official Day1 result confirms 232.133.
+2023,24,Stefan Wilson,231.648,LATER_ATTEMPT,,,SEQUENCE_ONLY,INDYCAR_OFFICIAL,Official Day1 result confirms 231.648.
+2023,26,Colton Herta,231.951,LATER_ATTEMPT,,,SEQUENCE_ONLY,INDYCAR_OFFICIAL,Official Day1 result confirms 231.951.
+2023,45,Christian Lundgaard,231.056,LATER_ATTEMPT,,,SEQUENCE_ONLY,INDYCAR_OFFICIAL,Official Day1 result confirms 231.056.
+2023,51,Sting Ray Robb,230.74,LATER_ATTEMPT,,,SEQUENCE_ONLY,INDYCAR_OFFICIAL,Official Day1 result confirms 230.740.

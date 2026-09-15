@@ -1,0 +1,1728 @@
+path,key,value_type,value,year,session_id
+root.records[0].DriverUrl,DriverUrl,str,/Drivers/Helio-Castroneves,2018,5320
+root.records[0].ElapsedTime,ElapsedTime,str,02:37.2607,2018,5320
+root.records[0].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[0].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[0].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[0].InLap,InLap,NoneType,None,2018,5320
+root.records[0].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[0].QualLap1,QualLap1,str, 39.3460,2018,5320
+root.records[0].QualLap2,QualLap2,str, 39.2828,2018,5320
+root.records[0].QualLap3,QualLap3,str, 39.2875,2018,5320
+root.records[0].QualLap4,QualLap4,str, 39.3444,2018,5320
+root.records[1].DriverUrl,DriverUrl,str,/Drivers/Ed-Carpenter,2018,5320
+root.records[1].ElapsedTime,ElapsedTime,str,02:37.4167,2018,5320
+root.records[1].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[1].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[1].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[1].InLap,InLap,NoneType,None,2018,5320
+root.records[1].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[1].QualLap1,QualLap1,str, 39.2557,2018,5320
+root.records[1].QualLap2,QualLap2,str, 39.3170,2018,5320
+root.records[1].QualLap3,QualLap3,str, 39.3552,2018,5320
+root.records[1].QualLap4,QualLap4,str, 39.4888,2018,5320
+root.records[2].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[2].ElapsedTime,ElapsedTime,str,02:37.6845,2018,5320
+root.records[2].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[2].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[2].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[2].InLap,InLap,NoneType,None,2018,5320
+root.records[2].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[2].QualLap1,QualLap1,str, 39.4325,2018,5320
+root.records[2].QualLap2,QualLap2,str, 39.3977,2018,5320
+root.records[2].QualLap3,QualLap3,str, 39.4066,2018,5320
+root.records[2].QualLap4,QualLap4,str, 39.4477,2018,5320
+root.records[3].DriverUrl,DriverUrl,str,/Drivers/Will-Power,2018,5320
+root.records[3].ElapsedTime,ElapsedTime,str,02:37.7604,2018,5320
+root.records[3].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[3].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[3].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[3].InLap,InLap,NoneType,None,2018,5320
+root.records[3].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[3].QualLap1,QualLap1,str, 39.4830,2018,5320
+root.records[3].QualLap2,QualLap2,str, 39.4398,2018,5320
+root.records[3].QualLap3,QualLap3,str, 39.4305,2018,5320
+root.records[3].QualLap4,QualLap4,str, 39.4071,2018,5320
+root.records[4].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[4].ElapsedTime,ElapsedTime,str,02:37.8322,2018,5320
+root.records[4].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[4].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[4].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[4].InLap,InLap,NoneType,None,2018,5320
+root.records[4].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[4].QualLap1,QualLap1,str, 39.4156,2018,5320
+root.records[4].QualLap2,QualLap2,str, 39.4224,2018,5320
+root.records[4].QualLap3,QualLap3,str, 39.5001,2018,5320
+root.records[4].QualLap4,QualLap4,str, 39.4941,2018,5320
+root.records[5].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[5].ElapsedTime,ElapsedTime,str,02:37.8588,2018,5320
+root.records[5].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[5].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[5].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[5].InLap,InLap,NoneType,None,2018,5320
+root.records[5].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[5].QualLap1,QualLap1,str, 39.4337,2018,5320
+root.records[5].QualLap2,QualLap2,str, 39.4239,2018,5320
+root.records[5].QualLap3,QualLap3,str, 39.4618,2018,5320
+root.records[5].QualLap4,QualLap4,str, 39.5394,2018,5320
+root.records[6].DriverUrl,DriverUrl,str,/Drivers/Josef-Newgarden,2018,5320
+root.records[6].ElapsedTime,ElapsedTime,str,02:37.8608,2018,5320
+root.records[6].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[6].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[6].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[6].InLap,InLap,NoneType,None,2018,5320
+root.records[6].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[6].QualLap1,QualLap1,str, 39.4263,2018,5320
+root.records[6].QualLap2,QualLap2,str, 39.4308,2018,5320
+root.records[6].QualLap3,QualLap3,str, 39.4464,2018,5320
+root.records[6].QualLap4,QualLap4,str, 39.5573,2018,5320
+root.records[7].DriverUrl,DriverUrl,str,/Drivers/Scott-Dixon,2018,5320
+root.records[7].ElapsedTime,ElapsedTime,str,02:38.0457,2018,5320
+root.records[7].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[7].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[7].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[7].InLap,InLap,NoneType,None,2018,5320
+root.records[7].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[7].QualLap1,QualLap1,str, 39.4394,2018,5320
+root.records[7].QualLap2,QualLap2,str, 39.4830,2018,5320
+root.records[7].QualLap3,QualLap3,str, 39.5551,2018,5320
+root.records[7].QualLap4,QualLap4,str, 39.5682,2018,5320
+root.records[8].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[8].ElapsedTime,ElapsedTime,str,02:38.1654,2018,5320
+root.records[8].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[8].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[8].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[8].InLap,InLap,NoneType,None,2018,5320
+root.records[8].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[8].QualLap1,QualLap1,str, 39.4684,2018,5320
+root.records[8].QualLap2,QualLap2,str, 39.5436,2018,5320
+root.records[8].QualLap3,QualLap3,str, 39.5527,2018,5320
+root.records[8].QualLap4,QualLap4,str, 39.6007,2018,5320
+root.records[9].DriverUrl,DriverUrl,str,/Drivers/Alexander-Rossi,2018,5320
+root.records[9].ElapsedTime,ElapsedTime,str,02:38.1996,2018,5320
+root.records[9].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[9].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[9].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[9].InLap,InLap,NoneType,None,2018,5320
+root.records[9].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[9].QualLap1,QualLap1,str, 39.4294,2018,5320
+root.records[9].QualLap2,QualLap2,str, 39.5200,2018,5320
+root.records[9].QualLap3,QualLap3,str, 39.6090,2018,5320
+root.records[9].QualLap4,QualLap4,str, 39.6412,2018,5320
+root.records[10].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[10].ElapsedTime,ElapsedTime,str,02:38.2363,2018,5320
+root.records[10].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[10].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[10].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[10].InLap,InLap,NoneType,None,2018,5320
+root.records[10].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[10].QualLap1,QualLap1,str, 39.6028,2018,5320
+root.records[10].QualLap2,QualLap2,str, 39.5189,2018,5320
+root.records[10].QualLap3,QualLap3,str, 39.5403,2018,5320
+root.records[10].QualLap4,QualLap4,str, 39.5743,2018,5320
+root.records[11].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[11].ElapsedTime,ElapsedTime,str,02:38.2826,2018,5320
+root.records[11].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[11].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[11].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[11].InLap,InLap,NoneType,None,2018,5320
+root.records[11].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[11].QualLap1,QualLap1,str, 39.5120,2018,5320
+root.records[11].QualLap2,QualLap2,str, 39.6111,2018,5320
+root.records[11].QualLap3,QualLap3,str, 39.5717,2018,5320
+root.records[11].QualLap4,QualLap4,str, 39.5878,2018,5320
+root.records[12].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[12].ElapsedTime,ElapsedTime,str,02:38.5941,2018,5320
+root.records[12].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[12].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[12].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[12].InLap,InLap,NoneType,None,2018,5320
+root.records[12].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[12].QualLap1,QualLap1,str, 39.5935,2018,5320
+root.records[12].QualLap2,QualLap2,str, 39.6425,2018,5320
+root.records[12].QualLap3,QualLap3,str, 39.6612,2018,5320
+root.records[12].QualLap4,QualLap4,str, 39.6969,2018,5320
+root.records[13].DriverUrl,DriverUrl,str,/Drivers/Ryan-Hunter-Reay,2018,5320
+root.records[13].ElapsedTime,ElapsedTime,str,02:38.6238,2018,5320
+root.records[13].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[13].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[13].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[13].InLap,InLap,NoneType,None,2018,5320
+root.records[13].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[13].QualLap1,QualLap1,str, 39.5556,2018,5320
+root.records[13].QualLap2,QualLap2,str, 39.6166,2018,5320
+root.records[13].QualLap3,QualLap3,str, 39.7279,2018,5320
+root.records[13].QualLap4,QualLap4,str, 39.7237,2018,5320
+root.records[14].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[14].ElapsedTime,ElapsedTime,str,02:38.8702,2018,5320
+root.records[14].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[14].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[14].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[14].InLap,InLap,NoneType,None,2018,5320
+root.records[14].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[14].QualLap1,QualLap1,str, 39.6732,2018,5320
+root.records[14].QualLap2,QualLap2,str, 39.7171,2018,5320
+root.records[14].QualLap3,QualLap3,str, 39.7207,2018,5320
+root.records[14].QualLap4,QualLap4,str, 39.7592,2018,5320
+root.records[15].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[15].ElapsedTime,ElapsedTime,str,02:38.9409,2018,5320
+root.records[15].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[15].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[15].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[15].InLap,InLap,NoneType,None,2018,5320
+root.records[15].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[15].QualLap1,QualLap1,str, 39.6965,2018,5320
+root.records[15].QualLap2,QualLap2,str, 39.6848,2018,5320
+root.records[15].QualLap3,QualLap3,str, 39.7542,2018,5320
+root.records[15].QualLap4,QualLap4,str, 39.8054,2018,5320
+root.records[16].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[16].ElapsedTime,ElapsedTime,str,02:39.1837,2018,5320
+root.records[16].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[16].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[16].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[16].InLap,InLap,NoneType,None,2018,5320
+root.records[16].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[16].QualLap1,QualLap1,str, 39.7218,2018,5320
+root.records[16].QualLap2,QualLap2,str, 39.8197,2018,5320
+root.records[16].QualLap3,QualLap3,str, 39.7832,2018,5320
+root.records[16].QualLap4,QualLap4,str, 39.8590,2018,5320
+root.records[17].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[17].ElapsedTime,ElapsedTime,str,02:39.2233,2018,5320
+root.records[17].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[17].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[17].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[17].InLap,InLap,NoneType,None,2018,5320
+root.records[17].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[17].QualLap1,QualLap1,str, 39.7591,2018,5320
+root.records[17].QualLap2,QualLap2,str, 39.7870,2018,5320
+root.records[17].QualLap3,QualLap3,str, 39.8063,2018,5320
+root.records[17].QualLap4,QualLap4,str, 39.8709,2018,5320
+root.records[18].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[18].ElapsedTime,ElapsedTime,str,02:39.2459,2018,5320
+root.records[18].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[18].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[18].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[18].InLap,InLap,NoneType,None,2018,5320
+root.records[18].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[18].QualLap1,QualLap1,str, 39.8609,2018,5320
+root.records[18].QualLap2,QualLap2,str, 39.7629,2018,5320
+root.records[18].QualLap3,QualLap3,str, 39.7871,2018,5320
+root.records[18].QualLap4,QualLap4,str, 39.8350,2018,5320
+root.records[19].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[19].ElapsedTime,ElapsedTime,str,02:39.3241,2018,5320
+root.records[19].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[19].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[19].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[19].InLap,InLap,NoneType,None,2018,5320
+root.records[19].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[19].QualLap1,QualLap1,str, 39.7459,2018,5320
+root.records[19].QualLap2,QualLap2,str, 39.8424,2018,5320
+root.records[19].QualLap3,QualLap3,str, 39.8592,2018,5320
+root.records[19].QualLap4,QualLap4,str, 39.8766,2018,5320
+root.records[20].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[20].ElapsedTime,ElapsedTime,str,02:39.3388,2018,5320
+root.records[20].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[20].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[20].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[20].InLap,InLap,NoneType,None,2018,5320
+root.records[20].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[20].QualLap1,QualLap1,str, 39.7450,2018,5320
+root.records[20].QualLap2,QualLap2,str, 39.8074,2018,5320
+root.records[20].QualLap3,QualLap3,str, 39.8642,2018,5320
+root.records[20].QualLap4,QualLap4,str, 39.9222,2018,5320
+root.records[21].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[21].ElapsedTime,ElapsedTime,str,02:39.3561,2018,5320
+root.records[21].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[21].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[21].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[21].InLap,InLap,NoneType,None,2018,5320
+root.records[21].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[21].QualLap1,QualLap1,str, 39.7846,2018,5320
+root.records[21].QualLap2,QualLap2,str, 39.8047,2018,5320
+root.records[21].QualLap3,QualLap3,str, 39.8599,2018,5320
+root.records[21].QualLap4,QualLap4,str, 39.9069,2018,5320
+root.records[22].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[22].ElapsedTime,ElapsedTime,str,02:39.4273,2018,5320
+root.records[22].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[22].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[22].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[22].InLap,InLap,NoneType,None,2018,5320
+root.records[22].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[22].QualLap1,QualLap1,str, 39.7941,2018,5320
+root.records[22].QualLap2,QualLap2,str, 39.8300,2018,5320
+root.records[22].QualLap3,QualLap3,str, 39.8761,2018,5320
+root.records[22].QualLap4,QualLap4,str, 39.9271,2018,5320
+root.records[23].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[23].ElapsedTime,ElapsedTime,str,02:39.4298,2018,5320
+root.records[23].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[23].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[23].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[23].InLap,InLap,NoneType,None,2018,5320
+root.records[23].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[23].QualLap1,QualLap1,str, 39.7337,2018,5320
+root.records[23].QualLap2,QualLap2,str, 39.8180,2018,5320
+root.records[23].QualLap3,QualLap3,str, 39.9202,2018,5320
+root.records[23].QualLap4,QualLap4,str, 39.9579,2018,5320
+root.records[24].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[24].ElapsedTime,ElapsedTime,str,02:39.4673,2018,5320
+root.records[24].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[24].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[24].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[24].InLap,InLap,NoneType,None,2018,5320
+root.records[24].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[24].QualLap1,QualLap1,str, 39.7501,2018,5320
+root.records[24].QualLap2,QualLap2,str, 39.8494,2018,5320
+root.records[24].QualLap3,QualLap3,str, 39.9953,2018,5320
+root.records[24].QualLap4,QualLap4,str, 39.8725,2018,5320
+root.records[25].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[25].ElapsedTime,ElapsedTime,str,02:39.4881,2018,5320
+root.records[25].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[25].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[25].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[25].InLap,InLap,NoneType,None,2018,5320
+root.records[25].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[25].QualLap1,QualLap1,str, 39.8091,2018,5320
+root.records[25].QualLap2,QualLap2,str, 39.8800,2018,5320
+root.records[25].QualLap3,QualLap3,str, 39.8841,2018,5320
+root.records[25].QualLap4,QualLap4,str, 39.9149,2018,5320
+root.records[26].DriverUrl,DriverUrl,str,/Drivers/Jack-Harvey,2018,5320
+root.records[26].ElapsedTime,ElapsedTime,str,02:39.4894,2018,5320
+root.records[26].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[26].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[26].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[26].InLap,InLap,NoneType,None,2018,5320
+root.records[26].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[26].QualLap1,QualLap1,str, 39.7996,2018,5320
+root.records[26].QualLap2,QualLap2,str, 39.8525,2018,5320
+root.records[26].QualLap3,QualLap3,str, 39.9158,2018,5320
+root.records[26].QualLap4,QualLap4,str, 39.9215,2018,5320
+root.records[27].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[27].ElapsedTime,ElapsedTime,str,02:39.5275,2018,5320
+root.records[27].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[27].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[27].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[27].InLap,InLap,NoneType,None,2018,5320
+root.records[27].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[27].QualLap1,QualLap1,str, 39.8661,2018,5320
+root.records[27].QualLap2,QualLap2,str, 39.8524,2018,5320
+root.records[27].QualLap3,QualLap3,str, 39.8671,2018,5320
+root.records[27].QualLap4,QualLap4,str, 39.9419,2018,5320
+root.records[28].DriverUrl,DriverUrl,str,/Drivers/Takuma-Sato,2018,5320
+root.records[28].ElapsedTime,ElapsedTime,str,02:39.6362,2018,5320
+root.records[28].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[28].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[28].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[28].InLap,InLap,NoneType,None,2018,5320
+root.records[28].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[28].QualLap1,QualLap1,str, 39.7577,2018,5320
+root.records[28].QualLap2,QualLap2,str, 39.8607,2018,5320
+root.records[28].QualLap3,QualLap3,str, 40.1544,2018,5320
+root.records[28].QualLap4,QualLap4,str, 39.8634,2018,5320
+root.records[29].DriverUrl,DriverUrl,str,/Drivers/Graham-Rahal,2018,5320
+root.records[29].ElapsedTime,ElapsedTime,str,02:39.7114,2018,5320
+root.records[29].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[29].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[29].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[29].InLap,InLap,NoneType,None,2018,5320
+root.records[29].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[29].QualLap1,QualLap1,str, 39.9401,2018,5320
+root.records[29].QualLap2,QualLap2,str, 39.9292,2018,5320
+root.records[29].QualLap3,QualLap3,str, 39.9339,2018,5320
+root.records[29].QualLap4,QualLap4,str, 39.9082,2018,5320
+root.records[30].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[30].ElapsedTime,ElapsedTime,str,02:39.9953,2018,5320
+root.records[30].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[30].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[30].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[30].InLap,InLap,NoneType,None,2018,5320
+root.records[30].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[30].QualLap1,QualLap1,str, 39.9216,2018,5320
+root.records[30].QualLap2,QualLap2,str, 39.9581,2018,5320
+root.records[30].QualLap3,QualLap3,str, 39.9219,2018,5320
+root.records[30].QualLap4,QualLap4,str, 40.1937,2018,5320
+root.records[31].DriverUrl,DriverUrl,str,/Drivers/Conor-Daly,2018,5320
+root.records[31].ElapsedTime,ElapsedTime,str,02:40.0897,2018,5320
+root.records[31].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[31].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[31].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[31].InLap,InLap,NoneType,None,2018,5320
+root.records[31].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[31].QualLap1,QualLap1,str, 39.9928,2018,5320
+root.records[31].QualLap2,QualLap2,str, 40.0111,2018,5320
+root.records[31].QualLap3,QualLap3,str, 40.0315,2018,5320
+root.records[31].QualLap4,QualLap4,str, 40.0543,2018,5320
+root.records[32].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[32].ElapsedTime,ElapsedTime,str,02:40.1439,2018,5320
+root.records[32].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[32].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[32].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[32].InLap,InLap,NoneType,None,2018,5320
+root.records[32].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[32].QualLap1,QualLap1,str, 39.9033,2018,5320
+root.records[32].QualLap2,QualLap2,str, 39.9934,2018,5320
+root.records[32].QualLap3,QualLap3,str, 40.0588,2018,5320
+root.records[32].QualLap4,QualLap4,str, 40.1884,2018,5320
+root.records[33].DriverUrl,DriverUrl,str,/Drivers/Scott-Dixon,2018,5320
+root.records[33].ElapsedTime,ElapsedTime,str,02:38.1787,2018,5320
+root.records[33].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[33].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[33].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[33].InLap,InLap,NoneType,None,2018,5320
+root.records[33].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[33].QualLap1,QualLap1,str, 39.5344,2018,5320
+root.records[33].QualLap2,QualLap2,str, 39.5292,2018,5320
+root.records[33].QualLap3,QualLap3,str, 39.5404,2018,5320
+root.records[33].QualLap4,QualLap4,str, 39.5747,2018,5320
+root.records[34].DriverUrl,DriverUrl,str,/Drivers/Ryan-Hunter-Reay,2018,5320
+root.records[34].ElapsedTime,ElapsedTime,str,02:38.6487,2018,5320
+root.records[34].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[34].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[34].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[34].InLap,InLap,NoneType,None,2018,5320
+root.records[34].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[34].QualLap1,QualLap1,str, 39.6541,2018,5320
+root.records[34].QualLap2,QualLap2,str, 39.6726,2018,5320
+root.records[34].QualLap3,QualLap3,str, 39.6538,2018,5320
+root.records[34].QualLap4,QualLap4,str, 39.6682,2018,5320
+root.records[35].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[35].ElapsedTime,ElapsedTime,str,00:39.7550,2018,5320
+root.records[35].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[35].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[35].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[35].InLap,InLap,NoneType,None,2018,5320
+root.records[35].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[35].QualLap1,QualLap1,str, 39.7550,2018,5320
+root.records[35].QualLap2,QualLap2,str,  0.0000,2018,5320
+root.records[35].QualLap3,QualLap3,str,  0.0000,2018,5320
+root.records[35].QualLap4,QualLap4,str,  0.0000,2018,5320
+root.records[36].DriverUrl,DriverUrl,str,/Drivers/Alexander-Rossi,2018,5320
+root.records[36].ElapsedTime,ElapsedTime,str,02:39.1431,2018,5320
+root.records[36].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[36].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[36].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[36].InLap,InLap,NoneType,None,2018,5320
+root.records[36].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[36].QualLap1,QualLap1,str, 39.6725,2018,5320
+root.records[36].QualLap2,QualLap2,str, 39.5854,2018,5320
+root.records[36].QualLap3,QualLap3,str, 39.7919,2018,5320
+root.records[36].QualLap4,QualLap4,str, 40.0933,2018,5320
+root.records[37].DriverUrl,DriverUrl,str,/Drivers/Jack-Harvey,2018,5320
+root.records[37].ElapsedTime,ElapsedTime,str,02:39.8348,2018,5320
+root.records[37].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[37].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[37].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[37].InLap,InLap,NoneType,None,2018,5320
+root.records[37].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[37].QualLap1,QualLap1,str, 39.9106,2018,5320
+root.records[37].QualLap2,QualLap2,str, 39.9438,2018,5320
+root.records[37].QualLap3,QualLap3,str, 39.9739,2018,5320
+root.records[37].QualLap4,QualLap4,str, 40.0065,2018,5320
+root.records[38].DriverUrl,DriverUrl,str,/Drivers/Graham-Rahal,2018,5320
+root.records[38].ElapsedTime,ElapsedTime,str,02:39.8811,2018,5320
+root.records[38].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[38].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[38].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[38].InLap,InLap,NoneType,None,2018,5320
+root.records[38].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[38].QualLap1,QualLap1,str, 39.9211,2018,5320
+root.records[38].QualLap2,QualLap2,str, 39.9389,2018,5320
+root.records[38].QualLap3,QualLap3,str, 39.9738,2018,5320
+root.records[38].QualLap4,QualLap4,str, 40.0473,2018,5320
+root.records[39].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[39].ElapsedTime,ElapsedTime,str,02:40.1541,2018,5320
+root.records[39].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[39].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[39].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[39].InLap,InLap,NoneType,None,2018,5320
+root.records[39].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[39].QualLap1,QualLap1,str, 39.9378,2018,5320
+root.records[39].QualLap2,QualLap2,str, 40.0206,2018,5320
+root.records[39].QualLap3,QualLap3,str, 40.1031,2018,5320
+root.records[39].QualLap4,QualLap4,str, 40.0926,2018,5320
+root.records[40].DriverUrl,DriverUrl,str,/Drivers/Conor-Daly,2018,5320
+root.records[40].ElapsedTime,ElapsedTime,str,02:40.1879,2018,5320
+root.records[40].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[40].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[40].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[40].InLap,InLap,NoneType,None,2018,5320
+root.records[40].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[40].QualLap1,QualLap1,str, 39.9498,2018,5320
+root.records[40].QualLap2,QualLap2,str, 40.0617,2018,5320
+root.records[40].QualLap3,QualLap3,str, 40.0995,2018,5320
+root.records[40].QualLap4,QualLap4,str, 40.0769,2018,5320
+root.records[41].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[41].ElapsedTime,ElapsedTime,str,02:40.4565,2018,5320
+root.records[41].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[41].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[41].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[41].InLap,InLap,NoneType,None,2018,5320
+root.records[41].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[41].QualLap1,QualLap1,str, 40.0303,2018,5320
+root.records[41].QualLap2,QualLap2,str, 40.0467,2018,5320
+root.records[41].QualLap3,QualLap3,str, 40.1535,2018,5320
+root.records[41].QualLap4,QualLap4,str, 40.2260,2018,5320
+root.records[42].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[42].ElapsedTime,ElapsedTime,str,02:40.9617,2018,5320
+root.records[42].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[42].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[42].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[42].InLap,InLap,NoneType,None,2018,5320
+root.records[42].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[42].QualLap1,QualLap1,str, 40.1200,2018,5320
+root.records[42].QualLap2,QualLap2,str, 40.1771,2018,5320
+root.records[42].QualLap3,QualLap3,str, 40.2679,2018,5320
+root.records[42].QualLap4,QualLap4,str, 40.3967,2018,5320
+root.records[43].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[43].ElapsedTime,ElapsedTime,str,02:41.1871,2018,5320
+root.records[43].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[43].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[43].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[43].InLap,InLap,NoneType,None,2018,5320
+root.records[43].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[43].QualLap1,QualLap1,str, 40.1929,2018,5320
+root.records[43].QualLap2,QualLap2,str, 40.3275,2018,5320
+root.records[43].QualLap3,QualLap3,str, 40.3347,2018,5320
+root.records[43].QualLap4,QualLap4,str, 40.3320,2018,5320
+root.records[44].DriverUrl,DriverUrl,str,/Drivers/Conor-Daly,2018,5320
+root.records[44].ElapsedTime,ElapsedTime,str,02:41.6642,2018,5320
+root.records[44].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[44].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[44].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[44].InLap,InLap,NoneType,None,2018,5320
+root.records[44].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[44].QualLap1,QualLap1,str, 40.0243,2018,5320
+root.records[44].QualLap2,QualLap2,str, 40.5358,2018,5320
+root.records[44].QualLap3,QualLap3,str, 40.4942,2018,5320
+root.records[44].QualLap4,QualLap4,str, 40.6099,2018,5320
+root.records[45].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[45].ElapsedTime,ElapsedTime,str,02:02.6906,2018,5320
+root.records[45].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[45].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[45].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[45].InLap,InLap,NoneType,None,2018,5320
+root.records[45].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[45].QualLap1,QualLap1,str, 40.5583,2018,5320
+root.records[45].QualLap2,QualLap2,str, 40.8462,2018,5320
+root.records[45].QualLap3,QualLap3,str, 41.2861,2018,5320
+root.records[45].QualLap4,QualLap4,str,  0.0000,2018,5320
+root.records[46].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[46].ElapsedTime,ElapsedTime,str,02:16.8236,2018,5320
+root.records[46].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[46].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[46].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[46].InLap,InLap,NoneType,None,2018,5320
+root.records[46].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[46].QualLap1,QualLap1,str, 44.6739,2018,5320
+root.records[46].QualLap2,QualLap2,str, 45.8510,2018,5320
+root.records[46].QualLap3,QualLap3,str, 46.2987,2018,5320
+root.records[46].QualLap4,QualLap4,str,  0.0000,2018,5320
+root.records[47].DriverUrl,DriverUrl,NoneType,None,2018,5320
+root.records[47].ElapsedTime,ElapsedTime,str,00:00.0000,2018,5320
+root.records[47].LapsComplete,LapsComplete,NoneType,None,2018,5320
+root.records[47].LapsDown,LapsDown,NoneType,None,2018,5320
+root.records[47].BestLapTime,BestLapTime,NoneType,None,2018,5320
+root.records[47].InLap,InLap,NoneType,None,2018,5320
+root.records[47].LapsLed,LapsLed,NoneType,None,2018,5320
+root.records[47].QualLap1,QualLap1,str,  0.0000,2018,5320
+root.records[47].QualLap2,QualLap2,str,  0.0000,2018,5320
+root.records[47].QualLap3,QualLap3,str,  0.0000,2018,5320
+root.records[47].QualLap4,QualLap4,str,  0.0000,2018,5320
+root.SessionReports,SessionReports,list,,2018,5320
+root.SessionReports[0].DocumentID,DocumentID,str,4c9eb3cb-984c-4e3d-91a3-e59b4450d147,2018,5320
+root.SessionReports[0].Name,Name,str,Overall Results,2018,5320
+root.SessionReports[0].Url,Url,str,INDYCAR/Documents/5320/2018-05-19/indycar-qualresults-Day1.pdf,2018,5320
+root.SessionReports[0].FileType,FileType,str,application/pdf,2018,5320
+root.SessionReports[0].modified_date,modified_date,str,/Date(1526772349007)/,2018,5320
+root.SessionReports[0].IsActive,IsActive,bool,True,2018,5320
+root.SessionReports[0].DocumentType,DocumentType,str,Overall Results,2018,5320
+root.SessionReports[0].SortOrder,SortOrder,int,6,2018,5320
+root.SessionReports[1].DocumentID,DocumentID,str,62d4d2f2-2ae0-4b3f-ab66-fdc511e873e8,2018,5320
+root.SessionReports[1].Name,Name,str,Results,2018,5320
+root.SessionReports[1].Url,Url,str,INDYCAR/Documents/5320/2018-05-20/indycar-results-quals-day1.pdf,2018,5320
+root.SessionReports[1].FileType,FileType,str,application/pdf,2018,5320
+root.SessionReports[1].modified_date,modified_date,str,/Date(1526858013897)/,2018,5320
+root.SessionReports[1].IsActive,IsActive,bool,True,2018,5320
+root.SessionReports[1].DocumentType,DocumentType,str,Results,2018,5320
+root.SessionReports[1].SortOrder,SortOrder,int,8,2018,5320
+root.SessionReports[2].DocumentID,DocumentID,str,306739bf-2f6b-438e-b5bb-28ec74eaf24e,2018,5320
+root.SessionReports[2].Name,Name,str,Section Results,2018,5320
+root.SessionReports[2].Url,Url,str,INDYCAR/Documents/5320/2018-05-19/indycar-sectionresults-quals-day1.pdf,2018,5320
+root.SessionReports[2].FileType,FileType,str,application/pdf,2018,5320
+root.SessionReports[2].modified_date,modified_date,str,/Date(1526767745147)/,2018,5320
+root.SessionReports[2].IsActive,IsActive,bool,True,2018,5320
+root.SessionReports[2].DocumentType,DocumentType,str,Section Results,2018,5320
+root.SessionReports[2].SortOrder,SortOrder,int,9,2018,5320
+root.SessionReports[3].DocumentID,DocumentID,str,7e11d3bf-2301-44c1-9a01-fbd20df02fad,2018,5320
+root.SessionReports[3].Name,Name,str,Top Section Times,2018,5320
+root.SessionReports[3].Url,Url,str,INDYCAR/Documents/5320/2018-05-19/indycar-topsectiontimes-quals-day1.pdf,2018,5320
+root.SessionReports[3].FileType,FileType,str,application/pdf,2018,5320
+root.SessionReports[3].modified_date,modified_date,str,/Date(1526767759447)/,2018,5320
+root.SessionReports[3].IsActive,IsActive,bool,True,2018,5320
+root.SessionReports[3].DocumentType,DocumentType,str,Top Section Times,2018,5320
+root.SessionReports[3].SortOrder,SortOrder,int,10,2018,5320
+root.records[0].DriverUrl,DriverUrl,NoneType,None,2019,5565
+root.records[0].ElapsedTime,ElapsedTime,str,02:36.4655,2019,5565
+root.records[0].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[0].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[0].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[0].InLap,InLap,NoneType,None,2019,5565
+root.records[0].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[0].QualLap1,QualLap1,str, 38.9948,2019,5565
+root.records[0].QualLap2,QualLap2,str, 39.1172,2019,5565
+root.records[0].QualLap3,QualLap3,str, 39.1649,2019,5565
+root.records[0].QualLap4,QualLap4,str, 39.1886,2019,5565
+root.records[1].DriverUrl,DriverUrl,str,/Drivers/Will-Power,2019,5565
+root.records[1].ElapsedTime,ElapsedTime,str,02:36.4666,2019,5565
+root.records[1].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[1].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[1].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[1].InLap,InLap,NoneType,None,2019,5565
+root.records[1].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[1].QualLap1,QualLap1,str, 39.0569,2019,5565
+root.records[1].QualLap2,QualLap2,str, 39.0969,2019,5565
+root.records[1].QualLap3,QualLap3,str, 39.1544,2019,5565
+root.records[1].QualLap4,QualLap4,str, 39.1584,2019,5565
+root.records[2].DriverUrl,DriverUrl,NoneType,None,2019,5565
+root.records[2].ElapsedTime,ElapsedTime,str,02:36.6210,2019,5565
+root.records[2].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[2].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[2].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[2].InLap,InLap,NoneType,None,2019,5565
+root.records[2].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[2].QualLap1,QualLap1,str, 39.0420,2019,5565
+root.records[2].QualLap2,QualLap2,str, 39.1539,2019,5565
+root.records[2].QualLap3,QualLap3,str, 39.1768,2019,5565
+root.records[2].QualLap4,QualLap4,str, 39.2483,2019,5565
+root.records[3].DriverUrl,DriverUrl,str,/Drivers/Josef-Newgarden,2019,5565
+root.records[3].ElapsedTime,ElapsedTime,str,02:36.6924,2019,5565
+root.records[3].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[3].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[3].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[3].InLap,InLap,NoneType,None,2019,5565
+root.records[3].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[3].QualLap1,QualLap1,str, 39.1083,2019,5565
+root.records[3].QualLap2,QualLap2,str, 39.1758,2019,5565
+root.records[3].QualLap3,QualLap3,str, 39.1681,2019,5565
+root.records[3].QualLap4,QualLap4,str, 39.2402,2019,5565
+root.records[4].DriverUrl,DriverUrl,NoneType,None,2019,5565
+root.records[4].ElapsedTime,ElapsedTime,str,02:36.8779,2019,5565
+root.records[4].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[4].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[4].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[4].InLap,InLap,NoneType,None,2019,5565
+root.records[4].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[4].QualLap1,QualLap1,str, 39.1660,2019,5565
+root.records[4].QualLap2,QualLap2,str, 39.2037,2019,5565
+root.records[4].QualLap3,QualLap3,str, 39.2797,2019,5565
+root.records[4].QualLap4,QualLap4,str, 39.2285,2019,5565
+root.records[5].DriverUrl,DriverUrl,NoneType,None,2019,5565
+root.records[5].ElapsedTime,ElapsedTime,str,02:36.9035,2019,5565
+root.records[5].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[5].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[5].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[5].InLap,InLap,NoneType,None,2019,5565
+root.records[5].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[5].QualLap1,QualLap1,str, 38.9585,2019,5565
+root.records[5].QualLap2,QualLap2,str, 39.1186,2019,5565
+root.records[5].QualLap3,QualLap3,str, 39.2825,2019,5565
+root.records[5].QualLap4,QualLap4,str, 39.5439,2019,5565
+root.records[6].DriverUrl,DriverUrl,str,/Drivers/Ed-Carpenter,2019,5565
+root.records[6].ElapsedTime,ElapsedTime,str,02:36.9658,2019,5565
+root.records[6].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[6].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[6].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[6].InLap,InLap,NoneType,None,2019,5565
+root.records[6].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[6].QualLap1,QualLap1,str, 39.1257,2019,5565
+root.records[6].QualLap2,QualLap2,str, 39.2107,2019,5565
+root.records[6].QualLap3,QualLap3,str, 39.2890,2019,5565
+root.records[6].QualLap4,QualLap4,str, 39.3404,2019,5565
+root.records[7].DriverUrl,DriverUrl,str,/Drivers/Alexander-Rossi,2019,5565
+root.records[7].ElapsedTime,ElapsedTime,str,02:37.0217,2019,5565
+root.records[7].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[7].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[7].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[7].InLap,InLap,NoneType,None,2019,5565
+root.records[7].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[7].QualLap1,QualLap1,str, 39.1713,2019,5565
+root.records[7].QualLap2,QualLap2,str, 39.2488,2019,5565
+root.records[7].QualLap3,QualLap3,str, 39.2778,2019,5565
+root.records[7].QualLap4,QualLap4,str, 39.3238,2019,5565
+root.records[8].DriverUrl,DriverUrl,NoneType,None,2019,5565
+root.records[8].ElapsedTime,ElapsedTime,str,02:37.3427,2019,5565
+root.records[8].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[8].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[8].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[8].InLap,InLap,NoneType,None,2019,5565
+root.records[8].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[8].QualLap1,QualLap1,str, 39.1771,2019,5565
+root.records[8].QualLap2,QualLap2,str, 39.1713,2019,5565
+root.records[8].QualLap3,QualLap3,str, 39.6865,2019,5565
+root.records[8].QualLap4,QualLap4,str, 39.3078,2019,5565
+root.records[9].DriverUrl,DriverUrl,NoneType,None,2019,5565
+root.records[9].ElapsedTime,ElapsedTime,str,02:37.3729,2019,5565
+root.records[9].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[9].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[9].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[9].InLap,InLap,NoneType,None,2019,5565
+root.records[9].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[9].QualLap1,QualLap1,str, 39.1941,2019,5565
+root.records[9].QualLap2,QualLap2,str, 39.3151,2019,5565
+root.records[9].QualLap3,QualLap3,str, 39.3995,2019,5565
+root.records[9].QualLap4,QualLap4,str, 39.4642,2019,5565
+root.records[10].DriverUrl,DriverUrl,str,/Drivers/Conor-Daly,2019,5565
+root.records[10].ElapsedTime,ElapsedTime,str,02:37.4688,2019,5565
+root.records[10].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[10].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[10].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[10].InLap,InLap,NoneType,None,2019,5565
+root.records[10].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[10].QualLap1,QualLap1,str, 39.2626,2019,5565
+root.records[10].QualLap2,QualLap2,str, 39.3879,2019,5565
+root.records[10].QualLap3,QualLap3,str, 39.4040,2019,5565
+root.records[10].QualLap4,QualLap4,str, 39.4143,2019,5565
+root.records[11].DriverUrl,DriverUrl,str,/Drivers/Helio-Castroneves,2019,5565
+root.records[11].ElapsedTime,ElapsedTime,str,02:37.5337,2019,5565
+root.records[11].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[11].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[11].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[11].InLap,InLap,NoneType,None,2019,5565
+root.records[11].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[11].QualLap1,QualLap1,str, 39.2083,2019,5565
+root.records[11].QualLap2,QualLap2,str, 39.3775,2019,5565
+root.records[11].QualLap3,QualLap3,str, 39.4600,2019,5565
+root.records[11].QualLap4,QualLap4,str, 39.4879,2019,5565
+root.records[12].DriverUrl,DriverUrl,str,/Drivers/Marcus-Ericsson,2019,5565
+root.records[12].ElapsedTime,ElapsedTime,str,02:37.5415,2019,5565
+root.records[12].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[12].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[12].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[12].InLap,InLap,NoneType,None,2019,5565
+root.records[12].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[12].QualLap1,QualLap1,str, 39.2987,2019,5565
+root.records[12].QualLap2,QualLap2,str, 39.4361,2019,5565
+root.records[12].QualLap3,QualLap3,str, 39.3971,2019,5565
+root.records[12].QualLap4,QualLap4,str, 39.4096,2019,5565
+root.records[13].DriverUrl,DriverUrl,str,/Drivers/Takuma-Sato,2019,5565
+root.records[13].ElapsedTime,ElapsedTime,str,02:37.6874,2019,5565
+root.records[13].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[13].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[13].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[13].InLap,InLap,NoneType,None,2019,5565
+root.records[13].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[13].QualLap1,QualLap1,str, 39.3392,2019,5565
+root.records[13].QualLap2,QualLap2,str, 39.4293,2019,5565
+root.records[13].QualLap3,QualLap3,str, 39.4969,2019,5565
+root.records[13].QualLap4,QualLap4,str, 39.4220,2019,5565
+root.records[14].DriverUrl,DriverUrl,NoneType,None,2019,5565
+root.records[14].ElapsedTime,ElapsedTime,str,02:37.7057,2019,5565
+root.records[14].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[14].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[14].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[14].InLap,InLap,NoneType,None,2019,5565
+root.records[14].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[14].QualLap1,QualLap1,str, 39.2590,2019,5565
+root.records[14].QualLap2,QualLap2,str, 39.4561,2019,5565
+root.records[14].QualLap3,QualLap3,str, 39.4936,2019,5565
+root.records[14].QualLap4,QualLap4,str, 39.4970,2019,5565
+root.records[15].DriverUrl,DriverUrl,NoneType,None,2019,5565
+root.records[15].ElapsedTime,ElapsedTime,str,02:37.8116,2019,5565
+root.records[15].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[15].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[15].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[15].InLap,InLap,NoneType,None,2019,5565
+root.records[15].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[15].QualLap1,QualLap1,str, 39.3649,2019,5565
+root.records[15].QualLap2,QualLap2,str, 39.4391,2019,5565
+root.records[15].QualLap3,QualLap3,str, 39.4943,2019,5565
+root.records[15].QualLap4,QualLap4,str, 39.5133,2019,5565
+root.records[16].DriverUrl,DriverUrl,str,/Drivers/Graham-Rahal,2019,5565
+root.records[16].ElapsedTime,ElapsedTime,str,02:37.8226,2019,5565
+root.records[16].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[16].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[16].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[16].InLap,InLap,NoneType,None,2019,5565
+root.records[16].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[16].QualLap1,QualLap1,str, 39.3761,2019,5565
+root.records[16].QualLap2,QualLap2,str, 39.4162,2019,5565
+root.records[16].QualLap3,QualLap3,str, 39.4298,2019,5565
+root.records[16].QualLap4,QualLap4,str, 39.6005,2019,5565
+root.records[17].DriverUrl,DriverUrl,str,/Drivers/Scott-Dixon,2019,5565
+root.records[17].ElapsedTime,ElapsedTime,str,02:37.8256,2019,5565
+root.records[17].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[17].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[17].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[17].InLap,InLap,NoneType,None,2019,5565
+root.records[17].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[17].QualLap1,QualLap1,str, 39.3605,2019,5565
+root.records[17].QualLap2,QualLap2,str, 39.4468,2019,5565
+root.records[17].QualLap3,QualLap3,str, 39.4603,2019,5565
+root.records[17].QualLap4,QualLap4,str, 39.5580,2019,5565
+root.records[18].DriverUrl,DriverUrl,NoneType,None,2019,5565
+root.records[18].ElapsedTime,ElapsedTime,str,02:37.9009,2019,5565
+root.records[18].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[18].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[18].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[18].InLap,InLap,NoneType,None,2019,5565
+root.records[18].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[18].QualLap1,QualLap1,str, 39.3764,2019,5565
+root.records[18].QualLap2,QualLap2,str, 39.4116,2019,5565
+root.records[18].QualLap3,QualLap3,str, 39.5047,2019,5565
+root.records[18].QualLap4,QualLap4,str, 39.6082,2019,5565
+root.records[19].DriverUrl,DriverUrl,NoneType,None,2019,5565
+root.records[19].ElapsedTime,ElapsedTime,str,02:37.9535,2019,5565
+root.records[19].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[19].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[19].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[19].InLap,InLap,NoneType,None,2019,5565
+root.records[19].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[19].QualLap1,QualLap1,str, 39.4210,2019,5565
+root.records[19].QualLap2,QualLap2,str, 39.4892,2019,5565
+root.records[19].QualLap3,QualLap3,str, 39.4822,2019,5565
+root.records[19].QualLap4,QualLap4,str, 39.5611,2019,5565
+root.records[20].DriverUrl,DriverUrl,NoneType,None,2019,5565
+root.records[20].ElapsedTime,ElapsedTime,str,02:37.9584,2019,5565
+root.records[20].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[20].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[20].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[20].InLap,InLap,NoneType,None,2019,5565
+root.records[20].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[20].QualLap1,QualLap1,str, 39.3381,2019,5565
+root.records[20].QualLap2,QualLap2,str, 39.4374,2019,5565
+root.records[20].QualLap3,QualLap3,str, 39.5441,2019,5565
+root.records[20].QualLap4,QualLap4,str, 39.6388,2019,5565
+root.records[21].DriverUrl,DriverUrl,str,/Drivers/Ryan-Hunter-Reay,2019,5565
+root.records[21].ElapsedTime,ElapsedTime,str,02:37.9799,2019,5565
+root.records[21].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[21].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[21].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[21].InLap,InLap,NoneType,None,2019,5565
+root.records[21].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[21].QualLap1,QualLap1,str, 39.3605,2019,5565
+root.records[21].QualLap2,QualLap2,str, 39.4598,2019,5565
+root.records[21].QualLap3,QualLap3,str, 39.5725,2019,5565
+root.records[21].QualLap4,QualLap4,str, 39.5871,2019,5565
+root.records[22].DriverUrl,DriverUrl,str,/Drivers/Santino-Ferrucci,2019,5565
+root.records[22].ElapsedTime,ElapsedTime,str,02:38.0815,2019,5565
+root.records[22].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[22].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[22].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[22].InLap,InLap,NoneType,None,2019,5565
+root.records[22].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[22].QualLap1,QualLap1,str, 39.4230,2019,5565
+root.records[22].QualLap2,QualLap2,str, 39.4593,2019,5565
+root.records[22].QualLap3,QualLap3,str, 39.5772,2019,5565
+root.records[22].QualLap4,QualLap4,str, 39.6220,2019,5565
+root.records[23].DriverUrl,DriverUrl,NoneType,None,2019,5565
+root.records[23].ElapsedTime,ElapsedTime,str,02:38.0911,2019,5565
+root.records[23].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[23].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[23].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[23].InLap,InLap,NoneType,None,2019,5565
+root.records[23].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[23].QualLap1,QualLap1,str, 39.4579,2019,5565
+root.records[23].QualLap2,QualLap2,str, 39.5109,2019,5565
+root.records[23].QualLap3,QualLap3,str, 39.5662,2019,5565
+root.records[23].QualLap4,QualLap4,str, 39.5561,2019,5565
+root.records[24].DriverUrl,DriverUrl,str,/Drivers/Jack-Harvey,2019,5565
+root.records[24].ElapsedTime,ElapsedTime,str,02:38.1063,2019,5565
+root.records[24].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[24].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[24].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[24].InLap,InLap,NoneType,None,2019,5565
+root.records[24].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[24].QualLap1,QualLap1,str, 39.3759,2019,5565
+root.records[24].QualLap2,QualLap2,str, 39.4859,2019,5565
+root.records[24].QualLap3,QualLap3,str, 39.5400,2019,5565
+root.records[24].QualLap4,QualLap4,str, 39.7045,2019,5565
+root.records[25].DriverUrl,DriverUrl,NoneType,None,2019,5565
+root.records[25].ElapsedTime,ElapsedTime,str,02:38.2402,2019,5565
+root.records[25].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[25].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[25].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[25].InLap,InLap,NoneType,None,2019,5565
+root.records[25].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[25].QualLap1,QualLap1,str, 39.5103,2019,5565
+root.records[25].QualLap2,QualLap2,str, 39.5254,2019,5565
+root.records[25].QualLap3,QualLap3,str, 39.5701,2019,5565
+root.records[25].QualLap4,QualLap4,str, 39.6344,2019,5565
+root.records[26].DriverUrl,DriverUrl,NoneType,None,2019,5565
+root.records[26].ElapsedTime,ElapsedTime,str,02:38.2542,2019,5565
+root.records[26].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[26].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[26].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[26].InLap,InLap,NoneType,None,2019,5565
+root.records[26].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[26].QualLap1,QualLap1,str, 39.4854,2019,5565
+root.records[26].QualLap2,QualLap2,str, 39.5270,2019,5565
+root.records[26].QualLap3,QualLap3,str, 39.5860,2019,5565
+root.records[26].QualLap4,QualLap4,str, 39.6558,2019,5565
+root.records[27].DriverUrl,DriverUrl,NoneType,None,2019,5565
+root.records[27].ElapsedTime,ElapsedTime,str,02:38.3523,2019,5565
+root.records[27].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[27].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[27].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[27].InLap,InLap,NoneType,None,2019,5565
+root.records[27].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[27].QualLap1,QualLap1,str, 39.4136,2019,5565
+root.records[27].QualLap2,QualLap2,str, 39.5770,2019,5565
+root.records[27].QualLap3,QualLap3,str, 39.6792,2019,5565
+root.records[27].QualLap4,QualLap4,str, 39.6825,2019,5565
+root.records[28].DriverUrl,DriverUrl,str,/Drivers/Felix-Rosenqvist,2019,5565
+root.records[28].ElapsedTime,ElapsedTime,str,02:38.3834,2019,5565
+root.records[28].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[28].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[28].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[28].InLap,InLap,NoneType,None,2019,5565
+root.records[28].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[28].QualLap1,QualLap1,str, 39.5183,2019,5565
+root.records[28].QualLap2,QualLap2,str, 39.5561,2019,5565
+root.records[28].QualLap3,QualLap3,str, 39.6150,2019,5565
+root.records[28].QualLap4,QualLap4,str, 39.6940,2019,5565
+root.records[29].DriverUrl,DriverUrl,NoneType,None,2019,5565
+root.records[29].ElapsedTime,ElapsedTime,str,02:38.4203,2019,5565
+root.records[29].LapsComplete,LapsComplete,NoneType,None,2019,5565
+root.records[29].LapsDown,LapsDown,NoneType,None,2019,5565
+root.records[29].BestLapTime,BestLapTime,NoneType,None,2019,5565
+root.records[29].InLap,InLap,NoneType,None,2019,5565
+root.records[29].LapsLed,LapsLed,NoneType,None,2019,5565
+root.records[29].QualLap1,QualLap1,str, 39.4099,2019,5565
+root.records[29].QualLap2,QualLap2,str, 39.5814,2019,5565
+root.records[29].QualLap3,QualLap3,str, 39.7379,2019,5565
+root.records[29].QualLap4,QualLap4,str, 39.6911,2019,5565
+root.SessionReports,SessionReports,list,,2019,5565
+root.SessionReports[0].DocumentID,DocumentID,str,340b5372-8828-4ec3-bd71-3a815c1c03f9,2019,5565
+root.SessionReports[0].Name,Name,str,Overall Results,2019,5565
+root.SessionReports[0].Url,Url,str,INDYCAR/Documents/5565/2019-05-18/indycar-qualresults.pdf,2019,5565
+root.SessionReports[0].FileType,FileType,str,application/pdf,2019,5565
+root.SessionReports[0].modified_date,modified_date,str,/Date(1558221805500)/,2019,5565
+root.SessionReports[0].IsActive,IsActive,bool,True,2019,5565
+root.SessionReports[0].DocumentType,DocumentType,str,Overall Results,2019,5565
+root.SessionReports[0].SortOrder,SortOrder,int,6,2019,5565
+root.SessionReports[1].DocumentID,DocumentID,str,ce59de93-5d14-4141-802a-246353a325f4,2019,5565
+root.SessionReports[1].Name,Name,str,Results,2019,5565
+root.SessionReports[1].Url,Url,str,INDYCAR/Documents/5565/2019-05-18/indycar-results-quals-day1.pdf,2019,5565
+root.SessionReports[1].FileType,FileType,str,application/pdf,2019,5565
+root.SessionReports[1].modified_date,modified_date,str,/Date(1558217851773)/,2019,5565
+root.SessionReports[1].IsActive,IsActive,bool,True,2019,5565
+root.SessionReports[1].DocumentType,DocumentType,str,Results,2019,5565
+root.SessionReports[1].SortOrder,SortOrder,int,8,2019,5565
+root.SessionReports[2].DocumentID,DocumentID,str,116f4d16-0f51-4df9-af24-add490cfb7db,2019,5565
+root.SessionReports[2].Name,Name,str,Section Results,2019,5565
+root.SessionReports[2].Url,Url,str,INDYCAR/Documents/5565/2019-05-18/indycar-sectionresults-quals-day1.pdf,2019,5565
+root.SessionReports[2].FileType,FileType,str,application/pdf,2019,5565
+root.SessionReports[2].modified_date,modified_date,str,/Date(1558217868440)/,2019,5565
+root.SessionReports[2].IsActive,IsActive,bool,True,2019,5565
+root.SessionReports[2].DocumentType,DocumentType,str,Section Results,2019,5565
+root.SessionReports[2].SortOrder,SortOrder,int,9,2019,5565
+root.SessionReports[3].DocumentID,DocumentID,str,c98d372e-181e-4509-ab05-2d71b6a7def0,2019,5565
+root.SessionReports[3].Name,Name,str,Top Section Times,2019,5565
+root.SessionReports[3].Url,Url,str,INDYCAR/Documents/5565/2019-05-18/indycar-topsectiontimes-quals-day1.pdf,2019,5565
+root.SessionReports[3].FileType,FileType,str,application/pdf,2019,5565
+root.SessionReports[3].modified_date,modified_date,str,/Date(1558217881333)/,2019,5565
+root.SessionReports[3].IsActive,IsActive,bool,True,2019,5565
+root.SessionReports[3].DocumentType,DocumentType,str,Top Section Times,2019,5565
+root.SessionReports[3].SortOrder,SortOrder,int,10,2019,5565
+root.records[0].DriverUrl,DriverUrl,str,/Drivers/Alex-Palou,2025,6656
+root.records[0].ElapsedTime,ElapsedTime,str,02:34.4781,2025,6656
+root.records[0].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[0].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[0].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[0].InLap,InLap,NoneType,None,2025,6656
+root.records[0].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[0].QualLap1,QualLap1,str, 38.6133,2025,6656
+root.records[0].QualLap2,QualLap2,str, 38.6088,2025,6656
+root.records[0].QualLap3,QualLap3,str, 38.6325,2025,6656
+root.records[0].QualLap4,QualLap4,str, 38.6235,2025,6656
+root.records[1].DriverUrl,DriverUrl,str,/Drivers/Scott-McLaughlin,2025,6656
+root.records[1].ElapsedTime,ElapsedTime,str,02:34.4979,2025,6656
+root.records[1].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[1].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[1].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[1].InLap,InLap,NoneType,None,2025,6656
+root.records[1].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[1].QualLap1,QualLap1,str, 38.6043,2025,6656
+root.records[1].QualLap2,QualLap2,str, 38.7107,2025,6656
+root.records[1].QualLap3,QualLap3,str, 38.5799,2025,6656
+root.records[1].QualLap4,QualLap4,str, 38.6030,2025,6656
+root.records[2].DriverUrl,DriverUrl,str,/Drivers/Josef-Newgarden,2025,6656
+root.records[2].ElapsedTime,ElapsedTime,str,02:34.5036,2025,6656
+root.records[2].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[2].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[2].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[2].InLap,InLap,NoneType,None,2025,6656
+root.records[2].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[2].QualLap1,QualLap1,str, 38.6151,2025,6656
+root.records[2].QualLap2,QualLap2,str, 38.6252,2025,6656
+root.records[2].QualLap3,QualLap3,str, 38.6271,2025,6656
+root.records[2].QualLap4,QualLap4,str, 38.6362,2025,6656
+root.records[3].DriverUrl,DriverUrl,str,/Drivers/Pato-OWard,2025,6656
+root.records[3].ElapsedTime,ElapsedTime,str,02:34.6257,2025,6656
+root.records[3].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[3].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[3].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[3].InLap,InLap,NoneType,None,2025,6656
+root.records[3].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[3].QualLap1,QualLap1,str, 38.6512,2025,6656
+root.records[3].QualLap2,QualLap2,str, 38.6486,2025,6656
+root.records[3].QualLap3,QualLap3,str, 38.6614,2025,6656
+root.records[3].QualLap4,QualLap4,str, 38.6645,2025,6656
+root.records[4].DriverUrl,DriverUrl,str,/Drivers/Scott-Dixon,2025,6656
+root.records[4].ElapsedTime,ElapsedTime,str,02:34.7327,2025,6656
+root.records[4].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[4].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[4].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[4].InLap,InLap,NoneType,None,2025,6656
+root.records[4].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[4].QualLap1,QualLap1,str, 38.6892,2025,6656
+root.records[4].QualLap2,QualLap2,str, 38.6806,2025,6656
+root.records[4].QualLap3,QualLap3,str, 38.6962,2025,6656
+root.records[4].QualLap4,QualLap4,str, 38.6667,2025,6656
+root.records[5].DriverUrl,DriverUrl,NoneType,None,2025,6656
+root.records[5].ElapsedTime,ElapsedTime,str,02:34.7828,2025,6656
+root.records[5].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[5].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[5].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[5].InLap,InLap,NoneType,None,2025,6656
+root.records[5].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[5].QualLap1,QualLap1,str, 38.5885,2025,6656
+root.records[5].QualLap2,QualLap2,str, 38.6101,2025,6656
+root.records[5].QualLap3,QualLap3,str, 38.7885,2025,6656
+root.records[5].QualLap4,QualLap4,str, 38.7957,2025,6656
+root.records[6].DriverUrl,DriverUrl,str,/Drivers/David-Malukas,2025,6656
+root.records[6].ElapsedTime,ElapsedTime,str,02:34.8080,2025,6656
+root.records[6].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[6].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[6].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[6].InLap,InLap,NoneType,None,2025,6656
+root.records[6].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[6].QualLap1,QualLap1,str, 38.6251,2025,6656
+root.records[6].QualLap2,QualLap2,str, 38.6378,2025,6656
+root.records[6].QualLap3,QualLap3,str, 38.7685,2025,6656
+root.records[6].QualLap4,QualLap4,str, 38.7766,2025,6656
+root.records[7].DriverUrl,DriverUrl,str,/Drivers/Felix-Rosenqvist,2025,6656
+root.records[7].ElapsedTime,ElapsedTime,str,02:34.8726,2025,6656
+root.records[7].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[7].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[7].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[7].InLap,InLap,NoneType,None,2025,6656
+root.records[7].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[7].QualLap1,QualLap1,str, 38.5713,2025,6656
+root.records[7].QualLap2,QualLap2,str, 38.5816,2025,6656
+root.records[7].QualLap3,QualLap3,str, 38.9564,2025,6656
+root.records[7].QualLap4,QualLap4,str, 38.7633,2025,6656
+root.records[8].DriverUrl,DriverUrl,str,/Drivers/Takuma-Sato,2025,6656
+root.records[8].ElapsedTime,ElapsedTime,str,02:34.8951,2025,6656
+root.records[8].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[8].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[8].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[8].InLap,InLap,NoneType,None,2025,6656
+root.records[8].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[8].QualLap1,QualLap1,str, 38.6448,2025,6656
+root.records[8].QualLap2,QualLap2,str, 38.6533,2025,6656
+root.records[8].QualLap3,QualLap3,str, 38.8416,2025,6656
+root.records[8].QualLap4,QualLap4,str, 38.7554,2025,6656
+root.records[9].DriverUrl,DriverUrl,str,/Drivers/Will-Power,2025,6656
+root.records[9].ElapsedTime,ElapsedTime,str,02:35.0760,2025,6656
+root.records[9].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[9].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[9].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[9].InLap,InLap,NoneType,None,2025,6656
+root.records[9].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[9].QualLap1,QualLap1,str, 38.7638,2025,6656
+root.records[9].QualLap2,QualLap2,str, 38.7848,2025,6656
+root.records[9].QualLap3,QualLap3,str, 38.7879,2025,6656
+root.records[9].QualLap4,QualLap4,str, 38.7395,2025,6656
+root.records[10].DriverUrl,DriverUrl,str,/Drivers/Marcus-Ericsson,2025,6656
+root.records[10].ElapsedTime,ElapsedTime,str,02:35.0843,2025,6656
+root.records[10].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[10].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[10].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[10].InLap,InLap,NoneType,None,2025,6656
+root.records[10].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[10].QualLap1,QualLap1,str, 38.7726,2025,6656
+root.records[10].QualLap2,QualLap2,str, 38.7193,2025,6656
+root.records[10].QualLap3,QualLap3,str, 38.7681,2025,6656
+root.records[10].QualLap4,QualLap4,str, 38.8243,2025,6656
+root.records[11].DriverUrl,DriverUrl,str,/Drivers/Christian-Lundgaard,2025,6656
+root.records[11].ElapsedTime,ElapsedTime,str,02:35.3004,2025,6656
+root.records[11].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[11].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[11].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[11].InLap,InLap,NoneType,None,2025,6656
+root.records[11].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[11].QualLap1,QualLap1,str, 38.8304,2025,6656
+root.records[11].QualLap2,QualLap2,str, 38.7789,2025,6656
+root.records[11].QualLap3,QualLap3,str, 38.8518,2025,6656
+root.records[11].QualLap4,QualLap4,str, 38.8393,2025,6656
+root.records[12].DriverUrl,DriverUrl,str,/Drivers/Conor-Daly,2025,6656
+root.records[12].ElapsedTime,ElapsedTime,str,02:35.3568,2025,6656
+root.records[12].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[12].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[12].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[12].InLap,InLap,NoneType,None,2025,6656
+root.records[12].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[12].QualLap1,QualLap1,str, 38.8318,2025,6656
+root.records[12].QualLap2,QualLap2,str, 38.8140,2025,6656
+root.records[12].QualLap3,QualLap3,str, 38.8147,2025,6656
+root.records[12].QualLap4,QualLap4,str, 38.8963,2025,6656
+root.records[13].DriverUrl,DriverUrl,str,/Drivers/Alexander-Rossi,2025,6656
+root.records[13].ElapsedTime,ElapsedTime,str,02:35.3725,2025,6656
+root.records[13].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[13].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[13].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[13].InLap,InLap,NoneType,None,2025,6656
+root.records[13].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[13].QualLap1,QualLap1,str, 38.6710,2025,6656
+root.records[13].QualLap2,QualLap2,str, 38.8792,2025,6656
+root.records[13].QualLap3,QualLap3,str, 38.8304,2025,6656
+root.records[13].QualLap4,QualLap4,str, 38.9919,2025,6656
+root.records[14].DriverUrl,DriverUrl,str,/Drivers/Kyffin-Simpson,2025,6656
+root.records[14].ElapsedTime,ElapsedTime,str,02:35.4127,2025,6656
+root.records[14].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[14].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[14].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[14].InLap,InLap,NoneType,None,2025,6656
+root.records[14].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[14].QualLap1,QualLap1,str, 38.7937,2025,6656
+root.records[14].QualLap2,QualLap2,str, 38.8439,2025,6656
+root.records[14].QualLap3,QualLap3,str, 38.9210,2025,6656
+root.records[14].QualLap4,QualLap4,str, 38.8541,2025,6656
+root.records[15].DriverUrl,DriverUrl,str,/Drivers/Ed-Carpenter,2025,6656
+root.records[15].ElapsedTime,ElapsedTime,str,02:35.4180,2025,6656
+root.records[15].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[15].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[15].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[15].InLap,InLap,NoneType,None,2025,6656
+root.records[15].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[15].QualLap1,QualLap1,str, 38.7904,2025,6656
+root.records[15].QualLap2,QualLap2,str, 38.8833,2025,6656
+root.records[15].QualLap3,QualLap3,str, 38.8448,2025,6656
+root.records[15].QualLap4,QualLap4,str, 38.8995,2025,6656
+root.records[16].DriverUrl,DriverUrl,str,/Drivers/Santino-Ferrucci,2025,6656
+root.records[16].ElapsedTime,ElapsedTime,str,02:35.4453,2025,6656
+root.records[16].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[16].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[16].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[16].InLap,InLap,NoneType,None,2025,6656
+root.records[16].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[16].QualLap1,QualLap1,str, 38.8371,2025,6656
+root.records[16].QualLap2,QualLap2,str, 38.8373,2025,6656
+root.records[16].QualLap3,QualLap3,str, 38.8351,2025,6656
+root.records[16].QualLap4,QualLap4,str, 38.9358,2025,6656
+root.records[17].DriverUrl,DriverUrl,NoneType,None,2025,6656
+root.records[17].ElapsedTime,ElapsedTime,str,02:35.4575,2025,6656
+root.records[17].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[17].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[17].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[17].InLap,InLap,NoneType,None,2025,6656
+root.records[17].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[17].QualLap1,QualLap1,str, 38.7468,2025,6656
+root.records[17].QualLap2,QualLap2,str, 38.8389,2025,6656
+root.records[17].QualLap3,QualLap3,str, 38.8811,2025,6656
+root.records[17].QualLap4,QualLap4,str, 38.9907,2025,6656
+root.records[18].DriverUrl,DriverUrl,str,/Drivers/Sting-Ray-Robb,2025,6656
+root.records[18].ElapsedTime,ElapsedTime,str,02:35.5336,2025,6656
+root.records[18].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[18].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[18].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[18].InLap,InLap,NoneType,None,2025,6656
+root.records[18].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[18].QualLap1,QualLap1,str, 38.7773,2025,6656
+root.records[18].QualLap2,QualLap2,str, 38.8971,2025,6656
+root.records[18].QualLap3,QualLap3,str, 38.9527,2025,6656
+root.records[18].QualLap4,QualLap4,str, 38.9065,2025,6656
+root.records[19].DriverUrl,DriverUrl,str,/Drivers/Christian-Rasmussen,2025,6656
+root.records[19].ElapsedTime,ElapsedTime,str,02:35.5489,2025,6656
+root.records[19].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[19].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[19].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[19].InLap,InLap,NoneType,None,2025,6656
+root.records[19].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[19].QualLap1,QualLap1,str, 38.7646,2025,6656
+root.records[19].QualLap2,QualLap2,str, 38.9281,2025,6656
+root.records[19].QualLap3,QualLap3,str, 38.9435,2025,6656
+root.records[19].QualLap4,QualLap4,str, 38.9127,2025,6656
+root.records[20].DriverUrl,DriverUrl,NoneType,None,2025,6656
+root.records[20].ElapsedTime,ElapsedTime,str,02:35.6242,2025,6656
+root.records[20].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[20].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[20].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[20].InLap,InLap,NoneType,None,2025,6656
+root.records[20].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[20].QualLap1,QualLap1,str, 38.8021,2025,6656
+root.records[20].QualLap2,QualLap2,str, 38.8883,2025,6656
+root.records[20].QualLap3,QualLap3,str, 38.9354,2025,6656
+root.records[20].QualLap4,QualLap4,str, 38.9984,2025,6656
+root.records[21].DriverUrl,DriverUrl,str,/Drivers/Louis-Foster,2025,6656
+root.records[21].ElapsedTime,ElapsedTime,str,02:35.8049,2025,6656
+root.records[21].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[21].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[21].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[21].InLap,InLap,NoneType,None,2025,6656
+root.records[21].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[21].QualLap1,QualLap1,str, 38.8669,2025,6656
+root.records[21].QualLap2,QualLap2,str, 38.9154,2025,6656
+root.records[21].QualLap3,QualLap3,str, 39.0120,2025,6656
+root.records[21].QualLap4,QualLap4,str, 39.0106,2025,6656
+root.records[22].DriverUrl,DriverUrl,NoneType,None,2025,6656
+root.records[22].ElapsedTime,ElapsedTime,str,02:35.8489,2025,6656
+root.records[22].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[22].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[22].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[22].InLap,InLap,NoneType,None,2025,6656
+root.records[22].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[22].QualLap1,QualLap1,str, 38.9142,2025,6656
+root.records[22].QualLap2,QualLap2,str, 38.9637,2025,6656
+root.records[22].QualLap3,QualLap3,str, 38.9931,2025,6656
+root.records[22].QualLap4,QualLap4,str, 38.9779,2025,6656
+root.records[23].DriverUrl,DriverUrl,str,/Drivers/Helio-Castroneves,2025,6656
+root.records[23].ElapsedTime,ElapsedTime,str,02:35.8592,2025,6656
+root.records[23].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[23].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[23].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[23].InLap,InLap,NoneType,None,2025,6656
+root.records[23].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[23].QualLap1,QualLap1,str, 38.9097,2025,6656
+root.records[23].QualLap2,QualLap2,str, 38.9394,2025,6656
+root.records[23].QualLap3,QualLap3,str, 39.0034,2025,6656
+root.records[23].QualLap4,QualLap4,str, 39.0067,2025,6656
+root.records[24].DriverUrl,DriverUrl,str,/Drivers/Kyle-Kirkwood,2025,6656
+root.records[24].ElapsedTime,ElapsedTime,str,02:35.8999,2025,6656
+root.records[24].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[24].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[24].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[24].InLap,InLap,NoneType,None,2025,6656
+root.records[24].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[24].QualLap1,QualLap1,str, 38.8022,2025,6656
+root.records[24].QualLap2,QualLap2,str, 38.9161,2025,6656
+root.records[24].QualLap3,QualLap3,str, 38.9177,2025,6656
+root.records[24].QualLap4,QualLap4,str, 39.2639,2025,6656
+root.records[25].DriverUrl,DriverUrl,str,/Drivers/Nolan-Siegel,2025,6656
+root.records[25].ElapsedTime,ElapsedTime,str,02:36.1342,2025,6656
+root.records[25].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[25].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[25].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[25].InLap,InLap,NoneType,None,2025,6656
+root.records[25].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[25].QualLap1,QualLap1,str, 38.9652,2025,6656
+root.records[25].QualLap2,QualLap2,str, 38.9952,2025,6656
+root.records[25].QualLap3,QualLap3,str, 39.0642,2025,6656
+root.records[25].QualLap4,QualLap4,str, 39.1096,2025,6656
+root.records[26].DriverUrl,DriverUrl,str,/Drivers/Ryan-Hunter-Reay,2025,6656
+root.records[26].ElapsedTime,ElapsedTime,str,02:36.2752,2025,6656
+root.records[26].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[26].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[26].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[26].InLap,InLap,NoneType,None,2025,6656
+root.records[26].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[26].QualLap1,QualLap1,str, 39.0208,2025,6656
+root.records[26].QualLap2,QualLap2,str, 39.0438,2025,6656
+root.records[26].QualLap3,QualLap3,str, 39.1288,2025,6656
+root.records[26].QualLap4,QualLap4,str, 39.0818,2025,6656
+root.records[27].DriverUrl,DriverUrl,str,/Drivers/Jack-Harvey,2025,6656
+root.records[27].ElapsedTime,ElapsedTime,str,02:36.2853,2025,6656
+root.records[27].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[27].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[27].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[27].InLap,InLap,NoneType,None,2025,6656
+root.records[27].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[27].QualLap1,QualLap1,str, 38.9101,2025,6656
+root.records[27].QualLap2,QualLap2,str, 39.0487,2025,6656
+root.records[27].QualLap3,QualLap3,str, 39.2036,2025,6656
+root.records[27].QualLap4,QualLap4,str, 39.1229,2025,6656
+root.records[28].DriverUrl,DriverUrl,NoneType,None,2025,6656
+root.records[28].ElapsedTime,ElapsedTime,str,02:36.3910,2025,6656
+root.records[28].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[28].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[28].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[28].InLap,InLap,NoneType,None,2025,6656
+root.records[28].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[28].QualLap1,QualLap1,str, 39.1173,2025,6656
+root.records[28].QualLap2,QualLap2,str, 39.0871,2025,6656
+root.records[28].QualLap3,QualLap3,str, 39.0924,2025,6656
+root.records[28].QualLap4,QualLap4,str, 39.0942,2025,6656
+root.records[29].DriverUrl,DriverUrl,str,/Drivers/Graham-Rahal,2025,6656
+root.records[29].ElapsedTime,ElapsedTime,str,02:36.6152,2025,6656
+root.records[29].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[29].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[29].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[29].InLap,InLap,NoneType,None,2025,6656
+root.records[29].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[29].QualLap1,QualLap1,str, 39.0302,2025,6656
+root.records[29].QualLap2,QualLap2,str, 39.1385,2025,6656
+root.records[29].QualLap3,QualLap3,str, 39.2382,2025,6656
+root.records[29].QualLap4,QualLap4,str, 39.2083,2025,6656
+root.records[30].DriverUrl,DriverUrl,NoneType,None,2025,6656
+root.records[30].ElapsedTime,ElapsedTime,str,02:36.6180,2025,6656
+root.records[30].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[30].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[30].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[30].InLap,InLap,NoneType,None,2025,6656
+root.records[30].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[30].QualLap1,QualLap1,str, 39.0480,2025,6656
+root.records[30].QualLap2,QualLap2,str, 39.1769,2025,6656
+root.records[30].QualLap3,QualLap3,str, 39.0925,2025,6656
+root.records[30].QualLap4,QualLap4,str, 39.3006,2025,6656
+root.records[31].DriverUrl,DriverUrl,str,/Drivers/Rinus-VeeKay,2025,6656
+root.records[31].ElapsedTime,ElapsedTime,str,02:36.8501,2025,6656
+root.records[31].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[31].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[31].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[31].InLap,InLap,NoneType,None,2025,6656
+root.records[31].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[31].QualLap1,QualLap1,str, 39.1007,2025,6656
+root.records[31].QualLap2,QualLap2,str, 39.0825,2025,6656
+root.records[31].QualLap3,QualLap3,str, 39.1754,2025,6656
+root.records[31].QualLap4,QualLap4,str, 39.4915,2025,6656
+root.records[32].DriverUrl,DriverUrl,str,/Drivers/Marcus-Armstrong,2025,6656
+root.records[32].ElapsedTime,ElapsedTime,str,01:58.8256,2025,6656
+root.records[32].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[32].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[32].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[32].InLap,InLap,NoneType,None,2025,6656
+root.records[32].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[32].QualLap1,QualLap1,str, 39.1987,2025,6656
+root.records[32].QualLap2,QualLap2,str, 39.2122,2025,6656
+root.records[32].QualLap3,QualLap3,str, 40.4147,2025,6656
+root.records[32].QualLap4,QualLap4,str,  0.0000,2025,6656
+root.records[33].DriverUrl,DriverUrl,str,/Drivers/Jacob-Abel,2025,6656
+root.records[33].ElapsedTime,ElapsedTime,str,02:38.6892,2025,6656
+root.records[33].LapsComplete,LapsComplete,NoneType,None,2025,6656
+root.records[33].LapsDown,LapsDown,NoneType,None,2025,6656
+root.records[33].BestLapTime,BestLapTime,NoneType,None,2025,6656
+root.records[33].InLap,InLap,NoneType,None,2025,6656
+root.records[33].LapsLed,LapsLed,NoneType,None,2025,6656
+root.records[33].QualLap1,QualLap1,str, 39.7125,2025,6656
+root.records[33].QualLap2,QualLap2,str, 39.7983,2025,6656
+root.records[33].QualLap3,QualLap3,str, 39.6218,2025,6656
+root.records[33].QualLap4,QualLap4,str, 39.5566,2025,6656
+root.SessionReports,SessionReports,list,,2025,6656
+root.SessionReports[0].DocumentID,DocumentID,str,2b62cea7-81e4-4265-81e4-f09d8967fd38,2025,6656
+root.SessionReports[0].Name,Name,str,Overall Results,2025,6656
+root.SessionReports[0].Url,Url,str,INDYCAR/Documents/6656/2025-05-17/indycar-results-quals-day1.pdf,2025,6656
+root.SessionReports[0].FileType,FileType,str,application/pdf,2025,6656
+root.SessionReports[0].modified_date,modified_date,str,/Date(1747520756917)/,2025,6656
+root.SessionReports[0].IsActive,IsActive,bool,True,2025,6656
+root.SessionReports[0].DocumentType,DocumentType,str,Overall Results,2025,6656
+root.SessionReports[0].SortOrder,SortOrder,int,6,2025,6656
+root.SessionReports[1].DocumentID,DocumentID,str,8cb74863-ba9d-414d-b4eb-2bbffe856525,2025,6656
+root.SessionReports[1].Name,Name,str,Results,2025,6656
+root.SessionReports[1].Url,Url,str,INDYCAR/Documents/6656/2025-05-17/indycar-results-quals-day1.pdf,2025,6656
+root.SessionReports[1].FileType,FileType,str,application/pdf,2025,6656
+root.SessionReports[1].modified_date,modified_date,str,/Date(1747519291370)/,2025,6656
+root.SessionReports[1].IsActive,IsActive,bool,True,2025,6656
+root.SessionReports[1].DocumentType,DocumentType,str,Results,2025,6656
+root.SessionReports[1].SortOrder,SortOrder,int,8,2025,6656
+root.SessionReports[2].DocumentID,DocumentID,str,6c5cba28-9769-4c4e-b78e-3d0a9c3cd2c7,2025,6656
+root.SessionReports[2].Name,Name,str,Section Results,2025,6656
+root.SessionReports[2].Url,Url,str,INDYCAR/Documents/6656/2025-05-17/indycar-sectionresults-quals-day1.pdf,2025,6656
+root.SessionReports[2].FileType,FileType,str,application/pdf,2025,6656
+root.SessionReports[2].modified_date,modified_date,str,/Date(1747519297230)/,2025,6656
+root.SessionReports[2].IsActive,IsActive,bool,True,2025,6656
+root.SessionReports[2].DocumentType,DocumentType,str,Section Results,2025,6656
+root.SessionReports[2].SortOrder,SortOrder,int,9,2025,6656
+root.SessionReports[3].DocumentID,DocumentID,str,472f636c-5361-486a-a809-dfa4e84f71d9,2025,6656
+root.SessionReports[3].Name,Name,str,Top Section Times,2025,6656
+root.SessionReports[3].Url,Url,str,INDYCAR/Documents/6656/2025-05-17/indycar-topsectiontimes-quals-day1.pdf,2025,6656
+root.SessionReports[3].FileType,FileType,str,application/pdf,2025,6656
+root.SessionReports[3].modified_date,modified_date,str,/Date(1747519302933)/,2025,6656
+root.SessionReports[3].IsActive,IsActive,bool,True,2025,6656
+root.SessionReports[3].DocumentType,DocumentType,str,Top Section Times,2025,6656
+root.SessionReports[3].SortOrder,SortOrder,int,10,2025,6656
+root.records[0].DriverUrl,DriverUrl,str,/Drivers/Alex-Palou,2026,6835
+root.records[0].ElapsedTime,ElapsedTime,str,02:35.0066,2026,6835
+root.records[0].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[0].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[0].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[0].InLap,InLap,NoneType,None,2026,6835
+root.records[0].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[0].QualLap1,QualLap1,str, 38.6518,2026,6835
+root.records[0].QualLap2,QualLap2,str, 38.7351,2026,6835
+root.records[0].QualLap3,QualLap3,str, 38.8190,2026,6835
+root.records[0].QualLap4,QualLap4,str, 38.8007,2026,6835
+root.records[1].DriverUrl,DriverUrl,str,/Drivers/Alexander-Rossi,2026,6835
+root.records[1].ElapsedTime,ElapsedTime,str,02:35.1792,2026,6835
+root.records[1].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[1].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[1].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[1].InLap,InLap,NoneType,None,2026,6835
+root.records[1].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[1].QualLap1,QualLap1,str, 38.6984,2026,6835
+root.records[1].QualLap2,QualLap2,str, 38.7867,2026,6835
+root.records[1].QualLap3,QualLap3,str, 38.8416,2026,6835
+root.records[1].QualLap4,QualLap4,str, 38.8525,2026,6835
+root.records[2].DriverUrl,DriverUrl,str,/Drivers/David-Malukas,2026,6835
+root.records[2].ElapsedTime,ElapsedTime,str,02:35.2549,2026,6835
+root.records[2].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[2].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[2].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[2].InLap,InLap,NoneType,None,2026,6835
+root.records[2].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[2].QualLap1,QualLap1,str, 38.8387,2026,6835
+root.records[2].QualLap2,QualLap2,str, 38.8036,2026,6835
+root.records[2].QualLap3,QualLap3,str, 38.8317,2026,6835
+root.records[2].QualLap4,QualLap4,str, 38.7809,2026,6835
+root.records[3].DriverUrl,DriverUrl,str,/Drivers/Felix-Rosenqvist,2026,6835
+root.records[3].ElapsedTime,ElapsedTime,str,02:35.5914,2026,6835
+root.records[3].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[3].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[3].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[3].InLap,InLap,NoneType,None,2026,6835
+root.records[3].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[3].QualLap1,QualLap1,str, 38.8324,2026,6835
+root.records[3].QualLap2,QualLap2,str, 38.8981,2026,6835
+root.records[3].QualLap3,QualLap3,str, 38.9242,2026,6835
+root.records[3].QualLap4,QualLap4,str, 38.9367,2026,6835
+root.records[4].DriverUrl,DriverUrl,str,/Drivers/Santino-Ferrucci,2026,6835
+root.records[4].ElapsedTime,ElapsedTime,str,02:35.9482,2026,6835
+root.records[4].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[4].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[4].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[4].InLap,InLap,NoneType,None,2026,6835
+root.records[4].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[4].QualLap1,QualLap1,str, 38.9326,2026,6835
+root.records[4].QualLap2,QualLap2,str, 39.0114,2026,6835
+root.records[4].QualLap3,QualLap3,str, 39.0319,2026,6835
+root.records[4].QualLap4,QualLap4,str, 38.9723,2026,6835
+root.records[5].DriverUrl,DriverUrl,str,/Drivers/Pato-OWard,2026,6835
+root.records[5].ElapsedTime,ElapsedTime,str,02:36.2218,2026,6835
+root.records[5].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[5].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[5].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[5].InLap,InLap,NoneType,None,2026,6835
+root.records[5].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[5].QualLap1,QualLap1,str, 39.1120,2026,6835
+root.records[5].QualLap2,QualLap2,str, 39.0353,2026,6835
+root.records[5].QualLap3,QualLap3,str, 39.0304,2026,6835
+root.records[5].QualLap4,QualLap4,str, 39.0441,2026,6835
+root.records[6].DriverUrl,DriverUrl,str,/Drivers/Kyffin-Simpson,2026,6835
+root.records[6].ElapsedTime,ElapsedTime,str,02:35.9229,2026,6835
+root.records[6].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[6].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[6].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[6].InLap,InLap,NoneType,None,2026,6835
+root.records[6].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[6].QualLap1,QualLap1,str, 38.9509,2026,6835
+root.records[6].QualLap2,QualLap2,str, 38.9524,2026,6835
+root.records[6].QualLap3,QualLap3,str, 39.0335,2026,6835
+root.records[6].QualLap4,QualLap4,str, 38.9861,2026,6835
+root.records[7].DriverUrl,DriverUrl,str,/Drivers/Conor-Daly,2026,6835
+root.records[7].ElapsedTime,ElapsedTime,str,02:36.0390,2026,6835
+root.records[7].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[7].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[7].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[7].InLap,InLap,NoneType,None,2026,6835
+root.records[7].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[7].QualLap1,QualLap1,str, 38.9505,2026,6835
+root.records[7].QualLap2,QualLap2,str, 38.9202,2026,6835
+root.records[7].QualLap3,QualLap3,str, 39.0477,2026,6835
+root.records[7].QualLap4,QualLap4,str, 39.1206,2026,6835
+root.records[8].DriverUrl,DriverUrl,str,/Drivers/Scott-McLaughlin,2026,6835
+root.records[8].ElapsedTime,ElapsedTime,str,02:36.1300,2026,6835
+root.records[8].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[8].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[8].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[8].InLap,InLap,NoneType,None,2026,6835
+root.records[8].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[8].QualLap1,QualLap1,str, 38.8132,2026,6835
+root.records[8].QualLap2,QualLap2,str, 38.9094,2026,6835
+root.records[8].QualLap3,QualLap3,str, 39.1338,2026,6835
+root.records[8].QualLap4,QualLap4,str, 39.2736,2026,6835
+root.records[9].DriverUrl,DriverUrl,str,/Drivers/Scott-Dixon,2026,6835
+root.records[9].ElapsedTime,ElapsedTime,str,02:36.2862,2026,6835
+root.records[9].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[9].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[9].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[9].InLap,InLap,NoneType,None,2026,6835
+root.records[9].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[9].QualLap1,QualLap1,str, 38.9861,2026,6835
+root.records[9].QualLap2,QualLap2,str, 39.0478,2026,6835
+root.records[9].QualLap3,QualLap3,str, 39.1189,2026,6835
+root.records[9].QualLap4,QualLap4,str, 39.1334,2026,6835
+root.records[10].DriverUrl,DriverUrl,str,/Drivers/Rinus-VeeKay,2026,6835
+root.records[10].ElapsedTime,ElapsedTime,str,02:36.8048,2026,6835
+root.records[10].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[10].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[10].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[10].InLap,InLap,NoneType,None,2026,6835
+root.records[10].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[10].QualLap1,QualLap1,str, 38.7701,2026,6835
+root.records[10].QualLap2,QualLap2,str, 39.0720,2026,6835
+root.records[10].QualLap3,QualLap3,str, 39.3672,2026,6835
+root.records[10].QualLap4,QualLap4,str, 39.5955,2026,6835
+root.records[11].DriverUrl,DriverUrl,str,/Drivers/Takuma-Sato,2026,6835
+root.records[11].ElapsedTime,ElapsedTime,str,02:35.8477,2026,6835
+root.records[11].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[11].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[11].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[11].InLap,InLap,NoneType,None,2026,6835
+root.records[11].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[11].QualLap1,QualLap1,str, 38.8096,2026,6835
+root.records[11].QualLap2,QualLap2,str, 39.0164,2026,6835
+root.records[11].QualLap3,QualLap3,str, 38.9970,2026,6835
+root.records[11].QualLap4,QualLap4,str, 39.0247,2026,6835
+root.records[12].DriverUrl,DriverUrl,str,/Drivers/Ed-Carpenter,2026,6835
+root.records[12].ElapsedTime,ElapsedTime,str,02:35.9593,2026,6835
+root.records[12].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[12].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[12].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[12].InLap,InLap,NoneType,None,2026,6835
+root.records[12].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[12].QualLap1,QualLap1,str, 38.8228,2026,6835
+root.records[12].QualLap2,QualLap2,str, 38.8999,2026,6835
+root.records[12].QualLap3,QualLap3,str, 38.9634,2026,6835
+root.records[12].QualLap4,QualLap4,str, 39.2732,2026,6835
+root.records[13].DriverUrl,DriverUrl,str,/Drivers/Helio-Castroneves,2026,6835
+root.records[13].ElapsedTime,ElapsedTime,str,02:35.9717,2026,6835
+root.records[13].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[13].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[13].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[13].InLap,InLap,NoneType,None,2026,6835
+root.records[13].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[13].QualLap1,QualLap1,str, 38.9344,2026,6835
+root.records[13].QualLap2,QualLap2,str, 38.9609,2026,6835
+root.records[13].QualLap3,QualLap3,str, 39.0517,2026,6835
+root.records[13].QualLap4,QualLap4,str, 39.0247,2026,6835
+root.records[14].DriverUrl,DriverUrl,str,/Drivers/Christian-Rasmussen,2026,6835
+root.records[14].ElapsedTime,ElapsedTime,str,02:36.0434,2026,6835
+root.records[14].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[14].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[14].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[14].InLap,InLap,NoneType,None,2026,6835
+root.records[14].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[14].QualLap1,QualLap1,str, 38.9150,2026,6835
+root.records[14].QualLap2,QualLap2,str, 39.0450,2026,6835
+root.records[14].QualLap3,QualLap3,str, 39.0507,2026,6835
+root.records[14].QualLap4,QualLap4,str, 39.0327,2026,6835
+root.records[15].DriverUrl,DriverUrl,str,/Drivers/Marcus-Armstrong,2026,6835
+root.records[15].ElapsedTime,ElapsedTime,str,02:36.0464,2026,6835
+root.records[15].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[15].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[15].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[15].InLap,InLap,NoneType,None,2026,6835
+root.records[15].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[15].QualLap1,QualLap1,str, 38.9577,2026,6835
+root.records[15].QualLap2,QualLap2,str, 39.0729,2026,6835
+root.records[15].QualLap3,QualLap3,str, 39.0640,2026,6835
+root.records[15].QualLap4,QualLap4,str, 38.9518,2026,6835
+root.records[16].DriverUrl,DriverUrl,str,/Drivers/Marcus-Ericsson,2026,6835
+root.records[16].ElapsedTime,ElapsedTime,str,02:36.0690,2026,6835
+root.records[16].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[16].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[16].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[16].InLap,InLap,NoneType,None,2026,6835
+root.records[16].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[16].QualLap1,QualLap1,str, 38.8881,2026,6835
+root.records[16].QualLap2,QualLap2,str, 39.1244,2026,6835
+root.records[16].QualLap3,QualLap3,str, 38.9797,2026,6835
+root.records[16].QualLap4,QualLap4,str, 39.0768,2026,6835
+root.records[17].DriverUrl,DriverUrl,str,/Drivers/Christian-Lundgaard,2026,6835
+root.records[17].ElapsedTime,ElapsedTime,str,02:36.0729,2026,6835
+root.records[17].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[17].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[17].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[17].InLap,InLap,NoneType,None,2026,6835
+root.records[17].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[17].QualLap1,QualLap1,str, 38.9735,2026,6835
+root.records[17].QualLap2,QualLap2,str, 39.0041,2026,6835
+root.records[17].QualLap3,QualLap3,str, 39.1059,2026,6835
+root.records[17].QualLap4,QualLap4,str, 38.9894,2026,6835
+root.records[18].DriverUrl,DriverUrl,str,/Drivers/Will-Power,2026,6835
+root.records[18].ElapsedTime,ElapsedTime,str,02:36.3323,2026,6835
+root.records[18].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[18].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[18].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[18].InLap,InLap,NoneType,None,2026,6835
+root.records[18].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[18].QualLap1,QualLap1,str, 39.0566,2026,6835
+root.records[18].QualLap2,QualLap2,str, 39.1165,2026,6835
+root.records[18].QualLap3,QualLap3,str, 39.1005,2026,6835
+root.records[18].QualLap4,QualLap4,str, 39.0587,2026,6835
+root.records[19].DriverUrl,DriverUrl,str,/Drivers/Nolan-Siegel,2026,6835
+root.records[19].ElapsedTime,ElapsedTime,str,02:36.3769,2026,6835
+root.records[19].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[19].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[19].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[19].InLap,InLap,NoneType,None,2026,6835
+root.records[19].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[19].QualLap1,QualLap1,str, 39.1381,2026,6835
+root.records[19].QualLap2,QualLap2,str, 39.0565,2026,6835
+root.records[19].QualLap3,QualLap3,str, 39.0580,2026,6835
+root.records[19].QualLap4,QualLap4,str, 39.1243,2026,6835
+root.records[20].DriverUrl,DriverUrl,str,/Drivers/Louis-Foster,2026,6835
+root.records[20].ElapsedTime,ElapsedTime,str,02:36.3773,2026,6835
+root.records[20].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[20].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[20].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[20].InLap,InLap,NoneType,None,2026,6835
+root.records[20].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[20].QualLap1,QualLap1,str, 38.9572,2026,6835
+root.records[20].QualLap2,QualLap2,str, 39.1501,2026,6835
+root.records[20].QualLap3,QualLap3,str, 39.1178,2026,6835
+root.records[20].QualLap4,QualLap4,str, 39.1522,2026,6835
+root.records[21].DriverUrl,DriverUrl,str,/Drivers/Ryan-Hunter-Reay,2026,6835
+root.records[21].ElapsedTime,ElapsedTime,str,02:36.3843,2026,6835
+root.records[21].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[21].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[21].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[21].InLap,InLap,NoneType,None,2026,6835
+root.records[21].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[21].QualLap1,QualLap1,str, 39.0840,2026,6835
+root.records[21].QualLap2,QualLap2,str, 39.0919,2026,6835
+root.records[21].QualLap3,QualLap3,str, 39.1161,2026,6835
+root.records[21].QualLap4,QualLap4,str, 39.0923,2026,6835
+root.records[22].DriverUrl,DriverUrl,str,/Drivers/Josef-Newgarden,2026,6835
+root.records[22].ElapsedTime,ElapsedTime,str,02:36.4098,2026,6835
+root.records[22].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[22].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[22].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[22].InLap,InLap,NoneType,None,2026,6835
+root.records[22].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[22].QualLap1,QualLap1,str, 39.0500,2026,6835
+root.records[22].QualLap2,QualLap2,str, 39.1264,2026,6835
+root.records[22].QualLap3,QualLap3,str, 39.1343,2026,6835
+root.records[22].QualLap4,QualLap4,str, 39.0991,2026,6835
+root.records[23].DriverUrl,DriverUrl,str,/Drivers/Romain-Grosjean,2026,6835
+root.records[23].ElapsedTime,ElapsedTime,str,02:36.6643,2026,6835
+root.records[23].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[23].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[23].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[23].InLap,InLap,NoneType,None,2026,6835
+root.records[23].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[23].QualLap1,QualLap1,str, 39.0827,2026,6835
+root.records[23].QualLap2,QualLap2,str, 39.2411,2026,6835
+root.records[23].QualLap3,QualLap3,str, 39.1688,2026,6835
+root.records[23].QualLap4,QualLap4,str, 39.1717,2026,6835
+root.records[24].DriverUrl,DriverUrl,str,/Drivers/Kyle-Kirkwood,2026,6835
+root.records[24].ElapsedTime,ElapsedTime,str,02:36.7896,2026,6835
+root.records[24].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[24].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[24].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[24].InLap,InLap,NoneType,None,2026,6835
+root.records[24].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[24].QualLap1,QualLap1,str, 39.1156,2026,6835
+root.records[24].QualLap2,QualLap2,str, 39.2012,2026,6835
+root.records[24].QualLap3,QualLap3,str, 39.2521,2026,6835
+root.records[24].QualLap4,QualLap4,str, 39.2207,2026,6835
+root.records[25].DriverUrl,DriverUrl,str,/Drivers/Katherine-Legge,2026,6835
+root.records[25].ElapsedTime,ElapsedTime,str,02:36.8928,2026,6835
+root.records[25].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[25].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[25].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[25].InLap,InLap,NoneType,None,2026,6835
+root.records[25].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[25].QualLap1,QualLap1,str, 39.0628,2026,6835
+root.records[25].QualLap2,QualLap2,str, 39.1641,2026,6835
+root.records[25].QualLap3,QualLap3,str, 39.2822,2026,6835
+root.records[25].QualLap4,QualLap4,str, 39.3837,2026,6835
+root.records[26].DriverUrl,DriverUrl,str,/Drivers/Mick-Schumacher,2026,6835
+root.records[26].ElapsedTime,ElapsedTime,str,02:36.8969,2026,6835
+root.records[26].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[26].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[26].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[26].InLap,InLap,NoneType,None,2026,6835
+root.records[26].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[26].QualLap1,QualLap1,str, 39.1352,2026,6835
+root.records[26].QualLap2,QualLap2,str, 39.1969,2026,6835
+root.records[26].QualLap3,QualLap3,str, 39.2847,2026,6835
+root.records[26].QualLap4,QualLap4,str, 39.2801,2026,6835
+root.records[27].DriverUrl,DriverUrl,str,/Drivers/Graham-Rahal,2026,6835
+root.records[27].ElapsedTime,ElapsedTime,str,02:37.1936,2026,6835
+root.records[27].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[27].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[27].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[27].InLap,InLap,NoneType,None,2026,6835
+root.records[27].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[27].QualLap1,QualLap1,str, 39.1781,2026,6835
+root.records[27].QualLap2,QualLap2,str, 39.2461,2026,6835
+root.records[27].QualLap3,QualLap3,str, 39.3143,2026,6835
+root.records[27].QualLap4,QualLap4,str, 39.4551,2026,6835
+root.records[28].DriverUrl,DriverUrl,str,/Drivers/Dennis-Hauger,2026,6835
+root.records[28].ElapsedTime,ElapsedTime,str,02:37.2176,2026,6835
+root.records[28].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[28].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[28].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[28].InLap,InLap,NoneType,None,2026,6835
+root.records[28].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[28].QualLap1,QualLap1,str, 39.2606,2026,6835
+root.records[28].QualLap2,QualLap2,str, 39.2198,2026,6835
+root.records[28].QualLap3,QualLap3,str, 39.3836,2026,6835
+root.records[28].QualLap4,QualLap4,str, 39.3536,2026,6835
+root.records[29].DriverUrl,DriverUrl,str,/Drivers/Jacob-Abel,2026,6835
+root.records[29].ElapsedTime,ElapsedTime,str,02:37.7778,2026,6835
+root.records[29].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[29].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[29].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[29].InLap,InLap,NoneType,None,2026,6835
+root.records[29].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[29].QualLap1,QualLap1,str, 39.2897,2026,6835
+root.records[29].QualLap2,QualLap2,str, 39.3580,2026,6835
+root.records[29].QualLap3,QualLap3,str, 39.4642,2026,6835
+root.records[29].QualLap4,QualLap4,str, 39.6659,2026,6835
+root.records[30].DriverUrl,DriverUrl,str,/Drivers/Sting-Ray-Robb,2026,6835
+root.records[30].ElapsedTime,ElapsedTime,str,02:38.8901,2026,6835
+root.records[30].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[30].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[30].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[30].InLap,InLap,NoneType,None,2026,6835
+root.records[30].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[30].QualLap1,QualLap1,str, 39.1902,2026,6835
+root.records[30].QualLap2,QualLap2,str, 39.5668,2026,6835
+root.records[30].QualLap3,QualLap3,str, 39.9292,2026,6835
+root.records[30].QualLap4,QualLap4,str, 40.2039,2026,6835
+root.records[31].DriverUrl,DriverUrl,str,/Drivers/Caio-Collet,2026,6835
+root.records[31].ElapsedTime,ElapsedTime,str,No Time,2026,6835
+root.records[31].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[31].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[31].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[31].InLap,InLap,NoneType,None,2026,6835
+root.records[31].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[31].QualLap1,QualLap1,str, ,2026,6835
+root.records[31].QualLap2,QualLap2,str, ,2026,6835
+root.records[31].QualLap3,QualLap3,str, ,2026,6835
+root.records[31].QualLap4,QualLap4,str, ,2026,6835
+root.records[32].DriverUrl,DriverUrl,str,/Drivers/Jack-Harvey,2026,6835
+root.records[32].ElapsedTime,ElapsedTime,str,No Time,2026,6835
+root.records[32].LapsComplete,LapsComplete,NoneType,None,2026,6835
+root.records[32].LapsDown,LapsDown,NoneType,None,2026,6835
+root.records[32].BestLapTime,BestLapTime,NoneType,None,2026,6835
+root.records[32].InLap,InLap,NoneType,None,2026,6835
+root.records[32].LapsLed,LapsLed,NoneType,None,2026,6835
+root.records[32].QualLap1,QualLap1,str, ,2026,6835
+root.records[32].QualLap2,QualLap2,str, ,2026,6835
+root.records[32].QualLap3,QualLap3,str, ,2026,6835
+root.records[32].QualLap4,QualLap4,str, ,2026,6835
+root.SessionReports,SessionReports,list,,2026,6835
+root.SessionReports[0].DocumentID,DocumentID,str,bf8b6e4e-5457-40c8-85e8-1db59c25b1eb,2026,6835
+root.SessionReports[0].Name,Name,str,Overall Results,2026,6835
+root.SessionReports[0].Url,Url,str,INDYCAR/Documents/5526/6835/indycar-results-quals-poleday.pdf,2026,6835
+root.SessionReports[0].FileType,FileType,str,application/pdf,2026,6835
+root.SessionReports[0].modified_date,modified_date,str,/Date(1779072984097)/,2026,6835
+root.SessionReports[0].IsActive,IsActive,bool,True,2026,6835
+root.SessionReports[0].DocumentType,DocumentType,str,Overall Results,2026,6835
+root.SessionReports[0].SortOrder,SortOrder,int,6,2026,6835
+root.SessionReports[1].DocumentID,DocumentID,str,ee14a3c4-f825-4005-a27a-add9d28b2f97,2026,6835
+root.SessionReports[1].Name,Name,str,Results,2026,6835
+root.SessionReports[1].Url,Url,str,INDYCAR/Documents/5526/6835/indycar-results-quals-poleday.pdf,2026,6835
+root.SessionReports[1].FileType,FileType,str,application/pdf,2026,6835
+root.SessionReports[1].modified_date,modified_date,str,/Date(1779072996607)/,2026,6835
+root.SessionReports[1].IsActive,IsActive,bool,True,2026,6835
+root.SessionReports[1].DocumentType,DocumentType,str,Results,2026,6835
+root.SessionReports[1].SortOrder,SortOrder,int,8,2026,6835
+root.SessionReports[2].DocumentID,DocumentID,str,0992c81a-80e8-48a3-8312-46215ebebc28,2026,6835
+root.SessionReports[2].Name,Name,str,Section Results,2026,6835
+root.SessionReports[2].Url,Url,str,INDYCAR/Documents/5526/6835/indycar-sectionresults-quals-poleday.pdf,2026,6835
+root.SessionReports[2].FileType,FileType,str,application/pdf,2026,6835
+root.SessionReports[2].modified_date,modified_date,str,/Date(1779058413443)/,2026,6835
+root.SessionReports[2].IsActive,IsActive,bool,True,2026,6835
+root.SessionReports[2].DocumentType,DocumentType,str,Section Results,2026,6835
+root.SessionReports[2].SortOrder,SortOrder,int,9,2026,6835
+root.SessionReports[3].DocumentID,DocumentID,str,c0d562dc-9afb-4426-a6fe-9bc0b4271804,2026,6835
+root.SessionReports[3].Name,Name,str,Top Section Times,2026,6835
+root.SessionReports[3].Url,Url,str,INDYCAR/Documents/5526/6835/indycar-topsectiontimes-quals-poleday.pdf,2026,6835
+root.SessionReports[3].FileType,FileType,str,application/pdf,2026,6835
+root.SessionReports[3].modified_date,modified_date,str,/Date(1779058423180)/,2026,6835
+root.SessionReports[3].IsActive,IsActive,bool,True,2026,6835
+root.SessionReports[3].DocumentType,DocumentType,str,Top Section Times,2026,6835
+root.SessionReports[3].SortOrder,SortOrder,int,10,2026,6835

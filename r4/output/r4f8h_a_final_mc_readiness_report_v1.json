@@ -1,0 +1,93 @@
+{
+  "phase": "R4F8H-A",
+  "purpose": "Final Action Monte Carlo readiness audit only; no Monte Carlo executed.",
+  "input_files": {
+    "f8e_decision": {
+      "path": "r4/output/r4f8e_reconstructed_decision_numeric_state_v1.csv",
+      "rows": 60,
+      "sha256": "ec63d81fd99f72ae877f05762957e90c0ac6bdef8f28564c796b74b1984d629b"
+    },
+    "f8e_action": {
+      "path": "r4/output/r4f8e_reconstructed_action_numeric_interface_v1.csv",
+      "rows": 170,
+      "sha256": "86620bb2849b7a0831a14a926c4f031036c97ca0f9e5a74c93abd6869b5056aa"
+    },
+    "f8f_wait_params": {
+      "path": "r4/output/r4f8f_action_wait_distribution_parameters_v1.csv",
+      "rows": 18,
+      "sha256": "4d98a69e4386a9032c2c640baf076305dae63d6cef8d584df2a6065f09a0e603"
+    },
+    "f8f_wait_support": {
+      "path": "r4/output/r4f8f_wait_support_summary_v1.csv",
+      "rows": 6,
+      "sha256": "12e706eace4dc4f10c99546fa6811a57a6742c01305d2ca6fb9dd1349ae43889"
+    },
+    "f8g_decision_uncertainty": {
+      "path": "r4/output/r4f8g_decision_predictive_uncertainty_state_v1.csv",
+      "rows": 60,
+      "sha256": "d2f84bb1dd61481732d8e2b986c041ffc612b77e635c4f0b9bd4cc156f36bdec"
+    },
+    "f8g_uncertainty_params": {
+      "path": "r4/output/r4f8g_uncertainty_parameters_v1.csv",
+      "rows": 61,
+      "sha256": "c89078c00f3b5f8f38a46389ca46d02908a8323ae817f03774a8a6ffdbcff699"
+    }
+  },
+  "authoritative_universe": {
+    "decision_rows": 60,
+    "action_rows": 170,
+    "action_counts": {
+      "REATTEMPT": 4,
+      "RETAIN_AND_REATTEMPT": 50,
+      "STOP": 60,
+      "WITHDRAW_AND_PRIORITY_REATTEMPT": 50,
+      "WITHDRAW_AND_REATTEMPT": 6
+    }
+  },
+  "decision_readiness": {
+    "performance_sample_ready": 59,
+    "decision_time_available": 50,
+    "session_remaining_available": 0,
+    "unready_performance_decision_ids": [
+      "LAST_CHANCE::2021_24_POST_GUARANTEED_BREAK"
+    ],
+    "missing_current_speed_decision_ids": [
+      "LAST_CHANCE::2021_75_POST_GUARANTEED_BREAK",
+      "LAST_CHANCE::2021_11_POST_GUARANTEED_BREAK",
+      "LAST_CHANCE::2023_30_POST_GUARANTEED_BREAK"
+    ],
+    "missing_decision_time_decision_ids": [
+      "LAST_CHANCE::2021_24_POST_GUARANTEED_BREAK",
+      "LAST_CHANCE::2021_12_POST_GUARANTEED_BREAK",
+      "LAST_CHANCE::2021_16_POST_GUARANTEED_BREAK",
+      "LAST_CHANCE::2021_75_POST_GUARANTEED_BREAK",
+      "LAST_CHANCE::2021_11_POST_GUARANTEED_BREAK",
+      "LAST_CHANCE::2023_45_POST_GUARANTEED_BREAK",
+      "LAST_CHANCE::2023_51_POST_GUARANTEED_BREAK",
+      "LAST_CHANCE::2023_15_POST_GUARANTEED_BREAK",
+      "LAST_CHANCE::2023_30_POST_GUARANTEED_BREAK",
+      "LAST_CHANCE::2024_18_FINAL_DECISION"
+    ]
+  },
+  "action_readiness": {
+    "nonstop_action_rows": 110,
+    "nonstop_wait_model_ready": 110,
+    "core_ready_except_cutoff": 169,
+    "cutoff_completion_ready": 0
+  },
+  "cutoff_completion_status": "UNRESOLVED_DECISION_SAFE_SESSION_REMAINING",
+  "research_integrity": {
+    "final_mc_run": false,
+    "old_r4p11_final_probabilities_used": false,
+    "future_outcomes_used": false,
+    "fake_session_remaining_created": false,
+    "fake_last_chance_timestamp_created": false,
+    "performance_model_refit": false
+  },
+  "qa": {
+    "pass": 12,
+    "warn": 0,
+    "fail": 0
+  },
+  "next_step_if_no_fail": "Resolve the cutoff/completion policy and then implement R4F8H final action-conditioned Monte Carlo."
+}

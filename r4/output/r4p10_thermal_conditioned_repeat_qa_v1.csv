@@ -1,0 +1,9 @@
+metric,value,expected,status
+historical_transition_rows,92,92,PASS
+point_timed_performance_rows,40,40,PASS
+outer_test_safe_dataset_rows,39,>0,PASS
+thermal_outer_year_leak_rows,0,0,PASS
+missing_30m_thermal_predictions,0,0,PASS
+historical_wait_used_as_feature,0,0,PASS
+performance_validation,LEAVE_ONE_YEAR_OUT,LEAVE_ONE_YEAR_OUT,PASS
+thermal_validation_nested_inside_outer_year,True,True,PASS

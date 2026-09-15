@@ -1,0 +1,5 @@
+metric,value,expected,status
+candidate_rows_extracted,2,>0,PASS
+canonical_rows_created,2,>0,PASS
+2024_validation_role_preserved,True,True,PASS
+reference_priority_valid,True,True,PASS

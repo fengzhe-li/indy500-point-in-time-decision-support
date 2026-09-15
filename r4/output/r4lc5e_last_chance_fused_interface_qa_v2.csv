@@ -1,0 +1,9 @@
+metric,value,expected,status
+input_rows_preserved,10,10,PASS
+no_unknown_actions,0,0,PASS
+outside_field_never_labelled_withdraw,0,0,PASS
+protected_result_never_plain_reattempt,0,0,PASS
+last_chance_action_masks_valid,0,0,PASS
+last_chance_never_uses_retain,0,0,PASS
+last_chance_never_uses_priority,0,0,PASS
+shared_layers_still_unlinked,0,0,PASS

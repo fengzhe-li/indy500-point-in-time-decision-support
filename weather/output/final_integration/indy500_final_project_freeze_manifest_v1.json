@@ -1,0 +1,72 @@
+{
+  "project": "Indy 500 Qualifying Decision-Support Project",
+  "version": "FINAL_V1",
+  "status": "FROZEN",
+  "freeze_time_utc": "2026-09-14T08:37:34.340321+00:00",
+  "final_research_question": "If another on-track opportunity occurs h minutes from now, what distribution of four-lap qualifying-performance change should be expected relative to the current official result?",
+  "frozen_components": {
+    "physics_core": {
+      "transition_count": 41,
+      "bootstrap_draw_count": 5000
+    },
+    "v2a": {
+      "role": "future physical-state model",
+      "manifest_sha256": "ed81d2148b3f9ef2e00b4d63b01793b53fd90d1e0a8692e97809fbeb20be7e69"
+    },
+    "v2b": {
+      "role": "section mechanism validation",
+      "manifest_sha256": "7257a7d0eb0b5cdb4a22c5d530e2f7f445e25e0951c8a9a1ce100e3b7cf22171"
+    },
+    "v2c": {
+      "role": "wind residual identifiability diagnostic",
+      "manifest_sha256": "8050d9e9dbd1cf54bdd57dc4b07e19e0be524a71090131aed6fdb08a7a156160"
+    }
+  },
+  "validated_horizons_minutes": [
+    15,
+    30,
+    60,
+    90,
+    120
+  ],
+  "capability_boundary": {
+    "predict_future_performance_distribution": true,
+    "predict_queue_wait": false,
+    "predict_exact_opportunity_time": false,
+    "autonomous_retain_withdraw_decision": false,
+    "section_rows_expand_training_n": false,
+    "deterministic_wind_predictor": false,
+    "heteroskedastic_wind_model": false
+  },
+  "source_artifacts": {
+    "weather/output/final_integration/final_architecture_audit_v1.txt": {
+      "sha256": "a92b9a23d53982bf6c45082e9a9e136908235c91b8bfe1c3410e7caf283ad50a",
+      "bytes": 8406
+    },
+    "weather/output/v2_future_track/v2a_freeze_manifest_v1.json": {
+      "sha256": "ed81d2148b3f9ef2e00b4d63b01793b53fd90d1e0a8692e97809fbeb20be7e69",
+      "bytes": 4251
+    },
+    "weather/output/v2b_section_mechanism/v2b_freeze_manifest_v1.json": {
+      "sha256": "7257a7d0eb0b5cdb4a22c5d530e2f7f445e25e0951c8a9a1ce100e3b7cf22171",
+      "bytes": 2840
+    },
+    "weather/output/v2c_wind_diagnostic/v2c_freeze_manifest_v1.json": {
+      "sha256": "8050d9e9dbd1cf54bdd57dc4b07e19e0be524a71090131aed6fdb08a7a156160",
+      "bytes": 2606
+    },
+    "r5_2/manual/probabilistic_physics_coefficient_bootstrap_v1.csv": {
+      "sha256": "adbe04c05a2cc2147b5b46ccc490457fb3e8d0277447563a71a0ea572f1edc9f",
+      "bytes": 205811
+    },
+    "r5_2/manual/probabilistic_physics_loyo_residuals_v1.csv": {
+      "sha256": "04ddb1f4e605451c4d30ff1b4fb8809acc8e02290bad34e719f37e5cea224086",
+      "bytes": 4766
+    }
+  },
+  "system_specification": {
+    "path": "weather/output/final_integration/indy500_final_system_specification_v1.md",
+    "sha256": "efca689e79dac7bcd767a189fc075908b502b9d7a3374e81264295cdb75e6f8b",
+    "bytes": 14126
+  }
+}

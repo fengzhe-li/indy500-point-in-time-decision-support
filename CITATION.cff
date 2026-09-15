@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Indianapolis 500 Requalification Decision Support"
+message: "Please cite this repository and the frozen model version used."
+type: software
+authors:
+  - family-names: Li
+    given-names: Fengzhe
+repository-code: "https://github.com/fengzhe-li/indy500-requalification-result-withdrawal-decision-support"
+version: "FINAL_V2"
+date-released: 2026-09-15
+abstract: >-
+  Physics-conditioned probabilistic inference for Indianapolis 500
+  requalification decision support, with explicit historical identifiability,
+  uncertainty propagation and human-in-the-loop scope boundaries.
+

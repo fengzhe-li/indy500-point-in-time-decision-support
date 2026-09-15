@@ -1,0 +1,30 @@
+{
+  "checks": {
+    "decision_thresholds_created": false,
+    "engineering_unit_tests_pass": true,
+    "engineering_unit_tests_run": 7,
+    "r3c1_manifest_asset_count": 13,
+    "r3c1_manifest_assets_verified": true,
+    "strategy_probabilities_created": false,
+    "substantive_simulation_run": false,
+    "unconfigured_template_rejected": true
+  },
+  "notes": "Interface-only QA; no substantive strategy simulation or research parameter estimation.",
+  "phase": "R4_ENGINEERING_SCAFFOLD",
+  "r3c1_assets": {
+    "decision_time_observable_state_v4_1_final.csv": true,
+    "final_capability_summary_v1.json": true,
+    "final_core_results_v1.csv": true,
+    "final_limitations_v1.csv": true,
+    "final_results_freeze_v1_qa.csv": true,
+    "final_supported_claims_v1.csv": true,
+    "r3b3_performance_environment_sensitivity_v1.json": true,
+    "r3b3_repeat_pair_environment_dataset_v1.csv": true,
+    "r3b4_monte_carlo_performance_decision_envelope_v1.json": true,
+    "r3b_timed_subset_coverage_v1.csv": true,
+    "r3c_action_historical_applicability_v1.csv": true,
+    "r3c_final_monte_carlo_action_envelope_v2.csv": true,
+    "repeat_performance_recovery_probability_v1.csv": true
+  },
+  "status": "PASS"
+}

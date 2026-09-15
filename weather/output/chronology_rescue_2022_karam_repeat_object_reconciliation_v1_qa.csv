@@ -1,0 +1,14 @@
+﻿metric,value,status
+karam_object_count,3,PASS
+first_grounding,1,PASS
+second_grounding,1,PASS
+no_attempt_grounding,1,PASS
+repeat_pair_grounding,1,PASS
+policy_include,1,PASS
+no_attempt_excluded_from_pair,1,PASS
+chronology_covered_pair_count,0,PASS
+action_rows,0,PASS
+direct_repeat_hits,0,REVIEW
+direct_improvement_hits,0,REVIEW
+direct_withdraw_hits,0,REVIEW
+ledger_mutation,0,PASS

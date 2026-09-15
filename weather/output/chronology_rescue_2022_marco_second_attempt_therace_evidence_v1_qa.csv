@@ -1,0 +1,9 @@
+﻿metric,value,status
+first_grounding,1,PASS
+second_grounding,1,PASS
+official_p23_binding,1,PASS
+first_in_v7,1,PASS
+second_not_yet_in_v7,1,PASS
+lane_inferred,0,PASS
+queue_inferred,0,PASS
+ledger_mutation,0,PASS

@@ -1,0 +1,62 @@
+====================================================================================================
+INDY 500 V2-B SECTION LINKAGE AUDIT SUMMARY
+====================================================================================================
+
+FINAL CORE
+transitions: 41
+
+EXPLICIT ATTEMPT-ID LINKAGE
+matched: 27/41
+
+linkage_status
+matched_explicit_anchor    27
+no_explicit_anchor         14
+
+SECTION AVAILABILITY AMONG FINAL CORE
+both before/after attempts present in attempt_sections.csv: 27/41
+both before/after have section-speed data: 27/41
+both before/after cover >=4 laps in section table: 27/41
+
+MATCHED TRANSITIONS
+ year  car_number         driver_name  delta_speed_final_core_mph          linkage_status  both_attempts_in_section_table  both_have_section_speed  before_n_covered_laps  after_n_covered_laps
+ 2020          20        Ed Carpenter                       0.400 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2020           3   Helio Castroneves                       0.258 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2020          47          Conor Daly                       0.071 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2020           5         Pato O'Ward                       0.311 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2020          59         Max Chilton                       1.484 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2020          60         Jack Harvey                      -0.104 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2020           8     Marcus Ericsson                       0.094 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2020          81          Ben Hanley                       1.971 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2020          88        Colton Herta                       0.215 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2020           9         Scott Dixon                      -0.041 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2020           9         Scott Dixon                       0.102 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2021          12          Will Power                       0.176 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2021          16 Simona De Silvestro                       0.222 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2021          18            Ed Jones                       0.798 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2021           2     Josef Newgarden                       0.022 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2021          21        Rinus VeeKay                       0.642 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2021          25       Stefan Wilson                      -0.020 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2021          25       Stefan Wilson                      -0.062 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2021          26        Colton Herta                      -1.419 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2021           4      Dalton Kellett                      -0.927 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2021          47          Conor Daly                      -0.154 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2021          60         Jack Harvey                       4.695 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2021           7    Felix Rosenqvist                       0.246 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2021          86  Juan Pablo Montoya                      -0.154 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2021          98      Marco Andretti                       0.611 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2021          98      Marco Andretti                      -0.002 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2023          11         Takuma Sato                       0.465      no_explicit_anchor                           False                    False                    NaN                   NaN
+ 2023          27       Kyle Kirkwood                       0.227      no_explicit_anchor                           False                    False                    NaN                   NaN
+ 2023          27       Kyle Kirkwood                       0.045      no_explicit_anchor                           False                    False                    NaN                   NaN
+ 2023          29  Devlin DeFrancesco                       0.080      no_explicit_anchor                           False                    False                    NaN                   NaN
+ 2023          33        Ed Carpenter                      -0.109      no_explicit_anchor                           False                    False                    NaN                   NaN
+ 2023          33        Ed Carpenter                       0.178      no_explicit_anchor                           False                    False                    NaN                   NaN
+ 2023          66         Tony Kanaan                       0.174      no_explicit_anchor                           False                    False                    NaN                   NaN
+ 2023          66         Tony Kanaan                       0.727      no_explicit_anchor                           False                    False                    NaN                   NaN
+ 2023          77        Callum Ilott                       3.462 matched_explicit_anchor                            True                     True                    4.0                   4.0
+ 2023           8     Marcus Ericsson                      -0.314      no_explicit_anchor                           False                    False                    NaN                   NaN
+ 2023           8     Marcus Ericsson                       0.609      no_explicit_anchor                           False                    False                    NaN                   NaN
+ 2023           9         Scott Dixon                       0.461      no_explicit_anchor                           False                    False                    NaN                   NaN
+ 2023           6    Felix Rosenqvist                       0.848      no_explicit_anchor                           False                    False                    NaN                   NaN
+ 2024          21        Rinus VeeKay                       1.253      no_explicit_anchor                           False                    False                    NaN                   NaN
+ 2024           5         Pato O'Ward                       0.601      no_explicit_anchor                           False                    False                    NaN                   NaN

@@ -1,0 +1,11 @@
+﻿metric,value,status
+priority_rows_zero,0,PASS
+direct_rubber_grip_rows_zero,0,PASS
+direct_track_evolution_grip_rows_zero,0,PASS
+green_track_rows_zero,0,PASS
+adjacent_mechanism_valid,1,PASS
+adjacent_mechanism_not_promoted,0,PASS
+quantitative_rubber_inferred,0,PASS
+quantitative_grip_inferred,0,PASS
+elapsed_time_used_as_track_evolution,0,PASS
+active_ledger_mutation,0,PASS

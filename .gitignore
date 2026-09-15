@@ -1,36 +1,8 @@
-# Python
+.DS_Store
 __pycache__/
 *.py[cod]
-*.pyo
+.pytest_cache/
 .venv/
 venv/
-.env
-
-# macOS
-.DS_Store
-
-# IDE
-.vscode/
-.idea/
-
-# Temporary / cache
-*.tmp
-*.log
-.cache/
-.ipynb_checkpoints/
-
-# Large raw downloads / transient reconstruction artifacts
-raw_downloads/
-cache/
 tmp/
-
-# LaTeX build products
-*.aux
-*.bbl
-*.blg
-*.fdb_latexmk
-*.fls
 *.log
-*.out
-*.synctex.gz
-*.toc

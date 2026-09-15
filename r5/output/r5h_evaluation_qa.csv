@@ -1,0 +1,4 @@
+check,value,expected,status
+all mandatory ablations present,A_NO_CHANGE|C_PHYSICS_NO_TRACK|D_PHYSICS_NO_SOLAR|E_FINAL_PHYSICS|B_LEGACY_FAST_FRIDAY_CENTERED,A|B|C|D|E,PASS
+historical action optimal labels excluded,False,False,PASS
+no refit after evaluation,False,False,PASS

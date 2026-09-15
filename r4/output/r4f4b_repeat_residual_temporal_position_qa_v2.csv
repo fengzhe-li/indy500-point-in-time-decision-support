@@ -1,0 +1,5 @@
+metric,value,expected,status
+residual_rows_preserved,40,40,PASS
+all_temporal_positions_accounted_for,40,40,PASS
+development_sequence_overlap,0,OBSERVED,PASS
+no_decision_reference_handled_explicitly,1,OBSERVED,PASS

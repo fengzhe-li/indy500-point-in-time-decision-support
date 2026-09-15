@@ -1,0 +1,110 @@
+{
+  "phase": "R4F8H-C",
+  "status": "R4F8H_CUTOFF_COMPLETION_SENSITIVITY_POLICY_FROZEN",
+  "decision_universe": 60,
+  "sensitivity_grid_minutes": [
+    5,
+    10,
+    15,
+    20,
+    30,
+    45,
+    60
+  ],
+  "existing_cutoff_grid": {
+    "available": true,
+    "rows": 144,
+    "time_field": "time_remaining_minutes",
+    "completion_field": "completion_before_cutoff",
+    "margin_field": "cutoff_margin_minutes",
+    "cutoff_field": "session_cutoff_utc"
+  },
+  "run_duration_reference": {
+    "available": true,
+    "rows": 6,
+    "numeric_fields": [
+      {
+        "field": "rows",
+        "numeric_rows": 6,
+        "min": 40.0,
+        "max": 260.0
+      },
+      {
+        "field": "mean_seconds",
+        "numeric_rows": 6,
+        "min": 155.25390724637685,
+        "max": 156.92300652173913
+      },
+      {
+        "field": "median_seconds",
+        "numeric_rows": 6,
+        "min": 155.1185,
+        "max": 156.56305
+      },
+      {
+        "field": "q10_seconds",
+        "numeric_rows": 6,
+        "min": 154.33016,
+        "max": 155.7535
+      },
+      {
+        "field": "q25_seconds",
+        "numeric_rows": 6,
+        "min": 154.7128,
+        "max": 156.0315
+      },
+      {
+        "field": "q75_seconds",
+        "numeric_rows": 6,
+        "min": 155.7212,
+        "max": 157.31050000000002
+      },
+      {
+        "field": "q90_seconds",
+        "numeric_rows": 6,
+        "min": 156.18266,
+        "max": 158.44995
+      },
+      {
+        "field": "q95_seconds",
+        "numeric_rows": 6,
+        "min": 156.45696,
+        "max": 159.32765
+      },
+      {
+        "field": "min_seconds",
+        "numeric_rows": 6,
+        "min": 153.881,
+        "max": 155.6078
+      },
+      {
+        "field": "max_seconds",
+        "numeric_rows": 6,
+        "min": 158.0889,
+        "max": 162.936
+      }
+    ]
+  },
+  "interpretation": "Historical exact session remaining is unavailable across the general decision universe. Cutoff feasibility is therefore represented as a scenario-conditioned sensitivity envelope.",
+  "final_mc_policy": "Evaluate non-STOP action outcomes separately at 5/10/15/20/30/45/60-minute assumed remaining-time scenarios.",
+  "qa": {
+    "pass": 14,
+    "warn": 0,
+    "fail": 0
+  },
+  "protected_input_hashes": {
+    "r4/output/r4f8e_reconstructed_decision_numeric_state_v1.csv": "ec63d81fd99f72ae877f05762957e90c0ac6bdef8f28564c796b74b1984d629b",
+    "r4/output/r4f8f_wait_queue_model_contract_v1.json": "71140d6fc03f8a716c3a3521983eecaf4d3970e9ec5713ddc17ca51fc4de86f0",
+    "r4/output/r4f8g_decision_predictive_uncertainty_state_v1.csv": "d2f84bb1dd61481732d8e2b986c041ffc612b77e635c4f0b9bd4cc156f36bdec",
+    "r4/output/r4f8h_a_final_mc_readiness_report_v1.json": "89642230fa0a3991cec4dac9e02133d438cbcaa92c229148d82933bc06e6e35b",
+    "r4/output/r4f8h_b_cutoff_evidence_resolution_report_v1.json": "3e130b896c4acda554dd0680894675abc15fca28632a2f28e9771f629a6590d8"
+  },
+  "new_output_hashes": {
+    "r4/output/r4f8h_c_cutoff_completion_sensitivity_policy_v1.csv": "b0e49c95822e12cb1d4e7b3db8b35b519a3b86cc2e018a85880a213a06e37a11",
+    "r4/output/r4f8h_c_cutoff_completion_evidence_summary_v1.csv": "97adf0e77cb0fcbac20d90c8349429e77c57697cf0778749c8052c5d74287295",
+    "r4/output/r4f8h_c_cutoff_completion_policy_qa_v1.csv": "fc7ad9ff9024afa7a68d153d65289d7c0f07fe619190758387e99fac70eb6eff",
+    "r4/output/r4f8h_c_cutoff_completion_policy_contract_v1.json": "dc55ade319f394e8a1b28599c2ca4a16710b689fd56aa6e74747ba0dead96a12"
+  },
+  "final_mc_executed": false,
+  "next_phase": "R4F8H-D_FINAL_ACTION_MONTE_CARLO"
+}

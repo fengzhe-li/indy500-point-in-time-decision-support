@@ -1,0 +1,6 @@
+﻿metric,value,status
+marco_attempt_count,2,PASS
+chronology_covered_count,0,PASS
+chronology_missing_count,2,PASS
+action_rows,0,PASS
+ledger_mutation,0,PASS

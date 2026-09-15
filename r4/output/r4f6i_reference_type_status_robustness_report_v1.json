@@ -1,0 +1,164 @@
+{
+  "phase": "R4F6I",
+  "status": "R4F6I_REFERENCE_TYPE_STATUS_ROBUSTNESS_READY",
+  "performance_observation_policy": [
+    "VALID_RETAINED",
+    "VALID_SUPERSEDED",
+    "WITHDRAWN"
+  ],
+  "entry_strength_metrics": [
+    {
+      "year": 2023,
+      "reference_definition": "MIXED_CANONICAL",
+      "common_support_n": 34,
+      "correlation": 0.8734874786135345,
+      "loo_mae_mph": 0.5508060201811669,
+      "raw_residual_std_mph": 0.7009337120066734,
+      "model_role": "DEVELOPMENT"
+    },
+    {
+      "year": 2023,
+      "reference_definition": "GENERAL_ONLY",
+      "common_support_n": 34,
+      "correlation": 0.8713356370613327,
+      "loo_mae_mph": 0.5715880915175705,
+      "raw_residual_std_mph": 0.6956620623485872,
+      "model_role": "DEVELOPMENT"
+    },
+    {
+      "year": 2024,
+      "reference_definition": "MIXED_CANONICAL",
+      "common_support_n": 34,
+      "correlation": 0.7409660021655277,
+      "loo_mae_mph": 0.5968340422073289,
+      "raw_residual_std_mph": 0.8447955468885814,
+      "model_role": "VALIDATION_ONLY"
+    },
+    {
+      "year": 2024,
+      "reference_definition": "GENERAL_ONLY",
+      "common_support_n": 34,
+      "correlation": 0.7660723626751642,
+      "loo_mae_mph": 0.5679882776883616,
+      "raw_residual_std_mph": 0.8310283130200765,
+      "model_role": "VALIDATION_ONLY"
+    }
+  ],
+  "repeat_window_metrics": [
+    {
+      "window_minutes": 20,
+      "evaluation_set": "DEVELOPMENT",
+      "common_support_n": 1,
+      "zero_mae": 3.461999999999989,
+      "mixed_mae": 3.8209999999999695,
+      "general_only_mae": 3.8209999999999695,
+      "mixed_gain_vs_zero": -0.35899999999998045,
+      "general_gain_vs_zero": -0.35899999999998045,
+      "mixed_corr": null,
+      "general_corr": null
+    },
+    {
+      "window_minutes": 20,
+      "evaluation_set": "2024_VALIDATION_ONLY",
+      "common_support_n": 0,
+      "zero_mae": null,
+      "mixed_mae": null,
+      "general_only_mae": null,
+      "mixed_gain_vs_zero": null,
+      "general_gain_vs_zero": null,
+      "mixed_corr": null,
+      "general_corr": null
+    },
+    {
+      "window_minutes": 20,
+      "evaluation_set": "ALL_DIAGNOSTIC",
+      "common_support_n": 1,
+      "zero_mae": 3.461999999999989,
+      "mixed_mae": 3.8209999999999695,
+      "general_only_mae": 3.8209999999999695,
+      "mixed_gain_vs_zero": -0.35899999999998045,
+      "general_gain_vs_zero": -0.35899999999998045,
+      "mixed_corr": null,
+      "general_corr": null
+    },
+    {
+      "window_minutes": 30,
+      "evaluation_set": "DEVELOPMENT",
+      "common_support_n": 1,
+      "zero_mae": 3.461999999999989,
+      "mixed_mae": 3.434999999999988,
+      "general_only_mae": 3.434999999999988,
+      "mixed_gain_vs_zero": 0.027000000000001023,
+      "general_gain_vs_zero": 0.027000000000001023,
+      "mixed_corr": null,
+      "general_corr": null
+    },
+    {
+      "window_minutes": 30,
+      "evaluation_set": "2024_VALIDATION_ONLY",
+      "common_support_n": 0,
+      "zero_mae": null,
+      "mixed_mae": null,
+      "general_only_mae": null,
+      "mixed_gain_vs_zero": null,
+      "general_gain_vs_zero": null,
+      "mixed_corr": null,
+      "general_corr": null
+    },
+    {
+      "window_minutes": 30,
+      "evaluation_set": "ALL_DIAGNOSTIC",
+      "common_support_n": 1,
+      "zero_mae": 3.461999999999989,
+      "mixed_mae": 3.434999999999988,
+      "general_only_mae": 3.434999999999988,
+      "mixed_gain_vs_zero": 0.027000000000001023,
+      "general_gain_vs_zero": 0.027000000000001023,
+      "mixed_corr": null,
+      "general_corr": null
+    },
+    {
+      "window_minutes": 45,
+      "evaluation_set": "DEVELOPMENT",
+      "common_support_n": 1,
+      "zero_mae": 3.461999999999989,
+      "mixed_mae": 3.5655,
+      "general_only_mae": 3.5655,
+      "mixed_gain_vs_zero": -0.10350000000001103,
+      "general_gain_vs_zero": -0.10350000000001103,
+      "mixed_corr": null,
+      "general_corr": null
+    },
+    {
+      "window_minutes": 45,
+      "evaluation_set": "2024_VALIDATION_ONLY",
+      "common_support_n": 0,
+      "zero_mae": null,
+      "mixed_mae": null,
+      "general_only_mae": null,
+      "mixed_gain_vs_zero": null,
+      "general_gain_vs_zero": null,
+      "mixed_corr": null,
+      "general_corr": null
+    },
+    {
+      "window_minutes": 45,
+      "evaluation_set": "ALL_DIAGNOSTIC",
+      "common_support_n": 1,
+      "zero_mae": 3.461999999999989,
+      "mixed_mae": 3.5655,
+      "general_only_mae": 3.5655,
+      "mixed_gain_vs_zero": -0.10350000000001103,
+      "general_gain_vs_zero": -0.10350000000001103,
+      "mixed_corr": null,
+      "general_corr": null
+    }
+  ],
+  "interpretation_rules": [
+    "Mixed canonical references must not be assumed equivalent to a common metric without robustness testing.",
+    "General-only Fast Friday best speed provides a field-complete same-definition comparison for 2023/2024.",
+    "VALID_SUPERSEDED and WITHDRAWN complete performances remain usable historical performance evidence.",
+    "FAILED, RETIRED and DISALLOWED are excluded from the primary performance-observation robustness set."
+  ],
+  "next_phase": "Freeze Fast Friday entry-strength findings and reject simple local residual-median window recovery if the failure persists on same-definition references and strict status support; then construct the hierarchical thermal + latent-window probabilistic layer."
+}

@@ -1,0 +1,9 @@
+﻿metric,value,status
+scanner_high_value_count,8,PASS
+promotion_ready_driver_count,1,PASS
+malukas_final_result_rejected,1,PASS
+sato_final_result_rejected,1,PASS
+karam_contamination_rejected,1,PASS
+top12_cutoff_inferred,0,PASS
+exact_timestamp_inferred,0,PASS
+ledger_mutation,0,PASS

@@ -1,0 +1,104 @@
+{
+  "phase": "R4F8H-G",
+  "status": "R4F8H_FINAL_ACTION_MONTE_CARLO_COMPLETE",
+  "draws_per_action_per_scenario": 20000,
+  "remaining_time_policy": {
+    "values_minutes": [
+      5,
+      10,
+      15,
+      20,
+      30,
+      45,
+      60
+    ],
+    "semantics": "STRUCTURAL_SENSITIVITY_SCENARIOS",
+    "probability_distribution": null,
+    "scenario_average_allowed": false
+  },
+  "wait_policy": {
+    "non_stop_support_minutes": [
+      5.0,
+      15.0,
+      30.0,
+      45.0
+    ],
+    "probabilities": [
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ],
+    "semantics": "R4F8F_STRUCTURAL_PRIOR_NOT_EMPIRICAL_QUEUE_WAIT",
+    "stop_wait_minutes": 0.0
+  },
+  "run_duration_policy": {
+    "source": "r4/output/r4p1_attempt_four_lap_panel_v1.csv",
+    "n": 260,
+    "derivation": "36000 / four_lap_average_speed_mph",
+    "sampling": "EMPIRICAL_BOOTSTRAP",
+    "semantics": "COMPLETE_FOUR_LAP_RUN_DURATION_ONLY"
+  },
+  "performance_policy": {
+    "source": "r4/output/r4f8g_decision_predictive_uncertainty_state_v1.csv",
+    "sampling": "NORMAL_FROM_FROZEN_PREDICTIVE_MEAN_AND_SD",
+    "point_architecture_refit": false
+  },
+  "competitive_state_policy": {
+    "source": "r4/output/r4f8h_f_competitive_state_policy_contract_v1.json",
+    "benchmark": "STATIC_DECISION_TIME_BENCHMARK",
+    "dynamic_competitor_evolution": false,
+    "dynamic_final_rank_output": false
+  },
+  "interruption_policy": {
+    "empirically_calibrated_component_available": false,
+    "included": false,
+    "interpretation": "Primary MC is conditional on no separately modelled interruption shock. No zero-interruption empirical claim is made."
+  },
+  "action_semantics": {
+    "STOP": {
+      "requires_attempt": false,
+      "retains_protected_result": true,
+      "surrenders_protected_result": false
+    },
+    "REATTEMPT": {
+      "requires_attempt": true,
+      "retains_protected_result": false,
+      "surrenders_protected_result": false
+    },
+    "RETAIN_AND_REATTEMPT": {
+      "requires_attempt": true,
+      "retains_protected_result": true,
+      "surrenders_protected_result": false
+    },
+    "WITHDRAW_AND_REATTEMPT": {
+      "requires_attempt": true,
+      "retains_protected_result": false,
+      "surrenders_protected_result": true
+    },
+    "WITHDRAW_AND_PRIORITY_REATTEMPT": {
+      "requires_attempt": true,
+      "retains_protected_result": false,
+      "surrenders_protected_result": true
+    }
+  },
+  "allowed_claims": [
+    "scenario-conditioned probability of completing a reattempt",
+    "probability a completed/new attempt beats the current result",
+    "probability final result meets or exceeds the benchmark visible at the decision moment",
+    "probability of ending without a result",
+    "probability final state is worse than current result",
+    "conditional final-speed distribution",
+    "protected-result surrender risk",
+    "remaining-time sensitivity envelope"
+  ],
+  "forbidden_claims": [
+    "dynamic final-rank probability",
+    "expected final rank under simulated competitors",
+    "empirical Lane 1 versus Lane 2 wait superiority",
+    "exact historical counterfactual",
+    "empirical remaining-time distribution",
+    "empirical interruption distribution",
+    "universally optimal action"
+  ]
+}

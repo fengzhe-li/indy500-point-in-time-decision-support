@@ -1,0 +1,39 @@
+field,role,description
+event_id,identity,Unique prospective event identifier
+session_year,identity,Indianapolis 500 qualifying year
+session_date,identity,Session calendar date
+timestamp_utc,time,Exact event timestamp in UTC
+timestamp_local,time,Exact local IMS timestamp
+car_number,identity,Car number
+driver_name,identity,Driver
+team_name,identity,Team
+event_type,event,"queue_entry / withdrawal / requeue / pit_return / attempt_start / attempt_end / waved_off / interruption / restart / session_end"
+lane,event,Lane 1 / Lane 2 where applicable
+queue_position,event,Observed queue position at event time
+cars_ahead,event,Number of cars ahead
+current_rank,competitive_state,Current qualifying rank
+bubble_rank,competitive_state,Current bubble or cutoff rank
+current_official_speed_mph,competitive_state,Current retained four-lap average
+session_time_remaining_s,competitive_state,Seconds remaining in session
+result_withdrawn,decision,Whether current result was withdrawn
+withdrawal_timestamp_utc,decision,Exact withdrawal time
+requeue_timestamp_utc,decision,Exact requeue time
+attempt_start_timestamp_utc,outcome,Green/start timestamp for repeat attempt
+attempt_end_timestamp_utc,outcome,Completion timestamp
+attempt_completed,outcome,Whether four-lap attempt completed
+attempt_waved_off,outcome,Whether attempt was waved off / aborted
+four_lap_average_speed_mph,outcome,Official resulting four-lap average
+rank_after_attempt,outcome,Rank after attempt
+interruption_active,event,Whether yellow/red/rain/other interruption was active
+interruption_type,event,Type of interruption
+track_temp_c,physical_state,Track-surface temperature at event time
+ambient_temp_c,physical_state,Ambient temperature at event time
+wind_speed_ms,physical_state,Observed wind speed
+wind_direction_deg,physical_state,Observed wind direction
+gust_ms,physical_state,Observed gust speed
+solar_elevation_deg,physical_state,Solar elevation
+cloud_or_solar_state,physical_state,Observed or instrumented solar/cloud state
+source,provenance,Primary evidence source
+source_timestamp_precision_s,provenance,Estimated timestamp precision
+evidence_confidence,provenance,direct / reconciled / partial / unresolved
+notes,provenance,Free-text reconstruction or operational notes

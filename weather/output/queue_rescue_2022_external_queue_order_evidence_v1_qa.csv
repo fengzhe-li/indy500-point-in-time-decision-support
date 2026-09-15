@@ -1,0 +1,16 @@
+﻿metric,value,status
+all_attempts_result_grounded,1,PASS
+all_attempts_chronology_grounded,1,PASS
+ilott_action_grounded,1,PASS
+malukas_action_grounded,1,PASS
+sato_action_grounded,1,PASS
+malukas_p12_state_grounded,1,PASS
+sato_p12_state_grounded,1,PASS
+mclaughlin_queue_anchor_grounded,1,PASS
+external_semantic_units,4,PASS
+generic_queue_membership_rows,2,PASS
+lane_inferred_for_malukas_or_sato,0,PASS
+queue_position_inferred,0,PASS
+queue_wait_inferred,0,PASS
+exact_timestamp_inferred,0,PASS
+active_ledger_mutation,0,PASS

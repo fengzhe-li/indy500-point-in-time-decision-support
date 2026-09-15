@@ -1,0 +1,13 @@
+﻿metric,value,status
+first_grounding,1,PASS
+second_grounding,1,PASS
+first_retired_status,1,PASS
+official_p13_binding,1,PASS
+positive_speed_improvement,0.374,PASS
+first_not_yet_in_v8,1,PASS
+second_not_yet_in_v8,1,PASS
+lane_inferred,0,PASS
+withdrawal_inferred,0,PASS
+queue_wait_inferred,0,PASS
+timestamp_inferred,0,PASS
+ledger_mutation,0,PASS

@@ -1,0 +1,119 @@
+﻿column_name,category,v1_decision,reason,nonnull_rows,missing_rows,missing_pct,unique_nonnull_values,numeric_convertible_fraction,numeric_nonnull_rows,constant_numeric,abs_correlation_with_target
+attempt_id,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,136,0.0,0,False,
+session_id,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,4,0.0,0,False,
+entry_key,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,83,0.0,0,False,
+attempt_key,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,132,4,2.941176470588235,132,0.0,0,False,
+car_number,STRUCTURAL,REVIEW,Potentially useful but may encode car/driver/year identity.,136,0,0.0,45,1.0,136,False,0.3224016005313149
+driver_name,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,47,0.0,0,False,
+car_attempt_index,STRUCTURAL,REVIEW,Potentially useful but may encode car/driver/year identity.,132,4,2.941176470588235,4,1.0,132,False,0.08449722027200678
+performance_time_utc,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,136,0.0,0,False,
+performance_time_semantic,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,1,0.0,0,False,
+performance_timing_source,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,2,0.0,0,False,
+timing_class,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,3,0.0,0,False,
+timing_basis,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,3,0.0,0,False,
+attempt_class,POST_OUTCOME_LEAKAGE,EXCLUDE,Current-attempt outcome or derivative of current outcome.,136,0,0.0,2,0.0,0,False,
+result_status,POST_OUTCOME_LEAKAGE,EXCLUDE,Current-attempt outcome or derivative of current outcome.,136,0,0.0,6,0.0,0,False,
+result_counted_at_session_end,POST_OUTCOME_LEAKAGE,EXCLUDE,Current-attempt outcome or derivative of current outcome.,123,13,9.558823529411764,2,1.0,123,False,0.2526767385316948
+four_lap_total_seconds,POST_OUTCOME_LEAKAGE,EXCLUDE,Current-attempt outcome or derivative of current outcome.,123,13,9.558823529411764,122,1.0,123,False,0.999829280627344
+four_lap_average_speed_mph,TARGET,EXCLUDE,Current-attempt prediction target.,123,13,9.558823529411764,122,1.0,123,False,
+prior_supported_attempt_count,PRIOR_ATTEMPT_CONTEXT,CANDIDATE,Pre-attempt same-car historical context.,136,0,0.0,4,1.0,136,False,0.061181333122987076
+most_recent_supported_attempt_time_utc,UNCLASSIFIED,REVIEW,Requires manual review before modeling.,53,83,61.029411764705884,53,0.0,0,False,
+seconds_since_prior_supported_attempt,PRIOR_ATTEMPT_CONTEXT,CANDIDATE,Pre-attempt same-car historical context.,53,83,61.029411764705884,50,1.0,53,False,0.10614054363830794
+prior_supported_attempt_average_speed_mph,PRIOR_ATTEMPT_CONTEXT,CANDIDATE,Pre-attempt same-car historical context.,53,83,61.029411764705884,52,1.0,53,False,0.9039732753996597
+prior_supported_attempt_total_seconds,PRIOR_ATTEMPT_CONTEXT,CANDIDATE,Pre-attempt same-car historical context.,53,83,61.029411764705884,52,1.0,53,False,0.9025506657034607
+best_prior_supported_average_speed_mph,PRIOR_ATTEMPT_CONTEXT,CANDIDATE,Pre-attempt same-car historical context.,53,83,61.029411764705884,48,1.0,53,False,0.9051122499948469
+best_prior_supported_total_seconds,PRIOR_ATTEMPT_CONTEXT,CANDIDATE,Pre-attempt same-car historical context.,53,83,61.029411764705884,48,1.0,53,False,0.9037139698554782
+speed_change_vs_prior_supported_attempt_mph,POST_OUTCOME_LEAKAGE,EXCLUDE,Current-attempt outcome or derivative of current outcome.,40,96,70.58823529411765,39,1.0,40,False,0.12232789421871887
+speed_change_vs_best_prior_supported_mph,POST_OUTCOME_LEAKAGE,EXCLUDE,Current-attempt outcome or derivative of current outcome.,40,96,70.58823529411765,39,1.0,40,False,0.13463738902416647
+performance_alignment_usable,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,1,1.0,136,True,
+decision_state_usable,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,1,1.0,136,True,
+leaderboard_state_complete,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,1,1.0,136,True,
+queue_state_available,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,1,1.0,136,True,
+derivation_rule_version,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,1,0.0,0,False,
+forecast_selection_class,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,1,0.0,0,False,
+availability_lag_minutes,FORECAST_MECHANICS,EXCLUDE,Forecast-selection mechanics rather than environmental state.,136,0,0.0,1,1.0,136,True,
+availability_policy_id,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,1,0.0,0,False,
+availability_policy_hash,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,1,0.0,0,False,
+selected_issue_time_utc,FORECAST_MECHANICS,EXCLUDE,Forecast-selection mechanics rather than environmental state.,136,0,0.0,25,0.0,0,False,
+selected_issue_age_minutes,FORECAST_MECHANICS,EXCLUDE,Forecast-selection mechanics rather than environmental state.,136,0,0.0,128,1.0,136,False,0.10558350728242363
+before_forecast_snapshot_id,FORECAST_MECHANICS,EXCLUDE,Forecast-selection mechanics rather than environmental state.,136,0,0.0,38,0.0,0,False,
+after_forecast_snapshot_id,FORECAST_MECHANICS,EXCLUDE,Forecast-selection mechanics rather than environmental state.,136,0,0.0,38,0.0,0,False,
+before_valid_time_utc,FORECAST_MECHANICS,EXCLUDE,Forecast-selection mechanics rather than environmental state.,136,0,0.0,21,0.0,0,False,
+after_valid_time_utc,FORECAST_MECHANICS,EXCLUDE,Forecast-selection mechanics rather than environmental state.,136,0,0.0,21,0.0,0,False,
+before_forecast_lead_hours,FORECAST_MECHANICS,EXCLUDE,Forecast-selection mechanics rather than environmental state.,136,0,0.0,2,1.0,136,False,0.1303621354189005
+after_forecast_lead_hours,FORECAST_MECHANICS,EXCLUDE,Forecast-selection mechanics rather than environmental state.,136,0,0.0,2,1.0,136,False,0.13036213541890046
+before_valid_offset_minutes,FORECAST_MECHANICS,EXCLUDE,Forecast-selection mechanics rather than environmental state.,136,0,0.0,128,1.0,136,False,0.11934172263567656
+after_valid_offset_minutes,FORECAST_MECHANICS,EXCLUDE,Forecast-selection mechanics rather than environmental state.,136,0,0.0,128,1.0,136,False,0.11934172263567651
+interpolation_weight_after,FORECAST_MECHANICS,EXCLUDE,Forecast-selection mechanics rather than environmental state.,136,0,0.0,128,1.0,136,False,0.11934172263567662
+forecast_available_before_target,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,1,1.0,136,True,
+forecast_available_after_target,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,1,1.0,136,True,
+leakage_safe,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,1,1.0,136,True,
+forecast_DPT_2m,RAW_HRRR_REDUNDANT,EXCLUDE_V1,Raw HRRR representation retained for QA; derived form preferred.,136,0,0.0,136,1.0,136,False,0.4042958337624719
+forecast_DPT_2m_before,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.42033352364279425
+forecast_DPT_2m_after,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.39660685690247527
+forecast_DPT_2m_interpolation_method,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,1,0.0,0,False,
+forecast_DSWRF_surface,RAW_HRRR_REDUNDANT,EXCLUDE_V1,Raw HRRR representation retained for QA; derived form preferred.,136,0,0.0,136,1.0,136,False,0.08072748495084268
+forecast_DSWRF_surface_before,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,37,1.0,136,False,0.03441537475411271
+forecast_DSWRF_surface_after,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,37,1.0,136,False,0.14111847069296235
+forecast_DSWRF_surface_interpolation_method,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,1,0.0,0,False,
+forecast_GUST_surface,RAW_HRRR_REDUNDANT,EXCLUDE_V1,Raw HRRR representation retained for QA; derived form preferred.,136,0,0.0,136,1.0,136,False,0.40052585559071757
+forecast_GUST_surface_before,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.36595324607538454
+forecast_GUST_surface_after,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.41545657711813566
+forecast_GUST_surface_interpolation_method,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,1,0.0,0,False,
+forecast_PRES_surface,RAW_HRRR_REDUNDANT,EXCLUDE_V1,Raw HRRR representation retained for QA; derived form preferred.,136,0,0.0,128,1.0,136,False,0.03723206225263242
+forecast_PRES_surface_before,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,30,1.0,136,False,0.046180256410505924
+forecast_PRES_surface_after,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,32,1.0,136,False,0.023762374463919333
+forecast_PRES_surface_interpolation_method,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,1,0.0,0,False,
+forecast_TCDC_atmosphere,RAW_HRRR_REDUNDANT,EXCLUDE_V1,Raw HRRR representation retained for QA; derived form preferred.,136,0,0.0,56,1.0,136,False,0.05332008110715671
+forecast_TCDC_atmosphere_before,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,16,1.0,136,False,0.05574512266396056
+forecast_TCDC_atmosphere_after,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,15,1.0,136,False,0.06224518851664699
+forecast_TCDC_atmosphere_interpolation_method,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,1,0.0,0,False,
+forecast_TMP_2m,RAW_HRRR_REDUNDANT,EXCLUDE_V1,Raw HRRR representation retained for QA; derived form preferred.,136,0,0.0,136,1.0,136,False,0.6126895849444067
+forecast_TMP_2m_before,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.5996747272058074
+forecast_TMP_2m_after,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.6100755697007514
+forecast_TMP_2m_interpolation_method,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,1,0.0,0,False,
+forecast_UGRD_10m,RAW_HRRR_REDUNDANT,EXCLUDE_V1,Raw HRRR representation retained for QA; derived form preferred.,136,0,0.0,136,1.0,136,False,0.04138453693974019
+forecast_UGRD_10m_before,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.060610168237735254
+forecast_UGRD_10m_after,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.019258981263521383
+forecast_UGRD_10m_interpolation_method,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,1,0.0,0,False,
+forecast_VGRD_10m,RAW_HRRR_REDUNDANT,EXCLUDE_V1,Raw HRRR representation retained for QA; derived form preferred.,136,0,0.0,136,1.0,136,False,0.3873633782455228
+forecast_VGRD_10m_before,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.3758554619103689
+forecast_VGRD_10m_after,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.41587226747805045
+forecast_VGRD_10m_interpolation_method,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,1,0.0,0,False,
+forecast_cloud_cover_pct,DERIVED_HRRR_ENVIRONMENT,CANDIDATE,Preferred weather representation for V1.,136,0,0.0,56,1.0,136,False,0.05332008110715671
+forecast_cloud_cover_pct_before,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,16,1.0,136,False,0.05574512266396056
+forecast_cloud_cover_pct_after,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,15,1.0,136,False,0.06224518851664699
+forecast_cloud_cover_pct_interpolation_method,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,1,0.0,0,False,
+forecast_dewpoint_c,DERIVED_HRRR_ENVIRONMENT,CANDIDATE,Preferred weather representation for V1.,136,0,0.0,136,1.0,136,False,0.4042958337624719
+forecast_dewpoint_c_before,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.42033352364279425
+forecast_dewpoint_c_after,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.39660685690247527
+forecast_dewpoint_c_interpolation_method,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,1,0.0,0,False,
+forecast_gust_ms,DERIVED_HRRR_ENVIRONMENT,CANDIDATE,Preferred weather representation for V1.,136,0,0.0,136,1.0,136,False,0.40052585559071757
+forecast_gust_ms_before,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.36595324607538454
+forecast_gust_ms_after,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.41545657711813566
+forecast_gust_ms_interpolation_method,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,1,0.0,0,False,
+forecast_pressure_hpa,DERIVED_HRRR_ENVIRONMENT,CANDIDATE,Preferred weather representation for V1.,136,0,0.0,128,1.0,136,False,0.03723206225263322
+forecast_pressure_hpa_before,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,30,1.0,136,False,0.046180256410505736
+forecast_pressure_hpa_after,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,32,1.0,136,False,0.023762374463919416
+forecast_pressure_hpa_interpolation_method,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,1,0.0,0,False,
+forecast_relative_humidity_pct,DERIVED_HRRR_ENVIRONMENT,CANDIDATE,Preferred weather representation for V1.,136,0,0.0,136,1.0,136,False,0.17989763160420738
+forecast_relative_humidity_pct_before,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.1406231001943975
+forecast_relative_humidity_pct_after,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.17931817957414214
+forecast_relative_humidity_pct_interpolation_method,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,1,0.0,0,False,
+forecast_shortwave_radiation_wm2,DERIVED_HRRR_ENVIRONMENT,CANDIDATE,Preferred weather representation for V1.,136,0,0.0,136,1.0,136,False,0.08072748495084268
+forecast_shortwave_radiation_wm2_before,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,37,1.0,136,False,0.03441537475411271
+forecast_shortwave_radiation_wm2_after,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,37,1.0,136,False,0.14111847069296235
+forecast_shortwave_radiation_wm2_interpolation_method,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,1,0.0,0,False,
+forecast_temp_c,DERIVED_HRRR_ENVIRONMENT,CANDIDATE,Preferred weather representation for V1.,136,0,0.0,136,1.0,136,False,0.6126895849444065
+forecast_temp_c_before,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.5996747272058074
+forecast_temp_c_after,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.6100755697007515
+forecast_temp_c_interpolation_method,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,1,0.0,0,False,
+forecast_wind_direction_deg,DERIVED_HRRR_ENVIRONMENT,CANDIDATE,Preferred weather representation for V1.,136,0,0.0,136,1.0,136,False,0.38358829910064574
+forecast_wind_direction_deg_before,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.3284541659117365
+forecast_wind_direction_deg_after,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.349514610921032
+forecast_wind_direction_deg_interpolation_method,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,1,0.0,0,False,
+forecast_wind_speed_10m_ms,DERIVED_HRRR_ENVIRONMENT,CANDIDATE,Preferred weather representation for V1.,136,0,0.0,136,1.0,136,False,0.453998721326662
+forecast_wind_speed_10m_ms_before,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.43245485114040016
+forecast_wind_speed_10m_ms_after,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,38,1.0,136,False,0.4532547595353523
+forecast_wind_speed_10m_ms_interpolation_method,FORECAST_INTERPOLATION_DETAIL,EXCLUDE,Before/after/interpolation-method diagnostic field.,136,0,0.0,1,0.0,0,False,
+input_lineage_hash,METADATA_PROVENANCE,EXCLUDE,Identity/provenance/bookkeeping field.,136,0,0.0,136,0.0,0,False,

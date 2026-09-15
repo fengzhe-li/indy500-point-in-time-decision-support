@@ -1,0 +1,11 @@
+﻿metric,value,status
+first_grounding,1,PASS
+second_grounding,1,PASS
+first_binding_ready,1,PASS
+marco_first_in_v7,1,PASS
+marco_second_not_yet_in_v7,0,PASS
+direct_second_run_hits,0,REVIEW
+result_order_used_as_chronology,0,PASS
+lane_inferred,0,PASS
+queue_inferred,0,PASS
+ledger_mutation,0,PASS

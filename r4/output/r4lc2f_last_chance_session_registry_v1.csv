@@ -1,0 +1,27 @@
+year,event_id,driver_id_used,driver_name_used,session_id,session_name,target_last_chance
+2021,5365,3608,Marco Andretti,5807,Race,False
+2021,5365,3608,Marco Andretti,5841,Final Practice (Carb Day),False
+2021,5365,3608,Marco Andretti,5849,Practice 8,False
+2021,5365,3608,Marco Andretti,5848,Qualifications - Fast 9,False
+2021,5365,3608,Marco Andretti,5838,Qualifications - Day 1,False
+2021,5365,3608,Marco Andretti,5840,Practice 6,False
+2021,5365,3608,Marco Andretti,5846,Practice 5,False
+2021,5365,3608,Marco Andretti,5845,Practice 4,False
+2021,5365,3608,Marco Andretti,5844,Practice 3,False
+2021,5365,3608,Marco Andretti,5843,Practice 2,False
+2021,5365,3608,Marco Andretti,5842,Practice 1,False
+2023,5431,3608,Marco Andretti,6135,Race,False
+2023,5431,3608,Marco Andretti,6208,Final Practice,False
+2023,5431,3608,Marco Andretti,6207,Practice 8,False
+2023,5431,3608,Marco Andretti,6202,Qualifications - Day 1,False
+2023,5431,3608,Marco Andretti,6200,Practice 5,False
+2023,5431,3608,Marco Andretti,6199,Practice 4,False
+2023,5431,3608,Marco Andretti,6198,Practice 3,False
+2024,5465,3608,Marco Andretti,6309,Race,False
+2024,5465,3608,Marco Andretti,6388,Final Practice (Carb Day),False
+2024,5465,3608,Marco Andretti,6387,Practice 8,False
+2024,5465,3608,Marco Andretti,6382,Qualifications - Day 1,False
+2024,5465,3608,Marco Andretti,6380,Practice 5,False
+2024,5465,3608,Marco Andretti,6379,Practice 4,False
+2024,5465,3608,Marco Andretti,6378,Practice 3,False
+2024,5465,3608,Marco Andretti,6375,Practice 1,False

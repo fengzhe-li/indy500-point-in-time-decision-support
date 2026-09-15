@@ -1,0 +1,10 @@
+﻿metric,value
+state_rows,7
+drivers_represented,Alexander Rossi|David Malukas|Scott McLaughlin|Takuma Sato
+exact_rank_rows,6
+bounded_rank_only_rows,1
+known_top12_state_rows,7
+known_cutoff_speed_rows,0
+exact_timestamp_rows,0
+chronology_ledger,V10_UNCHANGED
+action_lane_ledger,V8_UNCHANGED

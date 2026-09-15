@@ -1,0 +1,3 @@
+﻿source_file,matching_row_index,target_driver,target_attempt_id,speed_field,speed_mph,binding_type,row_driver_name,row_attempt_id,row_canonical_attempt_id,row_current_attempt_id,row_baseline_attempt_id,row_subject_attempt_id,row_related_attempt_id
+chronology_rescue_2022_result_to_canonical_attempt_matches_v3.csv,1,Scott McLaughlin,d2ae8749-6312-5afd-b193-dd23dc071124,official_speed_mph,231.5430000000,DIRECT_ATTEMPT_ID,"McLaughlin, Scott",d2ae8749-6312-5afd-b193-dd23dc071124,,,,,
+chronology_rescue_2022_result_to_canonical_attempt_matches_v3.csv,1,Scott McLaughlin,d2ae8749-6312-5afd-b193-dd23dc071124,canonical_speed_mph,231.5430000000,DIRECT_ATTEMPT_ID,"McLaughlin, Scott",d2ae8749-6312-5afd-b193-dd23dc071124,,,,,

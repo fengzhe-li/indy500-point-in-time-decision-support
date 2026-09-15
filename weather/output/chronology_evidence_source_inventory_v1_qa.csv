@@ -1,0 +1,9 @@
+﻿metric,value,status
+candidate_files_discovered,73,INFO
+candidate_files_read_successfully,73,PASS
+files_with_time_like_fields,38,PASS
+known_inputs_present,3,PASS
+canonical_data_mutated,0,PASS
+chronology_inferred,0,PASS
+elapsed_time_treated_as_wall_clock,0,PASS
+capture_time_treated_as_run_start,0,PASS

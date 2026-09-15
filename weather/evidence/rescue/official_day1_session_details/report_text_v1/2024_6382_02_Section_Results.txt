@@ -1,0 +1,1880 @@
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 3 - McLaughlin, Scott
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front       Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1   Stretch 2
+            T        2.8350       1.9208       2.8946       2.9447      1.9363       2.4263       2.3949      2.3837       2.3731       1.9224      2.9159       2.9195       1.9622       1.4245      1.4128
+      1
+            S       237.613      236.052      232.015      230.846     229.937      231.834      234.874     235.978      237.032      235.856     230.320      230.036      231.072      232.139     234.061
+            T        2.8281       1.9154       2.8984       2.9510      1.9384       2.4285       2.3968      2.3840       2.3725       1.9203      2.9166       2.9220       1.9660       1.4273      1.4140
+      2
+            S       238.192      236.718      231.711      230.354     229.688      231.624      234.688     235.948      237.092      236.114     230.265      229.839      230.625      231.683     233.863
+            T        2.8297       1.9186       2.8977       2.9507      1.9396       2.4300       2.3982      2.3835       2.3718       1.9204      2.9183       2.9244       1.9695       1.4295      1.4152
+      3
+            S       238.058      236.323      231.767      230.377     229.545      231.481      234.551     235.997      237.162      236.101     230.131      229.651      230.215      231.327     233.664
+            T        2.8296       1.9175       2.8979       2.9515      1.9444       2.4339       2.4022      2.3850       2.3743       1.9199      2.9231       2.9270       1.9729       1.4316      1.4175
+      4
+            S       238.066      236.459      231.751      230.315     228.979      231.111      234.160     235.849      236.912      236.163     229.753      229.447      229.819      230.987     233.285
+            T        2.9999       2.2724       3.6740       3.9500      2.6781       3.4748       3.7967      4.4275
+      5
+            S       224.551      199.529      182.796      172.095     166.247      161.880      148.155     127.047
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 1 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                 Round 5
+Track:       Indianapolis Motor Speedway                                                                                                         2.5 mile(s)
+
+Report:      Section Data Report                                                                                                        NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                         May 18, 2024
+
+Section Data for Car 3 - McLaughlin, Scott
+      Lap   T/S    Front       Front      Lap       PO to SF   SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9464      1.9253   38.5384    49.7049
+      1
+            S       235.049     237.625   233.533    160.657
+            T        1.9491      1.9313   38.5597
+      2
+            S       234.723     236.886   233.404
+            T        1.9496      1.9304   38.5771
+      3
+            S       234.663     236.997   233.299
+            T        1.9522      1.9306   38.6111
+      4
+            S       234.350     236.972   233.094
+            T                                                   65.6236
+      5
+            S                                                   118.007
+
+
+
+
+                                                           Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 2 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 4 - Simpson, Kyffin (R)
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front       Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1   Stretch 2
+            T        2.8477       1.9313       2.9081       2.9672      1.9480       2.4418       2.4144      2.3997       2.3903       1.9317      2.9255       2.9342       1.9749       1.4331      1.4202
+      1
+            S       236.553      234.769      230.938      229.096     228.556      230.363      232.977     234.404      235.326      234.720     229.564      228.884      229.586      230.746     232.842
+            T        2.8491       1.9300       2.9109       2.9690      1.9528       2.4459       2.4162      2.4052       2.3940       1.9309      2.9314       2.9369       1.9793       1.4350      1.4220
+      2
+            S       236.437      234.927      230.716      228.957     227.994      229.977      232.804     233.868      234.962      234.818     229.102      228.673      229.076      230.440     232.547
+            T        2.8466       1.9322       2.9101       2.9701      1.9546       2.4460       2.4169      2.4031       2.3909       1.9308      2.9323       2.9329       1.9771       1.4345      1.4240
+      3
+            S       236.644      234.660      230.779      228.872     227.784      229.967      232.736     234.073      235.267      234.830     229.032      228.985      229.330      230.520     232.220
+            T        2.8440       1.9320       2.9190       2.9785      1.9592       2.4514       2.4178      2.4038       2.3886       1.9280      2.9313       2.9357       1.9787       1.4360      1.4225
+      4
+            S       236.861      234.684      230.076      228.227     227.249      229.461      232.650     234.004      235.494      235.171     229.110      228.767      229.145      230.280     232.465
+            T        3.0695       2.3081       3.4825       3.5369      2.3058       2.8937       2.8589      2.8987
+      5
+            S       219.460      196.443      192.847      192.195     193.090      194.388      196.754     194.053
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 3 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                 Round 5
+Track:       Indianapolis Motor Speedway                                                                                                         2.5 mile(s)
+
+Report:      Section Data Report                                                                                                        NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                         May 18, 2024
+
+Section Data for Car 4 - Simpson, Kyffin (R)
+      Lap   T/S    Front       Front      Lap       PO to SF   SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9607      1.9421   38.7709    47.4069
+      1
+            S       233.334     235.569   232.133    168.445
+            T        1.9609      1.9412   38.8107
+      2
+            S       233.311     235.678   231.895
+            T        1.9559      1.9397   38.7977
+      3
+            S       233.907     235.861   231.973
+            T        1.9606      1.9405   38.8276
+      4
+            S       233.346     235.763   231.794
+            T                                                   50.2132
+      5
+            S                                                   154.224
+
+
+
+
+                                                           Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 4 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 5 - O'Ward, Pato
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front       Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1   Stretch 2
+            T        2.8394       1.9279       2.8998       2.9476      1.9447       2.4338       2.4073      2.3890       2.3715       1.9138      2.9098       2.9186       1.9703       1.4302      1.4229
+      1
+            S       237.244      235.183      231.599      230.619     228.943      231.120      233.664     235.454      237.192      236.916     230.803      230.107      230.122      231.214     232.400
+            T        2.8419       1.9275       2.9064       2.9461      1.9504       2.4418       2.4116      2.3954       2.3719       1.9164      2.9209       2.9253       1.9770       1.4318      1.4259
+      2
+            S       237.036      235.232      231.073      230.737     228.274      230.363      233.248     234.825      237.152      236.594     229.926      229.580      229.342      230.955     231.911
+            T        2.8466       1.9283       2.9143       2.9585      1.9587       2.4421       2.4132      2.3955       2.3789       1.9183      2.9257       2.9296       1.9808       1.4374      1.4243
+      3
+            S       236.644      235.134      230.447      229.770     227.307      230.335      233.093     234.815      236.454      236.360     229.549      229.243      228.902      230.055     232.171
+            T        2.8494       1.9331       2.9145       2.9631      1.9548       2.4450       2.4107      2.3949       2.3773       1.9203      2.9335       2.9429       1.9834       1.4396      1.4248
+      4
+            S       236.412      234.550      230.431      229.413     227.761      230.061      233.335     234.874      236.613      236.114     228.938      228.207      228.602      229.704     232.090
+            T        2.9360       2.2457       3.6856       3.9229      2.6102       3.2915       3.2552      3.4971
+      5
+            S       229.439      201.901      182.220      173.283     170.572      170.895      172.800     160.848
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 5 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                     Round 5
+Track:       Indianapolis Motor Speedway                                                                                                             2.5 mile(s)
+
+Report:      Section Data Report                                                                                                            NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                             May 18, 2024
+
+Section Data for Car 5 - O'Ward, Pato
+      Lap   T/S    Front       Front      Lap       PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9572      1.9423   38.6261                   48.7976
+      1
+            S       233.752     235.545   233.003                   163.644
+            T        1.9600      1.9436   38.6939
+      2
+            S       233.418     235.387   232.595
+            T        1.9618      1.9481   38.7621
+      3
+            S       233.204     234.844   232.186
+            T        1.9635      1.9497   38.8005
+      4
+            S       233.002     234.651   231.956
+            T                                       2951.6785                   60.0292
+      5
+            S                                           0.539                   129.005
+
+
+
+
+                                                               Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 6 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 6 - Ilott, Callum
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front       Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1   Stretch 2
+            T        2.8625       1.9360       2.9076       2.9536      1.9366       2.4267       2.4001      2.3824       2.3696       1.9170      2.9091       2.9104       1.9679       1.4274      1.4178
+      1
+            S       235.330      234.199      230.978      230.151     229.901      231.796      234.365     236.106      237.382      236.520     230.859      230.755      230.403      231.667     233.236
+            T        2.8570       1.9341       2.9117       2.9552      1.9443       2.4335       2.4030      2.3854       2.3709       1.9213      2.9193       2.9228       1.9725       1.4298      1.4186
+      2
+            S       235.783      234.429      230.652      230.026     228.991      231.149      234.082     235.810      237.252      235.991     230.052      229.777      229.865      231.278     233.104
+            T        2.8602       1.9409       2.9231       2.9735      1.9582       2.4473       2.4104      2.3910       2.3769       1.9246      2.9307       2.9331       1.9795       1.4346      1.4257
+      3
+            S       235.519      233.608      229.753      228.611     227.365      229.845      233.364     235.257      236.653      235.586     229.157      228.970      229.052      230.504     231.943
+            T        2.8635       1.9447       2.9234       2.9743      1.9673       2.4580       2.4197      2.3981       2.3840       1.9292      2.9355       2.9359       1.9894       1.4398      1.4264
+      4
+            S       235.248      233.151      229.729      228.549     226.313      228.845      232.467     234.561      235.948      235.024     228.782      228.751      227.913      229.672     231.830
+            T        3.0592       2.3800       3.8324       4.0070      2.6972       3.4638       3.5732      3.8938
+      5
+            S       220.199      190.508      175.240      169.647     165.070      162.394      157.422     144.460
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 7 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                   Round 5
+Track:       Indianapolis Motor Speedway                                                                                                           2.5 mile(s)
+
+Report:      Section Data Report                                                                                                          NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                           May 18, 2024
+
+Section Data for Car 6 - Ilott, Callum
+      Lap   T/S    Front       Front      Lap     PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9580      1.9419   38.6246 9674.7228       50.5113
+      1
+            S       233.656     235.593   233.012     0.164       158.092
+            T        1.9570      1.9461   38.6825
+      2
+            S       233.776     235.085   232.663
+            T        1.9580      1.9434   38.8111
+      3
+            S       233.656     235.412   231.892
+            T        1.9648      1.9462   38.9002
+      4
+            S       232.848     235.073   231.361
+            T                                     7114.9412                   65.1581
+      5
+            S                                         0.224                   118.850
+
+
+
+
+                                                             Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 8 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 06 - Castroneves, Helio
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front       Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1   Stretch 2
+            T        2.8585       1.9449       2.9247       2.9659      1.9571       2.4435       3.0672      3.3269       2.3737       1.9280      2.9346       2.9209       1.9878       1.4380      1.4252
+      1
+            S       235.659      233.127      229.627      229.196     227.493      230.203      183.392     169.076      236.972      235.171     228.853      229.926      228.096      229.959     232.025
+            T        2.8554       1.9423       2.9345       2.9731      1.9631       2.4521       2.4153      2.3902       2.3757       1.9264      2.9334       2.9268       1.9859       1.4386      1.4258
+      2
+            S       235.915      233.439      228.860      228.641     226.798      229.395      232.890     235.336      236.772      235.366     228.946      229.462      228.314      229.863     231.927
+            T        2.8539       1.9389       2.9334       2.9792      1.9690       2.4568       2.4176      2.3937       2.3760       1.9285      2.9270       2.9258       1.9934       1.4409      1.4275
+      3
+            S       236.039      233.849      228.946      228.173     226.118      228.956      232.669     234.992      236.742      235.110     229.447      229.541      227.455      229.497     231.651
+            T        2.9023       2.1471       3.4314       3.5620      2.3819       2.9891       2.4185      2.3974       2.3831       1.9323      2.9280       2.9211       1.9738       1.4300      1.4195
+      4
+            S       232.103      211.173      195.719      190.840     186.921      188.184      232.582     234.629      236.037      234.647     229.368      229.910      229.714      231.246     232.956
+            T        2.9533       2.2232       3.5705       3.7245      2.5009       3.0654       3.0747      3.2691
+      5
+            S       228.095      203.944      188.094      182.514     178.026      183.500      182.945     172.066
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 9 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                     Round 5
+Track:       Indianapolis Motor Speedway                                                                                                             2.5 mile(s)
+
+Report:      Section Data Report                                                                                                            NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                             May 18, 2024
+
+Section Data for Car 06 - Castroneves, Helio
+      Lap   T/S    Front       Front      Lap       PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9652      1.9466   38.7847                   48.1129
+      1
+            S       232.800     235.025   232.050                   165.973
+            T        1.9645      1.9453   38.8168
+      2
+            S       232.883     235.182   231.858
+            T        1.9661      1.9468   38.8182
+      3
+            S       232.694     235.000   231.850
+            T        1.9605      1.9410 7399.4686
+      4
+            S       233.358     235.703     1.216
+            T                                       7255.7244                   54.7749
+      5
+            S                                           0.219                   141.380
+
+
+
+
+                                                               Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 10 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 7 - Rossi, Alexander
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8482       1.9277       2.8935       2.9399      1.9355       2.4273       2.3953      2.3781       2.3761       1.9140      2.9073       2.9061       1.9581       1.4229       1.4146
+      1
+            S       236.511      235.207      232.103      231.223     230.032      231.739      234.835     236.533      236.732      236.891     231.002      231.097      231.556      232.400      233.763
+            T        2.8472       1.9332       2.8960       2.9503      1.9403       2.4324       2.4012      2.3827       2.3759       1.9187      2.9105       2.9110       1.9662       1.4282       1.4178
+      2
+            S       236.595      234.538      231.903      230.408     229.463      231.253      234.258     236.077      236.752      236.311     230.748      230.708      230.602      231.537      233.236
+            T        2.8481       1.9278       2.9042       2.9591      1.9424       2.4375       2.4053      2.3845       2.3755       1.9163      2.9190       2.9153       1.9690       1.4292       1.4186
+      3
+            S       236.520      235.195      231.248      229.723     229.215      230.769      233.859     235.899      236.792      236.607     230.076      230.368      230.274      231.375      233.104
+            T        2.8468       1.9302       2.9069       2.9635      1.9518       2.4458       2.4115      2.3897       2.3761       1.9185      2.9188       2.9206       1.9652       1.4304       1.4180
+      4
+            S       236.628      234.903      231.033      229.382     228.111      229.986      233.257     235.385      236.732      236.335     230.091      229.950      230.719      231.181      233.203
+            T        3.0252       2.3470       3.8006       4.0230      2.6872       3.4085       3.4162      3.5260
+      5
+            S       222.674      193.187      176.707      168.972     165.684      165.029      164.657     159.529
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 11 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                     Round 5
+Track:       Indianapolis Motor Speedway                                                                                                             2.5 mile(s)
+
+Report:      Section Data Report                                                                                                            NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                             May 18, 2024
+
+Section Data for Car 7 - Rossi, Alexander
+      Lap   T/S    Front       Front      Lap       PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9442      1.9327   38.5215                   48.4295
+      1
+            S       235.315     236.715   233.636                   164.888
+            T        1.9537      1.9391   38.6044
+      2
+            S       234.170     235.934   233.134
+            T        1.9540      1.9382   38.6440
+      3
+            S       234.134     236.043   232.895
+            T        1.9569      1.9403   38.6910
+      4
+            S       233.788     235.788   232.612
+            T                                       9541.7107                   59.5972
+      5
+            S                                           0.167                   129.940
+
+
+
+
+                                                               Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 12 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 8 - Lundqvist, Linus (R)
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8535       1.9350       2.9164       2.9793      1.9574       2.4509       2.4195      2.4003       2.3895       1.9277      2.9274       2.9217       1.9736       1.4322       1.4215
+      1
+            S       236.072      234.320      230.281      228.166     227.458      229.508      232.486     234.346      235.405      235.207     229.415      229.863      229.737      230.891      232.629
+            T        2.8502       1.9340       2.9201       2.9781      1.9616       2.4576       2.4243      2.4026       2.3886       1.9271      2.9386       2.9307       1.9762       1.4350       1.4232
+      2
+            S       236.346      234.441      229.989      228.257     226.971      228.882      232.026     234.121      235.494      235.281     228.541      229.157      229.435      230.440      232.351
+            T        2.8520       1.9346       2.9232       2.9870      1.9651       2.4601       2.4256      2.4017       2.3880       1.9367      2.9311       2.9292       1.9800       1.4371       1.4233
+      3
+            S       236.196      234.368      229.745      227.577     226.567      228.649      231.901     234.209      235.553      234.114     229.126      229.274      228.995      230.103      232.334
+            T        2.8539       1.9384       2.9290       2.9906      1.9681       2.4646       2.4283      2.4038       2.3903       1.9380      2.9354       2.9280       1.9921       1.4444       1.4304
+      4
+            S       236.039      233.909      229.290      227.303     226.221      228.232      231.644     234.004      235.326      233.957     228.790      229.368      227.604      228.940      231.181
+            T        2.9758       2.2198       3.4014       3.4824      2.2913       2.8749       2.8621      2.9373
+      5
+            S       226.370      204.257      197.445      195.203     194.312      195.659      196.534     191.502
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 13 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                 Round 5
+Track:       Indianapolis Motor Speedway                                                                                                         2.5 mile(s)
+
+Report:      Section Data Report                                                                                                        NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                         May 18, 2024
+
+Section Data for Car 8 - Lundqvist, Linus (R)
+      Lap   T/S    Front       Front      Lap       PO to SF   SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9602      1.9441   38.8102    47.9875
+      1
+            S       233.394     235.327   231.898    166.407
+            T        1.9635      1.9463   38.8577
+      2
+            S       233.002     235.061   231.614
+            T        1.9633      1.9437   38.8817
+      3
+            S       233.025     235.375   231.471
+            T        1.9701      1.9484   38.9538
+      4
+            S       232.221     234.807   231.043
+            T                                                   53.6229
+      5
+            S                                                   144.417
+
+
+
+
+                                                           Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 14 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 9 - Dixon, Scott
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8642       1.9484       2.9184       2.9630      1.9429       2.4311       2.3983      2.3797       2.3707       1.9178      2.9214       2.9306       1.9736       1.4353       1.4249
+      1
+            S       235.190      232.708      230.123      229.421     229.156      231.377      234.541     236.374      237.272      236.422     229.887      229.165      229.737      230.392      232.074
+            T        2.8719       1.9529       2.9283       2.9722      1.9539       2.4423       2.4049      2.3877       2.3770       1.9202      2.9235       2.9378       1.9828       1.4396       1.4293
+      2
+            S       234.560      232.172      229.345      228.711     227.865      230.316      233.897     235.582      236.643      236.126     229.721      228.603      228.671      229.704      231.359
+            T        2.8787       1.9573       2.9331       2.9764      1.9559       2.4463       2.4079      2.3874       2.3769       1.9212      2.9285       2.9427       1.9852       1.4412       1.4303
+      3
+            S       234.006      231.650      228.970      228.388     227.632      229.939      233.606     235.612      236.653      236.003     229.329      228.223      228.395      229.449      231.197
+            T        2.8801       1.9570       2.9353       2.9843      1.9571       2.4486       2.4114      2.3909       2.3792       1.9956      3.3608       3.8712       3.0901       2.8660       1.4340
+      4
+            S       233.892      231.686      228.798      227.783     227.493      229.723      233.267     235.267      236.424      227.204     199.831      173.484      146.730      115.381      230.601
+            T        3.0593       2.3730       5.1029       4.2165      2.5769       3.3856       3.7885      4.2612
+      5
+            S       220.192      191.070      131.610      161.218     172.776      166.145      148.476     132.005
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 15 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                       Round 5
+Track:       Indianapolis Motor Speedway                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                              NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                               May 18, 2024
+
+Section Data for Car 9 - Dixon, Scott
+      Lap   T/S    Front       Front       Lap        PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9690      1.9529    38.7352                    47.7562
+      1
+            S       232.351     234.266    232.347                    167.213
+            T        1.9735      1.9574    38.7464
+      2
+            S       231.821     233.728    232.280
+            T        1.9746      1.9581    38.8450
+      3
+            S       231.692     233.644    231.690
+            T        1.9759      1.9572 10158.2377                                42.3256
+      4
+            S       231.539     233.752      0.886                                182.964
+            T                                        10048.1778                   62.3037
+      5
+            S                                             0.158                   124.295
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 16 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 10 - Palou, Alex
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8524       1.9308       2.9125       2.9667      1.9472       2.4393       2.4001      2.3874       2.3833       1.9291      2.9204       2.9197       1.9632       1.4270       1.4169
+      1
+            S       236.163      234.830      230.589      229.135     228.650      230.599      234.365     235.612      236.017      235.037     229.965      230.020      230.954      231.732      233.384
+            T        2.8486       1.9329       2.9175       2.9729      1.9515       2.4454       2.4060      2.3928       2.3866       1.9298      2.9256       2.9255       1.9673       1.4297       1.4178
+      2
+            S       236.478      234.575      230.194      228.657     228.146      230.024      233.791     235.080      235.691      234.951     229.557      229.564      230.473      231.294      233.236
+            T        2.8500       1.9334       2.9136       2.9748      1.9525       2.4484       2.4091      2.3925       2.3859       1.9299      2.9267       2.9230       1.9688       1.4306       1.4191
+      3
+            S       236.362      234.514      230.502      228.511     228.029      229.742      233.490     235.110      235.760      234.939     229.470      229.761      230.297      231.149      233.022
+            T        2.8534       1.9352       2.9194       2.9759      1.9570       2.4519       2.4119      2.3908       2.3843       1.9290      2.9265       2.9262       1.9680       1.4307       1.4186
+      4
+            S       236.080      234.296      230.044      228.426     227.505      229.414      233.219     235.277      235.918      235.049     229.486      229.510      230.391      231.133      233.104
+            T        3.0533       2.3716       4.0457       4.2377      2.7545       3.4379       3.3568      3.4866
+      5
+            S       220.624      191.183      166.001      160.411     161.636      163.617      167.570     161.332
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 17 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                 Round 5
+Track:       Indianapolis Motor Speedway                                                                                                         2.5 mile(s)
+
+Report:      Section Data Report                                                                                                        NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                         May 18, 2024
+
+Section Data for Car 10 - Palou, Alex
+      Lap   T/S    Front       Front      Lap       PO to SF   SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9536      1.9409   38.6905    48.7405
+      1
+            S       234.182     235.715   232.615    163.836
+            T        1.9558      1.9405   38.7462
+      2
+            S       233.919     235.763   232.281
+            T        1.9557      1.9411   38.7551
+      3
+            S       233.931     235.690   232.228
+            T        1.9547      1.9429   38.7764
+      4
+            S       234.051     235.472   232.100
+            T                                                   55.3182
+      5
+            S                                                   139.991
+
+
+
+
+                                                           Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 18 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 11 - Armstrong, Marcus (R)
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8511       1.9348       2.9138       2.9693      1.9496       2.4382       2.4037      2.3922       2.3805       1.9282      2.9181       2.9162       1.9731       1.4325       1.4214
+      1
+            S       236.271      234.344      230.486      228.934     228.368      230.703      234.014     235.139      236.295      235.146     230.147      230.297      229.795      230.842      232.645
+            T        2.8509       1.9379       2.9208       2.9698      1.9544       2.4425       2.4065      2.3911       2.3807       1.9301      2.9191       2.9155       1.9686       1.4303       1.4195
+      2
+            S       236.287      233.969      229.934      228.895     227.807      230.297      233.742     235.247      236.275      234.915     230.068      230.352      230.321      231.197      232.956
+            T        2.8529       1.9398       2.9169       2.9761      1.9550       2.4439       2.4067      2.3892       2.3791       1.9278      2.9239       2.9199       1.9704       1.4317       1.4212
+      3
+            S       236.122      233.740      230.241      228.411     227.737      230.165      233.723     235.434      236.434      235.195     229.690      230.005      230.110      230.971      232.678
+            T        2.8534       1.9385       2.9229       2.9798      1.9625       2.4508       2.4132      2.3939       2.3821       1.9322      2.9250       2.9216       1.9762       1.4379       1.4262
+      4
+            S       236.080      233.897      229.769      228.127     226.867      229.517      233.093     234.972      236.136      234.660     229.604      229.871      229.435      229.975      231.862
+            T        2.9897       2.3198       4.0783       4.8249      3.3818       4.2583       4.2143      4.6604
+      5
+            S       225.318      195.452      164.674      140.889     131.654      132.095      133.474     120.698
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 19 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                 Round 5
+Track:       Indianapolis Motor Speedway                                                                                                         2.5 mile(s)
+
+Report:      Section Data Report                                                                                                        NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                         May 18, 2024
+
+Section Data for Car 11 - Armstrong, Marcus (R)
+      Lap   T/S    Front       Front      Lap       PO to SF   SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9612      1.9424   38.7263    47.4401
+      1
+            S       233.275     235.533   232.400    168.327
+            T        1.9599      1.9425   38.7401
+      2
+            S       233.430     235.521   232.317
+            T        1.9618      1.9420   38.7583
+      3
+            S       233.204     235.581   232.208
+            T        1.9658      1.9437   38.8257
+      4
+            S       232.729     235.375   231.805
+            T                                                   67.8710
+      5
+            S                                                   114.100
+
+
+
+
+                                                           Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 20 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 12 - Power, Will
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8307       1.9222       2.8914       2.9482      1.9410       2.4285       2.3927      2.3783       2.3639       1.9064      2.8957       2.8959       1.9540       1.4211       1.4091
+      1
+            S       237.974      235.880      232.272      230.572     229.380      231.624      235.090     236.513      237.954      237.835     231.927      231.911      232.042      232.694      234.676
+            T        2.8297       1.9190       2.8962       2.9545      1.9418       2.4323       2.3962      2.3811       2.3669       1.9093      2.8970       2.8952       1.9569       1.4236       1.4119
+      2
+            S       238.058      236.274      231.887      230.081     229.285      231.263      234.747     236.235      237.653      237.474     231.823      231.967      231.698      232.285      234.210
+            T        2.8303       1.9228       2.8980       2.9560      1.9425       2.4342       2.3966      2.3823       2.3674       1.9098      2.8999       2.8959       1.9636       1.4266       1.4139
+      3
+            S       238.007      235.807      231.743      229.964     229.203      231.082      234.708     236.116      237.602      237.412     231.591      231.911      230.907      231.797      233.879
+            T        2.8307       1.9226       2.8999       2.9540      1.9431       2.4353       2.3963      2.3770       2.3633       1.9125      2.9003       2.8988       1.9660       1.4293       1.4171
+      4
+            S       237.974      235.831      231.591      230.120     229.132      230.978      234.737     236.643      238.015      237.077     231.559      231.679      230.625      231.359      233.351
+            T        2.9240       2.2273       3.6143       3.9351      2.6708       3.5364       3.9338      4.4431
+      5
+            S       230.380      203.569      185.815      172.746     166.702      159.060      142.992     126.601
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 21 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                 Round 5
+Track:       Indianapolis Motor Speedway                                                                                                         2.5 mile(s)
+
+Report:      Section Data Report                                                                                                        NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                         May 18, 2024
+
+Section Data for Car 12 - Power, Will
+      Lap   T/S    Front       Front      Lap       PO to SF   SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9444      1.9331   38.4566    46.9789
+      1
+            S       235.290     236.666   234.030    169.979
+            T        1.9458      1.9323   38.4897
+      2
+            S       235.121     236.764   233.829
+            T        1.9500      1.9329   38.5227
+      3
+            S       234.615     236.690   233.628
+            T        1.9544      1.9357   38.5363
+      4
+            S       234.087     236.348   233.546
+            T                                                   64.6703
+      5
+            S                                                   119.747
+
+
+
+
+                                                           Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 22 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 15 - Rahal, Graham
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8879       1.9635       2.9556       2.9961      1.9656       2.4511       2.4192      2.4034       2.3909       1.9348      2.9604       2.9599       1.9977       1.4475       1.4355
+      1
+            S       233.260      230.919      227.227      226.886     226.509      229.489      232.515     234.043      235.267      234.344     226.858      226.896      226.966      228.450      230.360
+            T        2.9836       2.2906       3.7320       4.1726      2.8739       3.7014       3.8243      4.3666       2.3885       1.9357      2.9438       2.9433       1.9891       1.4433       1.4333
+      2
+            S       225.778      197.943      179.955      162.914     154.921      151.970      147.086     128.819      235.503      234.235     228.137      228.176      227.947      229.115      230.713
+            T        2.8907       1.9594       2.9454       2.9876      1.9617       2.4484       2.4130      2.3986       2.3902       1.9372      2.9468       2.9515       1.9923       1.4463       1.4345
+      3
+            S       233.034      231.402      228.013      227.532     226.959      229.742      233.112     234.512      235.336      234.054     227.905      227.542      227.581      228.640      230.520
+            T        2.8911       1.9604       2.9463       2.9880      1.9630       2.4498       2.4145      2.3994       2.3916       1.9382      2.9490       2.9536       1.9889       1.4464       1.4342
+      4
+            S       233.002      231.284      227.944      227.501     226.809      229.611      232.967     234.434      235.198      233.933     227.735      227.380      227.970      228.624      230.569
+            T        3.0796       2.3801       4.8942       4.1872      2.5141       3.0468       3.8506      4.5140
+      5
+            S       218.740      190.500      137.222      162.346     177.092      184.620      146.081     124.612
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 23 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                   Round 5
+Track:       Indianapolis Motor Speedway                                                                                                           2.5 mile(s)
+
+Report:      Section Data Report                                                                                                          NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                           May 18, 2024
+
+Section Data for Car 15 - Rahal, Graham
+      Lap   T/S    Front       Front      Lap     PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9780      1.9607   39.1078 9713.5767       47.5277
+      1
+            S       231.294     233.334   230.133     0.164       168.017
+            T        1.9793      1.9665   39.0248                             66.9288
+      2
+            S       231.142     232.646   230.623                             115.706
+            T        1.9797      1.9679   39.0512
+      3
+            S       231.095     232.481   230.467
+            T        1.9803      1.9688   39.0635
+      4
+            S       231.025     232.374   230.394
+            T                                     1165.3335                   69.6419
+      5
+            S                                         1.365                   111.198
+
+
+
+
+                                                             Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 24 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 17 - Larson, Kyle (R)
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8484       1.9277       2.8977       2.9462      1.9389       2.4262       2.3995      2.3788       2.3640       1.9103      2.9038       2.9036       1.9611       1.4267       1.4174
+      1
+            S       236.495      235.207      231.767      230.729     229.628      231.844      234.424     236.464      237.944      237.350     231.280      231.296      231.201      231.781      233.302
+            T        2.9324       2.2651       3.6033       3.7638      2.5035       3.2014       3.2634      3.3869       2.3639       1.9133      2.9105       2.9126       1.9647       1.4293       1.4202
+      2
+            S       229.720      200.172      186.382      180.608     177.842      175.704      172.366     166.081      237.954      236.978     230.748      230.581      230.778      231.359      232.842
+            T        2.8636       1.9410       2.9206       2.9758      1.9527       2.4378       2.3990      2.3750       2.3642       1.9170      2.9110       2.9148       1.9672       1.4358       1.4265
+      3
+            S       235.240      233.596      229.950      228.434     228.006      230.741      234.473     236.842      237.924      236.520     230.708      230.407      230.485      230.312      231.813
+            T        2.8697       1.9424       2.9246       2.9769      1.9549       2.4443       2.4019      2.3784       2.3639       1.9184      2.9164       2.9164       1.9722       1.4376       1.4289
+      4
+            S       234.740      233.427      229.635      228.349     227.749      230.127      234.190     236.504      237.954      236.348     230.281      230.281      229.900      230.023      231.424
+            T        3.0779       2.3710       5.0040       4.2786      3.0219       3.9698       4.0612      4.1680
+      5
+            S       218.861      191.231      134.211      158.878     147.333      141.695      138.506     134.957
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 25 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                    Round 5
+Track:       Indianapolis Motor Speedway                                                                                                            2.5 mile(s)
+
+Report:      Section Data Report                                                                                                           NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                            May 18, 2024
+
+Section Data for Car 17 - Larson, Kyle (R)
+      Lap   T/S    Front       Front      Lap      PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9561      1.9376   38.6348                  47.7205
+      1
+            S       233.883     236.116   232.951                  167.338
+            T        1.9649      1.9497   38.6605
+      2
+            S       232.836     234.651   232.796
+            T        1.9712      1.9539   38.7271
+      3
+            S       232.092     234.146   232.395
+            T        1.9726      1.9546 8886.2638 9170.8921                    56.6291
+      4
+            S       231.927     234.063     1.013     0.173                    136.751
+            T                                     8776.5326                    62.0107
+      5
+            S                                         0.181                    124.883
+
+
+
+
+                                                              Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 26 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 18 - Siegel, Nolan (R)
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        4.0828       2.8924       4.3741       4.5395      2.9666       3.6793       3.6485      3.7882       2.4642       2.0068      3.2475       3.5455       2.3510       1.6978       1.6998
+      1
+            S       164.993      156.759      153.538      149.746     150.080      152.882      154.173     148.487      228.269      225.936     206.802      189.421      192.858      194.771      194.541
+            T        2.9007       1.9684       3.0107       3.0733      2.0049       2.5041       2.5741      2.9783       2.4089       1.9481      2.9585       2.9700       2.0066       1.4579       1.4458
+      2
+            S       232.231      230.344      223.068      221.187     222.069      224.632      218.523     188.866      233.509      232.744     227.004      226.125      225.959      226.820      228.719
+            T        2.9204       1.9781       2.9689       3.0244      1.9818       2.4786       2.4421      2.4232       2.4067       1.9491      2.9621       2.9784       2.0112       1.4598       1.4492
+      3
+            S       230.664      229.214      226.209      224.763     224.658      226.943      230.335     232.131      233.723      232.625     226.728      225.487      225.442      226.525      228.182
+            T        2.9197       1.9782       2.9813       3.0399      1.9900       2.4866       2.4477      2.4267       2.4097       1.9504      2.9631       2.9774       2.0066       1.4551       1.4452
+      4
+            S       230.720      229.203      225.268      223.617     223.732      226.212      229.808     231.796      233.432      232.470     226.651      225.563      225.959      227.257      228.814
+            T        3.3838       2.5742       4.7945       4.1686      2.5246       3.2890       3.2398      3.3335
+      5
+            S       199.076      176.136      140.075      163.070     176.355      171.025      173.622     168.742
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 27 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                   Round 5
+Track:       Indianapolis Motor Speedway                                                                                                           2.5 mile(s)
+
+Report:      Section Data Report                                                                                                          NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                           May 18, 2024
+
+Section Data for Car 18 - Siegel, Nolan (R)
+      Lap   T/S    Front       Front      Lap     PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        2.4077      2.5659   39.3286 4008.3277       48.2349
+      1
+            S       190.015     178.300   228.841     0.397       165.553
+            T        2.0007      1.9868   39.3976
+      2
+            S       228.669     230.269   228.440
+            T        2.0046      1.9884   39.4270
+      3
+            S       228.224     230.084   228.270
+            T        2.0010      2.0204   39.4990
+      4
+            S       228.635     226.440   227.854
+            T                                     4489.7948                   60.7667
+      5
+            S                                         0.354                   127.439
+
+
+
+
+                                                             Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 28 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 20 - Carpenter, Ed
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8479       1.9331       2.9130       2.9653      1.9489       2.4342       2.3933      2.3715       2.3588       1.9141      2.9139       2.9278       1.9781       1.4379       1.4244
+      1
+            S       236.536      234.550      230.550      229.243     228.450      231.082      235.031     237.192      238.469      236.879     230.478      229.384      229.214      229.975      232.155
+            T        2.8514       1.9380       2.9218       2.9792      1.9657       2.4539       2.4097      2.3839       2.3707       1.9229      2.9310       2.9423       1.9893       1.4451       1.4302
+      2
+            S       236.246      233.957      229.855      228.173     226.498      229.227      233.432     235.958      237.272      235.794     229.134      228.254      227.924      228.830      231.214
+            T        2.8559       1.9418       2.9376       3.3335      2.2836       2.8236       3.1459      3.5778       2.3899       1.9352      2.9404       2.9358       1.9850       1.4387       1.4249
+      3
+            S       235.874      233.499      228.619      203.922     194.967      199.214      178.804     157.220      235.365      234.296     228.401      228.759      228.418      229.848      232.074
+            T        2.8473       1.9371       2.9214       2.9762      1.9584       2.4499       2.4151      2.3941       2.3870       1.9379      2.9386       2.9385       1.9832       1.4382       1.4250
+      4
+            S       236.586      234.066      229.887      228.403     227.342      229.601      232.910     234.953      235.651      233.969     228.541      228.549      228.625      229.927      232.057
+            T        3.0548       2.3748       3.7831       3.8696      2.5158       3.0819       2.9931      3.1334
+      5
+            S       220.516      190.925      177.524      175.670     176.972      182.517      187.932     179.517
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 29 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                       Round 5
+Track:       Indianapolis Motor Speedway                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                              NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                               May 18, 2024
+
+Section Data for Car 20 - Carpenter, Ed
+      Lap   T/S    Front       Front       Lap        PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9610      1.9414    38.6286                    56.9703
+      1
+            S       233.299     235.654    232.988                    140.169
+            T        1.9670      1.9452    38.7777
+      2
+            S       232.587     235.194    232.092
+            T        1.9618      1.9431    38.9008                                54.1098
+      3
+            S       233.204     235.448    231.358                                143.118
+            T        1.9645      1.9413 16937.1707
+      4
+            S       232.883     235.666      0.531
+            T                                        16785.5074                   53.4676
+      5
+            S                                             0.095                   144.837
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 30 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 21 - VeeKay, Rinus
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T
+      0
+            S
+            T        2.8463       1.9302       2.8984       2.9487      1.9373       2.4317       2.3943      2.3714       2.3580       1.9070      2.9018       2.9065       1.9653       1.4307       1.4208
+      1
+            S       236.669      234.903      231.711      230.533     229.818      231.320      234.933     237.202      238.550      237.760     231.439      231.065      230.707      231.133      232.743
+            T        2.8492       1.9313       2.9101       2.9642      1.9508       2.4455       2.4077      2.3806       2.3643       1.9107      2.9102       2.9156       1.9733       1.4363       1.4267
+      2
+            S       236.428      234.769      230.779      229.328     228.228      230.014      233.625     236.285      237.914      237.300     230.771      230.344      229.772      230.232      231.781
+            T        2.8542       1.9370       2.9222       2.9726      1.9571       2.4523       2.4152      2.3866       2.3690       1.9165      2.9204       2.9254       1.9797       1.4412       1.4304
+      3
+            S       236.014      234.078      229.824      228.680     227.493      229.377      232.900     235.691      237.442      236.582     229.965      229.572      229.029      229.449      231.181
+            T        2.8588       1.9407       2.9253       2.9807      1.9596       2.4541       2.4168      2.3891       2.3711       1.9166      2.9244       2.9288       1.9833       1.4439       1.4322
+      4
+            S       235.635      233.632      229.580      228.058     227.203      229.208      232.746     235.444      237.232      236.570     229.651      229.306      228.614      229.020      230.891
+            T        3.0215       2.3366       3.8131       4.2159      2.8372       3.6107       3.7871      4.3106
+      5
+            S       222.946      194.047      176.127      161.240     156.925      155.787      148.531     130.492
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 31 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                    Round 5
+Track:       Indianapolis Motor Speedway                                                                                                            2.5 mile(s)
+
+Report:      Section Data Report                                                                                                           NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                            May 18, 2024
+
+Section Data for Car 21 - VeeKay, Rinus
+      Lap   T/S    Front       Front       Lap     PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T                             479.2261
+      0
+            S                               18.780
+            T        1.9609      1.9432    38.5525 1341.4619       47.6836
+      1
+            S       233.311     235.436    233.448     1.186       167.467
+            T        1.9665      1.9477    38.6907
+      2
+            S       232.646     234.892    232.614
+            T        1.9704      1.9501    38.8003
+      3
+            S       232.186     234.603    231.957
+            T        1.9736      1.9505    38.8495
+      4
+            S       231.809     234.555    231.663
+            T                                      6551.4196                   62.7883
+      5
+            S                                          0.243                   123.336
+
+
+
+
+                                                              Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 32 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 23 - Hunter-Reay, Ryan
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8688       1.9463       2.9206       2.9697      1.9461       2.4317       2.3939      2.3782       2.3657       1.9181      2.9115       2.9213       1.9620       1.4251       1.4141
+      1
+            S       234.813      232.960      229.950      228.903     228.779      231.320      234.972     236.523      237.773      236.385     230.668      229.894      231.095      232.041      233.846
+            T        2.8566       1.9362       2.9193       2.9674      1.9504       2.4387       2.3972      2.3781       2.3671       1.9172      2.9230       2.9291       1.9702       1.4307       1.4188
+      2
+            S       235.816      234.175      230.052      229.081     228.274      230.656      234.649     236.533      237.633      236.496     229.761      229.282      230.134      231.133      233.071
+            T        2.8561       1.9402       2.9186       2.9699      1.9495       2.4411       2.3959      2.3769       2.3637       1.9163      2.9231       2.9331       1.9790       1.4355       1.4232
+      3
+            S       235.857      233.692      230.107      228.888     228.380      230.429      234.776     236.653      237.974      236.607     229.753      228.970      229.110      230.360      232.351
+            T        2.8573       1.9369       2.9257       2.9775      1.9616       2.4528       2.4031      2.3814       2.3672       1.9203      2.9296       2.9395       1.9823       1.4393       1.4262
+      4
+            S       235.758      234.090      229.549      228.303     226.971      229.330      234.073     236.206      237.623      236.114     229.243      228.471      228.729      229.752      231.862
+            T        3.1033       2.5330       4.0853       4.1611      2.8262       3.5768       3.5368      3.8144
+      5
+            S       217.070      179.001      164.392      163.364     157.535      157.263      159.042     147.467
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 33 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                      Round 5
+Track:       Indianapolis Motor Speedway                                                                                                              2.5 mile(s)
+
+Report:      Section Data Report                                                                                                             NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                              May 18, 2024
+
+Section Data for Car 23 - Hunter-Reay, Ryan
+      Lap   T/S    Front       Front      Lap        PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9529      1.9437   38.6697                    49.3757
+      1
+            S       234.266     235.375   232.740                    161.728
+            T        1.9576      1.9456   38.7032
+      2
+            S       233.704     235.145   232.539
+            T        1.9624      1.9458   38.7303
+      3
+            S       233.132     235.121   232.376
+            T        1.9688      1.9426   38.8121
+      4
+            S       232.374     235.508   231.886
+            T                                       10523.5963                   58.1147
+      5
+            S                                            0.151                   133.255
+
+
+
+
+                                                                Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 34 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 24 - Daly, Conor
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8485       1.9308       2.9159       4.6778      3.2040       4.1734       4.4897      2.3940       2.3784       1.9195      2.9247       2.9299       1.9788       1.4359       1.4226
+      1
+            S       236.487      234.830      230.320      145.319     138.960      134.782      125.287     234.962      236.504      236.212     229.627      229.220      229.133      230.296      232.449
+            T        2.8432       1.9320       2.9211       2.9720      1.9543       2.4448       2.4097      2.3962       2.3843       1.9304      2.9306       2.9314       1.9775       1.4364       1.4225
+      2
+            S       236.927      234.684      229.910      228.726     227.819      230.080      233.432     234.747      235.918      234.878     229.165      229.102      229.284      230.216      232.465
+            T        2.8437       1.9355       2.9294       2.9765      1.9626       2.4561       2.4173      2.4030       2.3899       1.9346      2.9403       2.9389       1.9828       1.4391       1.4254
+      3
+            S       236.886      234.259      229.259      228.380     226.855      229.022      232.698     234.082      235.365      234.368     228.409      228.518      228.671      229.784      231.992
+            T        2.8497       1.9400       2.9309       2.9825      1.9670       2.4641       2.4216      2.4037       2.3900       1.9317      3.0579       3.0744       2.0408       1.4768       1.4601
+      4
+            S       236.387      233.716      229.141      227.921     226.348      228.278      232.284     234.014      235.356      234.720     219.625      218.446      222.172      223.918      226.479
+            T        3.1007       2.4505       4.0826       4.3902      2.6660       3.4404       3.4886      4.9484
+      5
+            S       217.252      185.027      164.501      154.839     167.002      163.498      161.239     113.673
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 35 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                       Round 5
+Track:       Indianapolis Motor Speedway                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                              NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                               May 18, 2024
+
+Section Data for Car 24 - Daly, Conor
+      Lap   T/S    Front       Front       Lap        PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9616      1.9399    38.8096                    49.9065
+      1
+            S       233.227     235.836    231.901                    160.008
+            T        1.9618      1.9410    38.8643
+      2
+            S       233.204     235.703    231.575
+            T        1.9639      1.9450    38.8988
+      3
+            S       232.954     235.218    231.370
+            T        2.0039      1.9722 14734.1926
+      4
+            S       228.304     231.974      0.611
+            T                                        14545.6262                   58.3418
+      5
+            S                                             0.109                   132.736
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 36 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 26 - Herta, Colton
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8438       1.9322       2.9084       2.9619      1.9457       2.4360       2.4017      2.3810       2.3756       1.9223      2.9134       2.9139       1.9648       1.4247       1.4129
+      1
+            S       236.877      234.660      230.914      229.506     228.826      230.911      234.209     236.245      236.782      235.868     230.518      230.478      230.766      232.106      234.045
+            T        2.8459       1.9350       2.9157       2.9670      1.9531       2.4455       2.4112      2.3868       2.3790       1.9293      2.9220       2.9235       1.9701       1.4288       1.4166
+      2
+            S       236.703      234.320      230.336      229.111     227.959      230.014      233.286     235.671      236.444      235.012     229.839      229.721      230.145      231.440      233.433
+            T        2.8495       1.9419       2.9236       2.9756      1.9611       2.4549       2.4182      2.3912       2.3809       1.9297      2.9228       2.9244       1.9769       1.4330       1.4206
+      3
+            S       236.404      233.487      229.714      228.449     227.029      229.134      232.611     235.238      236.255      234.964     229.777      229.651      229.354      230.762      232.776
+            T        2.8527       1.9432       2.9261       2.9785      1.9615       2.4567       2.4188      2.3918       2.3828       1.9350      2.9266       2.9249       1.9711       1.4328       1.4197
+      4
+            S       236.138      233.331      229.517      228.227     226.983      228.966      232.553     235.179      236.067      234.320     229.478      229.612      230.029      230.794      232.924
+            T        2.9522       2.1630       3.3546       3.4795      2.3105       2.8796       2.8637      3.2338
+      5
+            S       228.180      209.621      200.200      195.365     192.697      195.340      196.424     173.944
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 37 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                      Round 5
+Track:       Indianapolis Motor Speedway                                                                                                              2.5 mile(s)
+
+Report:      Section Data Report                                                                                                             NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                              May 18, 2024
+
+Section Data for Car 26 - Herta, Colton
+      Lap   T/S    Front       Front      Lap        PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9493      1.9326   38.6202                    48.3422
+      1
+            S       234.699     236.727   233.039                    165.186
+            T        1.9536      1.9366   38.7197
+      2
+            S       234.182     236.238   232.440
+            T        1.9580      1.9398   38.8021
+      3
+            S       233.656     235.848   231.946
+            T        1.9574      1.9400   38.8196
+      4
+            S       233.728     235.824   231.842
+            T                                       12875.8611                   53.1683
+      5
+            S                                            0.124                   145.652
+
+
+
+
+                                                                Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 38 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 27 - Kirkwood, Kyle
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8645       1.9394       2.9160       2.9703      1.9469       2.4346       2.4019      2.3806       2.3635       1.9149      2.9092       4.9330       3.2509       1.4328       1.4235
+      1
+            S       235.166      233.788      230.312      228.857     228.685      231.044      234.190     236.285      237.994      236.780     230.851      136.142      139.472      230.794      232.302
+            T        2.8563       1.9369       2.9146       2.9727      1.9528       2.4390       2.4052      2.3827       2.3657       1.9143      2.9135       2.9196       1.9737       1.4373       1.4268
+      2
+            S       235.841      234.090      230.423      228.672     227.994      230.627      233.868     236.077      237.773      236.854     230.510      230.028      229.725      230.071      231.765
+            T        2.8617       1.9390       2.9222       2.9826      1.9575       2.4460       2.4072      2.3837       2.3659       1.9184      2.9160       2.9215       1.9780       1.4383       1.4279
+      3
+            S       235.396      233.837      229.824      227.913     227.446      229.967      233.674     235.978      237.753      236.348     230.312      229.879      229.226      229.911      231.586
+            T        2.8575       1.9400       2.9276       2.9808      1.9577       2.4482       2.4264      2.8549       3.7018       3.4807      5.0648       2.9353       1.9751       1.4324       1.4184
+      4
+            S       235.742      233.716      229.400      228.051     227.423      229.761      231.825     197.030      151.953      130.264     132.600      228.798      229.563      230.858      233.137
+            T        2.8702       2.0994       3.3648       3.4893      2.3542       2.9324       2.8999      3.3203
+      5
+            S       234.699      215.971      199.593      194.817     189.120      191.822      193.972     169.412
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 39 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                       Round 5
+Track:       Indianapolis Motor Speedway                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                              NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                               May 18, 2024
+
+Section Data for Car 27 - Kirkwood, Kyle
+      Lap   T/S    Front       Front       Lap        PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9684      1.9508    38.6325                    48.6624
+      1
+            S       232.422     234.519    232.964                    164.099
+            T        1.9724      1.9555    38.6330
+      2
+            S       231.950     233.955    232.961
+            T        1.9701      1.9519    38.6922
+      3
+            S       232.221     234.386    232.605
+            T        1.9553      1.9352 11440.8632
+      4
+            S       233.979     236.409      0.787
+            T                                        11338.6624                   53.5384
+      5
+            S                                             0.140                   144.645
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 40 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 28 - Ericsson, Marcus
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8707       1.9511       2.9276       2.9750      1.9544       2.4446       2.4092      2.3914       2.3793       1.9268      2.9327       2.9396       1.9847       1.4432       1.4338
+      1
+            S       234.658      232.386      229.400      228.495     227.807      230.099      233.480     235.218      236.414      235.317     229.001      228.463      228.452      229.131      230.633
+            T        2.8774       1.9555       2.9391       2.9866      1.9628       2.4547       2.4160      2.3967       2.3864       1.9317      2.9434       2.9539       1.9946       1.4483       1.4375
+      2
+            S       234.111      231.864      228.502      227.608     226.832      229.152      232.823     234.698      235.711      234.720     228.168      227.357      227.318      228.324      230.039
+            T        2.8783       1.9551       2.9379       2.9871      1.9654       2.4562       2.4138      2.3927       2.3827       1.9339      2.9429       2.9517       1.9942       1.4484       1.4372
+      3
+            S       234.038      231.911      228.596      227.570     226.532      229.012      233.035     235.090      236.077      234.453     228.207      227.527      227.364      228.308      230.087
+            T        2.8775       1.9564       2.9410       2.9937      1.9696       2.4613       2.4163      2.3928       2.3813       1.9358      2.9445       2.9563       1.9920       1.4498       1.4371
+      4
+            S       234.103      231.757      228.355      227.068     226.049      228.538      232.794     235.080      236.216      234.223     228.083      227.173      227.615      228.088      230.103
+            T        3.0794       2.3991       4.1654       4.8724      3.4729       4.6147       4.4366      4.6914
+      5
+            S       218.754      188.991      161.231      139.515     128.200      121.893      126.786     119.900
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 41 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                   Round 5
+Track:       Indianapolis Motor Speedway                                                                                                           2.5 mile(s)
+
+Report:      Section Data Report                                                                                                          NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                           May 18, 2024
+
+Section Data for Car 28 - Ericsson, Marcus
+      Lap   T/S    Front       Front      Lap     PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9796      1.9613   38.9050 1791.4096       48.4728
+      1
+            S       231.107     233.263   231.333     0.888       164.741
+            T        1.9836      1.9623   39.0305
+      2
+            S       230.641     233.144   230.589
+            T        1.9824      1.9613   39.0212
+      3
+            S       230.780     233.263   230.644
+            T        1.9812      1.9598   39.0464
+      4
+            S       230.920     233.442   230.495
+            T                                     8348.8587                   66.6452
+      5
+            S                                         0.191                   116.198
+
+
+
+
+                                                             Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 42 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 33 - Rasmussen, Christian (R)
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8567       1.9307       2.9098       2.9594      1.9412       2.4307       2.3914      2.7313       3.1152       2.8309      4.6708       5.5696       1.9666       1.4320       1.4203
+      1
+            S       235.808      234.842      230.803      229.700     229.356      231.415      235.218     205.946      180.566      160.164     143.785      120.582      230.555      230.923      232.825
+            T        2.8487       1.9299       2.9095       2.9739      1.9510       2.4420       2.4018      2.3726       2.3589       1.9134      2.9373       3.0954       2.0752       1.5003       1.4825
+      2
+            S       236.470      234.939      230.827      228.580     228.204      230.344      234.199     237.082      238.459      236.965     228.642      216.964      218.489      220.410      223.057
+            T        2.9075       1.9613       2.9376       2.9839      1.9526       2.4433       2.4036      2.3798       2.3594       1.9151      2.9170       2.9378       1.9810       1.4405       1.4282
+      3
+            S       231.688      231.178      228.619      227.814     228.017      230.221      234.024     236.364      238.408      236.755     230.233      228.603      228.879      229.560      231.537
+            T        2.8596       1.9752       2.9713       3.0115      1.9693       2.4567       2.4446      2.3912       2.3724       1.9222      2.9237       2.9365       1.9820       1.4393       1.4268
+      4
+            S       235.569      229.551      226.026      225.726     226.084      228.966      230.099     235.238      237.102      235.880     229.706      228.705      228.763      229.752      231.765
+            T        3.0700       2.3950       3.8898       4.1658      2.8277       3.6898       3.8683      4.0701                                                          4.4144
+      5
+            S       219.424      189.315      172.654      163.180     157.452      152.447      145.413     138.203                                                         102.711
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 43 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                       Round 5
+Track:       Indianapolis Motor Speedway                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                              NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                               May 18, 2024
+
+Section Data for Car 33 - Rasmussen, Christian (R)
+      Lap   T/S    Front       Front       Lap        PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9588      1.9449    38.7358                    47.9673
+      1
+            S       233.561     235.230    232.343                    166.477
+            T        2.0326      2.0012    38.7804
+      2
+            S       225.081     228.612    232.076
+            T        1.9680      1.9473    38.9967
+      3
+            S       232.469     234.940    230.789
+            T        1.9662      1.9421 13796.3523
+      4
+            S       232.682     235.569      0.652
+            T                                        13670.4594                   77.9256
+      5
+            S                                             0.116                    99.378
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 44 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 41 - Robb, Sting Ray
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8597       1.9326       2.9120       2.9667      1.9530       2.4487       2.4131      2.3919       2.3733       1.9183      2.9203       2.9308       1.9773       1.4384       1.4253
+      1
+            S       235.560      234.611      230.629      229.135     227.971      229.714      233.103     235.169      237.012      236.360     229.973      229.149      229.307      229.895      232.008
+            T        2.8568       1.9388       2.9123       2.9752      1.9568       2.4527       2.4157      2.3929       2.3760       1.9216      2.9191       2.9324       1.9813       1.4405       1.4259
+      2
+            S       235.799      233.861      230.605      228.480     227.528      229.339      232.852     235.070      236.742      235.954     230.068      229.024      228.844      229.560      231.911
+            T        2.8532       1.9380       2.9139       2.9737      1.9658       2.4559       2.4177      2.3948       2.3775       1.9210      2.9230       2.9364       1.9784       1.4406       1.4266
+      3
+            S       236.097      233.957      230.478      228.595     226.486      229.040      232.659     234.884      236.593      236.028     229.761      228.712      229.180      229.544      231.797
+            T        2.8624       1.9405       2.9236       2.9853      1.9652       2.4552       2.4151      2.3928       2.3746       1.9173      2.9247       2.9377       1.9831       1.4409       1.4284
+      4
+            S       235.338      233.656      229.714      227.707     226.555      229.106      232.910     235.080      236.882      236.483     229.627      228.611      228.637      229.497      231.505
+            T        3.0747       2.3446       3.6905       3.8354      2.5219       3.1981       3.3072      3.5482
+      5
+            S       219.089      193.384      181.978      177.237     176.544      175.886      170.083     158.531
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 45 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                     Round 5
+Track:       Indianapolis Motor Speedway                                                                                                             2.5 mile(s)
+
+Report:      Section Data Report                                                                                                            NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                             May 18, 2024
+
+Section Data for Car 41 - Robb, Sting Ray
+      Lap   T/S    Front       Front      Lap       PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9610      1.9490   38.7714                   48.6180
+      1
+            S       233.299     234.735   232.130                   164.249
+            T        1.9661      1.9515   38.8156
+      2
+            S       232.694     234.434   231.866
+            T        1.9680      1.9504   38.8349
+      3
+            S       232.469     234.567   231.750
+            T        1.9692      1.9509   38.8669
+      4
+            S       232.327     234.507   231.560
+            T                                       9957.0756                   58.1652
+      5
+            S                                           0.160                   133.139
+
+
+
+
+                                                               Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 46 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 45 - Lundgaard, Christian
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8713       1.9433       4.0087       4.6570      2.9409       3.4415       2.4140      2.3970       2.3858       1.9306      2.9286       2.9373       1.9767       1.4371       1.4269
+      1
+            S       234.609      233.319      167.533      145.968     151.391      163.446      233.016     234.668      235.770      234.854     229.321      228.642      229.377      230.103      231.748
+            T        2.8730       1.9484       2.9185       2.9687      1.9578       2.4560       2.4225      2.4018       2.3866       1.9277      2.9310       2.9410       1.9797       1.4411       1.4291
+      2
+            S       234.470      232.708      230.115      228.980     227.412      229.031      232.198     234.199      235.691      235.207     229.134      228.355      229.029      229.465      231.392
+            T        2.8719       1.9443       2.9204       2.9722      1.9623       2.4616       2.4256      2.4021       2.3868       1.9271      2.9291       2.9419       1.9805       1.4437       1.4312
+      3
+            S       234.560      233.199      229.965      228.711     226.890      228.510      231.901     234.170      235.671      235.281     229.282      228.285      228.937      229.051      231.052
+            T        2.8731       1.9459       2.9275       2.9813      1.9685       2.4700       2.4332      2.4075       2.3898       1.9309      2.9422       2.9503       1.9927       1.4504       1.4378
+      4
+            S       234.462      233.007      229.408      228.012     226.175      227.733      231.177     233.645      235.375      234.818     228.261      227.635      227.535      227.993      229.991
+            T        3.0465       2.3456       4.8822       4.1371      2.4915       3.0272       3.1946      3.4315       2.8033
+      5
+            S       221.117      193.302      137.559      164.312     178.698      185.815      176.078     163.922      200.656
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 47 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                       Round 5
+Track:       Indianapolis Motor Speedway                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                              NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                               May 18, 2024
+
+Section Data for Car 45 - Lundgaard, Christian
+      Lap   T/S    Front       Front       Lap        PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9711      1.9561    38.8328                    47.0315
+      1
+            S       232.103     233.883    231.763                    169.789
+            T        1.9728      1.9575    38.8518
+      2
+            S       231.903     233.716    231.649
+            T        1.9764      1.9598    38.9208
+      3
+            S       231.481     233.442    231.239
+            T        1.9839      1.9640 14844.2983
+      4
+            S       230.606     232.942      0.606
+            T                                        14742.4370                   54.8298
+      5
+            S                                             0.108                   141.238
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 48 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 51 - Legge, Katherine
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8831       1.9622       2.9443       2.9942      1.9618       2.4532       2.5496      3.0114       2.3853       1.9349      2.9336       2.9508       1.9864       1.4427       1.4306
+      1
+            S       233.649      231.072      228.099      227.030     226.948      229.292      220.623     186.790      235.819      234.332     228.931      227.596      228.257      229.210      231.149
+            T        2.8864       1.9678       2.9467       2.9970      1.9700       2.4606       2.4234      2.4009       2.3858       1.9355      2.9362       2.9437       1.9870       1.4420       1.4310
+      2
+            S       233.381      230.414      227.913      226.818     226.003      228.603      232.112     234.287      235.770      234.259     228.728      228.145      228.188      229.321      231.084
+            T        2.8869       1.9660       2.9454       3.0011      1.9715       2.4615       2.4982      2.7530       2.3872       1.9420      2.9459       2.9556       1.9882       1.4462       1.4343
+      3
+            S       233.341      230.625      228.013      226.508     225.831      228.519      225.162     204.323      235.632      233.475     227.975      227.227      228.050      228.656      230.553
+            T        2.8723       1.9500       2.9339       2.9877      1.9662       2.4593       2.4225      2.3995       2.3878       1.9407      2.9452       2.9538       1.9939       1.4496       1.4363
+      4
+            S       234.527      232.518      228.907      227.524     226.440      228.724      232.198     234.424      235.572      233.632     228.029      227.365      227.398      228.119      230.232
+            T        3.1370       2.4378       3.7565       4.1505      2.7655       3.5074       3.9417      4.5181
+      5
+            S       214.738      185.991      178.781      163.781     160.993      160.375      142.705     124.499
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 49 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                   Round 5
+Track:       Indianapolis Motor Speedway                                                                                                           2.5 mile(s)
+
+Report:      Section Data Report                                                                                                          NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                           May 18, 2024
+
+Section Data for Car 51 - Legge, Katherine
+      Lap   T/S    Front       Front      Lap     PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9769      1.9641   39.0203 2633.3317       50.9187
+      1
+            S       231.422     232.931   230.649     0.604       156.827
+            T        1.9781      1.9653   39.0574
+      2
+            S       231.282     232.788   230.430
+            T        1.9780      1.9618   38.9980
+      3
+            S       231.294     233.204   230.781
+            T        1.9800      1.9610   39.0397
+      4
+            S       231.060     233.299   230.535
+            T                                     2096.6277                   85.7734
+      5
+            S                                         0.759                    90.285
+
+
+
+
+                                                             Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 50 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 60 - Rosenqvist, Felix
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8467       1.9341       2.9062       2.9542      1.9456       2.4352       2.4051      2.3895       2.3814       1.9234      2.9174       2.9141       1.9652       1.4252       1.4151
+      1
+            S       236.636      234.429      231.089      230.104     228.838      230.987      233.878     235.405      236.206      235.733     230.202      230.463      230.719      232.025      233.681
+            T        2.8443       1.9325       2.9112       2.9613      1.9509       2.4429       2.4106      2.3939       2.3851       1.9279      2.9204       2.9184       1.9643       1.4249       1.4137
+      2
+            S       236.836      234.623      230.692      229.552     228.216      230.259      233.344     234.972      235.839      235.183     229.965      230.123      230.825      232.074      233.912
+            T        2.8456       1.9366       2.9096       2.9614      1.9511       2.4449       2.4108      2.3947       2.3857       1.9283      2.9250       2.9213       1.9649       1.4261       1.4147
+      3
+            S       236.728      234.126      230.819      229.545     228.193      230.071      233.325     234.894      235.780      235.134     229.604      229.894      230.754      231.878      233.747
+            T        2.8474       1.9396       2.9166       2.9697      1.9574       2.4503       2.4130      2.3948       2.3847       1.9276      2.9239       2.9222       1.9695       1.4293       1.4180
+      4
+            S       236.578      233.764      230.265      228.903     227.458      229.564      233.112     234.884      235.879      235.220     229.690      229.824      230.215      231.359      233.203
+            T        3.0710       2.3410       3.6955       4.2907      3.2832       4.7921       5.6062      6.7951
+      5
+            S       219.353      193.682      181.732      158.430     135.607      117.381      100.335      82.780
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 51 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                 Round 5
+Track:       Indianapolis Motor Speedway                                                                                                         2.5 mile(s)
+
+Report:      Section Data Report                                                                                                        NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                         May 18, 2024
+
+Section Data for Car 60 - Rosenqvist, Felix
+      Lap   T/S    Front       Front      Lap       PO to SF   SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9529      1.9355   38.6468    48.5077
+      1
+            S       234.266     236.372   232.878    164.622
+            T        1.9509      1.9345   38.6877
+      2
+            S       234.507     236.495   232.632
+            T        1.9526      1.9364   38.7097
+      3
+            S       234.302     236.263   232.500
+            T        1.9577      1.9415   38.7632
+      4
+            S       233.692     235.642   232.179
+            T                                                   87.3782
+      5
+            S                                                    88.627
+
+
+
+
+                                                           Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 52 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 66 - Blomqvist, Tom (R)
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8708       1.9391       2.9223       2.9686      1.9557       2.4448       2.4111      2.3947       2.3838       1.9212      2.9157       2.9168       1.9711       1.4317       1.4239
+      1
+            S       234.650      233.825      229.816      228.988     227.656      230.080      233.296     234.894      235.968      236.003     230.336      230.249      230.029      230.971      232.237
+            T        2.8618       1.9399       2.9249       2.9720      1.9557       2.4504       2.4151      2.3950       2.3838       1.9238      2.9210       2.9223       1.9753       1.4377       1.4286
+      2
+            S       235.388      233.728      229.612      228.726     227.656      229.554      232.910     234.864      235.968      235.684     229.918      229.816      229.539      230.007      231.472
+            T        2.8630       1.9391       2.9290       2.9752      1.9567       2.4473       2.4093      2.3889       2.3869       1.9317      2.9337       2.9340       1.9851       1.4424       1.4311
+      3
+            S       235.289      233.825      229.290      228.480     227.539      229.845      233.470     235.464      235.661      234.720     228.923      228.899      228.406      229.258      231.068
+            T        2.8637       1.9440       2.9338       2.9797      1.9640       2.4573       2.4165      2.3923       2.3933       1.9350      2.9383       2.9387       1.9862       1.4431       1.4319
+      4
+            S       235.231      233.235      228.915      228.135     226.694      228.910      232.775     235.129      235.031      234.320     228.564      228.533      228.280      229.147      230.939
+            T        3.0651       2.3906       3.8991       4.1761      2.8426       3.6312       4.1096      4.7982
+      5
+            S       219.775      189.663      172.243      162.777     156.626      154.907      136.875     117.231
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 53 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                     Round 5
+Track:       Indianapolis Motor Speedway                                                                                                             2.5 mile(s)
+
+Report:      Section Data Report                                                                                                            NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                             May 18, 2024
+
+Section Data for Car 66 - Blomqvist, Tom (R)
+      Lap   T/S    Front       Front      Lap       PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9672      1.9511   38.7896                   48.6781
+      1
+            S       232.563     234.482   232.021                   164.046
+            T        1.9725      1.9543   38.8341
+      2
+            S       231.939     234.099   231.755
+            T        1.9756      1.9546   38.8836
+      3
+            S       231.575     234.063   231.460
+            T        1.9753      1.9550   38.9481
+      4
+            S       231.610     234.015   231.077
+            T                                       6671.9242                   72.7501
+      5
+            S                                           0.238                   106.448
+
+
+
+
+                                                               Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 54 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 75 - Sato, Takuma
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8392       1.9262       2.9043       2.9513      1.9406       2.4276       2.3935      2.3724       2.3631       1.9131      2.9104       2.9135       1.9733       1.4317       1.4205
+      1
+            S       237.261      235.391      231.240      230.330     229.427      231.710      235.011     237.102      238.035      237.002     230.755      230.510      229.772      230.971      232.792
+            T        2.8408       1.9292       2.9108       2.9613      1.9481       2.4371       2.4004      2.3790       2.3669       1.9145      2.9174       2.9236       1.9806       1.4358       1.4240
+      2
+            S       237.128      235.024      230.724      229.552     228.544      230.807      234.336     236.444      237.653      236.829     230.202      229.714      228.925      230.312      232.220
+            T        2.8412       1.9299       2.9251       2.9794      1.9612       2.4502       2.4085      2.3849       2.3730       1.9178      2.9265       2.9344       1.9872       1.4413       1.4296
+      3
+            S       237.094      234.939      229.596      228.158     227.017      229.573      233.548     235.859      237.042      236.422     229.486      228.868      228.165      229.433      231.311
+            T        2.8484       1.9366       2.9207       2.9733      1.9561       2.4440       2.4018      2.3757       2.3703       1.9189      2.9299       2.9373       1.9902       1.4429       1.4309
+      4
+            S       236.495      234.126      229.942      228.626     227.609      230.155      234.199     236.772      237.312      236.286     229.220      228.642      227.821      229.178      231.100
+            T        3.0351       2.3699       4.1366       5.0744      3.8623       5.3143       6.0347      6.2943
+      5
+            S       221.947      191.320      162.353      133.961     115.275      105.846       93.211      89.367
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 55 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                     Round 5
+Track:       Indianapolis Motor Speedway                                                                                                             2.5 mile(s)
+
+Report:      Section Data Report                                                                                                            NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                             May 18, 2024
+
+Section Data for Car 75 - Sato, Takuma
+      Lap   T/S    Front       Front      Lap       PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9602      1.9401   38.5810                   48.2131
+      1
+            S       233.394     235.812   233.275                   165.628
+            T        1.9632      1.9408   38.6735
+      2
+            S       233.037     235.727   232.717
+            T        1.9699      1.9463   38.8064
+      3
+            S       232.245     235.061   231.921
+            T        1.9711      1.9476   38.7957
+      4
+            S       232.103     234.904   231.984
+            T                                       8083.3672                   77.4966
+      5
+            S                                           0.197                    99.928
+
+
+
+
+                                                               Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 56 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 77 - Grosjean, Romain
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8728       1.9479       2.9318       2.9833      1.9534       2.4448       2.4101      2.3882       2.3777       1.9242      2.9225       2.9301       1.9795       1.4395       1.4284
+      1
+            S       234.486      232.768      229.071      227.860     227.924      230.080      233.393     235.533      236.573      235.635     229.800      229.204      229.052      229.720      231.505
+            T        2.8718       1.9475       2.9404       2.9880      1.9606       2.4504       2.4133      2.3920       2.3783       1.9235      2.9232       2.9310       1.9881       1.4436       1.4339
+      2
+            S       234.568      232.816      228.401      227.501     227.087      229.554      233.083     235.159      236.513      235.721     229.745      229.134      228.062      229.067      230.617
+            T        2.8738       1.9496       2.9413       2.9898      1.9621       2.4527       2.4155      2.3938       2.3791       1.9215      2.9285       2.9366       1.9860       1.4437       1.4317
+      3
+            S       234.405      232.565      228.331      227.364     226.913      229.339      232.871     234.982      236.434      235.966     229.329      228.697      228.303      229.051      230.971
+            T        2.8741       1.9523       2.9418       2.9951      1.9663       2.4576       2.5054      2.9744       2.3927       1.9310      2.9419       2.9423       1.9826       1.4368       1.4250
+      4
+            S       234.380      232.244      228.292      226.962     226.429      228.882      224.515     189.114      235.090      234.805     228.285      228.254      228.694      230.151      232.057
+            T        3.1332       2.4379       5.2023       4.3298      2.6038       3.2892       3.4607      4.1905
+      5
+            S       214.998      185.984      129.095      156.999     170.991      171.014      162.539     134.232
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 57 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                      Round 5
+Track:       Indianapolis Motor Speedway                                                                                                              2.5 mile(s)
+
+Report:      Section Data Report                                                                                                             NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                              May 18, 2024
+
+Section Data for Car 77 - Grosjean, Romain
+      Lap   T/S    Front       Front       Lap       PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9721      1.9566    38.8169                   48.2657
+      1
+            S       231.986     233.823    231.858                   165.448
+            T        1.9718      1.9605    38.8381
+      2
+            S       232.021     233.358    231.731
+            T        1.9741      1.9599    38.8938
+      3
+            S       231.751     233.430    231.399
+            T        1.9657      1.9496 10214.0921
+      4
+            S       232.741     234.663      0.881
+            T                                        9983.7487                   62.9633
+      5
+            S                                            0.159                   122.993
+
+
+
+
+                                                                Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 58 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 78 - Canapino, Agustin
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8572       1.9398       2.9085       2.9506      2.6123       3.2875       3.3241      2.3678       2.3636       1.9138      2.9052       2.9139       1.9628       1.4297       1.4213
+      1
+            S       235.766      233.740      230.906      230.385     170.435      171.103      169.219     237.562      237.984      236.916     231.169      230.478      231.001      231.294      232.661
+            T        2.8574       1.9419       2.9121       2.9590      1.9362       2.4256       2.3918      2.3733       2.3637       1.9156      2.9057       2.9179       1.9654       1.4321       1.4222
+      2
+            S       235.750      233.487      230.621      229.731     229.949      231.901      235.179     237.012      237.974      236.693     231.129      230.162      230.696      230.907      232.514
+            T        2.8585       1.9385       3.0064       3.4027      2.1850       2.7034       2.6271      2.5704       2.5212       2.0113      3.0065       2.9877       1.9979       1.4548       1.4400
+      3
+            S       235.659      233.897      223.387      199.775     203.765      208.071      214.114     218.838      223.108      225.431     223.380      224.785      226.943      227.304      229.640
+            T        2.9353       2.2229       3.5987       3.9115      1.9608       2.4530       2.4146      2.5219       2.3906       1.9334      2.9373       2.9339       1.9807       1.4403       1.4284
+      4
+            S       229.493      203.972      186.620      173.788     227.064      229.311      232.958     223.046      235.297      234.514     228.642      228.907      228.914      229.592      231.505
+            T        3.0090       2.3212       4.9690       4.0172      2.6809       3.4338       3.5207      3.6842                                             5.2077       3.9622       3.3464
+      5
+            S       223.872      195.334      135.156      169.216     166.073      163.813      159.769     152.679                                            128.961      114.434       98.817
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 59 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                       Round 5
+Track:       Indianapolis Motor Speedway                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                              NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                               May 18, 2024
+
+Section Data for Car 78 - Canapino, Agustin
+      Lap   T/S    Front       Front       Lap        PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9624      1.9485    38.7240                    47.7853
+      1
+            S       233.132     234.795    232.414                    167.111
+            T        1.9631      1.9477    38.7863
+      2
+            S       233.049     234.892    232.041
+            T        1.9823      1.9640    38.8659
+      3
+            S       230.792     232.942    231.565
+            T        1.9700      1.9480 20958.0995
+      4
+            S       232.233     234.856      0.429
+            T                                        10343.2263                   66.6779
+      5
+            S                                             0.154                   116.141
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 60 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                                         Round 5
+Track:       Indianapolis Motor Speedway                                                                                                                               2.5 mile(s)
+
+Report:      Section Data Report                                                                                                                    NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                                             May 18, 2024
+
+Section Data for Car 98 - Andretti, Marco
+      Lap   T/S    Front      Turn 1 Entry Turn 1 Exit Turn 2 Entry Turn 2 Exit Back Stretch Back Stretch Back Stretch Back Stretch Turn 3 Entry Turn 3 Exit Turn 4 Entry Turn 4 Exit    Front        Front
+                  Stretch 5                                                          1            2            3            4                                                           Stretch 1    Stretch 2
+            T        2.8583       1.9431       2.9266       2.9794      1.9902       2.4849       2.4351      2.4037       2.4563       2.1862      3.6421       4.1679       3.0796       2.7768       1.4236
+      1
+            S       235.676      233.343      229.478      228.158     223.709      226.367      230.997     234.014      229.003      207.396     184.397      161.134      147.230      119.087      232.285
+            T        2.8502       1.9389       2.9164       2.9685      1.9479       2.4415       2.4124      2.4020       2.3973       1.9410      2.9376       2.9357       1.9703       1.4288       1.4181
+      2
+            S       236.346      233.849      230.281      228.996     228.567      230.391      233.170     234.180      234.639      233.596     228.619      228.767      230.122      231.440      233.186
+            T        2.8510       1.9452       2.9175       2.9679      1.9494       2.4426       2.4135      2.4011       2.3911       1.9360      2.9323       2.9336       1.9739       1.4305       1.4197
+      3
+            S       236.279      233.091      230.194      229.042     228.392      230.287      233.064     234.268      235.247      234.199     229.032      228.931      229.702      231.165      232.924
+            T        2.8545       1.9454       2.9270       2.9836      1.9529       2.4466       2.4159      2.4023       2.3902       1.9394      2.9327       2.9333       1.9728       1.4318       1.4199
+      4
+            S       235.989      233.067      229.447      227.837     227.982      229.911      232.832     234.151      235.336      233.788     229.001      228.954      229.830      230.955      232.891
+            T        2.9772       2.2139       3.5136       3.7283      2.4737       3.0565       3.1587      3.6715
+      5
+            S       226.264      204.801      191.140      182.328     179.984      184.034      178.080     153.207
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2024                                                    Page 61 of 64
+Event:       108th Running of the Indianapolis 500                                                                                                     Round 5
+Track:       Indianapolis Motor Speedway                                                                                                             2.5 mile(s)
+
+Report:      Section Data Report                                                                                                            NTT INDYCAR SERIES
+Session:     Qualifications - Day One                                                                                                             May 18, 2024
+
+Section Data for Car 98 - Andretti, Marco
+      Lap   T/S    Front       Front      Lap       PI to PO       PO to SF    SF to PI
+                  Stretch 3   Stretch 4
+            T        1.9639      1.9465   38.7848                   48.5342     42.7552
+      1
+            S       232.954     235.037   232.050                   164.532     181.126
+            T        1.9575      1.9429   38.8070
+      2
+            S       233.716     235.472   231.917
+            T        1.9579      1.9439   38.8071
+      3
+            S       233.668     235.351   231.916
+            T        1.9580      1.9406 8473.4715
+      4
+            S       233.656     235.751     1.062
+            T                                       8367.6701                   57.2672
+      5
+            S                                           0.190                   135.227
+
+
+
+
+                                                               Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 62 of 64
+Event:          108th Running of the Indianapolis 500                                                                                    Round 5
+Track:          Indianapolis Motor Speedway                                                                                            2.5 mile(s)
+
+Report:         Section Data Report                                                                                         NTT INDYCAR SERIES
+Session:        Qualifications - Day One                                                                                             May 18, 2024
+
+Section Data for Car
+                                                               Report Support Information
+
+              Section Legend               Color Legend                                                                  Track Map
+   Name                Length
+                                           Fastest Lap
+   Front           0.187120 miles
+  Stretch 5
+                                           Section Under Caution
+   Turn 1          0.125947 miles
+    Entry
+                                           Section Under Green
+ Turn 1 Exit       0.186553 miles
+   Turn 2          0.188826 miles     T    Section Time Data
+    Entry
+ Turn 2 Exit       0.123674 miles     S    Section Speed Data
+    Back           0.156250 miles
+  Stretch 1
+    Back           0.156250 miles
+  Stretch 2
+    Back           0.156250 miles
+  Stretch 3
+    Back           0.156250 miles
+  Stretch 4
+   Turn 3          0.125947 miles
+    Entry
+ Turn 3 Exit       0.186553 miles
+   Turn 4          0.186553 miles
+    Entry
+ Turn 4 Exit       0.125947 miles
+   Front           0.091856 miles
+  Stretch 1
+   Front           0.091856 miles
+  Stretch 2
+                                               Information provided by Indy Racing Information System - Copyright INDYCAR 2024                       Page 63 of 64
+Event:        108th Running of the Indianapolis 500                                                                               Round 5
+Track:        Indianapolis Motor Speedway                                                                                       2.5 mile(s)
+
+Report:       Section Data Report                                                                                      NTT INDYCAR SERIES
+Session:      Qualifications - Day One                                                                                       May 18, 2024
+
+Section Data for Car
+   Front         0.127083 miles
+  Stretch 3
+   Front         0.127083 miles
+  Stretch 4
+  T1 to SS1      0.312499 miles
+  SS1 to T2      0.312499 miles
+  T2 to BS2      0.312499 miles
+  BS2 to T3      0.312499 miles
+  T3 to SS2      0.312499 miles
+  SS2 to T4      0.312499 miles
+   T4 to FS      0.183711 miles
+   FS to SF      0.254165 miles
+   T1 to T2      0.624998 miles
+   T2 to T3      0.624998 miles
+   T3 to T4      0.624998 miles
+   T4 to SF      0.437877 miles
+   PI to PO      0.441951 miles
+  PO to SF       2.218180 miles
+   SF to PI      2.151130 miles
+  PO to BS       0.686552 miles
+   BS to PI      0.870264 miles
+   PO to PI      1.869320 miles
+
+
+
+
+                                          Information provided by Indy Racing Information System - Copyright INDYCAR 2024                     Page 64 of 64
+

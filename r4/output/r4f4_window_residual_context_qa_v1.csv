@@ -1,0 +1,7 @@
+metric,value,expected,status
+decision_states_preserved,50,50,PASS
+repeat_residual_observations_found,40,>0,PASS
+first_runs_not_used_as_zero_window_votes,0,0,PASS
+baseline_reference_unique_per_year_car,False,False,PASS
+window_future_leakage,0,0,PASS
+subject_car_excluded_from_window,0,0,PASS

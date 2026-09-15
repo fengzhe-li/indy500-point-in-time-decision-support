@@ -1,0 +1,6 @@
+﻿metric,value
+input_timing_rows,7
+environment_aligned_rows,7
+track_c_nonnull_rows,7
+outside_ptsc_coverage_rows,0
+gap_too_large_rows,0

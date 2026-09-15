@@ -1,0 +1,7 @@
+metric,value,expected,status
+scenario_rows,40,40,PASS
+all_three_horizon_score_rows,40,40,PASS
+selected_model_contains_track_temp,False,False,PASS
+realized_future_weather_used,0,0,PASS
+decision_time_safe_violations,0,0,PASS
+final_strategy_recommendation_made,False,False,PASS

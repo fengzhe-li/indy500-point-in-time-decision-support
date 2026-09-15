@@ -1,0 +1,12 @@
+{
+  "phase": "R4LC2F",
+  "status": "R4LC2F_LAST_CHANCE_SESSION_DETAILS_READY",
+  "event_ids": {
+    "2021": 5365,
+    "2023": 5431,
+    "2024": 5465
+  },
+  "target_session_count": 0,
+  "session_details_count": 0,
+  "research_purpose": "Resolve Last Row / Last Chance session IDs through official DriverEventDetails metadata and retrieve official EventsSessionDetails JSON."
+}

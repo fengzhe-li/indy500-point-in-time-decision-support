@@ -1,0 +1,56 @@
+{
+  "module": "V2-B Section Mechanism Validation",
+  "status": "FROZEN",
+  "freeze_time_utc": "2026-09-14T08:29:50.976734+00:00",
+  "scope": {
+    "final_physics_core_transitions": 41,
+    "linked_transition_identities": 39,
+    "linked_with_usable_section_evidence": 39,
+    "common_complete_sections_per_transition": 9
+  },
+  "role": "Mechanism validation only; section observations are not independent training rows and are not added to the production performance model.",
+  "principal_findings": [
+    "Direction coherence increases strongly with the magnitude of overall attempt-level performance change.",
+    "Low coherence is concentrated primarily among near-zero overall performance changes, where sign-based classification is unstable.",
+    "Many of the largest thermal-model residuals remain spatially coherent across sections.",
+    "Large unexplained performance changes therefore cannot be attributed primarily to localized section anomalies.",
+    "After controlling for absolute overall speed change, relationships between section-pattern metrics and absolute physics residual are weak.",
+    "Section evidence is retained as descriptive mechanism validation rather than predictive input."
+  ],
+  "magnitude_controlled_partial_spearman": {
+    "direction_coherence": -0.010948,
+    "section_speed_dispersion": 0.178387,
+    "relative_section_dispersion": -0.198201,
+    "max_abs_section_change_share": -0.130146
+  },
+  "files": {
+    "weather/output/v2b_section_mechanism/v2b_transition_map_v1.csv": {
+      "sha256": "d7590af36dde7a85ac1814fd9adda4ff7321ac9a2292f6482902f4b80da10fd2",
+      "bytes": 6108
+    },
+    "weather/output/v2b_section_mechanism/v2b_section_changes_long_v1.csv": {
+      "sha256": "57334f5c80eb3474a5d721c43dffdb00d838d2d9b011d1796a25f497a2782d52",
+      "bytes": 61123
+    },
+    "weather/output/v2b_section_mechanism/v2b_transition_section_mechanism_metrics_v1.csv": {
+      "sha256": "f7d23f2eccf9ee72df20787666e8a27acbecf96636632b4a022fe99207d49555",
+      "bytes": 9572
+    },
+    "weather/output/v2b_section_mechanism/v2b_section_mechanism_descriptive_summary_v1.txt": {
+      "sha256": "6824c1958483fb8d593356be8a5394a8a90790a213d61646db14f0371985e2fb",
+      "bytes": 5293
+    },
+    "weather/output/v2b_section_mechanism/v2b_section_residual_diagnostics_v1.csv": {
+      "sha256": "df9b7aa9aa6c86fc093a53227848449ce838fe1b9cb9570715fe6c2f99d96e5f",
+      "bytes": 9963
+    },
+    "weather/output/v2b_section_mechanism/v2b_section_residual_diagnostics_summary_v1.txt": {
+      "sha256": "684962a0a8475c636ad7341b0e567c6a99d428931419ce71fc57138d5f5d084c",
+      "bytes": 6448
+    },
+    "weather/output/v2b_section_mechanism/v2b_section_magnitude_control_summary_v1.txt": {
+      "sha256": "eb90ff6b724f2025efdf8a6710f7ee91b069dcf7c01c01ab30859b16852ff741",
+      "bytes": 2651
+    }
+  }
+}

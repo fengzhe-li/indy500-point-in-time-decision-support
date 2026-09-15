@@ -1,0 +1,134 @@
+path,file_type,row_count,field,nonempty_count,unique_nonempty_count,example_values
+r4/output/r4p1_attempt_four_lap_panel_v1.csv,csv,329,result_counted_at_session_end,295,2,true | false
+r4/output/r4p1_attempt_four_lap_panel_v1.csv,csv,329,canonical_end_time_utc,0,0,
+r4/output/r4f8e_reconstructed_action_numeric_interface_v1.csv,csv,170,session_remaining_seconds,0,0,
+r4/output/r4f8f_wait_support_summary_v1.csv,csv,6,completion_before_cutoff_status,6,2,NOT_APPLICABLE_NO_ATTEMPT | REQUIRES_LATER_SEPARATE_POLICY_AND_SESSION_REMAINING_INPUT
+r4/output/r4f8e_reconstructed_decision_numeric_state_v1.csv,csv,60,session_remaining_seconds,0,0,
+r4/output/r4f8e_reconstructed_decision_numeric_state_v1.csv,csv,60,session_remaining_status,60,2,UNRESOLVED_NO_DECISION_SAFE_SESSION_END_IN_SOURCE_INTERFACE | UNRESOLVED_IN_FROZEN_LAST_CHANCE_INTERFACE
+r4/output/r4lc5d_last_chance_decision_opportunity_panel_v1.csv,csv,10,exact_session_remaining_seconds,0,0,
+r4/output/r4lc5b_last_chance_predecision_state_summary_v1.csv,csv,3,session_end_bounded_rows,3,2,0 | 1
+r4/output/r4f6h_v2_strict_attempt_eligibility_audit.csv,csv,329,result_counted_at_session_end,295,2,true | false
+r4/output/r4lc5c_last_chance_evidence_role_gate_v1.csv,csv,7,session_remaining_status,7,4,WITHIN_ONE_HOUR_LAST_ROW_SESSION_EXACT_TIME_UNKNOWN | POSITIVE_TIME_REMAINING_EXACT_VALUE_UNKNOWN | SESSION_CLOCK_EXPIRED_AS_WARMUP_LAP_BEGAN | FINAL_ATTEMPT_OF_SESSION
+r4/output/r4lc5c_last_chance_evidence_role_gate_v1.csv,csv,7,exact_session_remaining_seconds,0,0,
+r4/output/r4p1_multi_run_four_lap_panel_v1.csv,csv,162,result_counted_at_session_end,162,2,true | false
+r4/output/r4p1_multi_run_four_lap_panel_v1.csv,csv,162,canonical_end_time_utc,0,0,
+r4/output/r4f8h_a_action_readiness_v1.csv,csv,170,session_remaining_available,170,1,False
+r4/output/r4f8h_a_action_readiness_v1.csv,csv,170,cutoff_completion_ready,170,1,False
+r4/output/r4f8h_a_action_readiness_v1.csv,csv,170,pre_mc_core_ready_except_cutoff,170,2,True | False
+r4/output/r4f6i_performance_status_eligibility_audit_v1.csv,csv,329,counted_at_session_end,329,2,True | False
+r4/output/r4lc5b_last_chance_predecision_state_ledger_v1.csv,csv,7,session_remaining_status,7,4,WITHIN_ONE_HOUR_LAST_ROW_SESSION_EXACT_TIME_UNKNOWN | POSITIVE_TIME_REMAINING_EXACT_VALUE_UNKNOWN | SESSION_CLOCK_EXPIRED_AS_WARMUP_LAP_BEGAN | FINAL_ATTEMPT_OF_SESSION
+r4/output/r4lc5b_last_chance_predecision_state_ledger_v1.csv,csv,7,exact_session_remaining_seconds,0,0,
+r4/output/r4lc5e_last_chance_fused_interface_v1.csv,csv,10,time_remaining_seconds,0,0,
+r4/output/r4f8h_a_decision_readiness_v1.csv,csv,60,session_remaining_available,60,1,False
+r4/output/r4p1_first_run_order_panel_v1.csv,csv,150,result_counted_at_session_end,146,2,true | false
+r4/output/r4p1_first_run_order_panel_v1.csv,csv,150,canonical_end_time_utc,0,0,
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,csv,10,time_remaining_seconds,0,0,
+data/canonical/v1/qualifying_events.csv,csv,5,scheduled_end_utc,1,1,2024-05-18T21:50:00Z
+data/canonical/v1/attempts.csv,csv,329,result_counted_at_session_end,295,2,true | false
+data/canonical/v1/attempts.csv,csv,329,end_time_utc,0,0,
+data/canonical/v1/decision_state_features.csv,csv,0,top12_cutoff_speed_mph,0,0,
+data/canonical/v1/decision_state_features.csv,csv,0,bump_cutoff_speed_mph,0,0,
+data/canonical/v1/decision_state_features.csv,csv,0,margin_to_bump_cutoff_mph,0,0,
+data/canonical/v1/decision_state_features.csv,csv,0,session_remaining_seconds,0,0,
+weather/output/queue_wait_run_duration_reference_v1.csv,csv,6,cutoff_feasibility_component,6,1,True
+weather/output/r3b4_monte_carlo_action_envelope_v1.csv,csv,288,predecision_cutoff_rank,288,2,12 | UNKNOWN
+weather/output/r3b4_monte_carlo_action_envelope_v1.csv,csv,288,predecision_cutoff_speed_mph,288,1,UNKNOWN
+weather/output/official_lane_queue_live_resource_registry_v1.csv,csv,22,cutoff_fields_present,22,1,NO
+weather/output/decision_time_observable_state_v4_final.csv,csv,8,predecision_cutoff_rank,8,2,12 | UNKNOWN
+weather/output/decision_time_observable_state_v4_final.csv,csv,8,predecision_cutoff_speed_mph,8,1,UNKNOWN
+weather/output/queue_wait_latest_withdraw_reference_v1.csv,csv,16,session_cutoff_utc,16,1,2024-05-18T21:50:00+00:00
+weather/output/r3b_simulator_input_pack_v1.csv,csv,8,predecision_cutoff_rank,8,2,12 | UNKNOWN
+weather/output/r3b_simulator_input_pack_v1.csv,csv,8,predecision_cutoff_speed_mph,8,1,UNKNOWN
+weather/output/queue_wait_session_boundary_audit_v1.csv,csv,4,usable_for_hard_cutoff,4,2,True | False
+weather/output/performance_context_features.csv,csv,136,result_counted_at_session_end,123,2,True | False
+weather/output/official_lane_queue_live_field_inventory_v1.csv,csv,924,cutoff_signal,924,1,NO
+weather/output/retain_withdraw_target_aware_profiles_v1.csv,csv,840,time_remaining_minutes,840,5,10.0 | 20.0 | 30.0 | 45.0 | 60.0
+weather/output/final_integrated_decision_compact_v1.csv,csv,480,time_remaining_minutes,480,5,10.0 | 20.0 | 30.0 | 45.0 | 60.0
+weather/output/final_integrated_decision_compact_v1.csv,csv,480,cutoff_state,480,2,COMPLETION_FEASIBLE_UNDER_SCENARIO | CUTOFF_BLOCKED
+weather/output/queue_wait_cutoff_feasibility_grid_v1.csv,csv,144,time_remaining_minutes,144,9,5.0 | 10.0 | 15.0 | 20.0 | 30.0
+weather/output/queue_wait_cutoff_feasibility_grid_v1.csv,csv,144,cutoff_margin_seconds,144,116,-155.77885000000003 | -157.36603000000002 | -158.10339999999997 | -162.93600000000004 | -755.7788499999999
+weather/output/queue_wait_cutoff_feasibility_grid_v1.csv,csv,144,cutoff_margin_minutes,144,116,-2.596314166666667 | -2.622767166666667 | -2.635056666666666 | -2.7156000000000007 | -12.596314166666666
+weather/output/queue_wait_cutoff_feasibility_grid_v1.csv,csv,144,completion_before_cutoff,144,2,False | True
+weather/output/queue_wait_cutoff_feasibility_grid_v1.csv,csv,144,session_cutoff_utc,144,1,2024-05-18T21:50:00+00:00
+weather/output/decision_time_state_v2_input_schema_audit_v1.csv,csv,10,cutoff_column,1,1,cutoff_rank
+weather/output/retain_withdraw_monte_carlo_draw_summary_v1.csv,csv,120,time_remaining_minutes,120,5,10.0 | 20.0 | 30.0 | 45.0 | 60.0
+weather/output/decision_time_observable_state_v3_provenance.csv,csv,10,cutoff_rank,2,1,12
+weather/output/decision_time_state_v2_temporal_admissibility_audit_v1.csv,csv,12,cutoff_rank,7,1,12
+weather/output/interruption_rescue_2022_candidate_adjudication_v1.csv,csv,1,drying_feasible_before_session_end,1,1,NO
+weather/output/decision_time_observable_state_v2.csv,csv,8,cutoff_rank,8,2,12 | UNKNOWN
+weather/output/decision_time_observable_state_v2.csv,csv,8,cutoff_speed_mph,8,3,UNKNOWN | 231.607 | 231.708
+weather/output/leaderboard_rescue_2022_external_temporal_evidence_v1.csv,csv,4,cutoff_rank,4,1,12
+weather/output/leaderboard_rescue_2022_external_temporal_evidence_v1.csv,csv,4,cutoff_speed_mph,4,1,UNKNOWN
+weather/output/decision_time_observable_state_v3.csv,csv,8,predecision_cutoff_rank,8,2,12 | UNKNOWN
+weather/output/decision_time_observable_state_v3.csv,csv,8,predecision_cutoff_speed_mph,8,1,UNKNOWN
+weather/output/retain_withdraw_monte_carlo_scenario_results_v1.csv,csv,120,time_remaining_minutes,120,5,10.0 | 20.0 | 30.0 | 45.0 | 60.0
+weather/output/large_gain_event_evidence_audit_v1.csv,csv,4,baseline_result_counted_at_session_end,4,2,True | False
+weather/output/large_gain_event_evidence_audit_v1.csv,csv,4,current_result_counted_at_session_end,4,1,True
+weather/output/decision_time_state_v3_transition_outcome_evidence.csv,csv,10,cutoff_rank,10,2,12 | NOT_APPLICABLE
+weather/output/decision_time_state_v3_transition_outcome_evidence.csv,csv,10,cutoff_speed_mph,10,4,UNKNOWN | 231.607 | 231.708 | NOT_APPLICABLE
+weather/output/r3c_final_monte_carlo_action_envelope_v1.csv,csv,288,predecision_cutoff_rank,288,2,12 | UNKNOWN
+weather/output/r3c_final_monte_carlo_action_envelope_v1.csv,csv,288,predecision_cutoff_speed_mph,288,1,UNKNOWN
+weather/output/leaderboard_rescue_2022_repeat_pair_targeted_hits_v1.csv,csv,976,cutoff_terms,16,3,12th | 13th | top 12
+weather/output/decision_time_observable_state_v4_1_final.csv,csv,8,predecision_cutoff_rank,8,2,12 | UNKNOWN
+weather/output/decision_time_observable_state_v4_1_final.csv,csv,8,predecision_cutoff_speed_mph,8,1,UNKNOWN
+weather/output/r3c_final_monte_carlo_action_envelope_v2.csv,csv,288,predecision_cutoff_rank,288,2,12 | UNKNOWN
+weather/output/r3c_final_monte_carlo_action_envelope_v2.csv,csv,288,predecision_cutoff_speed_mph,288,1,UNKNOWN
+weather/output/r3b4_target_gain_probability_v1.csv,csv,1152,actual_cutoff_speed_used,1152,1,False
+weather/output/final_integrated_decision_profiles_v1.csv,csv,480,time_remaining_minutes,480,5,10.0 | 20.0 | 30.0 | 45.0 | 60.0
+weather/output/final_integrated_decision_profiles_v1.csv,csv,480,cutoff_state,480,2,COMPLETION_FEASIBLE_UNDER_SCENARIO | CUTOFF_BLOCKED
+weather/output/retain_withdraw_scenario_classification_v1.csv,csv,120,time_remaining_minutes,120,5,10.0 | 20.0 | 30.0 | 45.0 | 60.0
+weather/output/leaderboard_rescue_2022_candidate_adjudication_v1.csv,csv,8,cutoff_rank,8,1,UNKNOWN
+weather/output/leaderboard_rescue_2022_candidate_adjudication_v1.csv,csv,8,cutoff_speed,8,1,UNKNOWN
+weather/output/leaderboard_rescue_2022_candidate_adjudication_v1.csv,csv,8,live_top12_cutoff_known,8,1,False
+weather/output/repeat_delta_outlier_error_contribution_v1.csv,csv,6,remaining_rows,6,6,38 | 37 | 36 | 35 | 34
+weather/output/repeat_delta_outlier_error_contribution_v1.csv,csv,6,remaining_zero_mae_mph,6,6,0.4551315789473711 | 0.3738648648648679 | 0.329500000000003 | 0.29651428571428856 | 0.26350000000000345
+weather/output/repeat_delta_outlier_error_contribution_v1.csv,csv,6,remaining_zero_rmse_mph,6,6,0.8006385116366742 | 0.5782871492840113 | 0.48558532835240403 | 0.4238023798220785 | 0.3544977806285815
+weather/output/contemporaneous_decision_state_evidence_ledger_v1.csv,csv,7,cutoff_rank,7,1,12
+weather/output/contemporaneous_decision_state_evidence_ledger_v1.csv,csv,7,cutoff_speed_mph,7,1,UNKNOWN
+weather/output/retain_withdraw_target_aware_compact_v1.csv,csv,480,time_remaining_minutes,480,5,10.0 | 20.0 | 30.0 | 45.0 | 60.0
+weather/output/contemporaneous_decision_state_evidence_ledger_v2.csv,csv,7,cutoff_rank,7,1,12
+weather/output/contemporaneous_decision_state_evidence_ledger_v2.csv,csv,7,cutoff_speed_mph,7,3,UNKNOWN | 231.607 | 231.708
+weather/output/contemporaneous_decision_state_evidence_ledger_v2.csv,csv,7,cutoff_speed_derivation,2,1,DERIVED_FROM_CONTEMPORANEOUS_P12_ATTEMPT_BINDING
+weather/output/contemporaneous_decision_state_evidence_ledger_v2.csv,csv,7,cutoff_speed_quality,2,1,SUPPORTED_DERIVED
+weather/output/official_lane_queue_live_year_coverage_v1.csv,csv,5,cutoff_state,5,1,NOT_FOUND_IN_SEARCHED_SOURCES
+weather/output/decision_robustness_envelope_v1.csv,csv,480,time_remaining_minutes,480,5,10.0 | 20.0 | 30.0 | 45.0 | 60.0
+weather/output/decision_robustness_envelope_v1.csv,csv,480,cutoff_state,480,2,COMPLETION_FEASIBLE_UNDER_SCENARIO | CUTOFF_BLOCKED
+r4/config/observable_scenario.template.json,json,,fields.session_end_time_utc,1,1,<dict>
+r4/config/observable_scenario.template.json,json,,fields.session_remaining_seconds,1,1,<dict>
+r4/config/observable_scenario.template.json,json,,fields.current_cutoff_speed_mph,1,1,<dict>
+r4/output/r4f7v2_external_validation_conclusion_v1.json,json,,remaining_validation,1,1,<dict>
+r4/output/r4f7a_v2_expanded_latent_window_input_readiness_report.json,json,,remaining_missing_components,1,1,<dict>
+r4/output/r4f8f_wait_queue_report_v1.json,json,,frozen_distributions[0].completion_before_cutoff_status,1,1,NOT_APPLICABLE_NO_ATTEMPT
+r4/output/r4f8f_wait_queue_report_v1.json,json,,frozen_distributions[1].completion_before_cutoff_status,1,1,REQUIRES_LATER_SEPARATE_POLICY_AND_SESSION_REMAINING_INPUT
+r4/output/r4f8f_wait_queue_report_v1.json,json,,frozen_distributions[2].completion_before_cutoff_status,1,1,REQUIRES_LATER_SEPARATE_POLICY_AND_SESSION_REMAINING_INPUT
+r4/output/r4f8f_wait_queue_report_v1.json,json,,frozen_distributions[3].completion_before_cutoff_status,1,1,NOT_APPLICABLE_NO_ATTEMPT
+r4/output/r4f8f_wait_queue_report_v1.json,json,,frozen_distributions[4].completion_before_cutoff_status,1,1,REQUIRES_LATER_SEPARATE_POLICY_AND_SESSION_REMAINING_INPUT
+r4/output/r4f8f_wait_queue_report_v1.json,json,,frozen_distributions[5].completion_before_cutoff_status,1,1,REQUIRES_LATER_SEPARATE_POLICY_AND_SESSION_REMAINING_INPUT
+r4/output/r4f8f_wait_queue_report_v1.json,json,,completion_before_cutoff,1,1,REQUIRES_LATER_SEPARATE_POLICY_AND_DECISION_SAFE_SESSION_REMAINING_INPUT
+r4/output/r4f7t1_2022_2025_transfer_closeout_report_v1.json,json,,2022.time_support.canonical_end_time_utc_nonempty,1,1,0
+r4/output/r4f8e_decision_numeric_state_reconstruction_report_v1.json,json,,field_resolution.session_remaining_seconds,1,1,0/60; no decision-safe exact session-end join is present in the frozen source interfaces
+r4/output/r4f8h_a_final_mc_readiness_report_v1.json,json,,decision_readiness.session_remaining_available,1,1,0
+r4/output/r4f8h_a_final_mc_readiness_report_v1.json,json,,action_readiness.core_ready_except_cutoff,1,1,169
+r4/output/r4f8h_a_final_mc_readiness_report_v1.json,json,,action_readiness.cutoff_completion_ready,1,1,0
+r4/output/r4f8h_a_final_mc_readiness_report_v1.json,json,,cutoff_completion_status,1,1,UNRESOLVED_DECISION_SAFE_SESSION_REMAINING
+r4/output/r4f8h_a_final_mc_readiness_report_v1.json,json,,research_integrity.fake_session_remaining_created,1,1,False
+r4/output/r4f8f_wait_queue_model_contract_v1.json,json,,cutoff_boundary,1,1,<dict>
+r4/output/r4f8f_wait_queue_model_contract_v1.json,json,,cutoff_boundary.completion_before_cutoff,1,1,NOT_DEFINED_IN_R4F8F
+r4/output/r4f8f_wait_queue_model_contract_v1.json,json,,cutoff_boundary.unknown_session_remaining_is_infinite,1,1,False
+r4/state/pit_wall_state.schema.json,json,,properties.session_remaining_seconds,1,1,<dict>
+r4/state/pit_wall_state.schema.json,json,,properties.cutoff_rank,1,1,<dict>
+r4/state/pit_wall_state.schema.json,json,,properties.cutoff_speed_mph,1,1,<dict>
+r4/state/observable_scenario.schema.json,json,,properties.fields.properties.session_end_time_utc,1,1,<dict>
+r4/state/observable_scenario.schema.json,json,,properties.fields.properties.session_remaining_seconds,1,1,<dict>
+r4/state/observable_scenario.schema.json,json,,properties.fields.properties.current_cutoff_speed_mph,1,1,<dict>
+weather/output/r3b4_monte_carlo_performance_decision_envelope_v1.json,json,,session_end_feasibility,1,1,NOT_MODELED
+weather/output/r3b4_monte_carlo_performance_decision_envelope_v1.json,json,,rank_cutoff_probability,1,1,NOT_IDENTIFIABLE
+weather/output/r3b4_monte_carlo_performance_decision_envelope_v1.json,json,,actual_cutoff_speed,1,1,NOT_USED
+weather/output/r3b_future_environment_scenarios_v1.json,json,,target_after_session_end_rows,1,1,0
+weather/output/r3c_final_capability_boundary_v1.json,json,,rank_cutoff_probability,1,1,NOT_IDENTIFIABLE
+weather/output/final_capability_summary_v1.json,json,,historical_truth_reconstruction.contemporaneous_rank_cutoff,1,1,PARTIAL
+weather/output/final_capability_summary_v1.json,json,,monte_carlo.rank_cutoff_probability_available,1,1,False
+weather/output/final_capability_summary_v1.json,json,,historical_action_interpretation.remaining_lane_assignments,1,1,NOT_FULLY_IDENTIFIABLE
+weather/evidence/rescue/official_lane_queue_live_resources/preexisting_frozen_hashes.json,json,,weather/output/queue_wait_cutoff_feasibility_grid_v1.csv,1,1,68ed189f0461c83c0669136b8317cbcd02958f824fc7e17c728bc9f633b90e0a
+pipeline/rules/manual_annotations_v1.json,json,,annotations[0].fields.result_counted_at_session_end,1,1,False
+pipeline/rules/manual_annotations_v1.json,json,,annotations[1].fields.result_counted_at_session_end,1,1,False

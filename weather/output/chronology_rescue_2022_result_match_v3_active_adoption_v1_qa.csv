@@ -1,0 +1,9 @@
+﻿metric,value,status
+expected_active_scripts,8,PASS
+active_v3_copies_ready,8,PASS
+review_required_copies,0,PASS
+original_script_integrity_failures,0,PASS
+historical_outputs_regenerated,0,PASS
+canonical_data_mutated,0,PASS
+result_match_v2_mutated,0,PASS
+result_match_v3_mutated,0,PASS

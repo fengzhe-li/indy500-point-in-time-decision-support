@@ -1,0 +1,25 @@
+{
+  "status": "R5_FINAL_THERMAL_RESPONSE_ESTIMATION_COMPLETE",
+  "same_car_n": 27,
+  "beta_track_mph_per_c": -0.07407531131564658,
+  "beta_95_bootstrap_interval": [
+    -0.19467461071489953,
+    -0.004455204305626727
+  ],
+  "bootstrap_probability_beta_negative": 0.9827,
+  "loyo": {
+    "mae_mph": 0.9953972361494675,
+    "rmse_mph": 1.331476633150907,
+    "bias_mph": -0.21975473638040036
+  },
+  "zero_change_reference": {
+    "mae_mph": 0.6912222222222226,
+    "rmse_mph": 1.2911374973398582
+  },
+  "within_run_support": {
+    "n": 110,
+    "track_temp_vs_fade_correlation": -0.20366963868187898,
+    "fade_beta_mph_per_c": -0.033463392121877364
+  },
+  "fast_friday_used": false
+}

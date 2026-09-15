@@ -1,0 +1,5 @@
+metric,value,expected,status
+input_rows,40,40,PASS
+future_information_used,False,False,PASS
+probability_target,P_NEXT_REPEAT_IMPROVES,P_NEXT_REPEAT_IMPROVES,PASS
+validation,LOYO,LOYO,PASS

@@ -1,0 +1,4 @@
+year,series_id,event_id,event_match,event_object_path,session_name,session_id,session_object_path,target_session,source
+2021,b856a4f1-e85c-4fac-8c36-fd58d962227a,5365,105th Running of the Indianapolis 500,root[10],,,,False,OFFICIAL_INDYCAR_RESULTS_API
+2023,b856a4f1-e85c-4fac-8c36-fd58d962227a,5431,107th Running of the Indianapolis 500,root[11],,,,False,OFFICIAL_INDYCAR_RESULTS_API
+2024,b856a4f1-e85c-4fac-8c36-fd58d962227a,5465,108th Running of the Indianapolis 500,root[12],,,,False,OFFICIAL_INDYCAR_RESULTS_API

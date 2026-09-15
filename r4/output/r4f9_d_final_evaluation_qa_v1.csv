@@ -1,0 +1,13 @@
+metric,value,expected,status
+probabilistic_replay_rows,19,19,PASS
+last_chance_descriptive_cases,10,10,PASS
+representative_case_rows,5,4_TO_7_UNIQUE_RULE_SELECTED,PASS
+brier_reference_targets,2,2,PASS
+representative_cases_manual_cherry_pick,False,False,PASS
+historical_action_used_as_optimal_label,False,False,PASS
+last_chance_final_qualification_probability_scored,False,False,PASS
+dynamic_competitor_model_claimed,False,False,PASS
+exact_queue_wait_claimed,False,False,PASS
+replay_claimed_as_external_holdout,False,False,PASS
+model_refit_after_replay,False,False,PASS
+r4f8h_reopened,False,False,PASS

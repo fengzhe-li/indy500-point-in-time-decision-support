@@ -1,0 +1,6 @@
+path,http_status,content_type,bytes
+/errors/count,401,application/json; charset=utf-8,99
+/errors,401,application/json; charset=utf-8,99
+/replays/count,200,application/json,15
+/replays/series,200,application/json,28057
+/replays,200,application/json,7433014

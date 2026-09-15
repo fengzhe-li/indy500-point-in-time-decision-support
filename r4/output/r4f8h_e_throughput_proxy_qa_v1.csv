@@ -1,0 +1,9 @@
+metric,value,expected,status
+source_rows,132,>0,PASS
+numeric_spacing_found,False,MEASURED,PASS
+numeric_throughput_rate_found,False,MEASURED,PASS
+future_competitor_identity_model_claimed,False,False,PASS
+future_competitor_action_model_claimed,False,False,PASS
+exact_queue_wait_claimed,False,False,PASS
+historical_future_leaderboard_used_as_decision_feature,False,False,PASS
+structural_proxy_only,True,True,PASS

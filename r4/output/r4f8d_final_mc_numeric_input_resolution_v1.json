@@ -1,0 +1,93 @@
+{
+  "phase": "R4F8D",
+  "status": "R4F8D_FINAL_MC_NUMERIC_INPUTS_RESOLVED",
+  "decision_rows": 60,
+  "action_rows": 170,
+  "decision_fields": [
+    "fused_decision_id",
+    "regime",
+    "source_decision_id",
+    "protected_result_exists",
+    "performance_state_class",
+    "source_file"
+  ],
+  "action_fields": [
+    "fused_decision_id",
+    "regime",
+    "protected_result_exists",
+    "feasible_action",
+    "current_result_retained_before_attempt",
+    "requires_new_attempt",
+    "priority_lane_semantics"
+  ],
+  "semantic_candidates": {
+    "BENCHMARK": [],
+    "CURRENT_STATE": [
+      "protected_result_exists"
+    ],
+    "SPEED": [],
+    "RANK": [],
+    "TIME": [],
+    "QUEUE_WAIT": [],
+    "PROTECTION": [
+      "protected_result_exists"
+    ],
+    "SESSION_REGIME": [
+      "regime"
+    ]
+  },
+  "wait_queue_source_candidates": [
+    {
+      "file": "r4/output/r4p11_stochastic_wait_performance_mc_draws_sample_v1.csv",
+      "rows": 1500,
+      "queue_wait_fields": "wait_minutes",
+      "numeric_queue_wait_fields": "wait_minutes",
+      "action_or_lane_fields": "action",
+      "decision_identifier_fields": ""
+    },
+    {
+      "file": "r4/output/r4p11_stochastic_wait_performance_mc_results_v1.csv",
+      "rows": 9,
+      "queue_wait_fields": "mean_wait_minutes;q50_wait_minutes;q95_wait_minutes;wait_source",
+      "numeric_queue_wait_fields": "mean_wait_minutes;q50_wait_minutes;q95_wait_minutes",
+      "action_or_lane_fields": "action",
+      "decision_identifier_fields": ""
+    },
+    {
+      "file": "r4/output/r4f8c_wait_queue_candidate_sources_v1.csv",
+      "rows": 17,
+      "queue_wait_fields": "",
+      "numeric_queue_wait_fields": "",
+      "action_or_lane_fields": "",
+      "decision_identifier_fields": ""
+    },
+    {
+      "file": "r4/output/r4p11_stochastic_wait_performance_mc_qa_v1.csv",
+      "rows": 7,
+      "queue_wait_fields": "",
+      "numeric_queue_wait_fields": "",
+      "action_or_lane_fields": "",
+      "decision_identifier_fields": ""
+    }
+  ],
+  "performance_model": {
+    "selected_shrinkage_k": 3.0,
+    "prior_mean_residual_mph": -0.685759615384616,
+    "prior_sd_residual_mph": 0.9003554799066349,
+    "external_validation_status": "DEVELOPMENT_SUPPORTED_EXTERNAL_VALIDATION_MIXED"
+  },
+  "availability": {
+    "benchmark_field_candidate": false,
+    "speed_field_candidate": false,
+    "time_field_candidate": false,
+    "protection_field_candidate": true,
+    "numeric_wait_queue_source_candidate": true
+  },
+  "frozen_rules": {
+    "old_p11_probabilities": "FORBIDDEN_AS_FINAL_MC_OUTPUT",
+    "old_wait_queue_evidence": "MAY_BE_REUSED_ONLY_AS EMPIRICAL/DECLARED WAIT INPUT AFTER FIELD-LEVEL SEMANTICS ARE VERIFIED",
+    "performance": "FAST_FRIDAY_REFERENCE_PLUS_FROZEN_ONLINE_SHRUNK_SESSION_CALIBRATION_PLUS_UNCERTAINTY",
+    "external_validation": "MIXED_SO_EARLY_SESSION_UNCERTAINTY_MUST_REMAIN_BROAD"
+  },
+  "next_phase": "R4F8E_FINAL_FUSED_ACTION_MONTE_CARLO"
+}

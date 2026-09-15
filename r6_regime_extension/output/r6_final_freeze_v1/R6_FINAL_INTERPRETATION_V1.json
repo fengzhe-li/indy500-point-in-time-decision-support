@@ -1,0 +1,41 @@
+{
+  "research_question": "Does the physical sensitivity of Indianapolis 500 qualifying performance remain stable across technical regulation regimes?",
+  "regimes": {
+    "A": {
+      "label": "UNIVERSAL_AERO_KIT_PRE_AEROSCREEN",
+      "direct_repeat_year": 2019,
+      "primary_transitions": 10,
+      "beta_track_mph_per_c": -0.0505937628686543,
+      "beta_ambient_mph_per_c": 0.1700805288088042,
+      "delta_track_ambient_correlation": 0.9256582303937612,
+      "evidence_strength": "LIMITED_SMALL_SAMPLE_HIGH_COLLINEARITY"
+    },
+    "B": {
+      "label": "AEROSCREEN_PRE_HYBRID",
+      "years": "2020-2024",
+      "primary_transitions": 41,
+      "beta_track_mph_per_c": -0.03482533,
+      "beta_ambient_mph_per_c": 0.18239338,
+      "evidence_strength": "FROZEN_REFERENCE_CORE"
+    },
+    "C": {
+      "label": "AEROSCREEN_HYBRID",
+      "direct_repeat_year": 2025,
+      "primary_transitions": 23,
+      "beta_track_mph_per_c": -0.0630809005274244,
+      "beta_ambient_mph_per_c": 0.1209992514011008,
+      "delta_track_ambient_correlation": 0.6154862204864217,
+      "evidence_strength": "DIRECT_REPEAT_EVIDENCE"
+    }
+  },
+  "primary_conclusion": "Within the recoverable historical evidence, there is no clear evidence of a regulation-era shift in physics-conditioned Indianapolis 500 qualifying sensitivity. The 2025 hybrid-era sample retains the same directional track-temperature and ambient-temperature response as the frozen 2020-2024 reference core. The 2019 pre-Aeroscreen sample is too small and too collinear for precise regime-level separation.",
+  "important_non_claims": [
+    "The analysis does not prove that coefficients are identical across regimes.",
+    "The analysis does not establish a causal regulation effect or causal absence of a regulation effect.",
+    "Regime A should not be treated as a precise coefficient estimate because n=10 and delta-track/delta-ambient collinearity is high.",
+    "2026 contributes no same-day initial-round repeat transition evidence because of its qualifying format.",
+    "The model does not issue withdraw, delete, retain, or reattempt recommendations."
+  ],
+  "zero_state_invariance": true,
+  "frozen_B_modified": false
+}

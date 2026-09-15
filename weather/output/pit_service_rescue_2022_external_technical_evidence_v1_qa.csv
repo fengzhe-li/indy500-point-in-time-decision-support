@@ -1,0 +1,14 @@
+﻿metric,value,status
+marco_first_result_grounded,1,PASS
+marco_second_result_grounded,1,PASS
+marco_first_chronology_grounded,1,PASS
+marco_second_chronology_grounded,1,PASS
+marco_second_action_grounded,1,PASS
+local_service_promotions_zero,0,PASS
+technical_issue_rows,1,PASS
+repair_inferred_from_later_attempt,0,PASS
+refuel_inferred,0,PASS
+cooling_inferred,0,PASS
+tire_service_inferred,0,PASS
+setup_adjustment_inferred,0,PASS
+active_ledger_mutation,0,PASS

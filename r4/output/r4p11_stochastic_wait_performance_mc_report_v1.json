@@ -1,0 +1,21 @@
+{
+  "phase": "R4P11",
+  "purpose": "Introduce stochastic candidate wait time and empirical repeat-performance uncertainty for STOP / RETAIN / WITHDRAW action comparison.",
+  "repeat_transition_rows": 92,
+  "repeat_delta_mean_mph": 0.3295217391304348,
+  "repeat_delta_median_mph": 0.194,
+  "repeat_improvement_rate": 0.6521739130434783,
+  "mc_draws_per_action_profile": 50000,
+  "wait_model_status": "SCENARIO_PRIOR_ONLY; NOT HISTORICALLY CALIBRATED",
+  "thermal_layer_status": "R4P9 validated as environment-state model, but not converted into deterministic mph shift because R4P10 did not validate that mapping.",
+  "action_semantics": {
+    "STOP": "Keep current result and do not reattempt.",
+    "RETAIN_REATTEMPT": "Keep current result while making a non-priority repeat attempt.",
+    "WITHDRAW_PRIORITY": "Withdraw current result before a priority repeat attempt."
+  },
+  "limitations": [
+    "Queue wait distributions are declared scenario priors rather than historical estimates.",
+    "Competitor leaderboard evolution is not yet simulated.",
+    "Advancement benchmark probability is not yet included."
+  ]
+}

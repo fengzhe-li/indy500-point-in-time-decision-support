@@ -1,0 +1,4 @@
+metric,value,expected,status
+residual_rows_preserved,40,40,PASS
+development_state_count,50,50,PASS
+temporal_positions_accounted_for,39,40,FAIL

@@ -1,0 +1,12 @@
+path,method,summary,operationId
+/analysis/{id},GET,,ReplayController.downloadAnalysis
+/download/{id},GET,,ReplayController.downloadFile
+/errors/count,GET,,ScanErrorController.count
+/errors/{id},DELETE,,ScanErrorController.deleteById
+/errors,GET,,ScanErrorController.find
+/replays/count,GET,,ReplayController.count
+/replays/series,GET,,ReplayController.series
+/replays/{id},PATCH,,ReplayController.updateById
+/replays/{id},GET,,ReplayController.findById
+/replays/{id},DELETE,,ReplayController.deleteById
+/replays,GET,,ReplayController.find

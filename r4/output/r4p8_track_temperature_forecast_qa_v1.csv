@@ -1,0 +1,7 @@
+metric,value,expected,status
+raw_ptsc_rows,168,168,PASS
+supervised_rows,312,>0,PASS
+ml_complete_rows,292,>0,PASS
+unsafe_hrrr_cycle_rows,0,0,PASS
+future_realized_weather_used,0,0,PASS
+validation_protocol,LEAVE_ONE_YEAR_OUT,LEAVE_ONE_YEAR_OUT,PASS

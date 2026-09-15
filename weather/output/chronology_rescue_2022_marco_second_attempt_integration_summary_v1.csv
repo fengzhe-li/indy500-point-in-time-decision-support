@@ -1,0 +1,14 @@
+﻿metric,value
+chronology_rows_before,159
+chronology_rows_after,160
+action_rows_before,4
+action_rows_after,5
+2022_chronology_before,16
+2022_chronology_after,17
+coverage_before_pct,36.36
+coverage_after_pct,38.64
+repeat_coverage_before,5/8
+repeat_coverage_after,6/8
+newly_covered,Marco Andretti
+lane_rows_before,1
+lane_rows_after,1

@@ -1,0 +1,5 @@
+year,official_result_rows,unique_driver_car,complete_four_lap_attempts,partial_attempts,zero_lap_records,driver_cars_with_multiple_records,driver_cars_with_2plus_complete_attempts,potential_complete_repeat_transitions,chronology_verified
+2018,48,36,44,3,1,9,6,8,False
+2019,73,37,65,7,1,19,17,29,False
+2025,73,34,61,11,1,30,22,28,False
+2026,33,33,33,0,0,0,0,0,False

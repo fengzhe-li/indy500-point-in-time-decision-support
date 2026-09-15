@@ -1,0 +1,9 @@
+﻿driver_name,first_attempt_id,decision_time_quality,decision_time_method,decision_time_point_available,decision_time_utc,decision_time_lower_utc,decision_time_upper_utc,decision_current_track_temp_available,ready_environment_scenarios,total_wait_scenarios
+Alexander Rossi,1e2facfd-2c67-5b5a-9556-04ef28eeb0d8,UNKNOWN,NO_DECISION_TIME_POINT,False,UNKNOWN,UNKNOWN,UNKNOWN,False,0,4
+Callum Ilott,3cd6d98a-da75-5822-8dae-05e83ad8457c,ORDERING_ONLY,NO_DECISION_TIME_POINT,False,UNKNOWN,UNKNOWN,UNKNOWN,False,0,4
+David Malukas,619575d3-e7eb-5cce-886f-0a8485b98eba,ORDERING_ONLY,NO_DECISION_TIME_POINT,False,UNKNOWN,UNKNOWN,UNKNOWN,False,0,4
+Helio Castroneves,01896a4f-c482-5093-a806-89bc4273641d,UNKNOWN,NO_DECISION_TIME_POINT,False,UNKNOWN,UNKNOWN,UNKNOWN,False,0,4
+Marco Andretti,c044edbc-0f6c-5aab-bdef-9c4156b50617,ORDERING_ONLY,NO_DECISION_TIME_POINT,False,UNKNOWN,UNKNOWN,UNKNOWN,False,0,4
+Sage Karam,8e0c8731-4ddc-515a-949e-7902dd01eaeb,ORDERING_ONLY,NO_DECISION_TIME_POINT,False,UNKNOWN,UNKNOWN,UNKNOWN,False,0,4
+Scott McLaughlin,d2ae8749-6312-5afd-b193-dd23dc071124,UNKNOWN,NO_DECISION_TIME_POINT,False,UNKNOWN,UNKNOWN,UNKNOWN,False,0,4
+Takuma Sato,3f221659-74ff-5901-97dc-08071a734690,UNKNOWN,NO_DECISION_TIME_POINT,False,UNKNOWN,UNKNOWN,UNKNOWN,False,0,4

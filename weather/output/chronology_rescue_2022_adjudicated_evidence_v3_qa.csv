@@ -1,0 +1,7 @@
+﻿metric,value,status
+mclaughlin_ordering_promoted,1,PASS
+newgarden_ordering_promoted,1,PASS
+karam_specific_attempt_promoted,0,PASS
+exact_weather_stop_timestamp_invented,0,PASS
+queue_wait_inferred,0,PASS
+canonical_data_mutated,0,PASS

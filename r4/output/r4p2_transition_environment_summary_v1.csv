@@ -1,0 +1,6 @@
+year,transition_rows,timed_transition_rows,full_environment_transition_rows,mean_delta_speed_mph,median_delta_speed_mph,std_delta_speed_mph,speed_improvement_fraction,mean_delta_late_run_fade_mph,median_delta_late_run_fade_mph,mean_delta_track_temp_c,median_delta_track_temp_c
+2020,13,11,11,0.328923,0.215000,0.717492,0.769231,0.290615,0.076500,4.544332,2.969136
+2021,16,16,15,0.268250,0.010000,1.304498,0.500000,0.158812,0.036000,6.904444,7.203704
+2022,8,0,0,0.957625,0.466500,2.113980,0.625000,1.369250,0.652000,,
+2023,35,12,12,0.338514,0.227000,0.683004,0.742857,0.128686,0.043000,4.583333,4.322223
+2024,20,1,1,0.111950,0.134500,0.746614,0.550000,-0.171900,-0.075750,5.592593,5.592593

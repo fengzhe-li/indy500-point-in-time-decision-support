@@ -1,0 +1,12 @@
+﻿metric,value,status
+result_match_v3_used,1,PASS
+result_match_v2_used,0,PASS
+identity_filtered_by_car_number,0,PASS
+canonical_ilott_objects_found,2,PASS
+all_canonical_attempts_linked_in_v3,True,PASS
+automatic_promotions,0,PASS
+result_row_order_used_as_chronology,0,PASS
+withdrawn_status_used_as_lane1,0,PASS
+queue_wait_inferred,0,PASS
+canonical_mutated,0,PASS
+phase5_to_phase8_mutated,0,PASS

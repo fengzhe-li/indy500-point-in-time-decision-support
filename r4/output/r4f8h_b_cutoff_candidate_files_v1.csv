@@ -1,0 +1,132 @@
+path,file_type,keyword_hits,reason
+v1_dataset_schema.md,md,cutoff | remaining time,TEXT_MATCH
+revised_feasibility_assessment.md,md,remaining time,TEXT_MATCH
+v1_inclusion_exclusion_rules.md,md,cutoff | last chance,TEXT_MATCH
+2024_chronology_reconciliation_report.md,md,cutoff,TEXT_MATCH
+data_reconnaissance_report.md,md,5:50 p.m. | scheduled end,TEXT_MATCH
+raw_source_notes.md,md,5:50 p.m. | cutoff,TEXT_MATCH
+r4/README.md,md,cutoff,TEXT_MATCH
+weather/output/retain_withdraw_target_aware_profiles_v1.md,md,cutoff,TEXT_MATCH
+weather/output/decision_robustness_envelope_v1.md,md,cutoff,TEXT_MATCH
+weather/output/queue_wait_sensitivity_scenarios_v1.md,md,cutoff | time remaining,TEXT_MATCH
+weather/output/global_pipeline_consistency_v1.md,md,cutoff,TEXT_MATCH
+weather/output/final_integrated_decision_output_v1.md,md,cutoff | time remaining,TEXT_MATCH
+weather/output/queue_wait_uncertainty_design_v1.md,md,cutoff,TEXT_MATCH
+weather/output/official_action_lane_leaderboard_resource_discovery_v1.md,md,last chance,TEXT_MATCH
+weather/output/official_lane_queue_live_resource_recon_v1.md,md,cutoff,TEXT_MATCH
+weather/output/retain_withdraw_monte_carlo_v1.md,md,cutoff | time remaining,TEXT_MATCH
+tmp/pdfs/rules_2024.txt,txt,5:50 pm | 6:00 pm | last chance,TEXT_MATCH
+weather/evidence/raw_pages/2024_doctorindy.com_2024_04_10_2024-indianapolis-500-archive.txt,txt,5:50 p.m. | 6:00 p.m. | last chance,TEXT_MATCH
+weather/evidence/raw_pages/2022_www.indycar.com_news_2022_05_05-21-buzz.txt,txt,6:00 pm,TEXT_MATCH
+weather/evidence/raw_pages/2024_www.indycar.com_news_2024_05_05-18-buzz.txt,txt,6:00 pm | last chance | qualifying ended,TEXT_MATCH
+weather/evidence/rescue/official_2022_editorial_chronology/article_text/INDYCAR_2022_QUALS_CHANGE.txt,txt,5:50 p.m. | 6:00 pm | scheduled end,TEXT_MATCH
+weather/evidence/rescue/official_2022_editorial_chronology/article_text/INDYCAR_2022_QUALFORMAT.txt,txt,6:00 pm,TEXT_MATCH
+weather/evidence/rescue/official_2022_editorial_chronology/article_text/INDYCAR_2022_SATO_BUZZ.txt,txt,6:00 pm,TEXT_MATCH
+weather/evidence/rescue/official_2022_editorial_chronology/article_text/INDYCAR_2022_GANASSI.txt,txt,6:00 pm,TEXT_MATCH
+weather/evidence/rescue/official_2022_editorial_chronology/article_text/INDYCAR_2022_DAY1_RECAP.txt,txt,6:00 pm,TEXT_MATCH
+weather/evidence/rescue/official_2022_editorial_chronology/article_text/INDYCAR_2022_MORNING_PRACTICE.txt,txt,6:00 pm,TEXT_MATCH
+weather/evidence/extracted_text/2024/indycar-qual-explainer-2024Indy500.txt,txt,5:50 pm | 6:00 pm | last chance,TEXT_MATCH
+pipeline/config.py,py,cutoff,TEXT_MATCH
+pipeline/chronology_2024.py,py,5:50 p.m. | cutoff,TEXT_MATCH
+r4/run_r4lc2d_event_session_api_probe_v1.py,py,last chance,TEXT_MATCH
+r4/run_r4lc3_official_last_chance_record_report_ingestion_v1.py,py,last chance,TEXT_MATCH
+r4/run_r4f8a_action_mc_interface_resolution_v1.py,py,cutoff | last chance,TEXT_MATCH
+r4/run_r4lc2f_last_chance_session_details_v1.py,py,last chance,TEXT_MATCH
+r4/run_r4f0c_day1_exact_join_contract_inspection_v1.py,py,cutoff,TEXT_MATCH
+r4/run_r4f8f_action_specific_wait_queue_model_freeze_v1.py,py,cutoff | last chance,TEXT_MATCH
+r4/run_r4f2_canonical_fused_decision_dataset_v2.py,py,last chance,TEXT_MATCH
+r4/run_r4lc4_last_chance_canonical_attempt_candidates_v1.py,py,last chance,TEXT_MATCH
+r4/run_r4lc0_last_chance_local_asset_audit_v1.py,py,last chance,TEXT_MATCH
+r4/run_r4lc5c_last_chance_evidence_role_gate_v1.py,py,last chance,TEXT_MATCH
+r4/run_r4f8b_final_action_mc_contract_freeze_v1.py,py,last chance,TEXT_MATCH
+r4/run_r4f0b_day1_join_source_discovery_v1.py,py,cutoff,TEXT_MATCH
+r4/run_r4f8c_fused_day1_last_chance_mc_coverage_v1.py,py,last chance,TEXT_MATCH
+r4/run_r4lc5a_last_chance_chronology_action_ledger_v1.py,py,last chance,TEXT_MATCH
+r4/run_r4lc5e_last_chance_fused_interface_adapter_v1.py,py,last chance,TEXT_MATCH
+r4/run_r4f8g_performance_uncertainty_engine_freeze_v1.py,py,cutoff,TEXT_MATCH
+r4/run_r4f8c_final_mc_input_resolution_v1.py,py,cutoff | last chance,TEXT_MATCH
+r4/run_r4f8d_final_mc_numeric_input_resolution_v1.py,py,cutoff,TEXT_MATCH
+r4/run_r4f8e_decision_numeric_state_reconstruction_v1.py,py,last chance,TEXT_MATCH
+r4/run_r4lc5d_last_chance_decision_opportunity_panel_v1.py,py,last chance,TEXT_MATCH
+r4/run_r4f0_day1_source_contract_discovery_v1.py,py,cutoff | last chance,TEXT_MATCH
+r4/run_r4lc1_last_chance_year_registry_v1.py,py,last chance,TEXT_MATCH
+r4/run_r4lc2_last_chance_official_source_recon_v1.py,py,last chance,TEXT_MATCH
+r4/run_r4lc5e_last_chance_fused_interface_adapter_v2.py,py,last chance,TEXT_MATCH
+r4/run_r4f3_shared_state_linkage_audit_v1.py,py,cutoff,TEXT_MATCH
+r4/run_r4f2_canonical_fused_decision_dataset_v1.py,py,last chance,TEXT_MATCH
+r4/run_r4lc2b_dynamic_source_discovery_v1.py,py,last chance,TEXT_MATCH
+r4/run_r4f8h_b_cutoff_evidence_resolution_audit_v1.py,py,5:50 p.m. | 5:50 pm | 6:00 p.m. | 6:00 pm | checkered flag | chequered flag | cut-off | cutoff | last chance | qualifying ended | qualifying ends | remaining time | scheduled end | session end | session ends | time remaining,TEXT_MATCH
+r4/run_r4f1_day1_fused_interface_v1.py,py,cutoff | last chance,TEXT_MATCH
+r4/run_r4lc5b_last_chance_predecision_state_ledger_v1.py,py,last chance,TEXT_MATCH
+r4/run_r4f8h_a_final_mc_readiness_audit_v1.py,py,cutoff,TEXT_MATCH
+r4/run_r4lc2f_last_chance_session_details_v2.py,py,last chance,TEXT_MATCH
+r4/tests/test_r4a_scenarios.py,py,cutoff,TEXT_MATCH
+r4/tests/test_scaffold.py,py,cutoff,TEXT_MATCH
+r4/state/targets.py,py,cutoff,TEXT_MATCH
+r4/state/models.py,py,cutoff,TEXT_MATCH
+r4/state/loader.py,py,cutoff,TEXT_MATCH
+r4/state/scenario.py,py,cutoff,TEXT_MATCH
+weather/scripts/derive_2022_contemporaneous_cutoff_speed_anchors_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/finalize_r3c1_results_and_capability_freeze_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/build_final_integrated_decision_output_v1.py,py,cutoff | time remaining,TEXT_MATCH
+weather/scripts/build_2022_contemporaneous_decision_state_ledger_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/audit_official_day1_report_text_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/audit_decision_time_state_v2_temporal_admissibility_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/adjudicate_2022_live_leaderboard_candidates_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/finalize_r3c_state_and_action_applicability_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/build_rescue_readiness_matrix_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/recon_official_lane_queue_live_resources_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/audit_decision_time_state_v2_inputs_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/build_target_aware_decision_profiles_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/build_decision_time_observable_state_v2.py,py,cutoff,TEXT_MATCH
+weather/scripts/materialize_queue_wait_sensitivity_scenarios_v1.py,py,cutoff | time remaining,TEXT_MATCH
+weather/scripts/run_r3b4_monte_carlo_performance_decision_envelope_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/build_r3b_simulator_input_pack_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/freeze_retain_withdraw_decision_semantics_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/audit_2022_repeat_pair_live_leaderboard_cutoff_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/rescue_scott_first_attempt_speed_r3c0a_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/adjudicate_2022_weather_interruption_windows_v1.py,py,5:50 p.m. | scheduled end | session end,TEXT_MATCH
+weather/scripts/discover_official_action_lane_leaderboard_resources_v1.py,py,last chance,TEXT_MATCH
+weather/scripts/capture_2022_external_temporal_leaderboard_evidence_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/adjudicate_2022_interruption_drying_candidates_v1.py,py,session end,TEXT_MATCH
+weather/scripts/audit_decision_time_state_v2_binding_anomalies_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/materialize_performance_context_features.py,py,cutoff,TEXT_MATCH
+weather/scripts/run_retain_withdraw_monte_carlo_v1.py,py,cutoff | time remaining,TEXT_MATCH
+weather/scripts/recon_decision_state_materialization.py,py,cutoff | remaining time | session end,TEXT_MATCH
+weather/scripts/build_decision_time_observable_state_v3_temporal_safe.py,py,cutoff,TEXT_MATCH
+weather/scripts/audit_global_pipeline_consistency_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/build_decision_robustness_envelope_v1.py,py,cutoff,TEXT_MATCH
+weather/scripts/freeze_queue_wait_uncertainty_design_v1.py,py,cutoff,TEXT_MATCH
+evidence/timing71_2024_last_snapshot.json,json,chequered flag,TEXT_MATCH
+r4/config/observable_scenario.template.json,json,cutoff,TEXT_MATCH
+r4/output/r4a_pit_wall_observable_state_qa.json,json,cutoff,TEXT_MATCH
+r4/output/r4f8c_final_mc_input_resolution_report_v1.json,json,last chance,TEXT_MATCH
+r4/output/r4f1_day1_fused_interface_report_v1.json,json,cutoff | last chance,TEXT_MATCH
+r4/output/r4lc2f_last_chance_session_details_report_v1.json,json,last chance,TEXT_MATCH
+r4/output/r4f8c_fused_mc_coverage_contract_v1.json,json,last chance,TEXT_MATCH
+r4/output/r4lc5d_last_chance_decision_opportunity_report_v1.json,json,last chance,TEXT_MATCH
+r4/output/r4lc2_last_chance_official_source_report_v1.json,json,last chance,TEXT_MATCH
+r4/output/r4f8f_wait_queue_report_v1.json,json,cutoff,TEXT_MATCH
+r4/output/r4lc2d_indy500_event_session_registry_report_v1.json,json,last chance,TEXT_MATCH
+r4/output/r4f8b_final_action_mc_contract_v1.json,json,last chance,TEXT_MATCH
+r4/output/r4f8a_action_mc_interface_resolution_report_v1.json,json,last chance,TEXT_MATCH
+r4/output/r4lc5c_last_chance_evidence_role_report_v1.json,json,last chance,TEXT_MATCH
+r4/output/r4lc0_last_chance_local_report_v1.json,json,last chance,TEXT_MATCH
+r4/output/r4f8e_decision_numeric_state_reconstruction_report_v1.json,json,last chance,TEXT_MATCH
+r4/output/r4lc2f_last_chance_session_details_report_v2.json,json,last chance,TEXT_MATCH
+r4/output/r4lc5e_last_chance_fused_interface_report_v1.json,json,last chance,TEXT_MATCH
+r4/output/r4lc1_last_chance_year_registry_report_v1.json,json,last chance,TEXT_MATCH
+r4/output/r4f0c_day1_exact_join_contract_report_v1.json,json,cutoff,TEXT_MATCH
+r4/output/r4lc5e_fused_decision_schema_contract_v1.json,json,last chance,TEXT_MATCH
+r4/output/r4f8h_a_final_mc_readiness_report_v1.json,json,cutoff,TEXT_MATCH
+r4/output/r4f8f_wait_queue_model_contract_v1.json,json,cutoff | last chance,TEXT_MATCH
+r4/state/pit_wall_state.schema.json,json,cutoff,TEXT_MATCH
+r4/state/observable_scenario.schema.json,json,cutoff,TEXT_MATCH
+weather/output/r3b4_monte_carlo_performance_decision_envelope_v1.json,json,cutoff,TEXT_MATCH
+weather/output/r3c_final_capability_boundary_v1.json,json,cutoff,TEXT_MATCH
+weather/output/final_capability_summary_v1.json,json,cutoff,TEXT_MATCH
+weather/output/rescue_readiness_summary_v1.json,json,cutoff,TEXT_MATCH
+weather/evidence/last_chance_official/2024_last_chance_session_6385_v2.json,json,last chance,TEXT_MATCH
+weather/evidence/last_chance_official/2023_last_chance_session_6205_v2.json,json,last chance,TEXT_MATCH
+weather/evidence/rescue/official_indy500_season_dropdown/season_dropdown_ntt_indycar.json,json,last chance,TEXT_MATCH
+weather/evidence/rescue/official_lane_queue_live_resources/preexisting_frozen_hashes.json,json,cutoff,TEXT_MATCH

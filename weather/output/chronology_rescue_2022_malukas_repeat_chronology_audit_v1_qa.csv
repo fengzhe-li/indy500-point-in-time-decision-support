@@ -1,0 +1,7 @@
+﻿metric,value,status
+first_grounding,1,PASS
+second_grounding,1,PASS
+frozen_repeat_pair_grounding,1,PASS
+chronology_covered_count,0,PASS
+direct_repeat_hits,0,REVIEW
+ledger_mutation,0,PASS

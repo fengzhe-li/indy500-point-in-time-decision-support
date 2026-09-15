@@ -1,0 +1,15 @@
+year,session_id,file,pages,chars_extracted,contains_attempt,contains_lane,contains_withdraw,contains_queue,status
+2018,5320,2018_5320_indycar-qualresults-Day1.pdf,1,4952,True,False,True,False,OK
+2018,5320,2018_5320_indycar-results-quals-day1.pdf,1,4942,True,False,False,False,OK
+2018,5320,2018_5320_indycar-sectionresults-quals-day1.pdf,36,57168,False,False,False,False,OK
+2018,5320,2018_5320_indycar-topsectiontimes-quals-day1.pdf,30,61706,False,False,False,False,OK
+2019,5565,2019_5565_indycar-qualresults.pdf,1,7462,True,False,True,False,OK
+2019,5565,2019_5565_indycar-results-quals-day1.pdf,1,7464,True,False,True,False,OK
+2019,5565,2019_5565_indycar-sectionresults-quals-day1.pdf,41,93673,False,False,False,False,OK
+2019,5565,2019_5565_indycar-topsectiontimes-quals-day1.pdf,30,65190,False,False,False,False,OK
+2025,6656,2025_6656_indycar-results-quals-day1.pdf,1,7501,True,False,False,False,OK
+2025,6656,2025_6656_indycar-sectionresults-quals-day1.pdf,73,160715,False,False,False,False,OK
+2025,6656,2025_6656_indycar-topsectiontimes-quals-day1.pdf,47,100932,False,False,False,False,OK
+2026,6835,2026_6835_indycar-results-quals-poleday.pdf,1,3296,False,False,False,False,OK
+2026,6835,2026_6835_indycar-sectionresults-quals-poleday.pdf,14,17789,False,False,False,False,OK
+2026,6835,2026_6835_indycar-topsectiontimes-quals-poleday.pdf,42,32187,False,False,False,False,OK

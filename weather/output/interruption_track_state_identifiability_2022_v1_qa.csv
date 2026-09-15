@@ -1,0 +1,11 @@
+﻿metric,value,status
+interruption_ledger_rows_is_5,5,PASS
+wet_terminal_state_exactly_one,1,PASS
+day1_cleaning_promoted,0,PASS
+day1_reset_promoted,0,PASS
+day1_rubber_washoff_promoted,0,PASS
+post_restart_grip_inferred,0,PASS
+drying_trajectory_inferred,0,PASS
+fast_friday_mechanism_promoted_to_day1,0,PASS
+elapsed_time_used_as_track_evolution,0,PASS
+active_ledger_mutation,0,PASS

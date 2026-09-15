@@ -1,0 +1,7 @@
+{
+  "phase": "R4LC5B",
+  "status": "R4LC5B_LAST_CHANCE_PREDECISION_STATE_LEDGER_READY",
+  "decision_episode_count": 7,
+  "important_interpretation": "This ledger reconstructs observable pre-decision state only where supported. Reattempt existence does not yet imply a Day-1-style retain/withdraw action label.",
+  "next_gate": "Recover time bounds, prior-run values, and exact rules/action semantics sufficiently to decide which episodes can enter Last-Chance-only policy fitting versus replay-only evaluation."
+}

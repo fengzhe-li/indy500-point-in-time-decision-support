@@ -1,0 +1,9 @@
+metric,value,expected,status
+fused_decisions,60,60,PASS
+expanded_action_rows,170,170,PASS
+benchmark_candidate_found,False,True,WARN
+speed_candidate_found,False,True,WARN
+numeric_wait_candidate_found,True,True,PASS
+old_p11_final_probabilities_reused,False,False,PASS
+model_refit_performed,False,False,PASS
+mc_simulation_performed,False,False,PASS

@@ -1,0 +1,8 @@
+﻿metric,value
+candidate_files,24
+confirmed_identity_contamination_files,2
+confirmed_car_number_collapse_attempt_id_intact_files,0
+car_number_format_loss_attempt_id_intact_files,0
+attempt_id_validated_clean_files,8
+files_without_attempt_id_for_validation,4
+row_level_audit_records,24

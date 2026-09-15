@@ -1,0 +1,53 @@
+================================================================================
+INDY 500 V2-A OPERATIONAL SCENARIO OUTLOOK
+================================================================================
+
+CURRENT STATE
+UTC time: 2025-05-17T16:00:00+00:00
+track temperature: 40.00 C
+ambient temperature: 24.00 C
+thermal gap: 16.00 C
+solar elevation: 60.07 deg
+
+================================================================================
+SCENARIO: COOLING
+================================================================================
+
+scenario  horizon_min  delta_ambient_c  expected_delta_track_c  expected_delta_speed_mph  p_improve  lower_80_mph  upper_80_mph  lower_90_mph  upper_90_mph
+ cooling           15            -0.25                  0.1995                   -0.0544     0.4459       -0.7825        0.6879       -1.2754        1.1502
+ cooling           30            -0.50                  0.2795                   -0.1025     0.4078       -0.8342        0.6554       -1.3212        1.1196
+ cooling           60            -1.00                  0.1775                   -0.2031     0.3412       -0.9882        0.5510       -1.4205        1.0383
+ cooling           90            -1.50                 -0.1848                   -0.2920     0.2857       -1.1091        0.4563       -1.5376        0.9656
+ cooling          120            -2.00                 -1.0803                   -0.3593     0.2488       -1.2010        0.3957       -1.6204        0.9087
+
+================================================================================
+SCENARIO: NEUTRAL
+================================================================================
+
+scenario  horizon_min  delta_ambient_c  expected_delta_track_c  expected_delta_speed_mph  p_improve  lower_80_mph  upper_80_mph  lower_90_mph  upper_90_mph
+ neutral           15              0.0                  0.4086                   -0.0202     0.4792       -0.7382        0.7135       -1.2250        1.1842
+ neutral           30              0.0                  0.8072                   -0.0349     0.4733       -0.7592        0.7011       -1.2478        1.1702
+ neutral           60              0.0                  1.5946                   -0.0675     0.4447       -0.8221        0.6758       -1.2892        1.1632
+ neutral           90              0.0                  2.2032                   -0.0844     0.4339       -0.8508        0.6704       -1.3133        1.1524
+ neutral          120              0.0                  2.4550                   -0.1003     0.4212       -0.9054        0.6412       -1.3317        1.1383
+
+================================================================================
+SCENARIO: WARMING
+================================================================================
+
+scenario  horizon_min  delta_ambient_c  expected_delta_track_c  expected_delta_speed_mph  p_improve  lower_80_mph  upper_80_mph  lower_90_mph  upper_90_mph
+ warming           15             0.25                  0.6177                    0.0286     0.5282       -0.7135        0.7549       -1.1867        1.2369
+ warming           30             0.50                  1.3349                    0.0475     0.5451       -0.6810        0.7833       -1.1618        1.2617
+ warming           60             1.00                  3.0117                    0.0856     0.5675       -0.6676        0.8338       -1.1454        1.3148
+ warming           90             1.50                  4.5913                    0.1164     0.5988       -0.6409        0.8766       -1.1112        1.3488
+ warming          120             2.00                  5.9904                    0.1635     0.6276       -0.6243        0.9425       -1.0802        1.4190
+
+================================================================================
+INTERPRETATION CONTRACT
+================================================================================
+
+h is a scenario axis: 'if another on-track opportunity occurs h minutes from now'.
+This model does not predict queue waiting time or probability that another attempt becomes available.
+Ambient trajectories in this demonstration are explicit scenarios, not weather forecasts.
+P(improve) is physical-performance probability conditional on the stated future opportunity and environmental scenario.
+It is not a retain/withdraw recommendation.

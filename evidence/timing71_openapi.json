@@ -1,0 +1,805 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "@timing71/archive",
+    "version": "0.0.1",
+    "description": "Timing71 replay archive",
+    "contact": {
+      "name": "James Muscat",
+      "email": "jamesremuscat@gmail.com"
+    }
+  },
+  "paths": {
+    "/analysis/{id}": {
+      "get": {
+        "x-controller-name": "ReplayController",
+        "x-operation-name": "downloadAnalysis",
+        "tags": [
+          "ReplayController"
+        ],
+        "responses": {
+          "200": {
+            "description": "Return value of ReplayController.downloadAnalysis"
+          }
+        },
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "operationId": "ReplayController.downloadAnalysis"
+      }
+    },
+    "/download/{id}": {
+      "get": {
+        "x-controller-name": "ReplayController",
+        "x-operation-name": "downloadFile",
+        "tags": [
+          "ReplayController"
+        ],
+        "responses": {
+          "200": {
+            "description": "The file content",
+            "content": {
+              "application/octet-stream": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              }
+            }
+          }
+        },
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "operationId": "ReplayController.downloadFile"
+      }
+    },
+    "/errors/count": {
+      "get": {
+        "x-controller-name": "ScanErrorController",
+        "x-operation-name": "count",
+        "tags": [
+          "ScanErrorController"
+        ],
+        "responses": {
+          "200": {
+            "description": "Replay model count",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/loopback.Count"
+                }
+              }
+            }
+          }
+        },
+        "parameters": [
+          {
+            "name": "where",
+            "in": "query",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "title": "ScanError.WhereFilter",
+                  "additionalProperties": true,
+                  "x-typescript-type": "@loopback/repository#Where<ScanError>"
+                }
+              }
+            }
+          }
+        ],
+        "operationId": "ScanErrorController.count"
+      }
+    },
+    "/errors/{id}": {
+      "delete": {
+        "x-controller-name": "ScanErrorController",
+        "x-operation-name": "deleteById",
+        "tags": [
+          "ScanErrorController"
+        ],
+        "responses": {
+          "204": {
+            "description": "No Content",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "description": "ScanError DELETE success"
+                }
+              }
+            }
+          }
+        },
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "schema": {
+              "type": "number"
+            },
+            "required": true
+          }
+        ],
+        "operationId": "ScanErrorController.deleteById"
+      }
+    },
+    "/errors": {
+      "get": {
+        "x-controller-name": "ScanErrorController",
+        "x-operation-name": "find",
+        "tags": [
+          "ScanErrorController"
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of ScanError model instances",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ReplayWithRelations"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "parameters": [
+          {
+            "name": "filter",
+            "in": "query",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ScanError.Filter"
+                }
+              }
+            }
+          }
+        ],
+        "operationId": "ScanErrorController.find"
+      }
+    },
+    "/replays/count": {
+      "get": {
+        "x-controller-name": "ReplayController",
+        "x-operation-name": "count",
+        "tags": [
+          "ReplayController"
+        ],
+        "responses": {
+          "200": {
+            "description": "Replay model count",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/loopback.Count"
+                }
+              }
+            }
+          }
+        },
+        "parameters": [
+          {
+            "name": "where",
+            "in": "query",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "title": "Replay.WhereFilter",
+                  "additionalProperties": true,
+                  "x-typescript-type": "@loopback/repository#Where<Replay>"
+                }
+              }
+            }
+          }
+        ],
+        "operationId": "ReplayController.count"
+      }
+    },
+    "/replays/series": {
+      "get": {
+        "x-controller-name": "ReplayController",
+        "x-operation-name": "series",
+        "tags": [
+          "ReplayController"
+        ],
+        "responses": {
+          "200": {
+            "description": "List of series with available replays",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        },
+        "operationId": "ReplayController.series"
+      }
+    },
+    "/replays/{id}": {
+      "patch": {
+        "x-controller-name": "ReplayController",
+        "x-operation-name": "updateById",
+        "tags": [
+          "ReplayController"
+        ],
+        "responses": {
+          "204": {
+            "description": "No Content",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "description": "Replay PATCH success"
+                }
+              }
+            }
+          }
+        },
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ReplayPartial"
+              }
+            }
+          },
+          "x-parameter-index": 1
+        },
+        "operationId": "ReplayController.updateById"
+      },
+      "get": {
+        "x-controller-name": "ReplayController",
+        "x-operation-name": "findById",
+        "tags": [
+          "ReplayController"
+        ],
+        "responses": {
+          "200": {
+            "description": "Replay model instance",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ReplayWithRelations"
+                }
+              }
+            }
+          }
+        },
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "name": "filter",
+            "in": "query",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Replay.Filter"
+                }
+              }
+            }
+          }
+        ],
+        "operationId": "ReplayController.findById"
+      },
+      "delete": {
+        "x-controller-name": "ReplayController",
+        "x-operation-name": "deleteById",
+        "tags": [
+          "ReplayController"
+        ],
+        "responses": {
+          "204": {
+            "description": "No Content",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "description": "Replay DELETE success"
+                }
+              }
+            }
+          }
+        },
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "operationId": "ReplayController.deleteById"
+      }
+    },
+    "/replays": {
+      "get": {
+        "x-controller-name": "ReplayController",
+        "x-operation-name": "find",
+        "tags": [
+          "ReplayController"
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of Replay model instances",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ReplayWithRelations"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "parameters": [
+          {
+            "name": "filter",
+            "in": "query",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Replay.Filter1"
+                }
+              }
+            }
+          }
+        ],
+        "operationId": "ReplayController.find"
+      }
+    }
+  },
+  "servers": [
+    {
+      "url": "https://archive.timing71.org"
+    }
+  ],
+  "components": {
+    "schemas": {
+      "ReplayWithRelations": {
+        "title": "ReplayWithRelations",
+        "type": "object",
+        "description": "(tsType: ReplayWithRelations, schemaOptions: { includeRelations: true })",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "filename": {
+            "type": "string"
+          },
+          "analysisFilename": {
+            "type": "string"
+          },
+          "series": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "startTime": {
+            "type": "number"
+          },
+          "duration": {
+            "type": "number"
+          },
+          "syndicateName": {
+            "type": "string"
+          },
+          "syndicateURL": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "filename",
+          "series",
+          "description",
+          "startTime",
+          "duration"
+        ],
+        "additionalProperties": false,
+        "x-typescript-type": "ReplayWithRelations"
+      },
+      "ReplayPartial": {
+        "title": "ReplayPartial",
+        "type": "object",
+        "description": "(tsType: Partial<Replay>, schemaOptions: { partial: true })",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "filename": {
+            "type": "string"
+          },
+          "analysisFilename": {
+            "type": "string"
+          },
+          "series": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "startTime": {
+            "type": "number"
+          },
+          "duration": {
+            "type": "number"
+          },
+          "syndicateName": {
+            "type": "string"
+          },
+          "syndicateURL": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false,
+        "x-typescript-type": "Partial<Replay>"
+      },
+      "Replay": {
+        "title": "Replay",
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "filename": {
+            "type": "string"
+          },
+          "analysisFilename": {
+            "type": "string"
+          },
+          "series": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "startTime": {
+            "type": "number"
+          },
+          "duration": {
+            "type": "number"
+          },
+          "syndicateName": {
+            "type": "string"
+          },
+          "syndicateURL": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "filename",
+          "series",
+          "description",
+          "startTime",
+          "duration"
+        ],
+        "additionalProperties": false
+      },
+      "loopback.Count": {
+        "type": "object",
+        "title": "loopback.Count",
+        "x-typescript-type": "@loopback/repository#Count",
+        "properties": {
+          "count": {
+            "type": "number"
+          }
+        }
+      },
+      "ScanError.Filter": {
+        "type": "object",
+        "title": "ScanError.Filter",
+        "properties": {
+          "offset": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "limit": {
+            "type": "integer",
+            "minimum": 1,
+            "example": 100
+          },
+          "skip": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "order": {
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            ]
+          },
+          "where": {
+            "title": "ScanError.WhereFilter",
+            "type": "object",
+            "additionalProperties": true
+          },
+          "fields": {
+            "oneOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "boolean"
+                  },
+                  "filename": {
+                    "type": "boolean"
+                  },
+                  "errorText": {
+                    "type": "boolean"
+                  },
+                  "retries": {
+                    "type": "boolean"
+                  }
+                },
+                "additionalProperties": false
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "enum": [
+                    "id",
+                    "filename",
+                    "errorText",
+                    "retries"
+                  ],
+                  "example": "id"
+                },
+                "uniqueItems": true
+              }
+            ],
+            "title": "ScanError.Fields"
+          }
+        },
+        "additionalProperties": false,
+        "x-typescript-type": "@loopback/repository#Filter<ScanError>"
+      },
+      "Replay.Filter": {
+        "type": "object",
+        "title": "Replay.Filter",
+        "properties": {
+          "offset": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "limit": {
+            "type": "integer",
+            "minimum": 1,
+            "example": 100
+          },
+          "skip": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "order": {
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            ]
+          },
+          "fields": {
+            "oneOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "boolean"
+                  },
+                  "filename": {
+                    "type": "boolean"
+                  },
+                  "analysisFilename": {
+                    "type": "boolean"
+                  },
+                  "series": {
+                    "type": "boolean"
+                  },
+                  "description": {
+                    "type": "boolean"
+                  },
+                  "startTime": {
+                    "type": "boolean"
+                  },
+                  "duration": {
+                    "type": "boolean"
+                  },
+                  "syndicateName": {
+                    "type": "boolean"
+                  },
+                  "syndicateURL": {
+                    "type": "boolean"
+                  }
+                },
+                "additionalProperties": false
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "enum": [
+                    "id",
+                    "filename",
+                    "analysisFilename",
+                    "series",
+                    "description",
+                    "startTime",
+                    "duration",
+                    "syndicateName",
+                    "syndicateURL"
+                  ],
+                  "example": "id"
+                },
+                "uniqueItems": true
+              }
+            ],
+            "title": "Replay.Fields"
+          }
+        },
+        "additionalProperties": false,
+        "x-typescript-type": "@loopback/repository#Filter<Replay>"
+      },
+      "Replay.Filter1": {
+        "type": "object",
+        "title": "Replay.Filter",
+        "properties": {
+          "offset": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "limit": {
+            "type": "integer",
+            "minimum": 1,
+            "example": 100
+          },
+          "skip": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "order": {
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            ]
+          },
+          "where": {
+            "title": "Replay.WhereFilter",
+            "type": "object",
+            "additionalProperties": true
+          },
+          "fields": {
+            "oneOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "boolean"
+                  },
+                  "filename": {
+                    "type": "boolean"
+                  },
+                  "analysisFilename": {
+                    "type": "boolean"
+                  },
+                  "series": {
+                    "type": "boolean"
+                  },
+                  "description": {
+                    "type": "boolean"
+                  },
+                  "startTime": {
+                    "type": "boolean"
+                  },
+                  "duration": {
+                    "type": "boolean"
+                  },
+                  "syndicateName": {
+                    "type": "boolean"
+                  },
+                  "syndicateURL": {
+                    "type": "boolean"
+                  }
+                },
+                "additionalProperties": false
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "enum": [
+                    "id",
+                    "filename",
+                    "analysisFilename",
+                    "series",
+                    "description",
+                    "startTime",
+                    "duration",
+                    "syndicateName",
+                    "syndicateURL"
+                  ],
+                  "example": "id"
+                },
+                "uniqueItems": true
+              }
+            ],
+            "title": "Replay.Fields"
+          }
+        },
+        "additionalProperties": false,
+        "x-typescript-type": "@loopback/repository#Filter<Replay>"
+      }
+    },
+    "securitySchemes": {
+      "jwt": {
+        "type": "http",
+        "scheme": "bearer",
+        "bearerFormat": "JWT"
+      }
+    }
+  },
+  "security": [
+    {
+      "jwt": []
+    }
+  ]
+}

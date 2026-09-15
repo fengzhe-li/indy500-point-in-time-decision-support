@@ -1,0 +1,16 @@
+﻿metric,value,status
+output_rows_equal_136,1,PASS
+attempt_id_unique,1,PASS
+all_performance_times_present,1,PASS
+all_forecast_alignment_present,1,PASS
+all_leakage_safe,1,PASS
+decision_state_usable_false,1,PASS
+leaderboard_state_complete_false,1,PASS
+queue_state_available_false,1,PASS
+first_supported_attempt_prior_count_zero,1,PASS
+first_supported_attempt_prior_time_null,1,PASS
+prior_supported_time_deltas_positive,1,PASS
+output_rows,136,INFO
+rows_with_complete_four_lap_speed,123,INFO
+rows_with_prior_supported_attempt,53,INFO
+car_session_groups,83,INFO

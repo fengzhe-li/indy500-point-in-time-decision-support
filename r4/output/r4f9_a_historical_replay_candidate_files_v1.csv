@@ -1,0 +1,137 @@
+path,keyword_hits
+r4/output/r4lc5e_fused_decision_schema_contract_v2.json,withdrawn
+r4/output/r4f8c_final_mc_input_resolution_report_v1.json,last chance
+r4/output/r4f7b_latent_window_model_contract_v1.json,historical action | historical outcome | withdrawn
+r4/output/r4f1_day1_fused_interface_report_v1.json,last chance
+r4/output/r4lc2f_last_chance_session_details_report_v1.json,last chance
+r4/output/r4f8c_fused_mc_coverage_contract_v1.json,last chance
+r4/output/r4lc5d_last_chance_decision_opportunity_report_v1.json,last chance
+r4/output/r4lc2_last_chance_official_source_report_v1.json,last chance
+r4/output/r4f2_canonical_fused_decision_report_v2.json,historical action | observed action
+r4/output/r4lc2d_indy500_event_session_registry_report_v1.json,last chance
+r4/output/r4f8b_final_action_mc_contract_v1.json,last chance | observed action
+r4/output/r4f8a_action_mc_interface_resolution_report_v1.json,last chance
+r4/output/r4lc5c_last_chance_evidence_role_report_v1.json,last chance
+r4/output/r4f6i_reference_type_status_robustness_report_v1.json,withdrawn
+r4/output/r4lc0_last_chance_local_report_v1.json,last chance
+r4/output/r4f2_canonical_fused_decision_report_v1.json,observed action
+r4/output/r4f8e_decision_numeric_state_reconstruction_report_v1.json,last chance
+r4/output/r4lc2f_last_chance_session_details_report_v2.json,last chance
+r4/output/r4p0_cross_car_data_audit_v1.json,withdrawn
+r4/output/r4lc5e_last_chance_fused_interface_report_v1.json,last chance
+r4/output/r4lc1_last_chance_year_registry_report_v1.json,last chance
+r4/output/r4lc5e_fused_decision_schema_contract_v1.json,last chance
+r4/output/r4f8f_wait_queue_model_contract_v1.json,last chance
+weather/evidence/last_chance_official/2024_last_chance_session_6385_v2.json,last chance
+weather/evidence/last_chance_official/2023_last_chance_session_6205_v2.json,last chance
+weather/evidence/rescue/official_indy500_season_dropdown/season_dropdown_ntt_indycar.json,last chance
+weather/evidence/rescue/official_lane_queue_live_resources/current_driversfeed_nxt.json,advanced to
+pipeline/rules/manual_annotations_v1.json,withdrawn
+v1_dataset_schema.md,withdrawn
+revised_feasibility_assessment.md,later attempt
+v1_inclusion_exclusion_rules.md,last chance | withdrawn
+data_reconnaissance_report.md,later attempt | subsequent attempt | withdrawn
+targeted_evidence_closure.md,historical action | subsequent attempt
+weather/output/official_report_endpoint_extraction_v1.md,historical action
+weather/output/official_action_lane_leaderboard_resource_discovery_v1.md,last chance
+weather/output/repeat_attempt_delta_baseline_v1.md,next attempt
+tmp/pdfs/rules_2024.txt,last chance | subsequent attempt | withdrawn
+weather/evidence/raw_pages/2024_doctorindy.com_2024_04_10_2024-indianapolis-500-archive.txt,last chance
+weather/evidence/raw_pages/2022_www.indycar.com_news_2022_05_05-21-buzz.txt,advanced to
+weather/evidence/raw_pages/2024_www.indycar.com_news_2024_05_05-18-buzz.txt,last chance
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2022_6033_01_Results.txt,withdrawn
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2024_6382_01_Results.txt,withdrawn
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2020_5771_01_Results.txt,withdrawn
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2023_6202_02_Results.txt,withdrawn
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2021_5838_01_Results.txt,withdrawn
+weather/evidence/rescue/secondary_2022_high_priority_chronology/article_text/NBC_2022_DAY1.txt,advanced to
+weather/evidence/rescue/official_2022_editorial_chronology/article_text/INDYCAR_2022_SATO_BUZZ.txt,advanced to
+weather/evidence/extracted_text/2024/indycar-results-quals-day1-05-18-2024.txt,withdrawn
+weather/evidence/extracted_text/2024/indycar-qual-explainer-2024Indy500.txt,last chance | subsequent attempt | withdrawn
+weather/evidence/extracted_text/2021/2021-indycar-results-quals-day1.txt,withdrawn
+pipeline/reconcile.py,withdrawn
+r4/run_r4lc2d_event_session_api_probe_v1.py,last chance
+r4/run_r4lc3_official_last_chance_record_report_ingestion_v1.py,last chance
+r4/run_r4f8a_action_mc_interface_resolution_v1.py,last chance
+r4/run_r4lc2f_last_chance_session_details_v1.py,last chance
+r4/run_r4f8f_action_specific_wait_queue_model_freeze_v1.py,last chance
+r4/run_r4f2_canonical_fused_decision_dataset_v2.py,historical action | last chance | observed action
+r4/run_r4lc4_last_chance_canonical_attempt_candidates_v1.py,last chance
+r4/run_r4lc0_last_chance_local_asset_audit_v1.py,last chance
+r4/run_r4lc5c_last_chance_evidence_role_gate_v1.py,last chance | observed action
+r4/run_r4f8b_final_action_mc_contract_freeze_v1.py,last chance | observed action
+r4/run_r4f8c_fused_day1_last_chance_mc_coverage_v1.py,last chance
+r4/run_r4lc5a_last_chance_chronology_action_ledger_v1.py,last chance
+r4/run_r4lc5e_last_chance_fused_interface_adapter_v1.py,last chance | observed action
+r4/run_r4f8h_h_priority_benefit_sensitivity_v1.py,historical action
+r4/run_r4f8g_performance_uncertainty_engine_freeze_v1.py,historical action
+r4/run_r4f8c_final_mc_input_resolution_v1.py,last chance
+r4/run_r4f6i_reference_type_status_robustness_v1.py,withdrawn
+r4/run_r4f8e_decision_numeric_state_reconstruction_v1.py,last chance
+r4/run_r4f6j_b_temporal_support_potential_audit_v1.py,withdrawn
+r4/run_r4f7b_latent_window_model_contract_freeze_v1.py,historical action | historical outcome | withdrawn
+r4/run_r4lc5d_last_chance_decision_opportunity_panel_v1.py,last chance
+r4/run_r4f7a_expanded_latent_window_input_readiness_v2.py,withdrawn
+r4/run_r4f9_a_historical_replay_readiness_audit_v1.py,actual action | advanced to | benchmark crossing | historical action | historical outcome | last chance | later attempt | next attempt | observed action | qualified for | realized outcome | requeued | retained result | subsequent attempt | withdrawn
+r4/run_r4f0_day1_source_contract_discovery_v1.py,last chance
+r4/run_r4f7a_latent_window_input_readiness_audit_v1.py,withdrawn
+r4/run_r4f8h_c_cutoff_completion_policy_freeze_v1.py,last chance
+r4/run_r4lc1_last_chance_year_registry_v1.py,last chance
+r4/run_r4f8h_g_final_action_monte_carlo_v1.py,last chance | retained result
+r4/run_r4lc2_last_chance_official_source_recon_v1.py,last chance
+r4/run_r4f8h_d_competitor_evolution_evidence_audit_v1.py,historical action | subsequent attempt
+r4/run_r4lc5e_last_chance_fused_interface_adapter_v2.py,last chance | withdrawn
+r4/run_r4f3_shared_state_linkage_audit_v1.py,historical action
+r4/run_r4f2_canonical_fused_decision_dataset_v1.py,last chance | observed action
+r4/run_r4lc2b_dynamic_source_discovery_v1.py,last chance
+r4/run_r4p0_audit.py,withdrawn
+r4/run_r4f8h_b_cutoff_evidence_resolution_audit_v1.py,last chance
+r4/run_r4f1_day1_fused_interface_v1.py,last chance
+r4/run_r4lc5b_last_chance_predecision_state_ledger_v1.py,last chance
+r4/run_r4lc2f_last_chance_session_details_v2.py,last chance
+r4/run_r4f6j_strict_repeat_support_decomposition_v1.py,withdrawn
+r4/state/loader.py,historical action
+weather/scripts/audit_2022_castroneves_repeat_pair_evidence_v1.py,withdrawn
+weather/scripts/finalize_r3c1_results_and_capability_freeze_v1.py,withdrawn
+weather/scripts/audit_2022_malukas_repeat_chronology_v1.py,withdrawn
+weather/scripts/capture_2022_rossi_lane1_evidence_v2.py,withdrawn
+weather/scripts/audit_2022_marco_repeat_chronology_v1.py,withdrawn
+weather/scripts/adjudicate_2022_karam_two_event_chronology_v1.py,withdrawn
+weather/scripts/audit_official_day1_report_text_v1.py,withdrawn
+weather/scripts/capture_2022_external_service_technical_evidence_v1.py,later attempt
+weather/scripts/adjudicate_2022_castroneves_first_run_action_v1_active_v3.py,later attempt
+weather/scripts/mine_2022_official_editorial_chronology_candidates_v1.py,withdrawn
+weather/scripts/audit_decision_time_state_v2_temporal_admissibility_v1.py,historical action
+weather/scripts/reaudit_2022_castroneves_with_preserved_car_number_v1.py,withdrawn
+weather/scripts/mine_2022_high_priority_chronology_targets_v1.py,withdrawn
+weather/scripts/integrate_2022_rossi_lane1_action_v1.py,withdrawn
+weather/scripts/recon_official_lane_queue_live_resources_v1.py,withdrawn
+weather/scripts/run_repeat_attempt_delta_baseline_ladder_v1.py,next attempt
+weather/scripts/audit_2022_karam_repeat_object_reconciliation_v1.py,withdrawn
+weather/scripts/reaudit_2022_castroneves_with_preserved_car_number_v1_active_v3.py,withdrawn
+weather/scripts/audit_2022_ilott_repeat_pair_evidence_v1_active_v3.py,later attempt | withdrawn
+weather/scripts/audit_2022_castroneves_repeat_pair_evidence_v1_active_v3.py,withdrawn
+weather/scripts/run_r3b4_monte_carlo_performance_decision_envelope_v1.py,historical action | withdrawn
+weather/scripts/parse_official_day1_results_attempt_rows_v1.py,withdrawn
+weather/scripts/build_r3b_simulator_input_pack_v1.py,historical action
+weather/scripts/freeze_retain_withdraw_decision_semantics_v1.py,retained result
+weather/scripts/audit_2022_repeat_pair_pit_service_evidence_v1.py,withdrawn
+weather/scripts/capture_2022_karam_repeat_conflict_evidence_v1.py,withdrawn
+weather/scripts/adjudicate_2022_ilott_sentence_local_evidence_v1_active_v3.py,withdrawn
+weather/scripts/audit_2022_marco_second_run_direct_evidence_v1.py,withdrawn
+weather/scripts/audit_2022_chronology_action_coverage_v2.py,historical action | withdrawn
+weather/scripts/integrate_2022_karam_repeat_attempt_v1.py,withdrawn
+weather/scripts/discover_official_action_lane_leaderboard_resources_v1.py,last chance | withdrawn
+weather/scripts/promote_2022_mclaughlin_newgarden_chronology_v3.py,withdrawn
+weather/scripts/correct_2022_ilott_html_paragraph_local_evidence_v1_active_v3.py,withdrawn
+weather/scripts/extract_official_report_endpoints_v1.py,historical action
+weather/scripts/adjudicate_2022_karam_two_event_chronology_v1_active_v3.py,withdrawn
+weather/scripts/build_decision_time_observable_state_v3_temporal_safe.py,historical action
+weather/scripts/correct_2022_lane_action_metric_semantics_v1.py,historical action
+weather/scripts/audit_2022_repeat_pair_queue_requeue_evidence_v1.py,requeued | withdrawn
+weather/scripts/capture_2022_secondary_chronology_evidence_v1.py,withdrawn
+weather/scripts/adjudicate_2022_secondary_chronology_evidence_v1.py,withdrawn
+weather/scripts/audit_2022_chronology_coverage_gaps_v1.py,withdrawn
+weather/scripts/mine_2022_high_priority_chronology_targets_v1_active_v3.py,withdrawn
+weather/scripts/capture_2022_rossi_lane1_evidence_v1.py,withdrawn
+weather/scripts/adjudicate_2022_castroneves_first_run_action_v1.py,later attempt

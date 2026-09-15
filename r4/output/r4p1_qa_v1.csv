@@ -1,0 +1,16 @@
+metric,value,expected,status,detail
+canonical_attempt_count,329,329,PASS,
+canonical_lap_row_count,1174,1174,PASS,
+duplicate_attempt_ids,0,0,PASS,
+complete_four_lap_shape_rows,263,>0,PASS,
+complete_performance_rows,260,>0,PASS,
+multi_run_complete_rows,162,>0,PASS,
+multi_run_groups,70,>0,PASS,
+multi_run_group_size_minimum,0,0,PASS,
+first_run_panel_rows,150,>0,PASS,
+hrrr_leakage_safe_ids,136,>0,PASS,
+ptsc_track_temperature_ids,137,>0,PASS,
+car_number_06_preserved_if_present,0,0,PASS,"""06"" is preserved as a string; no numeric normalization is performed."
+result_row_order_used_as_chronology,False,False,PASS,Builder never derives field order from source/result row position.
+timing71_capture_claimed_as_exact_run_start,False,False,PASS,Timing71 mapped capture timestamps are explicitly labelled approximate performance-time proxies.
+retain_withdraw_required_for_multi_run_inclusion,False,False,PASS,Multi-run performance inclusion depends only on >=2 complete four-lap runs; lane/action is metadata.

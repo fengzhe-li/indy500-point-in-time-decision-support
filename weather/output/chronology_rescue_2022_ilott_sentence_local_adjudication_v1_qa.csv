@@ -1,0 +1,12 @@
+﻿metric,value,status
+result_match_v3_used,1,PASS
+result_match_v2_used,0,PASS
+canonical_pair_count,2,PASS
+context_terms_used_for_promotion,0,PASS
+results_row_order_used_as_chronology,0,PASS
+retired_status_interpreted_as_action,0,PASS
+withdrawn_status_interpreted_as_lane1,0,PASS
+queue_wait_inferred,0,PASS
+automatic_promotions,0,PASS
+canonical_mutated,0,PASS
+phase5_to_phase8_mutated,0,PASS

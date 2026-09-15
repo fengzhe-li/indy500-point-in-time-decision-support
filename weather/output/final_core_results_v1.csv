@@ -1,0 +1,21 @@
+﻿result_id,category,metric,value,unit,interpretation,source_asset
+R001,DATA,decision_relevant_2022_repeat_drivers,8,drivers,Eight 2022 decision-relevant repeat cases were carried into the final state representation.,decision_time_observable_state_v4_1_final.csv
+R002,DATA,known_predecision_rank_states,2,drivers,Directly supported pre-decision rank state exists for Rossi and McLaughlin only.,decision_time_observable_state_v4_1_final.csv
+R003,DATA,timed_weather_subset_rows,129,attempts,"Performance-grade timed HRRR subset available for 2020, 2021 and 2023.",r3b_timed_subset_coverage_v1.csv
+R004,DATA,repeat_pair_environment_rows,39,pairs,Historical repeat pairs with usable performance and environment binding.,r3b3_repeat_pair_environment_dataset_v1.csv
+R005,DATA,normal_repeat_pairs,35,pairs,Normal branch used for the primary environment sensitivity fit.,r3b3_repeat_pair_environment_dataset_v1.csv
+R006,DATA,recovery_like_pairs,4,pairs,Recovery-like cases were retained as a separate small-sample branch.,r3b3_repeat_pair_environment_dataset_v1.csv
+R007,PERFORMANCE,frozen_zero_delta_baseline_mae,0.563846,mph,Frozen pooled ZERO_DELTA baseline error from the repeat-performance evaluation.,r3b3_performance_environment_sensitivity_v1.json
+R008,ENVIRONMENT,best_environment_ridge_loyo_mae,0.301701,mph,Best leave-one-year-out Ridge result on the normal repeat subset.,r3b3_performance_environment_sensitivity_v1.json
+R009,ENVIRONMENT,zero_delta_mae_same_loyo_rows,0.296514,mph,ZERO_DELTA error evaluated on exactly the same LOYO rows as the environment model.,r3b3_performance_environment_sensitivity_v1.json
+R010,ENVIRONMENT,environment_mae_improvement_vs_zero,-0.005186,mph,Negative means the environment Ridge did not outperform ZERO_DELTA.,r3b3_performance_environment_sensitivity_v1.json
+R011,RECOVERY,recovery_posterior,"Beta(5.000,36.000)",distribution,Posterior uncertainty over recovery-like repeat frequency for ALL_PRIMARY.,repeat_performance_recovery_probability_v1.csv
+R012,RECOVERY,recovery_posterior_mean,0.121951,probability,Posterior mean recovery-like probability.,repeat_performance_recovery_probability_v1.csv
+R013,MONTE_CARLO,lane2_mean_final_delta,0.520936,mph,Performance-only expected final change when the existing result is retained.,r3c_final_monte_carlo_action_envelope_v2.csv
+R014,MONTE_CARLO,lane2_probability_improve,0.697890,probability,Probability of performance improvement under the central ALL_PRIMARY predictive mixture.,r3c_final_monte_carlo_action_envelope_v2.csv
+R015,MONTE_CARLO,lane2_probability_worse,0.000000,probability,Zero by construction because the existing result is retained.,r3c_final_monte_carlo_action_envelope_v2.csv
+R016,MONTE_CARLO,lane1_mean_final_delta,0.428083,mph,Performance-only expected final change when the existing result is withdrawn.,r3c_final_monte_carlo_action_envelope_v2.csv
+R017,MONTE_CARLO,lane1_probability_improve,0.697890,probability,Probability of performance improvement under the central ALL_PRIMARY predictive mixture.,r3c_final_monte_carlo_action_envelope_v2.csv
+R018,MONTE_CARLO,lane1_probability_worse,0.302110,probability,Downside probability after withdrawing the existing result.,r3c_final_monte_carlo_action_envelope_v2.csv
+R019,MONTE_CARLO,lane2_minus_lane1_mean_delta,0.092852,mph,Pure performance value of retaining downside protection when time/priority effects are excluded.,r3c_final_monte_carlo_action_envelope_v2.csv
+R020,PROVENANCE,scott_first_attempt_speed,231.543000,mph,Recovered from exact canonical-attempt matching without changing Monte Carlo delta draws.,decision_time_observable_state_v4_1_final.csv

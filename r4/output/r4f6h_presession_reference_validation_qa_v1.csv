@@ -1,0 +1,11 @@
+metric,value,expected,status
+fast_friday_reference_rows,71,71,PASS
+2023_reference_count,0,34,FAIL
+2024_reference_count,0,34,FAIL
+2024_reference_role_validation_only,True,True,PASS
+joined_qualifying_rows,126,>0,PASS
+first_attempt_reference_rows,71,>0,PASS
+repeat_pairs_with_reference,13,OBSERVED,PASS
+car_number_not_used_as_identity,True,True,PASS
+offline_symmetric_window_only,True,True,PASS
+2024_not_used_for_development_metric,True,True,PASS

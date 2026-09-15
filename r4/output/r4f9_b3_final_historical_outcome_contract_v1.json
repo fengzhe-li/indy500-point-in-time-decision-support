@@ -1,0 +1,21 @@
+{
+  "phase": "R4F9-B3",
+  "status": "R4F9_FINAL_HISTORICAL_OUTCOME_INTERFACE_FROZEN",
+  "regime_specific_evaluation": {
+    "DAY1": {
+      "granularity": "ATTEMPT_LEVEL",
+      "primary_realized_target": "next canonical attempt after source attempt",
+      "speed_evaluation_available_when": "next attempt is complete A_COMPLETE four-lap result"
+    },
+    "LAST_CHANCE": {
+      "granularity": "SESSION_LEVEL_CATEGORICAL",
+      "source": "r4/output/r4lc5e_last_chance_fused_interface_v2.csv",
+      "primary_realized_target": "final qualification/session outcome",
+      "attempt_level_speed_reconstruction": "NOT_FORCED"
+    }
+  },
+  "last_chance_action_semantics_source": "R4LC5E_V2",
+  "important_boundary": "The two regimes have different historical evidence resolution. They are evaluated at the strongest supported granularity rather than forcing a common attempt-ID representation.",
+  "historical_actions_are_optimal_labels": false,
+  "future_outcomes_are_prediction_features": false
+}

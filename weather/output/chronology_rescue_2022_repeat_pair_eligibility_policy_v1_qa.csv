@@ -1,0 +1,8 @@
+﻿metric,value,status
+2022_population_is_44,44,PASS
+broad_repeat_group_count_is_10,10,PASS
+decision_relevant_denominator_is_8,8,PASS
+excluded_drivers_are_herta_and_newgarden,Colton Herta|Josef Newgarden,PASS
+ledger_mutation,0,PASS
+canonical_mutation,0,PASS
+phase5_to_phase8_mutation,0,PASS

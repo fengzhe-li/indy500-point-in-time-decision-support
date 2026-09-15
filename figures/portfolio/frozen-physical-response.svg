@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#45c7d8"/></marker></defs>
+<rect width="1600" height="900" fill="#0b1118"/>
+<text x="80" y="85" fill="#edf4f7" font-family="Arial" font-size="42" font-weight="700">Frozen physical-response model</text>
+<text x="80" y="125" fill="#9bb0bd" font-family="Arial" font-size="21">Verified FINAL_V2 coefficients; zero intercept preserves the physical contribution boundary.</text>
+<rect x="100" y="250" width="390" height="125" rx="18" fill="#141e29" stroke="#45c7d8" stroke-width="3"/>
+<text x="128" y="292" fill="#45c7d8" font-family="Arial" font-size="23" font-weight="700">Δ TRACK TEMPERATURE</text>
+<text x="128" y="330" fill="#edf4f7" font-family="Arial" font-size="19">βtrack = −0.034825 mph / °C</text>
+<rect x="100" y="500" width="390" height="125" rx="18" fill="#141e29" stroke="#45c7d8" stroke-width="3"/>
+<text x="128" y="542" fill="#45c7d8" font-family="Arial" font-size="23" font-weight="700">Δ AMBIENT TEMPERATURE</text>
+<text x="128" y="580" fill="#edf4f7" font-family="Arial" font-size="19">βambient = +0.182393 mph / °C</text>
+<path d="M490 312 L680 410" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<path d="M490 562 L680 465" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="680" y="350" width="500" height="180" rx="18" fill="#141e29" stroke="#65d6a6" stroke-width="3"/>
+<text x="708" y="392" fill="#65d6a6" font-family="Arial" font-size="23" font-weight="700">ZERO-INTERCEPT RESPONSE</text>
+<text x="708" y="430" fill="#edf4f7" font-family="Arial" font-size="19">Δvphysical = βtrack ΔTtrack + βambient ΔTambient</text>
+<text x="708" y="461" fill="#9bb0bd" font-family="Arial" font-size="19">paired bootstrap preserves coefficient dependence</text>
+<text x="708" y="492" fill="#9bb0bd" font-family="Arial" font-size="19">41 same-car transitions</text>
+<path d="M1180 440 L1350 440" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="1350" y="365" width="190" height="150" rx="18" fill="#141e29" stroke="#ff9f43" stroke-width="3"/>
+<text x="1378" y="407" fill="#ff9f43" font-family="Arial" font-size="23" font-weight="700">OUTPUT</text>
+<text x="1378" y="445" fill="#edf4f7" font-family="Arial" font-size="19">Δvphysical</text>
+<text x="1378" y="476" fill="#9bb0bd" font-family="Arial" font-size="19">not realised total Δv</text>
+<rect x="420" y="700" width="760" height="100" rx="18" fill="#141e29" stroke="#65d6a6" stroke-width="3"/>
+<text x="448" y="742" fill="#65d6a6" font-family="Arial" font-size="23" font-weight="700">INVARIANCE</text>
+<text x="448" y="780" fill="#edf4f7" font-family="Arial" font-size="19">ΔTtrack = 0 and ΔTambient = 0  ⇒  modelled physical contribution = 0</text>
+</svg>

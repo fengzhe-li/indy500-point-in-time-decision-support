@@ -1,0 +1,25 @@
+{
+  "version": "operational_curve_v2",
+  "source_file": "weather/output/v2_future_track/v2a_operational_scenario_outlook_v1.csv",
+  "scientific_status": "derived presentation layer; does not modify frozen FINAL_V2 models",
+  "validated_anchor_horizons_min": [
+    15,
+    30,
+    60,
+    90,
+    120
+  ],
+  "continuous_visualization_range_min": [
+    15,
+    120
+  ],
+  "visualization_resolution_min": 1,
+  "zero_minute_status": "current-state conceptual boundary only",
+  "intermediate_horizon_status": "piecewise-linear operational interpolation; not independently calibrated",
+  "extrapolation_above_120": false,
+  "queue_wait_prediction": false,
+  "best_wait_recommendation": false,
+  "strategy_recommendation": false,
+  "supported_question": "If another on-track opportunity occurs at h, what physical-performance outlook is implied?",
+  "important_boundary": "The curve conditions on opportunity time h. It does not predict when another attempt will occur or whether another attempt will occur."
+}

@@ -1,0 +1,13 @@
+﻿metric,value,status
+pair_rows_match_uncertainty_rows,39,PASS
+duplicate_repeat_pairs,0,PASS
+environment_fit_ready_pairs,39,PASS
+ready_years,2020|2021|2023,PASS
+2022_timed_pairs_used,0,PASS
+normal_branch_pairs_present,35,PASS
+recovery_branch_pairs_present,4,PASS
+ptsc_complete_pairs,38,PASS
+elapsed_time_track_evolution_misuse,0,PASS
+queue_wait_truth_claims,0,PASS
+causal_effect_claims,0,PASS
+protected_outputs_mutated,0,PASS

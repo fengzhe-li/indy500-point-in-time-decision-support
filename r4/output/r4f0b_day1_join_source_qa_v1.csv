@@ -1,0 +1,5 @@
+metric,value,expected,status
+candidate_files_found,350,>0,PASS
+decision_state_candidate_found,13,>0,PASS
+action_candidate_found,64,>0,PASS
+chronology_candidate_found,203,>0,PASS

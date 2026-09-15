@@ -1,0 +1,15 @@
+metric,value,expected,status
+paired_day1_decisions,50,50,PASS
+sensitivity_result_rows,1400,1400,PASS
+break_even_rows,350,350,PASS
+priority_reduction_grid,0|25|50|75,0|25|50|75,PASS
+time_remaining_grid,5|10|15|20|30|45|60,5|10|15|20|30|45|60,PASS
+zero_priority_completion_matches_retain,True,True,PASS
+zero_priority_withdraw_not_better_on_benchmark,True,True,PASS
+withdraw_completion_monotonic_with_priority_advantage,True,True,PASS
+historical_lane1_advantage_claimed,False,False,PASS
+priority_scenarios_probability_weighted,False,False,PASS
+dynamic_competitor_evolution_used,False,False,PASS
+utility_function_introduced,False,False,PASS
+historical_action_optimal_labels_used,False,False,PASS
+model_refit_performed,False,False,PASS

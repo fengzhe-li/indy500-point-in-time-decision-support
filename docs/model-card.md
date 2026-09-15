@@ -1,123 +1,43 @@
-# Model Card — FINAL_V2
+# Model card: FINAL_V2
 
-## Purpose
+| Item | Definition |
+|---|---|
+| Intended use | Conditional physical-performance outlook for a supplied future opportunity horizon |
+| Response | Change in official four-lap average speed relative to the current result |
+| Reference era | 2020–2024 Aeroscreen, pre-hybrid Indianapolis 500 qualifying |
+| Core evidence | 41 evidence-qualified same-car transitions |
+| Scientific horizons | 15, 30, 60, 90, 120 minutes |
+| Outputs | Expected/median Δspeed, 80%/90% PI, P(improvement), future track state |
+| Validation | Leave-one-year-out development analysis; 2025 external-regime retrospective evaluation |
+| Status | Frozen scientific core; operational display frozen separately |
 
-Conditional physical-performance inference for repeat Indianapolis 500 qualifying opportunities.
+## Intended interpretation
 
-The model is designed to answer a conditional question: if another qualifying opportunity occurs at a specified future horizon, how might the car's four-lap qualifying performance change relative to its current official result?
+`p(Δv | H = h)` describes the performance distribution conditional on another on-track opportunity occurring at horizon `h`. It can inform a pit-wall discussion when combined with live operational evidence.
 
-## Scientific target
+## Unsupported uses
 
-`p(Δv | H = h)`
+- predicting queue duration or attempt availability;
+- choosing Lane 1 or Lane 2;
+- recommending retain, withdraw or reattempt actions;
+- treating P(improvement) as an overall strategy-success probability;
+- extrapolating beyond 120 minutes for production use;
+- treating minute-level interpolation as independently calibrated inference;
+- assuming coefficients are invariant across technical eras.
 
-This is not a model of `P(H=h)` and is not an autonomous withdraw/retain strategy policy.
+## Model components
 
-## Frozen reference regime
+The physical response is a robust zero-intercept regression on track- and ambient-temperature changes. The future-state model is horizon-specific M2b. Predictive uncertainty combines paired coefficient bootstrap draws, future track-state residual uncertainty and empirical performance residuals.
 
-- Reference years: **2020–2024**
-- Frozen evidence-qualified same-car transitions: **41**
-- Performance form: zero-intercept thermal-response model
-- Calibrated future horizons: **15 / 30 / 60 / 90 / 120 min**
+## Performance
 
-## Core response model
+The 15-case 2025 external evaluation reports MAE 0.492 mph, median AE 0.425 mph, RMSE 0.610 mph, 80% PI coverage 80%, 90% PI coverage 100%, and directional accuracy 46.7%. Only four cases are within the ≤120-minute production boundary. These empirical rates are descriptive for small samples.
 
-`Δv = β_track ΔT_track + β_ambient ΔT_ambient + ε`
+## Known risks
 
-Frozen coefficients:
+The dataset is small. Latent run state dominates interval width. Future track-state coverage is weaker in 2022. Historical wind proxies are incomplete representations of aerodynamic exposure. The external evaluation uses realized ambient paths and therefore does not test forecast-provider error.
 
-- `β_track = -0.03482533`
-- `β_ambient = +0.18239338`
+## Governance
 
-The ambient coefficient is interpreted conditionally rather than as an invariant causal parameter.
+FINAL_V2 artefacts and manifests are immutable inputs to the public presentation layer. New data must enter a separately versioned study; it cannot silently alter frozen parameters or validation cases.
 
-## Operational inputs
-
-The complete inference chain is built around information that can be available at decision time, including:
-
-- current official four-lap speed;
-- current track-surface temperature;
-- current ambient temperature;
-- current thermal gap (`T_track - T_ambient`);
-- future opportunity horizon;
-- future ambient trajectory;
-- future solar state used through the track-state pathway.
-
-Other environmental variables may be retained for diagnostics or future extensions without being promoted automatically into the frozen production model.
-
-## Outputs
-
-At supported horizons the system can produce:
-
-- expected physical `Δspeed`;
-- median physical `Δspeed`;
-- predictive intervals;
-- `P(Δspeed > 0)`;
-- expected future four-lap speed relative to the current official result.
-
-## Future track-state component
-
-The retained future-track model conditions track-temperature evolution on horizon, future ambient change, the current track-air thermal gap and mean future solar state.
-
-Solar affects performance through the physical track-state pathway; it is not a direct speed feature.
-
-## Uncertainty treatment
-
-FINAL_V2 propagates multiple uncertainty sources rather than presenting a single deterministic point forecast:
-
-1. bootstrap uncertainty in the frozen performance coefficients;
-2. uncertainty in future physical track state, calibrated by horizon;
-3. empirical unexplained same-car attempt-level performance variation.
-
-The empirical performance residual is the dominant source of final predictive width in the V2-D ablation. That result is treated as sensitivity/ablation evidence rather than a strict variance decomposition.
-
-## Validation
-
-Historical validation includes leave-one-year-out diagnostics and interval calibration.
-
-External evaluation applies the frozen 2020–2024 reference core to later 2025 hybrid-era evidence without refitting the reference model.
-
-Selected 2025 end-to-end metrics:
-
-| Metric | Value |
-|---|---:|
-| Cases | 15 |
-| MAE | 0.492 mph |
-| Median absolute error | 0.425 mph |
-| RMSE | 0.610 mph |
-| 80% PI coverage | 80.0% |
-| 90% PI coverage | 100.0% |
-| Directional accuracy | 46.7% |
-
-The weak directional accuracy is retained as an explicit limitation. The system is not positioned as a deterministic next-attempt classifier.
-
-## Technical-regime transfer
-
-Three technical periods were investigated:
-
-- **2018–2019:** pre-Aeroscreen evidence; 2019 provides a small clean quantitative comparison sample;
-- **2020–2024:** Aeroscreen / pre-hybrid frozen reference regime;
-- **2025–2026:** hybrid-era / later-regime analysis, with 2025 supporting quantitative external comparison and 2026 retained mainly as a qualifying-format/applicability boundary case.
-
-Coefficient stability across eras is investigated but invariance is not claimed.
-
-## Known limitations
-
-- Queue timing is not predicted.
-- Lane choice is not recommended.
-- Team intent is not inferred.
-- Weather-forecast error is not fully validated by realised-environment external evaluation.
-- The frozen core is small because evidence-quality and same-car comparability rules are deliberately strict.
-- Tyre state, setup, fuel, driver state and other attempt-level factors remain partly latent.
-- 120 minutes is the validated model boundary, not a claim that longer-horizon physical forecasting is impossible.
-- Intermediate operational minute values are derived interpolation, not independently calibrated scientific forecasts.
-
-## Intended use
-
-The intended use is a pit-wall-style decision-support component: combine a quantified physical-performance opportunity envelope with live queue state, leaderboard context and engineer judgement.
-
-## Not intended for
-
-- autonomous strategy decisions;
-- deterministic statements that the next attempt will improve;
-- historical queue-duration reconstruction from inter-attempt elapsed time;
-- extrapolation beyond the supported horizon presented as validated production inference.

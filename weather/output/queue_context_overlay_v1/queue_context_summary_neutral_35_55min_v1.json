@@ -1,0 +1,17 @@
+{
+  "scenario": "neutral",
+  "window_start_min": 35.0,
+  "window_end_min": 55.0,
+  "window_source": "external_live_context_or_manual_assumption",
+  "queue_wait_model_used": false,
+  "queue_wait_prediction": false,
+  "best_wait_recommendation": false,
+  "strategy_recommendation": false,
+  "mean_expected_delta_speed_mph": -0.051193364319475555,
+  "min_expected_delta_speed_mph": -0.0620396342321771,
+  "max_expected_delta_speed_mph": -0.040347094406774,
+  "mean_p_improve": 0.45901000000000003,
+  "min_p_improve": 0.4494566666666666,
+  "max_p_improve": 0.4685633333333333,
+  "interpretation": "These values describe the conditional performance outlook within an externally supplied opportunity-time window. The system does not estimate the probability of that window occurring."
+}

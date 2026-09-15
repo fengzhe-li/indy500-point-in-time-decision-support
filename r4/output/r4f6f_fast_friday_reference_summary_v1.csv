@@ -1,0 +1,4 @@
+year,canonical_driver_references,four_lap_refs,no_tow_refs,general_fast_friday_refs,model_role
+2021,0,0,0,0,CORE_DEVELOPMENT
+2023,1,0,0,1,CORE_DEVELOPMENT
+2024,1,0,0,1,VALIDATION_ONLY

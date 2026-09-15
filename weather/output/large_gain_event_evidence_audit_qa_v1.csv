@@ -1,0 +1,17 @@
+﻿metric,value,status
+large_gain_event_rows_equal_4,1,PASS
+baseline_attempt_ids_unique,1,PASS
+current_attempt_ids_unique,1,PASS
+all_current_attempts_found_canonical,1,PASS
+all_baseline_attempts_found_canonical,1,PASS
+all_delta_values_positive,1,PASS
+all_large_gain_baselines_below_year_median,1,PASS
+lap_audit_materialized,1,PASS
+event_interpretations_present,1,PASS
+broad_based_improvement_events,4,INFO
+baseline_status_suspicious_events,0,INFO
+baseline_class_suspicious_events,0,INFO
+unresolved_mechanism_events,0,INFO
+lap_speed_column,lap_speed_mph,INFO
+section_file_available,1,INFO
+policy_hash,d7a07153cd6d6ff404bf746e92f4bcf0a486e2021888015fe9d4c9ba797db055,INFO

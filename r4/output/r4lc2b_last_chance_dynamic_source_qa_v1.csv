@@ -1,0 +1,5 @@
+metric,value,expected,status
+2021_html_exists_and_nonempty,158167,>1000,PASS
+2023_html_exists_and_nonempty,158182,>1000,PASS
+2024_html_exists_and_nonempty,158182,>1000,PASS
+dynamic_source_signal_present,True,True,PASS

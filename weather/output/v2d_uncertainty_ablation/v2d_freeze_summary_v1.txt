@@ -1,0 +1,84 @@
+====================================================================================================
+INDY 500 V2-D UNCERTAINTY-SOURCE ABLATION — FINAL FREEZE
+====================================================================================================
+
+STATUS: FROZEN
+
+PURPOSE
+----------------------------------------------------------------------------------------------------
+Assess how final predictive spread changes when uncertainty sources are
+individually enabled or removed.
+
+This is an uncertainty-source ablation / sensitivity analysis.
+
+It is NOT a strict additive variance decomposition.
+
+MAIN RESULT
+----------------------------------------------------------------------------------------------------
+Empirical attempt-level performance residual variation is the dominant
+source of final predictive uncertainty.
+
+Removing the empirical performance residual reduces mean 80% PI width by:
+
+15 min:   90.42%
+30 min:   85.54%
+60 min:   79.87%
+90 min:   75.88%
+120 min:  72.79%
+
+Removing the empirical performance residual reduces mean 90% PI width by:
+
+15 min:   91.38%
+30 min:   87.19%
+60 min:   81.72%
+90 min:   78.38%
+120 min:  75.67%
+
+HORIZON EFFECT
+----------------------------------------------------------------------------------------------------
+Future-track uncertainty and coefficient uncertainty both become more
+important as horizon increases.
+
+TRACK-ONLY mean 80% PI width:
+
+15 min:   0.1165 mph
+30 min:   0.1677 mph
+60 min:   0.2410 mph
+90 min:   0.2882 mph
+120 min:  0.3149 mph
+
+COEFFICIENT-ONLY mean 80% PI width:
+
+15 min:   0.0716 mph
+30 min:   0.1010 mph
+60 min:   0.1561 mph
+90 min:   0.2003 mph
+120 min:  0.2282 mph
+
+FINAL INTERPRETATION
+----------------------------------------------------------------------------------------------------
+The final performance interval is dominated by unresolved attempt-level
+variation rather than future track-state forecast error or coefficient
+estimation uncertainty.
+
+Track-state and coefficient uncertainty remain real contributors and
+grow with prediction horizon.
+
+Therefore, improving future track-temperature point prediction alone
+would not substantially collapse final performance intervals while
+empirical attempt-level variation remains dominant.
+
+Quantile-width reductions are nonlinear and interacting.
+
+They MUST NOT be interpreted as additive percentages or variance shares.
+
+MANIFEST
+----------------------------------------------------------------------------------------------------
+weather/output/v2d_uncertainty_ablation/v2d_freeze_manifest_v1.json
+
+SHA256(manifest):
+998de3e1f313367a59878b42d6bb5c7f45fa0614fcc885b39acf86a9bcf01863
+
+====================================================================================================
+V2-D STATUS: FROZEN
+====================================================================================================

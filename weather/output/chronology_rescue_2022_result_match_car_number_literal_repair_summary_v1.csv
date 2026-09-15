@@ -1,0 +1,12 @@
+﻿metric,value
+v2_rows,44
+v3_rows,44
+literal_car_number_repairs,2
+missing_canonical_attempt_ids,0
+speed_mismatches,0
+driver_identity_verification_failures,0
+official_literal_vs_canonical_mismatches,0
+official_result_rows_missing,0
+duplicate_v3_attempt_ids,0
+v3_car06_rows,2
+v3_car6_rows,1

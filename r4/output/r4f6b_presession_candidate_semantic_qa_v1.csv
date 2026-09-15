@@ -1,0 +1,6 @@
+metric,value,expected,status
+semantic_candidates_inspected,21,>0,PASS
+generated_r4_reports_excluded,0,0,PASS
+classification_complete,21,21,PASS
+likely_numeric_assets,6,OBSERVED,PASS
+editorial_numeric_assets,2,OBSERVED,PASS

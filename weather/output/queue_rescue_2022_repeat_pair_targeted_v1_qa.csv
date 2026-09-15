@@ -1,0 +1,12 @@
+﻿metric,value,status
+target_driver_count,8,PASS
+target_set_exact,1,PASS
+files_scanned,105,PASS
+direct_queue_position_candidates,4,PASS
+source_native_ordering_candidates,6,PASS
+queue_wait_inferred,0,PASS
+inter_attempt_gap_used_as_queue_wait,0,PASS
+exact_timestamp_inferred,0,PASS
+chronology_mutation,0,PASS
+action_lane_mutation,0,PASS
+decision_state_mutation,0,PASS

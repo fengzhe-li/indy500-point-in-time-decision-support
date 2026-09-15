@@ -1,0 +1,8 @@
+metric,value,expected,status
+point_timed_transition_rows,40,40,PASS
+safe_cycle_transition_rows,40,40,PASS
+conditional_forecast_training_rows,5,>0,PASS
+unsafe_cycle_rows,0,0,PASS
+realized_future_weather_used,0,0,PASS
+historical_wait_mislabeled_as_queue_model,0,0,PASS
+validation_protocol,LEAVE_ONE_YEAR_OUT,LEAVE_ONE_YEAR_OUT,PASS

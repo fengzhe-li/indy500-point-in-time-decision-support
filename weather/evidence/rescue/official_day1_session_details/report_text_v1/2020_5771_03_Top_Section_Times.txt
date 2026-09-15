@@ -1,0 +1,1469 @@
+Event:     104th Indianapolis 500                                                                   Round 7
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                                 NTT IndyCar Series
+Session:   Qualifications - Day 1                                                      August 15, 2020
+                                        Track map included on last page of report
+
+Section: Lap                                                                                 Length: 2.500000 mile(s)
+           Rank   Car   Driver                                 C/E/T            Time            Speed     Lap
+             1     9    Dixon, Scott                           D/H/F         00:38.7337         232.356    15
+             2    98    Andretti, Marco                        D/H/F         00:38.7635         232.177     0
+             3    27    Rossi, Alexander                       D/H/F         00:38.8122         231.886     0
+             4    29    Hinchcliffe, James                     D/H/F         00:38.8282         231.790     0
+             5    21    VeeKay, Rinus (R)                      D/C/F         00:38.8284         231.789     0
+             6    88    Herta, Colton                          D/H/F         00:38.8374         231.735     5
+             7    28    Hunter-Reay, Ryan                      D/H/F         00:38.8512         231.653     0
+             8    55    Palou, Alex (R)                        D/H/F         00:38.8681         231.552     0
+             9    20    Carpenter, Ed                          D/C/F         00:38.8954         231.390     0
+            10    45    Pigot, Spencer                         D/H/F         00:38.9063         231.325     0
+            11     8    Ericsson, Marcus                       D/H/F         00:38.9144         231.277     5
+            12    30    Sato, Takuma                           D/H/F         00:38.9200         231.244     0
+            13    15    Rahal, Graham                          D/H/F         00:38.9438         231.102     0
+            14    47    Daly, Conor                            D/C/F         00:38.9521         231.053     0
+            15    51    Davison, James                         D/H/F         00:38.9683         230.957     0
+            16     5    O'Ward, Pato (R)                       D/C/F         00:38.9932         230.809     5
+            17    26    Veach, Zach                            D/H/F         00:39.0212         230.644     0
+            18    10    Rosenqvist, Felix                      D/H/F         00:39.0221         230.639     0
+            19    60    Harvey, Jack                           D/H/F         00:39.0298         230.593     0
+            20    18    Ferrucci, Santino                      D/H/F         00:39.0531         230.455     0
+            21     1    Newgarden, Josef                       D/C/F         00:39.0573         230.431     0
+            22    12    Power, Will                            D/C/F         00:39.0721         230.343     0
+            23     7    Askew, Oliver (R)                      D/C/F         00:39.0787         230.304     0
+            24    14    Kanaan, Tony                           D/C/F         00:39.1440         229.920     0
+            25     3    Castroneves, Helio                     D/C/F         00:39.1851         229.679     5
+            26     4    Kimball, Charlie                       D/C/F         00:39.1855         229.677     0
+            27    22    Pagenaud, Simon                        D/C/F         00:39.2107         229.529     0
+            28    66    Alonso, Fernando                       D/C/F         00:39.2297         229.418     0
+            29    41    Kellett, Dalton (R)                    D/C/F         00:39.2822         229.111     0
+            30    67    Hildebrand, JR                         D/C/F         00:39.3711         228.594     0
+            31    59    Chilton, Max                           D/C/F         00:39.4663         228.043     5
+            32    24    Karam, Sage                            D/C/F         00:39.5415         227.609     0
+            33    81    Hanley, Ben                            D/C/F         00:40.1922         223.924     5
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 1 of 32
+Event:     104th Indianapolis 500                                                                     Round 7
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                                 NTT IndyCar Series
+Session:   Qualifications - Day 1                                                        August 15, 2020
+
+Section: SF to T1                                                                              Length: 0.187121 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1       9    Dixon, Scott                          D/H/F         00:02.8406          237.146    15
+             2      29    Hinchcliffe, James                    D/H/F         00:02.8442          236.846     1
+             3      98    Andretti, Marco                       D/H/F         00:02.8444          236.829     0
+             4      55    Palou, Alex (R)                       D/H/F         00:02.8463          236.671     1
+             5      47    Daly, Conor                           D/C/F         00:02.8474          236.579     0
+             6      20    Carpenter, Ed                         D/C/F         00:02.8507          236.306     1
+             7      88    Herta, Colton                         D/H/F         00:02.8509          236.289     5
+             8      27    Rossi, Alexander                      D/H/F         00:02.8512          236.264     1
+             9      51    Davison, James                        D/H/F         00:02.8512          236.264     1
+            10      28    Hunter-Reay, Ryan                     D/H/F         00:02.8522          236.181     2
+            11      21    VeeKay, Rinus (R)                     D/C/F         00:02.8529          236.123     1
+            12      45    Pigot, Spencer                        D/H/F         00:02.8537          236.057     0
+            13       5    O'Ward, Pato (R)                      D/C/F         00:02.8546          235.983     1
+            14       1    Newgarden, Josef                      D/C/F         00:02.8548          235.966     2
+            15      30    Sato, Takuma                          D/H/F         00:02.8578          235.719    10
+            16       8    Ericsson, Marcus                      D/H/F         00:02.8578          235.719     5
+            17      12    Power, Will                           D/C/F         00:02.8581          235.694     0
+            18      18    Ferrucci, Santino                     D/H/F         00:02.8589          235.628     3
+            19      60    Harvey, Jack                          D/H/F         00:02.8601          235.529     5
+            20      26    Veach, Zach                           D/H/F         00:02.8610          235.455     8
+            21      15    Rahal, Graham                         D/H/F         00:02.8611          235.447     3
+            22      10    Rosenqvist, Felix                     D/H/F         00:02.8620          235.373     1
+            23       7    Askew, Oliver (R)                     D/C/F         00:02.8638          235.225     0
+            24       4    Kimball, Charlie                      D/C/F         00:02.8648          235.143     2
+            25      22    Pagenaud, Simon                       D/C/F         00:02.8688          234.815     0
+            26      14    Kanaan, Tony                          D/C/F         00:02.8780          234.064     2
+            27       3    Castroneves, Helio                    D/C/F         00:02.8806          233.853     5
+            28      66    Alonso, Fernando                      D/C/F         00:02.8817          233.764     0
+            29      41    Kellett, Dalton (R)                   D/C/F         00:02.8831          233.650     2
+            30      59    Chilton, Max                          D/C/F         00:02.8873          233.310     5
+            31      67    Hildebrand, JR                        D/C/F         00:02.8899          233.100     0
+            32      24    Karam, Sage                           D/C/F         00:02.8971          232.521     1
+            33      81    Hanley, Ben                           D/C/F         00:02.9327          229.698     0
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 2 of 32
+Event:     104th Indianapolis 500                                                                   Round 7
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                               NTT IndyCar Series
+Session:   Qualifications - Day 1                                                      August 15, 2020
+
+Section: T1 to SS1                                                                           Length: 0.312500 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1     9    Dixon, Scott                          D/H/F         00:04.8361          232.625    15
+             2    55    Palou, Alex (R)                       D/H/F         00:04.8375          232.558     0
+             3    88    Herta, Colton                         D/H/F         00:04.8417          232.356     5
+             4    47    Daly, Conor                           D/C/F         00:04.8428          232.304     0
+             5    45    Pigot, Spencer                        D/H/F         00:04.8434          232.275     0
+             6    29    Hinchcliffe, James                    D/H/F         00:04.8482          232.045     0
+             7     8    Ericsson, Marcus                      D/H/F         00:04.8485          232.031     5
+             8    98    Andretti, Marco                       D/H/F         00:04.8486          232.026     0
+             9    21    VeeKay, Rinus (R)                     D/C/F         00:04.8529          231.820     0
+            10    20    Carpenter, Ed                         D/C/F         00:04.8542          231.758     0
+            11     5    O'Ward, Pato (R)                      D/C/F         00:04.8552          231.710     0
+            12    30    Sato, Takuma                          D/H/F         00:04.8556          231.691    10
+            13    27    Rossi, Alexander                      D/H/F         00:04.8560          231.672     1
+            14    51    Davison, James                        D/H/F         00:04.8565          231.648     0
+            15    60    Harvey, Jack                          D/H/F         00:04.8565          231.648     5
+            16    28    Hunter-Reay, Ryan                     D/H/F         00:04.8659          231.201     2
+            17    12    Power, Will                           D/C/F         00:04.8675          231.125     0
+            18    26    Veach, Zach                           D/H/F         00:04.8682          231.092     8
+            19     1    Newgarden, Josef                      D/C/F         00:04.8685          231.077     1
+            20     7    Askew, Oliver (R)                     D/C/F         00:04.8738          230.826     0
+            21    15    Rahal, Graham                         D/H/F         00:04.8752          230.760     0
+            22    18    Ferrucci, Santino                     D/H/F         00:04.8767          230.689     1
+            23    10    Rosenqvist, Felix                     D/H/F         00:04.8769          230.679     1
+            24    22    Pagenaud, Simon                       D/C/F         00:04.8955          229.803     0
+            25    66    Alonso, Fernando                      D/C/F         00:04.8965          229.756     0
+            26    41    Kellett, Dalton (R)                   D/C/F         00:04.8999          229.597     0
+            27     4    Kimball, Charlie                      D/C/F         00:04.8999          229.597     1
+            28    14    Kanaan, Tony                          D/C/F         00:04.9010          229.545     0
+            29    59    Chilton, Max                          D/C/F         00:04.9021          229.493     5
+            30     3    Castroneves, Helio                    D/C/F         00:04.9026          229.470     5
+            31    67    Hildebrand, JR                        D/C/F         00:04.9164          228.826     0
+            32    24    Karam, Sage                           D/C/F         00:04.9382          227.816     0
+            33    81    Hanley, Ben                           D/C/F         00:05.0262          223.827     5
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 3 of 32
+Event:     104th Indianapolis 500                                                                   Round 7
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                               NTT IndyCar Series
+Session:   Qualifications - Day 1                                                      August 15, 2020
+
+Section: SS1 to T2                                                                           Length: 0.312500 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    98    Andretti, Marco                       D/H/F         00:04.9082          229.208     0
+             2     9    Dixon, Scott                          D/H/F         00:04.9097          229.138    10
+             3    21    VeeKay, Rinus (R)                     D/C/F         00:04.9155          228.868     0
+             4     8    Ericsson, Marcus                      D/H/F         00:04.9158          228.854     5
+             5    55    Palou, Alex (R)                       D/H/F         00:04.9173          228.784     0
+             6    45    Pigot, Spencer                        D/H/F         00:04.9177          228.765     0
+             7    88    Herta, Colton                         D/H/F         00:04.9186          228.724     5
+             8    29    Hinchcliffe, James                    D/H/F         00:04.9217          228.580     0
+             9    27    Rossi, Alexander                      D/H/F         00:04.9219          228.570     0
+            10    30    Sato, Takuma                          D/H/F         00:04.9238          228.482     0
+            11    20    Carpenter, Ed                         D/C/F         00:04.9247          228.440     0
+            12    28    Hunter-Reay, Ryan                     D/H/F         00:04.9282          228.278     0
+            13    47    Daly, Conor                           D/C/F         00:04.9300          228.195     5
+            14    51    Davison, James                        D/H/F         00:04.9319          228.107     0
+            15     5    O'Ward, Pato (R)                      D/C/F         00:04.9339          228.014     5
+            16    15    Rahal, Graham                         D/H/F         00:04.9373          227.857     5
+            17    60    Harvey, Jack                          D/H/F         00:04.9434          227.576     0
+            18    18    Ferrucci, Santino                     D/H/F         00:04.9439          227.553     0
+            19    10    Rosenqvist, Felix                     D/H/F         00:04.9441          227.544     0
+            20    26    Veach, Zach                           D/H/F         00:04.9456          227.475     5
+            21    12    Power, Will                           D/C/F         00:04.9472          227.401     0
+            22     1    Newgarden, Josef                      D/C/F         00:04.9479          227.369     1
+            23     7    Askew, Oliver (R)                     D/C/F         00:04.9532          227.126     5
+            24     3    Castroneves, Helio                    D/C/F         00:04.9546          227.062     5
+            25    14    Kanaan, Tony                          D/C/F         00:04.9587          226.874     0
+            26    22    Pagenaud, Simon                       D/C/F         00:04.9623          226.709     5
+            27    41    Kellett, Dalton (R)                   D/C/F         00:04.9703          226.344     0
+            28    66    Alonso, Fernando                      D/C/F         00:04.9717          226.281     0
+            29     4    Kimball, Charlie                      D/C/F         00:04.9739          226.181     0
+            30    59    Chilton, Max                          D/C/F         00:04.9840          225.722     5
+            31    67    Hildebrand, JR                        D/C/F         00:04.9978          225.099     0
+            32    24    Karam, Sage                           D/C/F         00:05.0097          224.564     0
+            33    81    Hanley, Ben                           D/C/F         00:05.0937          220.861     5
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 4 of 32
+Event:     104th Indianapolis 500                                                                     Round 7
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                                 NTT IndyCar Series
+Session:   Qualifications - Day 1                                                        August 15, 2020
+
+Section: T2 to BS                                                                              Length: 0.312500 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1      98    Andretti, Marco                       D/H/F         00:04.8417          232.356     0
+             2       9    Dixon, Scott                          D/H/F         00:04.8485          232.031    10
+             3      21    VeeKay, Rinus (R)                     D/C/F         00:04.8516          231.882     0
+             4      29    Hinchcliffe, James                    D/H/F         00:04.8572          231.615     0
+             5      27    Rossi, Alexander                      D/H/F         00:04.8576          231.596     0
+             6      88    Herta, Colton                         D/H/F         00:04.8603          231.467     5
+             7       8    Ericsson, Marcus                      D/H/F         00:04.8632          231.329     5
+             8      15    Rahal, Graham                         D/H/F         00:04.8637          231.305     5
+             9      55    Palou, Alex (R)                       D/H/F         00:04.8641          231.286     0
+            10       5    O'Ward, Pato (R)                      D/C/F         00:04.8678          231.111     5
+            11      28    Hunter-Reay, Ryan                     D/H/F         00:04.8688          231.063     0
+            12      30    Sato, Takuma                          D/H/F         00:04.8704          230.987     0
+            13      45    Pigot, Spencer                        D/H/F         00:04.8710          230.959     0
+            14      47    Daly, Conor                           D/C/F         00:04.8710          230.959     5
+            15      51    Davison, James                        D/H/F         00:04.8734          230.845     5
+            16      20    Carpenter, Ed                         D/C/F         00:04.8770          230.675     0
+            17      12    Power, Will                           D/C/F         00:04.8804          230.514     0
+            18      60    Harvey, Jack                          D/H/F         00:04.8820          230.438     0
+            19      10    Rosenqvist, Felix                     D/H/F         00:04.8858          230.259     0
+            20       1    Newgarden, Josef                      D/C/F         00:04.8871          230.198     0
+            21       3    Castroneves, Helio                    D/C/F         00:04.8911          230.010     5
+            22      26    Veach, Zach                           D/H/F         00:04.8917          229.981     8
+            23      18    Ferrucci, Santino                     D/H/F         00:04.8929          229.925     0
+            24       7    Askew, Oliver (R)                     D/C/F         00:04.8956          229.798     0
+            25      66    Alonso, Fernando                      D/C/F         00:04.9057          229.325     0
+            26      22    Pagenaud, Simon                       D/C/F         00:04.9063          229.297     5
+            27      14    Kanaan, Tony                          D/C/F         00:04.9069          229.269     0
+            28       4    Kimball, Charlie                      D/C/F         00:04.9114          229.059     0
+            29      41    Kellett, Dalton (R)                   D/C/F         00:04.9181          228.747     0
+            30      67    Hildebrand, JR                        D/C/F         00:04.9366          227.890     0
+            31      59    Chilton, Max                          D/C/F         00:04.9450          227.503     5
+            32      24    Karam, Sage                           D/C/F         00:04.9539          227.094     0
+            33      81    Hanley, Ben                           D/C/F         00:05.0178          224.202     5
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 5 of 32
+Event:     104th Indianapolis 500                                                                     Round 7
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                                 NTT IndyCar Series
+Session:   Qualifications - Day 1                                                        August 15, 2020
+
+Section: BS to T3                                                                              Length: 0.312500 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1       9    Dixon, Scott                          D/H/F         00:04.7645          236.121    10
+             2      98    Andretti, Marco                       D/H/F         00:04.7850          235.110     0
+             3      88    Herta, Colton                         D/H/F         00:04.7855          235.085     5
+             4      27    Rossi, Alexander                      D/H/F         00:04.7862          235.051     0
+             5      21    VeeKay, Rinus (R)                     D/C/F         00:04.7870          235.011     0
+             6      15    Rahal, Graham                         D/H/F         00:04.7905          234.840     0
+             7      28    Hunter-Reay, Ryan                     D/H/F         00:04.7914          234.796     0
+             8      29    Hinchcliffe, James                    D/H/F         00:04.7986          234.443     0
+             9      47    Daly, Conor                           D/C/F         00:04.8000          234.375     5
+            10      30    Sato, Takuma                          D/H/F         00:04.8002          234.365     0
+            11       8    Ericsson, Marcus                      D/H/F         00:04.8019          234.282     5
+            12      20    Carpenter, Ed                         D/C/F         00:04.8020          234.277     0
+            13       5    O'Ward, Pato (R)                      D/C/F         00:04.8022          234.268     5
+            14      55    Palou, Alex (R)                       D/H/F         00:04.8045          234.155     0
+            15      51    Davison, James                        D/H/F         00:04.8057          234.097     5
+            16       1    Newgarden, Josef                      D/C/F         00:04.8094          233.917     2
+            17      10    Rosenqvist, Felix                     D/H/F         00:04.8104          233.868     0
+            18      26    Veach, Zach                           D/H/F         00:04.8106          233.859     0
+            19      60    Harvey, Jack                          D/H/F         00:04.8120          233.791     0
+            20      45    Pigot, Spencer                        D/H/F         00:04.8127          233.757     0
+            21      12    Power, Will                           D/C/F         00:04.8127          233.757     0
+            22      18    Ferrucci, Santino                     D/H/F         00:04.8164          233.577     0
+            23       3    Castroneves, Helio                    D/C/F         00:04.8164          233.577     5
+            24       7    Askew, Oliver (R)                     D/C/F         00:04.8226          233.277     0
+            25      22    Pagenaud, Simon                       D/C/F         00:04.8239          233.214     5
+            26       4    Kimball, Charlie                      D/C/F         00:04.8261          233.107     0
+            27      14    Kanaan, Tony                          D/C/F         00:04.8345          232.702     0
+            28      66    Alonso, Fernando                      D/C/F         00:04.8354          232.659     0
+            29      41    Kellett, Dalton (R)                   D/C/F         00:04.8443          232.232     1
+            30      67    Hildebrand, JR                        D/C/F         00:04.8453          232.184     0
+            31      24    Karam, Sage                           D/C/F         00:04.8665          231.172     0
+            32      59    Chilton, Max                          D/C/F         00:04.8825          230.415     5
+            33      81    Hanley, Ben                           D/C/F         00:04.9330          228.056     5
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 6 of 32
+Event:     104th Indianapolis 500                                                                   Round 7
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                               NTT IndyCar Series
+Session:   Qualifications - Day 1                                                      August 15, 2020
+
+Section: T3 to SS2                                                                           Length: 0.312500 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1     9    Dixon, Scott                          D/H/F         00:04.8459          232.155    10
+             2    27    Rossi, Alexander                      D/H/F         00:04.8559          231.677     0
+             3    98    Andretti, Marco                       D/H/F         00:04.8609          231.439     0
+             4    28    Hunter-Reay, Ryan                     D/H/F         00:04.8615          231.410     0
+             5    88    Herta, Colton                         D/H/F         00:04.8673          231.134     5
+             6    21    VeeKay, Rinus (R)                     D/C/F         00:04.8753          230.755     0
+             7    15    Rahal, Graham                         D/H/F         00:04.8780          230.627     0
+             8    30    Sato, Takuma                          D/H/F         00:04.8793          230.566     0
+             9     8    Ericsson, Marcus                      D/H/F         00:04.8802          230.523     0
+            10    20    Carpenter, Ed                         D/C/F         00:04.8819          230.443     0
+            11    47    Daly, Conor                           D/C/F         00:04.8875          230.179     5
+            12    45    Pigot, Spencer                        D/H/F         00:04.8879          230.160     5
+            13    55    Palou, Alex (R)                       D/H/F         00:04.8889          230.113     0
+            14    29    Hinchcliffe, James                    D/H/F         00:04.8902          230.052     0
+            15    26    Veach, Zach                           D/H/F         00:04.8919          229.972     0
+            16    10    Rosenqvist, Felix                     D/H/F         00:04.8938          229.883     0
+            17    51    Davison, James                        D/H/F         00:04.8965          229.756     0
+            18     5    O'Ward, Pato (R)                      D/C/F         00:04.9002          229.582     5
+            19    60    Harvey, Jack                          D/H/F         00:04.9047          229.372     0
+            20    18    Ferrucci, Santino                     D/H/F         00:04.9054          229.339     0
+            21     7    Askew, Oliver (R)                     D/C/F         00:04.9063          229.297     0
+            22     1    Newgarden, Josef                      D/C/F         00:04.9070          229.264     0
+            23     3    Castroneves, Helio                    D/C/F         00:04.9078          229.227     5
+            24    14    Kanaan, Tony                          D/C/F         00:04.9104          229.106     0
+            25     4    Kimball, Charlie                      D/C/F         00:04.9135          228.961     0
+            26    12    Power, Will                           D/C/F         00:04.9162          228.835     7
+            27    22    Pagenaud, Simon                       D/C/F         00:04.9181          228.747     5
+            28    66    Alonso, Fernando                      D/C/F         00:04.9239          228.477     0
+            29    41    Kellett, Dalton (R)                   D/C/F         00:04.9264          228.361     1
+            30    67    Hildebrand, JR                        D/C/F         00:04.9341          228.005     0
+            31    59    Chilton, Max                          D/C/F         00:04.9562          226.988     5
+            32    24    Karam, Sage                           D/C/F         00:04.9635          226.655     0
+            33    81    Hanley, Ben                           D/C/F         00:05.0625          222.222     8
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 7 of 32
+Event:     104th Indianapolis 500                                                                   Round 7
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                               NTT IndyCar Series
+Session:   Qualifications - Day 1                                                      August 15, 2020
+
+Section: SS2 to T4                                                                           Length: 0.312500 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    27    Rossi, Alexander                      D/H/F         00:04.9072          229.255     0
+             2    28    Hunter-Reay, Ryan                     D/H/F         00:04.9107          229.092     0
+             3    29    Hinchcliffe, James                    D/H/F         00:04.9119          229.036     0
+             4     9    Dixon, Scott                          D/H/F         00:04.9126          229.003    15
+             5    98    Andretti, Marco                       D/H/F         00:04.9150          228.891     0
+             6     8    Ericsson, Marcus                      D/H/F         00:04.9181          228.747     0
+             7    88    Herta, Colton                         D/H/F         00:04.9230          228.519     0
+             8    55    Palou, Alex (R)                       D/H/F         00:04.9237          228.487     0
+             9    21    VeeKay, Rinus (R)                     D/C/F         00:04.9244          228.454     0
+            10    20    Carpenter, Ed                         D/C/F         00:04.9245          228.450     0
+            11    30    Sato, Takuma                          D/H/F         00:04.9276          228.306     0
+            12    14    Kanaan, Tony                          D/C/F         00:04.9309          228.153     0
+            13    26    Veach, Zach                           D/H/F         00:04.9313          228.135     0
+            14    45    Pigot, Spencer                        D/H/F         00:04.9323          228.088     0
+            15    15    Rahal, Graham                         D/H/F         00:04.9399          227.737     1
+            16    15    Rahal, Graham                         D/H/F         00:04.9399          227.737     0
+            17    51    Davison, James                        D/H/F         00:04.9414          227.668     0
+            18    47    Daly, Conor                           D/C/F         00:04.9466          227.429     0
+            19    10    Rosenqvist, Felix                     D/H/F         00:04.9470          227.411     0
+            20     5    O'Ward, Pato (R)                      D/C/F         00:04.9483          227.351     5
+            21    18    Ferrucci, Santino                     D/H/F         00:04.9503          227.259     0
+            22     7    Askew, Oliver (R)                     D/C/F         00:04.9513          227.213     0
+            23    60    Harvey, Jack                          D/H/F         00:04.9543          227.075     0
+            24     4    Kimball, Charlie                      D/C/F         00:04.9598          226.824     0
+            25    12    Power, Will                           D/C/F         00:04.9609          226.773     7
+            26     1    Newgarden, Josef                      D/C/F         00:04.9611          226.764     0
+            27     3    Castroneves, Helio                    D/C/F         00:04.9653          226.572     0
+            28    66    Alonso, Fernando                      D/C/F         00:04.9678          226.458     0
+            29    22    Pagenaud, Simon                       D/C/F         00:04.9702          226.349     1
+            30    41    Kellett, Dalton (R)                   D/C/F         00:04.9703          226.344     0
+            31    67    Hildebrand, JR                        D/C/F         00:04.9730          226.222     0
+            32    59    Chilton, Max                          D/C/F         00:05.0044          224.802     0
+            33    24    Karam, Sage                           D/C/F         00:05.0215          224.037     0
+            34    81    Hanley, Ben                           D/C/F         00:05.0921          220.930     4
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 8 of 32
+Event:     104th Indianapolis 500                                                                     Round 7
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                                 NTT IndyCar Series
+Session:   Qualifications - Day 1                                                        August 15, 2020
+
+Section: T4 to FS                                                                              Length: 0.200000 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1       9    Dixon, Scott                          D/H/F         00:03.1021          232.101    14
+             2      29    Hinchcliffe, James                    D/H/F         00:03.1028          232.048     0
+             3      27    Rossi, Alexander                      D/H/F         00:03.1045          231.921     0
+             4      28    Hunter-Reay, Ryan                     D/H/F         00:03.1048          231.899     0
+             5      98    Andretti, Marco                       D/H/F         00:03.1068          231.750     0
+             6      20    Carpenter, Ed                         D/C/F         00:03.1103          231.489     0
+             7      21    VeeKay, Rinus (R)                     D/C/F         00:03.1118          231.377     0
+             8      47    Daly, Conor                           D/C/F         00:03.1131          231.281     0
+             9       8    Ericsson, Marcus                      D/H/F         00:03.1147          231.162     0
+            10      88    Herta, Colton                         D/H/F         00:03.1148          231.154     0
+            11      45    Pigot, Spencer                        D/H/F         00:03.1170          230.991     0
+            12      55    Palou, Alex (R)                       D/H/F         00:03.1181          230.910     0
+            13      30    Sato, Takuma                          D/H/F         00:03.1183          230.895     0
+            14      15    Rahal, Graham                         D/H/F         00:03.1186          230.873     0
+            15       7    Askew, Oliver (R)                     D/C/F         00:03.1234          230.518     0
+            16      26    Veach, Zach                           D/H/F         00:03.1242          230.459     0
+            17      18    Ferrucci, Santino                     D/H/F         00:03.1251          230.393     0
+            18      14    Kanaan, Tony                          D/C/F         00:03.1254          230.371     0
+            19      10    Rosenqvist, Felix                     D/H/F         00:03.1256          230.356     0
+            20       5    O'Ward, Pato (R)                      D/C/F         00:03.1257          230.348     5
+            21       1    Newgarden, Josef                      D/C/F         00:03.1274          230.223     0
+            22      60    Harvey, Jack                          D/H/F         00:03.1275          230.216     0
+            23      51    Davison, James                        D/H/F         00:03.1291          230.098     0
+            24       4    Kimball, Charlie                      D/C/F         00:03.1298          230.047     0
+            25      12    Power, Will                           D/C/F         00:03.1333          229.790     0
+            26      66    Alonso, Fernando                      D/C/F         00:03.1373          229.497     0
+            27      22    Pagenaud, Simon                       D/C/F         00:03.1415          229.190     0
+            28       3    Castroneves, Helio                    D/C/F         00:03.1458          228.877     0
+            29      41    Kellett, Dalton (R)                   D/C/F         00:03.1461          228.855     1
+            30      67    Hildebrand, JR                        D/C/F         00:03.1504          228.542     0
+            31      24    Karam, Sage                           D/C/F         00:03.1626          227.661     0
+            32      59    Chilton, Max                          D/C/F         00:03.1632          227.618     0
+            33      81    Hanley, Ben                           D/C/F         00:03.2057          224.600     4
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 9 of 32
+Event:     104th Indianapolis 500                                                                     Round 7
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                                 NTT IndyCar Series
+Session:   Qualifications - Day 1                                                        August 15, 2020
+
+Section: FS to SF                                                                              Length: 0.237879 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1       9    Dixon, Scott                          D/H/F         00:03.6356          235.549    14
+             2      98    Andretti, Marco                       D/H/F         00:03.6492          234.672     0
+             3      29    Hinchcliffe, James                    D/H/F         00:03.6494          234.659     0
+             4      27    Rossi, Alexander                      D/H/F         00:03.6499          234.627     0
+             5      21    VeeKay, Rinus (R)                     D/C/F         00:03.6537          234.383     0
+             6      28    Hunter-Reay, Ryan                     D/H/F         00:03.6545          234.331     1
+             7      47    Daly, Conor                           D/C/F         00:03.6548          234.312     0
+             8      45    Pigot, Spencer                        D/H/F         00:03.6559          234.242     0
+             9      20    Carpenter, Ed                         D/C/F         00:03.6569          234.177     0
+            10      55    Palou, Alex (R)                       D/H/F         00:03.6588          234.056     0
+            11      88    Herta, Colton                         D/H/F         00:03.6605          233.947     0
+            12       8    Ericsson, Marcus                      D/H/F         00:03.6627          233.807     0
+            13      30    Sato, Takuma                          D/H/F         00:03.6632          233.775     0
+            14      15    Rahal, Graham                         D/H/F         00:03.6638          233.736     0
+            15       1    Newgarden, Josef                      D/C/F         00:03.6644          233.698     0
+            16      60    Harvey, Jack                          D/H/F         00:03.6667          233.552     0
+            17      51    Davison, James                        D/H/F         00:03.6668          233.545     0
+            18      10    Rosenqvist, Felix                     D/H/F         00:03.6669          233.539     0
+            19      18    Ferrucci, Santino                     D/H/F         00:03.6675          233.501     0
+            20      26    Veach, Zach                           D/H/F         00:03.6676          233.494     7
+            21      12    Power, Will                           D/C/F         00:03.6720          233.214     0
+            22      14    Kanaan, Tony                          D/C/F         00:03.6722          233.202     0
+            23       5    O'Ward, Pato (R)                      D/C/F         00:03.6738          233.100     6
+            24       4    Kimball, Charlie                      D/C/F         00:03.6743          233.069     0
+            25       7    Askew, Oliver (R)                     D/C/F         00:03.6788          232.783     0
+            26      22    Pagenaud, Simon                       D/C/F         00:03.6884          232.178     0
+            27      66    Alonso, Fernando                      D/C/F         00:03.6956          231.725     0
+            28      41    Kellett, Dalton (R)                   D/C/F         00:03.6958          231.713     1
+            29       3    Castroneves, Helio                    D/C/F         00:03.6987          231.531     4
+            30      67    Hildebrand, JR                        D/C/F         00:03.6989          231.518     0
+            31      24    Karam, Sage                           D/C/F         00:03.7131          230.633     0
+            32      59    Chilton, Max                          D/C/F         00:03.7194          230.242     4
+            33      81    Hanley, Ben                           D/C/F         00:03.7650          227.454     0
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 10 of 32
+Event:     104th Indianapolis 500                                                                     Round 7
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                                 NTT IndyCar Series
+Session:   Qualifications - Day 1                                                        August 15, 2020
+
+Section: T1 to T2                                                                              Length: 0.625000 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1       9    Dixon, Scott                          D/H/F         00:09.7533          230.691    10
+             2      55    Palou, Alex (R)                       D/H/F         00:09.7548          230.656     0
+             3      98    Andretti, Marco                       D/H/F         00:09.7568          230.608     0
+             4      88    Herta, Colton                         D/H/F         00:09.7603          230.526     5
+             5      45    Pigot, Spencer                        D/H/F         00:09.7611          230.507     0
+             6       8    Ericsson, Marcus                      D/H/F         00:09.7643          230.431     5
+             7      21    VeeKay, Rinus (R)                     D/C/F         00:09.7684          230.335     0
+             8      29    Hinchcliffe, James                    D/H/F         00:09.7699          230.299     0
+             9      47    Daly, Conor                           D/C/F         00:09.7768          230.137     0
+            10      20    Carpenter, Ed                         D/C/F         00:09.7789          230.087     0
+            11      27    Rossi, Alexander                      D/H/F         00:09.7803          230.054     1
+            12      51    Davison, James                        D/H/F         00:09.7884          229.864     0
+            13      30    Sato, Takuma                          D/H/F         00:09.7922          229.775    10
+            14      28    Hunter-Reay, Ryan                     D/H/F         00:09.7946          229.718     0
+            15       5    O'Ward, Pato (R)                      D/C/F         00:09.7958          229.690     0
+            16      60    Harvey, Jack                          D/H/F         00:09.8049          229.477     5
+            17      26    Veach, Zach                           D/H/F         00:09.8145          229.253     8
+            18      12    Power, Will                           D/C/F         00:09.8147          229.248     0
+            19       1    Newgarden, Josef                      D/C/F         00:09.8164          229.208     1
+            20      15    Rahal, Graham                         D/H/F         00:09.8194          229.138     0
+            21      10    Rosenqvist, Felix                     D/H/F         00:09.8214          229.092     0
+            22      18    Ferrucci, Santino                     D/H/F         00:09.8230          229.054     0
+            23       7    Askew, Oliver (R)                     D/C/F         00:09.8294          228.905     0
+            24       3    Castroneves, Helio                    D/C/F         00:09.8572          228.260     5
+            25      14    Kanaan, Tony                          D/C/F         00:09.8597          228.202     0
+            26      22    Pagenaud, Simon                       D/C/F         00:09.8658          228.061     5
+            27      66    Alonso, Fernando                      D/C/F         00:09.8682          228.005     0
+            28      41    Kellett, Dalton (R)                   D/C/F         00:09.8702          227.959     0
+            29       4    Kimball, Charlie                      D/C/F         00:09.8743          227.864     0
+            30      59    Chilton, Max                          D/C/F         00:09.8861          227.592     5
+            31      67    Hildebrand, JR                        D/C/F         00:09.9142          226.947     0
+            32      24    Karam, Sage                           D/C/F         00:09.9479          226.178     0
+            33      81    Hanley, Ben                           D/C/F         00:10.1199          222.334     5
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 11 of 32
+Event:     104th Indianapolis 500                                                                     Round 7
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                                 NTT IndyCar Series
+Session:   Qualifications - Day 1                                                        August 15, 2020
+
+Section: T2 to T3                                                                              Length: 0.625000 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1       9    Dixon, Scott                          D/H/F         00:09.6130          234.058    10
+             2      98    Andretti, Marco                       D/H/F         00:09.6267          233.725     0
+             3      21    VeeKay, Rinus (R)                     D/C/F         00:09.6386          233.436     0
+             4      27    Rossi, Alexander                      D/H/F         00:09.6438          233.311     0
+             5      88    Herta, Colton                         D/H/F         00:09.6458          233.262     5
+             6      29    Hinchcliffe, James                    D/H/F         00:09.6558          233.021     0
+             7      15    Rahal, Graham                         D/H/F         00:09.6558          233.021     5
+             8      28    Hunter-Reay, Ryan                     D/H/F         00:09.6602          232.914     0
+             9       8    Ericsson, Marcus                      D/H/F         00:09.6651          232.796     5
+            10      55    Palou, Alex (R)                       D/H/F         00:09.6686          232.712     0
+            11       5    O'Ward, Pato (R)                      D/C/F         00:09.6700          232.678     5
+            12      30    Sato, Takuma                          D/H/F         00:09.6706          232.664     0
+            13      47    Daly, Conor                           D/C/F         00:09.6710          232.654     5
+            14      20    Carpenter, Ed                         D/C/F         00:09.6790          232.462     0
+            15      51    Davison, James                        D/H/F         00:09.6791          232.460     5
+            16      45    Pigot, Spencer                        D/H/F         00:09.6837          232.349     0
+            17      12    Power, Will                           D/C/F         00:09.6931          232.124     0
+            18      60    Harvey, Jack                          D/H/F         00:09.6940          232.102     0
+            19      10    Rosenqvist, Felix                     D/H/F         00:09.6962          232.050     0
+            20       1    Newgarden, Josef                      D/C/F         00:09.7002          231.954     0
+            21      26    Veach, Zach                           D/H/F         00:09.7064          231.806     0
+            22       3    Castroneves, Helio                    D/C/F         00:09.7075          231.780     5
+            23      18    Ferrucci, Santino                     D/H/F         00:09.7093          231.737     0
+            24       7    Askew, Oliver (R)                     D/C/F         00:09.7182          231.524     0
+            25      22    Pagenaud, Simon                       D/C/F         00:09.7302          231.239     5
+            26       4    Kimball, Charlie                      D/C/F         00:09.7375          231.065     0
+            27      66    Alonso, Fernando                      D/C/F         00:09.7411          230.980     0
+            28      14    Kanaan, Tony                          D/C/F         00:09.7414          230.973     0
+            29      41    Kellett, Dalton (R)                   D/C/F         00:09.7650          230.415     1
+            30      67    Hildebrand, JR                        D/C/F         00:09.7819          230.017     0
+            31      24    Karam, Sage                           D/C/F         00:09.8204          229.115     0
+            32      59    Chilton, Max                          D/C/F         00:09.8275          228.949     5
+            33      81    Hanley, Ben                           D/C/F         00:09.9508          226.112     5
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 12 of 32
+Event:     104th Indianapolis 500                                                                     Round 7
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                                 NTT IndyCar Series
+Session:   Qualifications - Day 1                                                        August 15, 2020
+
+Section: T3 to T4                                                                              Length: 0.625000 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1      27    Rossi, Alexander                      D/H/F         00:09.7631          230.460     0
+             2       9    Dixon, Scott                          D/H/F         00:09.7638          230.443    15
+             3      28    Hunter-Reay, Ryan                     D/H/F         00:09.7722          230.245     0
+             4      98    Andretti, Marco                       D/H/F         00:09.7759          230.158     0
+             5      88    Herta, Colton                         D/H/F         00:09.7943          229.725     5
+             6       8    Ericsson, Marcus                      D/H/F         00:09.7983          229.632     0
+             7      21    VeeKay, Rinus (R)                     D/C/F         00:09.7997          229.599     0
+             8      29    Hinchcliffe, James                    D/H/F         00:09.8021          229.543     0
+             9      30    Sato, Takuma                          D/H/F         00:09.8069          229.430     0
+            10      55    Palou, Alex (R)                       D/H/F         00:09.8126          229.297     0
+            11      20    Carpenter, Ed                         D/C/F         00:09.8150          229.241     0
+            12      15    Rahal, Graham                         D/H/F         00:09.8179          229.173     0
+            13      45    Pigot, Spencer                        D/H/F         00:09.8216          229.087     0
+            14      26    Veach, Zach                           D/H/F         00:09.8232          229.050     0
+            15      51    Davison, James                        D/H/F         00:09.8379          228.707     0
+            16      10    Rosenqvist, Felix                     D/H/F         00:09.8408          228.640     0
+            17      47    Daly, Conor                           D/C/F         00:09.8416          228.621     5
+            18       5    O'Ward, Pato (R)                      D/C/F         00:09.8485          228.461     5
+            19      14    Kanaan, Tony                          D/C/F         00:09.8500          228.426     0
+            20      18    Ferrucci, Santino                     D/H/F         00:09.8557          228.294     0
+            21       7    Askew, Oliver (R)                     D/C/F         00:09.8576          228.250     0
+            22      60    Harvey, Jack                          D/H/F         00:09.8590          228.218     0
+            23       1    Newgarden, Josef                      D/C/F         00:09.8681          228.007     0
+            24      12    Power, Will                           D/C/F         00:09.8771          227.800     7
+            25       4    Kimball, Charlie                      D/C/F         00:09.8812          227.705     0
+            26       3    Castroneves, Helio                    D/C/F         00:09.8877          227.555     5
+            27      22    Pagenaud, Simon                       D/C/F         00:09.8941          227.408     0
+            28      66    Alonso, Fernando                      D/C/F         00:09.8973          227.335     0
+            29      41    Kellett, Dalton (R)                   D/C/F         00:09.9042          227.176     0
+            30      67    Hildebrand, JR                        D/C/F         00:09.9192          226.833     0
+            31      59    Chilton, Max                          D/C/F         00:09.9658          225.772     5
+            32      24    Karam, Sage                           D/C/F         00:09.9877          225.277     0
+            33      81    Hanley, Ben                           D/C/F         00:10.1752          221.126     5
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 13 of 32
+Event:     104th Indianapolis 500                                                                     Round 7
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                                 NTT IndyCar Series
+Session:   Qualifications - Day 1                                                        August 15, 2020
+
+Section: T4 to SF                                                                              Length: 0.437879 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1       9    Dixon, Scott                          D/H/F         00:06.7377          233.962    14
+             2      29    Hinchcliffe, James                    D/H/F         00:06.7522          233.459     0
+             3      27    Rossi, Alexander                      D/H/F         00:06.7544          233.383     0
+             4      98    Andretti, Marco                       D/H/F         00:06.7576          233.273     0
+             5      28    Hunter-Reay, Ryan                     D/H/F         00:06.7608          233.162     1
+             6      21    VeeKay, Rinus (R)                     D/C/F         00:06.7678          232.921     0
+             7      47    Daly, Conor                           D/C/F         00:06.7679          232.918     0
+             8      20    Carpenter, Ed                         D/C/F         00:06.7687          232.890     0
+             9      45    Pigot, Spencer                        D/H/F         00:06.7729          232.746     0
+            10      88    Herta, Colton                         D/H/F         00:06.7753          232.663     0
+            11      55    Palou, Alex (R)                       D/H/F         00:06.7769          232.608     0
+            12       8    Ericsson, Marcus                      D/H/F         00:06.7774          232.591     0
+            13      30    Sato, Takuma                          D/H/F         00:06.7815          232.451     0
+            14      15    Rahal, Graham                         D/H/F         00:06.7830          232.399     0
+            15      10    Rosenqvist, Felix                     D/H/F         00:06.7925          232.074     0
+            16      18    Ferrucci, Santino                     D/H/F         00:06.7926          232.071     0
+            17      26    Veach, Zach                           D/H/F         00:06.7941          232.019     7
+            18      60    Harvey, Jack                          D/H/F         00:06.7942          232.016     0
+            19      51    Davison, James                        D/H/F         00:06.7959          231.958     0
+            20       1    Newgarden, Josef                      D/C/F         00:06.7962          231.948     0
+            21      14    Kanaan, Tony                          D/C/F         00:06.7976          231.900     0
+            22       5    O'Ward, Pato (R)                      D/C/F         00:06.8009          231.788     5
+            23       7    Askew, Oliver (R)                     D/C/F         00:06.8022          231.743     0
+            24       4    Kimball, Charlie                      D/C/F         00:06.8041          231.678     0
+            25      12    Power, Will                           D/C/F         00:06.8053          231.638     0
+            26      22    Pagenaud, Simon                       D/C/F         00:06.8304          230.786     0
+            27      66    Alonso, Fernando                      D/C/F         00:06.8341          230.661     0
+            28      41    Kellett, Dalton (R)                   D/C/F         00:06.8419          230.399     1
+            29       3    Castroneves, Helio                    D/C/F         00:06.8474          230.213     4
+            30      67    Hildebrand, JR                        D/C/F         00:06.8493          230.150     0
+            31      24    Karam, Sage                           D/C/F         00:06.8761          229.253     0
+            32      59    Chilton, Max                          D/C/F         00:06.8913          228.747     4
+            33      81    Hanley, Ben                           D/C/F         00:06.9756          225.983     4
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 14 of 32
+Event:     104th Indianapolis 500                                                                   Round 7
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                               NTT IndyCar Series
+Session:   Qualifications - Day 1                                                      August 15, 2020
+
+Section: T1T to T1                                                                           Length: 0.022727 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    15    Rahal, Graham                         D/H/F         00:00.3438          237.982     1
+             2     9    Dixon, Scott                          D/H/F         00:00.3438          237.982    15
+             3    29    Hinchcliffe, James                    D/H/F         00:00.3443          237.636     0
+             4    55    Palou, Alex (R)                       D/H/F         00:00.3446          237.429     2
+             5     8    Ericsson, Marcus                      D/H/F         00:00.3447          237.361     3
+             6    47    Daly, Conor                           D/C/F         00:00.3450          237.154     1
+             7    51    Davison, James                        D/H/F         00:00.3450          237.154     1
+             8    88    Herta, Colton                         D/H/F         00:00.3452          237.017     5
+             9    98    Andretti, Marco                       D/H/F         00:00.3453          236.948     1
+            10    98    Andretti, Marco                       D/H/F         00:00.3453          236.948     0
+            11    60    Harvey, Jack                          D/H/F         00:00.3453          236.948     5
+            12    21    VeeKay, Rinus (R)                     D/C/F         00:00.3455          236.811     0
+            13    20    Carpenter, Ed                         D/C/F         00:00.3456          236.742     1
+            14    20    Carpenter, Ed                         D/C/F         00:00.3456          236.742     0
+            15    27    Rossi, Alexander                      D/H/F         00:00.3457          236.674     1
+            16    45    Pigot, Spencer                        D/H/F         00:00.3457          236.674     0
+            17     1    Newgarden, Josef                      D/C/F         00:00.3458          236.605     3
+            18    12    Power, Will                           D/C/F         00:00.3459          236.537     1
+            19    12    Power, Will                           D/C/F         00:00.3459          236.537     0
+            20    28    Hunter-Reay, Ryan                     D/H/F         00:00.3459          236.537     1
+            21     5    O'Ward, Pato (R)                      D/C/F         00:00.3461          236.400     1
+            22     5    O'Ward, Pato (R)                      D/C/F         00:00.3461          236.400     0
+            23    18    Ferrucci, Santino                     D/H/F         00:00.3462          236.332     3
+            24    30    Sato, Takuma                          D/H/F         00:00.3464          236.196    11
+            25    26    Veach, Zach                           D/H/F         00:00.3468          235.923     0
+            26    10    Rosenqvist, Felix                     D/H/F         00:00.3469          235.855     3
+            27    10    Rosenqvist, Felix                     D/H/F         00:00.3469          235.855     1
+            28     7    Askew, Oliver (R)                     D/C/F         00:00.3474          235.516     0
+            29    22    Pagenaud, Simon                       D/C/F         00:00.3475          235.448     0
+            30     4    Kimball, Charlie                      D/C/F         00:00.3476          235.380     1
+            31     3    Castroneves, Helio                    D/C/F         00:00.3484          234.840     8
+            32    14    Kanaan, Tony                          D/C/F         00:00.3488          234.570     3
+            33    66    Alonso, Fernando                      D/C/F         00:00.3489          234.503     3
+            34    66    Alonso, Fernando                      D/C/F         00:00.3489          234.503     0
+            35    41    Kellett, Dalton (R)                   D/C/F         00:00.3495          234.101     2
+            36    59    Chilton, Max                          D/C/F         00:00.3496          234.034     5
+            37    24    Karam, Sage                           D/C/F         00:00.3510          233.100     3
+            38    24    Karam, Sage                           D/C/F         00:00.3510          233.100     2
+            39    67    Hildebrand, JR                        D/C/F         00:00.3511          233.034     0
+            40    81    Hanley, Ben                           D/C/F         00:00.3544          230.864     5
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 15 of 32
+Event:     104th Indianapolis 500                                                                   Round 7
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                               NTT IndyCar Series
+Session:   Qualifications - Day 1                                                      August 15, 2020
+
+Section: T2T to T2                                                                           Length: 0.022727 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    98    Andretti, Marco                       D/H/F         00:00.3440          237.844    0
+             2    21    VeeKay, Rinus (R)                     D/C/F         00:00.3494          234.168    0
+             3    30    Sato, Takuma                          D/H/F         00:00.3498          233.900    0
+             4    27    Rossi, Alexander                      D/H/F         00:00.3501          233.699    0
+             5     9    Dixon, Scott                          D/H/F         00:00.3502          233.633    5
+             6    12    Power, Will                           D/C/F         00:00.3504          233.499    0
+             7    55    Palou, Alex (R)                       D/H/F         00:00.3505          233.433    0
+             8    88    Herta, Colton                         D/H/F         00:00.3506          233.366    5
+             9    29    Hinchcliffe, James                    D/H/F         00:00.3508          233.233    0
+            10    28    Hunter-Reay, Ryan                     D/H/F         00:00.3509          233.167    0
+            11     8    Ericsson, Marcus                      D/H/F         00:00.3512          232.967    5
+            12    45    Pigot, Spencer                        D/H/F         00:00.3512          232.967    0
+            13    60    Harvey, Jack                          D/H/F         00:00.3514          232.835    0
+            14    15    Rahal, Graham                         D/H/F         00:00.3517          232.636    5
+            15    47    Daly, Conor                           D/C/F         00:00.3518          232.570    5
+            16     1    Newgarden, Josef                      D/C/F         00:00.3519          232.504    5
+            17    20    Carpenter, Ed                         D/C/F         00:00.3521          232.372    0
+            18    51    Davison, James                        D/H/F         00:00.3521          232.372    0
+            19     5    O'Ward, Pato (R)                      D/C/F         00:00.3522          232.306    5
+            20     3    Castroneves, Helio                    D/C/F         00:00.3526          232.042    5
+            21    26    Veach, Zach                           D/H/F         00:00.3527          231.977    5
+            22     7    Askew, Oliver (R)                     D/C/F         00:00.3528          231.911    5
+            23    22    Pagenaud, Simon                       D/C/F         00:00.3528          231.911    0
+            24    18    Ferrucci, Santino                     D/H/F         00:00.3529          231.845    0
+            25    14    Kanaan, Tony                          D/C/F         00:00.3530          231.780    0
+            26    10    Rosenqvist, Felix                     D/H/F         00:00.3532          231.648    0
+            27    66    Alonso, Fernando                      D/C/F         00:00.3545          230.799    0
+            28    41    Kellett, Dalton (R)                   D/C/F         00:00.3550          230.474    2
+            29     4    Kimball, Charlie                      D/C/F         00:00.3557          230.020    0
+            30    59    Chilton, Max                          D/C/F         00:00.3558          229.956    5
+            31    67    Hildebrand, JR                        D/C/F         00:00.3564          229.568    0
+            32    24    Karam, Sage                           D/C/F         00:00.3575          228.862    0
+            33    81    Hanley, Ben                           D/C/F         00:00.3638          224.899    5
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 16 of 32
+Event:     104th Indianapolis 500                                                                   Round 7
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                               NTT IndyCar Series
+Session:   Qualifications - Day 1                                                      August 15, 2020
+
+Section: T3T to T3                                                                           Length: 0.022727 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1     9    Dixon, Scott                          D/H/F         00:00.3433          238.329    10
+             2    88    Herta, Colton                         D/H/F         00:00.3441          237.774     5
+             3    21    VeeKay, Rinus (R)                     D/C/F         00:00.3448          237.292     0
+             4    98    Andretti, Marco                       D/H/F         00:00.3451          237.085     0
+             5    27    Rossi, Alexander                      D/H/F         00:00.3454          236.880     0
+             6    28    Hunter-Reay, Ryan                     D/H/F         00:00.3455          236.811     1
+             7    28    Hunter-Reay, Ryan                     D/H/F         00:00.3455          236.811     0
+             8    15    Rahal, Graham                         D/H/F         00:00.3458          236.605     5
+             9    15    Rahal, Graham                         D/H/F         00:00.3458          236.605     1
+            10    30    Sato, Takuma                          D/H/F         00:00.3462          236.332     0
+            11    22    Pagenaud, Simon                       D/C/F         00:00.3463          236.264     0
+            12     3    Castroneves, Helio                    D/C/F         00:00.3463          236.264     5
+            13    47    Daly, Conor                           D/C/F         00:00.3464          236.196     5
+            14    18    Ferrucci, Santino                     D/H/F         00:00.3465          236.128     0
+            15    29    Hinchcliffe, James                    D/H/F         00:00.3465          236.128     0
+            16    20    Carpenter, Ed                         D/C/F         00:00.3465          236.128     8
+            17    51    Davison, James                        D/H/F         00:00.3467          235.991     1
+            18     8    Ericsson, Marcus                      D/H/F         00:00.3467          235.991     0
+            19    45    Pigot, Spencer                        D/H/F         00:00.3470          235.787     0
+            20     1    Newgarden, Josef                      D/C/F         00:00.3470          235.787     3
+            21    55    Palou, Alex (R)                       D/H/F         00:00.3470          235.787     0
+            22    60    Harvey, Jack                          D/H/F         00:00.3471          235.719     0
+            23    10    Rosenqvist, Felix                     D/H/F         00:00.3472          235.651     2
+            24    10    Rosenqvist, Felix                     D/H/F         00:00.3472          235.651     0
+            25    26    Veach, Zach                           D/H/F         00:00.3473          235.584     0
+            26     5    O'Ward, Pato (R)                      D/C/F         00:00.3474          235.516     0
+            27     4    Kimball, Charlie                      D/C/F         00:00.3477          235.313     1
+            28     7    Askew, Oliver (R)                     D/C/F         00:00.3480          235.110     1
+            29    66    Alonso, Fernando                      D/C/F         00:00.3482          234.975     2
+            30    12    Power, Will                           D/C/F         00:00.3484          234.840     0
+            31    14    Kanaan, Tony                          D/C/F         00:00.3493          234.235     0
+            32    41    Kellett, Dalton (R)                   D/C/F         00:00.3496          234.034     1
+            33    67    Hildebrand, JR                        D/C/F         00:00.3497          233.967     3
+            34    24    Karam, Sage                           D/C/F         00:00.3510          233.100     3
+            35    24    Karam, Sage                           D/C/F         00:00.3510          233.100     0
+            36    59    Chilton, Max                          D/C/F         00:00.3522          232.306     5
+            37    81    Hanley, Ben                           D/C/F         00:00.3551          230.409     8
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 17 of 32
+Event:     104th Indianapolis 500                                                                   Round 7
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                               NTT IndyCar Series
+Session:   Qualifications - Day 1                                                      August 15, 2020
+
+Section: T4T to T4                                                                           Length: 0.022727 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    98    Andretti, Marco                       D/H/F         00:00.3481          235.042     1
+             2    27    Rossi, Alexander                      D/H/F         00:00.3492          234.302     0
+             3    28    Hunter-Reay, Ryan                     D/H/F         00:00.3495          234.101     1
+             4    21    VeeKay, Rinus (R)                     D/C/F         00:00.3500          233.766     0
+             5    29    Hinchcliffe, James                    D/H/F         00:00.3501          233.699     0
+             6    88    Herta, Colton                         D/H/F         00:00.3501          233.699     0
+             7     9    Dixon, Scott                          D/H/F         00:00.3504          233.499    15
+             8    26    Veach, Zach                           D/H/F         00:00.3505          233.433     0
+             9     8    Ericsson, Marcus                      D/H/F         00:00.3505          233.433     0
+            10    55    Palou, Alex (R)                       D/H/F         00:00.3505          233.433     0
+            11    14    Kanaan, Tony                          D/C/F         00:00.3508          233.233     0
+            12    14    Kanaan, Tony                          D/C/F         00:00.3508          233.233     0
+            13    30    Sato, Takuma                          D/H/F         00:00.3509          233.167     0
+            14    45    Pigot, Spencer                        D/H/F         00:00.3510          233.100     0
+            15    20    Carpenter, Ed                         D/C/F         00:00.3512          232.967     0
+            16    47    Daly, Conor                           D/C/F         00:00.3514          232.835     4
+            17    15    Rahal, Graham                         D/H/F         00:00.3514          232.835     0
+            18     7    Askew, Oliver (R)                     D/C/F         00:00.3514          232.835     0
+            19     3    Castroneves, Helio                    D/C/F         00:00.3521          232.372     2
+            20    66    Alonso, Fernando                      D/C/F         00:00.3523          232.240     0
+            21     5    O'Ward, Pato (R)                      D/C/F         00:00.3524          232.174     4
+            22    18    Ferrucci, Santino                     D/H/F         00:00.3524          232.174     0
+            23    60    Harvey, Jack                          D/H/F         00:00.3525          232.108     0
+            24     1    Newgarden, Josef                      D/C/F         00:00.3526          232.042     0
+            25    12    Power, Will                           D/C/F         00:00.3526          232.042     6
+            26    10    Rosenqvist, Felix                     D/H/F         00:00.3526          232.042     0
+            27     4    Kimball, Charlie                      D/C/F         00:00.3529          231.845     0
+            28    67    Hildebrand, JR                        D/C/F         00:00.3532          231.648     0
+            29    41    Kellett, Dalton (R)                   D/C/F         00:00.3536          231.386     0
+            30    51    Davison, James                        D/H/F         00:00.3537          231.321     0
+            31    22    Pagenaud, Simon                       D/C/F         00:00.3540          231.125     1
+            32    59    Chilton, Max                          D/C/F         00:00.3563          229.633     0
+            33    24    Karam, Sage                           D/C/F         00:00.3577          228.734     0
+            34    81    Hanley, Ben                           D/C/F         00:00.3616          226.267     4
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 18 of 32
+Event:     104th Indianapolis 500                                                                   Round 7
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                               NTT IndyCar Series
+Session:   Qualifications - Day 1                                                      August 15, 2020
+
+Section: SF to SFT                                                                           Length: 0.031155 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1     5    O'Ward, Pato (R)                      D/C/F         00:00.4683          239.503     1
+             2     9    Dixon, Scott                          D/H/F         00:00.4728          237.223     6
+             3    29    Hinchcliffe, James                    D/H/F         00:00.4731          237.073     1
+             4    55    Palou, Alex (R)                       D/H/F         00:00.4738          236.722     1
+             5    98    Andretti, Marco                       D/H/F         00:00.4738          236.722     3
+             6    27    Rossi, Alexander                      D/H/F         00:00.4740          236.623     1
+             7    20    Carpenter, Ed                         D/C/F         00:00.4740          236.623     0
+             8    47    Daly, Conor                           D/C/F         00:00.4748          236.224     0
+             9    45    Pigot, Spencer                        D/H/F         00:00.4748          236.224     0
+            10    28    Hunter-Reay, Ryan                     D/H/F         00:00.4750          236.124     4
+            11     7    Askew, Oliver (R)                     D/C/F         00:00.4753          235.975     1
+            12    18    Ferrucci, Santino                     D/H/F         00:00.4754          235.926     4
+            13    12    Power, Will                           D/C/F         00:00.4755          235.876     1
+            14    21    VeeKay, Rinus (R)                     D/C/F         00:00.4757          235.777     1
+            15     4    Kimball, Charlie                      D/C/F         00:00.4759          235.678     1
+            16    88    Herta, Colton                         D/H/F         00:00.4761          235.579    11
+            17    30    Sato, Takuma                          D/H/F         00:00.4764          235.431    14
+            18     8    Ericsson, Marcus                      D/H/F         00:00.4764          235.431     9
+            19    22    Pagenaud, Simon                       D/C/F         00:00.4765          235.381     2
+            20    15    Rahal, Graham                         D/H/F         00:00.4768          235.233     3
+            21    60    Harvey, Jack                          D/H/F         00:00.4768          235.233     7
+            22     1    Newgarden, Josef                      D/C/F         00:00.4769          235.184     2
+            23    10    Rosenqvist, Felix                     D/H/F         00:00.4770          235.134     1
+            24    51    Davison, James                        D/H/F         00:00.4777          234.790     1
+            25    26    Veach, Zach                           D/H/F         00:00.4781          234.593     1
+            26    14    Kanaan, Tony                          D/C/F         00:00.4787          234.299     2
+            27     3    Castroneves, Helio                    D/C/F         00:00.4790          234.153     3
+            28    67    Hildebrand, JR                        D/C/F         00:00.4802          233.567     3
+            29    41    Kellett, Dalton (R)                   D/C/F         00:00.4802          233.567     1
+            30    66    Alonso, Fernando                      D/C/F         00:00.4817          232.840     0
+            31    24    Karam, Sage                           D/C/F         00:00.4836          231.925     1
+            32    59    Chilton, Max                          D/C/F         00:00.4836          231.925     7
+            33    81    Hanley, Ben                           D/C/F         00:00.4897          229.036     0
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 19 of 32
+Event:     104th Indianapolis 500                                                                   Round 7
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                               NTT IndyCar Series
+Session:   Qualifications - Day 1                                                      August 15, 2020
+
+Section: PT3 to PSS2                                                                         Length: 0.265152 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1     1    Newgarden, Josef                      D/C/F         00:07.0416          135.558     6
+             2    66    Alonso, Fernando                      D/C/F         00:07.2359          131.918     4
+             3     5    O'Ward, Pato (R)                      D/C/F         00:07.5389          126.616     4
+             4    88    Herta, Colton                         D/H/F         00:07.7252          123.563    13
+             5    27    Rossi, Alexander                      D/H/F         00:07.7406          123.317     4
+             6    26    Veach, Zach                           D/H/F         00:07.7668          122.901     7
+             7    55    Palou, Alex (R)                       D/H/F         00:07.7767          122.744     4
+             8    47    Daly, Conor                           D/C/F         00:07.7796          122.699     9
+             9    81    Hanley, Ben                           D/C/F         00:07.9245          120.455     9
+            10    22    Pagenaud, Simon                       D/C/F         00:08.0037          119.263     6
+            11    51    Davison, James                        D/H/F         00:08.0375          118.761     8
+            12     3    Castroneves, Helio                    D/C/F         00:08.0498          118.580     9
+            13     4    Kimball, Charlie                      D/C/F         00:08.1109          117.687     4
+            14    29    Hinchcliffe, James                    D/H/F         00:08.3321          114.562     4
+            15    98    Andretti, Marco                       D/H/F         00:08.4003          113.632     4
+            16    18    Ferrucci, Santino                     D/H/F         00:08.4124          113.469     4
+            17    60    Harvey, Jack                          D/H/F         00:08.4402          113.095     9
+            18     7    Askew, Oliver (R)                     D/C/F         00:08.4412          113.082     7
+            19    45    Pigot, Spencer                        D/H/F         00:08.4417          113.075     4
+            20    20    Carpenter, Ed                         D/C/F         00:08.4887          112.449     4
+            21    21    VeeKay, Rinus (R)                     D/C/F         00:08.5232          111.994     4
+            22    41    Kellett, Dalton (R)                   D/C/F         00:08.6986          109.736     4
+            23    28    Hunter-Reay, Ryan                     D/H/F         00:08.7317          109.320     4
+            24    24    Karam, Sage                           D/C/F         00:08.9550          106.594     4
+            25    14    Kanaan, Tony                          D/C/F         00:09.0958          104.944     4
+            26    12    Power, Will                           D/C/F         00:09.1592          104.217     4
+            27    67    Hildebrand, JR                        D/C/F         00:09.2183          103.549     4
+            28    15    Rahal, Graham                         D/H/F         00:09.6925           98.483     6
+            29    30    Sato, Takuma                          D/H/F         00:09.7218           98.186     9
+            30     9    Dixon, Scott                          D/H/F         00:11.1427           85.666     9
+            31     8    Ericsson, Marcus                      D/H/F         00:11.3503           84.099     9
+            32    10    Rosenqvist, Felix                     D/H/F         00:11.5007           82.999     4
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 20 of 32
+Event:     104th Indianapolis 500                                                                   Round 7
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                               NTT IndyCar Series
+Session:   Qualifications - Day 1                                                      August 15, 2020
+
+Section: PSS2 to PT4                                                                         Length: 0.265152 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1     1    Newgarden, Josef                      D/C/F         00:07.5165          126.993     6
+             2    22    Pagenaud, Simon                       D/C/F         00:07.8592          121.456     6
+             3    26    Veach, Zach                           D/H/F         00:07.8990          120.844     7
+             4    88    Herta, Colton                         D/H/F         00:07.9997          119.323    13
+             5     5    O'Ward, Pato (R)                      D/C/F         00:08.0608          118.418     4
+             6    47    Daly, Conor                           D/C/F         00:08.2389          115.858     9
+             7    55    Palou, Alex (R)                       D/H/F         00:08.2588          115.579     4
+             8     7    Askew, Oliver (R)                     D/C/F         00:08.2850          115.214     7
+             9    81    Hanley, Ben                           D/C/F         00:08.3194          114.737     9
+            10    66    Alonso, Fernando                      D/C/F         00:08.4260          113.286     4
+            11     3    Castroneves, Helio                    D/C/F         00:08.4873          112.468     9
+            12    60    Harvey, Jack                          D/H/F         00:08.6499          110.353     9
+            13    18    Ferrucci, Santino                     D/H/F         00:08.7418          109.193     4
+            14    21    VeeKay, Rinus (R)                     D/C/F         00:08.7905          108.588     4
+            15    45    Pigot, Spencer                        D/H/F         00:08.8288          108.117     4
+            16    51    Davison, James                        D/H/F         00:08.8542          107.807     4
+            17    28    Hunter-Reay, Ryan                     D/H/F         00:08.9058          107.182     4
+            18    98    Andretti, Marco                       D/H/F         00:08.9653          106.471     4
+            19    20    Carpenter, Ed                         D/C/F         00:09.1348          104.495     4
+            20     4    Kimball, Charlie                      D/C/F         00:09.1664          104.135     4
+            21    29    Hinchcliffe, James                    D/H/F         00:09.2858          102.796     4
+            22    24    Karam, Sage                           D/C/F         00:09.4342          101.179     4
+            23    27    Rossi, Alexander                      D/H/F         00:09.4685          100.813     4
+            24    67    Hildebrand, JR                        D/C/F         00:09.5025          100.452     4
+            25    12    Power, Will                           D/C/F         00:09.6453           98.965     4
+            26    41    Kellett, Dalton (R)                   D/C/F         00:09.6845           98.564     4
+            27    15    Rahal, Graham                         D/H/F         00:09.9789           95.656     6
+            28    14    Kanaan, Tony                          D/C/F         00:10.2171           93.426     4
+            29    30    Sato, Takuma                          D/H/F         00:10.2355           93.258     4
+            30     9    Dixon, Scott                          D/H/F         00:10.6573           89.567     9
+            31     8    Ericsson, Marcus                      D/H/F         00:10.9149           87.453     9
+            32    10    Rosenqvist, Felix                     D/H/F         00:17.4709           54.636     4
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 21 of 32
+Event:     104th Indianapolis 500                                                                   Round 7
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                               NTT IndyCar Series
+Session:   Qualifications - Day 1                                                      August 15, 2020
+
+Section: PT4 to PI                                                                           Length: 0.183712 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    22    Pagenaud, Simon                       D/C/F         00:06.4614          102.356    6
+             2    47    Daly, Conor                           D/C/F         00:06.8386           96.710    9
+             3    51    Davison, James                        D/H/F         00:06.9380           95.325    4
+             4    26    Veach, Zach                           D/H/F         00:06.9712           94.871    7
+             5     1    Newgarden, Josef                      D/C/F         00:07.1091           93.031    4
+             6    88    Herta, Colton                         D/H/F         00:07.2362           91.397    9
+             7    14    Kanaan, Tony                          D/C/F         00:07.2828           90.812    4
+             8    81    Hanley, Ben                           D/C/F         00:07.3536           89.937    9
+             9    55    Palou, Alex (R)                       D/H/F         00:07.3885           89.513    4
+            10    12    Power, Will                           D/C/F         00:07.4017           89.353    6
+            11     5    O'Ward, Pato (R)                      D/C/F         00:07.4156           89.185    4
+            12    45    Pigot, Spencer                        D/H/F         00:07.4750           88.477    4
+            13    41    Kellett, Dalton (R)                   D/C/F         00:07.5801           87.250    4
+            14     3    Castroneves, Helio                    D/C/F         00:07.6631           86.305    9
+            15     9    Dixon, Scott                          D/H/F         00:07.6757           86.163    9
+            16    18    Ferrucci, Santino                     D/H/F         00:07.7413           85.433    4
+            17    60    Harvey, Jack                          D/H/F         00:07.8599           84.144    4
+            18    28    Hunter-Reay, Ryan                     D/H/F         00:07.9552           83.136    4
+            19    24    Karam, Sage                           D/C/F         00:08.0104           82.563    4
+            20    21    VeeKay, Rinus (R)                     D/C/F         00:08.0195           82.469    4
+            21     7    Askew, Oliver (R)                     D/C/F         00:08.0256           82.407    7
+            22    67    Hildebrand, JR                        D/C/F         00:08.1472           81.177    4
+            23    98    Andretti, Marco                       D/H/F         00:08.1485           81.164    4
+            24    29    Hinchcliffe, James                    D/H/F         00:08.1625           81.025    4
+            25    27    Rossi, Alexander                      D/H/F         00:08.2883           79.795    4
+            26     4    Kimball, Charlie                      D/C/F         00:08.3431           79.271    4
+            27    30    Sato, Takuma                          D/H/F         00:08.5386           77.456    9
+            28    20    Carpenter, Ed                         D/C/F         00:08.6059           76.850    4
+            29    15    Rahal, Graham                         D/H/F         00:08.9340           74.028    6
+            30    66    Alonso, Fernando                      D/C/F         00:09.3854           70.467    4
+            31     8    Ericsson, Marcus                      D/H/F         00:09.6094           68.825    9
+            32    10    Rosenqvist, Felix                     D/H/F         00:13.5515           48.804    4
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 22 of 32
+Event:     104th Indianapolis 500                                                                 Round 7
+Track:     Indianapolis Motor Speedway                                                        2.5 mile(s)
+
+Report:    Top Section Times Report                                             NTT IndyCar Series
+Session:   Qualifications - Day 1                                                    August 15, 2020
+
+Section: PO to PSS1                                                                        Length: 0.265152 mile(s)
+           Rank   Car Driver                                C/E/T            Time             Speed     Lap
+            1     30 Sato, Takuma                           D/H/F         00:11.1428          85.665     0
+
+
+
+
+                       (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                      Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 23 of 32
+Event:     104th Indianapolis 500                                                                  Round 7
+Track:     Indianapolis Motor Speedway                                                         2.5 mile(s)
+
+Report:    Top Section Times Report                                              NTT IndyCar Series
+Session:   Qualifications - Day 1                                                     August 15, 2020
+
+Section: PSS1 to PT2                                                                        Length: 0.265152 mile(s)
+           Rank   Car Driver                                 C/E/T            Time             Speed     Lap
+            1     30 Sato, Takuma                            D/H/F         00:07.9512          120.050    0
+
+
+
+
+                        (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                       Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 24 of 32
+Event:     104th Indianapolis 500                                                                     Round 7
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                                 NTT IndyCar Series
+Session:   Qualifications - Day 1                                                        August 15, 2020
+
+Section: PI to PO                                                                              Length: 0.441951 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1       3    Castroneves, Helio                    D/C/F         00:31.0530           0.220     4
+             2       9    Dixon, Scott                          D/H/F         06:40.2516           0.398     9
+             3       7    Askew, Oliver (R)                     D/C/F         12:58.1255           0.105     4
+             4      12    Power, Will                           D/C/F         14:21.7167           0.197     6
+             5      20    Carpenter, Ed                         D/C/F         15:30.0589           0.196     4
+             6      51    Davison, James                        D/H/F         19:06.9380           0.133     4
+             7      15    Rahal, Graham                         D/H/F         20:40.7607           0.102     4
+             8       1    Newgarden, Josef                      D/C/F         21:24.3486           0.188     4
+             9      88    Herta, Colton                         D/H/F         28:56.4887           0.298     9
+            10      60    Harvey, Jack                          D/H/F         30:24.6463           0.176     4
+            11      59    Chilton, Max                          D/C/F         36:45.5113           0.169     4
+            12       5    O'Ward, Pato (R)                      D/C/F         43:07.9228           0.094     4
+            13      30    Sato, Takuma                          D/H/F         43:08.6257           0.257     9
+            14      22    Pagenaud, Simon                       D/C/F         44:49.1067           0.161     4
+            15      45    Pigot, Spencer                        D/H/F         47:20.2783           0.117     4
+            16       4    Kimball, Charlie                      D/C/F         47:45.4565           0.158     4
+            17      81    Hanley, Ben                           D/C/F         48:22.3380           0.157     4
+            18      26    Veach, Zach                           D/H/F         56:25.2565           0.228     4
+            19      47    Daly, Conor                           D/C/F         57:11.7805           0.226     4
+            20       8    Ericsson, Marcus                      D/H/F         58:51.1855           0.223     4
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 25 of 32
+Event:     104th Indianapolis 500                                                                   Round 7
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                               NTT IndyCar Series
+Session:   Qualifications - Day 1                                                      August 15, 2020
+
+Section: PO to SF                                                                            Length: 2.312879 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    45    Pigot, Spencer                        D/H/F         00:47.0524          176.959     0
+             2    26    Veach, Zach                           D/H/F         00:47.5765          175.010     7
+             3    88    Herta, Colton                         D/H/F         00:47.6974          174.566     9
+             4     8    Ericsson, Marcus                      D/H/F         00:47.9187          173.760     4
+             5    98    Andretti, Marco                       D/H/F         00:47.9210          173.752     0
+             6    29    Hinchcliffe, James                    D/H/F         00:48.2512          172.563     0
+             7    28    Hunter-Reay, Ryan                     D/H/F         00:48.4234          171.949     0
+             8     9    Dixon, Scott                          D/H/F         00:48.4359          171.905    14
+             9    10    Rosenqvist, Felix                     D/H/F         00:48.6932          170.996     0
+            10    27    Rossi, Alexander                      D/H/F         00:48.7036          170.960     0
+            11    60    Harvey, Jack                          D/H/F         00:49.1068          169.556     4
+            12    21    VeeKay, Rinus (R)                     D/C/F         00:49.3350          168.772     0
+            13    15    Rahal, Graham                         D/H/F         00:49.3641          168.672     0
+            14     5    O'Ward, Pato (R)                      D/C/F         00:49.3686          168.657     4
+            15    12    Power, Will                           D/C/F         00:49.6085          167.841     6
+            16     4    Kimball, Charlie                      D/C/F         00:49.6689          167.637     0
+            17     7    Askew, Oliver (R)                     D/C/F         00:49.7580          167.337     4
+            18    67    Hildebrand, JR                        D/C/F         00:49.7999          167.196     0
+            19    30    Sato, Takuma                          D/H/F         00:49.8275          167.104     9
+            20    55    Palou, Alex (R)                       D/H/F         00:49.8515          167.023     0
+            21    47    Daly, Conor                           D/C/F         00:49.9223          166.786     0
+            22    66    Alonso, Fernando                      D/C/F         00:50.0075          166.502     0
+            23    20    Carpenter, Ed                         D/C/F         00:50.1805          165.928     4
+            24    22    Pagenaud, Simon                       D/C/F         00:50.2592          165.668     4
+            25    51    Davison, James                        D/H/F         00:50.2955          165.549     0
+            26     1    Newgarden, Josef                      D/C/F         00:50.4946          164.896     0
+            27    14    Kanaan, Tony                          D/C/F         00:50.7341          164.118     0
+            28    81    Hanley, Ben                           D/C/F         00:50.7346          164.116     4
+            29     3    Castroneves, Helio                    D/C/F         00:51.0357          163.148     0
+            30    59    Chilton, Max                          D/C/F         00:52.0316          160.025     0
+            31    41    Kellett, Dalton (R)                   D/C/F         00:52.6952          158.010     0
+            32    24    Karam, Sage                           D/C/F         00:53.3131          156.179     0
+            33    18    Ferrucci, Santino                     D/H/F         00:53.8062          154.747     0
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 26 of 32
+Event:     104th Indianapolis 500                                                                     Round 7
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                                 NTT IndyCar Series
+Session:   Qualifications - Day 1                                                        August 15, 2020
+
+Section: SF to PI                                                                              Length: 2.245833 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1      26    Veach, Zach                           D/H/F         00:44.3498          182.301     4
+             2       1    Newgarden, Josef                      D/C/F         00:45.3336          178.345     6
+             3      20    Carpenter, Ed                         D/C/F         00:47.5546          170.015     9
+             4      59    Chilton, Max                          D/C/F         00:47.8956          168.805     4
+             5      88    Herta, Colton                         D/H/F         00:48.2355          167.615    13
+             6      22    Pagenaud, Simon                       D/C/F         00:48.5969          166.369     6
+             7      51    Davison, James                        D/H/F         00:50.4902          160.130     8
+             8      66    Alonso, Fernando                      D/C/F         00:51.0854          158.264     4
+             9      47    Daly, Conor                           D/C/F         00:51.2979          157.609     9
+            10       4    Kimball, Charlie                      D/C/F         00:52.0292          155.394     4
+            11       5    O'Ward, Pato (R)                      D/C/F         00:52.3502          154.441     4
+            12       7    Askew, Oliver (R)                     D/C/F         00:52.7352          153.313     7
+            13      27    Rossi, Alexander                      D/H/F         00:52.9561          152.674     4
+            14      55    Palou, Alex (R)                       D/H/F         00:53.2775          151.753     4
+            15      60    Harvey, Jack                          D/H/F         00:53.5031          151.113     4
+            16      81    Hanley, Ben                           D/C/F         00:53.5646          150.939     9
+            17      29    Hinchcliffe, James                    D/H/F         00:53.9938          149.739     4
+            18      18    Ferrucci, Santino                     D/H/F         00:54.0960          149.457     4
+            19       3    Castroneves, Helio                    D/C/F         00:54.1285          149.367     9
+            20      98    Andretti, Marco                       D/H/F         00:54.2655          148.990     4
+            21      45    Pigot, Spencer                        D/H/F         00:54.2750          148.964     4
+            22      21    VeeKay, Rinus (R)                     D/C/F         00:54.7079          147.785     4
+            23      28    Hunter-Reay, Ryan                     D/H/F         00:54.7928          147.556     4
+            24      41    Kellett, Dalton (R)                   D/C/F         00:55.0337          146.910     4
+            25      12    Power, Will                           D/C/F         00:55.5281          145.602     4
+            26      14    Kanaan, Tony                          D/C/F         00:57.5857          140.399     4
+            27       9    Dixon, Scott                          D/H/F         00:58.2234          138.862     4
+            28      67    Hildebrand, JR                        D/C/F         00:58.6015          137.966     4
+            29      24    Karam, Sage                           D/C/F         00:58.8545          137.373     4
+            30      30    Sato, Takuma                          D/H/F         00:59.6462          135.549     9
+            31      15    Rahal, Graham                         D/H/F         01:04.1168          126.098     6
+            32       8    Ericsson, Marcus                      D/H/F         01:12.6266          111.323     9
+            33      10    Rosenqvist, Felix                     D/H/F         01:18.1868          103.406     4
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 27 of 32
+Event:     104th Indianapolis 500                                                                   Round 7
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                               NTT IndyCar Series
+Session:   Qualifications - Day 1                                                      August 15, 2020
+
+Section: PO to BS                                                                            Length: 0.937500 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    45    Pigot, Spencer                        D/H/F         00:22.4070          150.623    0
+             2    26    Veach, Zach                           D/H/F         00:22.7279          148.496    7
+             3    88    Herta, Colton                         D/H/F         00:22.8499          147.703    9
+             4    98    Andretti, Marco                       D/H/F         00:23.0678          146.308    0
+             5     8    Ericsson, Marcus                      D/H/F         00:23.0693          146.298    4
+             6    28    Hunter-Reay, Ryan                     D/H/F         00:23.4560          143.886    0
+             7    10    Rosenqvist, Felix                     D/H/F         00:23.4864          143.700    0
+             8    29    Hinchcliffe, James                    D/H/F         00:23.5252          143.463    0
+             9    51    Davison, James                        D/H/F         00:23.6379          142.779    0
+            10     9    Dixon, Scott                          D/H/F         00:23.6769          142.544    0
+            11    55    Palou, Alex (R)                       D/H/F         00:23.7386          142.174    0
+            12    21    VeeKay, Rinus (R)                     D/C/F         00:23.7471          142.123    0
+            13    66    Alonso, Fernando                      D/C/F         00:23.7923          141.853    0
+            14     4    Kimball, Charlie                      D/C/F         00:23.8379          141.581    0
+            15     5    O'Ward, Pato (R)                      D/C/F         00:23.8673          141.407    4
+            16    27    Rossi, Alexander                      D/H/F         00:23.8683          141.401    0
+            17    12    Power, Will                           D/C/F         00:23.9052          141.183    4
+            18    15    Rahal, Graham                         D/H/F         00:23.9165          141.116    0
+            19    67    Hildebrand, JR                        D/C/F         00:23.9183          141.105    0
+            20    30    Sato, Takuma                          D/H/F         00:23.9693          140.805    9
+            21    20    Carpenter, Ed                         D/C/F         00:23.9925          140.669    4
+            22     7    Askew, Oliver (R)                     D/C/F         00:24.0318          140.439    4
+            23    60    Harvey, Jack                          D/H/F         00:24.0982          140.052    4
+            24    47    Daly, Conor                           D/C/F         00:24.1188          139.932    0
+            25    22    Pagenaud, Simon                       D/C/F         00:24.3911          138.370    4
+            26     1    Newgarden, Josef                      D/C/F         00:24.6774          136.765    0
+            27    14    Kanaan, Tony                          D/C/F         00:24.6861          136.717    0
+            28    81    Hanley, Ben                           D/C/F         00:24.6953          136.666    4
+            29    59    Chilton, Max                          D/C/F         00:24.8730          135.689    0
+            30     3    Castroneves, Helio                    D/C/F         00:25.1573          134.156    0
+            31    24    Karam, Sage                           D/C/F         00:25.6978          131.334    0
+            32    18    Ferrucci, Santino                     D/H/F         00:26.0458          129.579    0
+            33    41    Kellett, Dalton (R)                   D/C/F         00:26.4425          127.635    0
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 28 of 32
+Event:     104th Indianapolis 500                                                                     Round 7
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                                 NTT IndyCar Series
+Session:   Qualifications - Day 1                                                        August 15, 2020
+
+Section: BS to PI                                                                              Length: 1.121212 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1      26    Veach, Zach                           D/H/F         00:23.4683          171.992     4
+             2      59    Chilton, Max                          D/C/F         00:25.6079          157.622     4
+             3      20    Carpenter, Ed                         D/C/F         00:26.1802          154.176     9
+             4       1    Newgarden, Josef                      D/C/F         00:27.6640          145.907     6
+             5      22    Pagenaud, Simon                       D/C/F         00:28.9751          139.305     6
+             6      47    Daly, Conor                           D/C/F         00:29.4851          136.895     9
+             7       5    O'Ward, Pato (R)                      D/C/F         00:29.7751          135.562     4
+             8      88    Herta, Colton                         D/H/F         00:30.0143          134.481    13
+             9      81    Hanley, Ben                           D/C/F         00:30.3345          133.062     9
+            10      55    Palou, Alex (R)                       D/H/F         00:30.4495          132.559     4
+            11      51    Davison, James                        D/H/F         00:31.1902          129.411     4
+            12      66    Alonso, Fernando                      D/C/F         00:31.2402          129.204     4
+            13       3    Castroneves, Helio                    D/C/F         00:31.7941          126.953     9
+            14      18    Ferrucci, Santino                     D/H/F         00:31.8008          126.926     4
+            15       7    Askew, Oliver (R)                     D/C/F         00:31.8083          126.897     7
+            16      27    Rossi, Alexander                      D/H/F         00:31.8482          126.738     4
+            17      45    Pigot, Spencer                        D/H/F         00:31.9458          126.350     4
+            18       4    Kimball, Charlie                      D/C/F         00:32.0413          125.974     4
+            19      60    Harvey, Jack                          D/H/F         00:32.4118          124.534     9
+            20      21    VeeKay, Rinus (R)                     D/C/F         00:32.6810          123.508     4
+            21      98    Andretti, Marco                       D/H/F         00:32.7150          123.380     4
+            22      29    Hinchcliffe, James                    D/H/F         00:32.8863          122.737     4
+            23      28    Hunter-Reay, Ryan                     D/H/F         00:33.0944          121.965     4
+            24      41    Kellett, Dalton (R)                   D/C/F         00:33.1807          121.648     4
+            25      14    Kanaan, Tony                          D/C/F         00:34.2865          117.725     4
+            26      24    Karam, Sage                           D/C/F         00:34.4186          117.273     4
+            27      12    Power, Will                           D/C/F         00:34.6273          116.566     4
+            28      67    Hildebrand, JR                        D/C/F         00:34.9686          115.428     4
+            29       9    Dixon, Scott                          D/H/F         00:35.4485          113.866     4
+            30      30    Sato, Takuma                          D/H/F         00:36.6073          110.261     9
+            31      15    Rahal, Graham                         D/H/F         00:37.0363          108.984     6
+            32       8    Ericsson, Marcus                      D/H/F         00:42.7304           94.461     9
+            33      10    Rosenqvist, Felix                     D/H/F         00:51.6530           78.144     4
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 29 of 32
+Event:     104th Indianapolis 500                                                                     Round 7
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                                 NTT IndyCar Series
+Session:   Qualifications - Day 1                                                        August 15, 2020
+
+Section: PO to PI                                                                              Length: 2.058712 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1       4    Kimball, Charlie                      D/C/F         01:42.3399          72.419      4
+             2       1    Newgarden, Josef                      D/C/F         02:55.4235          42.248      4
+             3      22    Pagenaud, Simon                       D/C/F         02:59.5685          41.273      4
+             4      12    Power, Will                           D/C/F         03:06.4543          39.749      4
+             5      15    Rahal, Graham                         D/H/F         03:26.5538          35.881      4
+             6      26    Veach, Zach                           D/H/F         03:37.7559          34.035      7
+             7       7    Askew, Oliver (R)                     D/C/F         03:43.0197          33.232      4
+             8      45    Pigot, Spencer                        D/H/F         03:46.4641          32.726      4
+             9      88    Herta, Colton                         D/H/F         04:14.5096          29.120      9
+            10      51    Davison, James                        D/H/F         04:24.1495          28.057      4
+            11       9    Dixon, Scott                          D/H/F         04:34.1259          27.036     14
+            12      20    Carpenter, Ed                         D/C/F         04:55.2662          25.101      4
+            13      98    Andretti, Marco                       D/H/F         04:59.3253          24.760      0
+            14       5    O'Ward, Pato (R)                      D/C/F         04:59.5347          24.743      0
+            15      21    VeeKay, Rinus (R)                     D/C/F         04:59.5909          24.738      0
+            16      47    Daly, Conor                           D/C/F         04:59.8651          24.716      4
+            17      66    Alonso, Fernando                      D/C/F         04:59.8652          24.716      0
+            18      27    Rossi, Alexander                      D/H/F         04:59.8842          24.714      0
+            19      55    Palou, Alex (R)                       D/H/F         05:00.4571          24.667      0
+            20      29    Hinchcliffe, James                    D/H/F         05:00.4743          24.666      0
+            21      28    Hunter-Reay, Ryan                     D/H/F         05:01.3350          24.595      0
+            22      59    Chilton, Max                          D/C/F         05:01.3432          24.594      0
+            23      60    Harvey, Jack                          D/H/F         05:01.5528          24.577      4
+            24       3    Castroneves, Helio                    D/C/F         05:05.0770          24.293      4
+            25      41    Kellett, Dalton (R)                   D/C/F         05:05.2480          24.280      0
+            26      14    Kanaan, Tony                          D/C/F         05:06.3009          24.196      0
+            27      18    Ferrucci, Santino                     D/H/F         05:07.7781          24.080      0
+            28      30    Sato, Takuma                          D/H/F         05:08.0327          24.060      4
+            29      67    Hildebrand, JR                        D/C/F         05:08.2694          24.042      0
+            30      81    Hanley, Ben                           D/C/F         05:08.7143          24.007      4
+            31      24    Karam, Sage                           D/C/F         05:12.5284          23.714      0
+            32       8    Ericsson, Marcus                      D/H/F         05:18.0796          23.300      4
+            33      10    Rosenqvist, Felix                     D/H/F         05:25.7578          22.751      0
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 30 of 32
+Event:     104th Indianapolis 500                                                                   Round 7
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                               NTT IndyCar Series
+Session:   Qualifications - Day 1                                                      August 15, 2020
+
+Section: PIC to PI                                                                           Length: 0.035890 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    20    Carpenter, Ed                         D/C/F         00:01.3556          95.312      9
+             2    12    Power, Will                           D/C/F         00:01.6492          78.344      6
+             3    26    Veach, Zach                           D/H/F         00:01.6655          77.577      4
+             4    14    Kanaan, Tony                          D/C/F         00:01.6691          77.410      4
+             5    47    Daly, Conor                           D/C/F         00:01.8204          70.976      9
+             6     9    Dixon, Scott                          D/H/F         00:01.8822          68.645      9
+             7    22    Pagenaud, Simon                       D/C/F         00:01.9278          67.022      6
+             8     4    Kimball, Charlie                      D/C/F         00:01.9513          66.215      4
+             9     1    Newgarden, Josef                      D/C/F         00:01.9943          64.787      4
+            10    28    Hunter-Reay, Ryan                     D/H/F         00:02.0359          63.463      4
+            11    51    Davison, James                        D/H/F         00:02.0413          63.295      4
+            12    41    Kellett, Dalton (R)                   D/C/F         00:02.0772          62.201      4
+            13    27    Rossi, Alexander                      D/H/F         00:02.0868          61.915      4
+            14    18    Ferrucci, Santino                     D/H/F         00:02.0955          61.658      4
+            15    55    Palou, Alex (R)                       D/H/F         00:02.1130          61.147      4
+            16    29    Hinchcliffe, James                    D/H/F         00:02.1308          60.637      4
+            17    59    Chilton, Max                          D/C/F         00:02.1332          60.568      4
+            18    21    VeeKay, Rinus (R)                     D/C/F         00:02.1402          60.370      4
+            19     3    Castroneves, Helio                    D/C/F         00:02.1460          60.207      9
+            20    45    Pigot, Spencer                        D/H/F         00:02.1494          60.112      4
+            21    67    Hildebrand, JR                        D/C/F         00:02.1554          59.945      4
+            22    30    Sato, Takuma                          D/H/F         00:02.1605          59.803      4
+            23    88    Herta, Colton                         D/H/F         00:02.1621          59.759     13
+            24    81    Hanley, Ben                           D/C/F         00:02.1682          59.591      4
+            25    98    Andretti, Marco                       D/H/F         00:02.1740          59.432      4
+            26    24    Karam, Sage                           D/C/F         00:02.1894          59.014      4
+            27     7    Askew, Oliver (R)                     D/C/F         00:02.1942          58.885      7
+            28     8    Ericsson, Marcus                      D/H/F         00:02.1989          58.759      9
+            29     5    O'Ward, Pato (R)                      D/C/F         00:02.2308          57.918      4
+            30    60    Harvey, Jack                          D/H/F         00:02.2555          57.284      9
+            31    15    Rahal, Graham                         D/H/F         00:02.5343          50.982      6
+            32    66    Alonso, Fernando                      D/C/F         00:02.6531          48.699      4
+            33    10    Rosenqvist, Felix                     D/H/F         00:02.8561          45.238      4
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2020         Page 31 of 32
+Event:     104th Indianapolis 500                                                                 Round 7
+Track:     Indianapolis Motor Speedway                                                        2.5 mile(s)
+
+Report:    Top Section Times Report                                             NTT IndyCar Series
+Session:   Qualifications - Day 1                                                    August 15, 2020
+
+                                                  Track Map
+
+
+
+
+                       (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                      Information provided by Indy Racing Information System - Copyright INDYCAR 2020       Page 32 of 32
+

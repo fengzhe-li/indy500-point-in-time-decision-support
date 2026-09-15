@@ -1,0 +1,15 @@
+﻿metric,value
+active_chronology_ledger,V10
+active_action_lane_ledger,V7
+verified_2022_attempt_population,44
+chronology_covered_attempts,21
+chronology_coverage_pct,47.73
+decision_relevant_repeat_denominator,8
+decision_relevant_repeat_covered,8
+decision_relevant_repeat_coverage,8/8
+decision_relevant_repeat_coverage_pct,100.00
+explicit_historical_lane_rows,1
+repeat_subgroup_readiness,READY
+overall_2022_chronology_status,PARTIAL
+queue_replay_status,NOT_READY
+global_chronology_gate,FAIL

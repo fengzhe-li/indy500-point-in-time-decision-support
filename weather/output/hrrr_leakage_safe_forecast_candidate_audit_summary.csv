@@ -1,0 +1,4 @@
+﻿availability_lag_minutes,decision_rows,rows_with_any_eligible_snapshot,coverage_pct,same_cycle_bracket_rows,same_cycle_bracket_pct,nearest_exact_valid_rows,nearest_before_rows,nearest_after_rows,nearest_abs_offset_median_minutes,nearest_abs_offset_max_minutes
+60,136,136,100.0,136,100.0,0,71,65,14.983333333333334,29.933333333333334
+90,136,136,100.0,136,100.0,0,71,65,14.983333333333334,29.933333333333334
+120,136,136,100.0,136,100.0,0,71,65,14.983333333333334,29.933333333333334

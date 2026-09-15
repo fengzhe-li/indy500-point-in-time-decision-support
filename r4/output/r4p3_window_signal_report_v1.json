@@ -1,0 +1,19 @@
+{
+  "phase": "R4P3",
+  "rows": 40,
+  "years": [
+    "2020",
+    "2021",
+    "2023",
+    "2024"
+  ],
+  "purpose": "Evaluate whether past-only cross-car repeat performance signals and environment changes contain predictive information for the next same-car repeat transition.",
+  "important_semantics": {
+    "past_only": true,
+    "future_leakage": false,
+    "fixed_time_window": false,
+    "causal_claim": false,
+    "environment_role": "Association/predictive feature only; not proof of causal effect.",
+    "validation": "leave-one-year-out"
+  }
+}

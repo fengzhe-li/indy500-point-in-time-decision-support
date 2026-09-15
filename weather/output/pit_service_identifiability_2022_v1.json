@@ -1,0 +1,23 @@
+{
+  "phase": "R2E.3",
+  "year": 2022,
+  "service_identifiability_status": "NOT_IDENTIFIABLE_FROM_RECOVERED_2022_EVIDENCE",
+  "pit_return_support": "NOT_OBSERVED",
+  "service_between_attempts_support": "NOT_OBSERVED",
+  "refuel_support": "NOT_OBSERVED",
+  "cooling_service_support": "NOT_OBSERVED",
+  "tire_service_support": "NOT_OBSERVED",
+  "adjustment_support": "NOT_OBSERVED",
+  "repair_support": "UNKNOWN",
+  "technical_state_support": "SUPPORTED",
+  "technical_issue": {
+    "driver": "Marco Andretti",
+    "type": "ELECTRICAL",
+    "stage": "INITIAL_RUN"
+  },
+  "downstream_service_policy": "SERVICE_STATE_UNKNOWN",
+  "not_observed_means_none": false,
+  "later_attempt_proves_repair": false,
+  "queue_wait_can_infer_cooling": false,
+  "exact_service_reconstruction_ready": false
+}

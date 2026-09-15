@@ -1,0 +1,8 @@
+metric,value,expected,status
+reference_total,71,71,PASS
+2023_reference_count,34,34,PASS
+2024_reference_count,34,34,PASS
+strict_complete_performance_rows,260,OBSERVED,PASS
+strict_repeat_pairs,55,OBSERVED,PASS
+2024_validation_reference_preserved,True,True,PASS
+car_number_string_identity_policy,True,True,PASS

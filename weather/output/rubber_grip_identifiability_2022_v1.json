@@ -1,0 +1,14 @@
+{
+  "phase": "R2G.2",
+  "year": 2022,
+  "day1_rubber_state_status": "NOT_IDENTIFIABLE_FROM_RECOVERED_2022_EVIDENCE",
+  "day1_grip_evolution_status": "NOT_IDENTIFIABLE_FROM_RECOVERED_2022_EVIDENCE",
+  "adjacent_mechanism_support": "SUPPORTED",
+  "adjacent_mechanism": "OVERNIGHT_RAIN_CAN_WASH_AWAY_RUBBER_AT_IMS",
+  "adjacent_to_day1_promotion_allowed": false,
+  "quantitative_rubber_feature_ready": false,
+  "quantitative_grip_feature_ready": false,
+  "elapsed_time_as_track_evolution": "PROHIBITED",
+  "downstream_rubber_policy": "UNKNOWN_NOT_IDENTIFIABLE",
+  "downstream_grip_evolution_policy": "UNKNOWN_NOT_IDENTIFIABLE"
+}

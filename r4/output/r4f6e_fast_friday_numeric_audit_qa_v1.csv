@@ -1,0 +1,6 @@
+metric,value,expected,status
+r4f6d_manifest_rows,10,10,PASS
+pdf_recovery_attempts,2,2,PASS
+recovered_pdf_signature_valid,2,0_to_2_observed,PASS
+content_assets_audited,10,>=8,PASS
+2024_validation_role_preserved,True,True,PASS

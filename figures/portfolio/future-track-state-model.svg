@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#45c7d8"/></marker></defs>
+<rect width="1600" height="900" fill="#0b1118"/>
+<text x="80" y="85" fill="#edf4f7" font-family="Arial" font-size="42" font-weight="700">Future track state is modelled separately</text>
+<text x="80" y="125" fill="#9bb0bd" font-family="Arial" font-size="21">Future track temperature is not treated as future ambient temperature.</text>
+<rect x="90" y="170" width="470" height="75" rx="18" fill="#141e29" stroke="#45c7d8" stroke-width="3"/>
+<text x="118" y="212" fill="#45c7d8" font-family="Arial" font-size="23" font-weight="700">CURRENT TRACK TEMPERATURE</text>
+<text x="118" y="250" fill="#edf4f7" font-family="Arial" font-size="19"></text>
+<path d="M560 208 L760 440" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="90" y="275" width="470" height="75" rx="18" fill="#141e29" stroke="#45c7d8" stroke-width="3"/>
+<text x="118" y="317" fill="#45c7d8" font-family="Arial" font-size="23" font-weight="700">CURRENT AMBIENT TEMPERATURE</text>
+<text x="118" y="355" fill="#edf4f7" font-family="Arial" font-size="19"></text>
+<path d="M560 313 L760 440" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="90" y="380" width="470" height="75" rx="18" fill="#141e29" stroke="#45c7d8" stroke-width="3"/>
+<text x="118" y="422" fill="#45c7d8" font-family="Arial" font-size="23" font-weight="700">TRACK − AMBIENT THERMAL GAP</text>
+<text x="118" y="460" fill="#edf4f7" font-family="Arial" font-size="19"></text>
+<path d="M560 418 L760 440" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="90" y="485" width="470" height="75" rx="18" fill="#141e29" stroke="#45c7d8" stroke-width="3"/>
+<text x="118" y="527" fill="#45c7d8" font-family="Arial" font-size="23" font-weight="700">FUTURE AMBIENT TRAJECTORY</text>
+<text x="118" y="565" fill="#edf4f7" font-family="Arial" font-size="19"></text>
+<path d="M560 523 L760 440" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="90" y="590" width="470" height="75" rx="18" fill="#141e29" stroke="#45c7d8" stroke-width="3"/>
+<text x="118" y="632" fill="#45c7d8" font-family="Arial" font-size="23" font-weight="700">MEAN SOLAR ELEVATION</text>
+<text x="118" y="670" fill="#edf4f7" font-family="Arial" font-size="19"></text>
+<path d="M560 628 L760 440" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="90" y="695" width="470" height="75" rx="18" fill="#141e29" stroke="#45c7d8" stroke-width="3"/>
+<text x="118" y="737" fill="#45c7d8" font-family="Arial" font-size="23" font-weight="700">HORIZON H</text>
+<text x="118" y="775" fill="#edf4f7" font-family="Arial" font-size="19"></text>
+<path d="M560 733 L760 440" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="760" y="315" width="500" height="250" rx="18" fill="#141e29" stroke="#65d6a6" stroke-width="3"/>
+<text x="788" y="357" fill="#65d6a6" font-family="Arial" font-size="23" font-weight="700">M2b HORIZON-SPECIFIC MODEL</text>
+<text x="788" y="395" fill="#edf4f7" font-family="Arial" font-size="19">one fitted model per scientific anchor</text>
+<text x="788" y="426" fill="#9bb0bd" font-family="Arial" font-size="19">future ambient change + thermal gap + solar state</text>
+<text x="788" y="457" fill="#9bb0bd" font-family="Arial" font-size="19">finite-sample conformal residual calibration</text>
+<text x="788" y="488" fill="#9bb0bd" font-family="Arial" font-size="19">leave-one-year-out selection</text>
+<path d="M1260 440 L1370 440" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="1370" y="350" width="170" height="180" rx="18" fill="#141e29" stroke="#ff9f43" stroke-width="3"/>
+<text x="1398" y="392" fill="#ff9f43" font-family="Arial" font-size="23" font-weight="700">OUTPUT</text>
+<text x="1398" y="430" fill="#edf4f7" font-family="Arial" font-size="19">distribution of</text>
+<text x="1398" y="461" fill="#9bb0bd" font-family="Arial" font-size="19">ΔTtrack(h)</text>
+</svg>

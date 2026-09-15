@@ -1,0 +1,19 @@
+{
+  "phase": "R3C.0A",
+  "driver": "Scott McLaughlin",
+  "attempt_id": "d2ae8749-6312-5afd-b193-dd23dc071124",
+  "recovered_speed_mph": 231.543,
+  "speed_evidence_observations": 2,
+  "speed_clusters": [
+    {
+      "mean_mph": 231.543,
+      "observations": 2
+    }
+  ],
+  "state_version": "V4.1_FINAL",
+  "scott_absolute_envelope_rows_repaired": 36,
+  "monte_carlo_delta_distribution_changed": false,
+  "sato_required_reattempt_policy": "PRESERVED_FROM_R3C0",
+  "hard_recommendation_ready": false,
+  "next_phase": "R3C1_FINAL_RESULTS_AND_CAPABILITY_FREEZE"
+}

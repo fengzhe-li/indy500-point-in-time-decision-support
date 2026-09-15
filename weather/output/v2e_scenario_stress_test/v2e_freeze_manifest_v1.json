@@ -1,0 +1,78 @@
+{
+  "module": "V2-E Systematic Scenario Stress Test",
+  "status": "FROZEN",
+  "freeze_time_utc": "2026-09-14T08:54:48.702454+00:00",
+  "purpose": "Evaluate how the frozen conditional probabilistic performance system behaves across empirically supported thermal-gap, ambient-trajectory, solar-state, and horizon scenarios.",
+  "scenario_design": {
+    "total_scenarios": 135,
+    "thermal_gap_states": 3,
+    "ambient_trajectory_states": 3,
+    "solar_states": 3,
+    "supported_horizons_min": [
+      15,
+      30,
+      60,
+      90,
+      120
+    ],
+    "ambient_support_check_fraction": 1.0
+  },
+  "principal_findings": {
+    "scenario_separation": "Conditional physical-state scenarios increasingly separate performance outlooks at longer horizons.",
+    "15_min_p_improve_range": [
+      0.39646,
+      0.585
+    ],
+    "120_min_p_improve_range": [
+      0.20552,
+      0.6704
+    ],
+    "15_min_expected_delta_range_mph": [
+      -0.12261,
+      0.10369
+    ],
+    "120_min_expected_delta_range_mph": [
+      -0.46298,
+      0.22479
+    ],
+    "best_observed_grid_scenario": {
+      "horizon_min": 120,
+      "thermal_gap_state": "HIGH_GAP",
+      "ambient_trajectory": "WARMING",
+      "solar_state": "LOW_SOLAR",
+      "expected_delta_speed_mph": 0.22479,
+      "p_improve": 0.6704,
+      "lower_80_mph": -0.53037,
+      "upper_80_mph": 1.00849
+    },
+    "worst_observed_grid_scenario": {
+      "horizon_min": 120,
+      "thermal_gap_state": "LOW_GAP",
+      "ambient_trajectory": "COOLING",
+      "solar_state": "HIGH_SOLAR",
+      "expected_delta_speed_mph": -0.46298,
+      "p_improve": 0.20552,
+      "lower_80_mph": -1.32475,
+      "upper_80_mph": 0.30757
+    }
+  },
+  "interpretation_boundary": "The stress test is conditional on another on-track opportunity occurring at the specified horizon. It does not model queue waiting time, opportunity probability, or retain/withdraw utility.",
+  "artifacts": {
+    "weather/output/v2e_scenario_stress_test/v2e_scenario_grid_v1.csv": {
+      "sha256": "dc3d45c9fb886260cf760efa545c37077f69db6758a86b921739a24af11f5a6a",
+      "bytes": 19117
+    },
+    "weather/output/v2e_scenario_stress_test/v2e_scenario_stress_test_results_v1.csv": {
+      "sha256": "154341dbe66e3db2c9d18eebb7eae857ef4277b1a13352a86a2a808156178ec9",
+      "bytes": 47292
+    },
+    "weather/output/v2e_scenario_stress_test/v2e_scenario_horizon_profiles_v1.csv": {
+      "sha256": "172a91f8cf8cdf091cbe72164ae03e4e0e74a3bd45c0927fe393ff10ae3c0a23",
+      "bytes": 29182
+    },
+    "weather/output/v2e_scenario_stress_test/v2e_scenario_stress_test_summary_v1.txt": {
+      "sha256": "7ff8f10510f2f68d2a0949efbe422b4c200730b20187ab4a87c94b2b5465206e",
+      "bytes": 6243
+    }
+  }
+}

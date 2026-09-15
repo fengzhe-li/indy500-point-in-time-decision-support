@@ -1,0 +1,34 @@
+{
+  "phase": "R3B.1",
+  "state_rows": 8,
+  "baseline_model": "ZERO_DELTA_BASELINE",
+  "baseline_pooled_mae_mph": 0.5638461538461562,
+  "zero_delta_baseline_best": true,
+  "empirical_distribution_rows": 10,
+  "recovery_probability_rows": 3,
+  "recovery_prior_sensitivity_rows": 24,
+  "queue_wait": {
+    "status": "LATENT",
+    "scenarios_minutes": [
+      5,
+      15,
+      30,
+      45
+    ],
+    "probability_model": null,
+    "historical_truth_claim": false
+  },
+  "environment": {
+    "weather": "DECISION_TIME_AVAILABLE_HRRR_ONLY",
+    "realized_future_weather_as_input": false,
+    "track_temperature": "OBSERVED_PTSC_WHERE_SUPPORTED",
+    "air_to_track_proxy": false,
+    "rubber_grip": "UNKNOWN",
+    "tire_state": "UNKNOWN",
+    "pit_service": "UNKNOWN"
+  },
+  "historical_action_role": "LABEL_ONLY",
+  "hard_recommendation_ready": false,
+  "input_pack_ready": true,
+  "next_phase": "R3B2_BUILD_FUTURE_ENVIRONMENT_SCENARIOS"
+}

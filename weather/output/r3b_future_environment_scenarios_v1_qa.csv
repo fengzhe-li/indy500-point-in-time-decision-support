@@ -1,0 +1,14 @@
+﻿metric,value,status
+target_state_exact,1,PASS
+scenario_rows_expected,32,PASS
+environment_ready_rows,0,PASS
+decision_time_not_identifiable_rows,32,PASS
+no_hrrr_bracket_rows,0,PASS
+target_after_session_end_rows,0,PASS
+drivers_with_ready_scenarios,0,PASS
+forecast_issue_after_decision_leaks,0,PASS
+future_track_temp_inferred,0,PASS
+realized_future_weather_used,0,PASS
+cycle_mixing,0,PASS
+elapsed_time_track_evolution_used,0,PASS
+protected_inputs_mutated,0,PASS

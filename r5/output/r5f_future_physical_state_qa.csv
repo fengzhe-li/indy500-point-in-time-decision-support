@@ -1,0 +1,10 @@
+check,value,expected,status
+HRRR issue availability gate,True,True,PASS
+PTSC observation at-or-before decision,True,True,PASS
+track temperature remains distinct,True,True,PASS
+wait changes physical state,True,True,PASS
+future air physical range C,True,True,PASS
+future track physical range C,True,True,PASS
+future wind physical range m/s,True,True,PASS
+future shortwave physical range W/m2,True,True,PASS
+Last Chance missing time remains blocked,50,>0,PASS

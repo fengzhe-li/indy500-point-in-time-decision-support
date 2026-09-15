@@ -1,0 +1,13 @@
+metric,value,expected,status
+decision_rows,60,60,PASS
+action_rows,170,170,PASS
+benchmark_speed_available,60,60,PASS
+benchmark_rank_available,60,60,PASS
+leaderboard_context_available,60,60,PASS
+empirical_competitor_model_claimed,False,False,PASS
+future_leaderboard_used,False,False,PASS
+future_competitor_actions_used,False,False,PASS
+later_attempt_count_used,False,False,PASS
+dynamic_rank_claim_allowed,False,False,PASS
+static_decision_time_benchmark_allowed,True,True,PASS
+final_monte_carlo_run,False,False,PASS

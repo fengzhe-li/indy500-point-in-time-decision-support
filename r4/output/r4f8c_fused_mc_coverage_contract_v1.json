@@ -1,0 +1,35 @@
+{
+  "phase": "R4F8C",
+  "status": "R4F8C_FUSED_MC_COVERAGE_CONTRACT_FROZEN",
+  "decision_universe": {
+    "total": 60,
+    "day1": 50,
+    "last_chance": 10,
+    "last_chance_protected": 6,
+    "last_chance_unprotected": 4
+  },
+  "action_counts": {
+    "STOP": 60,
+    "RETAIN_AND_REATTEMPT": 50,
+    "WITHDRAW_AND_PRIORITY_REATTEMPT": 50,
+    "WITHDRAW_AND_REATTEMPT": 6,
+    "REATTEMPT": 4
+  },
+  "frozen_action_masks": {
+    "DAY1_PROTECTED": [
+      "STOP",
+      "RETAIN_AND_REATTEMPT",
+      "WITHDRAW_AND_PRIORITY_REATTEMPT"
+    ],
+    "LAST_CHANCE_PROTECTED": [
+      "STOP",
+      "WITHDRAW_AND_REATTEMPT"
+    ],
+    "LAST_CHANCE_UNPROTECTED": [
+      "STOP",
+      "REATTEMPT"
+    ]
+  },
+  "important_boundary": "R4F8B is preserved as the Day1 MC contract. R4F8C extends final MC coverage to the frozen Last Chance interface without modifying R4F8B.",
+  "next_phase": "R4F8D_FINAL_PROBABILISTIC_ACTION_MONTE_CARLO"
+}

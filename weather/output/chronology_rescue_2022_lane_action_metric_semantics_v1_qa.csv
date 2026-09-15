@@ -1,0 +1,7 @@
+﻿metric,value,status
+historical_explicit_lane_evidence_rows,1,PASS
+attempts_linked_by_explicit_lane_evidence,2,PASS
+coverage_lane_attempt_count_matches,2,PASS
+historical_action_rows,1,PASS
+canonical_data_mutated,0,PASS
+previous_summary_mutated,0,PASS

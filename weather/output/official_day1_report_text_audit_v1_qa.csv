@@ -1,0 +1,7 @@
+﻿metric,value,status
+pdf_files_expected,17,PASS
+successful_text_extractions,17,PASS
+nonempty_text_extractions,17,PASS
+term_hit_rows,733,INFO
+canonical_data_mutated,0,PASS
+ocr_used,0,PASS

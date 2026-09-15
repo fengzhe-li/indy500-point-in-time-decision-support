@@ -1,0 +1,4 @@
+year,states,performance_exact,window20_ready,ptsc_ready,hrrr30_ready,thermal_ready,engine_v1_ready
+2020,20,20,16,0,20,0,0
+2021,25,25,25,0,25,0,0
+2023,5,5,2,0,5,0,0

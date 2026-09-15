@@ -1,0 +1,12342 @@
+
+===== PAGE 1 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+60
+Rosenqvist, Felix
+D/H/F
+00:38.5713
+ 233.334
+2
+2
+3
+McLaughlin, Scott
+D/C/F
+00:38.5799
+ 233.282
+4
+3
+83
+Shwartzman, Robert (R)
+D/C/F
+00:38.5885
+ 233.230
+2
+4
+10
+Palou, Alex
+D/H/F
+00:38.6088
+ 233.107
+3
+5
+2
+Newgarden, Josef
+D/C/F
+00:38.6151
+ 233.069
+2
+6
+4
+Malukas, David
+D/C/F
+00:38.6251
+ 233.009
+8
+7
+75
+Sato, Takuma
+D/H/F
+00:38.6448
+ 232.890
+8
+8
+5
+O'Ward, Pato
+D/C/F
+00:38.6486
+ 232.867
+3
+9
+9
+Dixon, Scott
+D/H/F
+00:38.6667
+ 232.758
+5
+10
+20
+Rossi, Alexander
+D/C/F
+00:38.6710
+ 232.733
+14
+11
+12
+Power, Will
+D/C/F
+00:38.6818
+ 232.668
+2
+12
+14
+Ferrucci, Santino
+D/C/F
+00:38.7043
+ 232.532
+14
+13
+28
+Ericsson, Marcus
+D/H/F
+00:38.7193
+ 232.442
+3
+14
+33
+Carpenter, Ed
+D/C/F
+00:38.7285
+ 232.387
+2
+15
+30
+DeFrancesco, Devlin
+D/H/F
+00:38.7468
+ 232.277
+8
+16
+21
+Rasmussen, Christian
+D/C/F
+00:38.7646
+ 232.171
+2
+17
+77
+Robb, Sting Ray
+D/C/F
+00:38.7773
+ 232.095
+8
+18
+7
+Lundgaard, Christian
+D/C/F
+00:38.7789
+ 232.085
+9
+19
+8
+Simpson, Kyffin
+D/H/F
+00:38.7937
+ 231.996
+2
+20
+17
+Larson, Kyle
+D/C/F
+00:38.8021
+ 231.946
+8
+21
+27
+Kirkwood, Kyle
+D/H/F
+00:38.8022
+ 231.946
+2
+22
+76
+Daly, Conor
+D/C/F
+00:38.8140
+ 231.875
+15
+23
+45
+Foster, Louis (R)
+D/H/F
+00:38.8669
+ 231.560
+8
+24
+06
+Castroneves, Helio
+D/H/F
+00:38.9097
+ 231.305
+8
+25
+24
+Harvey, Jack
+D/C/F
+00:38.9101
+ 231.302
+2
+26
+90
+Ilott, Callum
+D/C/F
+00:38.9142
+ 231.278
+8
+27
+6
+Siegel, Nolan (R)
+D/C/F
+00:38.9652
+ 230.975
+2
+28
+23
+Hunter-Reay, Ryan
+D/C/F
+00:39.0208
+ 230.646
+8
+29
+15
+Rahal, Graham
+D/H/F
+00:39.0302
+ 230.591
+8
+30
+98
+Andretti, Marco
+D/H/F
+00:39.0480
+ 230.486
+20
+31
+18
+Veekay, Rinus
+D/H/F
+00:39.0825
+ 230.282
+9
+32
+26
+Herta, Colton
+D/H/F
+00:39.0871
+ 230.255
+5
+33
+66
+Armstrong, Marcus
+D/H/F
+00:39.1987
+ 229.599
+6
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:39.4487
+ 228.144
+8
+Section:  Lap
+Length:  2.500000 mile(s)
+Track map included on last page of report
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 1 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 2 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+3
+McLaughlin, Scott
+D/C/F
+00:02.8368
+ 237.462
+4
+2
+60
+Rosenqvist, Felix
+D/H/F
+00:02.8397
+ 237.219
+2
+3
+2
+Newgarden, Josef
+D/C/F
+00:02.8435
+ 236.902
+4
+4
+28
+Ericsson, Marcus
+D/H/F
+00:02.8435
+ 236.902
+4
+5
+5
+O'Ward, Pato
+D/C/F
+00:02.8446
+ 236.811
+4
+6
+12
+Power, Will
+D/C/F
+00:02.8446
+ 236.811
+4
+7
+83
+Shwartzman, Robert (R)
+D/C/F
+00:02.8457
+ 236.719
+2
+8
+21
+Rasmussen, Christian
+D/C/F
+00:02.8481
+ 236.520
+2
+9
+27
+Kirkwood, Kyle
+D/H/F
+00:02.8494
+ 236.412
+2
+10
+10
+Palou, Alex
+D/H/F
+00:02.8495
+ 236.404
+4
+11
+20
+Rossi, Alexander
+D/C/F
+00:02.8498
+ 236.379
+2
+12
+30
+DeFrancesco, Devlin
+D/H/F
+00:02.8503
+ 236.337
+8
+13
+75
+Sato, Takuma
+D/H/F
+00:02.8504
+ 236.329
+3
+14
+9
+Dixon, Scott
+D/H/F
+00:02.8521
+ 236.188
+4
+15
+7
+Lundgaard, Christian
+D/C/F
+00:02.8539
+ 236.039
+4
+16
+77
+Robb, Sting Ray
+D/C/F
+00:02.8539
+ 236.039
+4
+17
+4
+Malukas, David
+D/C/F
+00:02.8563
+ 235.841
+10
+18
+8
+Simpson, Kyffin
+D/H/F
+00:02.8568
+ 235.799
+2
+19
+76
+Daly, Conor
+D/C/F
+00:02.8572
+ 235.766
+4
+20
+33
+Carpenter, Ed
+D/C/F
+00:02.8596
+ 235.569
+1
+21
+14
+Ferrucci, Santino
+D/C/F
+00:02.8606
+ 235.486
+14
+22
+17
+Larson, Kyle
+D/C/F
+00:02.8631
+ 235.281
+8
+23
+26
+Herta, Colton
+D/H/F
+00:02.8634
+ 235.256
+1
+24
+24
+Harvey, Jack
+D/C/F
+00:02.8645
+ 235.166
+1
+25
+6
+Siegel, Nolan (R)
+D/C/F
+00:02.8655
+ 235.084
+4
+26
+90
+Ilott, Callum
+D/C/F
+00:02.8690
+ 234.797
+3
+27
+45
+Foster, Louis (R)
+D/H/F
+00:02.8712
+ 234.617
+4
+28
+06
+Castroneves, Helio
+D/H/F
+00:02.8714
+ 234.601
+8
+29
+15
+Rahal, Graham
+D/H/F
+00:02.8724
+ 234.519
+1
+30
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.8726
+ 234.503
+7
+31
+18
+Veekay, Rinus
+D/H/F
+00:02.8727
+ 234.494
+8
+32
+98
+Andretti, Marco
+D/H/F
+00:02.8772
+ 234.128
+22
+33
+66
+Armstrong, Marcus
+D/H/F
+00:02.9005
+ 232.247
+6
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:02.9137
+ 231.195
+4
+Section:  Front Stretch 5
+Length:  0.187120 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 2 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 3 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+60
+Rosenqvist, Felix
+D/H/F
+00:01.9235
+ 235.721
+4
+2
+3
+McLaughlin, Scott
+D/C/F
+00:01.9246
+ 235.586
+4
+3
+2
+Newgarden, Josef
+D/C/F
+00:01.9264
+ 235.366
+4
+4
+21
+Rasmussen, Christian
+D/C/F
+00:01.9278
+ 235.195
+1
+5
+28
+Ericsson, Marcus
+D/H/F
+00:01.9281
+ 235.159
+4
+6
+83
+Shwartzman, Robert (R)
+D/C/F
+00:01.9314
+ 234.757
+4
+7
+5
+O'Ward, Pato
+D/C/F
+00:01.9316
+ 234.732
+4
+8
+7
+Lundgaard, Christian
+D/C/F
+00:01.9318
+ 234.708
+4
+9
+30
+DeFrancesco, Devlin
+D/H/F
+00:01.9319
+ 234.696
+8
+10
+75
+Sato, Takuma
+D/H/F
+00:01.9326
+ 234.611
+3
+11
+20
+Rossi, Alexander
+D/C/F
+00:01.9330
+ 234.562
+1
+12
+77
+Robb, Sting Ray
+D/C/F
+00:01.9335
+ 234.502
+1
+13
+4
+Malukas, David
+D/C/F
+00:01.9342
+ 234.417
+4
+14
+10
+Palou, Alex
+D/H/F
+00:01.9348
+ 234.344
+2
+15
+8
+Simpson, Kyffin
+D/H/F
+00:01.9349
+ 234.332
+1
+16
+9
+Dixon, Scott
+D/H/F
+00:01.9352
+ 234.296
+4
+17
+27
+Kirkwood, Kyle
+D/H/F
+00:01.9354
+ 234.272
+2
+18
+12
+Power, Will
+D/C/F
+00:01.9357
+ 234.235
+4
+19
+76
+Daly, Conor
+D/C/F
+00:01.9359
+ 234.211
+4
+20
+14
+Ferrucci, Santino
+D/C/F
+00:01.9384
+ 233.909
+4
+21
+6
+Siegel, Nolan (R)
+D/C/F
+00:01.9384
+ 233.909
+4
+22
+33
+Carpenter, Ed
+D/C/F
+00:01.9387
+ 233.873
+1
+23
+24
+Harvey, Jack
+D/C/F
+00:01.9392
+ 233.813
+1
+24
+26
+Herta, Colton
+D/H/F
+00:01.9398
+ 233.740
+1
+25
+17
+Larson, Kyle
+D/C/F
+00:01.9404
+ 233.668
+7
+26
+90
+Ilott, Callum
+D/C/F
+00:01.9436
+ 233.283
+3
+27
+23
+Hunter-Reay, Ryan
+D/C/F
+00:01.9463
+ 232.960
+1
+28
+18
+Veekay, Rinus
+D/H/F
+00:01.9467
+ 232.912
+8
+29
+45
+Foster, Louis (R)
+D/H/F
+00:01.9471
+ 232.864
+4
+30
+15
+Rahal, Graham
+D/H/F
+00:01.9474
+ 232.828
+1
+31
+06
+Castroneves, Helio
+D/H/F
+00:01.9517
+ 232.315
+10
+32
+98
+Andretti, Marco
+D/H/F
+00:01.9565
+ 231.745
+4
+33
+66
+Armstrong, Marcus
+D/H/F
+00:01.9631
+ 230.966
+6
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:01.9766
+ 229.388
+4
+Section:  Turn 1 Entry
+Length:  0.125947 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 3 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 4 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+3
+McLaughlin, Scott
+D/C/F
+00:02.8924
+ 232.192
+1
+2
+83
+Shwartzman, Robert (R)
+D/C/F
+00:02.8939
+ 232.071
+1
+3
+60
+Rosenqvist, Felix
+D/H/F
+00:02.8957
+ 231.927
+2
+4
+12
+Power, Will
+D/C/F
+00:02.8977
+ 231.767
+4
+5
+30
+DeFrancesco, Devlin
+D/H/F
+00:02.8994
+ 231.631
+8
+6
+5
+O'Ward, Pato
+D/C/F
+00:02.8998
+ 231.599
+1
+7
+75
+Sato, Takuma
+D/H/F
+00:02.8998
+ 231.599
+1
+8
+2
+Newgarden, Josef
+D/C/F
+00:02.9020
+ 231.423
+4
+9
+4
+Malukas, David
+D/C/F
+00:02.9032
+ 231.328
+4
+10
+10
+Palou, Alex
+D/H/F
+00:02.9034
+ 231.312
+2
+11
+7
+Lundgaard, Christian
+D/C/F
+00:02.9037
+ 231.288
+9
+12
+8
+Simpson, Kyffin
+D/H/F
+00:02.9046
+ 231.216
+7
+13
+28
+Ericsson, Marcus
+D/H/F
+00:02.9054
+ 231.153
+4
+14
+9
+Dixon, Scott
+D/H/F
+00:02.9061
+ 231.097
+1
+15
+27
+Kirkwood, Kyle
+D/H/F
+00:02.9067
+ 231.049
+1
+16
+33
+Carpenter, Ed
+D/C/F
+00:02.9070
+ 231.025
+1
+17
+17
+Larson, Kyle
+D/C/F
+00:02.9075
+ 230.986
+7
+18
+21
+Rasmussen, Christian
+D/C/F
+00:02.9082
+ 230.930
+2
+19
+77
+Robb, Sting Ray
+D/C/F
+00:02.9095
+ 230.827
+4
+20
+20
+Rossi, Alexander
+D/C/F
+00:02.9113
+ 230.684
+13
+21
+76
+Daly, Conor
+D/C/F
+00:02.9140
+ 230.470
+3
+22
+24
+Harvey, Jack
+D/C/F
+00:02.9153
+ 230.368
+1
+23
+14
+Ferrucci, Santino
+D/C/F
+00:02.9159
+ 230.320
+13
+24
+6
+Siegel, Nolan (R)
+D/C/F
+00:02.9160
+ 230.312
+4
+25
+90
+Ilott, Callum
+D/C/F
+00:02.9214
+ 229.887
+8
+26
+06
+Castroneves, Helio
+D/H/F
+00:02.9223
+ 229.816
+7
+27
+45
+Foster, Louis (R)
+D/H/F
+00:02.9247
+ 229.627
+8
+28
+98
+Andretti, Marco
+D/H/F
+00:02.9247
+ 229.627
+4
+29
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.9266
+ 229.478
+8
+30
+18
+Veekay, Rinus
+D/H/F
+00:02.9287
+ 229.314
+7
+31
+15
+Rahal, Graham
+D/H/F
+00:02.9301
+ 229.204
+2
+32
+26
+Herta, Colton
+D/H/F
+00:02.9325
+ 229.016
+4
+33
+66
+Armstrong, Marcus
+D/H/F
+00:02.9498
+ 227.673
+6
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:02.9640
+ 226.583
+7
+Section:  Turn 1 Exit
+Length:  0.186553 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 4 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 5 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+3
+McLaughlin, Scott
+D/C/F
+00:02.9211
+ 232.712
+1
+2
+5
+O'Ward, Pato
+D/C/F
+00:02.9235
+ 232.520
+1
+3
+10
+Palou, Alex
+D/H/F
+00:02.9274
+ 232.211
+2
+4
+33
+Carpenter, Ed
+D/C/F
+00:02.9274
+ 232.211
+1
+5
+75
+Sato, Takuma
+D/H/F
+00:02.9291
+ 232.076
+7
+6
+30
+DeFrancesco, Devlin
+D/H/F
+00:02.9299
+ 232.013
+1
+7
+12
+Power, Will
+D/C/F
+00:02.9315
+ 231.886
+10
+8
+83
+Shwartzman, Robert (R)
+D/C/F
+00:02.9318
+ 231.862
+1
+9
+60
+Rosenqvist, Felix
+D/H/F
+00:02.9325
+ 231.807
+2
+10
+28
+Ericsson, Marcus
+D/H/F
+00:02.9343
+ 231.665
+2
+11
+4
+Malukas, David
+D/C/F
+00:02.9345
+ 231.649
+4
+12
+2
+Newgarden, Josef
+D/C/F
+00:02.9354
+ 231.578
+2
+13
+20
+Rossi, Alexander
+D/C/F
+00:02.9359
+ 231.538
+1
+14
+7
+Lundgaard, Christian
+D/C/F
+00:02.9360
+ 231.531
+8
+15
+8
+Simpson, Kyffin
+D/H/F
+00:02.9372
+ 231.436
+7
+16
+9
+Dixon, Scott
+D/H/F
+00:02.9380
+ 231.373
+7
+17
+14
+Ferrucci, Santino
+D/C/F
+00:02.9385
+ 231.334
+7
+18
+17
+Larson, Kyle
+D/C/F
+00:02.9418
+ 231.074
+7
+19
+76
+Daly, Conor
+D/C/F
+00:02.9445
+ 230.862
+7
+20
+27
+Kirkwood, Kyle
+D/H/F
+00:02.9457
+ 230.768
+1
+21
+21
+Rasmussen, Christian
+D/C/F
+00:02.9496
+ 230.463
+7
+22
+77
+Robb, Sting Ray
+D/C/F
+00:02.9497
+ 230.455
+7
+23
+90
+Ilott, Callum
+D/C/F
+00:02.9514
+ 230.322
+1
+24
+6
+Siegel, Nolan (R)
+D/C/F
+00:02.9532
+ 230.182
+7
+25
+24
+Harvey, Jack
+D/C/F
+00:02.9532
+ 230.182
+1
+26
+45
+Foster, Louis (R)
+D/H/F
+00:02.9538
+ 230.135
+2
+27
+06
+Castroneves, Helio
+D/H/F
+00:02.9553
+ 230.018
+7
+28
+98
+Andretti, Marco
+D/H/F
+00:02.9606
+ 229.607
+4
+29
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.9627
+ 229.444
+3
+30
+18
+Veekay, Rinus
+D/H/F
+00:02.9627
+ 229.444
+7
+31
+26
+Herta, Colton
+D/H/F
+00:02.9655
+ 229.227
+4
+32
+15
+Rahal, Graham
+D/H/F
+00:02.9665
+ 229.150
+2
+33
+66
+Armstrong, Marcus
+D/H/F
+00:02.9781
+ 228.257
+5
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:02.9830
+ 227.883
+7
+Section:  Turn 2 Entry
+Length:  0.188826 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 5 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 6 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+3
+McLaughlin, Scott
+D/C/F
+00:01.9162
+ 232.349
+1
+2
+10
+Palou, Alex
+D/H/F
+00:01.9212
+ 231.744
+2
+3
+5
+O'Ward, Pato
+D/C/F
+00:01.9238
+ 231.431
+1
+4
+83
+Shwartzman, Robert (R)
+D/C/F
+00:01.9251
+ 231.274
+1
+5
+60
+Rosenqvist, Felix
+D/H/F
+00:01.9251
+ 231.274
+1
+6
+4
+Malukas, David
+D/C/F
+00:01.9254
+ 231.238
+8
+7
+8
+Simpson, Kyffin
+D/H/F
+00:01.9264
+ 231.118
+7
+8
+75
+Sato, Takuma
+D/H/F
+00:01.9272
+ 231.022
+1
+9
+76
+Daly, Conor
+D/C/F
+00:01.9275
+ 230.986
+7
+10
+2
+Newgarden, Josef
+D/C/F
+00:01.9282
+ 230.903
+2
+11
+33
+Carpenter, Ed
+D/C/F
+00:01.9282
+ 230.903
+1
+12
+12
+Power, Will
+D/C/F
+00:01.9288
+ 230.831
+13
+13
+9
+Dixon, Scott
+D/H/F
+00:01.9289
+ 230.819
+4
+14
+20
+Rossi, Alexander
+D/C/F
+00:01.9304
+ 230.639
+19
+15
+7
+Lundgaard, Christian
+D/C/F
+00:01.9305
+ 230.628
+8
+16
+27
+Kirkwood, Kyle
+D/H/F
+00:01.9326
+ 230.377
+1
+17
+14
+Ferrucci, Santino
+D/C/F
+00:01.9334
+ 230.282
+13
+18
+17
+Larson, Kyle
+D/C/F
+00:01.9335
+ 230.270
+7
+19
+06
+Castroneves, Helio
+D/H/F
+00:01.9363
+ 229.937
+7
+20
+21
+Rasmussen, Christian
+D/C/F
+00:01.9370
+ 229.854
+7
+21
+45
+Foster, Louis (R)
+D/H/F
+00:01.9384
+ 229.688
+2
+22
+6
+Siegel, Nolan (R)
+D/C/F
+00:01.9384
+ 229.688
+7
+23
+28
+Ericsson, Marcus
+D/H/F
+00:01.9396
+ 229.545
+1
+24
+30
+DeFrancesco, Devlin
+D/H/F
+00:01.9401
+ 229.486
+7
+25
+24
+Harvey, Jack
+D/C/F
+00:01.9403
+ 229.463
+1
+26
+90
+Ilott, Callum
+D/C/F
+00:01.9413
+ 229.344
+1
+27
+98
+Andretti, Marco
+D/H/F
+00:01.9433
+ 229.108
+4
+28
+77
+Robb, Sting Ray
+D/C/F
+00:01.9465
+ 228.732
+7
+29
+23
+Hunter-Reay, Ryan
+D/C/F
+00:01.9472
+ 228.650
+7
+30
+26
+Herta, Colton
+D/H/F
+00:01.9475
+ 228.614
+4
+31
+15
+Rahal, Graham
+D/H/F
+00:01.9479
+ 228.567
+7
+32
+18
+Veekay, Rinus
+D/H/F
+00:01.9522
+ 228.064
+1
+33
+66
+Armstrong, Marcus
+D/H/F
+00:01.9551
+ 227.726
+5
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:01.9566
+ 227.551
+7
+Section:  Turn 2 Exit
+Length:  0.123674 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 6 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 7 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+3
+McLaughlin, Scott
+D/C/F
+00:02.4024
+ 234.141
+1
+2
+60
+Rosenqvist, Felix
+D/H/F
+00:02.4050
+ 233.888
+1
+3
+5
+O'Ward, Pato
+D/C/F
+00:02.4053
+ 233.859
+1
+4
+4
+Malukas, David
+D/C/F
+00:02.4069
+ 233.703
+8
+5
+2
+Newgarden, Josef
+D/C/F
+00:02.4081
+ 233.587
+2
+6
+10
+Palou, Alex
+D/H/F
+00:02.4087
+ 233.528
+1
+7
+75
+Sato, Takuma
+D/H/F
+00:02.4109
+ 233.315
+7
+8
+12
+Power, Will
+D/C/F
+00:02.4134
+ 233.074
+1
+9
+33
+Carpenter, Ed
+D/C/F
+00:02.4144
+ 232.977
+1
+10
+9
+Dixon, Scott
+D/H/F
+00:02.4145
+ 232.967
+4
+11
+20
+Rossi, Alexander
+D/C/F
+00:02.4156
+ 232.861
+13
+12
+83
+Shwartzman, Robert (R)
+D/C/F
+00:02.4159
+ 232.832
+1
+13
+7
+Lundgaard, Christian
+D/C/F
+00:02.4168
+ 232.746
+8
+14
+8
+Simpson, Kyffin
+D/H/F
+00:02.4191
+ 232.524
+1
+15
+8
+Simpson, Kyffin
+D/H/F
+00:02.4191
+ 232.524
+2
+16
+17
+Larson, Kyle
+D/C/F
+00:02.4200
+ 232.438
+7
+17
+14
+Ferrucci, Santino
+D/C/F
+00:02.4209
+ 232.352
+13
+18
+76
+Daly, Conor
+D/C/F
+00:02.4214
+ 232.304
+7
+19
+06
+Castroneves, Helio
+D/H/F
+00:02.4230
+ 232.150
+7
+20
+21
+Rasmussen, Christian
+D/C/F
+00:02.4235
+ 232.102
+1
+21
+27
+Kirkwood, Kyle
+D/H/F
+00:02.4238
+ 232.074
+1
+22
+45
+Foster, Louis (R)
+D/H/F
+00:02.4262
+ 231.844
+1
+23
+28
+Ericsson, Marcus
+D/H/F
+00:02.4271
+ 231.758
+13
+24
+90
+Ilott, Callum
+D/C/F
+00:02.4290
+ 231.577
+1
+25
+6
+Siegel, Nolan (R)
+D/C/F
+00:02.4302
+ 231.462
+7
+26
+30
+DeFrancesco, Devlin
+D/H/F
+00:02.4352
+ 230.987
+7
+27
+24
+Harvey, Jack
+D/C/F
+00:02.4353
+ 230.978
+7
+28
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.4361
+ 230.902
+7
+29
+98
+Andretti, Marco
+D/H/F
+00:02.4363
+ 230.883
+4
+30
+77
+Robb, Sting Ray
+D/C/F
+00:02.4371
+ 230.807
+7
+31
+15
+Rahal, Graham
+D/H/F
+00:02.4371
+ 230.807
+7
+32
+26
+Herta, Colton
+D/H/F
+00:02.4423
+ 230.316
+4
+33
+18
+Veekay, Rinus
+D/H/F
+00:02.4455
+ 230.014
+8
+34
+66
+Armstrong, Marcus
+D/H/F
+00:02.4457
+ 229.996
+5
+35
+51
+Abel, Jacob (R)
+D/H/F
+00:02.4554
+ 229.087
+7
+Section:  Back Stretch 1
+Length:  0.156250 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 7 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 8 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+60
+Rosenqvist, Felix
+D/H/F
+00:02.3771
+ 236.633
+1
+2
+4
+Malukas, David
+D/C/F
+00:02.3778
+ 236.563
+7
+3
+3
+McLaughlin, Scott
+D/C/F
+00:02.3790
+ 236.444
+1
+4
+2
+Newgarden, Josef
+D/C/F
+00:02.3791
+ 236.434
+2
+5
+75
+Sato, Takuma
+D/H/F
+00:02.3804
+ 236.305
+8
+6
+20
+Rossi, Alexander
+D/C/F
+00:02.3827
+ 236.077
+1
+7
+5
+O'Ward, Pato
+D/C/F
+00:02.3835
+ 235.997
+1
+8
+10
+Palou, Alex
+D/H/F
+00:02.3839
+ 235.958
+2
+9
+9
+Dixon, Scott
+D/H/F
+00:02.3842
+ 235.928
+4
+10
+83
+Shwartzman, Robert (R)
+D/C/F
+00:02.3849
+ 235.859
+1
+11
+12
+Power, Will
+D/C/F
+00:02.3850
+ 235.849
+2
+12
+33
+Carpenter, Ed
+D/C/F
+00:02.3879
+ 235.563
+1
+13
+21
+Rasmussen, Christian
+D/C/F
+00:02.3904
+ 235.316
+1
+14
+14
+Ferrucci, Santino
+D/C/F
+00:02.3905
+ 235.306
+13
+15
+7
+Lundgaard, Christian
+D/C/F
+00:02.3939
+ 234.972
+7
+16
+06
+Castroneves, Helio
+D/H/F
+00:02.3943
+ 234.933
+7
+17
+8
+Simpson, Kyffin
+D/H/F
+00:02.3957
+ 234.796
+4
+18
+28
+Ericsson, Marcus
+D/H/F
+00:02.3972
+ 234.649
+2
+19
+90
+Ilott, Callum
+D/C/F
+00:02.3982
+ 234.551
+1
+20
+76
+Daly, Conor
+D/C/F
+00:02.3985
+ 234.522
+1
+21
+17
+Larson, Kyle
+D/C/F
+00:02.3996
+ 234.414
+7
+22
+45
+Foster, Louis (R)
+D/H/F
+00:02.4014
+ 234.238
+7
+23
+27
+Kirkwood, Kyle
+D/H/F
+00:02.4019
+ 234.190
+10
+24
+30
+DeFrancesco, Devlin
+D/H/F
+00:02.4020
+ 234.180
+1
+25
+77
+Robb, Sting Ray
+D/C/F
+00:02.4052
+ 233.868
+7
+26
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.4079
+ 233.606
+7
+27
+24
+Harvey, Jack
+D/C/F
+00:02.4079
+ 233.606
+7
+28
+15
+Rahal, Graham
+D/H/F
+00:02.4084
+ 233.558
+7
+29
+6
+Siegel, Nolan (R)
+D/C/F
+00:02.4093
+ 233.470
+1
+30
+98
+Andretti, Marco
+D/H/F
+00:02.4100
+ 233.402
+2
+31
+26
+Herta, Colton
+D/H/F
+00:02.4114
+ 233.267
+5
+32
+18
+Veekay, Rinus
+D/H/F
+00:02.4217
+ 232.275
+13
+33
+66
+Armstrong, Marcus
+D/H/F
+00:02.4239
+ 232.064
+6
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:02.4255
+ 231.911
+7
+Section:  Back Stretch 2
+Length:  0.156250 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 8 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 9 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+4
+Malukas, David
+D/C/F
+00:02.3651
+ 237.833
+7
+2
+60
+Rosenqvist, Felix
+D/H/F
+00:02.3664
+ 237.703
+1
+3
+2
+Newgarden, Josef
+D/C/F
+00:02.3666
+ 237.683
+2
+4
+3
+McLaughlin, Scott
+D/C/F
+00:02.3688
+ 237.462
+3
+5
+20
+Rossi, Alexander
+D/C/F
+00:02.3699
+ 237.352
+13
+6
+14
+Ferrucci, Santino
+D/C/F
+00:02.3714
+ 237.202
+13
+7
+10
+Palou, Alex
+D/H/F
+00:02.3716
+ 237.182
+4
+8
+5
+O'Ward, Pato
+D/C/F
+00:02.3720
+ 237.142
+7
+9
+75
+Sato, Takuma
+D/H/F
+00:02.3721
+ 237.132
+8
+10
+9
+Dixon, Scott
+D/H/F
+00:02.3729
+ 237.052
+4
+11
+33
+Carpenter, Ed
+D/C/F
+00:02.3730
+ 237.042
+1
+12
+83
+Shwartzman, Robert (R)
+D/C/F
+00:02.3739
+ 236.952
+2
+13
+12
+Power, Will
+D/C/F
+00:02.3751
+ 236.832
+2
+14
+21
+Rasmussen, Christian
+D/C/F
+00:02.3752
+ 236.822
+1
+15
+7
+Lundgaard, Christian
+D/C/F
+00:02.3781
+ 236.533
+8
+16
+30
+DeFrancesco, Devlin
+D/H/F
+00:02.3818
+ 236.166
+7
+17
+90
+Ilott, Callum
+D/C/F
+00:02.3818
+ 236.166
+1
+18
+28
+Ericsson, Marcus
+D/H/F
+00:02.3827
+ 236.077
+1
+19
+06
+Castroneves, Helio
+D/H/F
+00:02.3827
+ 236.077
+7
+20
+17
+Larson, Kyle
+D/C/F
+00:02.3834
+ 236.007
+9
+21
+76
+Daly, Conor
+D/C/F
+00:02.3848
+ 235.869
+13
+22
+77
+Robb, Sting Ray
+D/C/F
+00:02.3851
+ 235.839
+7
+23
+6
+Siegel, Nolan (R)
+D/C/F
+00:02.3862
+ 235.730
+1
+24
+8
+Simpson, Kyffin
+D/H/F
+00:02.3872
+ 235.632
+1
+25
+45
+Foster, Louis (R)
+D/H/F
+00:02.3880
+ 235.553
+7
+26
+27
+Kirkwood, Kyle
+D/H/F
+00:02.3909
+ 235.267
+10
+27
+15
+Rahal, Graham
+D/H/F
+00:02.3918
+ 235.179
+7
+28
+24
+Harvey, Jack
+D/C/F
+00:02.3931
+ 235.051
+7
+29
+98
+Andretti, Marco
+D/H/F
+00:02.3941
+ 234.953
+2
+30
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.3953
+ 234.835
+7
+31
+26
+Herta, Colton
+D/H/F
+00:02.3973
+ 234.639
+5
+32
+18
+Veekay, Rinus
+D/H/F
+00:02.4045
+ 233.936
+8
+33
+66
+Armstrong, Marcus
+D/H/F
+00:02.4099
+ 233.412
+6
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:02.4180
+ 232.630
+7
+Section:  Back Stretch 3
+Length:  0.156250 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 9 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 10 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+2
+Newgarden, Josef
+D/C/F
+00:02.3611
+ 238.236
+4
+2
+14
+Ferrucci, Santino
+D/C/F
+00:02.3623
+ 238.115
+9
+3
+3
+McLaughlin, Scott
+D/C/F
+00:02.3631
+ 238.035
+3
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:02.3632
+ 238.025
+1
+5
+4
+Malukas, David
+D/C/F
+00:02.3635
+ 237.994
+8
+6
+20
+Rossi, Alexander
+D/C/F
+00:02.3649
+ 237.854
+13
+7
+9
+Dixon, Scott
+D/H/F
+00:02.3653
+ 237.813
+4
+8
+10
+Palou, Alex
+D/H/F
+00:02.3688
+ 237.462
+4
+9
+5
+O'Ward, Pato
+D/C/F
+00:02.3698
+ 237.362
+1
+10
+5
+O'Ward, Pato
+D/C/F
+00:02.3698
+ 237.362
+2
+11
+12
+Power, Will
+D/C/F
+00:02.3710
+ 237.242
+1
+12
+30
+DeFrancesco, Devlin
+D/H/F
+00:02.3711
+ 237.232
+7
+13
+75
+Sato, Takuma
+D/H/F
+00:02.3725
+ 237.092
+10
+14
+33
+Carpenter, Ed
+D/C/F
+00:02.3727
+ 237.072
+9
+15
+28
+Ericsson, Marcus
+D/H/F
+00:02.3735
+ 236.992
+1
+16
+21
+Rasmussen, Christian
+D/C/F
+00:02.3742
+ 236.922
+10
+17
+7
+Lundgaard, Christian
+D/C/F
+00:02.3751
+ 236.832
+4
+18
+83
+Shwartzman, Robert (R)
+D/C/F
+00:02.3755
+ 236.792
+4
+19
+90
+Ilott, Callum
+D/C/F
+00:02.3755
+ 236.792
+2
+20
+6
+Siegel, Nolan (R)
+D/C/F
+00:02.3757
+ 236.772
+1
+21
+77
+Robb, Sting Ray
+D/C/F
+00:02.3758
+ 236.762
+3
+22
+77
+Robb, Sting Ray
+D/C/F
+00:02.3758
+ 236.762
+7
+23
+17
+Larson, Kyle
+D/C/F
+00:02.3764
+ 236.703
+9
+24
+76
+Daly, Conor
+D/C/F
+00:02.3768
+ 236.663
+15
+25
+06
+Castroneves, Helio
+D/H/F
+00:02.3777
+ 236.573
+2
+26
+45
+Foster, Louis (R)
+D/H/F
+00:02.3800
+ 236.345
+7
+27
+24
+Harvey, Jack
+D/C/F
+00:02.3821
+ 236.136
+1
+28
+27
+Kirkwood, Kyle
+D/H/F
+00:02.3843
+ 235.918
+10
+29
+8
+Simpson, Kyffin
+D/H/F
+00:02.3844
+ 235.908
+1
+30
+15
+Rahal, Graham
+D/H/F
+00:02.3855
+ 235.800
+7
+31
+98
+Andretti, Marco
+D/H/F
+00:02.3857
+ 235.780
+19
+32
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.3867
+ 235.681
+3
+33
+26
+Herta, Colton
+D/H/F
+00:02.3894
+ 235.415
+5
+34
+18
+Veekay, Rinus
+D/H/F
+00:02.3968
+ 234.688
+8
+35
+66
+Armstrong, Marcus
+D/H/F
+00:02.3991
+ 234.463
+6
+36
+51
+Abel, Jacob (R)
+D/H/F
+00:02.4147
+ 232.948
+7
+Section:  Back Stretch 4
+Length:  0.156250 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 10 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 11 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Rossi, Alexander
+D/C/F
+00:01.9130
+ 237.015
+13
+2
+2
+Newgarden, Josef
+D/C/F
+00:01.9133
+ 236.978
+1
+3
+2
+Newgarden, Josef
+D/C/F
+00:01.9133
+ 236.978
+4
+4
+4
+Malukas, David
+D/C/F
+00:01.9156
+ 236.693
+7
+5
+14
+Ferrucci, Santino
+D/C/F
+00:01.9165
+ 236.582
+13
+6
+10
+Palou, Alex
+D/H/F
+00:01.9167
+ 236.557
+3
+7
+9
+Dixon, Scott
+D/H/F
+00:01.9169
+ 236.533
+3
+8
+9
+Dixon, Scott
+D/H/F
+00:01.9169
+ 236.533
+4
+9
+60
+Rosenqvist, Felix
+D/H/F
+00:01.9169
+ 236.533
+1
+10
+28
+Ericsson, Marcus
+D/H/F
+00:01.9182
+ 236.372
+1
+11
+5
+O'Ward, Pato
+D/C/F
+00:01.9190
+ 236.274
+2
+12
+3
+McLaughlin, Scott
+D/C/F
+00:01.9196
+ 236.200
+3
+13
+75
+Sato, Takuma
+D/H/F
+00:01.9202
+ 236.126
+10
+14
+7
+Lundgaard, Christian
+D/C/F
+00:01.9206
+ 236.077
+4
+15
+77
+Robb, Sting Ray
+D/C/F
+00:01.9208
+ 236.052
+7
+16
+21
+Rasmussen, Christian
+D/C/F
+00:01.9208
+ 236.052
+7
+17
+76
+Daly, Conor
+D/C/F
+00:01.9209
+ 236.040
+13
+18
+12
+Power, Will
+D/C/F
+00:01.9212
+ 236.003
+1
+19
+6
+Siegel, Nolan (R)
+D/C/F
+00:01.9214
+ 235.979
+1
+20
+45
+Foster, Louis (R)
+D/H/F
+00:01.9231
+ 235.770
+7
+21
+30
+DeFrancesco, Devlin
+D/H/F
+00:01.9236
+ 235.709
+8
+22
+90
+Ilott, Callum
+D/C/F
+00:01.9256
+ 235.464
+9
+23
+17
+Larson, Kyle
+D/C/F
+00:01.9259
+ 235.427
+7
+24
+33
+Carpenter, Ed
+D/C/F
+00:01.9264
+ 235.366
+1
+25
+83
+Shwartzman, Robert (R)
+D/C/F
+00:01.9269
+ 235.305
+3
+26
+24
+Harvey, Jack
+D/C/F
+00:01.9273
+ 235.256
+1
+27
+8
+Simpson, Kyffin
+D/H/F
+00:01.9294
+ 235.000
+8
+28
+06
+Castroneves, Helio
+D/H/F
+00:01.9304
+ 234.878
+2
+29
+26
+Herta, Colton
+D/H/F
+00:01.9323
+ 234.647
+5
+30
+23
+Hunter-Reay, Ryan
+D/C/F
+00:01.9325
+ 234.623
+4
+31
+15
+Rahal, Graham
+D/H/F
+00:01.9326
+ 234.611
+7
+32
+27
+Kirkwood, Kyle
+D/H/F
+00:01.9332
+ 234.538
+1
+33
+98
+Andretti, Marco
+D/H/F
+00:01.9351
+ 234.308
+19
+34
+18
+Veekay, Rinus
+D/H/F
+00:01.9391
+ 233.825
+8
+35
+66
+Armstrong, Marcus
+D/H/F
+00:01.9446
+ 233.163
+5
+36
+51
+Abel, Jacob (R)
+D/H/F
+00:01.9551
+ 231.911
+7
+Section:  Turn 3 Entry
+Length:  0.125947 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 11 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 12 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+4
+Malukas, David
+D/C/F
+00:02.9199
+ 230.005
+7
+2
+9
+Dixon, Scott
+D/H/F
+00:02.9206
+ 229.950
+1
+3
+83
+Shwartzman, Robert (R)
+D/C/F
+00:02.9222
+ 229.824
+1
+4
+10
+Palou, Alex
+D/H/F
+00:02.9233
+ 229.737
+4
+5
+14
+Ferrucci, Santino
+D/C/F
+00:02.9238
+ 229.698
+13
+6
+75
+Sato, Takuma
+D/H/F
+00:02.9246
+ 229.635
+10
+7
+5
+O'Ward, Pato
+D/C/F
+00:02.9251
+ 229.596
+4
+8
+77
+Robb, Sting Ray
+D/C/F
+00:02.9253
+ 229.580
+7
+9
+2
+Newgarden, Josef
+D/C/F
+00:02.9258
+ 229.541
+3
+10
+30
+DeFrancesco, Devlin
+D/H/F
+00:02.9276
+ 229.400
+7
+11
+12
+Power, Will
+D/C/F
+00:02.9281
+ 229.361
+1
+12
+28
+Ericsson, Marcus
+D/H/F
+00:02.9296
+ 229.243
+1
+13
+3
+McLaughlin, Scott
+D/C/F
+00:02.9300
+ 229.212
+3
+14
+20
+Rossi, Alexander
+D/C/F
+00:02.9305
+ 229.173
+13
+15
+76
+Daly, Conor
+D/C/F
+00:02.9314
+ 229.102
+13
+16
+17
+Larson, Kyle
+D/C/F
+00:02.9318
+ 229.071
+7
+17
+60
+Rosenqvist, Felix
+D/H/F
+00:02.9339
+ 228.907
+2
+18
+45
+Foster, Louis (R)
+D/H/F
+00:02.9343
+ 228.876
+7
+19
+7
+Lundgaard, Christian
+D/C/F
+00:02.9360
+ 228.743
+4
+20
+6
+Siegel, Nolan (R)
+D/C/F
+00:02.9372
+ 228.650
+4
+21
+33
+Carpenter, Ed
+D/C/F
+00:02.9376
+ 228.619
+9
+22
+90
+Ilott, Callum
+D/C/F
+00:02.9391
+ 228.502
+7
+23
+24
+Harvey, Jack
+D/C/F
+00:02.9397
+ 228.456
+1
+24
+21
+Rasmussen, Christian
+D/C/F
+00:02.9410
+ 228.355
+7
+25
+27
+Kirkwood, Kyle
+D/H/F
+00:02.9426
+ 228.230
+1
+26
+8
+Simpson, Kyffin
+D/H/F
+00:02.9432
+ 228.184
+1
+27
+06
+Castroneves, Helio
+D/H/F
+00:02.9449
+ 228.052
+7
+28
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.9479
+ 227.820
+1
+29
+98
+Andretti, Marco
+D/H/F
+00:02.9497
+ 227.681
+21
+30
+15
+Rahal, Graham
+D/H/F
+00:02.9510
+ 227.581
+7
+31
+26
+Herta, Colton
+D/H/F
+00:02.9551
+ 227.265
+3
+32
+18
+Veekay, Rinus
+D/H/F
+00:02.9558
+ 227.211
+8
+33
+66
+Armstrong, Marcus
+D/H/F
+00:02.9617
+ 226.759
+5
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:02.9830
+ 225.139
+7
+Section:  Turn 3 Exit
+Length:  0.186553 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 12 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 13 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+83
+Shwartzman, Robert (R)
+D/C/F
+00:02.9304
+ 229.181
+1
+2
+9
+Dixon, Scott
+D/H/F
+00:02.9327
+ 229.001
+1
+3
+10
+Palou, Alex
+D/H/F
+00:02.9331
+ 228.970
+4
+4
+2
+Newgarden, Josef
+D/C/F
+00:02.9335
+ 228.938
+3
+5
+75
+Sato, Takuma
+D/H/F
+00:02.9383
+ 228.564
+8
+6
+4
+Malukas, David
+D/C/F
+00:02.9391
+ 228.502
+7
+7
+77
+Robb, Sting Ray
+D/C/F
+00:02.9391
+ 228.502
+7
+8
+5
+O'Ward, Pato
+D/C/F
+00:02.9395
+ 228.471
+4
+9
+12
+Power, Will
+D/C/F
+00:02.9417
+ 228.300
+15
+10
+60
+Rosenqvist, Felix
+D/H/F
+00:02.9428
+ 228.215
+2
+11
+28
+Ericsson, Marcus
+D/H/F
+00:02.9450
+ 228.044
+1
+12
+20
+Rossi, Alexander
+D/C/F
+00:02.9468
+ 227.905
+1
+13
+14
+Ferrucci, Santino
+D/C/F
+00:02.9476
+ 227.843
+13
+14
+3
+McLaughlin, Scott
+D/C/F
+00:02.9477
+ 227.836
+3
+15
+30
+DeFrancesco, Devlin
+D/H/F
+00:02.9498
+ 227.673
+7
+16
+76
+Daly, Conor
+D/C/F
+00:02.9508
+ 227.596
+14
+17
+45
+Foster, Louis (R)
+D/H/F
+00:02.9540
+ 227.350
+7
+18
+7
+Lundgaard, Christian
+D/C/F
+00:02.9541
+ 227.342
+4
+19
+33
+Carpenter, Ed
+D/C/F
+00:02.9570
+ 227.119
+1
+20
+90
+Ilott, Callum
+D/C/F
+00:02.9583
+ 227.019
+4
+21
+8
+Simpson, Kyffin
+D/H/F
+00:02.9586
+ 226.996
+1
+22
+17
+Larson, Kyle
+D/C/F
+00:02.9598
+ 226.904
+7
+23
+21
+Rasmussen, Christian
+D/C/F
+00:02.9617
+ 226.759
+1
+24
+27
+Kirkwood, Kyle
+D/H/F
+00:02.9623
+ 226.713
+1
+25
+6
+Siegel, Nolan (R)
+D/C/F
+00:02.9645
+ 226.544
+3
+26
+06
+Castroneves, Helio
+D/H/F
+00:02.9646
+ 226.537
+10
+27
+24
+Harvey, Jack
+D/C/F
+00:02.9665
+ 226.392
+1
+28
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.9689
+ 226.209
+1
+29
+26
+Herta, Colton
+D/H/F
+00:02.9728
+ 225.912
+0
+30
+18
+Veekay, Rinus
+D/H/F
+00:02.9738
+ 225.836
+8
+31
+15
+Rahal, Graham
+D/H/F
+00:02.9744
+ 225.790
+7
+32
+66
+Armstrong, Marcus
+D/H/F
+00:02.9782
+ 225.502
+5
+33
+98
+Andretti, Marco
+D/H/F
+00:02.9790
+ 225.442
+19
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:03.0125
+ 222.935
+4
+Section:  Turn 4 Entry
+Length:  0.186553 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 13 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 14 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:01.9738
+ 229.714
+4
+2
+83
+Shwartzman, Robert (R)
+D/C/F
+00:01.9741
+ 229.679
+1
+3
+75
+Sato, Takuma
+D/H/F
+00:01.9776
+ 229.272
+8
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:01.9777
+ 229.261
+2
+5
+4
+Malukas, David
+D/C/F
+00:01.9791
+ 229.099
+7
+6
+9
+Dixon, Scott
+D/H/F
+00:01.9797
+ 229.029
+1
+7
+14
+Ferrucci, Santino
+D/C/F
+00:01.9827
+ 228.683
+13
+8
+30
+DeFrancesco, Devlin
+D/H/F
+00:01.9832
+ 228.625
+7
+9
+2
+Newgarden, Josef
+D/C/F
+00:01.9841
+ 228.521
+3
+10
+3
+McLaughlin, Scott
+D/C/F
+00:01.9844
+ 228.487
+3
+11
+77
+Robb, Sting Ray
+D/C/F
+00:01.9848
+ 228.441
+7
+12
+5
+O'Ward, Pato
+D/C/F
+00:01.9855
+ 228.360
+3
+13
+12
+Power, Will
+D/C/F
+00:01.9869
+ 228.199
+16
+14
+90
+Ilott, Callum
+D/C/F
+00:01.9869
+ 228.199
+10
+15
+20
+Rossi, Alexander
+D/C/F
+00:01.9875
+ 228.130
+13
+16
+45
+Foster, Louis (R)
+D/H/F
+00:01.9881
+ 228.062
+7
+17
+8
+Simpson, Kyffin
+D/H/F
+00:01.9884
+ 228.027
+1
+18
+76
+Daly, Conor
+D/C/F
+00:01.9898
+ 227.867
+1
+19
+27
+Kirkwood, Kyle
+D/H/F
+00:01.9912
+ 227.707
+1
+20
+28
+Ericsson, Marcus
+D/H/F
+00:01.9917
+ 227.649
+8
+21
+33
+Carpenter, Ed
+D/C/F
+00:01.9919
+ 227.626
+1
+22
+21
+Rasmussen, Christian
+D/C/F
+00:01.9938
+ 227.410
+1
+23
+7
+Lundgaard, Christian
+D/C/F
+00:01.9972
+ 227.022
+7
+24
+15
+Rahal, Graham
+D/H/F
+00:01.9979
+ 226.943
+1
+25
+17
+Larson, Kyle
+D/C/F
+00:01.9983
+ 226.897
+7
+26
+06
+Castroneves, Helio
+D/H/F
+00:01.9989
+ 226.829
+7
+27
+26
+Herta, Colton
+D/H/F
+00:01.9991
+ 226.807
+0
+28
+18
+Veekay, Rinus
+D/H/F
+00:02.0005
+ 226.648
+7
+29
+6
+Siegel, Nolan (R)
+D/C/F
+00:02.0023
+ 226.444
+1
+30
+66
+Armstrong, Marcus
+D/H/F
+00:02.0049
+ 226.151
+5
+31
+24
+Harvey, Jack
+D/C/F
+00:02.0051
+ 226.128
+0
+32
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.0061
+ 226.015
+4
+33
+98
+Andretti, Marco
+D/H/F
+00:02.0061
+ 226.015
+19
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:02.0286
+ 223.508
+4
+Section:  Turn 4 Exit
+Length:  0.125947 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 14 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 15 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:01.4322
+ 230.891
+1
+2
+9
+Dixon, Scott
+D/H/F
+00:01.4326
+ 230.826
+1
+3
+60
+Rosenqvist, Felix
+D/H/F
+00:01.4326
+ 230.826
+2
+4
+3
+McLaughlin, Scott
+D/C/F
+00:01.4344
+ 230.537
+0
+5
+75
+Sato, Takuma
+D/H/F
+00:01.4345
+ 230.520
+7
+6
+83
+Shwartzman, Robert (R)
+D/C/F
+00:01.4346
+ 230.504
+1
+7
+2
+Newgarden, Josef
+D/C/F
+00:01.4353
+ 230.392
+1
+8
+4
+Malukas, David
+D/C/F
+00:01.4359
+ 230.296
+7
+9
+12
+Power, Will
+D/C/F
+00:01.4369
+ 230.135
+16
+10
+5
+O'Ward, Pato
+D/C/F
+00:01.4381
+ 229.943
+3
+11
+30
+DeFrancesco, Devlin
+D/H/F
+00:01.4384
+ 229.895
+7
+12
+20
+Rossi, Alexander
+D/C/F
+00:01.4385
+ 229.879
+13
+13
+14
+Ferrucci, Santino
+D/C/F
+00:01.4400
+ 229.640
+13
+14
+8
+Simpson, Kyffin
+D/H/F
+00:01.4411
+ 229.465
+1
+15
+77
+Robb, Sting Ray
+D/C/F
+00:01.4413
+ 229.433
+7
+16
+21
+Rasmussen, Christian
+D/C/F
+00:01.4413
+ 229.433
+0
+17
+76
+Daly, Conor
+D/C/F
+00:01.4414
+ 229.417
+14
+18
+33
+Carpenter, Ed
+D/C/F
+00:01.4417
+ 229.369
+1
+19
+28
+Ericsson, Marcus
+D/H/F
+00:01.4418
+ 229.353
+3
+20
+45
+Foster, Louis (R)
+D/H/F
+00:01.4425
+ 229.242
+7
+21
+26
+Herta, Colton
+D/H/F
+00:01.4436
+ 229.067
+0
+22
+90
+Ilott, Callum
+D/C/F
+00:01.4441
+ 228.988
+10
+23
+27
+Kirkwood, Kyle
+D/H/F
+00:01.4443
+ 228.956
+1
+24
+17
+Larson, Kyle
+D/C/F
+00:01.4478
+ 228.403
+7
+25
+7
+Lundgaard, Christian
+D/C/F
+00:01.4480
+ 228.371
+7
+26
+15
+Rahal, Graham
+D/H/F
+00:01.4483
+ 228.324
+1
+27
+24
+Harvey, Jack
+D/C/F
+00:01.4485
+ 228.292
+0
+28
+06
+Castroneves, Helio
+D/H/F
+00:01.4493
+ 228.166
+7
+29
+18
+Veekay, Rinus
+D/H/F
+00:01.4497
+ 228.103
+7
+30
+23
+Hunter-Reay, Ryan
+D/C/F
+00:01.4516
+ 227.805
+7
+31
+6
+Siegel, Nolan (R)
+D/C/F
+00:01.4524
+ 227.679
+3
+32
+98
+Andretti, Marco
+D/H/F
+00:01.4529
+ 227.601
+19
+33
+66
+Armstrong, Marcus
+D/H/F
+00:01.4534
+ 227.523
+5
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:01.4718
+ 224.678
+4
+Section:  Front Stretch 1
+Length:  0.091856 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 15 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 16 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+60
+Rosenqvist, Felix
+D/H/F
+00:01.4189
+ 233.055
+2
+2
+10
+Palou, Alex
+D/H/F
+00:01.4207
+ 232.760
+1
+3
+83
+Shwartzman, Robert (R)
+D/C/F
+00:01.4215
+ 232.629
+0
+4
+9
+Dixon, Scott
+D/H/F
+00:01.4217
+ 232.596
+1
+5
+3
+McLaughlin, Scott
+D/C/F
+00:01.4220
+ 232.547
+0
+6
+2
+Newgarden, Josef
+D/C/F
+00:01.4229
+ 232.400
+3
+7
+4
+Malukas, David
+D/C/F
+00:01.4231
+ 232.367
+7
+8
+75
+Sato, Takuma
+D/H/F
+00:01.4245
+ 232.139
+7
+9
+30
+DeFrancesco, Devlin
+D/H/F
+00:01.4255
+ 231.976
+7
+10
+5
+O'Ward, Pato
+D/C/F
+00:01.4259
+ 231.911
+3
+11
+20
+Rossi, Alexander
+D/C/F
+00:01.4259
+ 231.911
+12
+12
+12
+Power, Will
+D/C/F
+00:01.4263
+ 231.846
+16
+13
+21
+Rasmussen, Christian
+D/C/F
+00:01.4263
+ 231.846
+0
+14
+28
+Ericsson, Marcus
+D/H/F
+00:01.4267
+ 231.781
+3
+15
+8
+Simpson, Kyffin
+D/H/F
+00:01.4286
+ 231.472
+1
+16
+77
+Robb, Sting Ray
+D/C/F
+00:01.4288
+ 231.440
+1
+17
+14
+Ferrucci, Santino
+D/C/F
+00:01.4290
+ 231.408
+13
+18
+33
+Carpenter, Ed
+D/C/F
+00:01.4292
+ 231.375
+1
+19
+27
+Kirkwood, Kyle
+D/H/F
+00:01.4295
+ 231.327
+1
+20
+76
+Daly, Conor
+D/C/F
+00:01.4299
+ 231.262
+14
+21
+26
+Herta, Colton
+D/H/F
+00:01.4321
+ 230.907
+0
+22
+45
+Foster, Louis (R)
+D/H/F
+00:01.4324
+ 230.858
+1
+23
+7
+Lundgaard, Christian
+D/C/F
+00:01.4340
+ 230.601
+7
+24
+24
+Harvey, Jack
+D/C/F
+00:01.4347
+ 230.488
+0
+25
+17
+Larson, Kyle
+D/C/F
+00:01.4350
+ 230.440
+7
+26
+90
+Ilott, Callum
+D/C/F
+00:01.4351
+ 230.424
+4
+27
+15
+Rahal, Graham
+D/H/F
+00:01.4359
+ 230.296
+1
+28
+18
+Veekay, Rinus
+D/H/F
+00:01.4359
+ 230.296
+7
+29
+23
+Hunter-Reay, Ryan
+D/C/F
+00:01.4365
+ 230.200
+4
+30
+06
+Castroneves, Helio
+D/H/F
+00:01.4386
+ 229.863
+7
+31
+98
+Andretti, Marco
+D/H/F
+00:01.4394
+ 229.736
+21
+32
+6
+Siegel, Nolan (R)
+D/C/F
+00:01.4395
+ 229.720
+3
+33
+66
+Armstrong, Marcus
+D/H/F
+00:01.4449
+ 228.861
+5
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:01.4581
+ 226.789
+4
+Section:  Front Stretch 2
+Length:  0.091856 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 16 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 17 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+83
+Shwartzman, Robert (R)
+D/C/F
+00:01.9588
+ 233.561
+1
+2
+3
+McLaughlin, Scott
+D/C/F
+00:01.9592
+ 233.513
+0
+3
+60
+Rosenqvist, Felix
+D/H/F
+00:01.9594
+ 233.489
+2
+4
+2
+Newgarden, Josef
+D/C/F
+00:01.9604
+ 233.370
+1
+5
+10
+Palou, Alex
+D/H/F
+00:01.9612
+ 233.275
+3
+6
+12
+Power, Will
+D/C/F
+00:01.9627
+ 233.097
+2
+7
+9
+Dixon, Scott
+D/H/F
+00:01.9641
+ 232.931
+1
+8
+5
+O'Ward, Pato
+D/C/F
+00:01.9643
+ 232.907
+3
+9
+21
+Rasmussen, Christian
+D/C/F
+00:01.9648
+ 232.848
+1
+10
+75
+Sato, Takuma
+D/H/F
+00:01.9650
+ 232.824
+1
+11
+4
+Malukas, David
+D/C/F
+00:01.9652
+ 232.800
+7
+12
+20
+Rossi, Alexander
+D/C/F
+00:01.9652
+ 232.800
+12
+13
+30
+DeFrancesco, Devlin
+D/H/F
+00:01.9655
+ 232.765
+7
+14
+28
+Ericsson, Marcus
+D/H/F
+00:01.9659
+ 232.717
+3
+15
+33
+Carpenter, Ed
+D/C/F
+00:01.9689
+ 232.363
+0
+16
+14
+Ferrucci, Santino
+D/C/F
+00:01.9696
+ 232.280
+13
+17
+77
+Robb, Sting Ray
+D/C/F
+00:01.9696
+ 232.280
+1
+18
+27
+Kirkwood, Kyle
+D/H/F
+00:01.9701
+ 232.221
+1
+19
+8
+Simpson, Kyffin
+D/H/F
+00:01.9704
+ 232.186
+1
+20
+76
+Daly, Conor
+D/C/F
+00:01.9721
+ 231.986
+14
+21
+45
+Foster, Louis (R)
+D/H/F
+00:01.9740
+ 231.762
+1
+22
+26
+Herta, Colton
+D/H/F
+00:01.9742
+ 231.739
+0
+23
+7
+Lundgaard, Christian
+D/C/F
+00:01.9762
+ 231.504
+7
+24
+17
+Larson, Kyle
+D/C/F
+00:01.9769
+ 231.422
+7
+25
+90
+Ilott, Callum
+D/C/F
+00:01.9783
+ 231.259
+4
+26
+24
+Harvey, Jack
+D/C/F
+00:01.9788
+ 231.200
+4
+27
+15
+Rahal, Graham
+D/H/F
+00:01.9803
+ 231.025
+1
+28
+6
+Siegel, Nolan (R)
+D/C/F
+00:01.9808
+ 230.967
+3
+29
+18
+Veekay, Rinus
+D/H/F
+00:01.9817
+ 230.862
+7
+30
+23
+Hunter-Reay, Ryan
+D/C/F
+00:01.9822
+ 230.804
+4
+31
+98
+Andretti, Marco
+D/H/F
+00:01.9834
+ 230.664
+21
+32
+06
+Castroneves, Helio
+D/H/F
+00:01.9841
+ 230.583
+0
+33
+66
+Armstrong, Marcus
+D/H/F
+00:01.9929
+ 229.564
+6
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:02.0113
+ 227.464
+4
+Section:  Front Stretch 3
+Length:  0.127083 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 17 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 18 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+83
+Shwartzman, Robert (R)
+D/C/F
+00:01.9346
+ 236.482
+1
+2
+3
+McLaughlin, Scott
+D/C/F
+00:01.9356
+ 236.360
+3
+3
+5
+O'Ward, Pato
+D/C/F
+00:01.9379
+ 236.080
+3
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:01.9391
+ 235.934
+1
+5
+60
+Rosenqvist, Felix
+D/H/F
+00:01.9391
+ 235.934
+4
+6
+2
+Newgarden, Josef
+D/C/F
+00:01.9402
+ 235.800
+3
+7
+28
+Ericsson, Marcus
+D/H/F
+00:01.9419
+ 235.593
+3
+8
+10
+Palou, Alex
+D/H/F
+00:01.9420
+ 235.581
+1
+9
+12
+Power, Will
+D/C/F
+00:01.9420
+ 235.581
+3
+10
+75
+Sato, Takuma
+D/H/F
+00:01.9434
+ 235.412
+1
+11
+21
+Rasmussen, Christian
+D/C/F
+00:01.9439
+ 235.351
+0
+12
+21
+Rasmussen, Christian
+D/C/F
+00:01.9439
+ 235.351
+1
+13
+30
+DeFrancesco, Devlin
+D/H/F
+00:01.9445
+ 235.278
+7
+14
+20
+Rossi, Alexander
+D/C/F
+00:01.9452
+ 235.194
+1
+15
+9
+Dixon, Scott
+D/H/F
+00:01.9456
+ 235.145
+3
+16
+27
+Kirkwood, Kyle
+D/H/F
+00:01.9472
+ 234.952
+1
+17
+8
+Simpson, Kyffin
+D/H/F
+00:01.9474
+ 234.928
+1
+18
+4
+Malukas, David
+D/C/F
+00:01.9482
+ 234.832
+9
+19
+14
+Ferrucci, Santino
+D/C/F
+00:01.9503
+ 234.579
+13
+20
+77
+Robb, Sting Ray
+D/C/F
+00:01.9511
+ 234.482
+1
+21
+7
+Lundgaard, Christian
+D/C/F
+00:01.9515
+ 234.434
+4
+22
+33
+Carpenter, Ed
+D/C/F
+00:01.9518
+ 234.398
+0
+23
+24
+Harvey, Jack
+D/C/F
+00:01.9523
+ 234.338
+4
+24
+76
+Daly, Conor
+D/C/F
+00:01.9531
+ 234.242
+3
+25
+45
+Foster, Louis (R)
+D/H/F
+00:01.9532
+ 234.230
+4
+26
+26
+Herta, Colton
+D/H/F
+00:01.9536
+ 234.182
+0
+27
+90
+Ilott, Callum
+D/C/F
+00:01.9541
+ 234.123
+4
+28
+17
+Larson, Kyle
+D/C/F
+00:01.9549
+ 234.027
+7
+29
+23
+Hunter-Reay, Ryan
+D/C/F
+00:01.9573
+ 233.740
+4
+30
+6
+Siegel, Nolan (R)
+D/C/F
+00:01.9583
+ 233.620
+3
+31
+18
+Veekay, Rinus
+D/H/F
+00:01.9601
+ 233.406
+7
+32
+15
+Rahal, Graham
+D/H/F
+00:01.9605
+ 233.358
+0
+33
+06
+Castroneves, Helio
+D/H/F
+00:01.9616
+ 233.227
+7
+34
+98
+Andretti, Marco
+D/H/F
+00:01.9638
+ 232.966
+21
+35
+66
+Armstrong, Marcus
+D/H/F
+00:01.9752
+ 231.622
+6
+36
+51
+Abel, Jacob (R)
+D/H/F
+00:01.9888
+ 230.038
+4
+Section:  Front Stretch 4
+Length:  0.127083 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 18 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 19 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+3
+McLaughlin, Scott
+D/C/F
+00:04.8198
+ 233.411
+1
+2
+60
+Rosenqvist, Felix
+D/H/F
+00:04.8212
+ 233.344
+2
+3
+83
+Shwartzman, Robert (R)
+D/C/F
+00:04.8265
+ 233.087
+1
+4
+2
+Newgarden, Josef
+D/C/F
+00:04.8284
+ 232.996
+4
+5
+30
+DeFrancesco, Devlin
+D/H/F
+00:04.8313
+ 232.856
+8
+6
+12
+Power, Will
+D/C/F
+00:04.8334
+ 232.755
+4
+7
+28
+Ericsson, Marcus
+D/H/F
+00:04.8335
+ 232.750
+4
+8
+5
+O'Ward, Pato
+D/C/F
+00:04.8339
+ 232.731
+1
+9
+75
+Sato, Takuma
+D/H/F
+00:04.8368
+ 232.591
+1
+10
+4
+Malukas, David
+D/C/F
+00:04.8374
+ 232.562
+4
+11
+10
+Palou, Alex
+D/H/F
+00:04.8382
+ 232.524
+2
+12
+21
+Rasmussen, Christian
+D/C/F
+00:04.8383
+ 232.519
+2
+13
+7
+Lundgaard, Christian
+D/C/F
+00:04.8393
+ 232.471
+9
+14
+8
+Simpson, Kyffin
+D/H/F
+00:04.8397
+ 232.452
+7
+15
+9
+Dixon, Scott
+D/H/F
+00:04.8425
+ 232.317
+4
+16
+27
+Kirkwood, Kyle
+D/H/F
+00:04.8451
+ 232.193
+1
+17
+33
+Carpenter, Ed
+D/C/F
+00:04.8457
+ 232.164
+1
+18
+20
+Rossi, Alexander
+D/C/F
+00:04.8458
+ 232.159
+1
+19
+77
+Robb, Sting Ray
+D/C/F
+00:04.8476
+ 232.073
+4
+20
+17
+Larson, Kyle
+D/C/F
+00:04.8479
+ 232.058
+7
+21
+76
+Daly, Conor
+D/C/F
+00:04.8541
+ 231.762
+3
+22
+6
+Siegel, Nolan (R)
+D/C/F
+00:04.8544
+ 231.748
+4
+23
+24
+Harvey, Jack
+D/C/F
+00:04.8545
+ 231.743
+1
+24
+14
+Ferrucci, Santino
+D/C/F
+00:04.8547
+ 231.733
+13
+25
+90
+Ilott, Callum
+D/C/F
+00:04.8682
+ 231.091
+8
+26
+45
+Foster, Louis (R)
+D/H/F
+00:04.8736
+ 230.835
+8
+27
+06
+Castroneves, Helio
+D/H/F
+00:04.8764
+ 230.702
+7
+28
+23
+Hunter-Reay, Ryan
+D/C/F
+00:04.8776
+ 230.645
+2
+29
+18
+Veekay, Rinus
+D/H/F
+00:04.8804
+ 230.513
+7
+30
+15
+Rahal, Graham
+D/H/F
+00:04.8808
+ 230.494
+2
+31
+98
+Andretti, Marco
+D/H/F
+00:04.8812
+ 230.475
+4
+32
+26
+Herta, Colton
+D/H/F
+00:04.8840
+ 230.343
+4
+33
+66
+Armstrong, Marcus
+D/H/F
+00:04.9129
+ 228.988
+6
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:04.9447
+ 227.516
+7
+Section:  T1 to SS1
+Length:  0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 19 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 20 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+3
+McLaughlin, Scott
+D/C/F
+00:04.8373
+ 232.567
+1
+2
+5
+O'Ward, Pato
+D/C/F
+00:04.8473
+ 232.087
+1
+3
+10
+Palou, Alex
+D/H/F
+00:04.8486
+ 232.025
+2
+4
+33
+Carpenter, Ed
+D/C/F
+00:04.8556
+ 231.691
+1
+5
+75
+Sato, Takuma
+D/H/F
+00:04.8565
+ 231.648
+7
+6
+83
+Shwartzman, Robert (R)
+D/C/F
+00:04.8569
+ 231.628
+1
+7
+60
+Rosenqvist, Felix
+D/H/F
+00:04.8594
+ 231.509
+1
+8
+12
+Power, Will
+D/C/F
+00:04.8617
+ 231.400
+3
+9
+4
+Malukas, David
+D/C/F
+00:04.8623
+ 231.371
+8
+10
+2
+Newgarden, Josef
+D/C/F
+00:04.8636
+ 231.309
+2
+11
+8
+Simpson, Kyffin
+D/H/F
+00:04.8636
+ 231.309
+7
+12
+7
+Lundgaard, Christian
+D/C/F
+00:04.8665
+ 231.172
+8
+13
+9
+Dixon, Scott
+D/H/F
+00:04.8693
+ 231.039
+4
+14
+20
+Rossi, Alexander
+D/C/F
+00:04.8702
+ 230.996
+1
+15
+76
+Daly, Conor
+D/C/F
+00:04.8720
+ 230.911
+7
+16
+14
+Ferrucci, Santino
+D/C/F
+00:04.8734
+ 230.844
+1
+17
+17
+Larson, Kyle
+D/C/F
+00:04.8753
+ 230.754
+7
+18
+28
+Ericsson, Marcus
+D/H/F
+00:04.8758
+ 230.731
+2
+19
+27
+Kirkwood, Kyle
+D/H/F
+00:04.8783
+ 230.612
+1
+20
+30
+DeFrancesco, Devlin
+D/H/F
+00:04.8851
+ 230.291
+7
+21
+21
+Rasmussen, Christian
+D/C/F
+00:04.8866
+ 230.221
+7
+22
+06
+Castroneves, Helio
+D/H/F
+00:04.8916
+ 229.985
+7
+23
+6
+Siegel, Nolan (R)
+D/C/F
+00:04.8916
+ 229.985
+7
+24
+45
+Foster, Louis (R)
+D/H/F
+00:04.8922
+ 229.957
+2
+25
+90
+Ilott, Callum
+D/C/F
+00:04.8927
+ 229.934
+1
+26
+24
+Harvey, Jack
+D/C/F
+00:04.8935
+ 229.896
+1
+27
+77
+Robb, Sting Ray
+D/C/F
+00:04.8962
+ 229.769
+7
+28
+98
+Andretti, Marco
+D/H/F
+00:04.9039
+ 229.409
+4
+29
+26
+Herta, Colton
+D/H/F
+00:04.9130
+ 228.984
+4
+30
+23
+Hunter-Reay, Ryan
+D/C/F
+00:04.9133
+ 228.970
+3
+31
+18
+Veekay, Rinus
+D/H/F
+00:04.9159
+ 228.849
+7
+32
+15
+Rahal, Graham
+D/H/F
+00:04.9203
+ 228.644
+2
+33
+66
+Armstrong, Marcus
+D/H/F
+00:04.9332
+ 228.046
+5
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:04.9396
+ 227.751
+7
+Section:  SS1 to T2
+Length:  0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 20 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 21 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+3
+McLaughlin, Scott
+D/C/F
+00:04.7814
+ 235.286
+1
+2
+60
+Rosenqvist, Felix
+D/H/F
+00:04.7821
+ 235.252
+1
+3
+4
+Malukas, David
+D/C/F
+00:04.7856
+ 235.079
+7
+4
+2
+Newgarden, Josef
+D/C/F
+00:04.7872
+ 235.001
+2
+5
+5
+O'Ward, Pato
+D/C/F
+00:04.7888
+ 234.922
+1
+6
+10
+Palou, Alex
+D/H/F
+00:04.7957
+ 234.584
+2
+7
+75
+Sato, Takuma
+D/H/F
+00:04.7964
+ 234.550
+8
+8
+9
+Dixon, Scott
+D/H/F
+00:04.7987
+ 234.438
+4
+9
+12
+Power, Will
+D/C/F
+00:04.7990
+ 234.423
+2
+10
+20
+Rossi, Alexander
+D/C/F
+00:04.7990
+ 234.423
+13
+11
+83
+Shwartzman, Robert (R)
+D/C/F
+00:04.8008
+ 234.335
+1
+12
+33
+Carpenter, Ed
+D/C/F
+00:04.8023
+ 234.262
+1
+13
+7
+Lundgaard, Christian
+D/C/F
+00:04.8111
+ 233.834
+8
+14
+14
+Ferrucci, Santino
+D/C/F
+00:04.8114
+ 233.819
+13
+15
+21
+Rasmussen, Christian
+D/C/F
+00:04.8139
+ 233.698
+1
+16
+8
+Simpson, Kyffin
+D/H/F
+00:04.8169
+ 233.552
+4
+17
+06
+Castroneves, Helio
+D/H/F
+00:04.8173
+ 233.533
+7
+18
+17
+Larson, Kyle
+D/C/F
+00:04.8196
+ 233.421
+7
+19
+76
+Daly, Conor
+D/C/F
+00:04.8217
+ 233.319
+7
+20
+27
+Kirkwood, Kyle
+D/H/F
+00:04.8258
+ 233.121
+1
+21
+28
+Ericsson, Marcus
+D/H/F
+00:04.8272
+ 233.054
+1
+22
+90
+Ilott, Callum
+D/C/F
+00:04.8272
+ 233.054
+1
+23
+45
+Foster, Louis (R)
+D/H/F
+00:04.8303
+ 232.904
+1
+24
+30
+DeFrancesco, Devlin
+D/H/F
+00:04.8393
+ 232.471
+7
+25
+6
+Siegel, Nolan (R)
+D/C/F
+00:04.8405
+ 232.413
+7
+26
+77
+Robb, Sting Ray
+D/C/F
+00:04.8423
+ 232.327
+7
+27
+24
+Harvey, Jack
+D/C/F
+00:04.8432
+ 232.284
+7
+28
+23
+Hunter-Reay, Ryan
+D/C/F
+00:04.8440
+ 232.245
+7
+29
+15
+Rahal, Graham
+D/H/F
+00:04.8455
+ 232.173
+7
+30
+98
+Andretti, Marco
+D/H/F
+00:04.8468
+ 232.111
+4
+31
+26
+Herta, Colton
+D/H/F
+00:04.8540
+ 231.767
+5
+32
+18
+Veekay, Rinus
+D/H/F
+00:04.8694
+ 231.034
+13
+33
+66
+Armstrong, Marcus
+D/H/F
+00:04.8718
+ 230.920
+6
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:04.8809
+ 230.490
+7
+Section:  T2 to BS2
+Length:  0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 21 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 22 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+2
+Newgarden, Josef
+D/C/F
+00:04.7281
+ 237.938
+1
+2
+4
+Malukas, David
+D/C/F
+00:04.7292
+ 237.883
+7
+3
+60
+Rosenqvist, Felix
+D/H/F
+00:04.7296
+ 237.863
+1
+4
+3
+McLaughlin, Scott
+D/C/F
+00:04.7319
+ 237.747
+3
+5
+20
+Rossi, Alexander
+D/C/F
+00:04.7348
+ 237.602
+13
+6
+14
+Ferrucci, Santino
+D/C/F
+00:04.7359
+ 237.546
+13
+7
+9
+Dixon, Scott
+D/H/F
+00:04.7382
+ 237.431
+4
+8
+10
+Palou, Alex
+D/H/F
+00:04.7404
+ 237.321
+4
+9
+5
+O'Ward, Pato
+D/C/F
+00:04.7442
+ 237.131
+1
+10
+75
+Sato, Takuma
+D/H/F
+00:04.7449
+ 237.096
+8
+11
+12
+Power, Will
+D/C/F
+00:04.7475
+ 236.966
+1
+12
+33
+Carpenter, Ed
+D/C/F
+00:04.7480
+ 236.941
+1
+13
+83
+Shwartzman, Robert (R)
+D/C/F
+00:04.7498
+ 236.851
+2
+14
+21
+Rasmussen, Christian
+D/C/F
+00:04.7500
+ 236.841
+1
+15
+30
+DeFrancesco, Devlin
+D/H/F
+00:04.7529
+ 236.697
+7
+16
+7
+Lundgaard, Christian
+D/C/F
+00:04.7536
+ 236.662
+8
+17
+28
+Ericsson, Marcus
+D/H/F
+00:04.7562
+ 236.533
+1
+18
+90
+Ilott, Callum
+D/C/F
+00:04.7578
+ 236.453
+1
+19
+17
+Larson, Kyle
+D/C/F
+00:04.7598
+ 236.354
+9
+20
+77
+Robb, Sting Ray
+D/C/F
+00:04.7609
+ 236.299
+7
+21
+6
+Siegel, Nolan (R)
+D/C/F
+00:04.7619
+ 236.249
+1
+22
+76
+Daly, Conor
+D/C/F
+00:04.7623
+ 236.230
+13
+23
+06
+Castroneves, Helio
+D/H/F
+00:04.7644
+ 236.126
+7
+24
+45
+Foster, Louis (R)
+D/H/F
+00:04.7680
+ 235.947
+7
+25
+8
+Simpson, Kyffin
+D/H/F
+00:04.7716
+ 235.769
+1
+26
+27
+Kirkwood, Kyle
+D/H/F
+00:04.7752
+ 235.591
+10
+27
+24
+Harvey, Jack
+D/C/F
+00:04.7763
+ 235.537
+1
+28
+15
+Rahal, Graham
+D/H/F
+00:04.7773
+ 235.488
+7
+29
+98
+Andretti, Marco
+D/H/F
+00:04.7801
+ 235.350
+19
+30
+23
+Hunter-Reay, Ryan
+D/C/F
+00:04.7863
+ 235.045
+7
+31
+26
+Herta, Colton
+D/H/F
+00:04.7867
+ 235.025
+5
+32
+18
+Veekay, Rinus
+D/H/F
+00:04.8013
+ 234.311
+8
+33
+66
+Armstrong, Marcus
+D/H/F
+00:04.8090
+ 233.936
+6
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:04.8327
+ 232.788
+7
+Section:  BS2 to T3
+Length:  0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 22 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 23 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+4
+Malukas, David
+D/C/F
+00:04.8355
+ 232.654
+7
+2
+2
+Newgarden, Josef
+D/C/F
+00:04.8400
+ 232.437
+1
+3
+14
+Ferrucci, Santino
+D/C/F
+00:04.8403
+ 232.423
+13
+4
+10
+Palou, Alex
+D/H/F
+00:04.8406
+ 232.408
+3
+5
+9
+Dixon, Scott
+D/H/F
+00:04.8409
+ 232.394
+4
+6
+20
+Rossi, Alexander
+D/C/F
+00:04.8435
+ 232.269
+13
+7
+75
+Sato, Takuma
+D/H/F
+00:04.8448
+ 232.207
+10
+8
+5
+O'Ward, Pato
+D/C/F
+00:04.8455
+ 232.173
+2
+9
+5
+O'Ward, Pato
+D/C/F
+00:04.8455
+ 232.173
+4
+10
+77
+Robb, Sting Ray
+D/C/F
+00:04.8461
+ 232.145
+7
+11
+28
+Ericsson, Marcus
+D/H/F
+00:04.8478
+ 232.063
+1
+12
+12
+Power, Will
+D/C/F
+00:04.8493
+ 231.992
+1
+13
+3
+McLaughlin, Scott
+D/C/F
+00:04.8496
+ 231.977
+3
+14
+83
+Shwartzman, Robert (R)
+D/C/F
+00:04.8510
+ 231.910
+1
+15
+60
+Rosenqvist, Felix
+D/H/F
+00:04.8510
+ 231.910
+1
+16
+76
+Daly, Conor
+D/C/F
+00:04.8523
+ 231.848
+13
+17
+30
+DeFrancesco, Devlin
+D/H/F
+00:04.8523
+ 231.848
+7
+18
+7
+Lundgaard, Christian
+D/C/F
+00:04.8566
+ 231.643
+4
+19
+45
+Foster, Louis (R)
+D/H/F
+00:04.8574
+ 231.605
+7
+20
+17
+Larson, Kyle
+D/C/F
+00:04.8577
+ 231.590
+7
+21
+6
+Siegel, Nolan (R)
+D/C/F
+00:04.8601
+ 231.476
+1
+22
+21
+Rasmussen, Christian
+D/C/F
+00:04.8618
+ 231.395
+7
+23
+33
+Carpenter, Ed
+D/C/F
+00:04.8647
+ 231.257
+9
+24
+90
+Ilott, Callum
+D/C/F
+00:04.8659
+ 231.200
+7
+25
+24
+Harvey, Jack
+D/C/F
+00:04.8670
+ 231.148
+1
+26
+8
+Simpson, Kyffin
+D/H/F
+00:04.8753
+ 230.754
+1
+27
+27
+Kirkwood, Kyle
+D/H/F
+00:04.8758
+ 230.731
+1
+28
+06
+Castroneves, Helio
+D/H/F
+00:04.8781
+ 230.622
+9
+29
+15
+Rahal, Graham
+D/H/F
+00:04.8836
+ 230.362
+7
+30
+23
+Hunter-Reay, Ryan
+D/C/F
+00:04.8839
+ 230.348
+1
+31
+98
+Andretti, Marco
+D/H/F
+00:04.8860
+ 230.249
+21
+32
+26
+Herta, Colton
+D/H/F
+00:04.8910
+ 230.014
+5
+33
+18
+Veekay, Rinus
+D/H/F
+00:04.8949
+ 229.830
+8
+34
+66
+Armstrong, Marcus
+D/H/F
+00:04.9063
+ 229.296
+5
+35
+51
+Abel, Jacob (R)
+D/H/F
+00:04.9381
+ 227.820
+7
+Section:  T3 to SS2
+Length:  0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 23 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 24 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+83
+Shwartzman, Robert (R)
+D/C/F
+00:04.9045
+ 229.380
+1
+2
+10
+Palou, Alex
+D/H/F
+00:04.9069
+ 229.268
+4
+3
+9
+Dixon, Scott
+D/H/F
+00:04.9124
+ 229.012
+1
+4
+75
+Sato, Takuma
+D/H/F
+00:04.9159
+ 228.849
+8
+5
+2
+Newgarden, Josef
+D/C/F
+00:04.9176
+ 228.769
+3
+6
+4
+Malukas, David
+D/C/F
+00:04.9182
+ 228.741
+7
+7
+60
+Rosenqvist, Felix
+D/H/F
+00:04.9205
+ 228.635
+2
+8
+77
+Robb, Sting Ray
+D/C/F
+00:04.9239
+ 228.477
+7
+9
+5
+O'Ward, Pato
+D/C/F
+00:04.9262
+ 228.370
+4
+10
+14
+Ferrucci, Santino
+D/C/F
+00:04.9303
+ 228.180
+13
+11
+12
+Power, Will
+D/C/F
+00:04.9316
+ 228.120
+15
+12
+3
+McLaughlin, Scott
+D/C/F
+00:04.9321
+ 228.097
+3
+13
+30
+DeFrancesco, Devlin
+D/H/F
+00:04.9330
+ 228.055
+7
+14
+20
+Rossi, Alexander
+D/C/F
+00:04.9359
+ 227.921
+13
+15
+28
+Ericsson, Marcus
+D/H/F
+00:04.9389
+ 227.783
+1
+16
+76
+Daly, Conor
+D/C/F
+00:04.9416
+ 227.658
+13
+17
+45
+Foster, Louis (R)
+D/H/F
+00:04.9421
+ 227.635
+7
+18
+8
+Simpson, Kyffin
+D/H/F
+00:04.9470
+ 227.410
+1
+19
+90
+Ilott, Callum
+D/C/F
+00:04.9485
+ 227.341
+10
+20
+33
+Carpenter, Ed
+D/C/F
+00:04.9489
+ 227.323
+1
+21
+27
+Kirkwood, Kyle
+D/H/F
+00:04.9535
+ 227.111
+1
+22
+7
+Lundgaard, Christian
+D/C/F
+00:04.9537
+ 227.102
+4
+23
+21
+Rasmussen, Christian
+D/C/F
+00:04.9555
+ 227.020
+1
+24
+17
+Larson, Kyle
+D/C/F
+00:04.9581
+ 226.901
+7
+25
+06
+Castroneves, Helio
+D/H/F
+00:04.9657
+ 226.553
+7
+26
+6
+Siegel, Nolan (R)
+D/C/F
+00:04.9702
+ 226.348
+3
+27
+26
+Herta, Colton
+D/H/F
+00:04.9719
+ 226.271
+0
+28
+24
+Harvey, Jack
+D/C/F
+00:04.9730
+ 226.221
+1
+29
+23
+Hunter-Reay, Ryan
+D/C/F
+00:04.9758
+ 226.094
+1
+30
+15
+Rahal, Graham
+D/H/F
+00:04.9771
+ 226.035
+1
+31
+18
+Veekay, Rinus
+D/H/F
+00:04.9805
+ 225.880
+8
+32
+66
+Armstrong, Marcus
+D/H/F
+00:04.9831
+ 225.762
+5
+33
+98
+Andretti, Marco
+D/H/F
+00:04.9851
+ 225.672
+19
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:05.0411
+ 223.165
+4
+Section:  SS2 to T4
+Length:  0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 24 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 25 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+60
+Rosenqvist, Felix
+D/H/F
+00:02.8515
+ 231.934
+2
+2
+10
+Palou, Alex
+D/H/F
+00:02.8529
+ 231.820
+1
+3
+9
+Dixon, Scott
+D/H/F
+00:02.8543
+ 231.706
+1
+4
+83
+Shwartzman, Robert (R)
+D/C/F
+00:02.8562
+ 231.552
+1
+5
+3
+McLaughlin, Scott
+D/C/F
+00:02.8564
+ 231.536
+0
+6
+2
+Newgarden, Josef
+D/C/F
+00:02.8585
+ 231.366
+1
+7
+2
+Newgarden, Josef
+D/C/F
+00:02.8585
+ 231.366
+3
+8
+4
+Malukas, David
+D/C/F
+00:02.8590
+ 231.325
+7
+9
+75
+Sato, Takuma
+D/H/F
+00:02.8590
+ 231.325
+7
+10
+12
+Power, Will
+D/C/F
+00:02.8632
+ 230.986
+16
+11
+30
+DeFrancesco, Devlin
+D/H/F
+00:02.8639
+ 230.930
+7
+12
+5
+O'Ward, Pato
+D/C/F
+00:02.8640
+ 230.922
+3
+13
+20
+Rossi, Alexander
+D/C/F
+00:02.8645
+ 230.881
+13
+14
+21
+Rasmussen, Christian
+D/C/F
+00:02.8676
+ 230.632
+0
+15
+28
+Ericsson, Marcus
+D/H/F
+00:02.8685
+ 230.559
+3
+16
+14
+Ferrucci, Santino
+D/C/F
+00:02.8690
+ 230.519
+13
+17
+8
+Simpson, Kyffin
+D/H/F
+00:02.8697
+ 230.463
+1
+18
+77
+Robb, Sting Ray
+D/C/F
+00:02.8703
+ 230.415
+1
+19
+33
+Carpenter, Ed
+D/C/F
+00:02.8709
+ 230.367
+1
+20
+76
+Daly, Conor
+D/C/F
+00:02.8713
+ 230.335
+14
+21
+27
+Kirkwood, Kyle
+D/H/F
+00:02.8738
+ 230.134
+1
+22
+45
+Foster, Louis (R)
+D/H/F
+00:02.8750
+ 230.038
+7
+23
+26
+Herta, Colton
+D/H/F
+00:02.8757
+ 229.982
+0
+24
+90
+Ilott, Callum
+D/C/F
+00:02.8795
+ 229.679
+10
+25
+7
+Lundgaard, Christian
+D/C/F
+00:02.8820
+ 229.479
+7
+26
+17
+Larson, Kyle
+D/C/F
+00:02.8828
+ 229.416
+7
+27
+24
+Harvey, Jack
+D/C/F
+00:02.8832
+ 229.384
+0
+28
+15
+Rahal, Graham
+D/H/F
+00:02.8842
+ 229.304
+1
+29
+18
+Veekay, Rinus
+D/H/F
+00:02.8856
+ 229.193
+7
+30
+06
+Castroneves, Helio
+D/H/F
+00:02.8879
+ 229.011
+7
+31
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.8886
+ 228.955
+4
+32
+6
+Siegel, Nolan (R)
+D/C/F
+00:02.8919
+ 228.694
+3
+33
+98
+Andretti, Marco
+D/H/F
+00:02.8926
+ 228.638
+21
+34
+66
+Armstrong, Marcus
+D/H/F
+00:02.8983
+ 228.189
+5
+35
+51
+Abel, Jacob (R)
+D/H/F
+00:02.9299
+ 225.728
+4
+Section:  T4 to FS
+Length:  0.183711 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 25 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 26 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+83
+Shwartzman, Robert (R)
+D/C/F
+00:03.8934
+ 235.012
+1
+2
+3
+McLaughlin, Scott
+D/C/F
+00:03.8949
+ 234.921
+3
+3
+60
+Rosenqvist, Felix
+D/H/F
+00:03.8995
+ 234.644
+2
+4
+2
+Newgarden, Josef
+D/C/F
+00:03.9010
+ 234.554
+3
+5
+5
+O'Ward, Pato
+D/C/F
+00:03.9022
+ 234.482
+3
+6
+10
+Palou, Alex
+D/H/F
+00:03.9038
+ 234.385
+1
+7
+10
+Palou, Alex
+D/H/F
+00:03.9038
+ 234.385
+3
+8
+12
+Power, Will
+D/C/F
+00:03.9056
+ 234.277
+2
+9
+28
+Ericsson, Marcus
+D/H/F
+00:03.9078
+ 234.146
+3
+10
+75
+Sato, Takuma
+D/H/F
+00:03.9084
+ 234.110
+1
+11
+21
+Rasmussen, Christian
+D/C/F
+00:03.9087
+ 234.092
+1
+12
+30
+DeFrancesco, Devlin
+D/H/F
+00:03.9100
+ 234.014
+7
+13
+9
+Dixon, Scott
+D/H/F
+00:03.9104
+ 233.990
+1
+14
+20
+Rossi, Alexander
+D/C/F
+00:03.9115
+ 233.924
+1
+15
+4
+Malukas, David
+D/C/F
+00:03.9138
+ 233.787
+7
+16
+27
+Kirkwood, Kyle
+D/H/F
+00:03.9173
+ 233.578
+1
+17
+8
+Simpson, Kyffin
+D/H/F
+00:03.9178
+ 233.548
+1
+18
+14
+Ferrucci, Santino
+D/C/F
+00:03.9199
+ 233.423
+13
+19
+33
+Carpenter, Ed
+D/C/F
+00:03.9207
+ 233.375
+0
+20
+77
+Robb, Sting Ray
+D/C/F
+00:03.9207
+ 233.375
+1
+21
+76
+Daly, Conor
+D/C/F
+00:03.9259
+ 233.066
+3
+22
+26
+Herta, Colton
+D/H/F
+00:03.9278
+ 232.953
+0
+23
+7
+Lundgaard, Christian
+D/C/F
+00:03.9289
+ 232.888
+7
+24
+45
+Foster, Louis (R)
+D/H/F
+00:03.9310
+ 232.764
+4
+25
+24
+Harvey, Jack
+D/C/F
+00:03.9311
+ 232.758
+4
+26
+17
+Larson, Kyle
+D/C/F
+00:03.9318
+ 232.716
+7
+27
+90
+Ilott, Callum
+D/C/F
+00:03.9324
+ 232.681
+4
+28
+6
+Siegel, Nolan (R)
+D/C/F
+00:03.9391
+ 232.285
+3
+29
+23
+Hunter-Reay, Ryan
+D/C/F
+00:03.9395
+ 232.261
+4
+30
+15
+Rahal, Graham
+D/H/F
+00:03.9417
+ 232.132
+0
+31
+18
+Veekay, Rinus
+D/H/F
+00:03.9418
+ 232.126
+7
+32
+06
+Castroneves, Helio
+D/H/F
+00:03.9471
+ 231.814
+0
+33
+98
+Andretti, Marco
+D/H/F
+00:03.9472
+ 231.808
+21
+34
+66
+Armstrong, Marcus
+D/H/F
+00:03.9681
+ 230.587
+6
+35
+51
+Abel, Jacob (R)
+D/H/F
+00:04.0001
+ 228.743
+4
+Section:  FS to SF
+Length:  0.254165 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 26 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 27 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+3
+McLaughlin, Scott
+D/C/F
+00:09.6571
+ 232.988
+1
+2
+5
+O'Ward, Pato
+D/C/F
+00:09.6812
+ 232.408
+1
+3
+60
+Rosenqvist, Felix
+D/H/F
+00:09.6824
+ 232.380
+2
+4
+83
+Shwartzman, Robert (R)
+D/C/F
+00:09.6834
+ 232.356
+1
+5
+10
+Palou, Alex
+D/H/F
+00:09.6868
+ 232.274
+2
+6
+75
+Sato, Takuma
+D/H/F
+00:09.6971
+ 232.027
+7
+7
+2
+Newgarden, Josef
+D/C/F
+00:09.7006
+ 231.944
+2
+8
+33
+Carpenter, Ed
+D/C/F
+00:09.7013
+ 231.927
+1
+9
+12
+Power, Will
+D/C/F
+00:09.7031
+ 231.884
+3
+10
+8
+Simpson, Kyffin
+D/H/F
+00:09.7033
+ 231.879
+7
+11
+4
+Malukas, David
+D/C/F
+00:09.7060
+ 231.815
+8
+12
+7
+Lundgaard, Christian
+D/C/F
+00:09.7091
+ 231.741
+8
+13
+9
+Dixon, Scott
+D/H/F
+00:09.7118
+ 231.676
+4
+14
+28
+Ericsson, Marcus
+D/H/F
+00:09.7123
+ 231.664
+2
+15
+20
+Rossi, Alexander
+D/C/F
+00:09.7160
+ 231.576
+1
+16
+17
+Larson, Kyle
+D/C/F
+00:09.7232
+ 231.405
+7
+17
+27
+Kirkwood, Kyle
+D/H/F
+00:09.7234
+ 231.400
+1
+18
+76
+Daly, Conor
+D/C/F
+00:09.7321
+ 231.193
+7
+19
+14
+Ferrucci, Santino
+D/C/F
+00:09.7339
+ 231.150
+1
+20
+30
+DeFrancesco, Devlin
+D/H/F
+00:09.7345
+ 231.136
+1
+21
+21
+Rasmussen, Christian
+D/C/F
+00:09.7376
+ 231.062
+4
+22
+77
+Robb, Sting Ray
+D/C/F
+00:09.7460
+ 230.863
+7
+23
+24
+Harvey, Jack
+D/C/F
+00:09.7480
+ 230.816
+1
+24
+6
+Siegel, Nolan (R)
+D/C/F
+00:09.7632
+ 230.456
+7
+25
+90
+Ilott, Callum
+D/C/F
+00:09.7654
+ 230.405
+1
+26
+45
+Foster, Louis (R)
+D/H/F
+00:09.7669
+ 230.369
+2
+27
+06
+Castroneves, Helio
+D/H/F
+00:09.7680
+ 230.343
+7
+28
+98
+Andretti, Marco
+D/H/F
+00:09.7851
+ 229.941
+4
+29
+23
+Hunter-Reay, Ryan
+D/C/F
+00:09.7927
+ 229.762
+3
+30
+18
+Veekay, Rinus
+D/H/F
+00:09.7963
+ 229.678
+7
+31
+26
+Herta, Colton
+D/H/F
+00:09.7970
+ 229.661
+4
+32
+15
+Rahal, Graham
+D/H/F
+00:09.8011
+ 229.565
+2
+33
+66
+Armstrong, Marcus
+D/H/F
+00:09.8512
+ 228.398
+5
+34
+66
+Armstrong, Marcus
+D/H/F
+00:09.8512
+ 228.398
+6
+35
+51
+Abel, Jacob (R)
+D/H/F
+00:09.8843
+ 227.633
+7
+Section:  T1 to T2
+Length:  0.624998 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 27 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 28 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+60
+Rosenqvist, Felix
+D/H/F
+00:09.5117
+ 236.550
+1
+2
+4
+Malukas, David
+D/C/F
+00:09.5148
+ 236.473
+7
+3
+2
+Newgarden, Josef
+D/C/F
+00:09.5178
+ 236.398
+2
+4
+3
+McLaughlin, Scott
+D/C/F
+00:09.5242
+ 236.240
+3
+5
+5
+O'Ward, Pato
+D/C/F
+00:09.5330
+ 236.021
+1
+6
+20
+Rossi, Alexander
+D/C/F
+00:09.5338
+ 236.002
+13
+7
+9
+Dixon, Scott
+D/H/F
+00:09.5369
+ 235.925
+4
+8
+75
+Sato, Takuma
+D/H/F
+00:09.5413
+ 235.816
+8
+9
+10
+Palou, Alex
+D/H/F
+00:09.5423
+ 235.791
+2
+10
+12
+Power, Will
+D/C/F
+00:09.5470
+ 235.675
+1
+11
+14
+Ferrucci, Santino
+D/C/F
+00:09.5473
+ 235.668
+13
+12
+33
+Carpenter, Ed
+D/C/F
+00:09.5503
+ 235.594
+1
+13
+83
+Shwartzman, Robert (R)
+D/C/F
+00:09.5520
+ 235.552
+1
+14
+21
+Rasmussen, Christian
+D/C/F
+00:09.5639
+ 235.259
+1
+15
+7
+Lundgaard, Christian
+D/C/F
+00:09.5647
+ 235.239
+8
+16
+06
+Castroneves, Helio
+D/H/F
+00:09.5817
+ 234.822
+7
+17
+28
+Ericsson, Marcus
+D/H/F
+00:09.5834
+ 234.780
+1
+18
+90
+Ilott, Callum
+D/C/F
+00:09.5850
+ 234.741
+1
+19
+17
+Larson, Kyle
+D/C/F
+00:09.5851
+ 234.739
+7
+20
+76
+Daly, Conor
+D/C/F
+00:09.5881
+ 234.665
+13
+21
+8
+Simpson, Kyffin
+D/H/F
+00:09.5889
+ 234.646
+1
+22
+30
+DeFrancesco, Devlin
+D/H/F
+00:09.5922
+ 234.565
+7
+23
+45
+Foster, Louis (R)
+D/H/F
+00:09.5989
+ 234.401
+7
+24
+77
+Robb, Sting Ray
+D/C/F
+00:09.6032
+ 234.296
+7
+25
+27
+Kirkwood, Kyle
+D/H/F
+00:09.6039
+ 234.279
+1
+26
+6
+Siegel, Nolan (R)
+D/C/F
+00:09.6190
+ 233.911
+1
+27
+24
+Harvey, Jack
+D/C/F
+00:09.6218
+ 233.843
+1
+28
+15
+Rahal, Graham
+D/H/F
+00:09.6228
+ 233.819
+7
+29
+23
+Hunter-Reay, Ryan
+D/C/F
+00:09.6303
+ 233.637
+7
+30
+98
+Andretti, Marco
+D/H/F
+00:09.6337
+ 233.554
+2
+31
+26
+Herta, Colton
+D/H/F
+00:09.6407
+ 233.385
+5
+32
+18
+Veekay, Rinus
+D/H/F
+00:09.6711
+ 232.651
+8
+33
+66
+Armstrong, Marcus
+D/H/F
+00:09.6808
+ 232.418
+6
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:09.7136
+ 231.633
+7
+Section:  T2 to T3
+Length:  0.624998 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 28 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 29 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:09.7490
+ 230.792
+4
+2
+4
+Malukas, David
+D/C/F
+00:09.7537
+ 230.681
+7
+3
+9
+Dixon, Scott
+D/H/F
+00:09.7554
+ 230.641
+1
+4
+83
+Shwartzman, Robert (R)
+D/C/F
+00:09.7555
+ 230.638
+1
+5
+2
+Newgarden, Josef
+D/C/F
+00:09.7586
+ 230.565
+3
+6
+75
+Sato, Takuma
+D/H/F
+00:09.7664
+ 230.381
+7
+7
+77
+Robb, Sting Ray
+D/C/F
+00:09.7700
+ 230.296
+7
+8
+14
+Ferrucci, Santino
+D/C/F
+00:09.7706
+ 230.282
+13
+9
+5
+O'Ward, Pato
+D/C/F
+00:09.7717
+ 230.256
+4
+10
+60
+Rosenqvist, Felix
+D/H/F
+00:09.7737
+ 230.209
+1
+11
+20
+Rossi, Alexander
+D/C/F
+00:09.7794
+ 230.075
+13
+12
+3
+McLaughlin, Scott
+D/C/F
+00:09.7817
+ 230.021
+3
+13
+30
+DeFrancesco, Devlin
+D/H/F
+00:09.7853
+ 229.936
+7
+14
+28
+Ericsson, Marcus
+D/H/F
+00:09.7867
+ 229.903
+1
+15
+12
+Power, Will
+D/C/F
+00:09.7876
+ 229.882
+1
+16
+76
+Daly, Conor
+D/C/F
+00:09.7939
+ 229.734
+13
+17
+45
+Foster, Louis (R)
+D/H/F
+00:09.7995
+ 229.603
+7
+18
+7
+Lundgaard, Christian
+D/C/F
+00:09.8103
+ 229.350
+4
+19
+33
+Carpenter, Ed
+D/C/F
+00:09.8153
+ 229.233
+9
+20
+17
+Larson, Kyle
+D/C/F
+00:09.8158
+ 229.222
+7
+21
+21
+Rasmussen, Christian
+D/C/F
+00:09.8220
+ 229.077
+1
+22
+8
+Simpson, Kyffin
+D/H/F
+00:09.8223
+ 229.070
+1
+23
+90
+Ilott, Callum
+D/C/F
+00:09.8241
+ 229.028
+10
+24
+27
+Kirkwood, Kyle
+D/H/F
+00:09.8293
+ 228.907
+1
+25
+6
+Siegel, Nolan (R)
+D/C/F
+00:09.8308
+ 228.872
+1
+26
+24
+Harvey, Jack
+D/C/F
+00:09.8400
+ 228.658
+1
+27
+06
+Castroneves, Helio
+D/H/F
+00:09.8484
+ 228.463
+7
+28
+23
+Hunter-Reay, Ryan
+D/C/F
+00:09.8597
+ 228.201
+1
+29
+15
+Rahal, Graham
+D/H/F
+00:09.8654
+ 228.069
+7
+30
+26
+Herta, Colton
+D/H/F
+00:09.8730
+ 227.894
+3
+31
+98
+Andretti, Marco
+D/H/F
+00:09.8740
+ 227.870
+21
+32
+18
+Veekay, Rinus
+D/H/F
+00:09.8754
+ 227.838
+8
+33
+66
+Armstrong, Marcus
+D/H/F
+00:09.8894
+ 227.516
+5
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:09.9898
+ 225.229
+7
+Section:  T3 to T4
+Length:  0.624998 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 29 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 30 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+83
+Shwartzman, Robert (R)
+D/C/F
+00:06.7496
+ 233.548
+1
+2
+60
+Rosenqvist, Felix
+D/H/F
+00:06.7510
+ 233.500
+2
+3
+3
+McLaughlin, Scott
+D/C/F
+00:06.7527
+ 233.441
+0
+4
+10
+Palou, Alex
+D/H/F
+00:06.7567
+ 233.303
+1
+5
+2
+Newgarden, Josef
+D/C/F
+00:06.7595
+ 233.206
+3
+6
+9
+Dixon, Scott
+D/H/F
+00:06.7647
+ 233.027
+1
+7
+5
+O'Ward, Pato
+D/C/F
+00:06.7662
+ 232.975
+3
+8
+75
+Sato, Takuma
+D/H/F
+00:06.7724
+ 232.762
+7
+9
+4
+Malukas, David
+D/C/F
+00:06.7728
+ 232.748
+7
+10
+30
+DeFrancesco, Devlin
+D/H/F
+00:06.7739
+ 232.710
+7
+11
+12
+Power, Will
+D/C/F
+00:06.7740
+ 232.707
+2
+12
+28
+Ericsson, Marcus
+D/H/F
+00:06.7763
+ 232.628
+3
+13
+21
+Rasmussen, Christian
+D/C/F
+00:06.7767
+ 232.614
+0
+14
+20
+Rossi, Alexander
+D/C/F
+00:06.7783
+ 232.559
+12
+15
+8
+Simpson, Kyffin
+D/H/F
+00:06.7875
+ 232.244
+1
+16
+14
+Ferrucci, Santino
+D/C/F
+00:06.7889
+ 232.196
+13
+17
+77
+Robb, Sting Ray
+D/C/F
+00:06.7910
+ 232.124
+1
+18
+27
+Kirkwood, Kyle
+D/H/F
+00:06.7911
+ 232.121
+1
+19
+33
+Carpenter, Ed
+D/C/F
+00:06.7935
+ 232.039
+1
+20
+76
+Daly, Conor
+D/C/F
+00:06.7976
+ 231.899
+14
+21
+26
+Herta, Colton
+D/H/F
+00:06.8035
+ 231.698
+0
+22
+45
+Foster, Louis (R)
+D/H/F
+00:06.8097
+ 231.487
+1
+23
+7
+Lundgaard, Christian
+D/C/F
+00:06.8109
+ 231.446
+7
+24
+17
+Larson, Kyle
+D/C/F
+00:06.8146
+ 231.321
+7
+25
+90
+Ilott, Callum
+D/C/F
+00:06.8151
+ 231.304
+10
+26
+24
+Harvey, Jack
+D/C/F
+00:06.8215
+ 231.087
+4
+27
+15
+Rahal, Graham
+D/H/F
+00:06.8262
+ 230.927
+1
+28
+18
+Veekay, Rinus
+D/H/F
+00:06.8274
+ 230.887
+7
+29
+23
+Hunter-Reay, Ryan
+D/C/F
+00:06.8281
+ 230.863
+4
+30
+6
+Siegel, Nolan (R)
+D/C/F
+00:06.8310
+ 230.765
+3
+31
+06
+Castroneves, Helio
+D/H/F
+00:06.8352
+ 230.623
+7
+32
+98
+Andretti, Marco
+D/H/F
+00:06.8398
+ 230.468
+21
+33
+66
+Armstrong, Marcus
+D/H/F
+00:06.8678
+ 229.529
+5
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:06.9300
+ 227.469
+4
+Section:  T4 to SF
+Length:  0.437877 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 30 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 31 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+3
+McLaughlin, Scott
+D/C/F
+00:00.3427
+ 238.743
+3
+2
+60
+Rosenqvist, Felix
+D/H/F
+00:00.3429
+ 238.604
+2
+3
+28
+Ericsson, Marcus
+D/H/F
+00:00.3433
+ 238.326
+2
+4
+12
+Power, Will
+D/C/F
+00:00.3434
+ 238.256
+2
+5
+83
+Shwartzman, Robert (R)
+D/C/F
+00:00.3436
+ 238.118
+3
+6
+10
+Palou, Alex
+D/H/F
+00:00.3440
+ 237.841
+2
+7
+20
+Rossi, Alexander
+D/C/F
+00:00.3441
+ 237.772
+2
+8
+2
+Newgarden, Josef
+D/C/F
+00:00.3443
+ 237.633
+2
+9
+21
+Rasmussen, Christian
+D/C/F
+00:00.3444
+ 237.564
+2
+10
+30
+DeFrancesco, Devlin
+D/H/F
+00:00.3445
+ 237.496
+10
+11
+75
+Sato, Takuma
+D/H/F
+00:00.3446
+ 237.427
+1
+12
+5
+O'Ward, Pato
+D/C/F
+00:00.3447
+ 237.358
+4
+13
+9
+Dixon, Scott
+D/H/F
+00:00.3447
+ 237.358
+4
+14
+4
+Malukas, David
+D/C/F
+00:00.3449
+ 237.220
+1
+15
+4
+Malukas, David
+D/C/F
+00:00.3449
+ 237.220
+8
+16
+77
+Robb, Sting Ray
+D/C/F
+00:00.3449
+ 237.220
+2
+17
+27
+Kirkwood, Kyle
+D/H/F
+00:00.3449
+ 237.220
+2
+18
+76
+Daly, Conor
+D/C/F
+00:00.3451
+ 237.083
+16
+19
+14
+Ferrucci, Santino
+D/C/F
+00:00.3452
+ 237.014
+14
+20
+8
+Simpson, Kyffin
+D/H/F
+00:00.3453
+ 236.945
+7
+21
+7
+Lundgaard, Christian
+D/C/F
+00:00.3455
+ 236.808
+10
+22
+33
+Carpenter, Ed
+D/C/F
+00:00.3457
+ 236.671
+1
+23
+33
+Carpenter, Ed
+D/C/F
+00:00.3457
+ 236.671
+2
+24
+17
+Larson, Kyle
+D/C/F
+00:00.3458
+ 236.603
+7
+25
+17
+Larson, Kyle
+D/C/F
+00:00.3458
+ 236.603
+8
+26
+90
+Ilott, Callum
+D/C/F
+00:00.3464
+ 236.193
+3
+27
+90
+Ilott, Callum
+D/C/F
+00:00.3464
+ 236.193
+8
+28
+24
+Harvey, Jack
+D/C/F
+00:00.3464
+ 236.193
+3
+29
+45
+Foster, Louis (R)
+D/H/F
+00:00.3465
+ 236.125
+2
+30
+06
+Castroneves, Helio
+D/H/F
+00:00.3467
+ 235.988
+8
+31
+6
+Siegel, Nolan (R)
+D/C/F
+00:00.3467
+ 235.988
+4
+32
+23
+Hunter-Reay, Ryan
+D/C/F
+00:00.3468
+ 235.920
+3
+33
+26
+Herta, Colton
+D/H/F
+00:00.3468
+ 235.920
+1
+34
+98
+Andretti, Marco
+D/H/F
+00:00.3469
+ 235.852
+22
+35
+15
+Rahal, Graham
+D/H/F
+00:00.3471
+ 235.717
+1
+36
+18
+Veekay, Rinus
+D/H/F
+00:00.3473
+ 235.581
+7
+37
+66
+Armstrong, Marcus
+D/H/F
+00:00.3506
+ 233.363
+3
+38
+66
+Armstrong, Marcus
+D/H/F
+00:00.3506
+ 233.363
+6
+39
+51
+Abel, Jacob (R)
+D/H/F
+00:00.3523
+ 232.237
+4
+Section:  T1T to T1
+Length:  0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 31 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 32 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+3
+McLaughlin, Scott
+D/C/F
+00:00.3447
+ 237.358
+1
+2
+10
+Palou, Alex
+D/H/F
+00:00.3448
+ 237.289
+1
+3
+75
+Sato, Takuma
+D/H/F
+00:00.3455
+ 236.808
+7
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:00.3456
+ 236.740
+1
+5
+4
+Malukas, David
+D/C/F
+00:00.3460
+ 236.466
+8
+6
+83
+Shwartzman, Robert (R)
+D/C/F
+00:00.3461
+ 236.398
+1
+7
+20
+Rossi, Alexander
+D/C/F
+00:00.3462
+ 236.329
+19
+8
+5
+O'Ward, Pato
+D/C/F
+00:00.3464
+ 236.193
+7
+9
+9
+Dixon, Scott
+D/H/F
+00:00.3464
+ 236.193
+1
+10
+8
+Simpson, Kyffin
+D/H/F
+00:00.3466
+ 236.057
+7
+11
+76
+Daly, Conor
+D/C/F
+00:00.3467
+ 235.988
+7
+12
+12
+Power, Will
+D/C/F
+00:00.3469
+ 235.852
+13
+13
+33
+Carpenter, Ed
+D/C/F
+00:00.3469
+ 235.852
+7
+14
+2
+Newgarden, Josef
+D/C/F
+00:00.3471
+ 235.717
+2
+15
+7
+Lundgaard, Christian
+D/C/F
+00:00.3471
+ 235.717
+8
+16
+17
+Larson, Kyle
+D/C/F
+00:00.3474
+ 235.513
+7
+17
+06
+Castroneves, Helio
+D/H/F
+00:00.3475
+ 235.445
+7
+18
+27
+Kirkwood, Kyle
+D/H/F
+00:00.3477
+ 235.310
+1
+19
+45
+Foster, Louis (R)
+D/H/F
+00:00.3479
+ 235.174
+7
+20
+14
+Ferrucci, Santino
+D/C/F
+00:00.3480
+ 235.107
+1
+21
+30
+DeFrancesco, Devlin
+D/H/F
+00:00.3483
+ 234.904
+7
+22
+28
+Ericsson, Marcus
+D/H/F
+00:00.3484
+ 234.837
+7
+23
+21
+Rasmussen, Christian
+D/C/F
+00:00.3485
+ 234.770
+7
+24
+24
+Harvey, Jack
+D/C/F
+00:00.3488
+ 234.568
+1
+25
+6
+Siegel, Nolan (R)
+D/C/F
+00:00.3489
+ 234.500
+7
+26
+23
+Hunter-Reay, Ryan
+D/C/F
+00:00.3489
+ 234.500
+7
+27
+98
+Andretti, Marco
+D/H/F
+00:00.3490
+ 234.433
+4
+28
+90
+Ilott, Callum
+D/C/F
+00:00.3492
+ 234.299
+1
+29
+15
+Rahal, Graham
+D/H/F
+00:00.3495
+ 234.098
+7
+30
+26
+Herta, Colton
+D/H/F
+00:00.3499
+ 233.830
+5
+31
+77
+Robb, Sting Ray
+D/C/F
+00:00.3501
+ 233.697
+7
+32
+18
+Veekay, Rinus
+D/H/F
+00:00.3506
+ 233.363
+8
+33
+66
+Armstrong, Marcus
+D/H/F
+00:00.3516
+ 232.700
+6
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:00.3519
+ 232.501
+7
+Section:  T2T to T2
+Length:  0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 32 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 33 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Rossi, Alexander
+D/C/F
+00:00.3414
+ 239.652
+13
+2
+2
+Newgarden, Josef
+D/C/F
+00:00.3416
+ 239.512
+4
+3
+14
+Ferrucci, Santino
+D/C/F
+00:00.3418
+ 239.372
+9
+4
+4
+Malukas, David
+D/C/F
+00:00.3419
+ 239.302
+8
+5
+3
+McLaughlin, Scott
+D/C/F
+00:00.3423
+ 239.022
+3
+6
+9
+Dixon, Scott
+D/H/F
+00:00.3424
+ 238.952
+4
+7
+33
+Carpenter, Ed
+D/C/F
+00:00.3424
+ 238.952
+9
+8
+10
+Palou, Alex
+D/H/F
+00:00.3425
+ 238.882
+3
+9
+60
+Rosenqvist, Felix
+D/H/F
+00:00.3427
+ 238.743
+1
+10
+5
+O'Ward, Pato
+D/C/F
+00:00.3431
+ 238.465
+2
+11
+21
+Rasmussen, Christian
+D/C/F
+00:00.3433
+ 238.326
+9
+12
+28
+Ericsson, Marcus
+D/H/F
+00:00.3435
+ 238.187
+1
+13
+30
+DeFrancesco, Devlin
+D/H/F
+00:00.3435
+ 238.187
+7
+14
+77
+Robb, Sting Ray
+D/C/F
+00:00.3435
+ 238.187
+7
+15
+75
+Sato, Takuma
+D/H/F
+00:00.3436
+ 238.118
+10
+16
+90
+Ilott, Callum
+D/C/F
+00:00.3436
+ 238.118
+10
+17
+12
+Power, Will
+D/C/F
+00:00.3438
+ 237.979
+1
+18
+12
+Power, Will
+D/C/F
+00:00.3438
+ 237.979
+10
+19
+7
+Lundgaard, Christian
+D/C/F
+00:00.3439
+ 237.910
+4
+20
+83
+Shwartzman, Robert (R)
+D/C/F
+00:00.3440
+ 237.841
+4
+21
+6
+Siegel, Nolan (R)
+D/C/F
+00:00.3440
+ 237.841
+1
+22
+76
+Daly, Conor
+D/C/F
+00:00.3441
+ 237.772
+16
+23
+06
+Castroneves, Helio
+D/H/F
+00:00.3444
+ 237.564
+2
+24
+06
+Castroneves, Helio
+D/H/F
+00:00.3444
+ 237.564
+8
+25
+45
+Foster, Louis (R)
+D/H/F
+00:00.3445
+ 237.496
+7
+26
+17
+Larson, Kyle
+D/C/F
+00:00.3446
+ 237.427
+9
+27
+17
+Larson, Kyle
+D/C/F
+00:00.3446
+ 237.427
+10
+28
+23
+Hunter-Reay, Ryan
+D/C/F
+00:00.3447
+ 237.358
+4
+29
+24
+Harvey, Jack
+D/C/F
+00:00.3447
+ 237.358
+1
+30
+27
+Kirkwood, Kyle
+D/H/F
+00:00.3448
+ 237.289
+1
+31
+8
+Simpson, Kyffin
+D/H/F
+00:00.3452
+ 237.014
+4
+32
+15
+Rahal, Graham
+D/H/F
+00:00.3457
+ 236.671
+7
+33
+98
+Andretti, Marco
+D/H/F
+00:00.3457
+ 236.671
+19
+34
+26
+Herta, Colton
+D/H/F
+00:00.3461
+ 236.398
+4
+35
+18
+Veekay, Rinus
+D/H/F
+00:00.3469
+ 235.852
+8
+36
+66
+Armstrong, Marcus
+D/H/F
+00:00.3478
+ 235.242
+5
+37
+66
+Armstrong, Marcus
+D/H/F
+00:00.3478
+ 235.242
+6
+38
+51
+Abel, Jacob (R)
+D/H/F
+00:00.3494
+ 234.165
+7
+Section:  T3T to T3
+Length:  0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 33 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 34 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:00.3493
+ 234.232
+4
+2
+83
+Shwartzman, Robert (R)
+D/C/F
+00:00.3494
+ 234.165
+1
+3
+75
+Sato, Takuma
+D/H/F
+00:00.3500
+ 233.763
+8
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:00.3503
+ 233.563
+2
+5
+4
+Malukas, David
+D/C/F
+00:00.3508
+ 233.230
+7
+6
+9
+Dixon, Scott
+D/H/F
+00:00.3509
+ 233.164
+1
+7
+30
+DeFrancesco, Devlin
+D/H/F
+00:00.3509
+ 233.164
+7
+8
+3
+McLaughlin, Scott
+D/C/F
+00:00.3510
+ 233.097
+0
+9
+5
+O'Ward, Pato
+D/C/F
+00:00.3512
+ 232.965
+3
+10
+14
+Ferrucci, Santino
+D/C/F
+00:00.3513
+ 232.898
+13
+11
+12
+Power, Will
+D/C/F
+00:00.3515
+ 232.766
+13
+12
+2
+Newgarden, Josef
+D/C/F
+00:00.3516
+ 232.700
+4
+13
+20
+Rossi, Alexander
+D/C/F
+00:00.3516
+ 232.700
+12
+14
+90
+Ilott, Callum
+D/C/F
+00:00.3516
+ 232.700
+10
+15
+76
+Daly, Conor
+D/C/F
+00:00.3517
+ 232.633
+15
+16
+8
+Simpson, Kyffin
+D/H/F
+00:00.3519
+ 232.501
+1
+17
+77
+Robb, Sting Ray
+D/C/F
+00:00.3522
+ 232.303
+3
+18
+27
+Kirkwood, Kyle
+D/H/F
+00:00.3523
+ 232.237
+1
+19
+45
+Foster, Louis (R)
+D/H/F
+00:00.3524
+ 232.171
+7
+20
+28
+Ericsson, Marcus
+D/H/F
+00:00.3527
+ 231.974
+3
+21
+33
+Carpenter, Ed
+D/C/F
+00:00.3527
+ 231.974
+9
+22
+21
+Rasmussen, Christian
+D/C/F
+00:00.3533
+ 231.580
+0
+23
+06
+Castroneves, Helio
+D/H/F
+00:00.3535
+ 231.449
+7
+24
+7
+Lundgaard, Christian
+D/C/F
+00:00.3536
+ 231.383
+7
+25
+15
+Rahal, Graham
+D/H/F
+00:00.3537
+ 231.318
+1
+26
+17
+Larson, Kyle
+D/C/F
+00:00.3539
+ 231.187
+7
+27
+18
+Veekay, Rinus
+D/H/F
+00:00.3542
+ 230.992
+7
+28
+24
+Harvey, Jack
+D/C/F
+00:00.3543
+ 230.926
+6
+29
+26
+Herta, Colton
+D/H/F
+00:00.3543
+ 230.926
+3
+30
+23
+Hunter-Reay, Ryan
+D/C/F
+00:00.3544
+ 230.861
+1
+31
+98
+Andretti, Marco
+D/H/F
+00:00.3545
+ 230.796
+13
+32
+6
+Siegel, Nolan (R)
+D/C/F
+00:00.3549
+ 230.536
+1
+33
+66
+Armstrong, Marcus
+D/H/F
+00:00.3549
+ 230.536
+5
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:00.3585
+ 228.221
+4
+Section:  T4T to T4
+Length:  0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 34 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 35 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+83
+Shwartzman, Robert (R)
+D/C/F
+00:00.4715
+ 237.875
+5
+2
+3
+McLaughlin, Scott
+D/C/F
+00:00.4716
+ 237.824
+4
+3
+5
+O'Ward, Pato
+D/C/F
+00:00.4720
+ 237.623
+4
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:00.4725
+ 237.371
+2
+5
+2
+Newgarden, Josef
+D/C/F
+00:00.4730
+ 237.121
+4
+6
+10
+Palou, Alex
+D/H/F
+00:00.4731
+ 237.070
+4
+7
+28
+Ericsson, Marcus
+D/H/F
+00:00.4731
+ 237.070
+4
+8
+12
+Power, Will
+D/C/F
+00:00.4734
+ 236.920
+4
+9
+75
+Sato, Takuma
+D/H/F
+00:00.4735
+ 236.870
+2
+10
+20
+Rossi, Alexander
+D/C/F
+00:00.4737
+ 236.770
+2
+11
+21
+Rasmussen, Christian
+D/C/F
+00:00.4738
+ 236.720
+2
+12
+30
+DeFrancesco, Devlin
+D/H/F
+00:00.4741
+ 236.570
+8
+13
+9
+Dixon, Scott
+D/H/F
+00:00.4742
+ 236.520
+4
+14
+77
+Robb, Sting Ray
+D/C/F
+00:00.4744
+ 236.421
+4
+15
+27
+Kirkwood, Kyle
+D/H/F
+00:00.4744
+ 236.421
+2
+16
+4
+Malukas, David
+D/C/F
+00:00.4752
+ 236.023
+10
+17
+7
+Lundgaard, Christian
+D/C/F
+00:00.4752
+ 236.023
+4
+18
+8
+Simpson, Kyffin
+D/H/F
+00:00.4752
+ 236.023
+2
+19
+76
+Daly, Conor
+D/C/F
+00:00.4754
+ 235.923
+4
+20
+24
+Harvey, Jack
+D/C/F
+00:00.4754
+ 235.923
+5
+21
+33
+Carpenter, Ed
+D/C/F
+00:00.4758
+ 235.725
+2
+22
+33
+Carpenter, Ed
+D/C/F
+00:00.4758
+ 235.725
+7
+23
+14
+Ferrucci, Santino
+D/C/F
+00:00.4758
+ 235.725
+14
+24
+26
+Herta, Colton
+D/H/F
+00:00.4761
+ 235.577
+1
+25
+17
+Larson, Kyle
+D/C/F
+00:00.4763
+ 235.478
+8
+26
+23
+Hunter-Reay, Ryan
+D/C/F
+00:00.4769
+ 235.181
+5
+27
+90
+Ilott, Callum
+D/C/F
+00:00.4771
+ 235.083
+4
+28
+6
+Siegel, Nolan (R)
+D/C/F
+00:00.4771
+ 235.083
+4
+29
+06
+Castroneves, Helio
+D/H/F
+00:00.4777
+ 234.788
+8
+30
+15
+Rahal, Graham
+D/H/F
+00:00.4777
+ 234.788
+1
+31
+45
+Foster, Louis (R)
+D/H/F
+00:00.4778
+ 234.738
+4
+32
+18
+Veekay, Rinus
+D/H/F
+00:00.4780
+ 234.640
+8
+33
+98
+Andretti, Marco
+D/H/F
+00:00.4789
+ 234.199
+5
+34
+98
+Andretti, Marco
+D/H/F
+00:00.4789
+ 234.199
+22
+35
+98
+Andretti, Marco
+D/H/F
+00:00.4789
+ 234.199
+23
+36
+66
+Armstrong, Marcus
+D/H/F
+00:00.4821
+ 232.645
+6
+37
+66
+Armstrong, Marcus
+D/H/F
+00:00.4821
+ 232.645
+7
+38
+51
+Abel, Jacob (R)
+D/H/F
+00:00.4851
+ 231.206
+1
+Section:  SF to SFT
+Length:  0.031155 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 35 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 36 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:08.1035
+ 117.794
+5
+2
+26
+Herta, Colton
+D/H/F
+00:08.2579
+ 115.592
+7
+3
+8
+Simpson, Kyffin
+D/H/F
+00:08.2864
+ 115.194
+5
+4
+14
+Ferrucci, Santino
+D/C/F
+00:08.3113
+ 114.849
+11
+5
+20
+Rossi, Alexander
+D/C/F
+00:08.3248
+ 114.663
+11
+6
+66
+Armstrong, Marcus
+D/H/F
+00:08.3589
+ 114.195
+3
+7
+33
+Carpenter, Ed
+D/C/F
+00:08.4085
+ 113.521
+5
+8
+06
+Castroneves, Helio
+D/H/F
+00:08.4249
+ 113.300
+11
+9
+7
+Lundgaard, Christian
+D/C/F
+00:08.4825
+ 112.531
+5
+10
+4
+Malukas, David
+D/C/F
+00:08.5055
+ 112.227
+5
+11
+76
+Daly, Conor
+D/C/F
+00:08.5131
+ 112.126
+11
+12
+27
+Kirkwood, Kyle
+D/H/F
+00:08.5750
+ 111.317
+5
+13
+6
+Siegel, Nolan (R)
+D/C/F
+00:08.6145
+ 110.807
+5
+14
+17
+Larson, Kyle
+D/C/F
+00:08.6376
+ 110.510
+11
+15
+51
+Abel, Jacob (R)
+D/H/F
+00:08.7513
+ 109.074
+5
+16
+21
+Rasmussen, Christian
+D/C/F
+00:08.9648
+ 106.477
+5
+17
+98
+Andretti, Marco
+D/H/F
+00:09.0375
+ 105.620
+11
+18
+83
+Shwartzman, Robert (R)
+D/C/F
+00:09.0751
+ 105.183
+5
+19
+24
+Harvey, Jack
+D/C/F
+00:09.1087
+ 104.795
+11
+20
+30
+DeFrancesco, Devlin
+D/H/F
+00:09.1457
+ 104.371
+5
+21
+2
+Newgarden, Josef
+D/C/F
+00:09.2140
+ 103.597
+5
+22
+45
+Foster, Louis (R)
+D/H/F
+00:09.2153
+ 103.582
+11
+23
+15
+Rahal, Graham
+D/H/F
+00:09.2504
+ 103.189
+11
+24
+12
+Power, Will
+D/C/F
+00:09.3682
+ 101.892
+17
+25
+23
+Hunter-Reay, Ryan
+D/C/F
+00:09.3883
+ 101.674
+5
+26
+5
+O'Ward, Pato
+D/C/F
+00:09.4559
+ 100.947
+8
+27
+60
+Rosenqvist, Felix
+D/H/F
+00:09.5018
+ 100.459
+10
+28
+77
+Robb, Sting Ray
+D/C/F
+00:09.5248
+ 100.217
+11
+29
+3
+McLaughlin, Scott
+D/C/F
+00:09.6322
+  99.099
+5
+30
+90
+Ilott, Callum
+D/C/F
+00:09.6821
+  98.588
+11
+31
+9
+Dixon, Scott
+D/H/F
+00:09.9810
+  95.636
+8
+32
+18
+Veekay, Rinus
+D/H/F
+00:10.4107
+  91.689
+5
+33
+28
+Ericsson, Marcus
+D/H/F
+00:10.9649
+  87.054
+5
+34
+75
+Sato, Takuma
+D/H/F
+00:12.8716
+  74.159
+11
+Section:  PT3 to PSS2
+Length:  0.265151 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 36 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 37 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:07.9809
+ 119.604
+5
+2
+66
+Armstrong, Marcus
+D/H/F
+00:08.2794
+ 115.291
+3
+3
+26
+Herta, Colton
+D/H/F
+00:08.5148
+ 112.104
+7
+4
+7
+Lundgaard, Christian
+D/C/F
+00:08.5412
+ 111.758
+11
+5
+8
+Simpson, Kyffin
+D/H/F
+00:08.6030
+ 110.955
+5
+6
+6
+Siegel, Nolan (R)
+D/C/F
+00:08.7111
+ 109.578
+5
+7
+98
+Andretti, Marco
+D/H/F
+00:08.7248
+ 109.406
+23
+8
+14
+Ferrucci, Santino
+D/C/F
+00:08.8069
+ 108.386
+11
+9
+20
+Rossi, Alexander
+D/C/F
+00:08.8278
+ 108.129
+11
+10
+06
+Castroneves, Helio
+D/H/F
+00:08.8822
+ 107.467
+11
+11
+76
+Daly, Conor
+D/C/F
+00:08.8849
+ 107.434
+11
+12
+4
+Malukas, David
+D/C/F
+00:08.8982
+ 107.274
+5
+13
+51
+Abel, Jacob (R)
+D/H/F
+00:09.0054
+ 105.997
+5
+14
+33
+Carpenter, Ed
+D/C/F
+00:09.0403
+ 105.588
+5
+15
+24
+Harvey, Jack
+D/C/F
+00:09.0977
+ 104.921
+11
+16
+17
+Larson, Kyle
+D/C/F
+00:09.2409
+ 103.296
+11
+17
+15
+Rahal, Graham
+D/H/F
+00:09.4446
+ 101.068
+11
+18
+5
+O'Ward, Pato
+D/C/F
+00:09.7565
+  97.837
+8
+19
+83
+Shwartzman, Robert (R)
+D/C/F
+00:09.7860
+  97.542
+5
+20
+27
+Kirkwood, Kyle
+D/H/F
+00:09.8188
+  97.216
+5
+21
+23
+Hunter-Reay, Ryan
+D/C/F
+00:09.8623
+  96.787
+5
+22
+21
+Rasmussen, Christian
+D/C/F
+00:10.1683
+  93.874
+5
+23
+60
+Rosenqvist, Felix
+D/H/F
+00:10.1777
+  93.788
+10
+24
+45
+Foster, Louis (R)
+D/H/F
+00:10.2315
+  93.295
+5
+25
+12
+Power, Will
+D/C/F
+00:10.3745
+  92.009
+17
+26
+2
+Newgarden, Josef
+D/C/F
+00:10.3972
+  91.808
+5
+27
+90
+Ilott, Callum
+D/C/F
+00:10.3976
+  91.804
+11
+28
+77
+Robb, Sting Ray
+D/C/F
+00:10.4580
+  91.274
+11
+29
+3
+McLaughlin, Scott
+D/C/F
+00:10.7471
+  88.819
+5
+30
+30
+DeFrancesco, Devlin
+D/H/F
+00:10.7490
+  88.803
+5
+31
+9
+Dixon, Scott
+D/H/F
+00:11.1625
+  85.513
+8
+32
+28
+Ericsson, Marcus
+D/H/F
+00:11.3283
+  84.262
+5
+33
+18
+Veekay, Rinus
+D/H/F
+00:12.1059
+  78.849
+5
+34
+75
+Sato, Takuma
+D/H/F
+00:13.7238
+  69.554
+5
+Section:  PSS2 to PT4
+Length:  0.265151 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 37 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 38 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+8
+Simpson, Kyffin
+D/H/F
+00:06.8247
+  96.907
+10
+2
+7
+Lundgaard, Christian
+D/C/F
+00:06.9537
+  95.109
+11
+3
+98
+Andretti, Marco
+D/H/F
+00:07.0942
+  93.225
+23
+4
+66
+Armstrong, Marcus
+D/H/F
+00:07.2345
+  91.417
+3
+5
+14
+Ferrucci, Santino
+D/C/F
+00:07.2557
+  91.150
+15
+6
+26
+Herta, Colton
+D/H/F
+00:07.3201
+  90.348
+7
+7
+06
+Castroneves, Helio
+D/H/F
+00:07.3408
+  90.094
+11
+8
+10
+Palou, Alex
+D/H/F
+00:07.4229
+  89.097
+5
+9
+23
+Hunter-Reay, Ryan
+D/C/F
+00:07.5276
+  87.858
+5
+10
+76
+Daly, Conor
+D/C/F
+00:07.5377
+  87.740
+11
+11
+51
+Abel, Jacob (R)
+D/H/F
+00:07.5831
+  87.215
+5
+12
+33
+Carpenter, Ed
+D/C/F
+00:07.6931
+  85.968
+5
+13
+6
+Siegel, Nolan (R)
+D/C/F
+00:07.7223
+  85.643
+11
+14
+15
+Rahal, Graham
+D/H/F
+00:07.7305
+  85.552
+11
+15
+12
+Power, Will
+D/C/F
+00:08.0239
+  82.424
+17
+16
+4
+Malukas, David
+D/C/F
+00:08.1002
+  81.647
+11
+17
+24
+Harvey, Jack
+D/C/F
+00:08.1056
+  81.593
+5
+18
+5
+O'Ward, Pato
+D/C/F
+00:08.1779
+  80.872
+8
+19
+17
+Larson, Kyle
+D/C/F
+00:08.2303
+  80.357
+11
+20
+20
+Rossi, Alexander
+D/C/F
+00:08.2361
+  80.300
+17
+21
+83
+Shwartzman, Robert (R)
+D/C/F
+00:08.2604
+  80.064
+5
+22
+60
+Rosenqvist, Felix
+D/H/F
+00:08.3492
+  79.212
+10
+23
+30
+DeFrancesco, Devlin
+D/H/F
+00:08.4528
+  78.241
+5
+24
+45
+Foster, Louis (R)
+D/H/F
+00:08.4714
+  78.070
+5
+25
+90
+Ilott, Callum
+D/C/F
+00:08.5622
+  77.242
+11
+26
+9
+Dixon, Scott
+D/H/F
+00:08.8033
+  75.126
+5
+27
+77
+Robb, Sting Ray
+D/C/F
+00:08.8709
+  74.554
+11
+28
+2
+Newgarden, Josef
+D/C/F
+00:09.0213
+  73.311
+5
+29
+21
+Rasmussen, Christian
+D/C/F
+00:09.0415
+  73.147
+5
+30
+27
+Kirkwood, Kyle
+D/H/F
+00:09.2247
+  71.694
+5
+31
+3
+McLaughlin, Scott
+D/C/F
+00:09.6171
+  68.769
+5
+32
+18
+Veekay, Rinus
+D/H/F
+00:09.6508
+  68.529
+11
+33
+28
+Ericsson, Marcus
+D/H/F
+00:09.6650
+  68.428
+5
+34
+75
+Sato, Takuma
+D/H/F
+00:10.8221
+  61.112
+11
+Section:  PT4 to PI
+Length:  0.183711 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 38 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 39 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+33
+Carpenter, Ed
+D/C/F
+00:01.6857
+  76.647
+11
+2
+8
+Simpson, Kyffin
+D/H/F
+00:01.7174
+  75.232
+10
+3
+23
+Hunter-Reay, Ryan
+D/C/F
+00:01.8863
+  68.496
+5
+4
+7
+Lundgaard, Christian
+D/C/F
+00:01.9170
+  67.399
+11
+5
+30
+DeFrancesco, Devlin
+D/H/F
+00:01.9447
+  66.439
+5
+6
+98
+Andretti, Marco
+D/H/F
+00:02.0319
+  63.588
+17
+7
+06
+Castroneves, Helio
+D/H/F
+00:02.0359
+  63.463
+11
+8
+76
+Daly, Conor
+D/C/F
+00:02.0380
+  63.397
+11
+9
+51
+Abel, Jacob (R)
+D/H/F
+00:02.0742
+  62.291
+5
+10
+26
+Herta, Colton
+D/H/F
+00:02.0833
+  62.019
+7
+11
+10
+Palou, Alex
+D/H/F
+00:02.1033
+  61.429
+5
+12
+15
+Rahal, Graham
+D/H/F
+00:02.1089
+  61.266
+11
+13
+14
+Ferrucci, Santino
+D/C/F
+00:02.1103
+  61.225
+15
+14
+12
+Power, Will
+D/C/F
+00:02.1167
+  61.040
+5
+15
+45
+Foster, Louis (R)
+D/H/F
+00:02.1222
+  60.882
+5
+16
+20
+Rossi, Alexander
+D/C/F
+00:02.1295
+  60.673
+17
+17
+66
+Armstrong, Marcus
+D/H/F
+00:02.1321
+  60.599
+3
+18
+18
+Veekay, Rinus
+D/H/F
+00:02.1489
+  60.126
+11
+19
+9
+Dixon, Scott
+D/H/F
+00:02.1573
+  59.892
+5
+20
+60
+Rosenqvist, Felix
+D/H/F
+00:02.1656
+  59.662
+10
+21
+77
+Robb, Sting Ray
+D/C/F
+00:02.1704
+  59.530
+11
+22
+21
+Rasmussen, Christian
+D/C/F
+00:02.1791
+  59.292
+11
+23
+6
+Siegel, Nolan (R)
+D/C/F
+00:02.1862
+  59.100
+11
+24
+17
+Larson, Kyle
+D/C/F
+00:02.1922
+  58.938
+11
+25
+28
+Ericsson, Marcus
+D/H/F
+00:02.2216
+  58.158
+14
+26
+24
+Harvey, Jack
+D/C/F
+00:02.2230
+  58.121
+5
+27
+2
+Newgarden, Josef
+D/C/F
+00:02.2255
+  58.056
+5
+28
+83
+Shwartzman, Robert (R)
+D/C/F
+00:02.2336
+  57.846
+5
+29
+4
+Malukas, David
+D/C/F
+00:02.2366
+  57.768
+5
+30
+90
+Ilott, Callum
+D/C/F
+00:02.2444
+  57.567
+11
+31
+5
+O'Ward, Pato
+D/C/F
+00:02.2917
+  56.379
+8
+32
+75
+Sato, Takuma
+D/H/F
+00:02.2937
+  56.330
+11
+33
+3
+McLaughlin, Scott
+D/C/F
+00:02.3118
+  55.889
+5
+34
+27
+Kirkwood, Kyle
+D/H/F
+00:02.5006
+  51.669
+5
+Section:  PIC to PI
+Length:  0.035890 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 39 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 40 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+45
+Foster, Louis (R)
+D/H/F
+00:27.2821
+   0.110
+5
+2
+9
+Dixon, Scott
+D/H/F
+01:17.6353
+   0.110
+5
+3
+23
+Hunter-Reay, Ryan
+D/C/F
+02:34.0473
+   0.088
+5
+4
+5
+O'Ward, Pato
+D/C/F
+04:07.5609
+   0.087
+5
+5
+28
+Ericsson, Marcus
+D/H/F
+08:28.9185
+   0.387
+10
+6
+7
+Lundgaard, Christian
+D/C/F
+09:57.5080
+   0.106
+5
+7
+18
+Veekay, Rinus
+D/H/F
+10:30.5948
+   0.376
+11
+8
+77
+Robb, Sting Ray
+D/C/F
+11:11.2683
+   0.202
+5
+9
+75
+Sato, Takuma
+D/H/F
+11:16.4525
+   0.106
+5
+10
+12
+Power, Will
+D/C/F
+11:38.8048
+   0.201
+11
+11
+24
+Harvey, Jack
+D/C/F
+12:45.5795
+   0.085
+5
+12
+27
+Kirkwood, Kyle
+D/H/F
+13:05.4203
+   0.199
+5
+13
+20
+Rossi, Alexander
+D/C/F
+16:27.8289
+   0.347
+11
+14
+6
+Siegel, Nolan (R)
+D/C/F
+17:01.1269
+   0.135
+5
+15
+51
+Abel, Jacob (R)
+D/H/F
+27:54.1835
+   0.950
+5
+16
+60
+Rosenqvist, Felix
+D/H/F
+28:22.9398
+   0.081
+5
+17
+76
+Daly, Conor
+D/C/F
+29:29.9823
+   0.177
+5
+18
+17
+Larson, Kyle
+D/C/F
+30:00.2188
+   0.177
+5
+19
+06
+Castroneves, Helio
+D/H/F
+32:15.1106
+   0.287
+5
+20
+98
+Andretti, Marco
+D/H/F
+33:57.2974
+   0.781
+17
+21
+66
+Armstrong, Marcus
+D/H/F
+35:07.5268
+   0.755
+3
+22
+21
+Rasmussen, Christian
+D/C/F
+36:38.8870
+   0.169
+5
+23
+8
+Simpson, Kyffin
+D/H/F
+38:22.2918
+   0.095
+5
+24
+30
+DeFrancesco, Devlin
+D/H/F
+39:17.0829
+   0.166
+5
+25
+15
+Rahal, Graham
+D/H/F
+40:31.1304
+   0.120
+5
+26
+90
+Ilott, Callum
+D/C/F
+46:46.3258
+   0.159
+5
+27
+4
+Malukas, David
+D/C/F
+47:13.0399
+   0.092
+5
+28
+33
+Carpenter, Ed
+D/C/F
+48:51.1824
+   0.116
+5
+29
+14
+Ferrucci, Santino
+D/C/F
+57:00.1106
+   0.227
+11
+Section:  PI to PO
+Length:  0.441951 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 40 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 41 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+30
+DeFrancesco, Devlin
+D/H/F
+00:47.2036
+ 169.170
+5
+2
+45
+Foster, Louis (R)
+D/H/F
+00:48.0268
+ 166.271
+0
+3
+15
+Rahal, Graham
+D/H/F
+00:48.2586
+ 165.472
+0
+4
+5
+O'Ward, Pato
+D/C/F
+00:48.2931
+ 165.354
+5
+5
+60
+Rosenqvist, Felix
+D/H/F
+00:48.4186
+ 164.925
+5
+6
+98
+Andretti, Marco
+D/H/F
+00:48.5763
+ 164.390
+5
+7
+75
+Sato, Takuma
+D/H/F
+00:48.7344
+ 163.856
+5
+8
+17
+Larson, Kyle
+D/C/F
+00:48.8046
+ 163.621
+5
+9
+8
+Simpson, Kyffin
+D/H/F
+00:48.8373
+ 163.511
+5
+10
+14
+Ferrucci, Santino
+D/C/F
+00:48.9186
+ 163.240
+11
+11
+21
+Rasmussen, Christian
+D/C/F
+00:49.0697
+ 162.737
+5
+12
+27
+Kirkwood, Kyle
+D/H/F
+00:49.1226
+ 162.562
+5
+13
+20
+Rossi, Alexander
+D/C/F
+00:49.1287
+ 162.541
+11
+14
+6
+Siegel, Nolan (R)
+D/C/F
+00:49.1355
+ 162.519
+5
+15
+18
+Veekay, Rinus
+D/H/F
+00:49.1585
+ 162.443
+0
+16
+28
+Ericsson, Marcus
+D/H/F
+00:49.2449
+ 162.158
+5
+17
+12
+Power, Will
+D/C/F
+00:49.3954
+ 161.664
+11
+18
+06
+Castroneves, Helio
+D/H/F
+00:49.4399
+ 161.518
+5
+19
+3
+McLaughlin, Scott
+D/C/F
+00:49.5392
+ 161.195
+0
+20
+10
+Palou, Alex
+D/H/F
+00:49.5962
+ 161.009
+0
+21
+76
+Daly, Conor
+D/C/F
+00:49.6527
+ 160.826
+11
+22
+9
+Dixon, Scott
+D/H/F
+00:49.6837
+ 160.726
+0
+23
+7
+Lundgaard, Christian
+D/C/F
+00:49.7812
+ 160.411
+0
+24
+33
+Carpenter, Ed
+D/C/F
+00:49.8392
+ 160.224
+5
+25
+66
+Armstrong, Marcus
+D/H/F
+00:49.9396
+ 159.902
+3
+26
+4
+Malukas, David
+D/C/F
+00:49.9889
+ 159.744
+5
+27
+26
+Herta, Colton
+D/H/F
+00:50.0204
+ 159.644
+0
+28
+51
+Abel, Jacob (R)
+D/H/F
+00:50.0531
+ 159.540
+0
+29
+2
+Newgarden, Josef
+D/C/F
+00:50.3616
+ 158.562
+0
+30
+77
+Robb, Sting Ray
+D/C/F
+00:50.5602
+ 157.939
+0
+31
+23
+Hunter-Reay, Ryan
+D/C/F
+00:50.7370
+ 157.389
+5
+32
+83
+Shwartzman, Robert (R)
+D/C/F
+00:51.7523
+ 154.301
+0
+33
+90
+Ilott, Callum
+D/C/F
+00:52.0165
+ 153.518
+0
+34
+24
+Harvey, Jack
+D/C/F
+00:52.9882
+ 150.702
+0
+Section:  PO to SF
+Length:  2.218180 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 41 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 42 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+14
+Ferrucci, Santino
+D/C/F
+00:44.5542
+ 173.812
+15
+2
+28
+Ericsson, Marcus
+D/H/F
+00:47.9866
+ 161.380
+10
+3
+8
+Simpson, Kyffin
+D/H/F
+00:49.4628
+ 156.563
+10
+4
+66
+Armstrong, Marcus
+D/H/F
+00:49.7843
+ 155.552
+3
+5
+26
+Herta, Colton
+D/H/F
+00:51.4520
+ 150.511
+7
+6
+06
+Castroneves, Helio
+D/H/F
+00:53.2527
+ 145.421
+11
+7
+7
+Lundgaard, Christian
+D/C/F
+00:53.4941
+ 144.765
+11
+8
+60
+Rosenqvist, Felix
+D/H/F
+00:53.6985
+ 144.214
+10
+9
+20
+Rossi, Alexander
+D/C/F
+00:53.8901
+ 143.701
+11
+10
+33
+Carpenter, Ed
+D/C/F
+00:53.9115
+ 143.644
+5
+11
+10
+Palou, Alex
+D/H/F
+00:54.1908
+ 142.904
+5
+12
+4
+Malukas, David
+D/C/F
+00:54.5996
+ 141.834
+5
+13
+98
+Andretti, Marco
+D/H/F
+00:54.6158
+ 141.792
+5
+14
+17
+Larson, Kyle
+D/C/F
+00:54.7966
+ 141.324
+11
+15
+76
+Daly, Conor
+D/C/F
+00:55.1526
+ 140.412
+11
+16
+27
+Kirkwood, Kyle
+D/H/F
+00:55.4113
+ 139.756
+5
+17
+51
+Abel, Jacob (R)
+D/H/F
+00:55.9791
+ 138.339
+5
+18
+6
+Siegel, Nolan (R)
+D/C/F
+00:56.3237
+ 137.492
+5
+19
+5
+O'Ward, Pato
+D/C/F
+00:56.4975
+ 137.069
+8
+20
+30
+DeFrancesco, Devlin
+D/H/F
+00:56.6623
+ 136.671
+5
+21
+24
+Harvey, Jack
+D/C/F
+00:57.0276
+ 135.795
+5
+22
+23
+Hunter-Reay, Ryan
+D/C/F
+00:57.1214
+ 135.572
+5
+23
+45
+Foster, Louis (R)
+D/H/F
+00:57.2354
+ 135.302
+5
+24
+2
+Newgarden, Josef
+D/C/F
+00:57.4430
+ 134.813
+5
+25
+83
+Shwartzman, Robert (R)
+D/C/F
+00:58.0537
+ 133.395
+5
+26
+12
+Power, Will
+D/C/F
+00:58.2400
+ 132.968
+17
+27
+9
+Dixon, Scott
+D/H/F
+00:58.2874
+ 132.860
+8
+28
+21
+Rasmussen, Christian
+D/C/F
+00:58.8379
+ 131.617
+5
+29
+15
+Rahal, Graham
+D/H/F
+00:59.3660
+ 130.446
+11
+30
+77
+Robb, Sting Ray
+D/C/F
+00:59.6956
+ 129.726
+11
+31
+3
+McLaughlin, Scott
+D/C/F
+01:00.2787
+ 128.471
+5
+32
+90
+Ilott, Callum
+D/C/F
+01:00.6605
+ 127.662
+11
+33
+18
+Veekay, Rinus
+D/H/F
+01:04.7853
+ 119.534
+11
+34
+75
+Sato, Takuma
+D/H/F
+01:21.7654
+  94.711
+11
+Section:  SF to PI
+Length:  2.151130 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 42 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 43 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+30
+DeFrancesco, Devlin
+D/H/F
+00:19.9103
+ 124.136
+5
+2
+21
+Rasmussen, Christian
+D/C/F
+00:20.3715
+ 121.326
+5
+3
+5
+O'Ward, Pato
+D/C/F
+00:20.3995
+ 121.159
+5
+4
+14
+Ferrucci, Santino
+D/C/F
+00:20.4008
+ 121.151
+11
+5
+45
+Foster, Louis (R)
+D/H/F
+00:20.5585
+ 120.222
+0
+6
+15
+Rahal, Graham
+D/H/F
+00:20.5708
+ 120.150
+0
+7
+76
+Daly, Conor
+D/C/F
+00:20.5784
+ 120.106
+11
+8
+20
+Rossi, Alexander
+D/C/F
+00:20.6084
+ 119.931
+11
+9
+60
+Rosenqvist, Felix
+D/H/F
+00:20.6404
+ 119.745
+5
+10
+98
+Andretti, Marco
+D/H/F
+00:20.7108
+ 119.338
+5
+11
+17
+Larson, Kyle
+D/C/F
+00:20.7167
+ 119.304
+5
+12
+18
+Veekay, Rinus
+D/H/F
+00:20.8005
+ 118.823
+0
+13
+12
+Power, Will
+D/C/F
+00:20.8243
+ 118.688
+11
+14
+33
+Carpenter, Ed
+D/C/F
+00:20.8564
+ 118.505
+5
+15
+6
+Siegel, Nolan (R)
+D/C/F
+00:20.8651
+ 118.456
+5
+16
+8
+Simpson, Kyffin
+D/H/F
+00:20.8847
+ 118.344
+0
+17
+75
+Sato, Takuma
+D/H/F
+00:21.0411
+ 117.465
+5
+18
+23
+Hunter-Reay, Ryan
+D/C/F
+00:21.0459
+ 117.438
+5
+19
+3
+McLaughlin, Scott
+D/C/F
+00:21.0570
+ 117.376
+0
+20
+4
+Malukas, David
+D/C/F
+00:21.1771
+ 116.710
+0
+21
+27
+Kirkwood, Kyle
+D/H/F
+00:21.2678
+ 116.213
+5
+22
+51
+Abel, Jacob (R)
+D/H/F
+00:21.3087
+ 115.990
+0
+23
+06
+Castroneves, Helio
+D/H/F
+00:21.3508
+ 115.761
+0
+24
+9
+Dixon, Scott
+D/H/F
+00:21.3857
+ 115.572
+0
+25
+77
+Robb, Sting Ray
+D/C/F
+00:21.3975
+ 115.508
+0
+26
+2
+Newgarden, Josef
+D/C/F
+00:21.4704
+ 115.116
+0
+27
+28
+Ericsson, Marcus
+D/H/F
+00:21.5941
+ 114.457
+5
+28
+66
+Armstrong, Marcus
+D/H/F
+00:21.6953
+ 113.923
+3
+29
+7
+Lundgaard, Christian
+D/C/F
+00:21.9095
+ 112.809
+0
+30
+10
+Palou, Alex
+D/H/F
+00:22.0116
+ 112.286
+0
+31
+26
+Herta, Colton
+D/H/F
+00:22.0506
+ 112.087
+0
+32
+90
+Ilott, Callum
+D/C/F
+00:23.0466
+ 107.243
+0
+33
+83
+Shwartzman, Robert (R)
+D/C/F
+00:23.1156
+ 106.923
+0
+34
+24
+Harvey, Jack
+D/C/F
+00:23.1399
+ 106.811
+0
+Section:  PO to BS
+Length:  0.686552 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 43 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 44 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+14
+Ferrucci, Santino
+D/C/F
+00:24.3992
+ 128.404
+15
+2
+8
+Simpson, Kyffin
+D/H/F
+00:27.5351
+ 113.780
+5
+3
+10
+Palou, Alex
+D/H/F
+00:27.5594
+ 113.680
+5
+4
+28
+Ericsson, Marcus
+D/H/F
+00:27.6503
+ 113.306
+10
+5
+66
+Armstrong, Marcus
+D/H/F
+00:27.7064
+ 113.077
+3
+6
+26
+Herta, Colton
+D/H/F
+00:27.8025
+ 112.686
+7
+7
+7
+Lundgaard, Christian
+D/C/F
+00:28.0622
+ 111.643
+11
+8
+06
+Castroneves, Helio
+D/H/F
+00:28.4530
+ 110.110
+11
+9
+76
+Daly, Conor
+D/C/F
+00:28.6807
+ 109.235
+11
+10
+33
+Carpenter, Ed
+D/C/F
+00:28.8758
+ 108.497
+5
+11
+20
+Rossi, Alexander
+D/C/F
+00:29.2279
+ 107.190
+11
+12
+51
+Abel, Jacob (R)
+D/H/F
+00:29.2620
+ 107.065
+5
+13
+98
+Andretti, Marco
+D/H/F
+00:29.4978
+ 106.210
+23
+14
+6
+Siegel, Nolan (R)
+D/C/F
+00:29.6595
+ 105.631
+5
+15
+4
+Malukas, David
+D/C/F
+00:29.8781
+ 104.858
+5
+16
+17
+Larson, Kyle
+D/C/F
+00:30.0024
+ 104.423
+11
+17
+24
+Harvey, Jack
+D/C/F
+00:30.8582
+ 101.527
+11
+18
+23
+Hunter-Reay, Ryan
+D/C/F
+00:30.9016
+ 101.385
+5
+19
+15
+Rahal, Graham
+D/H/F
+00:31.0167
+ 101.009
+11
+20
+27
+Kirkwood, Kyle
+D/H/F
+00:31.1569
+ 100.554
+5
+21
+83
+Shwartzman, Robert (R)
+D/C/F
+00:31.3742
+  99.858
+5
+22
+5
+O'Ward, Pato
+D/C/F
+00:31.4358
+  99.662
+8
+23
+45
+Foster, Louis (R)
+D/H/F
+00:31.7550
+  98.660
+5
+24
+60
+Rosenqvist, Felix
+D/H/F
+00:32.1882
+  97.332
+10
+25
+12
+Power, Will
+D/C/F
+00:32.2026
+  97.289
+17
+26
+21
+Rasmussen, Christian
+D/C/F
+00:32.2419
+  97.170
+5
+27
+30
+DeFrancesco, Devlin
+D/H/F
+00:32.4122
+  96.660
+5
+28
+2
+Newgarden, Josef
+D/C/F
+00:32.8180
+  95.464
+5
+29
+77
+Robb, Sting Ray
+D/C/F
+00:33.0927
+  94.672
+11
+30
+90
+Ilott, Callum
+D/C/F
+00:33.1473
+  94.516
+11
+31
+9
+Dixon, Scott
+D/H/F
+00:34.5349
+  90.718
+8
+32
+3
+McLaughlin, Scott
+D/C/F
+00:34.6665
+  90.374
+5
+33
+18
+Veekay, Rinus
+D/H/F
+00:37.1671
+  84.294
+11
+34
+75
+Sato, Takuma
+D/H/F
+00:44.3266
+  70.679
+11
+Section:  BS to PI
+Length:  0.870264 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 44 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 45 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+51
+Abel, Jacob (R)
+D/H/F
+01:15.4473
+  89.195
+5
+2
+5
+O'Ward, Pato
+D/C/F
+03:04.8449
+  36.406
+8
+3
+9
+Dixon, Scott
+D/H/F
+03:08.9187
+  35.621
+8
+4
+14
+Ferrucci, Santino
+D/C/F
+03:32.2425
+  31.707
+15
+5
+28
+Ericsson, Marcus
+D/H/F
+03:37.8391
+  30.892
+14
+6
+66
+Armstrong, Marcus
+D/H/F
+03:44.6046
+  29.962
+3
+7
+8
+Simpson, Kyffin
+D/H/F
+04:16.1990
+  26.267
+10
+8
+60
+Rosenqvist, Felix
+D/H/F
+04:20.3265
+  25.850
+10
+9
+18
+Veekay, Rinus
+D/H/F
+04:36.8318
+  24.309
+16
+10
+10
+Palou, Alex
+D/H/F
+04:59.1612
+  22.495
+5
+11
+26
+Herta, Colton
+D/H/F
+04:59.4158
+  22.476
+7
+12
+06
+Castroneves, Helio
+D/H/F
+05:00.0404
+  22.429
+11
+13
+4
+Malukas, David
+D/C/F
+05:00.4823
+  22.396
+5
+14
+7
+Lundgaard, Christian
+D/C/F
+05:00.6010
+  22.387
+11
+15
+17
+Larson, Kyle
+D/C/F
+05:00.8460
+  22.369
+11
+16
+33
+Carpenter, Ed
+D/C/F
+05:01.5047
+  22.320
+5
+17
+27
+Kirkwood, Kyle
+D/H/F
+05:01.7480
+  22.302
+11
+18
+98
+Andretti, Marco
+D/H/F
+05:01.9558
+  22.287
+11
+19
+30
+DeFrancesco, Devlin
+D/H/F
+05:02.1350
+  22.273
+5
+20
+20
+Rossi, Alexander
+D/C/F
+05:02.1452
+  22.273
+11
+21
+45
+Foster, Louis (R)
+D/H/F
+05:02.8571
+  22.220
+5
+22
+76
+Daly, Conor
+D/C/F
+05:03.0466
+  22.206
+11
+23
+2
+Newgarden, Josef
+D/C/F
+05:03.7406
+  22.156
+5
+24
+6
+Siegel, Nolan (R)
+D/C/F
+05:03.8781
+  22.146
+5
+25
+12
+Power, Will
+D/C/F
+05:04.3692
+  22.110
+17
+26
+21
+Rasmussen, Christian
+D/C/F
+05:04.5460
+  22.097
+5
+27
+3
+McLaughlin, Scott
+D/C/F
+05:05.4305
+  22.033
+5
+28
+83
+Shwartzman, Robert (R)
+D/C/F
+05:05.5563
+  22.024
+5
+29
+15
+Rahal, Graham
+D/H/F
+05:06.0130
+  21.991
+11
+30
+77
+Robb, Sting Ray
+D/C/F
+05:07.7004
+  21.870
+11
+31
+23
+Hunter-Reay, Ryan
+D/C/F
+05:07.8798
+  21.858
+5
+32
+24
+Harvey, Jack
+D/C/F
+05:08.6717
+  21.802
+5
+33
+90
+Ilott, Callum
+D/C/F
+05:11.5833
+  21.598
+11
+34
+75
+Sato, Takuma
+D/H/F
+05:26.4120
+  20.617
+11
+Section:  PO to PI
+Length:  1.869320 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 45 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 46 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+60
+Rosenqvist, Felix
+D/H/F
+00:38.5713
+ 233.334
+2
+2
+3
+McLaughlin, Scott
+D/C/F
+00:38.5799
+ 233.282
+4
+3
+83
+Shwartzman, Robert (R)
+D/C/F
+00:38.5885
+ 233.230
+2
+4
+10
+Palou, Alex
+D/H/F
+00:38.6088
+ 233.107
+3
+5
+2
+Newgarden, Josef
+D/C/F
+00:38.6151
+ 233.069
+2
+6
+4
+Malukas, David
+D/C/F
+00:38.6251
+ 233.009
+8
+7
+75
+Sato, Takuma
+D/H/F
+00:38.6448
+ 232.890
+8
+8
+5
+O'Ward, Pato
+D/C/F
+00:38.6486
+ 232.867
+3
+9
+9
+Dixon, Scott
+D/H/F
+00:38.6667
+ 232.758
+5
+10
+20
+Rossi, Alexander
+D/C/F
+00:38.6710
+ 232.733
+14
+11
+12
+Power, Will
+D/C/F
+00:38.6818
+ 232.668
+2
+12
+14
+Ferrucci, Santino
+D/C/F
+00:38.7043
+ 232.532
+14
+13
+28
+Ericsson, Marcus
+D/H/F
+00:38.7193
+ 232.442
+3
+14
+33
+Carpenter, Ed
+D/C/F
+00:38.7285
+ 232.387
+2
+15
+30
+DeFrancesco, Devlin
+D/H/F
+00:38.7468
+ 232.277
+8
+16
+21
+Rasmussen, Christian
+D/C/F
+00:38.7646
+ 232.171
+2
+17
+77
+Robb, Sting Ray
+D/C/F
+00:38.7773
+ 232.095
+8
+18
+7
+Lundgaard, Christian
+D/C/F
+00:38.7789
+ 232.085
+9
+19
+8
+Simpson, Kyffin
+D/H/F
+00:38.7937
+ 231.996
+2
+20
+17
+Larson, Kyle
+D/C/F
+00:38.8021
+ 231.946
+8
+21
+27
+Kirkwood, Kyle
+D/H/F
+00:38.8022
+ 231.946
+2
+22
+76
+Daly, Conor
+D/C/F
+00:38.8140
+ 231.875
+15
+23
+45
+Foster, Louis (R)
+D/H/F
+00:38.8669
+ 231.560
+8
+24
+06
+Castroneves, Helio
+D/H/F
+00:38.9097
+ 231.305
+8
+25
+24
+Harvey, Jack
+D/C/F
+00:38.9101
+ 231.302
+2
+26
+90
+Ilott, Callum
+D/C/F
+00:38.9142
+ 231.278
+8
+27
+6
+Siegel, Nolan (R)
+D/C/F
+00:38.9652
+ 230.975
+2
+28
+23
+Hunter-Reay, Ryan
+D/C/F
+00:39.0208
+ 230.646
+8
+29
+15
+Rahal, Graham
+D/H/F
+00:39.0302
+ 230.591
+8
+30
+98
+Andretti, Marco
+D/H/F
+00:39.0480
+ 230.486
+20
+31
+18
+Veekay, Rinus
+D/H/F
+00:39.0825
+ 230.282
+9
+32
+26
+Herta, Colton
+D/H/F
+00:39.0871
+ 230.255
+5
+33
+66
+Armstrong, Marcus
+D/H/F
+00:39.1987
+ 229.599
+6
+34
+51
+Abel, Jacob (R)
+D/H/F
+00:39.4487
+ 228.144
+8
+Section:  Lap
+Length:  2.500000 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 46 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES
+
+
+===== PAGE 47 =====
+Track Map
+Information provided by Indy Racing Information System - Copyright INDYCAR 2025
+Page 47 of 47
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+109th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 17, 2025
+Qualifications - Day One
+NTT INDYCAR SERIES

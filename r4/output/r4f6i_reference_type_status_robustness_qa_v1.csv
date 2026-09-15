@@ -1,0 +1,9 @@
+metric,value,expected,status
+canonical_reference_rows,71,71,PASS
+2023_canonical_references,34,34,PASS
+2024_canonical_references,34,34,PASS
+2023_general_only_references,34,34,PASS
+2024_general_only_references,34,34,PASS
+primary_status_policy_explicit,VALID_RETAINED;VALID_SUPERSEDED;WITHDRAWN,VALID_RETAINED;VALID_SUPERSEDED;WITHDRAWN,PASS
+failed_retired_disallowed_excluded,True,True,PASS
+2024_not_used_as_development,True,True,PASS

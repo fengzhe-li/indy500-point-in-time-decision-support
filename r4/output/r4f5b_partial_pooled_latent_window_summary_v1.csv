@@ -1,0 +1,6 @@
+year,grid_rows,target_rows,coverage_fraction,tier_a_repeat_plus_first,tier_b_repeat_only,tier_c_multi_first_only,tier_d_sparse_first_only,better,neutral,worse
+2020,104,76,0.7307692307692307,8,33,32,3,46,16,14
+2021,110,76,0.6909090909090909,12,32,30,2,27,29,20
+2022,100,0,0.0,0,0,0,0,0,0,0
+2023,116,77,0.6637931034482759,1,42,30,4,37,27,13
+2024,110,36,0.32727272727272727,0,12,0,24,12,12,12

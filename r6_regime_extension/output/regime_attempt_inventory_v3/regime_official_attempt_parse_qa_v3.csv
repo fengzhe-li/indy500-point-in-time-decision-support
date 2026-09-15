@@ -1,0 +1,5 @@
+year,expected_rows,parsed_rows,row_count_pass,rank_1_to_n_pass,missing_ranks,duplicate_ranks
+2018,48,48,True,True,,
+2019,73,73,True,True,,
+2025,73,73,True,True,,
+2026,33,33,True,True,,

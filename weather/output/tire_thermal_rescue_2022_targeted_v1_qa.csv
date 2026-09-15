@@ -1,0 +1,10 @@
+﻿metric,value,status
+target_driver_count,8,PASS
+target_set_exact,1,PASS
+files_scanned,83,PASS
+temperature_value_inferred,0,PASS
+pressure_value_inferred,0,PASS
+fresh_tires_inferred_from_second_run,0,PASS
+wait_used_to_infer_tire_temperature,0,PASS
+pit_service_used_to_infer_pressure,0,PASS
+active_ledger_mutation,0,PASS

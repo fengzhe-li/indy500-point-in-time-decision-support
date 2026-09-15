@@ -1,0 +1,5 @@
+check,value,expected,status
+consecutive same-car pairs only,27,27,PASS
+strictly later after time,27,27,PASS
+physical state leakage gates,27,27,PASS
+years represented,2020|2021|2023,2020|2021|2023,PASS

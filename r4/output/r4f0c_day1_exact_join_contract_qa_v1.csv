@@ -1,0 +1,7 @@
+metric,value,expected,status
+chronology_v10_exists,True,True,PASS
+decision_state_v2_exists,True,True,PASS
+decision_evidence_v2_exists,True,True,PASS
+action_lane_v8_exists,True,True,PASS
+attempt_panel_v1_exists,True,True,PASS
+decision_state_rows,8,8,PASS

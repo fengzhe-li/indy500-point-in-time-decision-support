@@ -1,0 +1,248 @@
+{
+  "schema_version": "R4A_OBSERVABLE_SCENARIO_V1",
+  "fields": {
+    "driver_name": {
+      "value": "<DRIVER_NAME>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "car_number": {
+      "value": "<CAR_NUMBER_STRING>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "decision_timestamp_utc": {
+      "value": "<YYYY-MM-DDTHH:MM:SSZ>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "session_start_time_utc": {
+      "value": "<YYYY-MM-DDTHH:MM:SSZ>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "session_end_time_utc": {
+      "value": "<YYYY-MM-DDTHH:MM:SSZ>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "session_remaining_seconds": {
+      "value": "<SECONDS>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "current_valid_four_lap_average_speed_mph": {
+      "value": "<MPH_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "current_rank": {
+      "value": "<INTEGER_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "advancement_benchmark_label": {
+      "value": "<FORMAT_REGIME_BENCHMARK_LABEL_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "advancement_benchmark_rank": {
+      "value": "<FORMAT_REGIME_BENCHMARK_RANK_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "current_cutoff_speed_mph": {
+      "value": "<MPH_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "completed_attempt_count": {
+      "value": "<INTEGER>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "current_result_validity": {
+      "value": "<VALID|INVALID|NO_CURRENT_RESULT|NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "lane1_eligibility": {
+      "value": "<TRUE|FALSE|NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "lane2_eligibility": {
+      "value": "<TRUE|FALSE|NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "visible_lane1_queue_count": {
+      "value": "<INTEGER_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "visible_lane2_queue_count": {
+      "value": "<INTEGER_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "visible_cars_currently_queued": {
+      "value": "<ARRAY_OF_CAR_NUMBER_STRINGS_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "ambient_temperature_c": {
+      "value": "<VALUE_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "track_temperature_c": {
+      "value": "<VALUE_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "relative_humidity_percent": {
+      "value": "<VALUE_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "pressure_hpa": {
+      "value": "<VALUE_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "wind_speed_mps": {
+      "value": "<VALUE_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "wind_direction_degrees": {
+      "value": "<VALUE_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "gust_speed_mps": {
+      "value": "<VALUE_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "cloud_cover_percent": {
+      "value": "<VALUE_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "shortwave_radiation_w_m2": {
+      "value": "<VALUE_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "solar_elevation_degrees": {
+      "value": "<VALUE_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "solar_azimuth_degrees": {
+      "value": "<VALUE_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    },
+    "rain_interruption_observable_state": {
+      "value": "<OBSERVABLE_STATE_OR_NULL>",
+      "availability": "<OBSERVED|DERIVED_FROM_OBSERVABLES|FORECAST_AVAILABLE_AT_DECISION_TIME|UNKNOWN>",
+      "available_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "valid_at_utc": "<YYYY-MM-DDTHH:MM:SSZ_OR_NULL>",
+      "source_reference": "<SOURCE_REFERENCE_OR_NULL>",
+      "derivation": "<DERIVATION_RULE_OR_NULL>"
+    }
+  },
+  "decision_target": {
+    "type": "<BEAT_CURRENT_RESULT|CROSS_ADVANCEMENT_BENCHMARK|IMPROVE_RANK|REMAIN_ABOVE_CUTOFF|MAXIMIZE_EXPECTED_RANK>"
+  }
+}

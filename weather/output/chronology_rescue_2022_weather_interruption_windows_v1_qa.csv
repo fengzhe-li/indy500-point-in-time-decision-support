@@ -1,0 +1,10 @@
+﻿metric,value,status
+first_weather_stop_rows,1,PASS
+first_weather_resume_rows,1,PASS
+second_weather_stop_rows,1,PASS
+derived_session_call_rows,1,PASS
+karam_specific_attempt_promoted,0,PASS
+secondary_time_promoted_as_official_exact,0,PASS
+exact_interruption_timestamp_claimed,0,PASS
+queue_wait_inferred,0,PASS
+canonical_data_mutated,0,PASS

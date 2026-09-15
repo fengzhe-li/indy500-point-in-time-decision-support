@@ -1,0 +1,29 @@
+transition_id,year,car_number,driver_name,before_run_index,after_run_index,before_match_status,after_match_status,before_timestamp_utc,after_timestamp_utc,actual_wait_min,before_track_c,before_ambient_c,before_source,after_source,both_unique,positive_time_order,within_120_min
+01896a4f-c482-5093-a806-89bc4273641d__TO__90eea27e-6e83-5e24-8428-811eae3ff157,2022,6,Helio Castroneves,1.0,2.0,NO_MATCH,NO_MATCH,,,,,,,,False,False,False
+0cb1b370-25ae-58b2-88a3-8d079ec339cc__TO__2c6a50e6-564c-5b01-bb51-6a1d93ae56d7,2024,5,Pato O'Ward,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+0ea71424-032e-5cc5-8235-319c546b48b2__TO__31b7c177-37e7-5f95-82da-58b902d61269,2024,23,Ryan Hunter-Reay,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+135b66b6-87b3-5cb3-ba14-d2d21ed2fa92__TO__d8d8f4a5-fd52-51ca-bdc6-e2ddbea561ca,2024,21,Rinus VeeKay,3.0,4.0,NO_MATCH,NO_MATCH,,,,,,,,False,False,False
+1918bf96-47b4-5e0b-afc4-1d3a7254a703__TO__2122fcb1-992b-5480-b45c-d7e48ddcf229,2024,26,Colton Herta,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+1af8c8bf-f788-56f3-81be-80e9e6e4c1af__TO__368def8f-7a28-54d4-9393-3450cb254203,2024,24,Conor Daly,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+1e2facfd-2c67-5b5a-9556-04ef28eeb0d8__TO__b3147013-0fda-5982-bea1-85788019ef89,2022,27,Alexander Rossi,1.0,2.0,NO_MATCH,NO_MATCH,,,,,,,,False,False,False
+1e58447e-195b-5aab-b720-7d8cd9090436__TO__ae5fc451-f8e7-53f2-aeb0-2d119f29fcf0,2024,75,Takuma Sato,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+2c6a50e6-564c-5b01-bb51-6a1d93ae56d7__TO__592e992b-5103-52a6-b623-e25e826386bc,2024,5,Pato O'Ward,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+3072c6a1-a1c0-561e-a338-3e9b559cea21__TO__8ec48ba2-cd65-5a70-94b7-6bd93fe67f38,2024,7,Alexander Rossi,1.0,2.0,UNIQUE_MATCH,UNIQUE_MATCH,2024-05-18 17:53:59+00:00,2024-05-18 20:37:01+00:00,163.03333333333333,45.22283950617284,26.44382716049383,SUPPORTED_2024,SUPPORTED_2024,True,True,False
+3cd6d98a-da75-5822-8dae-05e83ad8457c__TO__8fa25fec-e5a6-5844-b3d7-f67c9dc91378,2022,77,Callum Ilott,1.0,2.0,NO_MATCH,NO_MATCH,,,,,,,,False,False,False
+3f221659-74ff-5901-97dc-08071a734690__TO__21e8c99e-b04c-516d-85a8-ccfbaed7ff46,2022,51,Takuma Sato,1.0,2.0,NO_MATCH,NO_MATCH,,,,,,,,False,False,False
+411accca-4d36-5e24-a0fe-6db5a36714c5__TO__5c278e99-19d1-5e85-8f4a-80b809055515,2024,6,Callum Ilott,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+57d1f314-d70f-5dc5-8939-c39e7e310a5b__TO__593951bf-c35d-57ed-99ba-3aca33173abf,2024,28,Marcus Ericsson,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+593951bf-c35d-57ed-99ba-3aca33173abf__TO__6ff45585-fb1d-530f-9185-8b2474335069,2024,28,Marcus Ericsson,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+5c278e99-19d1-5e85-8f4a-80b809055515__TO__fd5283e0-98dd-56b4-8731-1cdc87fbd6b9,2024,6,Callum Ilott,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+5f797729-5c3e-57f6-a678-7daba88cd24f__TO__e91f9ace-30e9-55fa-9bfe-2167aa6c9e03,2024,18,Nolan Siegel,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+619575d3-e7eb-5cce-886f-0a8485b98eba__TO__85c917fa-1c7a-52cb-a47f-468b4bdae9a5,2022,18,David Malukas,1.0,2.0,NO_MATCH,NO_MATCH,,,,,,,,False,False,False
+7a43b661-45d0-568a-a5a0-cb277271477b__TO__9c3e9262-c431-5cd6-a825-1390b530a69e,2024,15,Graham Rahal,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+8e0c8731-4ddc-515a-949e-7902dd01eaeb__TO__2c453335-3a19-5653-8d5c-79d94db93028,2022,24,Sage Karam,1.0,2.0,NO_MATCH,NO_MATCH,,,,,,,,False,False,False
+9c3e9262-c431-5cd6-a825-1390b530a69e__TO__b4791937-d75b-5408-8c3c-2a59daa81554,2024,15,Graham Rahal,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+a6f827ba-f7fd-5632-aa50-9e648038770a__TO__f67e0165-0d7c-5cc9-9076-3a4e6354bcab,2024,41,Sting Ray Robb,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+aace8bfa-a08d-503d-b6f2-627ee9f4eb45__TO__f3afb84c-e701-50f7-aece-f715b96b5be0,2024,51,Katherine Legge,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+b0fea442-416e-5edd-88b3-b430ad75ba1a__TO__bb305266-c60f-5f5b-b658-92109cb4b844,2024,45,Christian Lundgaard,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+bbf879f3-b407-5099-8ff9-3f4c67ad6bf7__TO__f172d26d-2ebf-5b64-b109-6c83a2062894,2024,66,Tom Blomqvist,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+c044edbc-0f6c-5aab-bdef-9c4156b50617__TO__63982b5e-7639-5140-a6a2-702a77c2fc85,2022,98,Marco Andretti,1.0,2.0,NO_MATCH,NO_MATCH,,,,,,,,False,False,False
+d1cffcb4-c7e0-5ec5-8fdb-d540dcba7eb3__TO__e51bc773-d8e6-5354-b5a6-b655f74dd604,2024,30,Pietro Fittipaldi,,,NO_RUN_INDEX,NO_RUN_INDEX,,,,,,,,False,False,False
+d2ae8749-6312-5afd-b193-dd23dc071124__TO__43d9c081-67f5-5d6f-8b48-9db0ac683a6c,2022,3,Scott McLaughlin,1.0,2.0,NO_MATCH,NO_MATCH,,,,,,,,False,False,False

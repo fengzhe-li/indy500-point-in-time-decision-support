@@ -1,0 +1,138 @@
+{
+  "phase": "R4F6H_V2",
+  "status": "R4F6H_V2_STRICT_ELIGIBILITY_VALIDATION_READY",
+  "strict_performance_rows": 260,
+  "strict_reference_rows": 126,
+  "strict_repeat_pairs": 55,
+  "entry_metrics": [
+    {
+      "year": 2021,
+      "n": 3,
+      "corr": 0.7101189887901647,
+      "residual_std": 0.23454281769718394,
+      "ff_loo_mae": null,
+      "mean_loo_mae": 0.28933333333333167,
+      "model_role": "DEVELOPMENT_DIAGNOSTIC"
+    },
+    {
+      "year": 2023,
+      "n": 34,
+      "corr": 0.8891528396524833,
+      "residual_std": 0.6308347672450098,
+      "ff_loo_mae": 0.49572972101968643,
+      "mean_loo_mae": 1.0881996434937595,
+      "model_role": "DEVELOPMENT_DIAGNOSTIC"
+    },
+    {
+      "year": 2024,
+      "n": 34,
+      "corr": 0.643803766485814,
+      "residual_std": 0.9086114952916428,
+      "ff_loo_mae": 0.6498981968473843,
+      "mean_loo_mae": 0.7667629233511569,
+      "model_role": "VALIDATION_ONLY"
+    }
+  ],
+  "repeat_window_metrics": [
+    {
+      "window_minutes": 20,
+      "evaluation_set": "DEVELOPMENT",
+      "n": 11,
+      "zero_mae": 0.5922727272727312,
+      "window_mae": 0.7036818181818244,
+      "mae_gain_vs_zero": -0.11140909090909323,
+      "pearson": -0.18027747878330228,
+      "sign_accuracy": 0.5454545454545454,
+      "always_improve": 0.9090909090909091
+    },
+    {
+      "window_minutes": 20,
+      "evaluation_set": "2024_VALIDATION_ONLY",
+      "n": 0,
+      "zero_mae": null,
+      "window_mae": null,
+      "mae_gain_vs_zero": null,
+      "pearson": null,
+      "sign_accuracy": null,
+      "always_improve": null
+    },
+    {
+      "window_minutes": 20,
+      "evaluation_set": "ALL_DIAGNOSTIC",
+      "n": 11,
+      "zero_mae": 0.5922727272727312,
+      "window_mae": 0.7036818181818244,
+      "mae_gain_vs_zero": -0.11140909090909323,
+      "pearson": -0.18027747878330228,
+      "sign_accuracy": 0.5454545454545454,
+      "always_improve": 0.9090909090909091
+    },
+    {
+      "window_minutes": 30,
+      "evaluation_set": "DEVELOPMENT",
+      "n": 11,
+      "zero_mae": 0.5922727272727312,
+      "window_mae": 0.6546363636363695,
+      "mae_gain_vs_zero": -0.062363636363638286,
+      "pearson": -0.1634299125248129,
+      "sign_accuracy": 0.5454545454545454,
+      "always_improve": 0.9090909090909091
+    },
+    {
+      "window_minutes": 30,
+      "evaluation_set": "2024_VALIDATION_ONLY",
+      "n": 0,
+      "zero_mae": null,
+      "window_mae": null,
+      "mae_gain_vs_zero": null,
+      "pearson": null,
+      "sign_accuracy": null,
+      "always_improve": null
+    },
+    {
+      "window_minutes": 30,
+      "evaluation_set": "ALL_DIAGNOSTIC",
+      "n": 11,
+      "zero_mae": 0.5922727272727312,
+      "window_mae": 0.6546363636363695,
+      "mae_gain_vs_zero": -0.062363636363638286,
+      "pearson": -0.1634299125248129,
+      "sign_accuracy": 0.5454545454545454,
+      "always_improve": 0.9090909090909091
+    },
+    {
+      "window_minutes": 45,
+      "evaluation_set": "DEVELOPMENT",
+      "n": 12,
+      "zero_mae": 0.5690833333333387,
+      "window_mae": 0.6657083333333359,
+      "mae_gain_vs_zero": -0.09662499999999719,
+      "pearson": -0.43718092267685243,
+      "sign_accuracy": 0.5833333333333334,
+      "always_improve": 0.8333333333333334
+    },
+    {
+      "window_minutes": 45,
+      "evaluation_set": "2024_VALIDATION_ONLY",
+      "n": 0,
+      "zero_mae": null,
+      "window_mae": null,
+      "mae_gain_vs_zero": null,
+      "pearson": null,
+      "sign_accuracy": null,
+      "always_improve": null
+    },
+    {
+      "window_minutes": 45,
+      "evaluation_set": "ALL_DIAGNOSTIC",
+      "n": 12,
+      "zero_mae": 0.5690833333333387,
+      "window_mae": 0.6657083333333359,
+      "mae_gain_vs_zero": -0.09662499999999719,
+      "pearson": -0.43718092267685243,
+      "sign_accuracy": 0.5833333333333334,
+      "always_improve": 0.8333333333333334
+    }
+  ],
+  "interpretation_rule": "Fast Friday entry-reference quality and local common-window recovery are evaluated as separate hypotheses."
+}

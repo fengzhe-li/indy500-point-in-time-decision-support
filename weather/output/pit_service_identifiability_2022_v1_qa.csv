@@ -1,0 +1,10 @@
+﻿metric,value,status
+local_service_promotions_zero,0,PASS
+local_unresolved_direct_service_zero,0,PASS
+marco_electrical_state_exactly_one,1,PASS
+direct_service_evidence_zero,0,PASS
+service_status_not_identifiable,1,PASS
+repair_not_inferred,1,PASS
+technical_state_ledger_rows_is_1,1,PASS
+not_observed_not_none_policy,1,PASS
+active_ledger_mutation,0,PASS

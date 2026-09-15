@@ -1,0 +1,1399 @@
+Event:     106th Running of the Indianapolis 500                                                    Round 6
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                            NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                        May 21, 2022
+                                        Track map included on last page of report
+
+Section: Lap                                                                                 Length: 2.500000 mile(s)
+           Rank   Car   Driver                                 C/E/T            Time            Speed     Lap
+             1    21    VeeKay, Rinus                          D/C/F         00:38.3465         234.702    0
+             2    10    Palou, Alex                            D/H/F         00:38.5293         233.588    0
+             3     7    Rosenqvist, Felix                      D/C/F         00:38.5419         233.512    0
+             4     5    O'Ward, Pato                           D/C/F         00:38.5602         233.401    0
+             5     2    Newgarden, Josef                       D/C/F         00:38.5920         233.209    0
+             6     1    Kanaan, Tony                           D/H/F         00:38.5968         233.180    0
+             7    48    Johnson, Jimmie (R)                    D/H/F         00:38.6043         233.135    0
+             8    33    Carpenter, Ed                          D/C/F         00:38.6342         232.954    0
+             9     3    McLaughlin, Scott                      D/C/F         00:38.6547         232.831    0
+            10     9    Dixon, Scott                           D/H/F         00:38.6681         232.750    0
+            11     8    Ericsson, Marcus                       D/H/F         00:38.6717         232.728    0
+            12    27    Rossi, Alexander                       D/H/F         00:38.6797         232.680    0
+            13    28    Grosjean, Romain (R)                   D/H/F         00:38.6937         232.596    0
+            14    51    Sato, Takuma                           D/H/F         00:38.7001         232.558    1
+            15    24    Karam, Sage                            D/C/F         00:38.7005         232.555    0
+            16    12    Power, Will                            D/C/F         00:38.7121         232.485    0
+            17    18    Malukas, David (R)                     D/H/F         00:38.7127         232.482    5
+            18    20    Daly, Conor                            D/C/F         00:38.7183         232.448    0
+            19    23    Ferrucci, Santino                      D/C/F         00:38.7531         232.239    0
+            20    60    Pagenaud, Simon                        D/H/F         00:38.7615         232.189    0
+            21    77    Ilott, Callum (R)                      D/C/F         00:38.8151         231.869    5
+            22    11    Hildebrand, JR                         D/C/F         00:38.8600         231.601    0
+            23    29    DeFrancesco, Devlin (R)                D/H/F         00:38.8751         231.511    0
+            24    15    Rahal, Graham                          D/H/F         00:38.9471         231.083    0
+            25    98    Andretti, Marco                        D/H/F         00:38.9617         230.996    5
+            26    26    Herta, Colton                          D/H/F         00:39.0264         230.613    0
+            27    06    Castroneves, Helio                     D/H/F         00:39.0275         230.607    0
+            28    45    Harvey, Jack                           D/H/F         00:39.0623         230.401    0
+            29    14    Kirkwood, Kyle (R)                     D/C/F         00:39.1093         230.124    0
+            30     4    Kellett, Dalton                        D/C/F         00:39.1861         229.673    0
+            31     6    Montoya, Juan Pablo                    D/C/F         00:39.2195         229.478    0
+            32    30    Lundgaard, Christian (R)               D/H/F         00:39.3861         228.507    1
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 1 of 30
+Event:     106th Running of the Indianapolis 500                                                      Round 6
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                             NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                          May 21, 2022
+
+Section: SF to T1                                                                              Length: 0.187121 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1      21    VeeKay, Rinus                         D/C/F         00:02.8154          239.268    0
+             2       5    O'Ward, Pato                          D/C/F         00:02.8412          237.096    3
+             3       7    Rosenqvist, Felix                     D/C/F         00:02.8446          236.812    1
+             4      48    Johnson, Jimmie (R)                   D/H/F         00:02.8479          236.538    1
+             5      33    Carpenter, Ed                         D/C/F         00:02.8499          236.372    0
+             6      28    Grosjean, Romain (R)                  D/H/F         00:02.8538          236.049    2
+             7      24    Karam, Sage                           D/C/F         00:02.8538          236.049    7
+             8      10    Palou, Alex                           D/H/F         00:02.8550          235.950    1
+             9       1    Kanaan, Tony                          D/H/F         00:02.8566          235.818    1
+            10       3    McLaughlin, Scott                     D/C/F         00:02.8622          235.356    8
+            11      23    Ferrucci, Santino                     D/C/F         00:02.8628          235.307    0
+            12      11    Hildebrand, JR                        D/C/F         00:02.8628          235.307    1
+            13      77    Ilott, Callum (R)                     D/C/F         00:02.8646          235.159    0
+            14      12    Power, Will                           D/C/F         00:02.8650          235.126    1
+            15      51    Sato, Takuma                          D/H/F         00:02.8666          234.995    1
+            16      27    Rossi, Alexander                      D/H/F         00:02.8676          234.913    0
+            17      29    DeFrancesco, Devlin (R)               D/H/F         00:02.8677          234.905    0
+            18       2    Newgarden, Josef                      D/C/F         00:02.8688          234.815    0
+            19       6    Montoya, Juan Pablo                   D/C/F         00:02.8725          234.512    1
+            20       9    Dixon, Scott                          D/H/F         00:02.8738          234.406    0
+            21      18    Malukas, David (R)                    D/H/F         00:02.8743          234.365    8
+            22      20    Daly, Conor                           D/C/F         00:02.8758          234.243    0
+            23       8    Ericsson, Marcus                      D/H/F         00:02.8777          234.088    0
+            24      60    Pagenaud, Simon                       D/H/F         00:02.8790          233.983    0
+            25      98    Andretti, Marco                       D/H/F         00:02.8805          233.861    5
+            26      15    Rahal, Graham                         D/H/F         00:02.8814          233.788    0
+            27      26    Herta, Colton                         D/H/F         00:02.8826          233.691    0
+            28      06    Castroneves, Helio                    D/H/F         00:02.8831          233.650    7
+            29      30    Lundgaard, Christian (R)              D/H/F         00:02.8962          232.593    2
+            30      14    Kirkwood, Kyle (R)                    D/C/F         00:02.8973          232.505    1
+            31       4    Kellett, Dalton                       D/C/F         00:02.9028          232.064    1
+            32      45    Harvey, Jack                          D/H/F         00:02.9085          231.610    1
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 2 of 30
+Event:     106th Running of the Indianapolis 500                                                    Round 6
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                           NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                        May 21, 2022
+
+Section: T1 to SS1                                                                           Length: 0.312500 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    21    VeeKay, Rinus                         D/C/F         00:04.7866          235.031    0
+             2     5    O'Ward, Pato                          D/C/F         00:04.8253          233.146    1
+             3     7    Rosenqvist, Felix                     D/C/F         00:04.8270          233.064    0
+             4    48    Johnson, Jimmie (R)                   D/H/F         00:04.8285          232.992    0
+             5     1    Kanaan, Tony                          D/H/F         00:04.8402          232.428    0
+             6     2    Newgarden, Josef                      D/C/F         00:04.8434          232.275    0
+             7    10    Palou, Alex                           D/H/F         00:04.8453          232.184    1
+             8    28    Grosjean, Romain (R)                  D/H/F         00:04.8459          232.155    0
+             9    24    Karam, Sage                           D/C/F         00:04.8468          232.112    5
+            10    77    Ilott, Callum (R)                     D/C/F         00:04.8480          232.054    5
+            11     3    McLaughlin, Scott                     D/C/F         00:04.8549          231.725    5
+            12    18    Malukas, David (R)                    D/H/F         00:04.8555          231.696    5
+            13    33    Carpenter, Ed                         D/C/F         00:04.8584          231.558    2
+            14    11    Hildebrand, JR                        D/C/F         00:04.8585          231.553    0
+            15    12    Power, Will                           D/C/F         00:04.8587          231.543    0
+            16    51    Sato, Takuma                          D/H/F         00:04.8602          231.472    1
+            17    23    Ferrucci, Santino                     D/C/F         00:04.8609          231.439    0
+            18     8    Ericsson, Marcus                      D/H/F         00:04.8725          230.888    0
+            19    27    Rossi, Alexander                      D/H/F         00:04.8730          230.864    0
+            20    60    Pagenaud, Simon                       D/H/F         00:04.8738          230.826    0
+            21    20    Daly, Conor                           D/C/F         00:04.8742          230.807    0
+            22     9    Dixon, Scott                          D/H/F         00:04.8755          230.746    0
+            23    29    DeFrancesco, Devlin (R)               D/H/F         00:04.8788          230.589    1
+            24    15    Rahal, Graham                         D/H/F         00:04.8818          230.448    0
+            25    98    Andretti, Marco                       D/H/F         00:04.8852          230.287    5
+            26    26    Herta, Colton                         D/H/F         00:04.8886          230.127    0
+            27    06    Castroneves, Helio                    D/H/F         00:04.8913          230.000    5
+            28    14    Kirkwood, Kyle (R)                    D/C/F         00:04.8973          229.718    0
+            29     6    Montoya, Juan Pablo                   D/C/F         00:04.8996          229.611    0
+            30     4    Kellett, Dalton                       D/C/F         00:04.9133          228.970    0
+            31    45    Harvey, Jack                          D/H/F         00:04.9262          228.371    0
+            32    30    Lundgaard, Christian (R)              D/H/F         00:04.9837          225.736    2
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 3 of 30
+Event:     106th Running of the Indianapolis 500                                                    Round 6
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                           NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                        May 21, 2022
+
+Section: SS1 to T2                                                                           Length: 0.312500 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    21    VeeKay, Rinus                         D/C/F         00:04.8621          231.382    0
+             2     7    Rosenqvist, Felix                     D/C/F         00:04.8635          231.315    0
+             3    48    Johnson, Jimmie (R)                   D/H/F         00:04.8753          230.755    0
+             4    18    Malukas, David (R)                    D/H/F         00:04.8763          230.708    5
+             5     1    Kanaan, Tony                          D/H/F         00:04.8820          230.438    0
+             6    51    Sato, Takuma                          D/H/F         00:04.8821          230.434    5
+             7     5    O'Ward, Pato                          D/C/F         00:04.8841          230.339    0
+             8    10    Palou, Alex                           D/H/F         00:04.8863          230.236    0
+             9     2    Newgarden, Josef                      D/C/F         00:04.8891          230.104    0
+            10    77    Ilott, Callum (R)                     D/C/F         00:04.8899          230.066    5
+            11    28    Grosjean, Romain (R)                  D/H/F         00:04.8979          229.690    0
+            12    12    Power, Will                           D/C/F         00:04.9013          229.531    0
+            13    24    Karam, Sage                           D/C/F         00:04.9021          229.493    5
+            14     3    McLaughlin, Scott                     D/C/F         00:04.9046          229.377    5
+            15     8    Ericsson, Marcus                      D/H/F         00:04.9070          229.264    0
+            16    60    Pagenaud, Simon                       D/H/F         00:04.9092          229.162    0
+            17    23    Ferrucci, Santino                     D/C/F         00:04.9101          229.120    0
+            18    27    Rossi, Alexander                      D/H/F         00:04.9119          229.036    0
+            19    20    Daly, Conor                           D/C/F         00:04.9136          228.956    0
+            20    33    Carpenter, Ed                         D/C/F         00:04.9153          228.877    1
+            21     9    Dixon, Scott                          D/H/F         00:04.9158          228.854    0
+            22    11    Hildebrand, JR                        D/C/F         00:04.9193          228.691    0
+            23    29    DeFrancesco, Devlin (R)               D/H/F         00:04.9202          228.649    0
+            24    98    Andretti, Marco                       D/H/F         00:04.9226          228.538    5
+            25    15    Rahal, Graham                         D/H/F         00:04.9245          228.450    0
+            26    06    Castroneves, Helio                    D/H/F         00:04.9298          228.204    5
+            27    14    Kirkwood, Kyle (R)                    D/C/F         00:04.9343          227.996    0
+            28    26    Herta, Colton                         D/H/F         00:04.9370          227.871    0
+            29     4    Kellett, Dalton                       D/C/F         00:04.9520          227.181    1
+            30    45    Harvey, Jack                          D/H/F         00:04.9590          226.860    0
+            31     6    Montoya, Juan Pablo                   D/C/F         00:04.9851          225.673    0
+            32    30    Lundgaard, Christian (R)              D/H/F         00:05.0104          224.533    1
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 4 of 30
+Event:     106th Running of the Indianapolis 500                                                      Round 6
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                             NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                          May 21, 2022
+
+Section: T2 to BS                                                                              Length: 0.312500 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1       2    Newgarden, Josef                      D/C/F         00:04.7902          234.854    0
+             2      60    Pagenaud, Simon                       D/H/F         00:04.8007          234.341    0
+             3       7    Rosenqvist, Felix                     D/C/F         00:04.8032          234.219    0
+             4      10    Palou, Alex                           D/H/F         00:04.8038          234.190    0
+             5      12    Power, Will                           D/C/F         00:04.8046          234.151    0
+             6       1    Kanaan, Tony                          D/H/F         00:04.8051          234.126    0
+             7      18    Malukas, David (R)                    D/H/F         00:04.8060          234.082    5
+             8      51    Sato, Takuma                          D/H/F         00:04.8063          234.068    5
+             9      48    Johnson, Jimmie (R)                   D/H/F         00:04.8111          233.834    0
+            10      21    VeeKay, Rinus                         D/C/F         00:04.8113          233.825    0
+            11      24    Karam, Sage                           D/C/F         00:04.8138          233.703    0
+            12      33    Carpenter, Ed                         D/C/F         00:04.8147          233.659    0
+            13       3    McLaughlin, Scott                     D/C/F         00:04.8173          233.533    0
+            14      27    Rossi, Alexander                      D/H/F         00:04.8193          233.436    0
+            15       9    Dixon, Scott                          D/H/F         00:04.8195          233.427    0
+            16       5    O'Ward, Pato                          D/C/F         00:04.8207          233.369    0
+            17       8    Ericsson, Marcus                      D/H/F         00:04.8226          233.277    0
+            18      28    Grosjean, Romain (R)                  D/H/F         00:04.8237          233.223    0
+            19      77    Ilott, Callum (R)                     D/C/F         00:04.8301          232.914    5
+            20      20    Daly, Conor                           D/C/F         00:04.8307          232.886    0
+            21      98    Andretti, Marco                       D/H/F         00:04.8331          232.770    5
+            22      23    Ferrucci, Santino                     D/C/F         00:04.8366          232.601    0
+            23      06    Castroneves, Helio                    D/H/F         00:04.8383          232.520    5
+            24      29    DeFrancesco, Devlin (R)               D/H/F         00:04.8394          232.467    0
+            25      15    Rahal, Graham                         D/H/F         00:04.8473          232.088    0
+            26      26    Herta, Colton                         D/H/F         00:04.8483          232.040    0
+            27      11    Hildebrand, JR                        D/C/F         00:04.8504          231.940    0
+            28      45    Harvey, Jack                          D/H/F         00:04.8570          231.624    0
+            29       4    Kellett, Dalton                       D/C/F         00:04.8681          231.096    0
+            30      14    Kirkwood, Kyle (R)                    D/C/F         00:04.8709          230.963    1
+            31      30    Lundgaard, Christian (R)              D/H/F         00:04.8862          230.240    1
+            32       6    Montoya, Juan Pablo                   D/C/F         00:04.9159          228.849    3
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 5 of 30
+Event:     106th Running of the Indianapolis 500                                                      Round 6
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                             NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                          May 21, 2022
+
+Section: BS to T3                                                                              Length: 0.312500 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1      33    Carpenter, Ed                         D/C/F         00:04.6973          239.499    0
+             2       2    Newgarden, Josef                      D/C/F         00:04.6997          239.377    0
+             3      60    Pagenaud, Simon                       D/H/F         00:04.7133          238.686    0
+             4      24    Karam, Sage                           D/C/F         00:04.7150          238.600    0
+             5       8    Ericsson, Marcus                      D/H/F         00:04.7153          238.585    0
+             6      12    Power, Will                           D/C/F         00:04.7174          238.479    0
+             7      10    Palou, Alex                           D/H/F         00:04.7179          238.454    0
+             8      27    Rossi, Alexander                      D/H/F         00:04.7200          238.347    0
+             9       3    McLaughlin, Scott                     D/C/F         00:04.7203          238.332    0
+            10      21    VeeKay, Rinus                         D/C/F         00:04.7222          238.236    0
+            11      20    Daly, Conor                           D/C/F         00:04.7233          238.181    0
+            12      51    Sato, Takuma                          D/H/F         00:04.7280          237.944    5
+            13       9    Dixon, Scott                          D/H/F         00:04.7288          237.904    0
+            14      18    Malukas, David (R)                    D/H/F         00:04.7318          237.753    5
+            15       1    Kanaan, Tony                          D/H/F         00:04.7325          237.718    0
+            16      23    Ferrucci, Santino                     D/C/F         00:04.7416          237.262    0
+            17       7    Rosenqvist, Felix                     D/C/F         00:04.7471          236.987    0
+            18      48    Johnson, Jimmie (R)                   D/H/F         00:04.7481          236.937    0
+            19      45    Harvey, Jack                          D/H/F         00:04.7504          236.822    0
+            20       5    O'Ward, Pato                          D/C/F         00:04.7512          236.782    0
+            21      28    Grosjean, Romain (R)                  D/H/F         00:04.7574          236.474    0
+            22      77    Ilott, Callum (R)                     D/C/F         00:04.7613          236.280    5
+            23      98    Andretti, Marco                       D/H/F         00:04.7663          236.032    5
+            24      06    Castroneves, Helio                    D/H/F         00:04.7664          236.027    0
+            25      29    DeFrancesco, Devlin (R)               D/H/F         00:04.7675          235.973    0
+            26      11    Hildebrand, JR                        D/C/F         00:04.7725          235.726    3
+            27       6    Montoya, Juan Pablo                   D/C/F         00:04.7762          235.543    3
+            28      15    Rahal, Graham                         D/H/F         00:04.7786          235.425    0
+            29      14    Kirkwood, Kyle (R)                    D/C/F         00:04.7813          235.292    1
+            30      26    Herta, Colton                         D/H/F         00:04.7826          235.228    0
+            31      30    Lundgaard, Christian (R)              D/H/F         00:04.7842          235.149    1
+            32       4    Kellett, Dalton                       D/C/F         00:04.7892          234.904    0
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 6 of 30
+Event:     106th Running of the Indianapolis 500                                                    Round 6
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                           NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                        May 21, 2022
+
+Section: T3 to SS2                                                                           Length: 0.312500 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1     2    Newgarden, Josef                      D/C/F         00:04.7920          234.766    0
+             2     9    Dixon, Scott                          D/H/F         00:04.7989          234.429    0
+             3     3    McLaughlin, Scott                     D/C/F         00:04.7993          234.409    0
+             4    20    Daly, Conor                           D/C/F         00:04.7996          234.395    0
+             5    21    VeeKay, Rinus                         D/C/F         00:04.8002          234.365    0
+             6    33    Carpenter, Ed                         D/C/F         00:04.8023          234.263    1
+             7     8    Ericsson, Marcus                      D/H/F         00:04.8027          234.243    1
+             8    10    Palou, Alex                           D/H/F         00:04.8029          234.233    0
+             9    24    Karam, Sage                           D/C/F         00:04.8111          233.834    0
+            10    51    Sato, Takuma                          D/H/F         00:04.8114          233.820    1
+            11    27    Rossi, Alexander                      D/H/F         00:04.8133          233.727    0
+            12     1    Kanaan, Tony                          D/H/F         00:04.8146          233.664    0
+            13    12    Power, Will                           D/C/F         00:04.8171          233.543    0
+            14    60    Pagenaud, Simon                       D/H/F         00:04.8179          233.504    0
+            15    48    Johnson, Jimmie (R)                   D/H/F         00:04.8283          233.001    0
+            16     7    Rosenqvist, Felix                     D/C/F         00:04.8335          232.751    2
+            17    18    Malukas, David (R)                    D/H/F         00:04.8341          232.722    5
+            18     5    O'Ward, Pato                          D/C/F         00:04.8364          232.611    0
+            19    23    Ferrucci, Santino                     D/C/F         00:04.8375          232.558    0
+            20    06    Castroneves, Helio                    D/H/F         00:04.8379          232.539    0
+            21    28    Grosjean, Romain (R)                  D/H/F         00:04.8419          232.347    0
+            22    45    Harvey, Jack                          D/H/F         00:04.8431          232.289    0
+            23    77    Ilott, Callum (R)                     D/C/F         00:04.8507          231.925    5
+            24    11    Hildebrand, JR                        D/C/F         00:04.8574          231.605    0
+            25    98    Andretti, Marco                       D/H/F         00:04.8653          231.229    5
+            26    29    DeFrancesco, Devlin (R)               D/H/F         00:04.8668          231.158    0
+            27    15    Rahal, Graham                         D/H/F         00:04.8678          231.111    0
+            28    14    Kirkwood, Kyle (R)                    D/C/F         00:04.8693          231.039    0
+            29     6    Montoya, Juan Pablo                   D/C/F         00:04.8741          230.812    1
+            30     4    Kellett, Dalton                       D/C/F         00:04.8772          230.665    0
+            31    26    Herta, Colton                         D/H/F         00:04.8850          230.297    0
+            32    30    Lundgaard, Christian (R)              D/H/F         00:04.9285          228.264    1
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 7 of 30
+Event:     106th Running of the Indianapolis 500                                                    Round 6
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                           NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                        May 21, 2022
+
+Section: SS2 to T4                                                                           Length: 0.312500 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    21    VeeKay, Rinus                         D/C/F         00:04.8528          231.825    0
+             2    10    Palou, Alex                           D/H/F         00:04.8640          231.291    0
+             3     9    Dixon, Scott                          D/H/F         00:04.8673          231.134    0
+             4     8    Ericsson, Marcus                      D/H/F         00:04.8739          230.821    0
+             5    33    Carpenter, Ed                         D/C/F         00:04.8755          230.746    0
+             6     3    McLaughlin, Scott                     D/C/F         00:04.8777          230.641    0
+             7    51    Sato, Takuma                          D/H/F         00:04.8829          230.396    0
+             8     5    O'Ward, Pato                          D/C/F         00:04.8862          230.240    0
+             9     7    Rosenqvist, Felix                     D/C/F         00:04.8862          230.240    0
+            10    20    Daly, Conor                           D/C/F         00:04.8900          230.061    0
+            11     1    Kanaan, Tony                          D/H/F         00:04.8913          230.000    0
+            12    27    Rossi, Alexander                      D/H/F         00:04.8942          229.864    0
+            13     2    Newgarden, Josef                      D/C/F         00:04.8989          229.643    0
+            14    24    Karam, Sage                           D/C/F         00:04.9008          229.554    0
+            15    28    Grosjean, Romain (R)                  D/H/F         00:04.9025          229.475    0
+            16    48    Johnson, Jimmie (R)                   D/H/F         00:04.9050          229.358    0
+            17    23    Ferrucci, Santino                     D/C/F         00:04.9063          229.297    0
+            18    18    Malukas, David (R)                    D/H/F         00:04.9091          229.166    0
+            19    06    Castroneves, Helio                    D/H/F         00:04.9137          228.952    0
+            20    77    Ilott, Callum (R)                     D/C/F         00:04.9249          228.431    0
+            21    12    Power, Will                           D/C/F         00:04.9294          228.223    0
+            22    29    DeFrancesco, Devlin (R)               D/H/F         00:04.9343          227.996    0
+            23    11    Hildebrand, JR                        D/C/F         00:04.9377          227.839    0
+            24    60    Pagenaud, Simon                       D/H/F         00:04.9379          227.830    0
+            25    98    Andretti, Marco                       D/H/F         00:04.9417          227.654    0
+            26    45    Harvey, Jack                          D/H/F         00:04.9419          227.645    0
+            27    15    Rahal, Graham                         D/H/F         00:04.9424          227.622    0
+            28     6    Montoya, Juan Pablo                   D/C/F         00:04.9671          226.490    0
+            29    26    Herta, Colton                         D/H/F         00:04.9691          226.399    0
+            30    14    Kirkwood, Kyle (R)                    D/C/F         00:04.9695          226.381    0
+            31     4    Kellett, Dalton                       D/C/F         00:04.9769          226.044    0
+            32    30    Lundgaard, Christian (R)              D/H/F         00:05.0103          224.537    1
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 8 of 30
+Event:     106th Running of the Indianapolis 500                                                      Round 6
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                             NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                          May 21, 2022
+
+Section: T4 to FS                                                                              Length: 0.200000 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1      21    VeeKay, Rinus                         D/C/F         00:03.0778          233.933    0
+             2       5    O'Ward, Pato                          D/C/F         00:03.0853          233.365    0
+             3      33    Carpenter, Ed                         D/C/F         00:03.0922          232.844    0
+             4       7    Rosenqvist, Felix                     D/C/F         00:03.0930          232.784    0
+             5      10    Palou, Alex                           D/H/F         00:03.0999          232.266    0
+             6      48    Johnson, Jimmie (R)                   D/H/F         00:03.1089          231.593    0
+             7      28    Grosjean, Romain (R)                  D/H/F         00:03.1090          231.586    0
+             8      51    Sato, Takuma                          D/H/F         00:03.1099          231.519    0
+             9       9    Dixon, Scott                          D/H/F         00:03.1103          231.489    0
+            10      27    Rossi, Alexander                      D/H/F         00:03.1107          231.459    0
+            11       3    McLaughlin, Scott                     D/C/F         00:03.1108          231.452    0
+            12       1    Kanaan, Tony                          D/H/F         00:03.1112          231.422    0
+            13      29    DeFrancesco, Devlin (R)               D/H/F         00:03.1161          231.058    0
+            14       8    Ericsson, Marcus                      D/H/F         00:03.1177          230.939    0
+            15      23    Ferrucci, Santino                     D/C/F         00:03.1188          230.858    0
+            16      18    Malukas, David (R)                    D/H/F         00:03.1203          230.747    0
+            17      77    Ilott, Callum (R)                     D/C/F         00:03.1238          230.489    0
+            18      24    Karam, Sage                           D/C/F         00:03.1248          230.415    5
+            19      20    Daly, Conor                           D/C/F         00:03.1267          230.275    0
+            20      15    Rahal, Graham                         D/H/F         00:03.1274          230.223    0
+            21      98    Andretti, Marco                       D/H/F         00:03.1288          230.120    0
+            22       2    Newgarden, Josef                      D/C/F         00:03.1299          230.039    0
+            23      11    Hildebrand, JR                        D/C/F         00:03.1302          230.017    0
+            24      12    Power, Will                           D/C/F         00:03.1321          229.878    0
+            25      60    Pagenaud, Simon                       D/H/F         00:03.1326          229.841    0
+            26      06    Castroneves, Helio                    D/H/F         00:03.1363          229.570    0
+            27      26    Herta, Colton                         D/H/F         00:03.1426          229.110    0
+            28       6    Montoya, Juan Pablo                   D/C/F         00:03.1465          228.826    1
+            29      45    Harvey, Jack                          D/H/F         00:03.1535          228.318    0
+            30      14    Kirkwood, Kyle (R)                    D/C/F         00:03.1572          228.050    0
+            31       4    Kellett, Dalton                       D/C/F         00:03.1577          228.014    0
+            32      30    Lundgaard, Christian (R)              D/H/F         00:03.1660          227.416    1
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 9 of 30
+Event:     106th Running of the Indianapolis 500                                                      Round 6
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                             NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                          May 21, 2022
+
+Section: FS to SF                                                                              Length: 0.237879 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1      21    VeeKay, Rinus                         D/C/F         00:03.6131          237.016    0
+             2       5    O'Ward, Pato                          D/C/F         00:03.6233          236.349    0
+             3       7    Rosenqvist, Felix                     D/C/F         00:03.6350          235.588    0
+             4      33    Carpenter, Ed                         D/C/F         00:03.6458          234.890    0
+             5      48    Johnson, Jimmie (R)                   D/H/F         00:03.6474          234.787    0
+             6      10    Palou, Alex                           D/H/F         00:03.6501          234.614    0
+             7      24    Karam, Sage                           D/C/F         00:03.6557          234.254    5
+             8      28    Grosjean, Romain (R)                  D/H/F         00:03.6560          234.235    1
+             9       1    Kanaan, Tony                          D/H/F         00:03.6597          233.998    0
+            10      51    Sato, Takuma                          D/H/F         00:03.6652          233.647    5
+            11      51    Sato, Takuma                          D/H/F         00:03.6652          233.647    0
+            12      27    Rossi, Alexander                      D/H/F         00:03.6653          233.641    0
+            13      18    Malukas, David (R)                    D/H/F         00:03.6672          233.520    6
+            14       3    McLaughlin, Scott                     D/C/F         00:03.6677          233.488    7
+            15      11    Hildebrand, JR                        D/C/F         00:03.6683          233.450    0
+            16      29    DeFrancesco, Devlin (R)               D/H/F         00:03.6685          233.437    0
+            17      77    Ilott, Callum (R)                     D/C/F         00:03.6704          233.316    0
+            18       9    Dixon, Scott                          D/H/F         00:03.6725          233.183    0
+            19      23    Ferrucci, Santino                     D/C/F         00:03.6731          233.145    0
+            20       8    Ericsson, Marcus                      D/H/F         00:03.6778          232.847    0
+            21      12    Power, Will                           D/C/F         00:03.6781          232.828    0
+            22       2    Newgarden, Josef                      D/C/F         00:03.6800          232.708    0
+            23      20    Daly, Conor                           D/C/F         00:03.6821          232.575    0
+            24      15    Rahal, Graham                         D/H/F         00:03.6832          232.505    0
+            25      98    Andretti, Marco                       D/H/F         00:03.6866          232.291    0
+            26      60    Pagenaud, Simon                       D/H/F         00:03.6891          232.133    0
+            27      26    Herta, Colton                         D/H/F         00:03.6906          232.039    0
+            28      06    Castroneves, Helio                    D/H/F         00:03.6916          231.976    0
+            29       6    Montoya, Juan Pablo                   D/C/F         00:03.6928          231.901    1
+            30      14    Kirkwood, Kyle (R)                    D/C/F         00:03.7094          230.863    0
+            31      30    Lundgaard, Christian (R)              D/H/F         00:03.7109          230.770    1
+            32      45    Harvey, Jack                          D/H/F         00:03.7178          230.342    0
+            33       4    Kellett, Dalton                       D/C/F         00:03.7196          230.230    0
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 10 of 30
+Event:     106th Running of the Indianapolis 500                                                      Round 6
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                             NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                          May 21, 2022
+
+Section: T1 to T2                                                                              Length: 0.625000 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1      21    VeeKay, Rinus                         D/C/F         00:09.6487          233.192    0
+             2       7    Rosenqvist, Felix                     D/C/F         00:09.6905          232.186    0
+             3      48    Johnson, Jimmie (R)                   D/H/F         00:09.7038          231.868    0
+             4       5    O'Ward, Pato                          D/C/F         00:09.7127          231.655    0
+             5       1    Kanaan, Tony                          D/H/F         00:09.7222          231.429    0
+             6      18    Malukas, David (R)                    D/H/F         00:09.7318          231.201    5
+             7      10    Palou, Alex                           D/H/F         00:09.7323          231.189    0
+             8       2    Newgarden, Josef                      D/C/F         00:09.7325          231.184    0
+             9      77    Ilott, Callum (R)                     D/C/F         00:09.7379          231.056    5
+            10      28    Grosjean, Romain (R)                  D/H/F         00:09.7438          230.916    0
+            11      24    Karam, Sage                           D/C/F         00:09.7489          230.795    5
+            12      51    Sato, Takuma                          D/H/F         00:09.7509          230.748    5
+            13       3    McLaughlin, Scott                     D/C/F         00:09.7595          230.545    5
+            14      12    Power, Will                           D/C/F         00:09.7600          230.533    0
+            15      23    Ferrucci, Santino                     D/C/F         00:09.7710          230.273    0
+            16      33    Carpenter, Ed                         D/C/F         00:09.7767          230.139    2
+            17      11    Hildebrand, JR                        D/C/F         00:09.7778          230.113    0
+            18       8    Ericsson, Marcus                      D/H/F         00:09.7795          230.073    0
+            19      60    Pagenaud, Simon                       D/H/F         00:09.7830          229.991    0
+            20      27    Rossi, Alexander                      D/H/F         00:09.7849          229.946    0
+            21      20    Daly, Conor                           D/C/F         00:09.7878          229.878    0
+            22       9    Dixon, Scott                          D/H/F         00:09.7913          229.796    0
+            23      29    DeFrancesco, Devlin (R)               D/H/F         00:09.8011          229.566    0
+            24      15    Rahal, Graham                         D/H/F         00:09.8063          229.444    0
+            25      98    Andretti, Marco                       D/H/F         00:09.8078          229.409    5
+            26      06    Castroneves, Helio                    D/H/F         00:09.8211          229.099    5
+            27      26    Herta, Colton                         D/H/F         00:09.8256          228.994    0
+            28      14    Kirkwood, Kyle (R)                    D/C/F         00:09.8316          228.854    0
+            29       4    Kellett, Dalton                       D/C/F         00:09.8661          228.054    1
+            30       6    Montoya, Juan Pablo                   D/C/F         00:09.8847          227.625    0
+            31      45    Harvey, Jack                          D/H/F         00:09.8852          227.613    0
+            32      30    Lundgaard, Christian (R)              D/H/F         00:09.9955          225.101    1
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 11 of 30
+Event:     106th Running of the Indianapolis 500                                                      Round 6
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                             NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                          May 21, 2022
+
+Section: T2 to T3                                                                              Length: 0.625000 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1       2    Newgarden, Josef                      D/C/F         00:09.4899          237.094    0
+             2      33    Carpenter, Ed                         D/C/F         00:09.5120          236.543    0
+             3      60    Pagenaud, Simon                       D/H/F         00:09.5140          236.494    0
+             4      10    Palou, Alex                           D/H/F         00:09.5217          236.302    0
+             5      12    Power, Will                           D/C/F         00:09.5220          236.295    0
+             6      24    Karam, Sage                           D/C/F         00:09.5288          236.126    0
+             7      21    VeeKay, Rinus                         D/C/F         00:09.5335          236.010    0
+             8      51    Sato, Takuma                          D/H/F         00:09.5343          235.990    5
+             9       3    McLaughlin, Scott                     D/C/F         00:09.5376          235.908    0
+            10       1    Kanaan, Tony                          D/H/F         00:09.5376          235.908    0
+            11      18    Malukas, David (R)                    D/H/F         00:09.5378          235.903    5
+            12       8    Ericsson, Marcus                      D/H/F         00:09.5379          235.901    0
+            13      27    Rossi, Alexander                      D/H/F         00:09.5393          235.866    0
+            14       9    Dixon, Scott                          D/H/F         00:09.5483          235.644    0
+            15       7    Rosenqvist, Felix                     D/C/F         00:09.5503          235.595    0
+            16      20    Daly, Conor                           D/C/F         00:09.5540          235.503    0
+            17      48    Johnson, Jimmie (R)                   D/H/F         00:09.5592          235.375    0
+            18       5    O'Ward, Pato                          D/C/F         00:09.5719          235.063    0
+            19      23    Ferrucci, Santino                     D/C/F         00:09.5782          234.908    0
+            20      28    Grosjean, Romain (R)                  D/H/F         00:09.5811          234.837    0
+            21      77    Ilott, Callum (R)                     D/C/F         00:09.5914          234.585    5
+            22      98    Andretti, Marco                       D/H/F         00:09.5994          234.390    5
+            23      29    DeFrancesco, Devlin (R)               D/H/F         00:09.6069          234.207    0
+            24      45    Harvey, Jack                          D/H/F         00:09.6074          234.194    0
+            25      11    Hildebrand, JR                        D/C/F         00:09.6235          233.803    0
+            26      15    Rahal, Graham                         D/H/F         00:09.6259          233.744    0
+            27      06    Castroneves, Helio                    D/H/F         00:09.6268          233.723    5
+            28      26    Herta, Colton                         D/H/F         00:09.6309          233.623    0
+            29      14    Kirkwood, Kyle (R)                    D/C/F         00:09.6522          233.107    1
+            30       4    Kellett, Dalton                       D/C/F         00:09.6573          232.984    0
+            31      30    Lundgaard, Christian (R)              D/H/F         00:09.6704          232.669    1
+            32       6    Montoya, Juan Pablo                   D/C/F         00:09.6921          232.148    3
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 12 of 30
+Event:     106th Running of the Indianapolis 500                                                      Round 6
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                             NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                          May 21, 2022
+
+Section: T3 to T4                                                                              Length: 0.625000 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1      21    VeeKay, Rinus                         D/C/F         00:09.6530          233.088    0
+             2       9    Dixon, Scott                          D/H/F         00:09.6662          232.770    0
+             3      10    Palou, Alex                           D/H/F         00:09.6669          232.753    0
+             4       3    McLaughlin, Scott                     D/C/F         00:09.6770          232.510    0
+             5       8    Ericsson, Marcus                      D/H/F         00:09.6776          232.496    0
+             6      33    Carpenter, Ed                         D/C/F         00:09.6826          232.376    0
+             7      20    Daly, Conor                           D/C/F         00:09.6896          232.208    0
+             8       2    Newgarden, Josef                      D/C/F         00:09.6909          232.177    0
+             9      51    Sato, Takuma                          D/H/F         00:09.6948          232.083    1
+            10       1    Kanaan, Tony                          D/H/F         00:09.7059          231.818    0
+            11      27    Rossi, Alexander                      D/H/F         00:09.7075          231.780    0
+            12      24    Karam, Sage                           D/C/F         00:09.7119          231.675    0
+            13       5    O'Ward, Pato                          D/C/F         00:09.7226          231.420    0
+            14       7    Rosenqvist, Felix                     D/C/F         00:09.7240          231.386    0
+            15      48    Johnson, Jimmie (R)                   D/H/F         00:09.7333          231.165    0
+            16      23    Ferrucci, Santino                     D/C/F         00:09.7438          230.916    0
+            17      28    Grosjean, Romain (R)                  D/H/F         00:09.7444          230.902    0
+            18      12    Power, Will                           D/C/F         00:09.7465          230.852    0
+            19      06    Castroneves, Helio                    D/H/F         00:09.7516          230.731    0
+            20      18    Malukas, David (R)                    D/H/F         00:09.7535          230.686    0
+            21      60    Pagenaud, Simon                       D/H/F         00:09.7558          230.632    0
+            22      45    Harvey, Jack                          D/H/F         00:09.7850          229.944    0
+            23      11    Hildebrand, JR                        D/C/F         00:09.7951          229.707    0
+            24      77    Ilott, Callum (R)                     D/C/F         00:09.7999          229.594    5
+            25      29    DeFrancesco, Devlin (R)               D/H/F         00:09.8011          229.566    0
+            26      15    Rahal, Graham                         D/H/F         00:09.8102          229.353    0
+            27      98    Andretti, Marco                       D/H/F         00:09.8324          228.835    0
+            28      14    Kirkwood, Kyle (R)                    D/C/F         00:09.8388          228.686    0
+            29       6    Montoya, Juan Pablo                   D/C/F         00:09.8480          228.473    1
+            30       4    Kellett, Dalton                       D/C/F         00:09.8541          228.331    0
+            31      26    Herta, Colton                         D/H/F         00:09.8541          228.331    0
+            32      30    Lundgaard, Christian (R)              D/H/F         00:09.9388          226.385    1
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 13 of 30
+Event:     106th Running of the Indianapolis 500                                                      Round 6
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                             NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                          May 21, 2022
+
+Section: T4 to SF                                                                              Length: 0.437879 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1      21    VeeKay, Rinus                         D/C/F         00:06.6909          235.598    0
+             2       5    O'Ward, Pato                          D/C/F         00:06.7086          234.977    0
+             3       7    Rosenqvist, Felix                     D/C/F         00:06.7280          234.299    0
+             4      33    Carpenter, Ed                         D/C/F         00:06.7380          233.951    0
+             5      10    Palou, Alex                           D/H/F         00:06.7500          233.535    0
+             6      48    Johnson, Jimmie (R)                   D/H/F         00:06.7563          233.318    0
+             7      28    Grosjean, Romain (R)                  D/H/F         00:06.7656          232.997    1
+             8       1    Kanaan, Tony                          D/H/F         00:06.7709          232.814    0
+             9      51    Sato, Takuma                          D/H/F         00:06.7751          232.670    0
+            10      27    Rossi, Alexander                      D/H/F         00:06.7760          232.639    0
+            11       3    McLaughlin, Scott                     D/C/F         00:06.7789          232.540    0
+            12      24    Karam, Sage                           D/C/F         00:06.7805          232.485    5
+            13       9    Dixon, Scott                          D/H/F         00:06.7835          232.382    0
+            14      29    DeFrancesco, Devlin (R)               D/H/F         00:06.7846          232.344    0
+            15      18    Malukas, David (R)                    D/H/F         00:06.7914          232.112    6
+            16      23    Ferrucci, Santino                     D/C/F         00:06.7932          232.050    0
+            17      77    Ilott, Callum (R)                     D/C/F         00:06.7950          231.989    0
+            18       8    Ericsson, Marcus                      D/H/F         00:06.7956          231.968    0
+            19      11    Hildebrand, JR                        D/C/F         00:06.7985          231.869    0
+            20       2    Newgarden, Josef                      D/C/F         00:06.8099          231.481    0
+            21      12    Power, Will                           D/C/F         00:06.8102          231.471    0
+            22      20    Daly, Conor                           D/C/F         00:06.8104          231.464    0
+            23      15    Rahal, Graham                         D/H/F         00:06.8106          231.457    0
+            24      98    Andretti, Marco                       D/H/F         00:06.8154          231.294    0
+            25      60    Pagenaud, Simon                       D/H/F         00:06.8217          231.081    0
+            26      06    Castroneves, Helio                    D/H/F         00:06.8279          230.871    0
+            27      26    Herta, Colton                         D/H/F         00:06.8332          230.692    0
+            28       6    Montoya, Juan Pablo                   D/C/F         00:06.8393          230.486    1
+            29      14    Kirkwood, Kyle (R)                    D/C/F         00:06.8666          229.570    0
+            30      45    Harvey, Jack                          D/H/F         00:06.8713          229.413    0
+            31      30    Lundgaard, Christian (R)              D/H/F         00:06.8769          229.226    1
+            32       4    Kellett, Dalton                       D/C/F         00:06.8773          229.213    0
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 14 of 30
+Event:     106th Running of the Indianapolis 500                                                    Round 6
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                           NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                        May 21, 2022
+
+Section: T1T to T1                                                                           Length: 0.022727 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    21    VeeKay, Rinus                         D/C/F         00:00.3410          239.936    0
+             2     5    O'Ward, Pato                          D/C/F         00:00.3448          237.292    3
+             3     7    Rosenqvist, Felix                     D/C/F         00:00.3448          237.292    0
+             4    24    Karam, Sage                           D/C/F         00:00.3449          237.223    5
+             5    48    Johnson, Jimmie (R)                   D/H/F         00:00.3450          237.154    1
+             6    10    Palou, Alex                           D/H/F         00:00.3450          237.154    2
+             7    33    Carpenter, Ed                         D/C/F         00:00.3451          237.085    0
+             8    28    Grosjean, Romain (R)                  D/H/F         00:00.3452          237.017    1
+             9     1    Kanaan, Tony                          D/H/F         00:00.3457          236.674    2
+            10    12    Power, Will                           D/C/F         00:00.3460          236.469    1
+            11    11    Hildebrand, JR                        D/C/F         00:00.3463          236.264    0
+            12     3    McLaughlin, Scott                     D/C/F         00:00.3467          235.991    8
+            13     3    McLaughlin, Scott                     D/C/F         00:00.3467          235.991    7
+            14    77    Ilott, Callum (R)                     D/C/F         00:00.3468          235.923    7
+            15    77    Ilott, Callum (R)                     D/C/F         00:00.3468          235.923    1
+            16     2    Newgarden, Josef                      D/C/F         00:00.3469          235.855    1
+            17    23    Ferrucci, Santino                     D/C/F         00:00.3473          235.584    0
+            18    27    Rossi, Alexander                      D/H/F         00:00.3474          235.516    0
+            19    29    DeFrancesco, Devlin (R)               D/H/F         00:00.3474          235.516    0
+            20    51    Sato, Takuma                          D/H/F         00:00.3475          235.448    3
+            21    51    Sato, Takuma                          D/H/F         00:00.3475          235.448    1
+            22    60    Pagenaud, Simon                       D/H/F         00:00.3476          235.380    0
+            23     9    Dixon, Scott                          D/H/F         00:00.3478          235.245    0
+            24     8    Ericsson, Marcus                      D/H/F         00:00.3480          235.110    3
+            25     6    Montoya, Juan Pablo                   D/C/F         00:00.3480          235.110    0
+            26    14    Kirkwood, Kyle (R)                    D/C/F         00:00.3483          234.907    1
+            27    18    Malukas, David (R)                    D/H/F         00:00.3485          234.772    1
+            28    18    Malukas, David (R)                    D/H/F         00:00.3485          234.772    0
+            29    06    Castroneves, Helio                    D/H/F         00:00.3485          234.772    7
+            30    20    Daly, Conor                           D/C/F         00:00.3486          234.705    0
+            31    15    Rahal, Graham                         D/H/F         00:00.3487          234.638    2
+            32    98    Andretti, Marco                       D/H/F         00:00.3489          234.503    8
+            33    26    Herta, Colton                         D/H/F         00:00.3492          234.302    3
+            34    30    Lundgaard, Christian (R)              D/H/F         00:00.3509          233.167    2
+            35     4    Kellett, Dalton                       D/C/F         00:00.3521          232.372    0
+            36    45    Harvey, Jack                          D/H/F         00:00.3525          232.108    1
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 15 of 30
+Event:     106th Running of the Indianapolis 500                                                    Round 6
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                           NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                        May 21, 2022
+
+Section: T2T to T2                                                                           Length: 0.022727 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1     7    Rosenqvist, Felix                     D/C/F         00:00.3456          236.742    0
+             2    21    VeeKay, Rinus                         D/C/F         00:00.3462          236.332    0
+             3    18    Malukas, David (R)                    D/H/F         00:00.3470          235.787    5
+             4     1    Kanaan, Tony                          D/H/F         00:00.3470          235.787    0
+             5    48    Johnson, Jimmie (R)                   D/H/F         00:00.3472          235.651    0
+             6    10    Palou, Alex                           D/H/F         00:00.3474          235.516    0
+             7    51    Sato, Takuma                          D/H/F         00:00.3476          235.380    5
+             8    28    Grosjean, Romain (R)                  D/H/F         00:00.3477          235.313    0
+             9     2    Newgarden, Josef                      D/C/F         00:00.3483          234.907    0
+            10     5    O'Ward, Pato                          D/C/F         00:00.3484          234.840    0
+            11    60    Pagenaud, Simon                       D/H/F         00:00.3487          234.638    0
+            12    12    Power, Will                           D/C/F         00:00.3487          234.638    0
+            13     9    Dixon, Scott                          D/H/F         00:00.3488          234.570    0
+            14    77    Ilott, Callum (R)                     D/C/F         00:00.3489          234.503    5
+            15    98    Andretti, Marco                       D/H/F         00:00.3490          234.436    5
+            16    29    DeFrancesco, Devlin (R)               D/H/F         00:00.3494          234.168    0
+            17    26    Herta, Colton                         D/H/F         00:00.3494          234.168    0
+            18     3    McLaughlin, Scott                     D/C/F         00:00.3495          234.101    0
+            19    27    Rossi, Alexander                      D/H/F         00:00.3495          234.101    0
+            20    24    Karam, Sage                           D/C/F         00:00.3497          233.967    0
+            21    23    Ferrucci, Santino                     D/C/F         00:00.3498          233.900    1
+            22     8    Ericsson, Marcus                      D/H/F         00:00.3499          233.833    1
+            23    11    Hildebrand, JR                        D/C/F         00:00.3501          233.699    0
+            24    20    Daly, Conor                           D/C/F         00:00.3504          233.499    0
+            25    33    Carpenter, Ed                         D/C/F         00:00.3504          233.499    1
+            26    15    Rahal, Graham                         D/H/F         00:00.3507          233.300    2
+            27    06    Castroneves, Helio                    D/H/F         00:00.3509          233.167    6
+            28    14    Kirkwood, Kyle (R)                    D/C/F         00:00.3514          232.835    1
+            29     4    Kellett, Dalton                       D/C/F         00:00.3519          232.504    0
+            30    45    Harvey, Jack                          D/H/F         00:00.3531          231.714    0
+            31    30    Lundgaard, Christian (R)              D/H/F         00:00.3552          230.344    1
+            32     6    Montoya, Juan Pablo                   D/C/F         00:00.3557          230.020    0
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 16 of 30
+Event:     106th Running of the Indianapolis 500                                                    Round 6
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                           NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                        May 21, 2022
+
+Section: T3T to T3                                                                           Length: 0.022727 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    33    Carpenter, Ed                         D/C/F         00:00.3386          241.637    3
+             2     2    Newgarden, Josef                      D/C/F         00:00.3393          241.138    0
+             3     8    Ericsson, Marcus                      D/H/F         00:00.3402          240.500    0
+             4    27    Rossi, Alexander                      D/H/F         00:00.3403          240.430    0
+             5    60    Pagenaud, Simon                       D/H/F         00:00.3403          240.430    0
+             6    21    VeeKay, Rinus                         D/C/F         00:00.3405          240.288    0
+             7     3    McLaughlin, Scott                     D/C/F         00:00.3409          240.006    1
+             8    10    Palou, Alex                           D/H/F         00:00.3410          239.936    1
+             9    10    Palou, Alex                           D/H/F         00:00.3410          239.936    0
+            10     9    Dixon, Scott                          D/H/F         00:00.3410          239.936    1
+            11    20    Daly, Conor                           D/C/F         00:00.3411          239.866    0
+            12    24    Karam, Sage                           D/C/F         00:00.3412          239.795    0
+            13    51    Sato, Takuma                          D/H/F         00:00.3412          239.795    5
+            14    12    Power, Will                           D/C/F         00:00.3412          239.795    0
+            15     1    Kanaan, Tony                          D/H/F         00:00.3415          239.585    0
+            16    18    Malukas, David (R)                    D/H/F         00:00.3421          239.165    5
+            17    45    Harvey, Jack                          D/H/F         00:00.3424          238.955    0
+            18    06    Castroneves, Helio                    D/H/F         00:00.3426          238.815    0
+            19    23    Ferrucci, Santino                     D/C/F         00:00.3427          238.746    0
+            20    29    DeFrancesco, Devlin (R)               D/H/F         00:00.3427          238.746    1
+            21    48    Johnson, Jimmie (R)                   D/H/F         00:00.3431          238.467    0
+            22    77    Ilott, Callum (R)                     D/C/F         00:00.3433          238.329    6
+            23     5    O'Ward, Pato                          D/C/F         00:00.3437          238.051    3
+            24    28    Grosjean, Romain (R)                  D/H/F         00:00.3437          238.051    1
+            25     6    Montoya, Juan Pablo                   D/C/F         00:00.3438          237.982    3
+            26    11    Hildebrand, JR                        D/C/F         00:00.3440          237.844    3
+            27     7    Rosenqvist, Felix                     D/C/F         00:00.3440          237.844    1
+            28    30    Lundgaard, Christian (R)              D/H/F         00:00.3443          237.636    1
+            29    98    Andretti, Marco                       D/H/F         00:00.3445          237.498    5
+            30    15    Rahal, Graham                         D/H/F         00:00.3452          237.017    3
+            31    14    Kirkwood, Kyle (R)                    D/C/F         00:00.3454          236.880    0
+            32     4    Kellett, Dalton                       D/C/F         00:00.3459          236.537    0
+            33    26    Herta, Colton                         D/H/F         00:00.3459          236.537    3
+            34    26    Herta, Colton                         D/H/F         00:00.3459          236.537    0
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 17 of 30
+Event:     106th Running of the Indianapolis 500                                                    Round 6
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                           NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                        May 21, 2022
+
+Section: T4T to T4                                                                           Length: 0.022727 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    21    VeeKay, Rinus                         D/C/F         00:00.3467          235.991    0
+             2     9    Dixon, Scott                          D/H/F         00:00.3472          235.651    0
+             3    33    Carpenter, Ed                         D/C/F         00:00.3480          235.110    0
+             4    10    Palou, Alex                           D/H/F         00:00.3482          234.975    0
+             5     5    O'Ward, Pato                          D/C/F         00:00.3483          234.907    0
+             6    77    Ilott, Callum (R)                     D/C/F         00:00.3483          234.907    0
+             7    28    Grosjean, Romain (R)                  D/H/F         00:00.3489          234.503    1
+             8     8    Ericsson, Marcus                      D/H/F         00:00.3489          234.503    0
+             9    51    Sato, Takuma                          D/H/F         00:00.3490          234.436    0
+            10    23    Ferrucci, Santino                     D/C/F         00:00.3491          234.369    0
+            11     1    Kanaan, Tony                          D/H/F         00:00.3492          234.302    2
+            12     1    Kanaan, Tony                          D/H/F         00:00.3492          234.302    0
+            13     3    McLaughlin, Scott                     D/C/F         00:00.3493          234.235    0
+            14    48    Johnson, Jimmie (R)                   D/H/F         00:00.3496          234.034    0
+            15     7    Rosenqvist, Felix                     D/C/F         00:00.3498          233.900    0
+            16    29    DeFrancesco, Devlin (R)               D/H/F         00:00.3499          233.833    0
+            17    27    Rossi, Alexander                      D/H/F         00:00.3500          233.766    0
+            18    18    Malukas, David (R)                    D/H/F         00:00.3506          233.366    0
+            19    20    Daly, Conor                           D/C/F         00:00.3509          233.167    0
+            20    98    Andretti, Marco                       D/H/F         00:00.3511          233.034    0
+            21     2    Newgarden, Josef                      D/C/F         00:00.3512          232.967    0
+            22    15    Rahal, Graham                         D/H/F         00:00.3515          232.769    0
+            23    11    Hildebrand, JR                        D/C/F         00:00.3520          232.438    0
+            24    24    Karam, Sage                           D/C/F         00:00.3520          232.438    0
+            25    06    Castroneves, Helio                    D/H/F         00:00.3522          232.306    0
+            26    60    Pagenaud, Simon                       D/H/F         00:00.3531          231.714    0
+            27    12    Power, Will                           D/C/F         00:00.3533          231.583    1
+            28    12    Power, Will                           D/C/F         00:00.3533          231.583    0
+            29    26    Herta, Colton                         D/H/F         00:00.3536          231.386    0
+            30    45    Harvey, Jack                          D/H/F         00:00.3541          231.060    0
+            31    14    Kirkwood, Kyle (R)                    D/C/F         00:00.3546          230.734    0
+            32     6    Montoya, Juan Pablo                   D/C/F         00:00.3550          230.474    0
+            33     4    Kellett, Dalton                       D/C/F         00:00.3553          230.279    0
+            34    30    Lundgaard, Christian (R)              D/H/F         00:00.3555          230.150    1
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 18 of 30
+Event:     106th Running of the Indianapolis 500                                                    Round 6
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                           NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                        May 21, 2022
+
+Section: SF to SFT                                                                           Length: 0.031155 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    21    VeeKay, Rinus                         D/C/F         00:00.4682          239.554    1
+             2     5    O'Ward, Pato                          D/C/F         00:00.4707          238.281    0
+             3     7    Rosenqvist, Felix                     D/C/F         00:00.4727          237.273    1
+             4    33    Carpenter, Ed                         D/C/F         00:00.4734          236.922    0
+             5    48    Johnson, Jimmie (R)                   D/H/F         00:00.4735          236.872    1
+             6     6    Montoya, Juan Pablo                   D/C/F         00:00.4738          236.722    1
+             7    24    Karam, Sage                           D/C/F         00:00.4741          236.573    9
+             8    23    Ferrucci, Santino                     D/C/F         00:00.4745          236.373    0
+             9    28    Grosjean, Romain (R)                  D/H/F         00:00.4746          236.323    2
+            10    10    Palou, Alex                           D/H/F         00:00.4747          236.274    0
+            11     1    Kanaan, Tony                          D/H/F         00:00.4750          236.124    1
+            12     3    McLaughlin, Scott                     D/C/F         00:00.4757          235.777    8
+            13    77    Ilott, Callum (R)                     D/C/F         00:00.4758          235.727    8
+            14    77    Ilott, Callum (R)                     D/C/F         00:00.4758          235.727    1
+            15    77    Ilott, Callum (R)                     D/C/F         00:00.4758          235.727    0
+            16    11    Hildebrand, JR                        D/C/F         00:00.4761          235.579    0
+            17    51    Sato, Takuma                          D/H/F         00:00.4765          235.381    3
+            18    51    Sato, Takuma                          D/H/F         00:00.4765          235.381    1
+            19    27    Rossi, Alexander                      D/H/F         00:00.4768          235.233    6
+            20    18    Malukas, David (R)                    D/H/F         00:00.4769          235.184    8
+            21    12    Power, Will                           D/C/F         00:00.4769          235.184    1
+            22    29    DeFrancesco, Devlin (R)               D/H/F         00:00.4769          235.184    0
+            23     2    Newgarden, Josef                      D/C/F         00:00.4777          234.790    1
+            24     9    Dixon, Scott                          D/H/F         00:00.4777          234.790    0
+            25    20    Daly, Conor                           D/C/F         00:00.4784          234.446    0
+            26     8    Ericsson, Marcus                      D/H/F         00:00.4786          234.348    0
+            27     4    Kellett, Dalton                       D/C/F         00:00.4786          234.348    1
+            28    60    Pagenaud, Simon                       D/H/F         00:00.4787          234.299    3
+            29    98    Andretti, Marco                       D/H/F         00:00.4788          234.250    5
+            30    26    Herta, Colton                         D/H/F         00:00.4788          234.250    0
+            31    15    Rahal, Graham                         D/H/F         00:00.4789          234.201    4
+            32    06    Castroneves, Helio                    D/H/F         00:00.4796          233.860    7
+            33    30    Lundgaard, Christian (R)              D/H/F         00:00.4818          232.792    2
+            34    14    Kirkwood, Kyle (R)                    D/C/F         00:00.4819          232.743    1
+            35    45    Harvey, Jack                          D/H/F         00:00.4835          231.973    1
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 19 of 30
+Event:     106th Running of the Indianapolis 500                                                    Round 6
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                           NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                        May 21, 2022
+
+Section: PT3 to PSS2                                                                         Length: 0.265152 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    18    Malukas, David (R)                    D/H/F         00:08.0082          119.196    9
+             2     5    O'Ward, Pato                          D/C/F         00:08.0811          118.121    4
+             3     2    Newgarden, Josef                      D/C/F         00:08.1532          117.076    4
+             4    98    Andretti, Marco                       D/H/F         00:08.2848          115.216    4
+             5    21    VeeKay, Rinus                         D/C/F         00:08.3294          114.600    4
+             6    10    Palou, Alex                           D/H/F         00:08.3660          114.098    4
+             7    33    Carpenter, Ed                         D/C/F         00:08.4262          113.283    4
+             8    26    Herta, Colton                         D/H/F         00:08.5538          111.593    4
+             9     4    Kellett, Dalton                       D/C/F         00:08.5801          111.251    4
+            10    06    Castroneves, Helio                    D/H/F         00:08.6043          110.938    9
+            11    24    Karam, Sage                           D/C/F         00:08.6638          110.176    9
+            12     1    Kanaan, Tony                          D/H/F         00:08.7625          108.935    4
+            13    27    Rossi, Alexander                      D/H/F         00:08.9909          106.168    9
+            14    77    Ilott, Callum (R)                     D/C/F         00:09.0597          105.362    9
+            15    45    Harvey, Jack                          D/H/F         00:09.1535          104.282    4
+            16    11    Hildebrand, JR                        D/C/F         00:09.1556          104.258    4
+            17    48    Johnson, Jimmie (R)                   D/H/F         00:09.4346          101.175    4
+            18    15    Rahal, Graham                         D/H/F         00:09.5283          100.180    4
+            19    30    Lundgaard, Christian (R)              D/H/F         00:09.5315          100.146    4
+            20    12    Power, Will                           D/C/F         00:09.5425          100.031    4
+            21    29    DeFrancesco, Devlin (R)               D/H/F         00:09.5742           99.700    4
+            22     8    Ericsson, Marcus                      D/H/F         00:09.7816           97.586    4
+            23    60    Pagenaud, Simon                       D/H/F         00:10.0513           94.967    4
+            24     3    McLaughlin, Scott                     D/C/F         00:10.0917           94.587    9
+            25    14    Kirkwood, Kyle (R)                    D/C/F         00:10.2022           93.563    4
+            26    51    Sato, Takuma                          D/H/F         00:10.2174           93.424    9
+            27     9    Dixon, Scott                          D/H/F         00:10.2182           93.416    4
+            28     6    Montoya, Juan Pablo                   D/C/F         00:10.2860           92.800    4
+            29    28    Grosjean, Romain (R)                  D/H/F         00:10.5031           90.882    4
+            30    23    Ferrucci, Santino                     D/C/F         00:10.5038           90.876    4
+            31    20    Daly, Conor                           D/C/F         00:10.5869           90.163    4
+            32     7    Rosenqvist, Felix                     D/C/F         00:11.4162           83.613    4
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 20 of 30
+Event:     106th Running of the Indianapolis 500                                                    Round 6
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                           NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                        May 21, 2022
+
+Section: PSS2 to PT4                                                                         Length: 0.265152 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    18    Malukas, David (R)                    D/H/F         00:08.0205          119.013    9
+             2    21    VeeKay, Rinus                         D/C/F         00:08.3018          114.981    4
+             3     4    Kellett, Dalton                       D/C/F         00:08.4805          112.558    4
+             4    10    Palou, Alex                           D/H/F         00:08.5821          111.225    4
+             5     5    O'Ward, Pato                          D/C/F         00:08.6757          110.025    4
+             6    98    Andretti, Marco                       D/H/F         00:08.6927          109.810    4
+             7    06    Castroneves, Helio                    D/H/F         00:08.7020          109.693    9
+             8    26    Herta, Colton                         D/H/F         00:08.8120          108.323    4
+             9    33    Carpenter, Ed                         D/C/F         00:09.0273          105.740    4
+            10    24    Karam, Sage                           D/C/F         00:09.1260          104.596    9
+            11     2    Newgarden, Josef                      D/C/F         00:09.1263          104.593    4
+            12     1    Kanaan, Tony                          D/H/F         00:09.2479          103.218    4
+            13    11    Hildebrand, JR                        D/C/F         00:09.5635           99.811    4
+            14    77    Ilott, Callum (R)                     D/C/F         00:09.5709           99.734    9
+            15    27    Rossi, Alexander                      D/H/F         00:09.5750           99.691    9
+            16    45    Harvey, Jack                          D/H/F         00:09.6799           98.611    4
+            17    30    Lundgaard, Christian (R)              D/H/F         00:09.8635           96.776    4
+            18    15    Rahal, Graham                         D/H/F         00:09.8886           96.530    4
+            19    60    Pagenaud, Simon                       D/H/F         00:09.9781           95.664    4
+            20    48    Johnson, Jimmie (R)                   D/H/F         00:10.0359           95.113    4
+            21     8    Ericsson, Marcus                      D/H/F         00:10.0480           94.999    4
+            22    14    Kirkwood, Kyle (R)                    D/C/F         00:10.0699           94.792    4
+            23     6    Montoya, Juan Pablo                   D/C/F         00:10.2503           93.124    4
+            24    29    DeFrancesco, Devlin (R)               D/H/F         00:10.2719           92.928    4
+            25    51    Sato, Takuma                          D/H/F         00:10.4190           91.616    9
+            26    12    Power, Will                           D/C/F         00:10.7928           88.443    4
+            27     3    McLaughlin, Scott                     D/C/F         00:10.8229           88.197    9
+            28    28    Grosjean, Romain (R)                  D/H/F         00:10.9216           87.400    4
+            29     9    Dixon, Scott                          D/H/F         00:11.5102           82.930    4
+            30    20    Daly, Conor                           D/C/F         00:12.2015           78.232    4
+            31     7    Rosenqvist, Felix                     D/C/F         00:12.9223           73.868    4
+            32    23    Ferrucci, Santino                     D/C/F         00:13.8288           69.026    4
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 21 of 30
+Event:     106th Running of the Indianapolis 500                                                    Round 6
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                           NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                        May 21, 2022
+
+Section: PT4 to PI                                                                           Length: 0.183712 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    06    Castroneves, Helio                    D/H/F         00:07.2983          90.619     9
+             2    21    VeeKay, Rinus                         D/C/F         00:07.3093          90.482     4
+             3     1    Kanaan, Tony                          D/H/F         00:07.4551          88.713     4
+             4    14    Kirkwood, Kyle (R)                    D/C/F         00:07.5660          87.413     4
+             5    15    Rahal, Graham                         D/H/F         00:07.6967          85.928     4
+             6     4    Kellett, Dalton                       D/C/F         00:07.8642          84.098     4
+             7    60    Pagenaud, Simon                       D/H/F         00:07.9266          83.436     4
+             8    98    Andretti, Marco                       D/H/F         00:07.9314          83.385     4
+             9    18    Malukas, David (R)                    D/H/F         00:08.0333          82.328     9
+            10    24    Karam, Sage                           D/C/F         00:08.1318          81.331     9
+            11    45    Harvey, Jack                          D/H/F         00:08.1448          81.201     4
+            12     5    O'Ward, Pato                          D/C/F         00:08.1732          80.919     4
+            13    77    Ilott, Callum (R)                     D/C/F         00:08.1766          80.885     9
+            14    30    Lundgaard, Christian (R)              D/H/F         00:08.2095          80.561     4
+            15     2    Newgarden, Josef                      D/C/F         00:08.2365          80.297     4
+            16    10    Palou, Alex                           D/H/F         00:08.2878          79.800     4
+            17    27    Rossi, Alexander                      D/H/F         00:08.3158          79.531     9
+            18    26    Herta, Colton                         D/H/F         00:08.4975          77.830     4
+            19    12    Power, Will                           D/C/F         00:08.5637          77.229     4
+            20     6    Montoya, Juan Pablo                   D/C/F         00:08.6634          76.340     4
+            21    33    Carpenter, Ed                         D/C/F         00:08.6812          76.183     4
+            22     9    Dixon, Scott                          D/H/F         00:08.7079          75.950     4
+            23    29    DeFrancesco, Devlin (R)               D/H/F         00:08.7198          75.846     4
+            24    48    Johnson, Jimmie (R)                   D/H/F         00:08.7388          75.681     4
+            25     8    Ericsson, Marcus                      D/H/F         00:08.9603          73.810     4
+            26    11    Hildebrand, JR                        D/C/F         00:09.1019          72.662     4
+            27    51    Sato, Takuma                          D/H/F         00:09.1640          72.170     9
+            28    28    Grosjean, Romain (R)                  D/H/F         00:09.5657          69.139     4
+            29     7    Rosenqvist, Felix                     D/C/F         00:09.9941          66.175     4
+            30    20    Daly, Conor                           D/C/F         00:10.1998          64.841     4
+            31    23    Ferrucci, Santino                     D/C/F         00:10.9640          60.321     4
+            32     3    McLaughlin, Scott                     D/C/F         00:10.9895          60.181     9
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 22 of 30
+Event:     106th Running of the Indianapolis 500                                                      Round 6
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                             NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                          May 21, 2022
+
+Section: PI to PO                                                                              Length: 0.441951 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1      51    Sato, Takuma                          D/H/F         02:17.9358           0.217     4
+             2      98    Andretti, Marco                       D/H/F         04:38.9382           0.213     4
+             3      24    Karam, Sage                           D/C/F         15:39.8590           0.350     4
+             4       3    McLaughlin, Scott                     D/C/F         20:40.3427           0.132     4
+             5      77    Ilott, Callum (R)                     D/C/F         22:32.1727           0.186     4
+             6      27    Rossi, Alexander                      D/H/F         25:01.2007           0.312     4
+             7      06    Castroneves, Helio                    D/H/F         29:36.8463           0.296     4
+             8      18    Malukas, David (R)                    D/H/F         39:59.0794           0.265     4
+             9      26    Herta, Colton                         D/H/F         54:03.2951           0.232     0
+            10       2    Newgarden, Josef                      D/C/F         57:39.1575           0.149     4
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 23 of 30
+Event:     106th Running of the Indianapolis 500                                                    Round 6
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                           NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                        May 21, 2022
+
+Section: PO to SF                                                                            Length: 2.312879 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1     9    Dixon, Scott                          D/H/F         00:47.4241          175.572    0
+             2    28    Grosjean, Romain (R)                  D/H/F         00:47.5054          175.272    0
+             3     8    Ericsson, Marcus                      D/H/F         00:47.7262          174.461    0
+             4    48    Johnson, Jimmie (R)                   D/H/F         00:47.8136          174.142    0
+             5    27    Rossi, Alexander                      D/H/F         00:47.8279          174.090    0
+             6    29    DeFrancesco, Devlin (R)               D/H/F         00:47.9348          173.702    0
+             7    30    Lundgaard, Christian (R)              D/H/F         00:47.9874          173.511    0
+             8    26    Herta, Colton                         D/H/F         00:48.2176          172.683    0
+             9    98    Andretti, Marco                       D/H/F         00:48.3138          172.339    4
+            10    51    Sato, Takuma                          D/H/F         00:48.3574          172.184    4
+            11    11    Hildebrand, JR                        D/C/F         00:48.3687          172.144    0
+            12    15    Rahal, Graham                         D/H/F         00:48.5904          171.358    0
+            13    20    Daly, Conor                           D/C/F         00:48.8399          170.483    0
+            14    10    Palou, Alex                           D/H/F         00:48.9170          170.214    0
+            15    06    Castroneves, Helio                    D/H/F         00:49.1657          169.353    4
+            16    60    Pagenaud, Simon                       D/H/F         00:49.4665          168.323    0
+            17    77    Ilott, Callum (R)                     D/C/F         00:49.5176          168.150    0
+            18    45    Harvey, Jack                          D/H/F         00:50.0229          166.451    0
+            19    21    VeeKay, Rinus                         D/C/F         00:50.0445          166.379    0
+            20    18    Malukas, David (R)                    D/H/F         00:50.0696          166.296    4
+            21    14    Kirkwood, Kyle (R)                    D/C/F         00:50.1600          165.996    0
+            22     4    Kellett, Dalton                       D/C/F         00:50.8434          163.765    0
+            23     6    Montoya, Juan Pablo                   D/C/F         00:51.9807          160.182    0
+            24    33    Carpenter, Ed                         D/C/F         00:52.8256          157.620    0
+            25    23    Ferrucci, Santino                     D/C/F         00:52.8843          157.445    0
+            26     3    McLaughlin, Scott                     D/C/F         00:52.9582          157.225    4
+            27    24    Karam, Sage                           D/C/F         00:53.6511          155.195    4
+            28     1    Kanaan, Tony                          D/H/F         00:53.8202          154.707    0
+            29    12    Power, Will                           D/C/F         00:54.1193          153.852    0
+            30     5    O'Ward, Pato                          D/C/F         00:57.9387          143.710    0
+            31     7    Rosenqvist, Felix                     D/C/F         00:58.6175          142.046    0
+            32     2    Newgarden, Josef                      D/C/F         01:00.3510          137.966    0
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 24 of 30
+Event:     106th Running of the Indianapolis 500                                                      Round 6
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                             NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                          May 21, 2022
+
+Section: SF to PI                                                                              Length: 2.245833 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1      06    Castroneves, Helio                    D/H/F         00:50.3098          160.704    4
+             2      18    Malukas, David (R)                    D/H/F         00:52.0164          155.432    9
+             3      21    VeeKay, Rinus                         D/C/F         00:52.5650          153.810    4
+             4       2    Newgarden, Josef                      D/C/F         00:52.8307          153.036    4
+             5       5    O'Ward, Pato                          D/C/F         00:53.2191          151.919    4
+             6       4    Kellett, Dalton                       D/C/F         00:53.4120          151.370    4
+             7      26    Herta, Colton                         D/H/F         00:53.6723          150.636    4
+             8      98    Andretti, Marco                       D/H/F         00:53.8431          150.159    4
+             9      10    Palou, Alex                           D/H/F         00:54.6952          147.819    4
+            10      33    Carpenter, Ed                         D/C/F         00:54.7763          147.600    4
+            11       1    Kanaan, Tony                          D/H/F         00:54.9318          147.183    4
+            12      45    Harvey, Jack                          D/H/F         00:56.8462          142.226    4
+            13      29    DeFrancesco, Devlin (R)               D/H/F         00:57.3887          140.881    4
+            14      24    Karam, Sage                           D/C/F         00:57.5571          140.469    9
+            15      11    Hildebrand, JR                        D/C/F         00:57.9311          139.562    4
+            16      77    Ilott, Callum (R)                     D/C/F         00:58.0882          139.185    4
+            17      15    Rahal, Graham                         D/H/F         00:58.1702          138.989    4
+            18      48    Johnson, Jimmie (R)                   D/H/F         00:58.5322          138.129    4
+            19      30    Lundgaard, Christian (R)              D/H/F         00:58.8906          137.288    4
+            20      27    Rossi, Alexander                      D/H/F         00:59.1064          136.787    9
+            21      14    Kirkwood, Kyle (R)                    D/C/F         00:59.8437          135.102    4
+            22      60    Pagenaud, Simon                       D/H/F         00:59.9186          134.933    4
+            23      12    Power, Will                           D/C/F         01:00.7589          133.067    4
+            24       8    Ericsson, Marcus                      D/H/F         01:00.8268          132.918    4
+            25      28    Grosjean, Romain (R)                  D/H/F         01:01.3052          131.881    4
+            26       9    Dixon, Scott                          D/H/F         01:01.6332          131.179    4
+            27       6    Montoya, Juan Pablo                   D/C/F         01:02.2455          129.889    4
+            28      51    Sato, Takuma                          D/H/F         01:02.9100          128.517    9
+            29       3    McLaughlin, Scott                     D/C/F         01:03.4205          127.482    9
+            30      20    Daly, Conor                           D/C/F         01:06.9915          120.687    4
+            31      23    Ferrucci, Santino                     D/C/F         01:07.3322          120.076    4
+            32       7    Rosenqvist, Felix                     D/C/F         01:14.6458          108.312    4
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 25 of 30
+Event:     106th Running of the Indianapolis 500                                                    Round 6
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                           NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                        May 21, 2022
+
+Section: PO to BS                                                                            Length: 0.937500 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    30    Lundgaard, Christian (R)              D/H/F         00:22.7114          148.604    0
+             2    51    Sato, Takuma                          D/H/F         00:22.7953          148.057    4
+             3    28    Grosjean, Romain (R)                  D/H/F         00:23.0396          146.487    0
+             4     9    Dixon, Scott                          D/H/F         00:23.0729          146.276    0
+             5    11    Hildebrand, JR                        D/C/F         00:23.2421          145.211    0
+             6    15    Rahal, Graham                         D/H/F         00:23.2728          145.019    0
+             7    29    DeFrancesco, Devlin (R)               D/H/F         00:23.4003          144.229    0
+             8    48    Johnson, Jimmie (R)                   D/H/F         00:23.4262          144.069    0
+             9    27    Rossi, Alexander                      D/H/F         00:23.4498          143.924    0
+            10     8    Ericsson, Marcus                      D/H/F         00:23.4580          143.874    0
+            11    98    Andretti, Marco                       D/H/F         00:23.4842          143.714    4
+            12    26    Herta, Colton                         D/H/F         00:23.4976          143.632    0
+            13    20    Daly, Conor                           D/C/F         00:23.8280          141.640    0
+            14    77    Ilott, Callum (R)                     D/C/F         00:23.9788          140.749    0
+            15    24    Karam, Sage                           D/C/F         00:24.2150          139.376    4
+            16    14    Kirkwood, Kyle (R)                    D/C/F         00:24.2942          138.922    0
+            17    60    Pagenaud, Simon                       D/H/F         00:24.3621          138.535    0
+            18    06    Castroneves, Helio                    D/H/F         00:24.3644          138.522    4
+            19    10    Palou, Alex                           D/H/F         00:24.5657          137.387    0
+            20    45    Harvey, Jack                          D/H/F         00:24.5894          137.254    0
+            21    18    Malukas, David (R)                    D/H/F         00:24.9323          135.367    4
+            22    21    VeeKay, Rinus                         D/C/F         00:24.9358          135.348    0
+            23     4    Kellett, Dalton                       D/C/F         00:25.0351          134.811    0
+            24     6    Montoya, Juan Pablo                   D/C/F         00:26.0548          129.535    0
+            25    23    Ferrucci, Santino                     D/C/F         00:26.0577          129.520    0
+            26     3    McLaughlin, Scott                     D/C/F         00:26.6002          126.879    4
+            27    33    Carpenter, Ed                         D/C/F         00:27.1885          124.133    0
+            28    12    Power, Will                           D/C/F         00:27.6446          122.085    0
+            29     1    Kanaan, Tony                          D/H/F         00:29.4386          114.645    0
+            30     5    O'Ward, Pato                          D/C/F         00:29.7976          113.264    0
+            31     7    Rosenqvist, Felix                     D/C/F         00:30.5817          110.360    0
+            32     2    Newgarden, Josef                      D/C/F         00:30.8571          109.375    4
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 26 of 30
+Event:     106th Running of the Indianapolis 500                                                      Round 6
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                             NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                          May 21, 2022
+
+Section: BS to PI                                                                              Length: 1.121212 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1      06    Castroneves, Helio                    D/H/F         00:27.2985          147.860    4
+             2       2    Newgarden, Josef                      D/C/F         00:30.1893          133.702    4
+             3      18    Malukas, David (R)                    D/H/F         00:30.7241          131.375    9
+             4      21    VeeKay, Rinus                         D/C/F         00:31.2547          129.144    4
+             5       5    O'Ward, Pato                          D/C/F         00:31.5502          127.935    4
+             6       4    Kellett, Dalton                       D/C/F         00:31.8558          126.707    4
+             7      98    Andretti, Marco                       D/H/F         00:32.1463          125.562    4
+             8      10    Palou, Alex                           D/H/F         00:32.7807          123.132    4
+             9      26    Herta, Colton                         D/H/F         00:32.8216          122.979    4
+            10       1    Kanaan, Tony                          D/H/F         00:33.0401          122.166    4
+            11      33    Carpenter, Ed                         D/C/F         00:33.3469          121.042    4
+            12      24    Karam, Sage                           D/C/F         00:33.8046          119.403    9
+            13      45    Harvey, Jack                          D/H/F         00:34.4797          117.065    4
+            14      27    Rossi, Alexander                      D/H/F         00:34.7773          116.063    9
+            15      77    Ilott, Callum (R)                     D/C/F         00:35.1437          114.853    9
+            16      15    Rahal, Graham                         D/H/F         00:35.3345          114.233    4
+            17      11    Hildebrand, JR                        D/C/F         00:35.5499          113.541    4
+            18      30    Lundgaard, Christian (R)              D/H/F         00:35.7074          113.040    4
+            19      29    DeFrancesco, Devlin (R)               D/H/F         00:36.0291          112.031    4
+            20      48    Johnson, Jimmie (R)                   D/H/F         00:36.0576          111.942    4
+            21      14    Kirkwood, Kyle (R)                    D/C/F         00:36.6559          110.115    4
+            22      60    Pagenaud, Simon                       D/H/F         00:36.8580          109.511    4
+            23       8    Ericsson, Marcus                      D/H/F         00:37.0878          108.833    4
+            24      12    Power, Will                           D/C/F         00:37.6057          107.334    4
+            25       6    Montoya, Juan Pablo                   D/C/F         00:37.7505          106.922    4
+            26      51    Sato, Takuma                          D/H/F         00:38.6231          104.506    9
+            27       9    Dixon, Scott                          D/H/F         00:38.9254          103.695    4
+            28      28    Grosjean, Romain (R)                  D/H/F         00:39.8737          101.229    4
+            29       3    McLaughlin, Scott                     D/C/F         00:40.8394           98.835    9
+            30      20    Daly, Conor                           D/C/F         00:42.1981           95.653    4
+            31      23    Ferrucci, Santino                     D/C/F         00:43.7411           92.279    4
+            32       7    Rosenqvist, Felix                     D/C/F         00:45.9737           87.797    4
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 27 of 30
+Event:     106th Running of the Indianapolis 500                                                      Round 6
+Track:     Indianapolis Motor Speedway                                                            2.5 mile(s)
+
+Report:    Top Section Times Report                                             NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                          May 21, 2022
+
+Section: PO to PI                                                                              Length: 2.058712 mile(s)
+           Rank     Car   Driver                                C/E/T            Time             Speed     Lap
+             1       2    Newgarden, Josef                      D/C/F         01:49.0818          67.943     4
+             2      24    Karam, Sage                           D/C/F         01:57.0556          63.315     4
+             3      26    Herta, Colton                         D/H/F         02:24.2622          51.374     0
+             4      21    VeeKay, Rinus                         D/C/F         04:57.7218          24.894     0
+             5      06    Castroneves, Helio                    D/H/F         04:59.0071          24.787     4
+             6      18    Malukas, David (R)                    D/H/F         04:59.0886          24.780     4
+             7      10    Palou, Alex                           D/H/F         04:59.3188          24.761     0
+             8      98    Andretti, Marco                       D/H/F         04:59.6273          24.735     4
+             9      29    DeFrancesco, Devlin (R)               D/H/F         05:02.2657          24.519     0
+            10      48    Johnson, Jimmie (R)                   D/H/F         05:02.3778          24.510     0
+            11      11    Hildebrand, JR                        D/C/F         05:03.2855          24.437     0
+            12       4    Kellett, Dalton                       D/C/F         05:03.6854          24.405     0
+            13      33    Carpenter, Ed                         D/C/F         05:03.7354          24.401     0
+            14      15    Rahal, Graham                         D/H/F         05:04.0397          24.376     0
+            15       1    Kanaan, Tony                          D/H/F         05:04.5438          24.336     0
+            16       8    Ericsson, Marcus                      D/H/F         05:04.5683          24.334     0
+            17      27    Rossi, Alexander                      D/H/F         05:04.8529          24.311     4
+            18      28    Grosjean, Romain (R)                  D/H/F         05:04.8657          24.310     0
+            19       9    Dixon, Scott                          D/H/F         05:05.3776          24.270     0
+            20      77    Ilott, Callum (R)                     D/C/F         05:05.7713          24.238     0
+            21      60    Pagenaud, Simon                       D/H/F         05:05.8473          24.232     0
+            22       5    O'Ward, Pato                          D/C/F         05:07.4428          24.106     0
+            23      30    Lundgaard, Christian (R)              D/H/F         05:08.3066          24.039     0
+            24      45    Harvey, Jack                          D/H/F         05:08.3695          24.034     0
+            25      51    Sato, Takuma                          D/H/F         05:09.0563          23.981     4
+            26      14    Kirkwood, Kyle (R)                    D/C/F         05:09.9833          23.909     0
+            27      12    Power, Will                           D/C/F         05:11.8483          23.766     0
+            28      20    Daly, Conor                           D/C/F         05:13.2290          23.661     0
+            29       6    Montoya, Juan Pablo                   D/C/F         05:14.2462          23.585     0
+            30       3    McLaughlin, Scott                     D/C/F         05:14.5389          23.563     4
+            31      23    Ferrucci, Santino                     D/C/F         05:18.0723          23.301     0
+            32       7    Rosenqvist, Felix                     D/C/F         05:30.3662          22.434     0
+
+
+
+
+                           (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                          Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 28 of 30
+Event:     106th Running of the Indianapolis 500                                                    Round 6
+Track:     Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:    Top Section Times Report                                           NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                        May 21, 2022
+
+Section: PIC to PI                                                                           Length: 0.035890 mile(s)
+           Rank   Car   Driver                                C/E/T            Time             Speed     Lap
+             1    06    Castroneves, Helio                    D/H/F         00:01.7657          73.175     9
+             2     2    Newgarden, Josef                      D/C/F         00:01.8012          71.732     4
+             3    14    Kirkwood, Kyle (R)                    D/C/F         00:01.8955          68.164     4
+             4    12    Power, Will                           D/C/F         00:01.9536          66.137     4
+             5    60    Pagenaud, Simon                       D/H/F         00:01.9988          64.641     4
+             6    21    VeeKay, Rinus                         D/C/F         00:02.0517          62.974     4
+             7    15    Rahal, Graham                         D/H/F         00:02.0549          62.876     4
+             8     1    Kanaan, Tony                          D/H/F         00:02.1010          61.497     4
+             9    51    Sato, Takuma                          D/H/F         00:02.1023          61.459     4
+            10    27    Rossi, Alexander                      D/H/F         00:02.1067          61.330     9
+            11    24    Karam, Sage                           D/C/F         00:02.1115          61.191     9
+            12    98    Andretti, Marco                       D/H/F         00:02.1401          60.373     4
+            13    10    Palou, Alex                           D/H/F         00:02.1538          59.989     4
+            14    29    DeFrancesco, Devlin (R)               D/H/F         00:02.1740          59.432     4
+            15    33    Carpenter, Ed                         D/C/F         00:02.1840          59.160     4
+            16    48    Johnson, Jimmie (R)                   D/H/F         00:02.1849          59.135     4
+            17    18    Malukas, David (R)                    D/H/F         00:02.1872          59.073     4
+            18     7    Rosenqvist, Felix                     D/C/F         00:02.1873          59.070     4
+            19     6    Montoya, Juan Pablo                   D/C/F         00:02.1882          59.046     4
+            20    77    Ilott, Callum (R)                     D/C/F         00:02.1959          58.839     9
+            21    45    Harvey, Jack                          D/H/F         00:02.1986          58.767     4
+            22    30    Lundgaard, Christian (R)              D/H/F         00:02.2002          58.724     4
+            23    26    Herta, Colton                         D/H/F         00:02.2389          57.709     4
+            24    28    Grosjean, Romain (R)                  D/H/F         00:02.2998          56.181     4
+            25    23    Ferrucci, Santino                     D/C/F         00:02.3173          55.757     4
+            26     4    Kellett, Dalton                       D/C/F         00:02.3185          55.728     4
+            27    11    Hildebrand, JR                        D/C/F         00:02.3450          55.098     4
+            28    20    Daly, Conor                           D/C/F         00:02.3479          55.030     4
+            29     9    Dixon, Scott                          D/H/F         00:02.3570          54.817     4
+            30     8    Ericsson, Marcus                      D/H/F         00:02.3745          54.413     4
+            31     3    McLaughlin, Scott                     D/C/F         00:02.5060          51.558     4
+            32     5    O'Ward, Pato                          D/C/F         00:02.5335          50.998     4
+
+
+
+
+                         (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                        Information provided by Indy Racing Information System - Copyright INDYCAR 2022         Page 29 of 30
+Event:     106th Running of the Indianapolis 500                                                  Round 6
+Track:     Indianapolis Motor Speedway                                                        2.5 mile(s)
+
+Report:    Top Section Times Report                                         NTT INDYCAR SERIES
+Session:   Qualifications - Day One                                                      May 21, 2022
+
+                                                  Track Map
+
+
+
+
+                       (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+                      Information provided by Indy Racing Information System - Copyright INDYCAR 2022       Page 30 of 30
+

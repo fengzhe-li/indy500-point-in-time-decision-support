@@ -1,0 +1,6 @@
+metric,value,expected,status
+official_records_preserved,15,15,PASS
+complete_four_lap_records,15,15,PASS
+speed_recompute_max_abs_error_mph,0.000489,<=0.005 mph,PASS
+repeat_candidate_groups,2,>0,PASS
+strategy_actions_not_fabricated,15,15,PASS

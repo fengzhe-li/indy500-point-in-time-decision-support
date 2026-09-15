@@ -1,0 +1,3 @@
+year,official_complete_attempts,assigned_matches,strong_matches,strong_or_plausible_matches,timestamped_acceptable_matches,strong_coverage,acceptable_coverage,timestamped_acceptable_coverage,no_timing_car,no_acceptable_fingerprint_match
+2018,44,12,12,12,12,0.2727272727272727,0.2727272727272727,0.2727272727272727,29,3
+2019,65,60,43,49,45,0.6615384615384615,0.7538461538461538,0.6923076923076923,0,5

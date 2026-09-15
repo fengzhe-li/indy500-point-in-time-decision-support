@@ -1,0 +1,7 @@
+﻿metric,value,status
+canonical_identity_verified,1,PASS
+source_date_not_mislabeled_as_publication,1,PASS
+source_date_label,EDITED,PASS
+existing_ledgers_mutated,0,PASS
+canonical_mutated,0,PASS
+phase5_to_phase8_mutated,0,PASS

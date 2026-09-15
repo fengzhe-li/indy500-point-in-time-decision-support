@@ -1,0 +1,5 @@
+metric,value,expected,status
+parsed_repeat_residuals,40,40,PASS
+offline_grid_rows,540,>0,PASS
+offline_target_rows,140,>0,PASS
+offline_target_never_marked_as_decision_feature,0,0,PASS

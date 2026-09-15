@@ -1,0 +1,27 @@
+{
+  "phase": "R4F9-A",
+  "status": "R4F9_HISTORICAL_REPLAY_READINESS_AUDIT_COMPLETE",
+  "candidate_field_rows": 203,
+  "candidate_text_files": 136,
+  "category_counts": {
+    "historical_action": 44,
+    "later_attempt": 4,
+    "realized_speed": 19,
+    "benchmark_outcome": 0,
+    "rank_outcome": 0,
+    "withdraw_retain": 99
+  },
+  "interpretation_boundary": "Historical future outcomes may be used only as realized evaluation targets after the R4F8H prediction state has been frozen. Historical actions remain descriptive evidence, not optimal labels.",
+  "evaluation_targets_to_resolve": [
+    "whether another attempt actually occurred",
+    "realized next-attempt or later-attempt speed",
+    "realized benchmark crossing where defensible",
+    "realized retained/surrendered result effect",
+    "historical action evidence for descriptive replay only"
+  ],
+  "next_step": "Inspect strongest candidate fields and freeze the historical replay outcome interface before scoring R4F8H predictions.",
+  "qa": {
+    "pass": 11,
+    "fail": 0
+  }
+}

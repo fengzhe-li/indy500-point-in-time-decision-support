@@ -1,0 +1,150 @@
+dataset_group,filename,dataset_rows,field,nonempty_rows,numeric_rows,example_values
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,fused_decision_id,60,0,DAY1::DAY1_2020_10_POST_FIRST_ATTEMPT | DAY1::DAY1_2020_14_POST_FIRST_ATTEMPT | DAY1::DAY1_2020_20_POST_FIRST_ATTEMPT
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,regime,60,0,DAY1 | LAST_CHANCE
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,source_decision_id,60,0,DAY1_2020_10_POST_FIRST_ATTEMPT | DAY1_2020_14_POST_FIRST_ATTEMPT | DAY1_2020_20_POST_FIRST_ATTEMPT
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,source_file,60,0,r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv | r4/output/r4lc5e_last_chance_fused_interface_v2.csv
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,year,60,60,2020 | 2021 | 2023
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,car_number,60,60,10 | 14 | 20
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,driver_name,60,0,Felix Rosenqvist | Tony Kanaan | Ed Carpenter
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,decision_stage,60,0,POST_FIRST_ATTEMPT | POST_GUARANTEED_BREAK | FINAL_DECISION
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,source_attempt_id,57,7,6041dd38-4b6d-5e38-81fd-8006cbe0bafd | cbdbf766-10d3-516e-83ad-3cb56f8c02fb | 9a2e168d-3dda-5e76-8daf-588c20d91341
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,source_attempt_id_status,60,0,RESOLVED_CANONICAL_ATTEMPT_ID | RESOLVED_OFFICIAL_SESSION_DETAIL_ID_BY_EXACT_STATE_SPEED | UNRESOLVED_WITHOUT_SAFE_ATTEMPT_LEVEL_JOIN
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,source_result_context,60,0,POST_FIRST_ATTEMPT | POST_GUARANTEED_BREAK | FINAL_DECISION
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,decision_time_utc,50,0,2020-08-15T16:22:25+00:00 | 2020-08-15T17:19:05+00:00 | 2020-08-15T16:27:25+00:00
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,decision_time_quality,60,0,APPROXIMATE_POINT | UNKNOWN
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,session_remaining_seconds,0,0,
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,session_remaining_status,60,0,UNRESOLVED_NO_DECISION_SAFE_SESSION_END_IN_SOURCE_INTERFACE | UNRESOLVED_IN_FROZEN_LAST_CHANCE_INTERFACE
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,protected_result_exists,60,0,True | False
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,current_protected_result_speed_mph,56,56,230.254000 | 229.154000 | 229.811000
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,current_best_speed_mph,57,57,230.254000 | 229.154000 | 229.811000
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,current_rank,60,60,9 | 18 | 12
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,current_best_rank,60,60,9 | 18 | 12
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,benchmark_type,60,0,FAST_NINE_ADVANCEMENT | TOP_12_ADVANCEMENT | LAST_CHANCE_SURVIVAL_BUBBLE
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,benchmark_rank,60,60,9 | 12 | 3
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,benchmark_rank_basis,60,0,DIRECT_SOURCE_FIELD | FROZEN_LAST_CHANCE_TOP_THREE_CONTRACT
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,benchmark_speed_mph,60,60,230.254000 | 230.539000 | 230.472000
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,margin_to_benchmark_mph,57,57,0.000000 | -1.385000 | -0.443000
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,qualification_state,60,0,CURRENTLY_INSIDE_ADVANCEMENT | CURRENTLY_OUTSIDE_ADVANCEMENT | PROVISIONALLY_QUALIFIED
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,decision_state_leaderboard_context,60,0,DAY1|CURRENT_RANK=9|CURRENT_BEST_MPH=230.254|BENCHMARK=FAST_NINE_ADVANCEMENT|BENCHMARK_RANK=9|BENCHMARK_MPH=230.254|QUALIFICATION_STATE=CURRENTLY_INSIDE_ADVANCEMENT | DAY1|CURRENT_RANK=18|CURRENT_BEST_MPH=229.154|BENCHMARK=FAST_NINE_ADVANCEMENT|BENCHMARK_RANK=9|BENCHMARK_MPH=230.539|QUALIFICATION_STATE=CURRENTLY_OUTSIDE_ADVANCEMENT | DAY1|CURRENT_RANK=12|CURRENT_BEST_MPH=229.811|BENCHMARK=FAST_NINE_ADVANCEMENT|BENCHMARK_RANK=9|BENCHMARK_MPH=230.254|QUALIFICATION_STATE=CURRENTLY_OUTSIDE_ADVANCEMENT
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,leaderboard_context_quality,60,0,SOURCE_DECISION_STATE | FROZEN_LAST_CHANCE_STATE_MEDIUM | FROZEN_LAST_CHANCE_STATE_LOW
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,state_join_status,60,0,COMPLETE_EXCEPT_EXPLICIT_UNRESOLVED_FIELDS
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,unresolved_fields,60,0,session_remaining_seconds | decision_time_utc;session_remaining_seconds | current_best_speed_mph;decision_time_utc;session_remaining_seconds;source_attempt_id
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,join_keys,60,0,source_decision_id=decision_id | source_decision_id=decision_id; exact year+car_number+current_result_mph for optional official result ID
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,source_numeric_interface,60,0,r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv | r4/output/r4lc5e_last_chance_fused_interface_v2.csv
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,source_record_locator,60,0,decision_id=DAY1_2020_10_POST_FIRST_ATTEMPT;source_attempt_id=6041dd38-4b6d-5e38-81fd-8006cbe0bafd | decision_id=DAY1_2020_14_POST_FIRST_ATTEMPT;source_attempt_id=cbdbf766-10d3-516e-83ad-3cb56f8c02fb | decision_id=DAY1_2020_20_POST_FIRST_ATTEMPT;source_attempt_id=9a2e168d-3dda-5e76-8daf-588c20d91341
+f8e_decision,r4f8e_reconstructed_decision_numeric_state_v1.csv,60,leakage_safe,60,0,True
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,fused_decision_id,170,0,DAY1::DAY1_2020_10_POST_FIRST_ATTEMPT | DAY1::DAY1_2020_14_POST_FIRST_ATTEMPT | DAY1::DAY1_2020_20_POST_FIRST_ATTEMPT
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,regime,170,0,DAY1 | LAST_CHANCE
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,protected_result_exists,170,0,True | False
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,feasible_action,170,0,STOP | RETAIN_AND_REATTEMPT | WITHDRAW_AND_PRIORITY_REATTEMPT
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,current_result_retained_before_attempt,170,0,True | False
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,requires_new_attempt,170,0,False | True
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,priority_lane_semantics,170,0,NONE | DAY1_LANE2_RETAIN | DAY1_LANE1_WITHDRAW_PRIORITY
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,year,170,170,2020 | 2021 | 2023
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,car_number,170,170,10 | 14 | 20
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,driver_name,170,0,Felix Rosenqvist | Tony Kanaan | Ed Carpenter
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,source_decision_id,170,0,DAY1_2020_10_POST_FIRST_ATTEMPT | DAY1_2020_14_POST_FIRST_ATTEMPT | DAY1_2020_20_POST_FIRST_ATTEMPT
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,source_attempt_id,164,14,6041dd38-4b6d-5e38-81fd-8006cbe0bafd | cbdbf766-10d3-516e-83ad-3cb56f8c02fb | 9a2e168d-3dda-5e76-8daf-588c20d91341
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,decision_time_utc,150,0,2020-08-15T16:22:25+00:00 | 2020-08-15T17:19:05+00:00 | 2020-08-15T16:27:25+00:00
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,decision_time_quality,170,0,APPROXIMATE_POINT | UNKNOWN
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,session_remaining_seconds,0,0,
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,protected_result_speed_before_action_mph,162,162,230.254000 | 229.154000 | 229.811000
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,current_best_speed_mph,164,164,230.254000 | 229.154000 | 229.811000
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,current_rank,170,170,9 | 18 | 12
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,benchmark_type,170,0,FAST_NINE_ADVANCEMENT | TOP_12_ADVANCEMENT | LAST_CHANCE_SURVIVAL_BUBBLE
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,benchmark_rank,170,170,9 | 12 | 3
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,benchmark_speed_mph,170,170,230.254000 | 230.539000 | 230.472000
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,margin_to_benchmark_mph,164,164,0.000000 | -1.385000 | -0.443000
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,qualification_state,170,0,CURRENTLY_INSIDE_ADVANCEMENT | CURRENTLY_OUTSIDE_ADVANCEMENT | PROVISIONALLY_QUALIFIED
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,decision_state_leaderboard_context,170,0,DAY1|CURRENT_RANK=9|CURRENT_BEST_MPH=230.254|BENCHMARK=FAST_NINE_ADVANCEMENT|BENCHMARK_RANK=9|BENCHMARK_MPH=230.254|QUALIFICATION_STATE=CURRENTLY_INSIDE_ADVANCEMENT | DAY1|CURRENT_RANK=18|CURRENT_BEST_MPH=229.154|BENCHMARK=FAST_NINE_ADVANCEMENT|BENCHMARK_RANK=9|BENCHMARK_MPH=230.539|QUALIFICATION_STATE=CURRENTLY_OUTSIDE_ADVANCEMENT | DAY1|CURRENT_RANK=12|CURRENT_BEST_MPH=229.811|BENCHMARK=FAST_NINE_ADVANCEMENT|BENCHMARK_RANK=9|BENCHMARK_MPH=230.254|QUALIFICATION_STATE=CURRENTLY_OUTSIDE_ADVANCEMENT
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,numeric_state_join_status,170,0,COMPLETE_EXCEPT_EXPLICIT_UNRESOLVED_FIELDS
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,numeric_state_unresolved_fields,170,0,session_remaining_seconds | decision_time_utc;session_remaining_seconds | current_best_speed_mph;decision_time_utc;session_remaining_seconds;source_attempt_id
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,numeric_state_source_interface,170,0,r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv | r4/output/r4lc5e_last_chance_fused_interface_v2.csv
+f8e_action,r4f8e_reconstructed_action_numeric_interface_v1.csv,170,leakage_safe,170,0,True
+f8f_wait_params,r4f8f_action_wait_distribution_parameters_v1.csv,18,model_version,18,0,R4F8F_WAIT_QUEUE_MODEL_V1
+f8f_wait_params,r4f8f_action_wait_distribution_parameters_v1.csv,18,distribution_id,18,0,R4F8F_WAIT_QUEUE_MODEL_V1::DAY1::STOP | R4F8F_WAIT_QUEUE_MODEL_V1::DAY1::RETAIN_AND_REATTEMPT | R4F8F_WAIT_QUEUE_MODEL_V1::DAY1::WITHDRAW_AND_PRIORITY_REATTEMPT
+f8f_wait_params,r4f8f_action_wait_distribution_parameters_v1.csv,18,regime,18,0,DAY1 | LAST_CHANCE
+f8f_wait_params,r4f8f_action_wait_distribution_parameters_v1.csv,18,feasible_action,18,0,STOP | RETAIN_AND_REATTEMPT | WITHDRAW_AND_PRIORITY_REATTEMPT
+f8f_wait_params,r4f8f_action_wait_distribution_parameters_v1.csv,18,action_semantics,18,0,NO_QUEUE_NO_WAIT_NO_NEW_ATTEMPT | DAY1_LANE2_NON_PRIORITY | DAY1_LANE1_PRIORITY
+f8f_wait_params,r4f8f_action_wait_distribution_parameters_v1.csv,18,protection_semantics,18,0,CURRENT_PROTECTED_RESULT_RETAINED | CURRENT_PROTECTED_RESULT_SURRENDERED | CURRENT_STATE_RETAINED
+f8f_wait_params,r4f8f_action_wait_distribution_parameters_v1.csv,18,wait_variable,18,0,LATENT_PRE_RUN_DELAY_TO_TIMED_RUN_START_MINUTES
+f8f_wait_params,r4f8f_action_wait_distribution_parameters_v1.csv,18,distribution_family,18,0,POINT_MASS | DISCRETE_MAXIMUM_ENTROPY_STRUCTURAL_PRIOR
+f8f_wait_params,r4f8f_action_wait_distribution_parameters_v1.csv,18,support_level,18,0,DETERMINISTIC_RULE | WEAK_SHARED_STRUCTURAL_PRIOR_ZERO_DIRECT_WAIT_OBSERVATIONS
+f8f_wait_params,r4f8f_action_wait_distribution_parameters_v1.csv,18,shared_prior_group,18,0,NONE_STOP_RULE | BROAD_LATENT_PRE_RUN_DELAY_PRIOR_V1
+f8f_wait_params,r4f8f_action_wait_distribution_parameters_v1.csv,18,support_point_minutes,18,18,0.000000 | 5.000000 | 15.000000
+f8f_wait_params,r4f8f_action_wait_distribution_parameters_v1.csv,18,probability_mass,18,18,1.000000 | 0.250000
+f8f_wait_params,r4f8f_action_wait_distribution_parameters_v1.csv,18,probability_semantics,18,0,DETERMINISTIC | DECLARED_MAXIMUM_ENTROPY_WEIGHT_NOT_EMPIRICAL_FREQUENCY
+f8f_wait_params,r4f8f_action_wait_distribution_parameters_v1.csv,18,direct_queue_wait_observations,18,18,0
+f8f_wait_params,r4f8f_action_wait_distribution_parameters_v1.csv,18,source_sensitivity_scenarios,18,18,0 | 4
+f8f_wait_params,r4f8f_action_wait_distribution_parameters_v1.csv,18,source_file,18,0,FROZEN_ACTION_RULE | weather/output/queue_wait_sensitivity_scenarios_v1.csv
+f8f_wait_params,r4f8f_action_wait_distribution_parameters_v1.csv,18,source_policy_hash,18,0,ACTION_CONTRACT | 683a5d2e8477187f1d4c453eeb4e6c4859e87100725ed7459bf30a9c758e6efb
+f8f_wait_support,r4f8f_wait_support_summary_v1.csv,6,model_version,6,0,R4F8F_WAIT_QUEUE_MODEL_V1
+f8f_wait_support,r4f8f_wait_support_summary_v1.csv,6,regime,6,0,DAY1 | LAST_CHANCE
+f8f_wait_support,r4f8f_wait_support_summary_v1.csv,6,feasible_action,6,0,STOP | RETAIN_AND_REATTEMPT | WITHDRAW_AND_PRIORITY_REATTEMPT
+f8f_wait_support,r4f8f_wait_support_summary_v1.csv,6,universe_action_rows,6,6,50 | 10 | 4
+f8f_wait_support,r4f8f_wait_support_summary_v1.csv,6,distribution_id,6,0,R4F8F_WAIT_QUEUE_MODEL_V1::DAY1::STOP | R4F8F_WAIT_QUEUE_MODEL_V1::DAY1::RETAIN_AND_REATTEMPT | R4F8F_WAIT_QUEUE_MODEL_V1::DAY1::WITHDRAW_AND_PRIORITY_REATTEMPT
+f8f_wait_support,r4f8f_wait_support_summary_v1.csv,6,distribution_class,6,0,DETERMINISTIC | SHARED_STRUCTURAL_PRIOR
+f8f_wait_support,r4f8f_wait_support_summary_v1.csv,6,direct_queue_wait_observations,6,6,0
+f8f_wait_support,r4f8f_wait_support_summary_v1.csv,6,structural_support_point_count,6,6,1 | 4
+f8f_wait_support,r4f8f_wait_support_summary_v1.csv,6,mean_wait_minutes,6,6,0.000000 | 23.750000
+f8f_wait_support,r4f8f_wait_support_summary_v1.csv,6,median_wait_minutes,6,6,0.000000 | 15.000000
+f8f_wait_support,r4f8f_wait_support_summary_v1.csv,6,q05_wait_minutes,6,6,0.000000 | 5.000000
+f8f_wait_support,r4f8f_wait_support_summary_v1.csv,6,q95_wait_minutes,6,6,0.000000 | 45.000000
+f8f_wait_support,r4f8f_wait_support_summary_v1.csv,6,q95_minus_q05_minutes,6,6,0.000000 | 40.000000
+f8f_wait_support,r4f8f_wait_support_summary_v1.csv,6,support_level,6,0,DETERMINISTIC_RULE | WEAK_SHARED_STRUCTURAL_PRIOR_ZERO_DIRECT_WAIT_OBSERVATIONS
+f8f_wait_support,r4f8f_wait_support_summary_v1.csv,6,weakly_supported,6,0,False | True
+f8f_wait_support,r4f8f_wait_support_summary_v1.csv,6,shared_prior_reason,6,0,NOT_APPLICABLE | ZERO_DIRECT_QUEUE_WAIT_PAIRS_AND_NO_DEFENSIBLE_ACTION_SPECIFIC_HISTORICAL_CALIBRATION
+f8f_wait_support,r4f8f_wait_support_summary_v1.csv,6,completion_before_cutoff_status,6,0,NOT_APPLICABLE_NO_ATTEMPT | REQUIRES_LATER_SEPARATE_POLICY_AND_SESSION_REMAINING_INPUT
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,model_version,60,0,R4F8G_PERFORMANCE_UNCERTAINTY_V1
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,fused_decision_id,60,0,DAY1::DAY1_2020_10_POST_FIRST_ATTEMPT | DAY1::DAY1_2020_14_POST_FIRST_ATTEMPT | DAY1::DAY1_2020_20_POST_FIRST_ATTEMPT
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,source_decision_id,60,0,DAY1_2020_10_POST_FIRST_ATTEMPT | DAY1_2020_14_POST_FIRST_ATTEMPT | DAY1_2020_20_POST_FIRST_ATTEMPT
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,regime,60,0,DAY1 | LAST_CHANCE
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,year,60,60,2020 | 2021 | 2023
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,car_number,60,60,10 | 14 | 20
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,driver_name,60,0,Felix Rosenqvist | Tony Kanaan | Ed Carpenter
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,driver_key,60,0,felix rosenqvist | tony kanaan | ed carpenter
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,source_attempt_id,57,7,6041dd38-4b6d-5e38-81fd-8006cbe0bafd | cbdbf766-10d3-516e-83ad-3cb56f8c02fb | 9a2e168d-3dda-5e76-8daf-588c20d91341
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,decision_time_utc,50,0,2020-08-15T16:22:25+00:00 | 2020-08-15T17:19:05+00:00 | 2020-08-15T16:27:25+00:00
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,fast_friday_reference_mph,59,59,230.432000 | 229.946000 | 229.563000
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,fast_friday_reference_type,59,0,FROZEN_R4F7_DEVELOPMENT_REFERENCE | GENERAL_FAST_FRIDAY_BEST_SPEED
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,reference_source_file,59,0,r4/output/r4f7c5_prospective_past_only_state_panel_v1.csv | r4/output/r4f6g_canonical_fast_friday_reference_panel_v2.csv
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,same_session_other_support_count,60,60,14 | 23 | 15
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,same_session_support_basis,60,0,FROZEN_R4F7_STRICTLY_EARLIER_OTHER_DRIVER_DEVELOPMENT_ROWS | NO_DECISION_SAFE_SAME_SESSION_CALIBRATION_ROWS | FROZEN_LAST_CHANCE_POST_GUARANTEED_BREAK_OTHER_DRIVER_STATE
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,observed_field_mean_residual_mph,54,54,-0.775857142857 | -0.896695652174 | -0.736000000000
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,frozen_prior_mean_residual_mph,60,60,-0.685759615385
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,shrinkage_k,60,60,3.000000
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,posterior_calibration_mph,59,59,-0.759957579186 | -0.872356878698 | -0.727626602564
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,predictive_mean_speed_mph,59,59,229.672042420814 | 229.073643121302 | 228.835373397436
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,predictive_sd_mph,59,59,1.006927726693 | 0.982030913133 | 1.002973576869
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,q05_speed_mph,59,59,228.015793697485 | 227.458346012056 | 227.185628671786
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,q25_speed_mph,59,59,228.992879989972 | 228.411273336018 | 228.158878000120
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,q50_speed_mph,59,59,229.672042420814 | 229.073643121302 | 228.835373397436
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,q75_speed_mph,59,59,230.351204851657 | 229.736012906586 | 229.511868794752
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,q95_speed_mph,59,59,231.328291144143 | 230.688940230547 | 230.485118123085
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,uncertainty_class,60,0,MODERATE_N_10_19 | LATER_N_20_PLUS | LIMITED_N_3_9
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,performance_sample_ready,60,0,True | False
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,readiness_status,60,0,SAMPLE_READY | NOT_PERFORMANCE_SAMPLE_READY | SAMPLE_READY_DEGRADED_SUPPORT
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,degraded_or_unresolved_reasons,10,0,MISSING_FROZEN_FAST_FRIDAY_REFERENCE;LAST_CHANCE_TIMESTAMP_UNRESOLVED_STATE_BLOCK_ONLY | LAST_CHANCE_TIMESTAMP_UNRESOLVED_STATE_BLOCK_ONLY | CURRENT_BEST_SPEED_UNRESOLVED_NOT_REQUIRED_BY_POINT_FORMULA;SOURCE_ATTEMPT_ID_UNRESOLVED_NOT_REQUIRED_BY_POINT_FORMULA;LAST_CHANCE_TIMESTAMP_UNRESOLVED_STATE_BLOCK_ONLY
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,point_prediction_formula,60,0,FastFridayReference+((k*frozen_prior_mean)+(n*strictly_prior_other_driver_mean))/(k+n)
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,uncertainty_formula,60,0,"Normal(center,sqrt(high_support_LOYO_residual_sd^2+prior_sd^2*k/(k+n)))"
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,calibration_evidence_file,60,0,r4/output/r4f8g_development_residual_calibration_evidence_v1.csv
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,uncertainty_parameter_file,60,0,r4/output/r4f8g_uncertainty_parameters_v1.csv
+f8g_decision_uncertainty,r4f8g_decision_predictive_uncertainty_state_v1.csv,60,future_outcome_or_leaderboard_used,60,0,False
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,model_version,61,0,R4F8G_PERFORMANCE_UNCERTAINTY_V1
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,same_session_other_support_count,61,61,0 | 1 | 2
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,uncertainty_class,61,0,EARLY_BROAD_N_0_2 | LIMITED_N_3_9 | MODERATE_N_10_19
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,distribution_family,61,0,NORMAL_CONSERVATIVE_EMPIRICAL_COMPONENTS
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,run_noise_floor_sd_mph,61,61,0.933193083378
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,calibration_uncertainty_sd_mph,61,61,0.900355479907 | 0.779730718036 | 0.697412355869
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,predictive_sd_mph,61,61,1.296722530483 | 1.216071265804 | 1.165003572949
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,q05_z,61,61,-1.644853626951
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,q25_z,61,61,-0.674489750196
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,q50_z,61,61,0.000000000000
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,q75_z,61,61,0.674489750196
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,q95_z,61,61,1.644853626951
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,calibration_formula,61,0,frozen_prior_sd*sqrt(k/(k+n))
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,predictive_scale_formula,61,0,sqrt(run_noise_floor_sd^2+calibration_uncertainty_sd^2)
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,shrinkage_k,61,61,3.000000
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,development_residual_rows,61,61,104
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,high_support_floor_rows,61,61,74
+f8g_uncertainty_params,r4f8g_uncertainty_parameters_v1.csv,61,parameter_role,61,0,SAMPLEABLE_SCALE_LOOKUP; NO_ACTION_PROBABILITIES

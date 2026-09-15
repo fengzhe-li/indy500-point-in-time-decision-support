@@ -1,0 +1,155 @@
+{
+  "phase": "R4F7B",
+  "status": "R4F7B_LATENT_WINDOW_MODEL_CONTRACT_FROZEN",
+  "research_objective": "Estimate a probabilistic common performance window under uncertainty while separating entry strength, thermal/environment effects, and run noise.",
+  "development_years": [
+    2020,
+    2021,
+    2023
+  ],
+  "degraded_validation_years": [
+    2022
+  ],
+  "validation_only_years": [
+    2024
+  ],
+  "transfer_only_years": [
+    2025
+  ],
+  "core_development_observations": 104,
+  "validation_observations": 6,
+  "degraded_validation_attempt_rows": 44,
+  "observation_equation": "Q_i_t = R_i + entry_residual_i + thermal_component(X_t) + latent_window_t + run_noise_i_t",
+  "terms": {
+    "Q_i_t": "Observed qualifying four-lap average speed for entry i at attempt time t.",
+    "R_i": "Pre-session Fast Friday reference speed. Measurement type is retained explicitly.",
+    "entry_residual_i": "Hierarchically shrunk entry-specific correction around the pre-session reference.",
+    "thermal_component": "Observed and/or forecast environmental/thermal state contribution using only leakage-safe inputs.",
+    "latent_window_t": "Common field-level time-varying performance state. It is latent and must NOT be hard-defined as a local residual median.",
+    "run_noise_i_t": "Attempt-specific residual variation including execution, setup, tire preparation, traffic residuals, and other unmodeled effects."
+  },
+  "reference_measurement_policy": {
+    "GENERAL_FAST_FRIDAY_BEST_SPEED": {
+      "role": "PRIMARY_FIELD_COMPLETE_REFERENCE",
+      "relative_uncertainty": "BASELINE"
+    },
+    "NO_TOW_SINGLE_LAP": {
+      "role": "HIGHER_QUALITY_SPARSE_REFERENCE",
+      "relative_uncertainty": "LOWER_THAN_GENERAL_BUT_NOT_FIXED_NUMERIC_YET"
+    },
+    "FOUR_LAP_QUALIFYING_SIM": {
+      "role": "QUALIFYING_LIKE_SPARSE_REFERENCE",
+      "relative_uncertainty": "LOWER_THAN_GENERAL_BUT_NOT_FIXED_NUMERIC_YET"
+    }
+  },
+  "critical_reference_rule": "Reference types are not assumed statistically identical. Sparse no-tow and four-lap references must not each receive freely estimated standalone response models because their sample counts are too small.",
+  "performance_observation_status_policy": [
+    "VALID_RETAINED",
+    "VALID_SUPERSEDED",
+    "WITHDRAWN"
+  ],
+  "excluded_primary_performance_statuses": [
+    "FAILED",
+    "RETIRED",
+    "DISALLOWED"
+  ],
+  "prospective_feature_policy": {
+    "allowed": [
+      "information observable at decision time t",
+      "past qualifying attempts",
+      "current leaderboard state",
+      "session elapsed/remaining",
+      "current observed track/environment state",
+      "leakage-safe HRRR forecast information",
+      "pre-session Fast Friday reference",
+      "past observed field performance"
+    ],
+    "not_allowed": [
+      "future qualifying outcomes as contemporaneous features",
+      "future competitor outcomes not yet observed at t",
+      "future realized weather as if known at t",
+      "future queue state as if known at t",
+      "historical action labels treated as optimal actions"
+    ],
+    "offline_training_exception": "Later historical outcomes may be used as targets, labels, posterior-learning evidence, or retrospective structural validation, but not as prospective predictor features for an earlier decision state."
+  },
+  "latent_window_policy": {
+    "definition": "Field-level time-varying latent performance state shared partially across entries.",
+    "must_not_be": "Defined directly as the median or mean of nearby cross-car residuals.",
+    "evidence_sources": [
+      "whole-field qualifying residual observations",
+      "PTSC track temperature",
+      "HRRR leakage-safe thermal forecasts",
+      "thermal trends/slopes",
+      "time-of-day/session progression",
+      "repeat observations where available"
+    ]
+  },
+  "thermal_policy": {
+    "interpretation": "Track temperature and weather variables are predictors or physical proxies. They must not automatically be described as causal tire temperature effects.",
+    "candidate_structure": [
+      "track_temp_c level",
+      "5/10/20 minute thermal slopes where available",
+      "ambient temperature",
+      "relative humidity",
+      "pressure",
+      "wind/gust/direction",
+      "cloud/shortwave/solar",
+      "forecast direction",
+      "nonlinear thermal terms",
+      "thermal interactions"
+    ]
+  },
+  "required_baselines_for_r4f7c": [
+    "YEAR_INTERCEPT_ONLY",
+    "FAST_FRIDAY_REFERENCE_ONLY",
+    "FAST_FRIDAY_PLUS_THERMAL",
+    "HIERARCHICAL_ENTRY_PLUS_THERMAL",
+    "HIERARCHICAL_ENTRY_PLUS_THERMAL_PLUS_LATENT_WINDOW"
+  ],
+  "validation_policy": {
+    "development": "Model development and hyperparameter decisions use 2020, 2021, and 2023 only.",
+    "2022": "Degraded chronology validation only. Do not force into time-aligned latent-window training.",
+    "2024": "Validation-only. Do not use for model-selection or hyperparameter tuning.",
+    "2025": "Technical-regime transfer only. Do not merge with 2020-2024 main technical regime development."
+  },
+  "primary_model_targets": [
+    "qualifying four-lap average speed",
+    "future attempt speed distribution",
+    "probability of beating current result",
+    "probability of crossing advancement benchmark"
+  ],
+  "downstream_monte_carlo_outputs": [
+    "P(beat_current_result)",
+    "P(cross_advancement_benchmark)",
+    "expected_speed",
+    "expected_rank",
+    "rank_change_distribution",
+    "downside_probability",
+    "completion_probability"
+  ],
+  "action_layer_boundary": {
+    "actions": [
+      "STOP",
+      "REATTEMPT",
+      "RETAIN_AND_REATTEMPT",
+      "WITHDRAW_AND_REATTEMPT",
+      "WITHDRAW_AND_PRIORITY_REATTEMPT"
+    ],
+    "rule": "The performance-window model predicts outcome distributions. Action choice is a downstream counterfactual simulation problem, not a historical action-classification problem."
+  },
+  "r4f7c_initial_modeling_rule": "Begin with low-complexity regularized / hierarchical models. Do not start with a highly flexible neural model because the core development sample is 104 observations.",
+  "r4f7c_model_selection_metric_policy": [
+    "MAE / RMSE for speed",
+    "year-held-out diagnostics within development years",
+    "2024 final validation after development freeze",
+    "calibration metrics for probability outputs later"
+  ],
+  "known_limitations": [
+    "Reference-type distribution is highly imbalanced: general Fast Friday best speed dominates.",
+    "2022 has no model-ready time-aligned latent observations.",
+    "2024 has only a small number of fully model-ready validation observations.",
+    "Latent-window identifiability remains limited by sparse within-session synchronized observations.",
+    "Entry-specific and latent-window components can be partially confounded and require shrinkage / constraints."
+  ]
+}

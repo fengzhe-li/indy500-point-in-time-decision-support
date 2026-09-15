@@ -1,0 +1,54 @@
+{
+  "phase": "R4F8H-H",
+  "status": "R4F8H_PRIORITY_BENEFIT_SENSITIVITY_COMPLETE",
+  "paired_day1_decisions": 50,
+  "time_remaining_scenarios": [
+    5,
+    10,
+    15,
+    20,
+    30,
+    45,
+    60
+  ],
+  "priority_reduction_percent_scenarios": [
+    0,
+    25,
+    50,
+    75
+  ],
+  "simulation_rows": 1400,
+  "break_even_rows": 350,
+  "benchmark_crossovers": {
+    "rows_with_crossover": 145,
+    "rows_without_crossover_up_to_75_percent": 205,
+    "first_crossover_level_counts": {
+      "25": 73,
+      "50": 24,
+      "75": 48
+    }
+  },
+  "interpretation_boundary": "Priority benefit is a structural sensitivity parameter. No tested reduction level is claimed to represent actual historical Lane-1 performance.",
+  "qa": {
+    "pass": 14,
+    "warn": 0,
+    "fail": 0
+  },
+  "protected_input_hashes": {
+    "r4/output/r4f8e_reconstructed_decision_numeric_state_v1.csv": "ec63d81fd99f72ae877f05762957e90c0ac6bdef8f28564c796b74b1984d629b",
+    "r4/output/r4f8e_reconstructed_action_numeric_interface_v1.csv": "86620bb2849b7a0831a14a926c4f031036c97ca0f9e5a74c93abd6869b5056aa",
+    "r4/output/r4f8g_decision_predictive_uncertainty_state_v1.csv": "d2f84bb1dd61481732d8e2b986c041ffc612b77e635c4f0b9bd4cc156f36bdec",
+    "r4/output/r4p1_attempt_four_lap_panel_v1.csv": "af6ff210a62c5aa0eb43b912c4df42aa62fe1a5aeb9a26d1d5281d515d4cb30b",
+    "r4/output/r4f8h_g_action_mc_scenario_results_v1.csv": "0987ce0aa5e08ed28db2ef371f8080cd1c21d2ecb45657213a41626b049addb0",
+    "r4/output/r4f8h_g_final_action_mc_contract_v1.json": "48940ab24e16745a5e4d3506c2d2eb912eace9d8c68a64fd59489927579eba1c",
+    "r4/output/r4f8h_f_competitive_state_policy_contract_v1.json": "195733b4d416d5917066af9ba984c39bb4dddfecc8d1782d08c9b7882e173ced"
+  },
+  "output_hashes": {
+    "r4/output/r4f8h_h_priority_benefit_sensitivity_results_v1.csv": "d015a078faedae20e08151be0666fb2495e5574453499c04e43a6bf052f812ad",
+    "r4/output/r4f8h_h_retain_withdraw_comparison_v1.csv": "1b9b118e033e9fa62dec55305bcce42d572754e9561dae32276b875a99ec5481",
+    "r4/output/r4f8h_h_priority_break_even_summary_v1.csv": "12c57ed653b2304ab17c05aaef352caa73a08d6adda7124a37b17fd5cf534dfc",
+    "r4/output/r4f8h_h_priority_benefit_sensitivity_qa_v1.csv": "c62ee993391c694a2fbbc28a08abe2a5a4dbf3b1411cdc24a0de44e888da194f",
+    "r4/output/r4f8h_h_priority_benefit_sensitivity_contract_v1.json": "88a0bb2bcd6191c2293a76d69e28ab8fac1214e5c34cae3b8baea49939503f27"
+  },
+  "next_phase": "R4F9_HISTORICAL_REPLAY_AND_EVALUATION"
+}

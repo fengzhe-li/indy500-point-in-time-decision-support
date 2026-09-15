@@ -1,0 +1,8 @@
+﻿threshold_type,threshold_mph,mathematical_rule,interpretation,requires_leaderboard,historical_claim,utility_weight,use,policy_hash
+GAIN_AT_LEAST,0.1,delta_mph >= 0.10,Probability rerun gains at least 0.10 mph.,False,False,,SENSITIVITY_TARGET,4c120fe7d799401d5a1774812db5cbc65ff60b6c9498b851f1953d4d50fbc31b
+GAIN_AT_LEAST,0.25,delta_mph >= 0.25,Probability rerun gains at least 0.25 mph.,False,False,,SENSITIVITY_TARGET,4c120fe7d799401d5a1774812db5cbc65ff60b6c9498b851f1953d4d50fbc31b
+GAIN_AT_LEAST,0.5,delta_mph >= 0.50,Probability rerun gains at least 0.50 mph.,False,False,,SENSITIVITY_TARGET,4c120fe7d799401d5a1774812db5cbc65ff60b6c9498b851f1953d4d50fbc31b
+GAIN_AT_LEAST,1.0,delta_mph >= 1.00,Probability rerun gains at least 1.00 mph.,False,False,,SENSITIVITY_TARGET,4c120fe7d799401d5a1774812db5cbc65ff60b6c9498b851f1953d4d50fbc31b
+LOSS_AT_MOST,-0.25,delta_mph <= -0.25,Probability completed rerun loses at least 0.25 mph.,False,False,,DOWNSIDE_SENSITIVITY,4c120fe7d799401d5a1774812db5cbc65ff60b6c9498b851f1953d4d50fbc31b
+LOSS_AT_MOST,-0.5,delta_mph <= -0.50,Probability completed rerun loses at least 0.50 mph.,False,False,,DOWNSIDE_SENSITIVITY,4c120fe7d799401d5a1774812db5cbc65ff60b6c9498b851f1953d4d50fbc31b
+LOSS_AT_MOST,-1.0,delta_mph <= -1.00,Probability completed rerun loses at least 1.00 mph.,False,False,,DOWNSIDE_SENSITIVITY,4c120fe7d799401d5a1774812db5cbc65ff60b6c9498b851f1953d4d50fbc31b

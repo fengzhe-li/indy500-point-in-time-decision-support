@@ -1,0 +1,12 @@
+{
+  "phase": "R4F4B_V2",
+  "status": "R4F4B_V2_TEMPORAL_AUDIT_CORRECTED",
+  "repeat_residuals": 40,
+  "before_all": 0,
+  "during": 0,
+  "after_all": 39,
+  "no_development_decision_reference": 1,
+  "offline_learning_policy": "All historical repeat residuals remain eligible for offline rule-period window learning, target construction and validation. Temporal gating only controls whether a residual may be treated as an observable input at a specific historical decision time.",
+  "online_or_replay_policy": "At a historical decision time, only information already available by that timestamp may enter the decision-state input.",
+  "next_phase": "Build whole-session offline latent performance-window targets using complete historical repeat and cross-car evidence, while keeping prospective model features decision-time observable."
+}

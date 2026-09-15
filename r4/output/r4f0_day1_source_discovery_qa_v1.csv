@@ -1,0 +1,4 @@
+metric,value,expected,status
+non_last_chance_csvs_scanned,45,>0,PASS
+strong_day1_source_candidate_found,4,>0,PASS
+last_chance_files_excluded,0,0,PASS

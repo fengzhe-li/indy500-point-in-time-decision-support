@@ -1,0 +1,12 @@
+metric,value,expected,status
+frozen_matrix_rows,110,110,PASS
+development_rows,104,104,PASS
+validation_rows,6,6,PASS
+unique_attempt_ids,True,True,PASS
+hrrr_join_coverage,110,110,PASS
+hrrr_leakage_safe_rows,110,110,PASS
+hrrr_issue_never_future,0,0,PASS
+ptsc_never_future,0,0,PASS
+ptsc_available_rows,110,>=100,PASS
+initial_numeric_complete_rows,110,>=100,PASS
+matrix_only_no_model_fit,True,True,PASS

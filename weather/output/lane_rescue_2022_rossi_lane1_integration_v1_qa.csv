@@ -1,0 +1,12 @@
+﻿metric,value,status
+evidence_ready,1,PASS
+first_chronology_exists,1,PASS
+second_chronology_exists,1,PASS
+rossi_lane_added_once,1,PASS
+lane_row_gain_one,1,PASS
+explicit_lane_rows_now_two,2,PASS
+rossi_and_mclaughlin_both_present,1,PASS
+queue_wait_inferred,0,PASS
+exact_queue_position_inferred,0,PASS
+chronology_mutated,0,PASS
+canonical_mutated,0,PASS

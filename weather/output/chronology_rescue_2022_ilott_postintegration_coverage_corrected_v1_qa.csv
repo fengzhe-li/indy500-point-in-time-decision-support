@@ -1,0 +1,10 @@
+﻿metric,value,status
+result_match_v3_population_size,44,PASS
+all_2022_ids_found_in_canonical,0,PASS
+chronology_gain_equals_two,2,PASS
+ilott_first_newly_covered,1,PASS
+ilott_second_newly_covered,1,PASS
+lane_evidence_count_unchanged,0,PASS
+ledgers_mutated,0,PASS
+canonical_mutated,0,PASS
+phase5_to_phase8_mutated,0,PASS

@@ -1,0 +1,15 @@
+﻿metric,value,status
+target_years_expected,5,INFO
+successful_events_api_years,5,PASS
+indy500_event_years,,REVIEW
+session_inventory_rows,0,INFO
+successful_session_detail_calls,0,REVIEW
+target_day1_candidate_rows,0,REVIEW
+target_day1_years,,REVIEW
+target_sessions_with_reports,0,INFO
+report_inventory_rows,0,INFO
+downloaded_report_files,0,INFO
+canonical_data_mutated,0,PASS
+queue_wait_inferred,0,PASS
+leaderboard_state_invented,0,PASS
+policy_hash,e2092f140e644d1319a6e16ba50005c21b61b38a1d3b05c6d88c2f5b1a0341d9,INFO

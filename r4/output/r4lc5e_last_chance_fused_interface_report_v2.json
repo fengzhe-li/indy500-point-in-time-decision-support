@@ -1,0 +1,11 @@
+{
+  "phase": "R4LC5E_V2",
+  "status": "R4LC5E_V2_LAST_CHANCE_FUSED_ACTION_SEMANTICS_FROZEN",
+  "rows": 10,
+  "action_counts": {
+    "STOP": 6,
+    "REATTEMPT": 4
+  },
+  "semantic_fix": "Cars without a protected qualifying result are now labelled REATTEMPT rather than WITHDRAW_AND_REATTEMPT.",
+  "next_phase": "Build Day1 adapter against the frozen V2 fused schema."
+}

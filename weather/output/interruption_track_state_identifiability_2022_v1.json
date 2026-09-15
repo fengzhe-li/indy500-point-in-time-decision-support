@@ -1,0 +1,23 @@
+{
+  "phase": "R2F.3",
+  "year": 2022,
+  "interruption_chronology_support": "PARTIAL",
+  "wet_terminal_state_support": "SUPPORTED",
+  "day1_rain_arrival_grip_effect": "LOWER_GRIP_SUPPORTED",
+  "day1_rain_arrival_speed_effect": "LOWER_SPEEDS_SUPPORTED",
+  "post_restart_grip_state": "UNKNOWN",
+  "drying_trajectory": "UNKNOWN",
+  "track_cleaning_support": "NOT_OBSERVED",
+  "track_reset_support": "NOT_OBSERVED",
+  "day1_rubber_washoff_support": "NOT_IDENTIFIABLE",
+  "green_track_support": "NOT_OBSERVED",
+  "adjacent_mechanism_evidence": {
+    "date": "2022-05-20",
+    "context": "FAST_FRIDAY_PRACTICE",
+    "mechanism": "OVERNIGHT_RAIN_CAN_WASH_AWAY_RUBBER_AT_IMS",
+    "may21_event_promotion_allowed": false
+  },
+  "elapsed_time_as_track_evolution": "PROHIBITED",
+  "rain_implies_full_reset": false,
+  "reopen_implies_known_grip": false
+}

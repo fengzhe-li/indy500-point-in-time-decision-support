@@ -1,0 +1,15 @@
+﻿metric,value,status
+state_rows_is_8,8,PASS
+driver_set_exact,1,PASS
+state_ids_unique,8,PASS
+unresolved_pairs,0,PASS
+eligibility_order_fallback_pairs,0,PASS
+known_rank_state_rows,3,PASS
+known_queue_state_rows,3,PASS
+explicit_lane_states,2,PASS
+historical_queue_wait_truth_leaks,0,PASS
+pit_service_truth_leaks,0,PASS
+rubber_grip_truth_leaks,0,PASS
+tire_truth_leaks,0,PASS
+elapsed_time_track_evolution_used,0,PASS
+active_ledger_mutation,0,PASS

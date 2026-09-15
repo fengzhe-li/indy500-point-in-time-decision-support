@@ -1,0 +1,2 @@
+source,derivation,n,median_seconds,mean_seconds,q05_seconds,q95_seconds,min_seconds,max_seconds,use,not_use
+r4/output/r4p1_attempt_four_lap_panel_v1.csv,36000 / four_lap_avg_speed_mph,260,155.77874228599575,155.9560428064143,154.43922718823248,158.10338222442886,153.88100723668182,162.93573995455904,EMPIRICAL_COMPLETION_DURATION_COMPONENT_ONLY,NOT_QUEUE_WAIT_NOT_SESSION_REMAINING

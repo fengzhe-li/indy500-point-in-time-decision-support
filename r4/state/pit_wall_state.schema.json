@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://indy500.local/r4/pit_wall_state.schema.json",
+  "title": "Canonical R4 Pit Wall State",
+  "type": "object",
+  "additionalProperties": false,
+  "$defs": {
+    "nullableNumber": {"type": ["number", "null"]},
+    "nullableInteger": {"type": ["integer", "null"]},
+    "queueObservation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["observation_status", "observed_at", "queue_length", "ordered_entry_ids", "evidence_reference"],
+      "properties": {
+        "observation_status": {"enum": ["OBSERVED", "PARTIAL", "UNKNOWN", "NOT_CONFIGURED"]},
+        "observed_at": {"type": ["string", "null"], "format": "date-time"},
+        "queue_length": {"type": ["integer", "null"], "minimum": 0},
+        "ordered_entry_ids": {"type": ["array", "null"], "items": {"type": "string"}},
+        "evidence_reference": {"type": ["string", "null"]}
+      }
+    }
+  },
+  "required": [
+    "decision_timestamp", "session_remaining_seconds", "driver_id", "driver_name", "car_number",
+    "current_valid_speed_mph", "current_rank", "cutoff_rank", "cutoff_speed_mph", "attempt_count",
+    "action_eligibility", "lane1_queue_state", "lane2_queue_state", "ambient_temperature_c",
+    "track_temperature_c", "relative_humidity_percent", "pressure_hpa", "wind_speed_mps",
+    "wind_direction_degrees", "gust_speed_mps", "cloud_cover_percent", "shortwave_radiation_w_m2",
+    "solar_elevation_degrees", "solar_azimuth_degrees"
+  ],
+  "properties": {
+    "decision_timestamp": {"type": "string", "format": "date-time"},
+    "session_remaining_seconds": {"type": "number", "minimum": 0},
+    "driver_id": {"type": "string", "minLength": 1},
+    "driver_name": {"type": "string", "minLength": 1},
+    "car_number": {"type": "string", "minLength": 1},
+    "current_valid_speed_mph": {"$ref": "#/$defs/nullableNumber"},
+    "current_rank": {"$ref": "#/$defs/nullableInteger"},
+    "cutoff_rank": {"$ref": "#/$defs/nullableInteger"},
+    "cutoff_speed_mph": {"$ref": "#/$defs/nullableNumber"},
+    "attempt_count": {"type": "integer", "minimum": 0},
+    "action_eligibility": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["STOP_RETAIN_CURRENT_RESULT", "REPEAT_LANE2_RETAIN_CURRENT_RESULT", "REPEAT_LANE1_WITHDRAW_CURRENT_RESULT"],
+      "properties": {
+        "STOP_RETAIN_CURRENT_RESULT": {"type": "boolean"},
+        "REPEAT_LANE2_RETAIN_CURRENT_RESULT": {"type": "boolean"},
+        "REPEAT_LANE1_WITHDRAW_CURRENT_RESULT": {"type": "boolean"}
+      }
+    },
+    "lane1_queue_state": {"$ref": "#/$defs/queueObservation"},
+    "lane2_queue_state": {"$ref": "#/$defs/queueObservation"},
+    "ambient_temperature_c": {"$ref": "#/$defs/nullableNumber"},
+    "track_temperature_c": {"$ref": "#/$defs/nullableNumber"},
+    "relative_humidity_percent": {"$ref": "#/$defs/nullableNumber"},
+    "pressure_hpa": {"$ref": "#/$defs/nullableNumber"},
+    "wind_speed_mps": {"$ref": "#/$defs/nullableNumber"},
+    "wind_direction_degrees": {"$ref": "#/$defs/nullableNumber"},
+    "gust_speed_mps": {"$ref": "#/$defs/nullableNumber"},
+    "cloud_cover_percent": {"$ref": "#/$defs/nullableNumber"},
+    "shortwave_radiation_w_m2": {"$ref": "#/$defs/nullableNumber"},
+    "solar_elevation_degrees": {"$ref": "#/$defs/nullableNumber"},
+    "solar_azimuth_degrees": {"$ref": "#/$defs/nullableNumber"}
+  }
+}

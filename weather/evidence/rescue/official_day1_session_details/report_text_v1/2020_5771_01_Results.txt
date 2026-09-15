@@ -1,0 +1,79 @@
+Event:        104th Indianapolis 500                                                                       Round 7
+Track:        Indianapolis Motor Speedway                                                             2.5 mile(s)
+
+Report:       Unofficial Qualification Results                                            NTT IndyCar Series
+Session: Qualifications - Day 1                                                               August 15, 2020
+Rank   Car Driver Name           C/E/T    Lap 1        Lap 2     Lap 3       Lap 4     Total Time     Speed     Qualified On      Status
+
+ 1     98   Andretti, Marco      D/H/F    38.7635     38.8670    38.9664    39.0109    02:35.6078     231.351       Day 1
+ 2     28   Hunter-Reay, Ryan    D/H/F    38.8512     38.8759    38.9241    38.9705    02:35.6217     231.330       Day 1
+ 3     27   Rossi, Alexander     D/H/F    38.8122     38.8774    38.9814    38.9928    02:35.6638     231.268       Day 1
+ 4     29   Hinchcliffe, James   D/H/F    38.8282     38.8948    38.9530    39.0366    02:35.7126     231.195       Day 1
+ 5     9    Dixon, Scott         D/H/F    38.7626     38.9061    38.9957    39.0752    02:35.7396     231.155       Day 1
+ 6     21   VeeKay, Rinus        D/C/F    38.8284     38.9562    38.9800    39.0028    02:35.7674     231.114       Day 1
+ 7     55   Palou, Alex          D/H/F    38.8681     38.9254    38.9934    39.0344    02:35.8213     231.034       Day 1
+ 8     15   Rahal, Graham        D/H/F    38.9438     38.9820    39.0050    39.0333    02:35.9641     230.822       Day 1
+ 9     30   Sato, Takuma         D/H/F    38.9200     39.0011    39.0100    39.0533    02:35.9844     230.792       Day 1
+ 10    88   Herta, Colton        D/H/F    38.8374     38.9965    39.0561    39.1062    02:35.9962     230.775       Day 1
+ 11    8    Ericsson, Marcus     D/H/F    38.9144     39.0450    39.0506    39.1274    02:36.1374     230.566       Day 1
+ 12    45   Pigot, Spencer       D/H/F    38.9063     38.9863    39.0861    39.1770    02:36.1557     230.539       Day 1
+ 13    1    Newgarden, Josef     D/C/F    39.0573     39.0611    39.0767    39.1252    02:36.3203     230.296       Day 1
+ 14    10   Rosenqvist, Felix    D/H/F    39.0221     39.0956    39.1045    39.1269    02:36.3491     230.254       Day 1
+ 15    5    O'Ward, Pato         D/C/F    38.9932     39.0884    39.1237    39.1716    02:36.3769     230.213       Day 1
+ 16    20   Carpenter, Ed        D/C/F    39.0060     39.0795    39.0909    39.2017    02:36.3781     230.211       Day 1
+ 17    26   Veach, Zach          D/H/F    39.0212     39.1183    39.1841    39.2248    02:36.5484     229.961       Day 1
+ 18    47   Daly, Conor          D/C/F    38.9642     39.1489    39.1972    39.2422    02:36.5525     229.955       Day 1
+ 19    18   Ferrucci, Santino    D/H/F    39.0531     39.1176    39.2006    39.2023    02:36.5736     229.924       Day 1
+ 20    60   Harvey, Jack         D/H/F    39.0298     39.1558    39.2385    39.1920    02:36.6161     229.861       Day 1
+ 21    7    Askew, Oliver        D/C/F    39.0787     39.1552    39.2128    39.2385    02:36.6852     229.760       Day 1
+ 22    12   Power, Will          D/C/F    39.0721     39.1698    39.2205    39.2628    02:36.7252     229.701       Day 1
+ 23    14   Kanaan, Tony         D/C/F    39.1440     39.2427    39.3254    39.3872    02:37.0993     229.154       Day 1
+ 24    41   Kellett, Dalton      D/C/F    39.2822     39.2943    39.3287    39.3828    02:37.2880     228.880       Day 1
+ 25    22   Pagenaud, Simon      D/C/F    39.2107     39.2620    39.2958    39.5495    02:37.3180     228.836       Day 1
+ 26    66   Alonso, Fernando     D/C/F    39.2297     39.3278    39.3838    39.4233    02:37.3646     228.768       Day 1
+ 27    51   Davison, James       D/H/F    38.9683     39.0851    39.5133    39.8122    02:37.3789     228.747       Day 1
+ 28    3    Castroneves, Helio   D/C/F    39.1851     39.4148    39.4799    39.5570    02:37.6368     228.373       Day 1
+ 29    4    Kimball, Charlie     D/C/F    39.1855     39.2330    39.3048    40.3392    02:38.0625     227.758       Day 1
+ 30    59   Chilton, Max         D/C/F    39.4663     39.6188    39.6221    39.6717    02:38.3789     227.303       Day 1
+ 31    24   Karam, Sage          D/C/F    39.5415     39.6010    39.6580    39.7205    02:38.5210     227.099       Day 1
+ 32    67   Hildebrand, JR       D/C/F    39.3711     39.9418    39.8265    39.9124    02:39.0518     226.341       Day 1
+ 33    81   Hanley, Ben          D/C/F    40.1922     40.4381    40.5140    40.3505    02:41.4948     222.917       Day 1
+ 34    9    Dixon, Scott         D/H/F    38.7337     38.8790    38.9878     0.0000    01:56.6005     231.560       Day 1        Waved Off
+ 35    9    Dixon, Scott         D/H/F    38.8287     38.9341    38.9760    39.0421    02:35.7809     231.094       Day 1          Retired
+ 36    9    Dixon, Scott         D/H/F    38.8573     38.9246    39.0051    39.0215    02:35.8085     231.053       Day 1      Failed Attempt
+ 37    88   Herta, Colton        D/H/F    38.9383     39.0188    39.0771    39.1076    02:36.1418     230.560       Day 1          Retired
+ 38    8    Ericsson, Marcus     D/H/F    38.9508     39.0327    39.0797    39.1382    02:36.2014     230.472       Day 1          Retired
+ 39    88   Herta, Colton        D/H/F    38.9688     39.0705    39.1334     0.0000    01:57.1727     230.429       Day 1        Waved Off
+ 40    30   Sato, Takuma         D/H/F    38.9882     39.0783    39.0934    39.1535    02:36.3134     230.307       Day 1      Failed Attempt
+ 41    5    O'Ward, Pato         D/C/F    39.0097     39.1023    39.2290    39.2475    02:36.5885     229.902       Day 1          Retired
+ 42    47   Daly, Conor          D/C/F    38.9521     39.0947    39.1567    39.3972    02:36.6007     229.884       Day 1          Retired
+ 43    30   Sato, Takuma         D/H/F    39.0670     39.1406    39.1826    39.2323    02:36.6225     229.852       Day 1      Failed Attempt
+ 44    20   Carpenter, Ed        D/C/F    38.8954     39.0695    39.1484    39.5373    02:36.6506     229.811       Day 1          Retired
+ 45    60   Harvey, Jack         D/H/F    39.0968     39.1489    39.2200    39.2216    02:36.6873     229.757       Day 1      Failed Attempt
+ 46    26   Veach, Zach          D/H/F    39.0922     39.2521     0.0000     0.0000    01:18.3443     229.755       Day 1        Waved Off
+ 47    1    Newgarden, Josef     D/C/F    39.2084      0.0000     0.0000     0.0000    00:39.2084     229.543       Day 1        Waved Off
+ 48    12   Power, Will          D/C/F    39.1257     39.2011    39.3598     0.0000    01:57.6866     229.423       Day 1        Waved Off
+ 49    7    Askew, Oliver        D/C/F    39.2015     39.2766     0.0000     0.0000    01:18.4781     229.363       Day 1        Waved Off
+ 50    22   Pagenaud, Simon      D/C/F    39.2455      0.0000     0.0000     0.0000    00:39.2455     229.326       Day 1        Waved Off
+ 51    12   Power, Will          D/C/F    39.2553      0.0000     0.0000     0.0000    00:39.2553     229.268       Day 1        Waved Off
+ 52    51   Davison, James       D/H/F    39.0161     39.4801    39.5395     0.0000    01:58.0357     228.744       Day 1        Waved Off
+ 53    26   Veach, Zach          D/H/F    39.1488     39.6205     0.0000     0.0000    01:18.7693     228.515       Day 1        Waved Off
+ 54    3    Castroneves, Helio   D/C/F    39.3612     39.4444    39.4754    39.5341    02:37.8151     228.115       Day 1          Retired
+ 55    45   Pigot, Spencer       D/H/F    39.0965     39.8583     0.0000     0.0000    01:18.9548     227.979       Day 1        Waved Off
+ 56    59   Chilton, Max         D/C/F    39.6096     39.8505    39.8760    40.0835    02:39.4196     225.819       Day 1          Retired
+ 57    81   Hanley, Ben          D/C/F    40.4282     40.5837    40.9160    41.0081    02:42.9360     220.946       Day 1        Withdrawn
+ 58    15   Rahal, Graham        D/H/F    42.7386      0.0000     0.0000     0.0000    00:42.7386     210.582       Day 1        Waved Off
+ 59    4    Kimball, Charlie     D/C/F     0.0000      0.0000     0.0000     0.0000    00:00.0000                   Day 1        Waved Off
+
+                                                    Field Average: 229.570 mph
+
+
+                                          Day 1 = August 15th : Pole Day = August 16th (Fast 9)
+
+                                 (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+
+
+                                                                 Information provided by Indy Racing Information System - Copyright INDYCAR 2020
+

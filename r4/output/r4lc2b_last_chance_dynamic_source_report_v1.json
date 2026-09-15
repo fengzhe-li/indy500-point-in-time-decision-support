@@ -1,0 +1,59 @@
+{
+  "phase": "R4LC2B",
+  "status": "R4LC2B_LAST_CHANCE_DYNAMIC_SOURCE_DISCOVERY_READY",
+  "interpretation_policy": "HTTP 200 alone does not establish availability of attempt-level historical results. Static HTML must be inspected for embedded data or dynamic data-source references before canonical ingestion.",
+  "years": [
+    2021,
+    2023,
+    2024
+  ],
+  "html_audit": [
+    {
+      "year": 2021,
+      "bytes": 158167,
+      "sha256": "2f755649e358a5e255c1845691e6fb96c77a456d5e09ea3a446a0041d23598ff",
+      "normalized_characters": 104121,
+      "script_src_count": 2,
+      "interesting_url_count": 23
+    },
+    {
+      "year": 2023,
+      "bytes": 158182,
+      "sha256": "fb5ef2116581296c4a239f608a6a8ba7c8bba46acc86d07917f8ae461fa0d31c",
+      "normalized_characters": 104136,
+      "script_src_count": 2,
+      "interesting_url_count": 23
+    },
+    {
+      "year": 2024,
+      "bytes": 158182,
+      "sha256": "4b276441b86d5c24acf56ca9dfe4a41b9979c02a3f36f1e955fa07b364413dd9",
+      "normalized_characters": 104136,
+      "script_src_count": 2,
+      "interesting_url_count": 23
+    }
+  ],
+  "similarity": [
+    {
+      "year_a": 2021,
+      "year_b": 2023,
+      "same_prefix_characters": 1883,
+      "shorter_document_characters": 104121,
+      "same_prefix_ratio": 0.018084728344906407
+    },
+    {
+      "year_a": 2021,
+      "year_b": 2024,
+      "same_prefix_characters": 1883,
+      "shorter_document_characters": 104121,
+      "same_prefix_ratio": 0.018084728344906407
+    },
+    {
+      "year_a": 2023,
+      "year_b": 2024,
+      "same_prefix_characters": 1883,
+      "shorter_document_characters": 104136,
+      "same_prefix_ratio": 0.018082123377122224
+    }
+  ]
+}

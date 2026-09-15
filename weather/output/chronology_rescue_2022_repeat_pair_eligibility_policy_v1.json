@@ -1,0 +1,26 @@
+{
+  "policy_id": "2022_REPEAT_PAIR_ELIGIBILITY_V1",
+  "phase": "R1G.26I",
+  "scope": "2022 Indy 500 Day 1 qualifying",
+  "broad_object_level_repeat_groups": 10,
+  "decision_relevant_repeat_groups": 8,
+  "excluded_status_only_types": [
+    "Waved Off",
+    "No Attempt"
+  ],
+  "excluded_drivers": [
+    "Colton Herta",
+    "Josef Newgarden"
+  ],
+  "eligible_drivers": [
+    "Alexander Rossi",
+    "Callum Ilott",
+    "David Malukas",
+    "Helio Castroneves",
+    "Marco Andretti",
+    "Sage Karam",
+    "Scott McLaughlin",
+    "Takuma Sato"
+  ],
+  "reporting_rule": "Use the decision-relevant denominator for repeat-pair chronology coverage. Do not use the broad object-level denominator as the primary research metric."
+}

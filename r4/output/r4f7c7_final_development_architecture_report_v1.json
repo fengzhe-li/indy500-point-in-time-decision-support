@@ -1,0 +1,23 @@
+{
+  "phase": "R4F7C7",
+  "status": "R4F7C7_FINAL_DEVELOPMENT_ARCHITECTURE_FROZEN",
+  "selected_shrinkage_k": 3.0,
+  "selected_k_loyo_mae_mph": 0.6260306430673608,
+  "frozen_prior_mean_mph": -0.685759615384616,
+  "frozen_prior_sd_mph": 0.9003554799066349,
+  "development_years": [
+    2020,
+    2021,
+    2023
+  ],
+  "development_rows": 104,
+  "architecture": "Fast Friday reference + online shrunk field calibration",
+  "2024_validation_access": "NOT_READ",
+  "input_hashes": {
+    "r4/output/r4f7c5_prospective_past_only_state_panel_v1.csv": "99164e7ffaccd274a19e48733f7eae8c5f2cd4fcb906292381056808d7105d87",
+    "r4/output/r4f7c3_development_baseline_metrics_v1.csv": "37cb45751c56e8480ea1ed94ce7981f2c55265f67dae16d2ac22e7b413a5e96a",
+    "r4/output/r4f7c4_global_year_offset_thermal_cv_v1.csv": "a8a419d6cb24330c0c7283dc3ac3b8ee3fc0689f43bd2dd245be6d2be1ee97d8",
+    "r4/output/r4f7c6_online_latent_window_metrics_v1.csv": "ec7b1046fe0485f86f297a3d46c676a058ffe011fdf550d6a03cccb2bddcba98"
+  },
+  "next_phase": "Run one-shot 2024 external validation using this frozen architecture and parameters. No post-hoc tuning."
+}

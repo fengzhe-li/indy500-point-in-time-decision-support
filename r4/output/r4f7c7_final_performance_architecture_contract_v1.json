@@ -1,0 +1,40 @@
+{
+  "phase": "R4F7C7",
+  "status": "R4F7C7_FINAL_DEVELOPMENT_ARCHITECTURE_FROZEN",
+  "primary_performance_architecture": "FAST_FRIDAY_REFERENCE_PLUS_ONLINE_SHRUNK_FIELD_CALIBRATION",
+  "equation": "predicted_speed_i_t = FastFridayReference_i + ((k * prior_mean) + (n_t * observed_field_mean_t)) / (k + n_t)",
+  "selected_shrinkage_k": 3.0,
+  "development_selected_k_loyo_mae_mph": 0.6260306430673608,
+  "frozen_cross_year_prior_mean_residual_mph": -0.685759615384616,
+  "frozen_cross_year_prior_sd_mph": 0.9003554799066349,
+  "prior_training_years": [
+    2020,
+    2021,
+    2023
+  ],
+  "development_rows": 104,
+  "online_field_state_policy": {
+    "eligible_observations": "Only same-session qualifying attempts strictly earlier than the prediction time.",
+    "entry_exclusion": "Current driver's earlier observations are excluded from the common field mean.",
+    "same_timestamp_policy": "Attempts at the same timestamp are not allowed to inform one another.",
+    "low_support_policy": "When n=0, prediction uses the frozen cross-year prior. For n>0, current-session field evidence is partially pooled toward that prior through shrinkage k."
+  },
+  "model_promotion_decisions": {
+    "FAST_FRIDAY_REFERENCE": "PROMOTED_AS_ENTRY_STRENGTH_PRIOR",
+    "ONLINE_SHRUNK_FIELD_MEAN": "PROMOTED_AS_PRIMARY_SESSION_CALIBRATION",
+    "ONLINE_RUNNING_FIELD_MEAN": "RETAINED_AS_SIMPLER_ABLATION",
+    "ONLINE_EWMA": "RETAINED_AS_DYNAMIC_ABLATION",
+    "ONLINE_KALMAN_LATENT_WINDOW": "NOT_PROMOTED_COMPLEXITY_NOT_JUSTIFIED_BY_DEVELOPMENT_EVIDENCE",
+    "STATIC_THERMAL_RIDGE": "NOT_PROMOTED_AS_PRIMARY_SIGNAL_YEAR_OFFSET_ATTRIBUTION_FAILED",
+    "HUBER_THERMAL": "NOT_PROMOTED_CROSS_YEAR_UNSTABLE"
+  },
+  "thermal_role": "Auxiliary physical/context evidence and ablation only. Do not treat as a stable universal qualifying-speed coefficient.",
+  "latent_window_interpretation": "The selected online session-calibration posterior is the operational estimate of current field performance state. A more complex Kalman latent process was tested but did not earn promotion.",
+  "uncertainty_policy_for_next_phase": "Prediction uncertainty must include residual/run noise and calibration uncertainty; uncertainty should shrink as current-session field evidence accumulates.",
+  "validation_boundary": {
+    "2024": "UNOPENED_DURING_DEVELOPMENT_SELECTION_AND_RESERVED_FOR_FINAL_VALIDATION",
+    "2022": "DEGRADED_CHRONOLOGY_ROBUSTNESS_ONLY",
+    "2025": "TECHNICAL_REGIME_TRANSFER_ONLY"
+  },
+  "next_phase": "R4F7V1_FINAL_2024_VALIDATION"
+}

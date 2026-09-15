@@ -1,0 +1,19 @@
+metric,value,expected,status
+decision_rows,60,60,PASS
+action_rows,170,170,PASS
+action_counts,"{""REATTEMPT"": 4, ""RETAIN_AND_REATTEMPT"": 50, ""STOP"": 60, ""WITHDRAW_AND_PRIORITY_REATTEMPT"": 50, ""WITHDRAW_AND_REATTEMPT"": 6}","{""REATTEMPT"": 4, ""RETAIN_AND_REATTEMPT"": 50, ""STOP"": 60, ""WITHDRAW_AND_PRIORITY_REATTEMPT"": 50, ""WITHDRAW_AND_REATTEMPT"": 6}",PASS
+run_duration_reference_n,260,260,PASS
+run_duration_median_seconds,155.779,approximately 155.779,PASS
+run_duration_q95_seconds,158.103,approximately 158.103,PASS
+time_remaining_scenarios,"5,10,15,20,30,45,60","5,10,15,20,30,45,60",PASS
+scenario_result_rows,1183,1190 minus blocked-action scenarios,PASS
+blocked_action_rows,1,expected from sole non-sample-ready decision,PASS
+all_stop_rows_have_zero_wait,True,True,PASS
+retain_actions_never_lose_result_when_baseline_exists,True,True,PASS
+dynamic_competitor_evolution_used,False,False,PASS
+dynamic_final_rank_generated,False,False,PASS
+interruption_model_used,False,False,PASS
+remaining_time_scenarios_probability_weighted,False,False,PASS
+old_r4p11_final_probabilities_used,False,False,PASS
+historical_actions_used_as_optimal_labels,False,False,PASS
+2024_retuning_performed,False,False,PASS

@@ -1,0 +1,60 @@
+Event:          110th Running of the Indianapolis 500                                                              Round 7
+Track:          Indianapolis Motor Speedway                                                                    2.5 mile(s)
+
+Report:         Official Postings                                                           NTT INDYCAR SERIES
+Session:        Qualifications - Pole Day                                                                 May 17, 2026
+
+Rank       Car    Driver Name                       C/E/T        Lap 1       Lap 2       Lap 3        Lap 4       Total Time             Speed
+  1         10    Palou, Alex                        D/H/F       38.6518     38.7351     38.8190      38.8007      02:35.0066             232.248
+  2         20    Rossi, Alexander                   D/C/F       38.6984     38.7867     38.8416      38.8525      02:35.1792             231.990
+  3         12    Malukas, David                     D/C/F       38.8387     38.8036     38.8317      38.7809      02:35.2549             231.877
+  4         60    Rosenqvist, Felix                  D/H/F       38.8324     38.8981     38.9242      38.9367      02:35.5914             231.375
+  5         14    Ferrucci, Santino                  D/C/F       38.9326     39.0114     39.0319      38.9723      02:35.9482             230.846
+  6         5     O'Ward, Pato                       D/C/F       39.1120     39.0353     39.0304      39.0441      02:36.2218             230.442
+  7         8     Simpson, Kyffin                    D/H/F       38.9509     38.9524     39.0335      38.9861      02:35.9229             230.883
+  8         23    Daly, Conor                        D/C/F       38.9505     38.9202     39.0477      39.1206      02:36.0390             230.712
+  9         3     McLaughlin, Scott                  D/C/F       38.8132     38.9094     39.1338      39.2736      02:36.1300             230.577
+  10        4     Collet, Caio                       D/C/F       38.8168     38.9458     39.2303      39.1631      02:36.1560             230.539
+  11        9     Dixon, Scott                       D/H/F       38.9861     39.0478     39.1189      39.1334      02:36.2862             230.347
+  12        76    VeeKay, Rinus                      D/C/F       38.7701     39.0720     39.3672      39.5955      02:36.8048             229.585
+  13        75    Sato, Takuma                       D/H/F       38.8096     39.0164     38.9970      39.0247      02:35.8477             230.995
+  14        33    Carpenter, Ed                      D/C/F       38.8228     38.8999     38.9634      39.2732      02:35.9593             230.829
+  15        06    Castroneves, Helio                 D/H/F       38.9344     38.9609     39.0517      39.0247      02:35.9717             230.811
+  16        21    Rasmussen, Christian               D/C/F       38.9150     39.0450     39.0507      39.0327      02:36.0434             230.705
+  17        66    Armstrong, Marcus                  D/H/F       38.9577     39.0729     39.0640      38.9518      02:36.0464             230.701
+  18        28    Ericsson, Marcus                   D/H/F       38.8881     39.1244     38.9797      39.0768      02:36.0690             230.667
+  19        7     Lundgaard, Christian               D/C/F       38.9735     39.0041     39.1059      38.9894      02:36.0729             230.661
+  20        26    Power, Will                        D/H/F       39.0566     39.1165     39.1005      39.0587      02:36.3323             230.279
+  21        6     Siegel, Nolan                      D/C/F       39.1381     39.0565     39.0580      39.1243      02:36.3769             230.213
+  22        45    Foster, Louis                      D/H/F       38.9572     39.1501     39.1178      39.1522      02:36.3773             230.212
+  23        31    Hunter-Reay, Ryan                  D/C/F       39.0840     39.0919     39.1161      39.0923      02:36.3843             230.202
+  24        2     Newgarden, Josef                   D/C/F       39.0500     39.1264     39.1343      39.0991      02:36.4098             230.165
+  25        18    Grosjean, Romain                   D/H/F       39.0827     39.2411     39.1688      39.1717      02:36.6643             229.791
+  26        27    Kirkwood, Kyle                     D/H/F       39.1156     39.2012     39.2521      39.2207      02:36.7896             229.607
+  27        11    Legge, Katherine                   D/C/F       39.0628     39.1641     39.2822      39.3837      02:36.8928             229.456
+  28        47    Schumacher, Mick                   D/H/F       39.1352     39.1969     39.2847      39.2801      02:36.8969             229.450
+  29        24    Harvey, Jack                       D/C/F       39.1493     39.1689     39.2581      39.4871      02:37.0634             229.207
+  30        15    Rahal, Graham                      D/H/F       39.1781     39.2461     39.3143      39.4551      02:37.1936             229.017
+  31        19    Hauger, Dennis                     D/H/F       39.2606     39.2198     39.3836      39.3536      02:37.2176             228.982
+  32        51    Abel, Jacob                        D/C/F       39.2897     39.3580     39.4642      39.6659      02:37.7778             228.169
+  33        77    Robb, Sting Ray                    D/C/F       39.1902     39.5668     39.9292      40.2039      02:38.8901             226.572
+
+
+
+
+
+
+
+           Matthew Grecco                                                     Kyle Novak
+           Director of Timing                                                 Race Director
+           INDYCAR                                                            INDYCAR
+
+                                      Posted                               On
+
+
+
+                                                    Results Pending Final Verification
+
+                                      (C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+
+                                                                       Information provided by Indy Racing Information System - Copyright INDYCAR 2026

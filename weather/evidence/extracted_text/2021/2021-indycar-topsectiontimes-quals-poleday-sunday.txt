@@ -1,0 +1,742 @@
+--- PAGE 1 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:38.6669 232.757 0
+2 20 Carpenter, Ed D/C/F 00:38.7280 232.390 0
+3 26 Herta, Colton D/H/F 00:38.7337 232.356 0
+4 21 VeeKay, Rinus D/C/F 00:38.7392 232.323 0
+5 48 Kanaan, Tony D/H/F 00:38.8398 231.721 0
+6 28 Hunter-Reay, Ryan D/H/F 00:38.8890 231.428 0
+7 10 Palou, Alex D/H/F 00:38.9227 231.228 0
+8 8 Ericsson, Marcus D/H/F 00:38.9617 230.996 0
+9 06 Castroneves, Helio D/H/F 00:38.9619 230.995 0
+Section: Lap Length: 2.500000 mile(s)
+Track map included on last page of report
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 1 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 2 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:02.8390 237.279 1
+2 9 Dixon, Scott D/H/F 00:02.8408 237.129 3
+3 21 VeeKay, Rinus D/C/F 00:02.8408 237.129 1
+4 48 Kanaan, Tony D/H/F 00:02.8419 237.037 0
+5 20 Carpenter, Ed D/C/F 00:02.8448 236.796 2
+6 28 Hunter-Reay, Ryan D/H/F 00:02.8536 236.065 0
+7 06 Castroneves, Helio D/H/F 00:02.8574 235.752 1
+8 10 Palou, Alex D/H/F 00:02.8582 235.686 0
+9 8 Ericsson, Marcus D/H/F 00:02.8599 235.545 0
+Section: SF to T1 Length: 0.187121 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 2 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 3 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 21 VeeKay, Rinus D/C/F 00:04.8160 233.596 0
+2 9 Dixon, Scott D/H/F 00:04.8226 233.277 0
+3 26 Herta, Colton D/H/F 00:04.8235 233.233 0
+4 20 Carpenter, Ed D/C/F 00:04.8387 232.500 0
+5 48 Kanaan, Tony D/H/F 00:04.8393 232.472 0
+6 10 Palou, Alex D/H/F 00:04.8506 231.930 0
+7 28 Hunter-Reay, Ryan D/H/F 00:04.8510 231.911 0
+8 06 Castroneves, Helio D/H/F 00:04.8609 231.439 0
+9 8 Ericsson, Marcus D/H/F 00:04.8656 231.215 0
+Section: T1 to SS1 Length: 0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 3 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 4 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 20 Carpenter, Ed D/C/F 00:04.8825 230.415 0
+2 21 VeeKay, Rinus D/C/F 00:04.8830 230.391 0
+3 26 Herta, Colton D/H/F 00:04.8842 230.335 0
+4 9 Dixon, Scott D/H/F 00:04.8843 230.330 0
+5 48 Kanaan, Tony D/H/F 00:04.8925 229.944 0
+6 28 Hunter-Reay, Ryan D/H/F 00:04.9049 229.362 0
+7 10 Palou, Alex D/H/F 00:04.9100 229.124 0
+8 06 Castroneves, Helio D/H/F 00:04.9153 228.877 0
+9 8 Ericsson, Marcus D/H/F 00:04.9176 228.770 0
+Section: SS1 to T2 Length: 0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 4 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 5 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 28 Hunter-Reay, Ryan D/H/F 00:04.8400 232.438 0
+2 26 Herta, Colton D/H/F 00:04.8452 232.189 0
+3 9 Dixon, Scott D/H/F 00:04.8455 232.174 0
+4 20 Carpenter, Ed D/C/F 00:04.8461 232.145 0
+5 8 Ericsson, Marcus D/H/F 00:04.8535 231.791 0
+6 21 VeeKay, Rinus D/C/F 00:04.8546 231.739 0
+7 06 Castroneves, Helio D/H/F 00:04.8576 231.596 0
+8 48 Kanaan, Tony D/H/F 00:04.8582 231.567 0
+9 10 Palou, Alex D/H/F 00:04.8629 231.343 0
+Section: T2 to BS Length: 0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 5 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 6 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 28 Hunter-Reay, Ryan D/H/F 00:04.7809 235.311 0
+2 9 Dixon, Scott D/H/F 00:04.7810 235.306 0
+3 20 Carpenter, Ed D/C/F 00:04.7868 235.021 0
+4 21 VeeKay, Rinus D/C/F 00:04.7921 234.761 0
+5 8 Ericsson, Marcus D/H/F 00:04.7972 234.512 0
+6 26 Herta, Colton D/H/F 00:04.7980 234.473 0
+7 06 Castroneves, Helio D/H/F 00:04.8071 234.029 0
+8 10 Palou, Alex D/H/F 00:04.8088 233.946 0
+9 48 Kanaan, Tony D/H/F 00:04.8147 233.659 0
+Section: BS to T3 Length: 0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 6 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 7 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:04.8599 231.486 0
+2 20 Carpenter, Ed D/C/F 00:04.8705 230.982 0
+3 21 VeeKay, Rinus D/C/F 00:04.8745 230.793 0
+4 26 Herta, Colton D/H/F 00:04.8821 230.434 0
+5 28 Hunter-Reay, Ryan D/H/F 00:04.8949 229.831 0
+6 10 Palou, Alex D/H/F 00:04.8952 229.817 0
+7 48 Kanaan, Tony D/H/F 00:04.8962 229.770 0
+8 8 Ericsson, Marcus D/H/F 00:04.9025 229.475 0
+9 06 Castroneves, Helio D/H/F 00:04.9147 228.905 0
+Section: T3 to SS2 Length: 0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 7 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 8 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:04.9060 229.311 0
+2 20 Carpenter, Ed D/C/F 00:04.9148 228.900 0
+3 21 VeeKay, Rinus D/C/F 00:04.9194 228.686 0
+4 26 Herta, Colton D/H/F 00:04.9229 228.524 0
+5 48 Kanaan, Tony D/H/F 00:04.9348 227.973 0
+6 10 Palou, Alex D/H/F 00:04.9402 227.724 0
+7 06 Castroneves, Helio D/H/F 00:04.9567 226.966 0
+8 28 Hunter-Reay, Ryan D/H/F 00:04.9589 226.865 0
+9 8 Ericsson, Marcus D/H/F 00:04.9608 226.778 0
+Section: SS2 to T4 Length: 0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 8 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 9 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:03.0920 232.859 0
+2 26 Herta, Colton D/H/F 00:03.0944 232.678 0
+3 20 Carpenter, Ed D/C/F 00:03.1015 232.146 0
+4 21 VeeKay, Rinus D/C/F 00:03.1035 231.996 0
+5 48 Kanaan, Tony D/H/F 00:03.1072 231.720 0
+6 10 Palou, Alex D/H/F 00:03.1187 230.865 0
+7 28 Hunter-Reay, Ryan D/H/F 00:03.1234 230.518 0
+8 8 Ericsson, Marcus D/H/F 00:03.1247 230.422 0
+9 06 Castroneves, Helio D/H/F 00:03.1255 230.363 0
+Section: T4 to FS Length: 0.200000 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 9 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 10 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:03.6243 236.284 0
+2 26 Herta, Colton D/H/F 00:03.6292 235.965 0
+3 20 Carpenter, Ed D/C/F 00:03.6362 235.511 0
+4 21 VeeKay, Rinus D/C/F 00:03.6411 235.194 0
+5 48 Kanaan, Tony D/H/F 00:03.6429 235.077 0
+6 28 Hunter-Reay, Ryan D/H/F 00:03.6625 233.819 0
+7 06 Castroneves, Helio D/H/F 00:03.6655 233.628 0
+8 10 Palou, Alex D/H/F 00:03.6665 233.564 0
+9 8 Ericsson, Marcus D/H/F 00:03.6672 233.520 0
+Section: FS to SF Length: 0.237879 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 10 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 11 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 21 VeeKay, Rinus D/C/F 00:09.6990 231.983 0
+2 9 Dixon, Scott D/H/F 00:09.7069 231.794 0
+3 26 Herta, Colton D/H/F 00:09.7077 231.775 0
+4 20 Carpenter, Ed D/C/F 00:09.7212 231.453 0
+5 48 Kanaan, Tony D/H/F 00:09.7318 231.201 0
+6 28 Hunter-Reay, Ryan D/H/F 00:09.7559 230.630 0
+7 10 Palou, Alex D/H/F 00:09.7606 230.519 0
+8 06 Castroneves, Helio D/H/F 00:09.7762 230.151 0
+9 8 Ericsson, Marcus D/H/F 00:09.7832 229.986 0
+Section: T1 to T2 Length: 0.625000 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 11 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 12 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 28 Hunter-Reay, Ryan D/H/F 00:09.6209 233.866 0
+2 9 Dixon, Scott D/H/F 00:09.6265 233.730 0
+3 20 Carpenter, Ed D/C/F 00:09.6329 233.575 0
+4 26 Herta, Colton D/H/F 00:09.6432 233.325 0
+5 21 VeeKay, Rinus D/C/F 00:09.6467 233.240 0
+6 8 Ericsson, Marcus D/H/F 00:09.6507 233.144 0
+7 06 Castroneves, Helio D/H/F 00:09.6647 232.806 0
+8 10 Palou, Alex D/H/F 00:09.6717 232.637 0
+9 48 Kanaan, Tony D/H/F 00:09.6729 232.609 0
+Section: T2 to T3 Length: 0.625000 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 12 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 13 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:09.7659 230.394 0
+2 20 Carpenter, Ed D/C/F 00:09.7853 229.937 0
+3 21 VeeKay, Rinus D/C/F 00:09.7939 229.735 0
+4 26 Herta, Colton D/H/F 00:09.8050 229.475 0
+5 48 Kanaan, Tony D/H/F 00:09.8310 228.868 0
+6 10 Palou, Alex D/H/F 00:09.8354 228.765 0
+7 28 Hunter-Reay, Ryan D/H/F 00:09.8538 228.338 0
+8 8 Ericsson, Marcus D/H/F 00:09.8634 228.116 0
+9 06 Castroneves, Helio D/H/F 00:09.8714 227.931 0
+Section: T3 to T4 Length: 0.625000 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 13 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 14 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:06.7163 234.707 0
+2 26 Herta, Colton D/H/F 00:06.7236 234.452 0
+3 20 Carpenter, Ed D/C/F 00:06.7404 233.868 0
+4 21 VeeKay, Rinus D/C/F 00:06.7446 233.722 0
+5 48 Kanaan, Tony D/H/F 00:06.7501 233.532 0
+6 10 Palou, Alex D/H/F 00:06.7852 232.324 0
+7 28 Hunter-Reay, Ryan D/H/F 00:06.7859 232.300 0
+8 06 Castroneves, Helio D/H/F 00:06.7910 232.125 0
+9 8 Ericsson, Marcus D/H/F 00:06.7919 232.095 0
+Section: T4 to SF Length: 0.437879 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 14 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 15 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 21 VeeKay, Rinus D/C/F 00:00.3436 238.120 1
+2 9 Dixon, Scott D/H/F 00:00.3438 237.982 3
+3 26 Herta, Colton D/H/F 00:00.3445 237.498 1
+4 26 Herta, Colton D/H/F 00:00.3445 237.498 0
+5 20 Carpenter, Ed D/C/F 00:00.3449 237.223 1
+6 48 Kanaan, Tony D/H/F 00:00.3449 237.223 1
+7 48 Kanaan, Tony D/H/F 00:00.3449 237.223 0
+8 28 Hunter-Reay, Ryan D/H/F 00:00.3456 236.742 0
+9 06 Castroneves, Helio D/H/F 00:00.3458 236.605 2
+10 8 Ericsson, Marcus D/H/F 00:00.3463 236.264 0
+11 10 Palou, Alex D/H/F 00:00.3468 235.923 0
+Section: T1T to T1 Length: 0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 15 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 16 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:00.3487 234.638 0
+2 26 Herta, Colton D/H/F 00:00.3489 234.503 0
+3 10 Palou, Alex D/H/F 00:00.3489 234.503 0
+4 20 Carpenter, Ed D/C/F 00:00.3491 234.369 0
+5 21 VeeKay, Rinus D/C/F 00:00.3492 234.302 0
+6 48 Kanaan, Tony D/H/F 00:00.3494 234.168 0
+7 06 Castroneves, Helio D/H/F 00:00.3500 233.766 0
+8 28 Hunter-Reay, Ryan D/H/F 00:00.3500 233.766 0
+9 8 Ericsson, Marcus D/H/F 00:00.3515 232.769 1
+10 8 Ericsson, Marcus D/H/F 00:00.3515 232.769 0
+Section: T2T to T2 Length: 0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 16 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 17 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:00.3450 237.154 0
+2 20 Carpenter, Ed D/C/F 00:00.3453 236.948 0
+3 28 Hunter-Reay, Ryan D/H/F 00:00.3457 236.674 0
+4 8 Ericsson, Marcus D/H/F 00:00.3469 235.855 0
+5 21 VeeKay, Rinus D/C/F 00:00.3469 235.855 0
+6 26 Herta, Colton D/H/F 00:00.3469 235.855 0
+7 10 Palou, Alex D/H/F 00:00.3472 235.651 0
+8 06 Castroneves, Helio D/H/F 00:00.3477 235.313 0
+9 48 Kanaan, Tony D/H/F 00:00.3483 234.907 0
+Section: T3T to T3 Length: 0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 17 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 18 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:00.3485 234.772 0
+2 20 Carpenter, Ed D/C/F 00:00.3493 234.235 2
+3 26 Herta, Colton D/H/F 00:00.3498 233.900 0
+4 21 VeeKay, Rinus D/C/F 00:00.3501 233.699 0
+5 48 Kanaan, Tony D/H/F 00:00.3502 233.633 0
+6 10 Palou, Alex D/H/F 00:00.3512 232.967 0
+7 8 Ericsson, Marcus D/H/F 00:00.3513 232.901 0
+8 28 Hunter-Reay, Ryan D/H/F 00:00.3515 232.769 0
+9 06 Castroneves, Helio D/H/F 00:00.3517 232.636 0
+Section: T4T to T4 Length: 0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 18 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 19 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:00.4713 237.978 2
+2 9 Dixon, Scott D/H/F 00:00.4713 237.978 0
+3 26 Herta, Colton D/H/F 00:00.4714 237.928 0
+4 20 Carpenter, Ed D/C/F 00:00.4715 237.877 2
+5 48 Kanaan, Tony D/H/F 00:00.4723 237.474 0
+6 21 VeeKay, Rinus D/C/F 00:00.4730 237.123 0
+7 28 Hunter-Reay, Ryan D/H/F 00:00.4743 236.473 0
+8 10 Palou, Alex D/H/F 00:00.4755 235.876 0
+9 8 Ericsson, Marcus D/H/F 00:00.4756 235.827 0
+10 06 Castroneves, Helio D/H/F 00:00.4757 235.777 0
+Section: SF to SFT Length: 0.031155 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 19 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 20 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:07.1260 133.952 4
+2 10 Palou, Alex D/H/F 00:07.8080 122.252 4
+3 48 Kanaan, Tony D/H/F 00:07.8518 121.570 4
+4 20 Carpenter, Ed D/C/F 00:08.2957 115.065 4
+5 06 Castroneves, Helio D/H/F 00:08.6077 110.894 4
+6 21 VeeKay, Rinus D/C/F 00:08.9387 106.788 4
+7 28 Hunter-Reay, Ryan D/H/F 00:09.9706 95.736 4
+8 9 Dixon, Scott D/H/F 00:10.3139 92.549 4
+9 8 Ericsson, Marcus D/H/F 00:10.5510 90.470 4
+Section: PT3 to PSS2 Length: 0.265152 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 20 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 21 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:07.4328 128.423 4
+2 48 Kanaan, Tony D/H/F 00:07.4469 128.180 4
+3 10 Palou, Alex D/H/F 00:08.1745 116.771 4
+4 20 Carpenter, Ed D/C/F 00:08.8532 107.819 4
+5 06 Castroneves, Helio D/H/F 00:09.0324 105.680 4
+6 21 VeeKay, Rinus D/C/F 00:09.1458 104.370 4
+7 28 Hunter-Reay, Ryan D/H/F 00:09.8037 97.366 4
+8 8 Ericsson, Marcus D/H/F 00:10.5004 90.906 4
+Section: PSS2 to PT4 Length: 0.265152 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 21 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 22 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 48 Kanaan, Tony D/H/F 00:06.3501 104.150 4
+2 26 Herta, Colton D/H/F 00:06.5621 100.785 4
+3 10 Palou, Alex D/H/F 00:07.5992 87.031 4
+4 06 Castroneves, Helio D/H/F 00:07.6456 86.503 4
+5 20 Carpenter, Ed D/C/F 00:07.6744 86.178 4
+6 28 Hunter-Reay, Ryan D/H/F 00:08.2426 80.237 4
+7 21 VeeKay, Rinus D/C/F 00:08.7075 75.953 4
+8 8 Ericsson, Marcus D/H/F 00:09.3572 70.680 4
+Section: PT4 to PI Length: 0.183712 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 22 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 23 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:47.8212 174.114 0
+2 10 Palou, Alex D/H/F 00:47.8927 173.855 0
+3 48 Kanaan, Tony D/H/F 00:48.0422 173.314 0
+4 8 Ericsson, Marcus D/H/F 00:48.0628 173.239 0
+5 28 Hunter-Reay, Ryan D/H/F 00:48.2093 172.713 0
+6 9 Dixon, Scott D/H/F 00:48.3656 172.155 0
+7 21 VeeKay, Rinus D/C/F 00:48.8129 170.577 0
+8 06 Castroneves, Helio D/H/F 00:50.4930 164.901 0
+9 20 Carpenter, Ed D/C/F 00:52.0359 160.012 0
+Section: PO to SF Length: 2.312879 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 23 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 24 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:47.9922 168.465 4
+2 48 Kanaan, Tony D/H/F 00:50.1058 161.359 4
+3 20 Carpenter, Ed D/C/F 00:53.5429 151.000 4
+4 06 Castroneves, Helio D/H/F 00:54.3129 148.860 4
+5 10 Palou, Alex D/H/F 00:54.4741 148.419 4
+6 21 VeeKay, Rinus D/C/F 00:57.7040 140.112 4
+7 28 Hunter-Reay, Ryan D/H/F 00:58.3085 138.659 4
+8 8 Ericsson, Marcus D/H/F 01:05.7098 123.041 4
+Section: SF to PI Length: 2.245833 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 24 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 25 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:23.3078 144.801 0
+2 10 Palou, Alex D/H/F 00:23.3241 144.700 0
+3 8 Ericsson, Marcus D/H/F 00:23.4265 144.068 0
+4 48 Kanaan, Tony D/H/F 00:23.4288 144.053 0
+5 28 Hunter-Reay, Ryan D/H/F 00:23.5791 143.135 0
+6 21 VeeKay, Rinus D/C/F 00:23.6033 142.988 0
+7 9 Dixon, Scott D/H/F 00:23.9199 141.096 0
+8 06 Castroneves, Helio D/H/F 00:25.7511 131.062 0
+9 20 Carpenter, Ed D/C/F 00:26.3080 128.288 0
+Section: PO to BS Length: 0.937500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 25 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 26 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:27.6197 146.141 4
+2 48 Kanaan, Tony D/H/F 00:28.0505 143.896 4
+3 10 Palou, Alex D/H/F 00:30.7047 131.458 4
+4 20 Carpenter, Ed D/C/F 00:31.9784 126.222 4
+5 06 Castroneves, Helio D/H/F 00:32.7834 123.122 4
+6 21 VeeKay, Rinus D/C/F 00:34.6464 116.502 4
+7 28 Hunter-Reay, Ryan D/H/F 00:35.9488 112.281 4
+8 8 Ericsson, Marcus D/H/F 00:40.6226 99.363 4
+Section: BS to PI Length: 1.121212 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 26 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 27 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 04:51.8724 25.392 0
+2 48 Kanaan, Tony D/H/F 04:55.1515 25.110 0
+3 10 Palou, Alex D/H/F 04:59.4090 24.753 0
+4 06 Castroneves, Helio D/H/F 05:02.4383 24.505 0
+5 20 Carpenter, Ed D/C/F 05:02.7833 24.477 0
+6 21 VeeKay, Rinus D/C/F 05:03.6008 24.412 0
+7 28 Hunter-Reay, Ryan D/H/F 05:03.9266 24.385 0
+8 8 Ericsson, Marcus D/H/F 05:11.1386 23.820 0
+Section: PO to PI Length: 2.058712 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 27 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 28 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 48 Kanaan, Tony D/H/F 00:01.8349 70.415 4
+2 26 Herta, Colton D/H/F 00:01.9523 66.181 4
+3 20 Carpenter, Ed D/C/F 00:02.0639 62.602 4
+4 10 Palou, Alex D/H/F 00:02.1811 59.238 4
+5 06 Castroneves, Helio D/H/F 00:02.1934 58.906 4
+6 21 VeeKay, Rinus D/C/F 00:02.2441 57.575 4
+7 28 Hunter-Reay, Ryan D/H/F 00:02.2512 57.394 4
+8 8 Ericsson, Marcus D/H/F 00:02.9155 44.316 4
+Section: PIC to PI Length: 0.035890 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 28 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES
+
+--- PAGE 29 ---
+Track Map
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 29 of 29
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 23, 2021Fast Nine Qualifying
+NTT INDYCAR SERIES

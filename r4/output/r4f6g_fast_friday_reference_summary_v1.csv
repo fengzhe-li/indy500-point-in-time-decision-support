@@ -1,0 +1,4 @@
+year,all_evidence_rows,canonical_entries,four_lap_canonical,no_tow_canonical,general_canonical,model_role
+2021,3,3,0,3,0,CORE_DEVELOPMENT
+2023,38,33,4,0,29,CORE_DEVELOPMENT
+2024,40,33,6,0,27,VALIDATION_ONLY

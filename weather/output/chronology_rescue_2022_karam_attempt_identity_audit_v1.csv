@@ -1,0 +1,10 @@
+﻿check,value,interpretation
+canonical_karam_objects,3,Expected three canonical Karam objects.
+unique_229_905,1,Unique Karam 229.905 official result link.
+unique_230_464,1,Unique Karam 230.464 official result link.
+unique_no_attempt,1,Unique Karam No Attempt result link.
+existing_post_restart_event,1,Existing adjudicated event-level evidence without specific attempt identity.
+direct_post_restart_230464,0,Exact speed 230.464 co-mentioned with post-restart context.
+direct_post_restart_229905,0,Exact speed 229.905 co-mentioned with post-restart context.
+direct_no_attempt_weather,0,No-Attempt identity explicitly connected to first weather stoppage.
+promotion_candidate_rows,0,KARAM_ATTEMPT_IDENTITY_REMAINS_UNRESOLVED

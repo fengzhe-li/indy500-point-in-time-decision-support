@@ -1,0 +1,59 @@
+====================================================================================================
+INDY 500 V2-B SECTION / RESIDUAL DIAGNOSTIC SUMMARY
+====================================================================================================
+
+ABS-DELTA SENSITIVITY OF DIRECTION COHERENCE
+----------------------------------------------------------------------------------------------------
+ minimum_abs_delta_speed_mph  n  mean_direction_coherence  median_direction_coherence  fraction_at_least_6_of_9  fraction_at_least_7_of_9  fraction_at_least_8_of_9  fraction_9_of_9
+                        0.00 39                  0.723647                    0.777778                  0.692308                  0.538462                  0.358974         0.179487
+                        0.05 34                  0.761438                    0.777778                  0.764706                  0.617647                  0.411765         0.205882
+                        0.10 30                  0.781481                    0.777778                  0.800000                  0.666667                  0.466667         0.233333
+                        0.20 22                  0.843434                    0.888889                  0.863636                  0.818182                  0.636364         0.318182
+                        0.50 12                  0.935185                    0.944444                  1.000000                  1.000000                  0.916667         0.500000
+
+SPEARMAN ASSOCIATION WITH ABSOLUTE PHYSICS RESIDUAL
+----------------------------------------------------------------------------------------------------
+ minimum_abs_delta_speed_mph  n             mechanism_metric  spearman_rho_with_abs_residual
+                        0.00 39          direction_coherence                        0.430869
+                        0.00 39   sd_delta_section_speed_mph                        0.270850
+                        0.00 39 max_abs_section_change_share                       -0.232186
+                        0.05 34          direction_coherence                        0.485390
+                        0.05 34   sd_delta_section_speed_mph                        0.299007
+                        0.05 34 max_abs_section_change_share                       -0.159358
+                        0.10 30          direction_coherence                        0.529908
+                        0.10 30   sd_delta_section_speed_mph                        0.321468
+                        0.10 30 max_abs_section_change_share                       -0.109232
+                        0.20 22          direction_coherence                        0.446033
+                        0.20 22   sd_delta_section_speed_mph                        0.485037
+                        0.20 22 max_abs_section_change_share                       -0.113495
+                        0.50 12          direction_coherence                       -0.202309
+                        0.50 12   sd_delta_section_speed_mph                        0.881119
+                        0.50 12 max_abs_section_change_share                        0.006993
+
+DESCRIPTIVE COHERENCE BINS
+----------------------------------------------------------------------------------------------------
+coherence_bin  n  median_abs_delta_speed_mph  mean_abs_residual_mph  median_abs_residual_mph  mean_section_dispersion_mph  mean_max_abs_change_share
+        <=4/9  8                      0.0980               0.257296                 0.275869                     0.561961                   0.272669
+        5-6/9 10                      0.1400               0.221875                 0.186101                     0.597314                   0.228242
+        7-8/9 14                      0.4325               0.694670                 0.369715                     0.775952                   0.238315
+          9/9  7                      0.7980               1.145192                 0.526164                     0.603352                   0.201052
+
+HIGH-RESIDUAL THRESHOLD (75th percentile): 0.504382 mph
+
+HIGH RESIDUAL + HIGH COHERENCE (>=7/9)
+----------------------------------------------------------------------------------------------------
+ year  car_number      driver_name  delta_four_lap_average_speed_mph  abs_residual_loyo_centered  direction_coherence  sd_delta_section_speed_mph  max_abs_section_change_share
+ 2021          60      Jack Harvey                             4.695                    4.617627             1.000000                    1.568689                      0.173908
+ 2023          77     Callum Ilott                             3.462                    3.392225             0.888889                    3.110709                      0.288101
+ 2020          81       Ben Hanley                             1.971                    1.579455             0.888889                    1.127358                      0.183910
+ 2021          26     Colton Herta                            -1.419                    1.272254             0.888889                    1.141755                      0.189098
+ 2020          59      Max Chilton                             1.484                    1.170208             1.000000                    1.015132                      0.250199
+ 2021           4   Dalton Kellett                            -0.927                    0.954361             0.888889                    0.661577                      0.236412
+ 2023          66      Tony Kanaan                             0.727                    0.768755             0.777778                    0.642127                      0.248330
+ 2023           6 Felix Rosenqvist                             0.848                    0.719960             1.000000                    0.428809                      0.197591
+ 2021          18         Ed Jones                             0.798                    0.526164             1.000000                    0.226990                      0.173853
+
+HIGH RESIDUAL + LOW/MIXED COHERENCE (<=5/9)
+----------------------------------------------------------------------------------------------------
+ year  car_number driver_name  delta_four_lap_average_speed_mph  abs_residual_loyo_centered  direction_coherence  sd_delta_section_speed_mph  max_abs_section_change_share
+ 2020           9 Scott Dixon                            -0.041                    0.525302             0.333333                    0.421283                      0.218911

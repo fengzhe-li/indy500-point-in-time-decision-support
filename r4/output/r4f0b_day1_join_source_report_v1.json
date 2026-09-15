@@ -1,0 +1,9 @@
+{
+  "phase": "R4F0B",
+  "status": "R4F0B_DAY1_JOIN_SOURCE_DISCOVERY_READY",
+  "candidate_count": 350,
+  "decision_state_candidate_count": 13,
+  "action_candidate_count": 64,
+  "chronology_candidate_count": 203,
+  "goal": "Locate the actual existing Day1 decision-state, action and chronology artifacts across the full active project before constructing the Fused adapter."
+}

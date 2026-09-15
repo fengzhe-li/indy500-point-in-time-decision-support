@@ -1,0 +1,3 @@
+check,value,expected,status
+no tyre temperature fabrication,False,False,PASS
+stable optimum claimed,False,False,PASS

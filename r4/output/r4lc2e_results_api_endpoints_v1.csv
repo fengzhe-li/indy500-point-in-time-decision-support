@@ -1,0 +1,12 @@
+endpoint,occurrences,first_position,priority_for_session_discovery
+/api/results/AllTimeWinnerSeriesByYear,2,508085,HIGH
+/api/results/AllTimeWinnerYears,2,492037,HIGH
+/api/results/AllTimeWinnersByYearSeries,2,508931,HIGH
+/api/results/DriverEventDetails,2,490070,HIGH
+/api/results/DriverYearDetails,2,513019,HIGH
+/api/results/DriversByYear,2,485443,HIGH
+/api/results/EventsByYearSeries,2,486285,HIGH
+/api/results/EventsSessionDetails,2,495394,HIGH
+/api/results/SeasonDropDown,2,492580,HIGH
+/api/results/YearPointSummary,2,487020,HIGH
+/api/results/YearsBySeries,4,484837,HIGH

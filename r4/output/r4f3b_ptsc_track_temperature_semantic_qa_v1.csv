@@ -1,0 +1,9 @@
+metric,value,expected,status
+states_preserved,50,50,PASS
+ptsc_time_field_exact,utc_datetime,utc_datetime,PASS
+ptsc_temperature_field_exact,track_c,track_c,PASS
+parsed_ptsc_rows,168,168,PASS
+future_ptsc_leakage,0,0,PASS
+thermal_ready_without_temperature_value,0,0,PASS
+engine_ready_without_thermal,0,0,PASS
+development_ptsc_coverage,50,>0,PASS

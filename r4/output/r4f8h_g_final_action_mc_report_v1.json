@@ -1,0 +1,70 @@
+{
+  "phase": "R4F8H-G",
+  "status": "R4F8H_FINAL_ACTION_MONTE_CARLO_COMPLETE",
+  "universe": {
+    "decisions": 60,
+    "actions": 170,
+    "action_counts": {
+      "REATTEMPT": 4,
+      "RETAIN_AND_REATTEMPT": 50,
+      "STOP": 60,
+      "WITHDRAW_AND_PRIORITY_REATTEMPT": 50,
+      "WITHDRAW_AND_REATTEMPT": 6
+    }
+  },
+  "simulation": {
+    "draws_per_action_per_scenario": 20000,
+    "remaining_time_scenarios": [
+      5,
+      10,
+      15,
+      20,
+      30,
+      45,
+      60
+    ],
+    "scenario_result_rows": 1183,
+    "sensitivity_envelope_rows": 169,
+    "blocked_action_rows": 1,
+    "blocked_decision_ids": [
+      "LAST_CHANCE::2021_24_POST_GUARANTEED_BREAK"
+    ]
+  },
+  "run_duration": {
+    "n": 260,
+    "median_seconds": 155.77874228599575,
+    "q95_seconds": 158.10338222442886
+  },
+  "capability_boundary": {
+    "dynamic_competitor_evolution": "NOT_MODELLED_UNIDENTIFIABLE",
+    "dynamic_final_rank": "NOT_PRODUCED",
+    "interruptions": "NOT_MODELLED_NO_CALIBRATED_COMPONENT",
+    "benchmark": "STATIC_DECISION_TIME_OBSERVED",
+    "remaining_time": "STRUCTURAL_SENSITIVITY_NOT_HISTORICAL_DISTRIBUTION",
+    "queue_wait": "STRUCTURAL_PRIOR_NOT_EMPIRICAL"
+  },
+  "qa": {
+    "pass": 18,
+    "warn": 0,
+    "fail": 0
+  },
+  "protected_input_hashes": {
+    "r4/output/r4f8e_reconstructed_decision_numeric_state_v1.csv": "ec63d81fd99f72ae877f05762957e90c0ac6bdef8f28564c796b74b1984d629b",
+    "r4/output/r4f8e_reconstructed_action_numeric_interface_v1.csv": "86620bb2849b7a0831a14a926c4f031036c97ca0f9e5a74c93abd6869b5056aa",
+    "r4/output/r4f8f_action_wait_distribution_parameters_v1.csv": "4d98a69e4386a9032c2c640baf076305dae63d6cef8d584df2a6065f09a0e603",
+    "r4/output/r4f8f_wait_queue_model_contract_v1.json": "71140d6fc03f8a716c3a3521983eecaf4d3970e9ec5713ddc17ca51fc4de86f0",
+    "r4/output/r4f8g_decision_predictive_uncertainty_state_v1.csv": "d2f84bb1dd61481732d8e2b986c041ffc612b77e635c4f0b9bd4cc156f36bdec",
+    "r4/output/r4f8h_c_cutoff_completion_policy_contract_v1.json": "dc55ade319f394e8a1b28599c2ca4a16710b689fd56aa6e74747ba0dead96a12",
+    "r4/output/r4f8h_f_competitive_state_policy_contract_v1.json": "195733b4d416d5917066af9ba984c39bb4dddfecc8d1782d08c9b7882e173ced",
+    "r4/output/r4p1_attempt_four_lap_panel_v1.csv": "af6ff210a62c5aa0eb43b912c4df42aa62fe1a5aeb9a26d1d5281d515d4cb30b"
+  },
+  "output_hashes": {
+    "r4/output/r4f8h_g_action_mc_scenario_results_v1.csv": "0987ce0aa5e08ed28db2ef371f8080cd1c21d2ecb45657213a41626b049addb0",
+    "r4/output/r4f8h_g_action_mc_sensitivity_envelope_v1.csv": "ce2eb023dab8c2b00b299b7d7355f43070e1235882087555a95e2c3f4d24f27c",
+    "r4/output/r4f8h_g_action_mc_blocked_rows_v1.csv": "0c677e66c7e9547c41acad54550857bb9fcc5bcc2e0236d5140925eb158f3092",
+    "r4/output/r4f8h_g_empirical_run_duration_reference_v1.csv": "81812b003b45de9442a492b97b72707923786bb3f5e0f86f6142351638aa084c",
+    "r4/output/r4f8h_g_final_action_mc_qa_v1.csv": "77f19453aaaa6e003ad33f85199999faa0d145b536c4c98798b0f4c8e575c44e",
+    "r4/output/r4f8h_g_final_action_mc_contract_v1.json": "48940ab24e16745a5e4d3506c2d2eb912eace9d8c68a64fd59489927579eba1c"
+  },
+  "next_phase": "R4F9_HISTORICAL_REPLAY_AND_EVALUATION"
+}

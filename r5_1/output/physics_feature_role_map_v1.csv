@@ -1,0 +1,17 @@
+feature,role,evidence_class,interpretation_boundary
+track_temperature,PRIMARY_THERMAL_STATE,OBSERVED_PTSC,surface temperature; not ambient
+track_temperature_trend,PRIMARY_THERMAL_STATE,DERIVED_FROM_PRIOR_PTSC,past-only trend where available
+solar_radiation,FUTURE_TRACK_STATE_DRIVER,HRRR_FORECAST,downward shortwave
+solar_geometry,FUTURE_TRACK_STATE_DRIVER,DETERMINISTIC_ASTRONOMY,not corner shadow
+cloud_cover,FUTURE_TRACK_STATE_DRIVER,HRRR_FORECAST,not direct shade
+air_temperature,FUTURE_TRACK_STATE_DRIVER,HRRR_FORECAST,must not substitute for track temperature
+wind_speed,DIRECT_PERFORMANCE_AERO_CANDIDATE,HRRR_FORECAST,also cooling driver
+gust,DIRECT_PERFORMANCE_AERO_CANDIDATE,HRRR_FORECAST,
+wind_vector_uv,DIRECT_PERFORMANCE_AERO_CANDIDATE,DERIVED_FROM_HRRR,meteorological direction conversion
+air_density,DIRECT_PERFORMANCE_AERO_CANDIDATE,DERIVED_FROM_HRRR,moist-air ideal gas calculation
+pressure,ATMOSPHERIC_SUPPORT,HRRR_FORECAST,
+relative_humidity,ATMOSPHERIC_SUPPORT,HRRR_FORECAST,
+dew_point,ATMOSPHERIC_SUPPORT,HRRR_FORECAST,
+four_lap_fade,DEGRADATION_PROXY,OFFICIAL_LAP_SPEEDS,not measured tyre wear
+tyre_temperature,UNAVAILABLE_DIRECT_MEASUREMENT,UNAVAILABLE,must not be fabricated
+direct_tyre_wear,UNAVAILABLE_DIRECT_MEASUREMENT,UNAVAILABLE,must not be fabricated

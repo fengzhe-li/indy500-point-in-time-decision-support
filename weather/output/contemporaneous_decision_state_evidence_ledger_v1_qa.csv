@@ -1,0 +1,9 @@
+﻿metric,value,status
+state_row_count_is_7,7,PASS
+state_ids_unique,1,PASS
+expected_state_set_exact,1,PASS
+driver_count_is_4,4,PASS
+live_cutoff_speed_invented,0,PASS
+exact_timestamp_invented,0,PASS
+chronology_mutation,0,PASS
+action_lane_mutation,0,PASS

@@ -1,0 +1,5 @@
+﻿scenario_id,queue_wait_minutes,queue_wait_seconds,historical_truth_claim,scenario_role,probability_weight,calibrated_from_exact_historical_wait,notes
+WAIT_05MIN,5,300,False,LATENT_SENSITIVITY_SCENARIO,UNSPECIFIED_EQUAL_SENSITIVITY_ONLY,False,Sensitivity value only. Must not be described as reconstructed historical queue wait.
+WAIT_15MIN,15,900,False,LATENT_SENSITIVITY_SCENARIO,UNSPECIFIED_EQUAL_SENSITIVITY_ONLY,False,Sensitivity value only. Must not be described as reconstructed historical queue wait.
+WAIT_30MIN,30,1800,False,LATENT_SENSITIVITY_SCENARIO,UNSPECIFIED_EQUAL_SENSITIVITY_ONLY,False,Sensitivity value only. Must not be described as reconstructed historical queue wait.
+WAIT_45MIN,45,2700,False,LATENT_SENSITIVITY_SCENARIO,UNSPECIFIED_EQUAL_SENSITIVITY_ONLY,False,Sensitivity value only. Must not be described as reconstructed historical queue wait.

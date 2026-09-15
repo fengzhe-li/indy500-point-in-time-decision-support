@@ -1,0 +1,46 @@
+{
+  "phase": "R4F6H",
+  "status": "R4F6H_PRESESSION_REFERENCE_VALIDATION_READY",
+  "reference_rows": 71,
+  "joined_attempt_rows": 126,
+  "first_attempt_reference_rows": 71,
+  "repeat_pairs_with_reference": 13,
+  "join_coverage_by_year": [
+    {
+      "year": 2020,
+      "qualifying_entries": 33,
+      "reference_joined_entries": 0,
+      "entry_coverage": 0.0
+    },
+    {
+      "year": 2021,
+      "qualifying_entries": 35,
+      "reference_joined_entries": 3,
+      "entry_coverage": 0.08571428571428572
+    },
+    {
+      "year": 2022,
+      "qualifying_entries": 32,
+      "reference_joined_entries": 0,
+      "entry_coverage": 0.0
+    },
+    {
+      "year": 2023,
+      "qualifying_entries": 34,
+      "reference_joined_entries": 34,
+      "entry_coverage": 1.0
+    },
+    {
+      "year": 2024,
+      "qualifying_entries": 34,
+      "reference_joined_entries": 34,
+      "entry_coverage": 1.0
+    }
+  ],
+  "methodology": {
+    "layer_1": "Test whether Fast Friday reference captures entry-strength variation in first qualifying attempts.",
+    "layer_2": "Use OTHER-CAR Fast-Friday-normalized qualifying residuals to estimate common window-state change between subject first and repeat attempts.",
+    "2024": "Validation-only diagnostic; never merged into development metrics."
+  },
+  "decision_rule": "Promote Fast Friday normalization only if it shows useful entry-strength calibration and/or repeat-window validation improvement over zero/simple baselines."
+}

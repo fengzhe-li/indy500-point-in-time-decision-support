@@ -1,0 +1,20 @@
+{
+  "phase": "R2D.4A",
+  "year": 2022,
+  "queue_wait_status": "NOT_IDENTIFIABLE_FROM_RECOVERED_2022_EVIDENCE",
+  "exact_queue_wait_identifiable": false,
+  "bounded_queue_wait_identifiable": false,
+  "queue_membership_support": "PARTIAL",
+  "queue_position_support": "PARTIAL",
+  "lane_support": "PARTIAL",
+  "run_order_support": "PARTIAL",
+  "priority_time_anchor_count": 0,
+  "exact_queue_wait_row_count": 0,
+  "bounded_queue_wait_row_count": 0,
+  "inter_attempt_gap_as_queue_wait": "PROHIBITED",
+  "simulator_queue_wait_policy": "LATENT_SENSITIVITY_VARIABLE",
+  "sensitivity_values_are_observed_truth": false,
+  "exact_queue_replay_ready": false,
+  "queue_wait_model_calibration_ready": false,
+  "queue_wait_sensitivity_analysis_ready": true
+}

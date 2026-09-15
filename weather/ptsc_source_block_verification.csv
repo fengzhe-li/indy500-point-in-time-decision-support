@@ -1,0 +1,6 @@
+year,session_date,source_sheet,source_date_occurrence_count,selected_occurrence,selected_block_valid_time_row_count,excluded_duplicate_block_valid_time_row_count,source_block_counts,verification_status
+2020,2020-08-15,2020 Temp Archive,1,1,32,0,32,PASS
+2021,2021-05-22,2021 Temp Archive,1,1,33,0,33,PASS
+2022,2022-05-21,2022 Temp Archive,2,1,31,20,31;20,PASS
+2023,2023-05-20,2023 Temp Archive,1,1,36,0,36,PASS
+2024,2024-05-18,2024 Temp Archive,1,1,36,0,36,PASS

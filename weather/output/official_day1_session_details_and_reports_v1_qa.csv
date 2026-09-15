@@ -1,0 +1,12 @@
+﻿metric,value,status
+target_sessions_expected,5,INFO
+successful_session_detail_calls,5,PASS
+day1_session_names_confirmed,5,PASS
+session_type_q_count,5,PASS
+years_with_session_reports,"2020,2021,2022,2023,2024",PASS
+session_report_inventory_rows,17,INFO
+downloaded_report_files,0,INFO
+canonical_data_mutated,0,PASS
+queue_wait_inferred,0,PASS
+leaderboard_state_invented,0,PASS
+policy_hash,222460700c4bc6c77fffc7cafb0cc1e81fcd7140ac361f5a3577a068fb66b70c,INFO

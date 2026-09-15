@@ -1,0 +1,18 @@
+{
+  "phase": "R4P10",
+  "purpose": "Test whether decision-time thermal state and nested-safe future track-temperature forecasts improve prediction of whether the next complete qualifying run beats the current four-lap average.",
+  "historical_transition_rows": 92,
+  "point_timed_performance_rows": 40,
+  "outer_test_safe_dataset_rows": 39,
+  "validation": "Outer leave-one-year-out performance validation with thermal models trained excluding the same held-out year.",
+  "historical_wait_used_as_feature": false,
+  "best_nonbaseline_model": "CURRENT_SHAPE",
+  "best_nonbaseline_brier": 0.21046364203151646,
+  "best_nonbaseline_auc": 0.5162337662337662,
+  "important_semantics": {
+    "thermal_predictions": "Generated without the held-out performance test year.",
+    "target": "P(next complete repeat beats current four-lap average).",
+    "wait_time": "Historical repeat wait is not used as a predictor.",
+    "strategy": "No STOP / RETAIN / WITHDRAW recommendation yet."
+  }
+}

@@ -1,0 +1,8 @@
+metric,value,expected,status
+attempt_rows,329,329,PASS
+2020_reference_entries,33,33,PASS
+2021_reference_entries,35,35,PASS
+2022_role_degraded,True,True,PASS
+2024_validation_only,True,True,PASS
+core_development_rows_increased,104,>20,PASS
+audit_only_no_model_fit,True,True,PASS

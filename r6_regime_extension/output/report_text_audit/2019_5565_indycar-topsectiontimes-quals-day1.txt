@@ -1,0 +1,1554 @@
+
+===== PAGE 1 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 63 Jones, Ed D/C/F 00:38.9585  231.015 1
+2 21 Pigot, Spencer D/C/F 00:38.9948  230.800 1
+3 22 Pagenaud, Simon D/C/F 00:39.0420  230.521 1
+4 12 Power, Will D/C/F 00:39.0569  230.433 1
+5 2 Newgarden, Josef D/C/F 00:39.1083  230.130 1
+6 20 Carpenter, Ed D/C/F 00:39.1257  230.028 1
+7 88 Herta, Colton (R) D/H/F 00:39.1660  229.791 7
+8 18 Bourdais, Sebastien D/H/F 00:39.1713  229.760 2
+9 27 Rossi, Alexander D/H/F 00:39.1713  229.760 7
+10 98 Andretti, Marco D/H/F 00:39.1941  229.626 1
+11 3 Castroneves, Helio D/C/F 00:39.2083  229.543 1
+12 33 Davison, James D/H/F 00:39.2590  229.247 1
+13 25 Daly, Conor D/H/F 00:39.2626  229.226 7
+14 48 Hildebrand, JR D/C/F 00:39.2651  229.211 1
+15 7 Ericsson, Marcus (R) D/H/F 00:39.2987  229.015 1
+16 30 Sato, Takuma D/H/F 00:39.3392  228.779 1
+17 28 Hunter-Reay, Ryan D/H/F 00:39.3605  228.656 1
+18 9 Dixon, Scott D/H/F 00:39.3605  228.656 7
+19 14 Kanaan, Tony D/C/F 00:39.3649  228.630 1
+20 60 Harvey, Jack D/H/F 00:39.3759  228.566 1
+21 15 Rahal, Graham D/H/F 00:39.3761  228.565 13
+22 77 Servia, Oriol D/H/F 00:39.3764  228.563 1
+23 66 Alonso, Fernando D/C/F 00:39.3935  228.464 7
+24 39 Mann, Pippa D/C/F 00:39.4099  228.369 1
+25 26 Veach, Zach D/H/F 00:39.4136  228.348 1
+26 23 Kimball, Charlie D/C/F 00:39.4210  228.305 1
+27 19 Ferrucci, Santino (R) D/H/F 00:39.4230  228.293 1
+28 24 Karam, Sage D/C/F 00:39.4393  228.199 19
+29 5 Hinchcliffe, James D/H/F 00:39.4461  228.159 1
+30 4 Leist, Matheus D/C/F 00:39.4579  228.091 7
+31 10 Rosenqvist, Felix (R) D/H/F 00:39.4707  228.017 7
+32 81 Hanley, Ben (R) D/C/F 00:39.4854  227.932 13
+33 42 King, Jordan (R) D/H/F 00:39.4961  227.871 4
+34 31 O'Ward, Patricio (R) D/C/F 00:39.5351  227.646 7
+35 59 Chilton, Max D/C/F 00:39.5426  227.603 1
+36 5T Hinchcliffe, James D/H/F 00:39.5843  227.363 13
+37 32 Kaiser, Kyle D/C/F 00:39.6294  227.104 1
+Section:  Lap Length:  2.500000 mile(s)
+Track map included on last page of report
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 1 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 2 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 2 Newgarden, Josef D/C/F 00:02.8877  233.278 1
+2 21 Pigot, Spencer D/C/F 00:02.8884  233.221 1
+3 48 Hildebrand, JR D/C/F 00:02.8986  232.401 1
+4 12 Power, Will D/C/F 00:02.8987  232.393 2
+5 20 Carpenter, Ed D/C/F 00:02.9003  232.264 1
+6 18 Bourdais, Sebastien D/H/F 00:02.9016  232.160 2
+7 22 Pagenaud, Simon D/C/F 00:02.9023  232.104 1
+8 98 Andretti, Marco D/H/F 00:02.9028  232.064 2
+9 3 Castroneves, Helio D/C/F 00:02.9030  232.048 1
+10 24 Karam, Sage D/C/F 00:02.9033  232.024 1
+11 63 Jones, Ed D/C/F 00:02.9035  232.008 1
+12 88 Herta, Colton (R) D/H/F 00:02.9046  231.921 1
+13 23 Kimball, Charlie D/C/F 00:02.9059  231.817 1
+14 27 Rossi, Alexander D/H/F 00:02.9063  231.785 2
+15 14 Kanaan, Tony D/C/F 00:02.9084  231.618 1
+16 9 Dixon, Scott D/H/F 00:02.9101  231.482 1
+17 77 Servia, Oriol D/H/F 00:02.9117  231.355 2
+18 5 Hinchcliffe, James D/H/F 00:02.9166  230.966 1
+19 39 Mann, Pippa D/C/F 00:02.9172  230.919 1
+20 15 Rahal, Graham D/H/F 00:02.9178  230.871 13
+21 7 Ericsson, Marcus (R) D/H/F 00:02.9182  230.840 2
+22 66 Alonso, Fernando D/C/F 00:02.9183  230.832 7
+23 25 Daly, Conor D/H/F 00:02.9185  230.816 2
+24 32 Kaiser, Kyle D/C/F 00:02.9187  230.800 1
+25 4 Leist, Matheus D/C/F 00:02.9196  230.729 2
+26 28 Hunter-Reay, Ryan D/H/F 00:02.9198  230.713 2
+27 42 King, Jordan (R) D/H/F 00:02.9201  230.689 3
+28 33 Davison, James D/H/F 00:02.9206  230.650 2
+29 26 Veach, Zach D/H/F 00:02.9216  230.571 7
+30 19 Ferrucci, Santino (R) D/H/F 00:02.9217  230.563 2
+31 60 Harvey, Jack D/H/F 00:02.9239  230.390 1
+32 81 Hanley, Ben (R) D/C/F 00:02.9245  230.342 8
+33 31 O'Ward, Patricio (R) D/C/F 00:02.9248  230.319 1
+34 30 Sato, Takuma D/H/F 00:02.9258  230.240 1
+35 10 Rosenqvist, Felix (R) D/H/F 00:02.9304  229.879 13
+36 5T Hinchcliffe, James D/H/F 00:02.9315  229.792 13
+37 59 Chilton, Max D/C/F 00:02.9379  229.292 1
+Section:  SF to T1 Length:  0.187121 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 2 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 3 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 2 Newgarden, Josef D/C/F 00:04.8875  230.179 1
+2 21 Pigot, Spencer D/C/F 00:04.8899  230.066 1
+3 63 Jones, Ed D/C/F 00:04.9009  229.550 1
+4 20 Carpenter, Ed D/C/F 00:04.9016  229.517 1
+5 18 Bourdais, Sebastien D/H/F 00:04.9030  229.451 2
+6 88 Herta, Colton (R) D/H/F 00:04.9088  229.180 7
+7 22 Pagenaud, Simon D/C/F 00:04.9134  228.966 1
+8 27 Rossi, Alexander D/H/F 00:04.9150  228.891 1
+9 98 Andretti, Marco D/H/F 00:04.9164  228.826 1
+10 48 Hildebrand, JR D/C/F 00:04.9238  228.482 13
+11 12 Power, Will D/C/F 00:04.9244  228.454 1
+12 3 Castroneves, Helio D/C/F 00:04.9269  228.338 1
+13 9 Dixon, Scott D/H/F 00:04.9286  228.260 1
+14 28 Hunter-Reay, Ryan D/H/F 00:04.9338  228.019 1
+15 39 Mann, Pippa D/C/F 00:04.9343  227.996 1
+16 14 Kanaan, Tony D/C/F 00:04.9348  227.973 1
+17 23 Kimball, Charlie D/C/F 00:04.9371  227.867 1
+18 60 Harvey, Jack D/H/F 00:04.9384  227.807 1
+19 5 Hinchcliffe, James D/H/F 00:04.9386  227.797 1
+20 66 Alonso, Fernando D/C/F 00:04.9398  227.742 7
+21 25 Daly, Conor D/H/F 00:04.9416  227.659 2
+22 77 Servia, Oriol D/H/F 00:04.9419  227.645 1
+23 15 Rahal, Graham D/H/F 00:04.9423  227.627 13
+24 19 Ferrucci, Santino (R) D/H/F 00:04.9430  227.595 2
+25 26 Veach, Zach D/H/F 00:04.9438  227.558 7
+26 42 King, Jordan (R) D/H/F 00:04.9446  227.521 3
+27 24 Karam, Sage D/C/F 00:04.9452  227.493 25
+28 7 Ericsson, Marcus (R) D/H/F 00:04.9462  227.447 1
+29 33 Davison, James D/H/F 00:04.9463  227.443 1
+30 30 Sato, Takuma D/H/F 00:04.9491  227.314 1
+31 10 Rosenqvist, Felix (R) D/H/F 00:04.9510  227.227 13
+32 32 Kaiser, Kyle D/C/F 00:04.9519  227.186 1
+33 81 Hanley, Ben (R) D/C/F 00:04.9588  226.869 9
+34 5T Hinchcliffe, James D/H/F 00:04.9601  226.810 13
+35 4 Leist, Matheus D/C/F 00:04.9640  226.632 9
+36 31 O'Ward, Patricio (R) D/C/F 00:04.9692  226.395 1
+37 59 Chilton, Max D/C/F 00:04.9708  226.322 1
+Section:  T1 to SS1 Length:  0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 3 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 4 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 63 Jones, Ed D/C/F 00:04.9273  228.320 1
+2 2 Newgarden, Josef D/C/F 00:04.9311  228.144 1
+3 21 Pigot, Spencer D/C/F 00:04.9342  228.000 1
+4 22 Pagenaud, Simon D/C/F 00:04.9360  227.917 1
+5 20 Carpenter, Ed D/C/F 00:04.9391  227.774 1
+6 88 Herta, Colton (R) D/H/F 00:04.9503  227.259 7
+7 3 Castroneves, Helio D/C/F 00:04.9505  227.250 1
+8 18 Bourdais, Sebastien D/H/F 00:04.9508  227.236 2
+9 27 Rossi, Alexander D/H/F 00:04.9529  227.140 1
+10 98 Andretti, Marco D/H/F 00:04.9541  227.085 1
+11 12 Power, Will D/C/F 00:04.9561  226.993 1
+12 48 Hildebrand, JR D/C/F 00:04.9652  226.577 13
+13 28 Hunter-Reay, Ryan D/H/F 00:04.9656  226.559 1
+14 9 Dixon, Scott D/H/F 00:04.9661  226.536 1
+15 30 Sato, Takuma D/H/F 00:04.9710  226.313 1
+16 14 Kanaan, Tony D/C/F 00:04.9714  226.294 1
+17 5 Hinchcliffe, James D/H/F 00:04.9719  226.272 1
+18 7 Ericsson, Marcus (R) D/H/F 00:04.9723  226.253 1
+19 15 Rahal, Graham D/H/F 00:04.9731  226.217 13
+20 39 Mann, Pippa D/C/F 00:04.9736  226.194 1
+21 33 Davison, James D/H/F 00:04.9740  226.176 1
+22 26 Veach, Zach D/H/F 00:04.9760  226.085 1
+23 77 Servia, Oriol D/H/F 00:04.9783  225.981 1
+24 42 King, Jordan (R) D/H/F 00:04.9788  225.958 15
+25 19 Ferrucci, Santino (R) D/H/F 00:04.9796  225.922 1
+26 60 Harvey, Jack D/H/F 00:04.9808  225.867 1
+27 25 Daly, Conor D/H/F 00:04.9816  225.831 7
+28 66 Alonso, Fernando D/C/F 00:04.9843  225.709 7
+29 23 Kimball, Charlie D/C/F 00:04.9928  225.324 1
+30 24 Karam, Sage D/C/F 00:04.9981  225.086 19
+31 4 Leist, Matheus D/C/F 00:04.9985  225.068 7
+32 5T Hinchcliffe, James D/H/F 00:04.9986  225.063 13
+33 10 Rosenqvist, Felix (R) D/H/F 00:05.0003  224.987 7
+34 81 Hanley, Ben (R) D/C/F 00:05.0053  224.762 14
+35 59 Chilton, Max D/C/F 00:05.0095  224.573 1
+36 31 O'Ward, Patricio (R) D/C/F 00:05.0138  224.381 13
+37 32 Kaiser, Kyle D/C/F 00:05.0184  224.175 1
+Section:  SS1 to T2 Length:  0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 4 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 5 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 12 Power, Will D/C/F 00:04.8275  233.040 1
+2 63 Jones, Ed D/C/F 00:04.8366  232.601 1
+3 21 Pigot, Spencer D/C/F 00:04.8369  232.587 1
+4 22 Pagenaud, Simon D/C/F 00:04.8397  232.452 1
+5 88 Herta, Colton (R) D/H/F 00:04.8449  232.203 7
+6 2 Newgarden, Josef D/C/F 00:04.8534  231.796 3
+7 20 Carpenter, Ed D/C/F 00:04.8560  231.672 1
+8 3 Castroneves, Helio D/C/F 00:04.8604  231.462 1
+9 7 Ericsson, Marcus (R) D/H/F 00:04.8631  231.334 1
+10 27 Rossi, Alexander D/H/F 00:04.8635  231.315 7
+11 98 Andretti, Marco D/H/F 00:04.8653  231.229 11
+12 25 Daly, Conor D/H/F 00:04.8693  231.039 7
+13 18 Bourdais, Sebastien D/H/F 00:04.8726  230.883 2
+14 30 Sato, Takuma D/H/F 00:04.8741  230.812 1
+15 9 Dixon, Scott D/H/F 00:04.8741  230.812 2
+16 33 Davison, James D/H/F 00:04.8743  230.802 1
+17 15 Rahal, Graham D/H/F 00:04.8791  230.575 13
+18 48 Hildebrand, JR D/C/F 00:04.8800  230.533 1
+19 42 King, Jordan (R) D/H/F 00:04.8803  230.519 15
+20 66 Alonso, Fernando D/C/F 00:04.8804  230.514 7
+21 28 Hunter-Reay, Ryan D/H/F 00:04.8815  230.462 1
+22 4 Leist, Matheus D/C/F 00:04.8848  230.306 7
+23 39 Mann, Pippa D/C/F 00:04.8849  230.302 1
+24 26 Veach, Zach D/H/F 00:04.8864  230.231 7
+25 5 Hinchcliffe, James D/H/F 00:04.8870  230.203 1
+26 81 Hanley, Ben (R) D/C/F 00:04.8877  230.170 13
+27 60 Harvey, Jack D/H/F 00:04.8880  230.155 1
+28 19 Ferrucci, Santino (R) D/H/F 00:04.8880  230.155 1
+29 14 Kanaan, Tony D/C/F 00:04.8892  230.099 1
+30 24 Karam, Sage D/C/F 00:04.8898  230.071 19
+31 77 Servia, Oriol D/H/F 00:04.8921  229.963 2
+32 10 Rosenqvist, Felix (R) D/H/F 00:04.8946  229.845 14
+33 23 Kimball, Charlie D/C/F 00:04.8970  229.732 1
+34 31 O'Ward, Patricio (R) D/C/F 00:04.8975  229.709 7
+35 5T Hinchcliffe, James D/H/F 00:04.9063  229.297 13
+36 59 Chilton, Max D/C/F 00:04.9072  229.255 7
+37 32 Kaiser, Kyle D/C/F 00:04.9275  228.311 7
+Section:  T2 to BS Length:  0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 5 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 6 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 63 Jones, Ed D/C/F 00:04.7419  237.247 1
+2 12 Power, Will D/C/F 00:04.7447  237.107 1
+3 98 Andretti, Marco D/H/F 00:04.7639  236.151 11
+4 22 Pagenaud, Simon D/C/F 00:04.7647  236.111 1
+5 21 Pigot, Spencer D/C/F 00:04.7671  235.993 1
+6 88 Herta, Colton (R) D/H/F 00:04.7703  235.834 7
+7 27 Rossi, Alexander D/H/F 00:04.7725  235.726 7
+8 25 Daly, Conor D/H/F 00:04.7725  235.726 10
+9 48 Hildebrand, JR D/C/F 00:04.7761  235.548 1
+10 2 Newgarden, Josef D/C/F 00:04.7803  235.341 3
+11 3 Castroneves, Helio D/C/F 00:04.7815  235.282 7
+12 9 Dixon, Scott D/H/F 00:04.7833  235.193 7
+13 24 Karam, Sage D/C/F 00:04.7869  235.016 7
+14 66 Alonso, Fernando D/C/F 00:04.7875  234.987 7
+15 7 Ericsson, Marcus (R) D/H/F 00:04.7879  234.967 1
+16 20 Carpenter, Ed D/C/F 00:04.7904  234.845 1
+17 33 Davison, James D/H/F 00:04.7912  234.805 1
+18 81 Hanley, Ben (R) D/C/F 00:04.7985  234.448 13
+19 15 Rahal, Graham D/H/F 00:04.7990  234.424 7
+20 30 Sato, Takuma D/H/F 00:04.7998  234.385 1
+21 4 Leist, Matheus D/C/F 00:04.8008  234.336 7
+22 39 Mann, Pippa D/C/F 00:04.8012  234.316 1
+23 18 Bourdais, Sebastien D/H/F 00:04.8021  234.273 2
+24 23 Kimball, Charlie D/C/F 00:04.8035  234.204 3
+25 31 O'Ward, Patricio (R) D/C/F 00:04.8048  234.141 7
+26 10 Rosenqvist, Felix (R) D/H/F 00:04.8088  233.946 14
+27 42 King, Jordan (R) D/H/F 00:04.8092  233.927 16
+28 14 Kanaan, Tony D/C/F 00:04.8096  233.907 1
+29 28 Hunter-Reay, Ryan D/H/F 00:04.8103  233.873 1
+30 60 Harvey, Jack D/H/F 00:04.8113  233.825 1
+31 26 Veach, Zach D/H/F 00:04.8116  233.810 1
+32 5 Hinchcliffe, James D/H/F 00:04.8129  233.747 1
+33 19 Ferrucci, Santino (R) D/H/F 00:04.8145  233.669 1
+34 5T Hinchcliffe, James D/H/F 00:04.8157  233.611 9
+35 77 Servia, Oriol D/H/F 00:04.8173  233.533 2
+36 59 Chilton, Max D/C/F 00:04.8292  232.958 1
+37 32 Kaiser, Kyle D/C/F 00:04.8382  232.524 1
+Section:  BS to T3 Length:  0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 6 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 7 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 63 Jones, Ed D/C/F 00:04.8162  233.587 1
+2 22 Pagenaud, Simon D/C/F 00:04.8526  231.834 1
+3 9 Dixon, Scott D/H/F 00:04.8578  231.586 7
+4 12 Power, Will D/C/F 00:04.8589  231.534 4
+5 21 Pigot, Spencer D/C/F 00:04.8643  231.277 1
+6 98 Andretti, Marco D/H/F 00:04.8654  231.225 11
+7 27 Rossi, Alexander D/H/F 00:04.8672  231.139 7
+8 25 Daly, Conor D/H/F 00:04.8761  230.717 7
+9 88 Herta, Colton (R) D/H/F 00:04.8781  230.623 7
+10 18 Bourdais, Sebastien D/H/F 00:04.8783  230.613 1
+11 33 Davison, James D/H/F 00:04.8808  230.495 1
+12 20 Carpenter, Ed D/C/F 00:04.8833  230.377 3
+13 3 Castroneves, Helio D/C/F 00:04.8845  230.320 7
+14 48 Hildebrand, JR D/C/F 00:04.8865  230.226 1
+15 2 Newgarden, Josef D/C/F 00:04.8898  230.071 3
+16 15 Rahal, Graham D/H/F 00:04.8900  230.061 7
+17 26 Veach, Zach D/H/F 00:04.8921  229.963 1
+18 30 Sato, Takuma D/H/F 00:04.8946  229.845 4
+19 10 Rosenqvist, Felix (R) D/H/F 00:04.8947  229.840 7
+20 81 Hanley, Ben (R) D/C/F 00:04.8955  229.803 13
+21 31 O'Ward, Patricio (R) D/C/F 00:04.8956  229.798 8
+22 66 Alonso, Fernando D/C/F 00:04.8977  229.700 7
+23 24 Karam, Sage D/C/F 00:04.8993  229.625 19
+24 7 Ericsson, Marcus (R) D/H/F 00:04.8999  229.597 1
+25 4 Leist, Matheus D/C/F 00:04.9001  229.587 7
+26 39 Mann, Pippa D/C/F 00:04.9005  229.568 1
+27 60 Harvey, Jack D/H/F 00:04.9048  229.367 1
+28 19 Ferrucci, Santino (R) D/H/F 00:04.9051  229.353 1
+29 59 Chilton, Max D/C/F 00:04.9088  229.180 7
+30 5T Hinchcliffe, James D/H/F 00:04.9115  229.054 9
+31 28 Hunter-Reay, Ryan D/H/F 00:04.9120  229.031 3
+32 77 Servia, Oriol D/H/F 00:04.9161  228.840 1
+33 42 King, Jordan (R) D/H/F 00:04.9172  228.789 16
+34 14 Kanaan, Tony D/C/F 00:04.9204  228.640 1
+35 5 Hinchcliffe, James D/H/F 00:04.9218  228.575 1
+36 23 Kimball, Charlie D/C/F 00:04.9218  228.575 3
+37 32 Kaiser, Kyle D/C/F 00:04.9370  227.871 0
+Section:  T3 to SS2 Length:  0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 7 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 8 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 63 Jones, Ed D/C/F 00:04.9321  228.098 0
+2 22 Pagenaud, Simon D/C/F 00:04.9461  227.452 1
+3 21 Pigot, Spencer D/C/F 00:04.9522  227.172 0
+4 12 Power, Will D/C/F 00:04.9607  226.783 2
+5 20 Carpenter, Ed D/C/F 00:04.9638  226.641 0
+6 2 Newgarden, Josef D/C/F 00:04.9642  226.623 0
+7 27 Rossi, Alexander D/H/F 00:04.9664  226.522 7
+8 25 Daly, Conor D/H/F 00:04.9682  226.440 7
+9 18 Bourdais, Sebastien D/H/F 00:04.9726  226.240 1
+10 98 Andretti, Marco D/H/F 00:04.9740  226.176 11
+11 88 Herta, Colton (R) D/H/F 00:04.9742  226.167 1
+12 33 Davison, James D/H/F 00:04.9782  225.985 1
+13 48 Hildebrand, JR D/C/F 00:04.9822  225.804 0
+14 9 Dixon, Scott D/H/F 00:04.9830  225.768 6
+15 3 Castroneves, Helio D/C/F 00:04.9853  225.663 0
+16 66 Alonso, Fernando D/C/F 00:04.9874  225.568 6
+17 60 Harvey, Jack D/H/F 00:04.9914  225.388 0
+18 30 Sato, Takuma D/H/F 00:04.9917  225.374 1
+19 15 Rahal, Graham D/H/F 00:04.9962  225.171 12
+20 31 O'Ward, Patricio (R) D/C/F 00:04.9985  225.068 7
+21 28 Hunter-Reay, Ryan D/H/F 00:04.9996  225.018 1
+22 7 Ericsson, Marcus (R) D/H/F 00:05.0024  224.892 1
+23 10 Rosenqvist, Felix (R) D/H/F 00:05.0032  224.856 7
+24 4 Leist, Matheus D/C/F 00:05.0034  224.847 7
+25 77 Servia, Oriol D/H/F 00:05.0080  224.641 1
+26 26 Veach, Zach D/H/F 00:05.0109  224.511 0
+27 81 Hanley, Ben (R) D/C/F 00:05.0139  224.376 13
+28 24 Karam, Sage D/C/F 00:05.0156  224.300 19
+29 14 Kanaan, Tony D/C/F 00:05.0156  224.300 0
+30 23 Kimball, Charlie D/C/F 00:05.0165  224.260 0
+31 19 Ferrucci, Santino (R) D/H/F 00:05.0176  224.211 2
+32 59 Chilton, Max D/C/F 00:05.0199  224.108 1
+33 39 Mann, Pippa D/C/F 00:05.0229  223.974 1
+34 42 King, Jordan (R) D/H/F 00:05.0259  223.841 8
+35 32 Kaiser, Kyle D/C/F 00:05.0259  223.841 0
+36 5 Hinchcliffe, James D/H/F 00:05.0285  223.725 0
+37 5T Hinchcliffe, James D/H/F 00:05.0360  223.392 6
+Section:  SS2 to T4 Length:  0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 8 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 9 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 21 Pigot, Spencer D/C/F 00:03.1413  229.204 0
+2 2 Newgarden, Josef D/C/F 00:03.1433  229.059 0
+3 63 Jones, Ed D/C/F 00:03.1451  228.928 0
+4 22 Pagenaud, Simon D/C/F 00:03.1473  228.768 0
+5 12 Power, Will D/C/F 00:03.1497  228.593 2
+6 12 Power, Will D/C/F 00:03.1497  228.593 1
+7 98 Andretti, Marco D/H/F 00:03.1523  228.405 1
+8 20 Carpenter, Ed D/C/F 00:03.1526  228.383 0
+9 18 Bourdais, Sebastien D/H/F 00:03.1530  228.354 1
+10 27 Rossi, Alexander D/H/F 00:03.1558  228.151 6
+11 33 Davison, James D/H/F 00:03.1627  227.654 1
+12 66 Alonso, Fernando D/C/F 00:03.1631  227.625 6
+13 88 Herta, Colton (R) D/H/F 00:03.1633  227.610 1
+14 14 Kanaan, Tony D/C/F 00:03.1638  227.574 0
+15 15 Rahal, Graham D/H/F 00:03.1650  227.488 12
+16 48 Hildebrand, JR D/C/F 00:03.1660  227.416 0
+17 60 Harvey, Jack D/H/F 00:03.1664  227.388 0
+18 7 Ericsson, Marcus (R) D/H/F 00:03.1671  227.337 0
+19 3 Castroneves, Helio D/C/F 00:03.1675  227.309 0
+20 23 Kimball, Charlie D/C/F 00:03.1689  227.208 0
+21 25 Daly, Conor D/H/F 00:03.1692  227.187 0
+22 77 Servia, Oriol D/H/F 00:03.1699  227.137 0
+23 9 Dixon, Scott D/H/F 00:03.1737  226.865 6
+24 30 Sato, Takuma D/H/F 00:03.1763  226.679 0
+25 28 Hunter-Reay, Ryan D/H/F 00:03.1777  226.579 0
+26 26 Veach, Zach D/H/F 00:03.1778  226.572 0
+27 10 Rosenqvist, Felix (R) D/H/F 00:03.1785  226.522 6
+28 24 Karam, Sage D/C/F 00:03.1795  226.451 0
+29 5 Hinchcliffe, James D/H/F 00:03.1810  226.344 0
+30 42 King, Jordan (R) D/H/F 00:03.1824  226.244 8
+31 31 O'Ward, Patricio (R) D/C/F 00:03.1847  226.081 7
+32 32 Kaiser, Kyle D/C/F 00:03.1863  225.967 0
+33 81 Hanley, Ben (R) D/C/F 00:03.1871  225.911 1
+34 59 Chilton, Max D/C/F 00:03.1877  225.868 1
+35 4 Leist, Matheus D/C/F 00:03.1880  225.847 1
+36 19 Ferrucci, Santino (R) D/H/F 00:03.1884  225.819 0
+37 39 Mann, Pippa D/C/F 00:03.1943  225.401 0
+38 5T Hinchcliffe, James D/H/F 00:03.1968  225.225 12
+Section:  T4 to FS Length:  0.200000 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 9 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 10 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 21 Pigot, Spencer D/C/F 00:03.6960  231.700 0
+2 2 Newgarden, Josef D/C/F 00:03.6993  231.493 0
+3 63 Jones, Ed D/C/F 00:03.7070  231.013 0
+4 12 Power, Will D/C/F 00:03.7074  230.988 2
+5 22 Pagenaud, Simon D/C/F 00:03.7106  230.788 0
+6 18 Bourdais, Sebastien D/H/F 00:03.7117  230.720 2
+7 18 Bourdais, Sebastien D/H/F 00:03.7117  230.720 1
+8 20 Carpenter, Ed D/C/F 00:03.7118  230.714 0
+9 48 Hildebrand, JR D/C/F 00:03.7138  230.590 0
+10 98 Andretti, Marco D/H/F 00:03.7147  230.534 1
+11 27 Rossi, Alexander D/H/F 00:03.7206  230.168 1
+12 14 Kanaan, Tony D/C/F 00:03.7217  230.100 0
+13 7 Ericsson, Marcus (R) D/H/F 00:03.7219  230.088 0
+14 3 Castroneves, Helio D/C/F 00:03.7232  230.007 0
+15 23 Kimball, Charlie D/C/F 00:03.7246  229.921 0
+16 88 Herta, Colton (R) D/H/F 00:03.7257  229.853 10
+17 33 Davison, James D/H/F 00:03.7284  229.687 1
+18 77 Servia, Oriol D/H/F 00:03.7285  229.680 1
+19 24 Karam, Sage D/C/F 00:03.7285  229.680 0
+20 66 Alonso, Fernando D/C/F 00:03.7297  229.607 6
+21 9 Dixon, Scott D/H/F 00:03.7311  229.520 0
+22 15 Rahal, Graham D/H/F 00:03.7319  229.471 12
+23 25 Daly, Conor D/H/F 00:03.7337  229.361 1
+24 60 Harvey, Jack D/H/F 00:03.7377  229.115 0
+25 30 Sato, Takuma D/H/F 00:03.7378  229.109 0
+26 42 King, Jordan (R) D/H/F 00:03.7384  229.072 2
+27 5 Hinchcliffe, James D/H/F 00:03.7399  228.980 0
+28 28 Hunter-Reay, Ryan D/H/F 00:03.7414  228.889 0
+29 32 Kaiser, Kyle D/C/F 00:03.7417  228.870 0
+30 4 Leist, Matheus D/C/F 00:03.7421  228.846 1
+31 39 Mann, Pippa D/C/F 00:03.7435  228.760 0
+32 26 Veach, Zach D/H/F 00:03.7436  228.754 0
+33 31 O'Ward, Patricio (R) D/C/F 00:03.7445  228.699 0
+34 19 Ferrucci, Santino (R) D/H/F 00:03.7514  228.278 0
+35 10 Rosenqvist, Felix (R) D/H/F 00:03.7517  228.260 12
+36 81 Hanley, Ben (R) D/C/F 00:03.7526  228.205 7
+37 59 Chilton, Max D/C/F 00:03.7555  228.029 0
+38 5T Hinchcliffe, James D/H/F 00:03.7574  227.914 12
+Section:  FS to SF Length:  0.237879 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 10 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 11 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 2 Newgarden, Josef D/C/F 00:09.8186  229.157 1
+2 21 Pigot, Spencer D/C/F 00:09.8241  229.029 1
+3 63 Jones, Ed D/C/F 00:09.8282  228.933 1
+4 20 Carpenter, Ed D/C/F 00:09.8407  228.642 1
+5 22 Pagenaud, Simon D/C/F 00:09.8494  228.440 1
+6 18 Bourdais, Sebastien D/H/F 00:09.8538  228.338 2
+7 88 Herta, Colton (R) D/H/F 00:09.8591  228.216 7
+8 27 Rossi, Alexander D/H/F 00:09.8679  228.012 1
+9 98 Andretti, Marco D/H/F 00:09.8705  227.952 1
+10 3 Castroneves, Helio D/C/F 00:09.8774  227.793 1
+11 12 Power, Will D/C/F 00:09.8805  227.721 1
+12 48 Hildebrand, JR D/C/F 00:09.8890  227.526 13
+13 9 Dixon, Scott D/H/F 00:09.8947  227.394 1
+14 28 Hunter-Reay, Ryan D/H/F 00:09.8994  227.287 1
+15 14 Kanaan, Tony D/C/F 00:09.9062  227.130 1
+16 39 Mann, Pippa D/C/F 00:09.9079  227.092 1
+17 5 Hinchcliffe, James D/H/F 00:09.9105  227.032 1
+18 15 Rahal, Graham D/H/F 00:09.9154  226.920 13
+19 7 Ericsson, Marcus (R) D/H/F 00:09.9185  226.849 1
+20 60 Harvey, Jack D/H/F 00:09.9192  226.833 1
+21 30 Sato, Takuma D/H/F 00:09.9201  226.812 1
+22 77 Servia, Oriol D/H/F 00:09.9202  226.810 1
+23 33 Davison, James D/H/F 00:09.9203  226.808 1
+24 66 Alonso, Fernando D/C/F 00:09.9241  226.721 7
+25 25 Daly, Conor D/H/F 00:09.9254  226.691 7
+26 19 Ferrucci, Santino (R) D/H/F 00:09.9262  226.673 1
+27 23 Kimball, Charlie D/C/F 00:09.9299  226.588 1
+28 26 Veach, Zach D/H/F 00:09.9354  226.463 7
+29 42 King, Jordan (R) D/H/F 00:09.9424  226.304 3
+30 24 Karam, Sage D/C/F 00:09.9438  226.272 25
+31 10 Rosenqvist, Felix (R) D/H/F 00:09.9518  226.090 13
+32 5T Hinchcliffe, James D/H/F 00:09.9587  225.933 13
+33 4 Leist, Matheus D/C/F 00:09.9644  225.804 7
+34 32 Kaiser, Kyle D/C/F 00:09.9703  225.670 1
+35 81 Hanley, Ben (R) D/C/F 00:09.9718  225.636 14
+36 59 Chilton, Max D/C/F 00:09.9803  225.444 1
+37 31 O'Ward, Patricio (R) D/C/F 00:09.9842  225.356 13
+Section:  T1 to T2 Length:  0.625000 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 11 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 12 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 12 Power, Will D/C/F 00:09.5722  235.056 1
+2 63 Jones, Ed D/C/F 00:09.5785  234.901 1
+3 21 Pigot, Spencer D/C/F 00:09.6040  234.277 1
+4 22 Pagenaud, Simon D/C/F 00:09.6044  234.268 1
+5 88 Herta, Colton (R) D/H/F 00:09.6152  234.004 7
+6 98 Andretti, Marco D/H/F 00:09.6292  233.664 11
+7 2 Newgarden, Josef D/C/F 00:09.6337  233.555 3
+8 27 Rossi, Alexander D/H/F 00:09.6360  233.499 7
+9 20 Carpenter, Ed D/C/F 00:09.6464  233.248 1
+10 3 Castroneves, Helio D/C/F 00:09.6470  233.233 1
+11 7 Ericsson, Marcus (R) D/H/F 00:09.6510  233.136 1
+12 25 Daly, Conor D/H/F 00:09.6552  233.035 7
+13 48 Hildebrand, JR D/C/F 00:09.6561  233.013 1
+14 9 Dixon, Scott D/H/F 00:09.6627  232.854 7
+15 33 Davison, James D/H/F 00:09.6655  232.787 1
+16 66 Alonso, Fernando D/C/F 00:09.6679  232.729 7
+17 30 Sato, Takuma D/H/F 00:09.6739  232.585 1
+18 18 Bourdais, Sebastien D/H/F 00:09.6747  232.565 2
+19 24 Karam, Sage D/C/F 00:09.6844  232.332 19
+20 4 Leist, Matheus D/C/F 00:09.6856  232.304 7
+21 39 Mann, Pippa D/C/F 00:09.6861  232.292 1
+22 81 Hanley, Ben (R) D/C/F 00:09.6862  232.289 13
+23 15 Rahal, Graham D/H/F 00:09.6875  232.258 7
+24 42 King, Jordan (R) D/H/F 00:09.6903  232.191 15
+25 28 Hunter-Reay, Ryan D/H/F 00:09.6918  232.155 1
+26 14 Kanaan, Tony D/C/F 00:09.6988  231.987 1
+27 60 Harvey, Jack D/H/F 00:09.6993  231.976 1
+28 5 Hinchcliffe, James D/H/F 00:09.6999  231.961 1
+29 26 Veach, Zach D/H/F 00:09.7020  231.911 1
+30 31 O'Ward, Patricio (R) D/C/F 00:09.7023  231.904 7
+31 19 Ferrucci, Santino (R) D/H/F 00:09.7025  231.899 1
+32 10 Rosenqvist, Felix (R) D/H/F 00:09.7034  231.877 14
+33 23 Kimball, Charlie D/C/F 00:09.7087  231.751 3
+34 77 Servia, Oriol D/H/F 00:09.7094  231.734 2
+35 5T Hinchcliffe, James D/H/F 00:09.7327  231.179 13
+36 59 Chilton, Max D/C/F 00:09.7372  231.073 7
+37 32 Kaiser, Kyle D/C/F 00:09.7663  230.384 1
+Section:  T2 to T3 Length:  0.625000 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 12 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 13 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 63 Jones, Ed D/C/F 00:09.7542  230.670 1
+2 22 Pagenaud, Simon D/C/F 00:09.7987  229.622 1
+3 12 Power, Will D/C/F 00:09.8229  229.057 4
+4 21 Pigot, Spencer D/C/F 00:09.8286  228.924 1
+5 27 Rossi, Alexander D/H/F 00:09.8336  228.807 7
+6 98 Andretti, Marco D/H/F 00:09.8394  228.672 11
+7 25 Daly, Conor D/H/F 00:09.8443  228.559 7
+8 18 Bourdais, Sebastien D/H/F 00:09.8509  228.406 1
+9 9 Dixon, Scott D/H/F 00:09.8537  228.341 7
+10 33 Davison, James D/H/F 00:09.8590  228.218 1
+11 88 Herta, Colton (R) D/H/F 00:09.8610  228.172 1
+12 20 Carpenter, Ed D/C/F 00:09.8629  228.128 1
+13 2 Newgarden, Josef D/C/F 00:09.8669  228.035 0
+14 3 Castroneves, Helio D/C/F 00:09.8831  227.661 7
+15 3 Castroneves, Helio D/C/F 00:09.8831  227.661 1
+16 15 Rahal, Graham D/H/F 00:09.8880  227.549 7
+17 30 Sato, Takuma D/H/F 00:09.8907  227.486 1
+18 48 Hildebrand, JR D/C/F 00:09.8943  227.404 1
+19 31 O'Ward, Patricio (R) D/C/F 00:09.8965  227.353 7
+20 10 Rosenqvist, Felix (R) D/H/F 00:09.8979  227.321 7
+21 7 Ericsson, Marcus (R) D/H/F 00:09.9023  227.220 1
+22 4 Leist, Matheus D/C/F 00:09.9035  227.192 7
+23 60 Harvey, Jack D/H/F 00:09.9078  227.094 1
+24 26 Veach, Zach D/H/F 00:09.9085  227.078 1
+25 81 Hanley, Ben (R) D/C/F 00:09.9094  227.057 13
+26 24 Karam, Sage D/C/F 00:09.9149  226.931 19
+27 28 Hunter-Reay, Ryan D/H/F 00:09.9153  226.922 1
+28 66 Alonso, Fernando D/C/F 00:09.9207  226.799 7
+29 39 Mann, Pippa D/C/F 00:09.9234  226.737 1
+30 77 Servia, Oriol D/H/F 00:09.9241  226.721 1
+31 19 Ferrucci, Santino (R) D/H/F 00:09.9261  226.675 1
+32 59 Chilton, Max D/C/F 00:09.9347  226.479 7
+33 23 Kimball, Charlie D/C/F 00:09.9465  226.210 3
+34 42 King, Jordan (R) D/H/F 00:09.9472  226.194 15
+35 14 Kanaan, Tony D/C/F 00:09.9475  226.187 1
+36 5T Hinchcliffe, James D/H/F 00:09.9564  225.985 9
+37 32 Kaiser, Kyle D/C/F 00:09.9629  225.838 0
+38 5 Hinchcliffe, James D/H/F 00:09.9657  225.774 0
+Section:  T3 to T4 Length:  0.625000 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 13 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 14 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 21 Pigot, Spencer D/C/F 00:06.8373  230.554 0
+2 2 Newgarden, Josef D/C/F 00:06.8426  230.375 0
+3 63 Jones, Ed D/C/F 00:06.8521  230.056 0
+4 12 Power, Will D/C/F 00:06.8571  229.888 2
+5 22 Pagenaud, Simon D/C/F 00:06.8579  229.861 0
+6 20 Carpenter, Ed D/C/F 00:06.8644  229.643 0
+7 18 Bourdais, Sebastien D/H/F 00:06.8647  229.633 1
+8 98 Andretti, Marco D/H/F 00:06.8670  229.556 1
+9 27 Rossi, Alexander D/H/F 00:06.8782  229.183 1
+10 48 Hildebrand, JR D/C/F 00:06.8798  229.129 0
+11 14 Kanaan, Tony D/C/F 00:06.8855  228.940 0
+12 7 Ericsson, Marcus (R) D/H/F 00:06.8890  228.823 0
+13 3 Castroneves, Helio D/C/F 00:06.8907  228.767 0
+14 88 Herta, Colton (R) D/H/F 00:06.8910  228.757 1
+15 33 Davison, James D/H/F 00:06.8911  228.754 1
+16 66 Alonso, Fernando D/C/F 00:06.8928  228.697 6
+17 23 Kimball, Charlie D/C/F 00:06.8935  228.674 0
+18 15 Rahal, Graham D/H/F 00:06.8969  228.561 12
+19 77 Servia, Oriol D/H/F 00:06.8994  228.478 1
+20 60 Harvey, Jack D/H/F 00:06.9041  228.323 0
+21 25 Daly, Conor D/H/F 00:06.9052  228.286 0
+22 9 Dixon, Scott D/H/F 00:06.9077  228.204 0
+23 24 Karam, Sage D/C/F 00:06.9080  228.194 0
+24 30 Sato, Takuma D/H/F 00:06.9141  227.993 0
+25 28 Hunter-Reay, Ryan D/H/F 00:06.9191  227.828 0
+26 5 Hinchcliffe, James D/H/F 00:06.9209  227.769 0
+27 26 Veach, Zach D/H/F 00:06.9214  227.752 0
+28 42 King, Jordan (R) D/H/F 00:06.9218  227.739 2
+29 32 Kaiser, Kyle D/C/F 00:06.9280  227.535 0
+30 4 Leist, Matheus D/C/F 00:06.9301  227.466 1
+31 10 Rosenqvist, Felix (R) D/H/F 00:06.9304  227.456 6
+32 31 O'Ward, Patricio (R) D/C/F 00:06.9322  227.397 0
+33 39 Mann, Pippa D/C/F 00:06.9378  227.214 0
+34 19 Ferrucci, Santino (R) D/H/F 00:06.9398  227.148 0
+35 81 Hanley, Ben (R) D/C/F 00:06.9458  226.952 7
+36 59 Chilton, Max D/C/F 00:06.9461  226.942 0
+37 5T Hinchcliffe, James D/H/F 00:06.9542  226.678 12
+Section:  T4 to SF Length:  0.437879 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 14 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 15 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 21 Pigot, Spencer D/C/F 00:00.3489  234.503 1
+2 2 Newgarden, Josef D/C/F 00:00.3500  233.766 1
+3 4 Leist, Matheus D/C/F 00:00.3506  233.366 1
+4 24 Karam, Sage D/C/F 00:00.3507  233.300 1
+5 22 Pagenaud, Simon D/C/F 00:00.3507  233.300 1
+6 98 Andretti, Marco D/H/F 00:00.3508  233.233 3
+7 12 Power, Will D/C/F 00:00.3511  233.034 3
+8 3 Castroneves, Helio D/C/F 00:00.3512  232.967 1
+9 20 Carpenter, Ed D/C/F 00:00.3512  232.967 1
+10 77 Servia, Oriol D/H/F 00:00.3516  232.702 3
+11 15 Rahal, Graham D/H/F 00:00.3517  232.636 3
+12 18 Bourdais, Sebastien D/H/F 00:00.3519  232.504 3
+13 63 Jones, Ed D/C/F 00:00.3520  232.438 1
+14 23 Kimball, Charlie D/C/F 00:00.3520  232.438 1
+15 48 Hildebrand, JR D/C/F 00:00.3520  232.438 1
+16 25 Daly, Conor D/H/F 00:00.3523  232.240 7
+17 88 Herta, Colton (R) D/H/F 00:00.3523  232.240 2
+18 27 Rossi, Alexander D/H/F 00:00.3524  232.174 2
+19 14 Kanaan, Tony D/C/F 00:00.3527  231.977 1
+20 28 Hunter-Reay, Ryan D/H/F 00:00.3527  231.977 4
+21 9 Dixon, Scott D/H/F 00:00.3529  231.845 1
+22 60 Harvey, Jack D/H/F 00:00.3532  231.648 2
+23 30 Sato, Takuma D/H/F 00:00.3534  231.517 1
+24 19 Ferrucci, Santino (R) D/H/F 00:00.3535  231.452 1
+25 39 Mann, Pippa D/C/F 00:00.3535  231.452 1
+26 42 King, Jordan (R) D/H/F 00:00.3535  231.452 3
+27 81 Hanley, Ben (R) D/C/F 00:00.3536  231.386 8
+28 7 Ericsson, Marcus (R) D/H/F 00:00.3536  231.386 4
+29 32 Kaiser, Kyle D/C/F 00:00.3538  231.255 1
+30 26 Veach, Zach D/H/F 00:00.3538  231.255 7
+31 5 Hinchcliffe, James D/H/F 00:00.3538  231.255 1
+32 33 Davison, James D/H/F 00:00.3540  231.125 2
+33 5T Hinchcliffe, James D/H/F 00:00.3546  230.734 16
+34 66 Alonso, Fernando D/C/F 00:00.3547  230.669 14
+35 10 Rosenqvist, Felix (R) D/H/F 00:00.3551  230.409 7
+36 31 O'Ward, Patricio (R) D/C/F 00:00.3551  230.409 1
+37 59 Chilton, Max D/C/F 00:00.3559  229.891 4
+Section:  T1T to T1 Length:  0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 15 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 16 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 63 Jones, Ed D/C/F 00:00.3503  233.566 1
+2 21 Pigot, Spencer D/C/F 00:00.3504  233.499 1
+3 22 Pagenaud, Simon D/C/F 00:00.3506  233.366 1
+4 88 Herta, Colton (R) D/H/F 00:00.3509  233.167 7
+5 3 Castroneves, Helio D/C/F 00:00.3509  233.167 1
+6 12 Power, Will D/C/F 00:00.3510  233.100 1
+7 2 Newgarden, Josef D/C/F 00:00.3513  232.901 1
+8 20 Carpenter, Ed D/C/F 00:00.3513  232.901 1
+9 98 Andretti, Marco D/H/F 00:00.3515  232.769 1
+10 28 Hunter-Reay, Ryan D/H/F 00:00.3523  232.240 1
+11 27 Rossi, Alexander D/H/F 00:00.3524  232.174 1
+12 33 Davison, James D/H/F 00:00.3524  232.174 1
+13 25 Daly, Conor D/H/F 00:00.3524  232.174 7
+14 18 Bourdais, Sebastien D/H/F 00:00.3525  232.108 1
+15 19 Ferrucci, Santino (R) D/H/F 00:00.3525  232.108 1
+16 30 Sato, Takuma D/H/F 00:00.3526  232.042 1
+17 39 Mann, Pippa D/C/F 00:00.3528  231.911 1
+18 7 Ericsson, Marcus (R) D/H/F 00:00.3530  231.780 1
+19 14 Kanaan, Tony D/C/F 00:00.3531  231.714 1
+20 60 Harvey, Jack D/H/F 00:00.3534  231.517 1
+21 42 King, Jordan (R) D/H/F 00:00.3534  231.517 15
+22 77 Servia, Oriol D/H/F 00:00.3535  231.452 1
+23 26 Veach, Zach D/H/F 00:00.3537  231.321 7
+24 9 Dixon, Scott D/H/F 00:00.3538  231.255 2
+25 15 Rahal, Graham D/H/F 00:00.3539  231.190 13
+26 31 O'Ward, Patricio (R) D/C/F 00:00.3539  231.190 13
+27 48 Hildebrand, JR D/C/F 00:00.3539  231.190 1
+28 81 Hanley, Ben (R) D/C/F 00:00.3543  230.929 13
+29 5 Hinchcliffe, James D/H/F 00:00.3543  230.929 1
+30 66 Alonso, Fernando D/C/F 00:00.3547  230.669 7
+31 4 Leist, Matheus D/C/F 00:00.3548  230.604 7
+32 10 Rosenqvist, Felix (R) D/H/F 00:00.3550  230.474 7
+33 59 Chilton, Max D/C/F 00:00.3551  230.409 7
+34 5T Hinchcliffe, James D/H/F 00:00.3556  230.085 13
+35 24 Karam, Sage D/C/F 00:00.3563  229.633 25
+36 23 Kimball, Charlie D/C/F 00:00.3565  229.504 2
+37 32 Kaiser, Kyle D/C/F 00:00.3572  229.054 1
+Section:  T2T to T2 Length:  0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 16 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 17 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 63 Jones, Ed D/C/F 00:00.3412  239.795 1
+2 22 Pagenaud, Simon D/C/F 00:00.3430  238.537 4
+3 12 Power, Will D/C/F 00:00.3433  238.329 3
+4 2 Newgarden, Josef D/C/F 00:00.3434  238.259 3
+5 9 Dixon, Scott D/H/F 00:00.3438  237.982 8
+6 21 Pigot, Spencer D/C/F 00:00.3442  237.705 1
+7 3 Castroneves, Helio D/C/F 00:00.3443  237.636 10
+8 24 Karam, Sage D/C/F 00:00.3444  237.567 7
+9 98 Andretti, Marco D/H/F 00:00.3445  237.498 12
+10 48 Hildebrand, JR D/C/F 00:00.3446  237.429 1
+11 27 Rossi, Alexander D/H/F 00:00.3449  237.223 8
+12 88 Herta, Colton (R) D/H/F 00:00.3449  237.223 7
+13 33 Davison, James D/H/F 00:00.3450  237.154 1
+14 25 Daly, Conor D/H/F 00:00.3450  237.154 10
+15 20 Carpenter, Ed D/C/F 00:00.3456  236.742 3
+16 66 Alonso, Fernando D/C/F 00:00.3456  236.742 7
+17 7 Ericsson, Marcus (R) D/H/F 00:00.3459  236.537 1
+18 30 Sato, Takuma D/H/F 00:00.3460  236.469 4
+19 39 Mann, Pippa D/C/F 00:00.3462  236.332 1
+20 23 Kimball, Charlie D/C/F 00:00.3463  236.264 4
+21 81 Hanley, Ben (R) D/C/F 00:00.3463  236.264 13
+22 5 Hinchcliffe, James D/H/F 00:00.3467  235.991 1
+23 60 Harvey, Jack D/H/F 00:00.3467  235.991 1
+24 10 Rosenqvist, Felix (R) D/H/F 00:00.3467  235.991 7
+25 18 Bourdais, Sebastien D/H/F 00:00.3467  235.991 2
+26 4 Leist, Matheus D/C/F 00:00.3468  235.923 7
+27 19 Ferrucci, Santino (R) D/H/F 00:00.3469  235.855 1
+28 26 Veach, Zach D/H/F 00:00.3470  235.787 1
+29 15 Rahal, Graham D/H/F 00:00.3470  235.787 16
+30 15 Rahal, Graham D/H/F 00:00.3470  235.787 8
+31 5T Hinchcliffe, James D/H/F 00:00.3470  235.787 9
+32 28 Hunter-Reay, Ryan D/H/F 00:00.3470  235.787 4
+33 31 O'Ward, Patricio (R) D/C/F 00:00.3473  235.584 7
+34 14 Kanaan, Tony D/C/F 00:00.3473  235.584 1
+35 77 Servia, Oriol D/H/F 00:00.3477  235.313 2
+36 42 King, Jordan (R) D/H/F 00:00.3477  235.313 17
+37 42 King, Jordan (R) D/H/F 00:00.3477  235.313 4
+38 59 Chilton, Max D/C/F 00:00.3478  235.245 8
+39 32 Kaiser, Kyle D/C/F 00:00.3481  235.042 2
+Section:  T3T to T3 Length:  0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 17 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 18 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 22 Pagenaud, Simon D/C/F 00:00.3519  232.504 0
+2 63 Jones, Ed D/C/F 00:00.3520  232.438 0
+3 2 Newgarden, Josef D/C/F 00:00.3532  231.648 0
+4 21 Pigot, Spencer D/C/F 00:00.3533  231.583 0
+5 20 Carpenter, Ed D/C/F 00:00.3539  231.190 0
+6 18 Bourdais, Sebastien D/H/F 00:00.3539  231.190 1
+7 88 Herta, Colton (R) D/H/F 00:00.3540  231.125 8
+8 98 Andretti, Marco D/H/F 00:00.3541  231.060 1
+9 12 Power, Will D/C/F 00:00.3544  230.864 2
+10 33 Davison, James D/H/F 00:00.3548  230.604 1
+11 27 Rossi, Alexander D/H/F 00:00.3549  230.539 7
+12 27 Rossi, Alexander D/H/F 00:00.3549  230.539 1
+13 3 Castroneves, Helio D/C/F 00:00.3549  230.539 6
+14 66 Alonso, Fernando D/C/F 00:00.3553  230.279 6
+15 60 Harvey, Jack D/H/F 00:00.3555  230.150 0
+16 25 Daly, Conor D/H/F 00:00.3557  230.020 7
+17 25 Daly, Conor D/H/F 00:00.3557  230.020 6
+18 48 Hildebrand, JR D/C/F 00:00.3558  229.956 0
+19 9 Dixon, Scott D/H/F 00:00.3559  229.891 6
+20 28 Hunter-Reay, Ryan D/H/F 00:00.3560  229.826 0
+21 30 Sato, Takuma D/H/F 00:00.3561  229.762 0
+22 26 Veach, Zach D/H/F 00:00.3562  229.697 0
+23 23 Kimball, Charlie D/C/F 00:00.3563  229.633 3
+24 15 Rahal, Graham D/H/F 00:00.3563  229.633 12
+25 19 Ferrucci, Santino (R) D/H/F 00:00.3569  229.247 0
+26 7 Ericsson, Marcus (R) D/H/F 00:00.3569  229.247 0
+27 14 Kanaan, Tony D/C/F 00:00.3570  229.183 0
+28 31 O'Ward, Patricio (R) D/C/F 00:00.3571  229.118 7
+29 77 Servia, Oriol D/H/F 00:00.3572  229.054 1
+30 10 Rosenqvist, Felix (R) D/H/F 00:00.3573  228.990 7
+31 5T Hinchcliffe, James D/H/F 00:00.3577  228.734 12
+32 81 Hanley, Ben (R) D/C/F 00:00.3578  228.670 0
+33 4 Leist, Matheus D/C/F 00:00.3578  228.670 2
+34 24 Karam, Sage D/C/F 00:00.3582  228.415 18
+35 39 Mann, Pippa D/C/F 00:00.3582  228.415 0
+36 59 Chilton, Max D/C/F 00:00.3584  228.287 1
+37 5 Hinchcliffe, James D/H/F 00:00.3588  228.033 0
+38 42 King, Jordan (R) D/H/F 00:00.3589  227.969 0
+39 32 Kaiser, Kyle D/C/F 00:00.3589  227.969 0
+Section:  T4T to T4 Length:  0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 18 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 19 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 2 Newgarden, Josef D/C/F 00:00.4791  234.104 1
+2 48 Hildebrand, JR D/C/F 00:00.4813  233.034 1
+3 12 Power, Will D/C/F 00:00.4816  232.888 3
+4 88 Herta, Colton (R) D/H/F 00:00.4826  232.406 2
+5 23 Kimball, Charlie D/C/F 00:00.4830  232.213 1
+6 21 Pigot, Spencer D/C/F 00:00.4831  232.165 1
+7 98 Andretti, Marco D/H/F 00:00.4832  232.117 1
+8 18 Bourdais, Sebastien D/H/F 00:00.4846  231.447 2
+9 15 Rahal, Graham D/H/F 00:00.4848  231.351 5
+10 24 Karam, Sage D/C/F 00:00.4851  231.208 1
+11 20 Carpenter, Ed D/C/F 00:00.4852  231.161 1
+12 32 Kaiser, Kyle D/C/F 00:00.4852  231.161 1
+13 22 Pagenaud, Simon D/C/F 00:00.4853  231.113 1
+14 14 Kanaan, Tony D/C/F 00:00.4853  231.113 2
+15 3 Castroneves, Helio D/C/F 00:00.4853  231.113 2
+16 28 Hunter-Reay, Ryan D/H/F 00:00.4856  230.970 2
+17 63 Jones, Ed D/C/F 00:00.4857  230.923 1
+18 26 Veach, Zach D/H/F 00:00.4858  230.875 1
+19 27 Rossi, Alexander D/H/F 00:00.4859  230.828 3
+20 27 Rossi, Alexander D/H/F 00:00.4859  230.828 2
+21 31 O'Ward, Patricio (R) D/C/F 00:00.4861  230.733 1
+22 42 King, Jordan (R) D/H/F 00:00.4863  230.638 9
+23 66 Alonso, Fernando D/C/F 00:00.4863  230.638 7
+24 9 Dixon, Scott D/H/F 00:00.4864  230.590 3
+25 77 Servia, Oriol D/H/F 00:00.4867  230.448 2
+26 7 Ericsson, Marcus (R) D/H/F 00:00.4867  230.448 1
+27 33 Davison, James D/H/F 00:00.4868  230.401 2
+28 5 Hinchcliffe, James D/H/F 00:00.4876  230.023 1
+29 4 Leist, Matheus D/C/F 00:00.4877  229.976 3
+30 25 Daly, Conor D/H/F 00:00.4878  229.928 2
+31 39 Mann, Pippa D/C/F 00:00.4879  229.881 1
+32 10 Rosenqvist, Felix (R) D/H/F 00:00.4880  229.834 1
+33 5T Hinchcliffe, James D/H/F 00:00.4880  229.834 7
+34 19 Ferrucci, Santino (R) D/H/F 00:00.4885  229.599 2
+35 81 Hanley, Ben (R) D/C/F 00:00.4886  229.552 14
+36 60 Harvey, Jack D/H/F 00:00.4888  229.458 1
+37 30 Sato, Takuma D/H/F 00:00.4890  229.364 4
+38 59 Chilton, Max D/C/F 00:00.4908  228.523 1
+Section:  SF to SFT Length:  0.031155 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 19 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 20 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 66 Alonso, Fernando D/C/F 00:06.8197  139.969 5
+2 27 Rossi, Alexander D/H/F 00:06.9820  136.715 11
+3 24 Karam, Sage D/C/F 00:07.5885  125.788 5
+4 42 King, Jordan (R) D/H/F 00:07.8002  122.374 13
+5 2 Newgarden, Josef D/C/F 00:07.8787  121.155 5
+6 59 Chilton, Max D/C/F 00:07.9024  120.792 17
+7 39 Mann, Pippa D/C/F 00:08.0318  118.846 5
+8 3 Castroneves, Helio D/C/F 00:08.0587  118.449 11
+9 81 Hanley, Ben (R) D/C/F 00:08.1398  117.269 11
+10 63 Jones, Ed D/C/F 00:08.2985  115.026 5
+11 21 Pigot, Spencer D/C/F 00:08.3329  114.551 5
+12 48 Hildebrand, JR D/C/F 00:08.3948  113.707 17
+13 28 Hunter-Reay, Ryan D/H/F 00:08.4243  113.309 5
+14 31 O'Ward, Patricio (R) D/C/F 00:08.5079  112.195 5
+15 25 Daly, Conor D/H/F 00:08.5824  111.221 5
+16 20 Carpenter, Ed D/C/F 00:08.6121  110.838 5
+17 60 Harvey, Jack D/H/F 00:08.6185  110.755 5
+18 33 Davison, James D/H/F 00:08.7525  109.060 5
+19 22 Pagenaud, Simon D/C/F 00:08.7720  108.817 5
+20 98 Andretti, Marco D/H/F 00:08.8708  107.605 14
+21 14 Kanaan, Tony D/C/F 00:08.9518  106.632 5
+22 15 Rahal, Graham D/H/F 00:08.9681  106.438 17
+23 18 Bourdais, Sebastien D/H/F 00:09.0327  105.677 5
+24 5T Hinchcliffe, James D/H/F 00:09.3716  101.855 17
+25 88 Herta, Colton (R) D/H/F 00:09.4500  101.010 11
+26 23 Kimball, Charlie D/C/F 00:09.5202  100.265 5
+27 7 Ericsson, Marcus (R) D/H/F 00:09.5887   99.549 5
+28 9 Dixon, Scott D/H/F 00:09.5892   99.544 11
+29 30 Sato, Takuma D/H/F 00:09.7107   98.298 5
+30 12 Power, Will D/C/F 00:09.9069   96.352 5
+31 32 Kaiser, Kyle D/C/F 00:09.9770   95.675 5
+32 10 Rosenqvist, Felix (R) D/H/F 00:10.8681   87.830 5
+Section:  PT3 to PSS2 Length:  0.265152 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 20 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 21 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 27 Rossi, Alexander D/H/F 00:07.5780  125.963 11
+2 66 Alonso, Fernando D/C/F 00:07.7449  123.248 5
+3 24 Karam, Sage D/C/F 00:07.9147  120.604 23
+4 3 Castroneves, Helio D/C/F 00:08.0299  118.874 5
+5 63 Jones, Ed D/C/F 00:08.1217  117.530 5
+6 59 Chilton, Max D/C/F 00:08.2193  116.135 17
+7 60 Harvey, Jack D/H/F 00:08.5136  112.120 5
+8 2 Newgarden, Josef D/C/F 00:08.7377  109.244 5
+9 42 King, Jordan (R) D/H/F 00:08.7812  108.703 13
+10 48 Hildebrand, JR D/C/F 00:08.7847  108.660 17
+11 31 O'Ward, Patricio (R) D/C/F 00:08.9054  107.187 5
+12 21 Pigot, Spencer D/C/F 00:08.9390  106.784 5
+13 22 Pagenaud, Simon D/C/F 00:09.0026  106.030 5
+14 81 Hanley, Ben (R) D/C/F 00:09.0160  105.872 11
+15 98 Andretti, Marco D/H/F 00:09.1117  104.760 9
+16 20 Carpenter, Ed D/C/F 00:09.1309  104.540 5
+17 33 Davison, James D/H/F 00:09.1579  104.232 5
+18 28 Hunter-Reay, Ryan D/H/F 00:09.2562  103.125 5
+19 25 Daly, Conor D/H/F 00:09.2839  102.817 5
+20 39 Mann, Pippa D/C/F 00:09.3471  102.122 5
+21 14 Kanaan, Tony D/C/F 00:09.4628  100.873 5
+22 15 Rahal, Graham D/H/F 00:09.6941   98.467 5
+23 7 Ericsson, Marcus (R) D/H/F 00:09.7672   97.730 5
+24 30 Sato, Takuma D/H/F 00:09.8644   96.767 5
+25 9 Dixon, Scott D/H/F 00:10.0468   95.010 11
+26 88 Herta, Colton (R) D/H/F 00:10.3252   92.448 11
+27 18 Bourdais, Sebastien D/H/F 00:10.4251   91.562 5
+28 12 Power, Will D/C/F 00:10.4344   91.481 5
+29 5T Hinchcliffe, James D/H/F 00:10.9240   87.381 17
+30 32 Kaiser, Kyle D/C/F 00:11.0041   86.745 5
+31 23 Kimball, Charlie D/C/F 00:11.0707   86.223 5
+32 10 Rosenqvist, Felix (R) D/H/F 00:12.6899   75.221 5
+Section:  PSS2 to PT4 Length:  0.265152 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 21 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 22 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 3 Castroneves, Helio D/C/F 00:06.3397  104.321 5
+2 59 Chilton, Max D/C/F 00:06.6512   99.435 17
+3 63 Jones, Ed D/C/F 00:06.8054   97.182 5
+4 21 Pigot, Spencer D/C/F 00:06.8079   97.146 5
+5 9 Dixon, Scott D/H/F 00:06.9189   95.588 11
+6 14 Kanaan, Tony D/C/F 00:07.2294   91.483 5
+7 24 Karam, Sage D/C/F 00:07.4429   88.858 17
+8 48 Hildebrand, JR D/C/F 00:07.4902   88.297 17
+9 33 Davison, James D/H/F 00:07.5359   87.762 5
+10 27 Rossi, Alexander D/H/F 00:07.6481   86.474 11
+11 31 O'Ward, Patricio (R) D/C/F 00:07.6667   86.264 11
+12 22 Pagenaud, Simon D/C/F 00:07.6901   86.002 5
+13 20 Carpenter, Ed D/C/F 00:07.8676   84.062 5
+14 15 Rahal, Graham D/H/F 00:07.9097   83.614 5
+15 66 Alonso, Fernando D/C/F 00:07.9544   83.144 5
+16 98 Andretti, Marco D/H/F 00:07.9737   82.943 9
+17 88 Herta, Colton (R) D/H/F 00:08.0069   82.599 5
+18 81 Hanley, Ben (R) D/C/F 00:08.0239   82.424 17
+19 60 Harvey, Jack D/H/F 00:08.1769   80.882 5
+20 18 Bourdais, Sebastien D/H/F 00:08.3500   79.205 5
+21 42 King, Jordan (R) D/H/F 00:08.3705   79.011 13
+22 30 Sato, Takuma D/H/F 00:08.4938   77.864 5
+23 23 Kimball, Charlie D/C/F 00:08.5727   77.148 5
+24 2 Newgarden, Josef D/C/F 00:08.5912   76.982 5
+25 28 Hunter-Reay, Ryan D/H/F 00:08.7088   75.942 5
+26 12 Power, Will D/C/F 00:08.8652   74.602 5
+27 25 Daly, Conor D/H/F 00:09.0000   73.485 11
+28 32 Kaiser, Kyle D/C/F 00:09.1065   72.625 5
+29 7 Ericsson, Marcus (R) D/H/F 00:09.1417   72.346 5
+30 5T Hinchcliffe, James D/H/F 00:09.3854   70.467 17
+31 39 Mann, Pippa D/C/F 00:09.4765   69.790 5
+32 10 Rosenqvist, Felix (R) D/H/F 00:09.7603   67.761 5
+Section:  PT4 to PI Length:  0.183712 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 22 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 23 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 27 Rossi, Alexander D/H/F 07:18.4709    0.107 5
+2 42 King, Jordan (R) D/H/F 11:24.5240    2.324 1
+3 32 Kaiser, Kyle D/C/F 12:53.3120    0.364 10
+4 81 Hanley, Ben (R) D/C/F 15:20.0771    0.196 11
+5 66 Alonso, Fernando D/C/F 18:42.8319    1.417 16
+6 3 Castroneves, Helio D/C/F 19:21.2170    0.133 5
+7 4 Leist, Matheus D/C/F 20:38.9212    0.329 5
+8 10 Rosenqvist, Felix (R) D/H/F 22:30.1298    0.321 5
+9 88 Herta, Colton (R) D/H/F 25:19.2813    0.182 5
+10 31 O'Ward, Patricio (R) D/C/F 25:30.8447    1.039 11
+11 24 Karam, Sage D/C/F 31:27.7011    0.843 23
+12 48 Hildebrand, JR D/C/F 35:40.3745    0.743 5
+13 98 Andretti, Marco D/H/F 36:41.2961    0.274 9
+14 5T Hinchcliffe, James D/H/F 38:27.0415    0.690 11
+15 26 Veach, Zach D/H/F 42:57.4508    0.258 5
+16 15 Rahal, Graham D/H/F 43:53.4673    0.255 11
+17 59 Chilton, Max D/C/F 44:43.5030    0.593 11
+18 25 Daly, Conor D/H/F 47:15.2034    0.092 5
+19 9 Dixon, Scott D/H/F 52:18.6801    0.236 5
+Section:  PI to PO Length:  0.441951 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 23 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 24 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 88 Herta, Colton (R) D/H/F 00:45.2086  184.177 5
+2 42 King, Jordan (R) D/H/F 00:46.5271  178.957 0
+3 10 Rosenqvist, Felix (R) D/H/F 00:46.7726  178.018 0
+4 5T Hinchcliffe, James D/H/F 00:47.0717  176.887 5
+5 27 Rossi, Alexander D/H/F 00:47.1287  176.673 5
+6 5 Hinchcliffe, James D/H/F 00:47.4975  175.301 0
+7 28 Hunter-Reay, Ryan D/H/F 00:47.5538  175.094 0
+8 15 Rahal, Graham D/H/F 00:47.7901  174.228 11
+9 21 Pigot, Spencer D/C/F 00:47.8247  174.102 0
+10 25 Daly, Conor D/H/F 00:47.8305  174.081 0
+11 26 Veach, Zach D/H/F 00:47.8903  173.863 5
+12 77 Servia, Oriol D/H/F 00:48.0617  173.243 0
+13 2 Newgarden, Josef D/C/F 00:48.1091  173.073 0
+14 9 Dixon, Scott D/H/F 00:48.1235  173.021 0
+15 32 Kaiser, Kyle D/C/F 00:48.1360  172.976 5
+16 48 Hildebrand, JR D/C/F 00:48.1371  172.972 11
+17 7 Ericsson, Marcus (R) D/H/F 00:48.2259  172.653 0
+18 81 Hanley, Ben (R) D/C/F 00:48.2894  172.426 11
+19 98 Andretti, Marco D/H/F 00:48.3266  172.294 9
+20 23 Kimball, Charlie D/C/F 00:48.4037  172.019 0
+21 3 Castroneves, Helio D/C/F 00:48.5108  171.639 5
+22 59 Chilton, Max D/C/F 00:48.5586  171.470 11
+23 22 Pagenaud, Simon D/C/F 00:48.5849  171.378 0
+24 66 Alonso, Fernando D/C/F 00:48.6873  171.017 0
+25 31 O'Ward, Patricio (R) D/C/F 00:48.6881  171.014 5
+26 24 Karam, Sage D/C/F 00:48.7159  170.917 0
+27 19 Ferrucci, Santino (R) D/H/F 00:48.8470  170.458 0
+28 60 Harvey, Jack D/H/F 00:49.0223  169.848 0
+29 12 Power, Will D/C/F 00:49.3298  168.790 0
+30 33 Davison, James D/H/F 00:49.4049  168.533 0
+31 30 Sato, Takuma D/H/F 00:49.4765  168.289 0
+32 4 Leist, Matheus D/C/F 00:49.4851  168.260 0
+33 18 Bourdais, Sebastien D/H/F 00:49.5660  167.985 0
+34 63 Jones, Ed D/C/F 00:49.6260  167.782 0
+35 14 Kanaan, Tony D/C/F 00:49.6490  167.705 0
+36 39 Mann, Pippa D/C/F 00:51.3138  162.264 0
+37 20 Carpenter, Ed D/C/F 00:51.5038  161.665 0
+Section:  PO to SF Length:  2.312879 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 24 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 25 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 32 Kaiser, Kyle D/C/F 00:41.1469  196.491 10
+2 26 Veach, Zach D/H/F 00:44.8831  180.135 11
+3 59 Chilton, Max D/C/F 00:46.3213  174.542 11
+4 88 Herta, Colton (R) D/H/F 00:47.7990  169.146 5
+5 98 Andretti, Marco D/H/F 00:48.5603  166.494 5
+6 66 Alonso, Fernando D/C/F 00:48.9512  165.164 5
+7 19 Ferrucci, Santino (R) D/H/F 00:49.4200  163.598 5
+8 77 Servia, Oriol D/H/F 00:49.8668  162.132 5
+9 27 Rossi, Alexander D/H/F 00:50.0237  161.623 11
+10 4 Leist, Matheus D/C/F 00:50.0257  161.617 11
+11 3 Castroneves, Helio D/C/F 00:50.4923  160.123 5
+12 2 Newgarden, Josef D/C/F 00:52.2015  154.881 5
+13 24 Karam, Sage D/C/F 00:52.5220  153.935 5
+14 42 King, Jordan (R) D/H/F 00:52.6991  153.418 13
+15 48 Hildebrand, JR D/C/F 00:53.4661  151.217 17
+16 63 Jones, Ed D/C/F 00:53.6154  150.796 5
+17 20 Carpenter, Ed D/C/F 00:53.7341  150.463 5
+18 21 Pigot, Spencer D/C/F 00:53.7370  150.455 5
+19 33 Davison, James D/H/F 00:54.0281  149.644 5
+20 39 Mann, Pippa D/C/F 00:54.5300  148.267 5
+21 81 Hanley, Ben (R) D/C/F 00:55.0567  146.849 11
+22 22 Pagenaud, Simon D/C/F 00:55.4840  145.718 5
+23 60 Harvey, Jack D/H/F 00:55.5112  145.646 5
+24 28 Hunter-Reay, Ryan D/H/F 00:55.6328  145.328 5
+25 14 Kanaan, Tony D/C/F 00:56.9708  141.915 5
+26 25 Daly, Conor D/H/F 00:57.1695  141.422 5
+27 15 Rahal, Graham D/H/F 00:57.3362  141.010 5
+28 18 Bourdais, Sebastien D/H/F 00:57.4580  140.711 5
+29 31 O'Ward, Patricio (R) D/C/F 00:57.5220  140.555 5
+30 9 Dixon, Scott D/H/F 00:58.8772  137.320 5
+31 23 Kimball, Charlie D/C/F 00:59.7877  135.228 5
+32 5T Hinchcliffe, James D/H/F 01:00.2912  134.099 17
+33 7 Ericsson, Marcus (R) D/H/F 01:00.4977  133.641 5
+34 30 Sato, Takuma D/H/F 01:01.5852  131.282 5
+35 12 Power, Will D/C/F 01:02.0373  130.325 5
+36 10 Rosenqvist, Felix (R) D/H/F 01:04.3149  125.710 5
+Section:  SF to PI Length:  2.245833 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 25 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 26 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 88 Herta, Colton (R) D/H/F 00:20.9086  161.417 5
+2 42 King, Jordan (R) D/H/F 00:21.9322  153.883 0
+3 10 Rosenqvist, Felix (R) D/H/F 00:22.2357  151.783 0
+4 5T Hinchcliffe, James D/H/F 00:22.3527  150.988 5
+5 27 Rossi, Alexander D/H/F 00:22.5200  149.867 5
+6 5 Hinchcliffe, James D/H/F 00:22.6830  148.790 0
+7 28 Hunter-Reay, Ryan D/H/F 00:22.6876  148.760 0
+8 25 Daly, Conor D/H/F 00:22.9016  147.370 0
+9 26 Veach, Zach D/H/F 00:22.9369  147.143 5
+10 15 Rahal, Graham D/H/F 00:23.0622  146.343 11
+11 21 Pigot, Spencer D/C/F 00:23.1404  145.849 0
+12 23 Kimball, Charlie D/C/F 00:23.2056  145.439 0
+13 48 Hildebrand, JR D/C/F 00:23.2171  145.367 11
+14 7 Ericsson, Marcus (R) D/H/F 00:23.2818  144.963 0
+15 66 Alonso, Fernando D/C/F 00:23.3283  144.674 0
+16 98 Andretti, Marco D/H/F 00:23.3291  144.669 9
+17 32 Kaiser, Kyle D/C/F 00:23.3387  144.610 5
+18 81 Hanley, Ben (R) D/C/F 00:23.3681  144.428 11
+19 2 Newgarden, Josef D/C/F 00:23.3941  144.267 0
+20 77 Servia, Oriol D/H/F 00:23.4169  144.127 0
+21 59 Chilton, Max D/C/F 00:23.4605  143.859 11
+22 18 Bourdais, Sebastien D/H/F 00:23.5135  143.535 0
+23 33 Davison, James D/H/F 00:23.5367  143.393 0
+24 9 Dixon, Scott D/H/F 00:23.5981  143.020 5
+25 19 Ferrucci, Santino (R) D/H/F 00:23.6093  142.952 0
+26 3 Castroneves, Helio D/C/F 00:23.7170  142.303 5
+27 60 Harvey, Jack D/H/F 00:23.7178  142.298 0
+28 24 Karam, Sage D/C/F 00:23.7774  141.942 0
+29 31 O'Ward, Patricio (R) D/C/F 00:23.9164  141.117 5
+30 22 Pagenaud, Simon D/C/F 00:24.0723  140.203 0
+31 30 Sato, Takuma D/H/F 00:24.1798  139.579 0
+32 12 Power, Will D/C/F 00:24.3737  138.469 0
+33 4 Leist, Matheus D/C/F 00:24.5459  137.498 0
+34 14 Kanaan, Tony D/C/F 00:24.5871  137.267 0
+35 63 Jones, Ed D/C/F 00:24.6159  137.107 0
+36 39 Mann, Pippa D/C/F 00:26.0283  129.667 0
+37 20 Carpenter, Ed D/C/F 00:26.3684  127.994 0
+Section:  PO to BS Length:  0.937500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 26 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 27 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 32 Kaiser, Kyle D/C/F 00:23.1601  174.281 10
+2 26 Veach, Zach D/H/F 00:24.0324  167.955 11
+3 59 Chilton, Max D/C/F 00:25.3956  158.939 11
+4 77 Servia, Oriol D/H/F 00:27.2568  148.086 5
+5 98 Andretti, Marco D/H/F 00:27.3576  147.541 5
+6 4 Leist, Matheus D/C/F 00:27.4978  146.789 11
+7 19 Ferrucci, Santino (R) D/H/F 00:27.6184  146.148 5
+8 88 Herta, Colton (R) D/H/F 00:27.7514  145.447 5
+9 66 Alonso, Fernando D/C/F 00:28.5591  141.334 5
+10 27 Rossi, Alexander D/H/F 00:29.0301  139.041 11
+11 3 Castroneves, Helio D/C/F 00:29.5461  136.612 5
+12 24 Karam, Sage D/C/F 00:29.7306  135.765 5
+13 63 Jones, Ed D/C/F 00:30.1872  133.711 5
+14 21 Pigot, Spencer D/C/F 00:31.2830  129.027 5
+15 42 King, Jordan (R) D/H/F 00:31.3242  128.858 13
+16 48 Hildebrand, JR D/C/F 00:31.8770  126.623 17
+17 2 Newgarden, Josef D/C/F 00:31.8875  126.581 5
+18 81 Hanley, Ben (R) D/C/F 00:32.7121  123.391 11
+19 20 Carpenter, Ed D/C/F 00:32.9892  122.354 5
+20 33 Davison, James D/H/F 00:33.0423  122.157 5
+21 60 Harvey, Jack D/H/F 00:33.2091  121.544 5
+22 39 Mann, Pippa D/C/F 00:33.2248  121.486 5
+23 22 Pagenaud, Simon D/C/F 00:33.2826  121.275 5
+24 31 O'Ward, Patricio (R) D/C/F 00:33.3174  121.149 5
+25 14 Kanaan, Tony D/C/F 00:33.5772  120.211 5
+26 28 Hunter-Reay, Ryan D/H/F 00:33.9012  119.063 5
+27 25 Daly, Conor D/H/F 00:34.5053  116.978 5
+28 15 Rahal, Graham D/H/F 00:34.5320  116.888 5
+29 18 Bourdais, Sebastien D/H/F 00:35.1864  114.714 5
+30 9 Dixon, Scott D/H/F 00:35.8596  112.560 11
+31 23 Kimball, Charlie D/C/F 00:36.9612  109.205 5
+32 30 Sato, Takuma D/H/F 00:37.0404  108.972 5
+33 5T Hinchcliffe, James D/H/F 00:37.8346  106.684 17
+34 7 Ericsson, Marcus (R) D/H/F 00:38.2682  105.476 5
+35 12 Power, Will D/C/F 00:38.7973  104.037 5
+36 10 Rosenqvist, Felix (R) D/H/F 00:41.9118   96.306 5
+Section:  BS to PI Length:  1.121212 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 27 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 28 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 42 King, Jordan (R) D/H/F 02:44.9621   44.928 0
+2 98 Andretti, Marco D/H/F 03:46.4804   32.724 5
+3 32 Kaiser, Kyle D/C/F 04:09.9156   29.655 5
+4 66 Alonso, Fernando D/C/F 04:22.1735   28.269 5
+5 26 Veach, Zach D/H/F 04:52.7430   25.317 5
+6 88 Herta, Colton (R) D/H/F 04:55.2860   25.099 0
+7 59 Chilton, Max D/C/F 04:55.6429   25.069 5
+8 27 Rossi, Alexander D/H/F 04:55.8585   25.050 5
+9 77 Servia, Oriol D/H/F 04:56.0833   25.031 0
+10 2 Newgarden, Josef D/C/F 04:57.5778   24.906 0
+11 3 Castroneves, Helio D/C/F 04:58.3035   24.845 0
+12 21 Pigot, Spencer D/C/F 04:58.5094   24.828 0
+13 19 Ferrucci, Santino (R) D/H/F 04:58.8492   24.800 0
+14 4 Leist, Matheus D/C/F 05:00.0338   24.702 5
+15 48 Hildebrand, JR D/C/F 05:00.4706   24.666 11
+16 63 Jones, Ed D/C/F 05:01.0098   24.622 0
+17 22 Pagenaud, Simon D/C/F 05:01.2704   24.600 0
+18 20 Carpenter, Ed D/C/F 05:02.7752   24.478 0
+19 24 Karam, Sage D/C/F 05:03.0100   24.459 11
+20 28 Hunter-Reay, Ryan D/H/F 05:03.3894   24.429 0
+21 33 Davison, James D/H/F 05:03.7549   24.399 0
+22 60 Harvey, Jack D/H/F 05:03.8158   24.394 0
+23 81 Hanley, Ben (R) D/C/F 05:03.8650   24.390 5
+24 25 Daly, Conor D/H/F 05:05.0463   24.296 0
+25 14 Kanaan, Tony D/C/F 05:05.9639   24.223 0
+26 39 Mann, Pippa D/C/F 05:05.9794   24.222 0
+27 9 Dixon, Scott D/H/F 05:06.3264   24.194 0
+28 15 Rahal, Graham D/H/F 05:06.3735   24.191 0
+29 5T Hinchcliffe, James D/H/F 05:06.8052   24.157 11
+30 7 Ericsson, Marcus (R) D/H/F 05:07.0376   24.138 0
+31 23 Kimball, Charlie D/C/F 05:07.1059   24.133 0
+32 31 O'Ward, Patricio (R) D/C/F 05:07.4067   24.109 0
+33 18 Bourdais, Sebastien D/H/F 05:07.5965   24.094 0
+34 12 Power, Will D/C/F 05:08.6697   24.011 0
+35 30 Sato, Takuma D/H/F 05:10.4938   23.870 0
+36 10 Rosenqvist, Felix (R) D/H/F 05:11.6514   23.781 0
+Section:  PO to PI Length:  2.058712 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 28 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 29 =====
+Rank Car Driver C/E/T Time Speed Lap
+1 14 Kanaan, Tony D/C/F 00:01.5577   82.946 5
+2 9 Dixon, Scott D/H/F 00:01.5845   81.543 11
+3 3 Castroneves, Helio D/C/F 00:01.6556   78.041 5
+4 59 Chilton, Max D/C/F 00:01.8283   70.669 11
+5 21 Pigot, Spencer D/C/F 00:01.8539   69.693 5
+6 77 Servia, Oriol D/H/F 00:01.8706   69.071 5
+7 25 Daly, Conor D/H/F 00:01.9622   65.847 11
+8 4 Leist, Matheus D/C/F 00:01.9929   64.832 11
+9 24 Karam, Sage D/C/F 00:01.9951   64.761 17
+10 63 Jones, Ed D/C/F 00:02.0232   63.861 5
+11 20 Carpenter, Ed D/C/F 00:02.0384   63.385 5
+12 33 Davison, James D/H/F 00:02.0449   63.184 5
+13 66 Alonso, Fernando D/C/F 00:02.0633   62.620 10
+14 18 Bourdais, Sebastien D/H/F 00:02.0740   62.297 5
+15 5T Hinchcliffe, James D/H/F 00:02.0743   62.288 17
+16 98 Andretti, Marco D/H/F 00:02.0844   61.986 5
+17 23 Kimball, Charlie D/C/F 00:02.0890   61.850 5
+18 48 Hildebrand, JR D/C/F 00:02.1310   60.631 5
+19 26 Veach, Zach D/H/F 00:02.1355   60.503 11
+20 22 Pagenaud, Simon D/C/F 00:02.1460   60.207 5
+21 32 Kaiser, Kyle D/C/F 00:02.1608   59.795 10
+22 60 Harvey, Jack D/H/F 00:02.1720   59.486 5
+23 81 Hanley, Ben (R) D/C/F 00:02.1839   59.162 17
+24 28 Hunter-Reay, Ryan D/H/F 00:02.1937   58.898 5
+25 15 Rahal, Graham D/H/F 00:02.1956   58.847 11
+26 7 Ericsson, Marcus (R) D/H/F 00:02.1986   58.767 5
+27 27 Rossi, Alexander D/H/F 00:02.1994   58.745 5
+28 30 Sato, Takuma D/H/F 00:02.2037   58.631 5
+29 88 Herta, Colton (R) D/H/F 00:02.2214   58.164 5
+30 19 Ferrucci, Santino (R) D/H/F 00:02.2232   58.116 5
+31 42 King, Jordan (R) D/H/F 00:02.2326   57.872 7
+32 12 Power, Will D/C/F 00:02.3107   55.916 5
+33 31 O'Ward, Patricio (R) D/C/F 00:02.3658   54.613 5
+34 2 Newgarden, Josef D/C/F 00:02.5233   51.205 5
+35 39 Mann, Pippa D/C/F 00:02.5387   50.894 5
+36 10 Rosenqvist, Felix (R) D/H/F 00:02.6121   49.464 5
+Section:  PIC to PI Length:  0.035890 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 29 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series
+
+===== PAGE 30 =====
+Track Map
+Information provided by Indy Racing Information System - Copyright INDYCAR 2019 Page 30 of 30
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+103rd Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 18, 2019Qualifications - Day 1
+NTT IndyCar Series

@@ -1,0 +1,10 @@
+{
+  "audited_concepts": 17,
+  "limitations": [
+    "PTSC humidity is stored as a fraction while HRRR humidity is percent",
+    "PTSC wind and pressure units retain source-workbook semantics",
+    "no tyre telemetry, rubbering, or corner shadow measurement"
+  ],
+  "status": "PASS",
+  "usable_concepts": 17
+}

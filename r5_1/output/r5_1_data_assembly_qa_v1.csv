@@ -1,0 +1,14 @@
+check,value,expected,status
+protected hashes valid at start,"{'r5/frozen_inputs/day1/day1_environment_linked_transitions_39_FROZEN.csv': 'a2e4dd7f10d5c6dfefb6e0ce36c79165d3e5d2d6a1d1b971eece2879aa4db355', 'r5/frozen_inputs/last_chance/last_chance_official_performance_15_FROZEN.csv': '0bcfd3878ba9a2cac99b892432edc264949ad54094dfaac66a1a7e699fc97649', 'r5/frozen_inputs/last_chance/last_chance_attempt_chronology_22_FROZEN.csv': 'd50b7dd5f3f3e6735d05c92a246cd7c31ee64ffb2ceb42a226c8352a4212d10b'}","{'r5/frozen_inputs/day1/day1_environment_linked_transitions_39_FROZEN.csv': 'a2e4dd7f10d5c6dfefb6e0ce36c79165d3e5d2d6a1d1b971eece2879aa4db355', 'r5/frozen_inputs/last_chance/last_chance_official_performance_15_FROZEN.csv': '0bcfd3878ba9a2cac99b892432edc264949ad54094dfaac66a1a7e699fc97649', 'r5/frozen_inputs/last_chance/last_chance_attempt_chronology_22_FROZEN.csv': 'd50b7dd5f3f3e6735d05c92a246cd7c31ee64ffb2ceb42a226c8352a4212d10b'}",PASS
+Day1 backbone rows,329,329,PASS
+Day1 complete fade rows,260,260,PASS
+Day1 first complete car-years,168,168,PASS
+Day1 repeat transitions,92,92,PASS
+frozen membership rows,39,39,PASS
+PTSC-pair rows,40,40,PASS
+39-vs-40 discrepancy rows,1,1,PASS
+Last Chance complete rows,15,15,PASS
+Last Chance chronology rows,22,22,PASS
+exact wait observations,0,0,PASS
+bounded wait observations,0,0,PASS
+protected hashes unchanged at end,"{'r5/frozen_inputs/day1/day1_environment_linked_transitions_39_FROZEN.csv': 'a2e4dd7f10d5c6dfefb6e0ce36c79165d3e5d2d6a1d1b971eece2879aa4db355', 'r5/frozen_inputs/last_chance/last_chance_official_performance_15_FROZEN.csv': '0bcfd3878ba9a2cac99b892432edc264949ad54094dfaac66a1a7e699fc97649', 'r5/frozen_inputs/last_chance/last_chance_attempt_chronology_22_FROZEN.csv': 'd50b7dd5f3f3e6735d05c92a246cd7c31ee64ffb2ceb42a226c8352a4212d10b'}","{'r5/frozen_inputs/day1/day1_environment_linked_transitions_39_FROZEN.csv': 'a2e4dd7f10d5c6dfefb6e0ce36c79165d3e5d2d6a1d1b971eece2879aa4db355', 'r5/frozen_inputs/last_chance/last_chance_official_performance_15_FROZEN.csv': '0bcfd3878ba9a2cac99b892432edc264949ad54094dfaac66a1a7e699fc97649', 'r5/frozen_inputs/last_chance/last_chance_attempt_chronology_22_FROZEN.csv': 'd50b7dd5f3f3e6735d05c92a246cd7c31ee64ffb2ceb42a226c8352a4212d10b'}",PASS

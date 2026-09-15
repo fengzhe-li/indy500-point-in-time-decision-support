@@ -1,0 +1,7 @@
+metric,value,expected,status
+r4p8_input_rows,312,312,PASS
+ml_complete_rows,292,292,PASS
+target_is_delta_not_absolute,True,True,PASS
+direction_probability_target,P_TRACK_COOLING,P_TRACK_COOLING,PASS
+future_realized_weather_used_as_feature,False,False,PASS
+validation_protocol,LEAVE_ONE_YEAR_OUT,LEAVE_ONE_YEAR_OUT,PASS

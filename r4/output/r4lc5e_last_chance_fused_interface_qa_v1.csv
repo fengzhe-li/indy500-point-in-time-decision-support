@@ -1,0 +1,8 @@
+metric,value,expected,status
+input_rows_preserved,10,10,PASS
+no_unknown_observed_actions,0,0,PASS
+last_chance_retain_action_disabled,0,0,PASS
+last_chance_priority_action_disabled,0,0,PASS
+stop_always_feasible,0,0,PASS
+action_diversity_preserved,STOP;WITHDRAW_AND_REATTEMPT,STOP;WITHDRAW_AND_REATTEMPT,PASS
+shared_layers_not_fabricated,0,0,PASS

@@ -1,0 +1,10 @@
+metric,value,expected,status
+validation_rows,6,6,PASS
+validation_year,2024,2024,PASS
+frozen_k,3.0,3.0,PASS
+future_information_used,False,False,PASS
+duplicate_attempt_ids,False,False,PASS
+2024_used_for_parameter_tuning,False,False,PASS
+same_timestamp_information_used,False,False,PASS
+historical_action_labels_used,False,False,PASS
+validation_results_do_not_trigger_refit,True,True,PASS

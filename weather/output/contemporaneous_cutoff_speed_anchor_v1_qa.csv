@@ -1,0 +1,11 @@
+﻿metric,value,status
+malukas_anchor_grounded,1,PASS
+sato_anchor_grounded,1,PASS
+exact_changed_state_count,2,PASS
+known_cutoff_speed_rows_is_2,2,PASS
+malukas_cutoff_is_231_607,1,PASS
+sato_cutoff_is_231_708,1,PASS
+direct_live_feed_claimed,0,PASS
+exact_timestamp_inferred,0,PASS
+chronology_mutation,0,PASS
+action_lane_mutation,0,PASS

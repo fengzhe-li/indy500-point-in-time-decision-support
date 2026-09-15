@@ -1,0 +1,71 @@
+{
+  "phase": "R4F6J",
+  "status": "R4F6J_STRICT_REPEAT_SUPPORT_DECOMPOSITION_READY",
+  "year_support": [
+    {
+      "year": 2020,
+      "all_complete_repeat_pairs": 13,
+      "primary_status_pairs": 13,
+      "primary_plus_reference_pairs": 0,
+      "primary_ref_point_time_pairs": 0,
+      "primary_ref_interval_time_pairs": 0,
+      "primary_ref_any_temporal_pairs": 0
+    },
+    {
+      "year": 2021,
+      "all_complete_repeat_pairs": 16,
+      "primary_status_pairs": 16,
+      "primary_plus_reference_pairs": 0,
+      "primary_ref_point_time_pairs": 0,
+      "primary_ref_interval_time_pairs": 0,
+      "primary_ref_any_temporal_pairs": 0
+    },
+    {
+      "year": 2022,
+      "all_complete_repeat_pairs": 8,
+      "primary_status_pairs": 7,
+      "primary_plus_reference_pairs": 0,
+      "primary_ref_point_time_pairs": 0,
+      "primary_ref_interval_time_pairs": 0,
+      "primary_ref_any_temporal_pairs": 0
+    },
+    {
+      "year": 2023,
+      "all_complete_repeat_pairs": 35,
+      "primary_status_pairs": 4,
+      "primary_plus_reference_pairs": 4,
+      "primary_ref_point_time_pairs": 1,
+      "primary_ref_interval_time_pairs": 0,
+      "primary_ref_any_temporal_pairs": 1
+    },
+    {
+      "year": 2024,
+      "all_complete_repeat_pairs": 20,
+      "primary_status_pairs": 2,
+      "primary_plus_reference_pairs": 2,
+      "primary_ref_point_time_pairs": 0,
+      "primary_ref_interval_time_pairs": 1,
+      "primary_ref_any_temporal_pairs": 1
+    }
+  ],
+  "loss_reasons": [
+    {
+      "reason": "NON_PRIMARY_STATUS",
+      "pair_count": 50
+    },
+    {
+      "reason": "NO_FAST_FRIDAY_REFERENCE",
+      "pair_count": 37
+    },
+    {
+      "reason": "NO_INTERVAL_TIME_BOTH_SIDES",
+      "pair_count": 91
+    },
+    {
+      "reason": "NO_POINT_TIME_BOTH_SIDES",
+      "pair_count": 52
+    }
+  ],
+  "interpretation_rule": "Do not classify the local residual-window heuristic as successful or failed when strict same-support evaluation is based on approximately one pair.",
+  "next_phase_rule": "If narrow interval chronology materially expands strict support, evaluate an interval-aware offline structural test. Otherwise freeze the heuristic as inconclusive and proceed to the hierarchical thermal + latent-window model."
+}

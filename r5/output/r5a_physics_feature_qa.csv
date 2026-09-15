@@ -1,0 +1,3 @@
+check,status,value,expected
+all contracted columns exist,PASS,17,17
+track and air sources distinguished,PASS,PTSC track_c vs HRRR temp_c,distinct

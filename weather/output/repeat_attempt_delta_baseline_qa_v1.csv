@@ -1,0 +1,16 @@
+﻿metric,value,status
+input_rows_equal_40,1,PASS
+primary_rows_equal_39,1,PASS
+feature_count_equal_11,1,PASS
+all_features_complete,1,PASS
+prediction_rows_match_expected,1,PASS
+fold_metric_rows_match_expected,1,PASS
+five_models_present,1,PASS
+all_predictions_finite,1,PASS
+all_primary_metrics_finite,1,PASS
+zero_baseline_mae_matches_frozen_primary_data,1,PASS
+primary_zero_delta_mae_mph,0.5638461538461562,INFO
+aggregate_best_model,ZERO_DELTA_BASELINE,INFO
+aggregate_best_mae_mph,0.5638461538461562,INFO
+aggregate_best_improvement_vs_zero_mph,0.0,INFO
+model_policy_hash,80eb047506d98c56cd0a6ac962993fffd309f31da065d684af4d025e1de46c93,INFO

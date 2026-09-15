@@ -1,0 +1,11 @@
+﻿metric,value,status
+target_candidates_expected,7,INFO
+target_candidates_found,7,PASS
+sato_result_rows,2,INFO
+marco_result_rows,2,INFO
+sato_232196_failed_unique,1,PASS
+sato_231708_unique,1,PASS
+chronology_auto_promoted,0,PASS
+marco_specific_attempt_guessed,0,PASS
+interruption_windows_invented,0,PASS
+canonical_data_mutated,0,PASS

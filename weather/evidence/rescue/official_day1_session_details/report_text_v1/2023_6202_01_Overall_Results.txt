@@ -1,0 +1,56 @@
+Event:        107th Running of the Indianapolis 500                                                      Round 6
+Track:        Indianapolis Motor Speedway                                                             2.5 mile(s)
+
+Report:       Official Postings                                                    NTT INDYCAR SERIES
+Session: Qualifications - Day 1                                                                 May 20, 2023
+Rank     Car Driver Name                    C/E/T        Lap 1      Lap 2       Lap 3       Lap 4        Total Time           Speed
+ 1       6     Rosenqvist, Felix             D/C/F      38.4076     38.4107     38.4977     38.5650      02:33.8810           233.947
+ 2       7     Rossi, Alexander              D/C/F      38.4325     38.5016     38.5623     38.6605      02:34.1569           233.528
+ 3       10    Palou, Alex                   D/H/F      38.4209     38.5113     38.6079     38.7031      02:34.2432           233.398
+ 4       21    VeeKay, Rinus                 D/C/F      38.4776     38.5261     38.6047     38.6365      02:34.2449           233.395
+ 5       9     Dixon, Scott                  D/H/F      38.4939     38.5038     38.5797     38.6810      02:34.2584           233.375
+ 6       66    Kanaan, Tony                  D/C/F      38.4521     38.5745     38.5677     38.6825      02:34.2768           233.347
+ 7       11    Sato, Takuma                  D/H/F      38.4476     38.5243     38.6581     38.6632      02:34.2932           233.322
+ 8       5     O'Ward, Pato                  D/C/F      38.4896     38.5635     38.6360     38.6503      02:34.3394           233.252
+ 9       14    Ferrucci, Santino             D/C/F      38.5334     38.5873     38.6082     38.6804      02:34.4093           233.147
+ 10      8     Ericsson, Marcus              D/H/F      38.5372     38.5840     38.6487     38.7167      02:34.4866           233.030
+ 11      55    Pedersen, Benjamin            D/C/F      38.5775     38.6520     38.6975     38.7527      02:34.6797           232.739
+ 12      12    Power, Will                   D/C/F      38.6071     38.6492     38.7095     38.7274      02:34.6932           232.719
+ 13      33    Carpenter, Ed                 D/C/F      38.5227     38.7270     38.6922     38.7709      02:34.7128           232.689
+ 14      3     McLaughlin, Scott             D/C/F      38.6409     38.6626     38.7084     38.7087      02:34.7206           232.677
+ 15      27    Kirkwood, Kyle                D/H/F      38.5478     38.6164     38.7279     38.8390      02:34.7311           232.662
+ 16      20    Daly, Conor                   D/C/F      38.6052     38.6759     38.7675     38.8347      02:34.8833           232.433
+ 17      2     Newgarden, Josef              D/C/F      38.6863     38.7298     38.7262     38.7616      02:34.9039           232.402
+ 18      23    Hunter-Reay, Ryan             D/C/F      38.7189     38.7366     38.7918     38.8364      02:35.0837           232.133
+ 19      28    Grosjean, Romain              D/H/F      38.6964     38.7765     38.8336     38.8679      02:35.1744           231.997
+ 20      06    Castroneves, Helio            D/H/F      38.7358     38.7982     38.8212     38.8480      02:35.2032           231.954
+ 21      26    Herta, Colton                 D/H/F      38.7148     38.8143     38.8344     38.8420      02:35.2055           231.951
+ 22      60    Pagenaud, Simon               D/H/F      38.8072     38.7957     38.7981     38.8529      02:35.2539           231.878
+ 23      18    Malukas, David                D/H/F      38.7209     38.7854     38.8755     38.9452      02:35.3270           231.769
+ 24      98    Andretti, Marco               D/H/F      38.7379     38.7932     38.9270     38.9276      02:35.3857           231.682
+ 25      24    Wilson, Stefan                D/C/F      38.7534     38.7871     38.9713     38.8965      02:35.4083           231.648
+ 26      29    DeFrancesco, Devlin           D/H/F      38.7679     38.8045     38.8869     39.1468      02:35.6061           231.353
+ 27      78    Canapino, Agustin             D/C/F      38.7073     38.8576     38.9894     39.0744      02:35.6287           231.320
+ 28      77    Ilott, Callum                 D/C/F      38.7146     38.7908     38.9774     39.2384      02:35.7212           231.182
+ 29      50    Enerson, RC                   D/C/F      38.7988     38.8882     38.9780     39.0924      02:35.7574           231.129
+ 30      44    Legge, Katherine              D/H/F      38.8607     38.8971     39.0152     39.0241      02:35.7971           231.070
+
+
+
+
+         Jonathan A. Koskey                                          Kyle Novak
+         Director of Timing                                          Race Director
+         INDYCAR                                                     INDYCAR
+
+                                Posted                             On
+
+
+
+                                            Results Pending Final Verification
+                               (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+
+
+                                                               Information provided by Indy Racing Information System - Copyright INDYCAR 2023
+

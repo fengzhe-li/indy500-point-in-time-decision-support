@@ -1,0 +1,12 @@
+{
+  "phase": "R4F5C",
+  "status": "R4F5C_CROSS_CAR_WINDOW_ANCHOR_VALIDATION_READY",
+  "repeat_targets": 40,
+  "method": "Each repeat residual is treated as an independent same-car anchor. Window estimates are constructed only from OTHER cars within the surrounding historical time window.",
+  "critical_question": "Do cross-car local signals explain same-car repeat performance changes better than a zero-window baseline?",
+  "interpretation_policy": {
+    "positive": "Supports existence of transferable common performance-window information.",
+    "weak_or_negative": "First-run field residual remains too confounded by entry strength; introduce Fast Friday / hierarchical pre-session entry references."
+  },
+  "next_phase": "Choose whether current Indy qualifying evidence is sufficient for latent-window modelling or whether stronger pre-session hierarchical references are required."
+}

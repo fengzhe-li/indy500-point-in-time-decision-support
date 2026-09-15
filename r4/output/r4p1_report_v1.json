@@ -1,0 +1,90 @@
+{
+  "phase": "R4P1",
+  "purpose": "Construct non-modelled four-lap shape, multi-run and first-run evidence panels.",
+  "canonical_attempts": 329,
+  "canonical_lap_rows": 1174,
+  "complete_four_lap_shape_rows": 263,
+  "complete_performance_rows": 260,
+  "multi_run_complete_attempt_rows": 162,
+  "multi_run_car_driver_groups": 70,
+  "first_run_rows": 150,
+  "timing_evidence_classes": {
+    "APPROXIMATE_POINT": 135,
+    "BOUNDED_INTERVAL": 9,
+    "UNKNOWN": 185
+  },
+  "first_run_order_evidence_classes": {
+    "APPROXIMATE_PERFORMANCE_TIME_PROXY": 82,
+    "BOUNDED_TIME_INTERVAL": 3,
+    "EXACT_GLOBAL_ORDER_BOUND": 3,
+    "UNKNOWN": 62
+  },
+  "hrrr_leakage_safe_attempt_ids": 136,
+  "ptsc_track_temp_attempt_ids": 137,
+  "per_year": {
+    "2020": {
+      "canonical_attempts": 63,
+      "complete_four_lap_attempts": 46,
+      "multi_run_complete_attempt_rows": 24,
+      "multi_run_car_driver_groups": 11,
+      "identified_first_runs": 33,
+      "complete_first_runs": 33,
+      "first_runs_with_point_time_proxy": 28,
+      "first_runs_with_bounded_time": 0,
+      "first_runs_with_global_order_bounds": 0
+    },
+    "2021": {
+      "canonical_attempts": 60,
+      "complete_four_lap_attempts": 51,
+      "multi_run_complete_attempt_rows": 29,
+      "multi_run_car_driver_groups": 13,
+      "identified_first_runs": 35,
+      "complete_first_runs": 35,
+      "first_runs_with_point_time_proxy": 33,
+      "first_runs_with_bounded_time": 0,
+      "first_runs_with_global_order_bounds": 0
+    },
+    "2022": {
+      "canonical_attempts": 44,
+      "complete_four_lap_attempts": 40,
+      "multi_run_complete_attempt_rows": 16,
+      "multi_run_car_driver_groups": 8,
+      "identified_first_runs": 33,
+      "complete_first_runs": 32,
+      "first_runs_with_point_time_proxy": 0,
+      "first_runs_with_bounded_time": 3,
+      "first_runs_with_global_order_bounds": 0
+    },
+    "2023": {
+      "canonical_attempts": 85,
+      "complete_four_lap_attempts": 69,
+      "multi_run_complete_attempt_rows": 57,
+      "multi_run_car_driver_groups": 22,
+      "identified_first_runs": 34,
+      "complete_first_runs": 34,
+      "first_runs_with_point_time_proxy": 16,
+      "first_runs_with_bounded_time": 0,
+      "first_runs_with_global_order_bounds": 0
+    },
+    "2024": {
+      "canonical_attempts": 77,
+      "complete_four_lap_attempts": 54,
+      "multi_run_complete_attempt_rows": 36,
+      "multi_run_car_driver_groups": 16,
+      "identified_first_runs": 15,
+      "complete_first_runs": 10,
+      "first_runs_with_point_time_proxy": 6,
+      "first_runs_with_bounded_time": 0,
+      "first_runs_with_global_order_bounds": 1
+    }
+  },
+  "semantics": {
+    "multi_run_definition": "Same session + string car number + driver with at least two complete four-lap performance records.",
+    "action_semantics": "Retain/repeat and withdraw/priority are not distinguished for inclusion in the performance-response dataset. They remain strategy-layer metadata.",
+    "lap1_to_lap4_delta": "lap4_speed - lap1_speed; negative normally means fade.",
+    "late_run_fade": "mean(lap3,lap4) - mean(lap1,lap2); less negative means better late-run speed retention.",
+    "timing_semantics": "Approximate performance capture time is not treated as exact timed-run start.",
+    "ordering_semantics": "Result-row order is never used as chronology."
+  },
+  "model_fitting_performed": false
+}

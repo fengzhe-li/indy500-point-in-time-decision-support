@@ -1,0 +1,25 @@
+{
+  "N": 27,
+  "attrition": {
+    "adjacent_transitions": 27,
+    "complete_leakage_safe_attempts": 110,
+    "singletons": 59,
+    "year_car_groups": 83
+  },
+  "cars": 24,
+  "future_leakage": "none; both endpoints use past-safe PTSC and issue-gated HRRR available at their own timestamps",
+  "pair_rule": "immediately next later qualifying attempt for same year and car in the 110-row leakage-safe matrix",
+  "phase": "R5C",
+  "thermal_nonlinearity": "difference of squared track temperature centered at 40C",
+  "version": "R5C_SAME_CAR_TRANSITIONS_V1",
+  "year_counts": {
+    "2020": 11,
+    "2021": 15,
+    "2023": 1
+  },
+  "years": [
+    2020,
+    2021,
+    2023
+  ]
+}

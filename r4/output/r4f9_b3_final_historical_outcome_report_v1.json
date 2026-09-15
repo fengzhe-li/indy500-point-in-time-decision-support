@@ -1,0 +1,42 @@
+{
+  "phase": "R4F9-B3",
+  "status": "R4F9_FINAL_HISTORICAL_OUTCOME_INTERFACE_FROZEN",
+  "coverage": {
+    "total_decisions": 60,
+    "day1": 50,
+    "last_chance": 10,
+    "day1_attempt_speed_evaluable": 19,
+    "last_chance_categorical_evaluable": 10,
+    "last_chance_qualified": 6,
+    "last_chance_not_qualified": 4
+  },
+  "last_chance_action_counts": {
+    "REATTEMPT": 4,
+    "STOP": 6
+  },
+  "last_chance_outcome_counts": {
+    "CRASH_INCOMPLETE_FAILED_TO_QUALIFY": 1,
+    "FAILED_TO_QUALIFY": 2,
+    "QUALIFIED_P31": 2,
+    "QUALIFIED_P32": 2,
+    "QUALIFIED_P33": 1,
+    "ULTIMATELY_BUMPED_BY_HARVEY": 1,
+    "ULTIMATELY_QUALIFIED_P33": 1
+  },
+  "qa": {
+    "pass": 12,
+    "warn": 0,
+    "fail": 0
+  },
+  "protected_input_hashes": {
+    "r4/output/r4f9_b_historical_realized_outcome_interface_v1.csv": "bf995f3ca55d0c27d8edbbe7cfebb8abb56aeb2a9cf8e36b63711339f278d5db",
+    "r4/output/r4lc5e_last_chance_fused_interface_v2.csv": "114b607b33e0366da9f69b7cb22fd0ed3d1cbcfce39970609bc062d7710e0ff1",
+    "r4/output/r4f8e_reconstructed_decision_numeric_state_v1.csv": "ec63d81fd99f72ae877f05762957e90c0ac6bdef8f28564c796b74b1984d629b"
+  },
+  "output_hashes": {
+    "r4/output/r4f9_b3_final_historical_outcome_interface_v1.csv": "1ad685ae65af8f77aaf98088ce1146a31109caba54d99627ba1ace2bf957a04f",
+    "r4/output/r4f9_b3_final_historical_outcome_interface_qa_v1.csv": "1862e9bc0a26131f98bfc0011f928ba78c59acacd61316b5806b1dcee817f3fa",
+    "r4/output/r4f9_b3_final_historical_outcome_contract_v1.json": "7e28f59e151e1d340837613cbc85a314af3f573db6c1c5c510f25a0a385f57ff"
+  },
+  "next_phase": "R4F9-C_PROBABILISTIC_REPLAY_EVALUATION"
+}

@@ -1,0 +1,41 @@
+{
+  "bounded_historical_wait_observations": 0,
+  "by_regime": {
+    "DAY1_LANE1_PRIORITY": {
+      "bounded_wait": 0,
+      "exact_wait": 0,
+      "rows": 1,
+      "status": "UNAVAILABLE_AS_QUEUE_WAIT"
+    },
+    "DAY1_LANE2_RETAIN": {
+      "bounded_wait": 0,
+      "exact_wait": 0,
+      "rows": 1,
+      "status": "UNAVAILABLE_AS_QUEUE_WAIT"
+    },
+    "DAY1_LANE_UNKNOWN_EVENT_INTERVAL": {
+      "bounded_wait": 0,
+      "exact_wait": 0,
+      "rows": 1,
+      "status": "UNAVAILABLE_AS_QUEUE_WAIT"
+    },
+    "DAY1_LANE_UNKNOWN_REPEAT": {
+      "bounded_wait": 0,
+      "exact_wait": 0,
+      "rows": 92,
+      "status": "UNAVAILABLE_AS_QUEUE_WAIT"
+    },
+    "LAST_CHANCE_REATTEMPT": {
+      "bounded_wait": 0,
+      "exact_wait": 0,
+      "rows": 5,
+      "status": "UNAVAILABLE_AS_QUEUE_WAIT"
+    }
+  },
+  "exact_historical_wait_observations": 0,
+  "inter_attempt_gap_used_as_wait": false,
+  "inventory_rows": 100,
+  "related_timed_attempt_intervals": 41,
+  "source": "weather/output/queue_wait_evidence_inventory_v1.csv",
+  "structural_wait_grids_used": false
+}

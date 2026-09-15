@@ -1,0 +1,15 @@
+{
+  "phase": "R4F6A",
+  "status": "R4F6A_PRESESSION_PHYSICAL_LOCAL_ASSET_AUDIT_READY",
+  "relevant_assets": 453,
+  "high_value_presession_candidates": 25,
+  "race_or_physical_candidates": 316,
+  "evidence_policy": {
+    "fast_friday": "Primary candidate for pre-session entry performance reference.",
+    "qual_sim_no_tow": "Primary candidate for clean qualifying-like reference.",
+    "general_practice": "Low-value unless run programme / tow context is known.",
+    "indy_race": "Tire / thermal / degradation physical evidence only.",
+    "other_oval": "Weak-transfer physical/team/tire prior; not direct Indy qualifying pace."
+  },
+  "next_phase": "Inspect high-value local Fast Friday / no-tow assets. If local evidence is insufficient, perform targeted external data acquisition."
+}

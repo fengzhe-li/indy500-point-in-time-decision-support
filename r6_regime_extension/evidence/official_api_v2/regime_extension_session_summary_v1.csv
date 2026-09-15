@@ -1,0 +1,52 @@
+year,session_id,session_name_seed,session_name,session_type,track_type,session_date,record_count,status
+2018,5225,Race,Race,R,I,"Sunday, May 27, 2018",33,OK
+2018,5325,Final Practice,Final Practice,P,I,"Friday, May 25, 2018",33,OK
+2018,5326,Practice 8,Practice 8,P,I,"Monday, May 21, 2018",33,OK
+2018,5323,Qualifications - Fast 9,Qualifications - Fast 9,Q,I,"Sunday, May 20, 2018",9,OK
+2018,5322,Qualifications - Positions 10-33,Qualifications - Positions 10-33,Q,I,"Sunday, May 20, 2018",24,OK
+2018,5324,Practice 7,Practice 7,P,I,"Sunday, May 20, 2018",24,OK
+2018,5320,Qualifications - Day 1,Qualifications - Day 1,Q,I,"Saturday, May 19, 2018",48,OK
+2018,5321,Practice 6,Practice 6,P,I,"Saturday, May 19, 2018",11,OK
+2018,5319,Practice 5,Practice 5,P,I,"Friday, May 18, 2018",35,OK
+2018,5318,Practice 4,Practice 4,P,I,"Thursday, May 17, 2018",35,OK
+2018,5317,Practice 3,Practice 3,P,I,"Wednesday, May 16, 2018",35,OK
+2018,5316,Practice 2,Practice 2,P,I,"Tuesday, May 15, 2018",34,OK
+2018,5315,Practice 1,Practice 1,P,I,"Tuesday, May 15, 2018",23,OK
+2019,5473,Race,Race,R,I,"Sunday, May 26, 2019",33,OK
+2019,5558,Practice Final,Practice Final,P,I,"Friday, May 24, 2019",33,OK
+2019,5557,Practice 8,Practice 8,P,I,"Monday, May 20, 2019",34,OK
+2019,5556,Qualifications - Fast 9,Qualifications - Fast 9,Q,I,"Sunday, May 19, 2019",9,OK
+2019,5555,Qualifications - Positions 31-33,Qualifications - Positions 31-33,Q,I,"Sunday, May 19, 2019",6,OK
+2019,5564,Practice 6,Practice 6,P,I,"Sunday, May 19, 2019",5,OK
+2019,5565,Qualifications - Day 1,Qualifications - Day 1,Q,I,"Saturday, May 18, 2019",30,OK
+2019,5563,Practice 5,Practice 5,P,I,"Saturday, May 18, 2019",6,OK
+2019,5562,Practice 4,Practice 4,P,I,"Friday, May 17, 2019",37,OK
+2019,5561,Practice 3,Practice 3,P,I,"Thursday, May 16, 2019",35,OK
+2019,5560,Practice 2,Practice 2,P,I,"Wednesday, May 15, 2019",36,OK
+2019,5559,Practice 1,Practice 1,P,I,"Tuesday, May 14, 2019",39,OK
+2025,6460,Race,Race,R,I,"Sunday, May 25, 2025",33,OK
+2025,6662,Final Practice (Carb Day),Final Practice (Carb Day),P,I,"Friday, May 23, 2025",33,OK
+2025,6663,Practice 8,Practice 8,P,I,"Monday, May 19, 2025",33,OK
+2025,6617,Combined Qualifications,Combined Qualifications,Q,I,"Sunday, May 18, 2025",34,OK
+2025,6660,Qualifications - Firestone Fast 6,Qualifications - Firestone Fast 6,Q,I,"Sunday, May 18, 2025",6,OK
+2025,6659,Qualifications - Last Chance,Qualifications - Last Chance,Q,I,"Sunday, May 18, 2025",5,OK
+2025,6658,Qualifications - Top-12,Qualifications - Top-12,Q,I,"Sunday, May 18, 2025",9,OK
+2025,6661,Practice 7,Practice 7,P,I,"Sunday, May 18, 2025",14,OK
+2025,6656,Qualifications - Day 1,Qualifications - Day 1,Q,I,"Saturday, May 17, 2025",34,OK
+2025,6657,Practice 6,Practice 6,P,I,"Saturday, May 17, 2025",23,OK
+2025,6655,Practice 5,Practice 5,P,I,"Friday, May 16, 2025",34,OK
+2025,6654,Practice 4,Practice 4,P,I,"Thursday, May 15, 2025",34,OK
+2025,6653,Practice 3,Practice 3,P,I,"Wednesday, May 14, 2025",34,OK
+2025,6651,Practice 1,Practice 1,P,I,"Tuesday, May 13, 2025",34,OK
+2026,6743,Race,Race,R,I,"Sunday, May 24, 2026",33,OK
+2026,6849,Final Practice (Carb Day),Final Practice (Carb Day),P,I,"Friday, May 22, 2026",33,OK
+2026,6841,Practice 7,Practice 7,P,I,"Monday, May 18, 2026",33,OK
+2026,6835,Combined Qualifying,Combined Qualifying,Q,I,"Sunday, May 17, 2026",33,OK
+2026,6836,Qualifying - Firestone Fast 6,Qualifying - Firestone Fast 6,Q,I,"Sunday, May 17, 2026",6,OK
+2026,6838,Qualifying - Top 12,Qualifying - Top 12,Q,I,"Sunday, May 17, 2026",12,OK
+2026,6840,Qualifying - All Cars,Qualifying - All Cars,Q,I,"Sunday, May 17, 2026",33,OK
+2026,6839,Practice 6,Practice 6,P,I,"Sunday, May 17, 2026",14,OK
+2026,6848,Practice 4,Practice 4,P,I,"Friday, May 15, 2026",33,OK
+2026,6843,Practice 3,Practice 3,P,I,"Thursday, May 14, 2026",33,OK
+2026,6844,Practice 2,Practice 2,P,I,"Wednesday, May 13, 2026",33,OK
+2026,6847,Practice 1,Practice 1,P,I,"Tuesday, May 12, 2026",33,OK

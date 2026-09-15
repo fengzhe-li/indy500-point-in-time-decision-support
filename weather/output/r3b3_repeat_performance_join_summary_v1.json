@@ -1,0 +1,15 @@
+{
+  "phase": "R3B.3A",
+  "uncertainty_rows": 39,
+  "repeat_pair_ids_explicit": false,
+  "single_attempt_id_present": true,
+  "delta_present": false,
+  "join_mode": "JOIN_SCHEMA_REVIEW_REQUIRED",
+  "timed_attempt_ids": 129,
+  "timed_hrrr_safe_ids": 129,
+  "timed_hrrr_ptsc_ids": 127,
+  "2022_decision_time_status": "LATENT_NOT_IDENTIFIABLE",
+  "queue_wait": "LATENT_SENSITIVITY_VARIABLE",
+  "elapsed_time_as_track_evolution": "PROHIBITED",
+  "next_phase": "R3B3_JOIN_SEMANTIC_REVIEW"
+}

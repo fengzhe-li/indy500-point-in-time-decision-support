@@ -1,0 +1,16 @@
+check,actual,expected,status,note
+canonical_attempt_count,329,329,PASS,
+canonical_year_counts,"63,60,44,85,77","63,60,44,85,77",PASS,
+performance_grade_point_timestamp_count,136,136,PASS,129 legacy rows plus 7 already-supported 2024 rows
+cross_car_candidate_count,123,123,PASS,
+cross_car_candidate_year_counts,"39,49,0,28,7","39,49,0,28,7",PASS,
+repeat_pair_subset_count,39,39,PASS,calibration subset only
+legacy_timed_weather_subset_count,129,129,PASS,not asserted as maximum
+car_number_06_preserved,True,True,PASS,
+car_number_06_distinct_from_6,True,True,PASS,
+bounded_not_in_point_windows,False,False,PASS,
+all_quality_classes_partition_attempts,329,329,PASS,
+no_probabilities_created,False,False,PASS,
+all_expected_outputs_declared,5,5,PASS,
+r3c1_manifest_assets_verified,True,True,PASS,
+frozen_snapshot_manifest_verified,True,True,PASS,2273 files checked read-only

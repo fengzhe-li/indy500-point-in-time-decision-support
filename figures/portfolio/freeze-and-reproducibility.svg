@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#45c7d8"/></marker></defs>
+<rect width="1600" height="900" fill="#0b1118"/>
+<text x="80" y="85" fill="#edf4f7" font-family="Arial" font-size="42" font-weight="700">Freeze and reproducibility discipline</text>
+<text x="80" y="125" fill="#9bb0bd" font-family="Arial" font-size="21">Later evidence is evaluated externally and cannot silently alter FINAL_V2.</text>
+<rect x="100" y="230" width="400" height="180" rx="18" fill="#141e29" stroke="#65d6a6" stroke-width="3"/>
+<text x="128" y="272" fill="#65d6a6" font-family="Arial" font-size="23" font-weight="700">DATASET FREEZE</text>
+<text x="128" y="310" fill="#edf4f7" font-family="Arial" font-size="19">41 same-car transitions</text>
+<text x="128" y="341" fill="#9bb0bd" font-family="Arial" font-size="19">provenance + eligibility gates</text>
+<text x="128" y="372" fill="#9bb0bd" font-family="Arial" font-size="19">quarantined evidence remains separate</text>
+<rect x="600" y="230" width="400" height="180" rx="18" fill="#141e29" stroke="#65d6a6" stroke-width="3"/>
+<text x="628" y="272" fill="#65d6a6" font-family="Arial" font-size="23" font-weight="700">MODEL FREEZE</text>
+<text x="628" y="310" fill="#edf4f7" font-family="Arial" font-size="19">FINAL_V2 scientific anchors</text>
+<text x="628" y="341" fill="#9bb0bd" font-family="Arial" font-size="19">SHA-256 manifests</text>
+<text x="628" y="372" fill="#9bb0bd" font-family="Arial" font-size="19">deterministic Monte Carlo inputs</text>
+<rect x="1100" y="230" width="400" height="180" rx="18" fill="#141e29" stroke="#ff9f43" stroke-width="3"/>
+<text x="1128" y="272" fill="#ff9f43" font-family="Arial" font-size="23" font-weight="700">EXTERNAL EVIDENCE</text>
+<text x="1128" y="310" fill="#edf4f7" font-family="Arial" font-size="19">2025 held out</text>
+<text x="1128" y="341" fill="#9bb0bd" font-family="Arial" font-size="19">R6 regime extension</text>
+<text x="1128" y="372" fill="#9bb0bd" font-family="Arial" font-size="19">no silent pooling into training</text>
+<path d="M500 320 L600 320" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<path d="M1000 320 L1100 320" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="350" y="590" width="900" height="145" rx="18" fill="#141e29" stroke="#45c7d8" stroke-width="3"/>
+<text x="378" y="632" fill="#45c7d8" font-family="Arial" font-size="23" font-weight="700">REPRODUCIBLE PRESENTATION LAYER</text>
+<text x="378" y="670" fill="#edf4f7" font-family="Arial" font-size="19">semantic figure generator • link/claim tests • frozen-output verification</text>
+<text x="378" y="701" fill="#9bb0bd" font-family="Arial" font-size="19">presentation code reads frozen artefacts; it does not refit the model</text>
+</svg>

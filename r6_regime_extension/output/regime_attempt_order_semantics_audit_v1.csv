@@ -1,0 +1,5 @@
+year,session_name,records,positionfinish_unique,positionfinish_is_exact_1_to_n,api_row_equals_positionfinish_pct,chronology_status
+2018,Qualifications - Day 1,48,48,True,100.0,UNVERIFIED_SOURCE_ORDER_ONLY
+2019,Qualifications - Day 1,30,30,True,100.0,UNVERIFIED_SOURCE_ORDER_ONLY
+2025,Qualifications - Day 1,34,34,True,100.0,UNVERIFIED_SOURCE_ORDER_ONLY
+2026,Combined Qualifying,33,33,True,100.0,UNVERIFIED_SOURCE_ORDER_ONLY

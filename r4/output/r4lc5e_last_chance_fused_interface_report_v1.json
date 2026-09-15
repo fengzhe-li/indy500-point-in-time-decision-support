@@ -1,0 +1,13 @@
+{
+  "phase": "R4LC5E",
+  "status": "R4LC5E_LAST_CHANCE_FUSED_INTERFACE_READY",
+  "rows": 10,
+  "policy_fit_rows": 8,
+  "numeric_state_rows": 7,
+  "observed_action_counts": {
+    "STOP": 6,
+    "WITHDRAW_AND_REATTEMPT": 4
+  },
+  "shared_layer_status": "PENDING_LINKAGE",
+  "next_phase": "Build Day1 adapter to the same Fused schema, then create unified Day1 + Last Chance interface."
+}

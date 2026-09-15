@@ -1,0 +1,25 @@
+{
+  "phase": "R4LC2C",
+  "status": "R4LC2C_BUNDLE_ENDPOINT_DISCOVERY_READY",
+  "bundle_url": "https://www.indycar.com/bundles/scripts/indycar/v2/bundle?v=Y7uvJAxKjgqcUN-MzaUNJ58nW7SCLw7-yYV2trrlOd41",
+  "bundle_bytes": 606987,
+  "token_counts": {
+    "AJAX": 82,
+    "FETCH": 0,
+    "AXIOS": 0,
+    "API_PATH": 14,
+    "RESULTS": 100,
+    "SECTION_RESULTS": 2,
+    "TOP_SECTION_TIMES": 2,
+    "SESSION": 78,
+    "EVENT": 100,
+    "QUALIFY": 11,
+    "ENDPOINT": 0,
+    "GET_JSON": 1,
+    "XMLHTTP": 2,
+    "DOT_NET_HANDLER": 0,
+    "CONTROLLER": 41
+  },
+  "url_candidate_count": 319,
+  "purpose": "Inspect the common INDYCAR frontend bundle for dynamic historical-results data endpoints."
+}

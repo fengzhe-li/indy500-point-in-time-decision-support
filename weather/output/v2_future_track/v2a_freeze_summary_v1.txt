@@ -1,0 +1,56 @@
+================================================================================
+INDY 500 V2-A FINAL FREEZE SUMMARY
+================================================================================
+
+STATUS: FROZEN
+
+CORE QUESTION
+If another on-track opportunity occurs h minutes from now, what distribution of four-lap performance change should be expected?
+
+FUTURE TRACK POINT MODEL
+Horizon-specific M2b_mean_solar
+Inputs: delta ambient, current thermal gap, mean solar elevation
+Rejected: current thermal rate, delta solar elevation
+
+UNCERTAINTY CALIBRATION
+80% nominal -> 0.8064 observed
+90% nominal -> 0.9085 observed
+
+2022 LIMITATION
+80% coverage: 0.6098
+90% coverage: 0.6992
+
+FINAL PERFORMANCE UNCERTAINTY WIDTH
+ horizon_min  mean_width80_mph  mean_width90_mph
+          15            1.4659            2.4239
+          30            1.4751            2.4349
+          60            1.5129            2.4620
+          90            1.5437            2.4827
+         120            1.5666            2.4984
+
+SCENARIO OUTLOOK
+scenario  horizon_min  expected_delta_track_c  expected_delta_speed_mph  p_improve  lower_80_mph  upper_80_mph
+ cooling           15                  0.1995                   -0.0544     0.4459       -0.7825        0.6879
+ cooling           30                  0.2795                   -0.1025     0.4078       -0.8342        0.6554
+ cooling           60                  0.1775                   -0.2031     0.3412       -0.9882        0.5510
+ cooling           90                 -0.1848                   -0.2920     0.2857       -1.1091        0.4563
+ cooling          120                 -1.0803                   -0.3593     0.2488       -1.2010        0.3957
+ neutral           15                  0.4086                   -0.0202     0.4792       -0.7382        0.7135
+ neutral           30                  0.8072                   -0.0349     0.4733       -0.7592        0.7011
+ neutral           60                  1.5946                   -0.0675     0.4447       -0.8221        0.6758
+ neutral           90                  2.2032                   -0.0844     0.4339       -0.8508        0.6704
+ neutral          120                  2.4550                   -0.1003     0.4212       -0.9054        0.6412
+ warming           15                  0.6177                    0.0286     0.5282       -0.7135        0.7549
+ warming           30                  1.3349                    0.0475     0.5451       -0.6810        0.7833
+ warming           60                  3.0117                    0.0856     0.5675       -0.6676        0.8338
+ warming           90                  4.5913                    0.1164     0.5988       -0.6409        0.8766
+ warming          120                  5.9904                    0.1635     0.6276       -0.6243        0.9425
+
+INTERPRETATION
+h is a future-opportunity scenario axis, not a predicted queue wait.
+The model estimates physical performance conditional on another opportunity occurring.
+It does not recommend retain vs withdraw.
+
+FREEZE MANIFEST
+weather/output/v2_future_track/v2a_freeze_manifest_v1.json
+SHA256: ed81d2148b3f9ef2e00b4d63b01793b53fd90d1e0a8692e97809fbeb20be7e69

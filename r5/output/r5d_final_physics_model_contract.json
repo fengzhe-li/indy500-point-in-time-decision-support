@@ -1,0 +1,30 @@
+{
+  "coefficients": {
+    "delta_track_temp_c": -0.07142976448294494,
+    "intercept": 0.9376978659086823
+  },
+  "fast_friday_role": "legacy ablation only; absent from primary model",
+  "features": [
+    "delta_track_temp_c"
+  ],
+  "limitations": [
+    "27 transitions",
+    "2023 contributes one transition",
+    "coefficients are associational physical response estimates, not unrestricted causal effects"
+  ],
+  "metrics": {
+    "bias_mph": 0.21549381202880374,
+    "mae_mph": 0.9828447049529573,
+    "n": 27,
+    "rmse_mph": 1.320729989290426
+  },
+  "phase": "R5D",
+  "predictive_residual_source": "selected-model LOYO residual empirical distribution",
+  "ridge_alpha": 1.0,
+  "selected_model": "M1_TRACK_LINEAR",
+  "selection_rule": "smallest M1-M3 within 0.10 mph LOYO MAE of best M1-M3; extended models not promotable at N=27",
+  "target": "delta_speed_mph",
+  "thermal_center_c": 40.0,
+  "validation": "leave-one-year-out over 2020, 2021, 2023",
+  "version": "R5D_PHYSICS_DELTA_MODEL_V1"
+}

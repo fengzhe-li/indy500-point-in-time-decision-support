@@ -1,0 +1,3 @@
+year,driver_name,car_number,reference_speed_mph,reference_type,reference_priority,source_quality,source_type,source_file,extraction_method,model_role,context
+2023,Sting Ray,,231.699,GENERAL_FAST_FRIDAY_BEST_SPEED,1,HIGH,OFFICIAL_RESULTS_PDF,r4/evidence/fast_friday/2023_fast_friday_practice5_results.pdf,PDFTOTEXT,CORE_DEVELOPMENT,"28 51 Robb, Sting Ray (R) D/H/F 00:38.8435 231.699 0.5053 0.0734 11 21"
+2024,Sting Ray,,233.042,GENERAL_FAST_FRIDAY_BEST_SPEED,1,HIGH,OFFICIAL_RESULTS_PDF,r4/evidence/fast_friday/2024_fast_friday_practice5_results.pdf,PDFTOTEXT,VALIDATION_ONLY,"16 41 Robb, Sting Ray D/C/F 00:38.6197 233.042 0.3176 0.0063 25 29"

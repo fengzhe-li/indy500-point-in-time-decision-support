@@ -1,0 +1,52 @@
+{
+  "phase": "R4F7V2",
+  "status": "R4F7V2_EXTERNAL_VALIDATION_CONCLUSION_FROZEN",
+  "development_architecture": "FAST_FRIDAY_REFERENCE_PLUS_ONLINE_SHRUNK_FIELD_CALIBRATION",
+  "frozen_development_parameters": {
+    "shrinkage_k": 3.0,
+    "prior_mean_residual_mph": -0.685759615384616,
+    "prior_sd_residual_mph": 0.9003554799066349
+  },
+  "2024_external_validation": {
+    "n": 6,
+    "fast_friday_reference_mae_mph": 0.49916666666667214,
+    "primary_online_shrinkage_mae_mph": 0.62507932119964,
+    "frozen_cross_year_prior_mae_mph": 0.7640064102564234,
+    "primary_gain_vs_reference_mph": -0.1259126545329679,
+    "actual_reference_residual_mean_mph": 0.07183333333333526,
+    "frozen_development_prior_mean_mph": -0.685759615384616,
+    "validation_minus_development_prior_shift_mph": 0.7575929487179514
+  },
+  "supported_subset_past_other_ge_3": {
+    "n": 3,
+    "reference_mae_mph": 0.35633333333333894,
+    "primary_mae_mph": 0.30986361034799376,
+    "primary_gain_vs_reference_mph": 0.046469722985345185
+  },
+  "frozen_interpretation": {
+    "overall": "The frozen online shrinkage model did not outperform the raw Fast Friday reference across all six strict 2024 external-validation observations.",
+    "prior_transport": "The development prior mean did not transport cleanly to 2024. Early-session predictions were vulnerable to negative transfer when current-session evidence was sparse.",
+    "online_evidence": "After at least three strictly earlier other-driver observations, the frozen shrinkage model showed lower MAE than the raw reference in the small n=3 subset. This is supportive but not statistically strong evidence.",
+    "complexity": "No evidence justifies reopening Kalman, Huber, or static thermal models.",
+    "uncertainty": "The final decision simulator must represent substantial early-session calibration uncertainty and reduce that uncertainty only as current-session evidence accumulates."
+  },
+  "prohibited_post_validation_actions": [
+    "DO_NOT_RETUNE_SHRINKAGE_K_ON_2024",
+    "DO_NOT_RETUNE_PRIOR_MEAN_ON_2024",
+    "DO_NOT_SELECT_NEW_FEATURES_USING_2024",
+    "DO_NOT_REOPEN_KALMAN_BASED_ON_2024",
+    "DO_NOT_DELETE_2024_ROWS_TO_IMPROVE_METRICS"
+  ],
+  "model_status": "DEVELOPMENT_SUPPORTED_EXTERNAL_VALIDATION_MIXED",
+  "performance_model_role": "Use as probabilistic entry-strength plus online session-calibration component inside the decision Monte Carlo, not as a deterministic speed oracle.",
+  "remaining_validation": {
+    "2022": "DEGRADED_CHRONOLOGY_ROBUSTNESS",
+    "2025": "TECHNICAL_REGIME_TRANSFER"
+  },
+  "next_major_engineering_stage": "PERFORMANCE_UNCERTAINTY_TO_ACTION_MONTE_CARLO_INTEGRATION",
+  "input_hashes": {
+    "r4/output/r4f7c7_final_performance_architecture_contract_v1.json": "0a0c4efe81f5d3404a03bc35b0e7bb8b257f8cb8839096b0ed4e44dba9e546d3",
+    "r4/output/r4f7v1_2024_one_shot_validation_report_v1.json": "b12ea257ed1abaeab94cbbd466b3aead04aa95c8771dcc72a2ab7b7dbda770fa",
+    "r4/output/r4f7v1_2024_one_shot_validation_metrics_v1.csv": "d5770d446ed465dc430ce8f3a17d39abbac30db3757aedaea5ddfdb46324c271"
+  }
+}

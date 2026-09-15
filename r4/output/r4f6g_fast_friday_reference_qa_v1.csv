@@ -1,0 +1,10 @@
+metric,value,expected,status
+2023_pdf_rows_parsed,34,34,PASS
+2024_pdf_rows_parsed,34,34,PASS
+unparsed_numeric_pdf_rows,0,0,PASS
+2021_verified_no_tow_refs,3,3,PASS
+2023_verified_four_lap_refs,4,4,PASS
+2024_verified_four_lap_refs,6,6,PASS
+canonical_entry_keys_unique,0,0,PASS
+2024_validation_role_preserved,True,True,PASS
+r4f6f_v1_not_used_as_input,True,True,PASS

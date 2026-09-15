@@ -1,0 +1,7 @@
+metric,value,expected,status
+core_rows,104,104,PASS
+validation_rows,6,6,PASS
+candidate_files_found,134,>0,PASS
+track_temperature_source_found,12,>0,PASS
+forecast_source_found,24,>0,PASS
+resolution_only_no_model_fit,True,True,PASS

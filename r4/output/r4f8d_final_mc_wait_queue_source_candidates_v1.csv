@@ -1,0 +1,5 @@
+file,rows,queue_wait_fields,numeric_queue_wait_fields,action_or_lane_fields,decision_identifier_fields
+r4/output/r4p11_stochastic_wait_performance_mc_draws_sample_v1.csv,1500,wait_minutes,wait_minutes,action,
+r4/output/r4p11_stochastic_wait_performance_mc_results_v1.csv,9,mean_wait_minutes;q50_wait_minutes;q95_wait_minutes;wait_source,mean_wait_minutes;q50_wait_minutes;q95_wait_minutes,action,
+r4/output/r4f8c_wait_queue_candidate_sources_v1.csv,17,,,,
+r4/output/r4p11_stochastic_wait_performance_mc_qa_v1.csv,7,,,,

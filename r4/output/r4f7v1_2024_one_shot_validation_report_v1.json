@@ -1,0 +1,137 @@
+{
+  "phase": "R4F7V1",
+  "status": "R4F7V1_2024_ONE_SHOT_FINAL_VALIDATION_COMPLETE",
+  "validation_year": 2024,
+  "validation_rows": 6,
+  "architecture": "Fast Friday reference + frozen online shrunk field calibration",
+  "frozen_parameters": {
+    "shrinkage_k": 3.0,
+    "prior_mean_residual_mph": -0.685759615384616,
+    "prior_sd_residual_mph": 0.9003554799066349
+  },
+  "metrics": [
+    {
+      "model": "FAST_FRIDAY_REFERENCE_ONLY",
+      "scope": "ALL_2024_VALIDATION",
+      "n": 6,
+      "mae_mph": 0.49916666666667214,
+      "rmse_mph": 0.6490273491926252,
+      "bias_mph": -0.07183333333333526,
+      "correlation": 0.8290242959671603
+    },
+    {
+      "model": "FROZEN_CROSS_YEAR_PRIOR_CALIBRATION",
+      "scope": "ALL_2024_VALIDATION",
+      "n": 6,
+      "mae_mph": 0.7640064102564234,
+      "rmse_mph": 0.9949992704366185,
+      "bias_mph": -0.7575929487179612,
+      "correlation": 0.8290242959671603
+    },
+    {
+      "model": "ONLINE_RUNNING_FIELD_MEAN_ABLATION",
+      "scope": "ALL_2024_VALIDATION",
+      "n": 6,
+      "mae_mph": 0.68085993589744,
+      "rmse_mph": 0.8433734852699865,
+      "bias_mph": 0.00960673076923039,
+      "correlation": 0.7451571096876323
+    },
+    {
+      "model": "FROZEN_PRIMARY_ONLINE_SHRUNK_FIELD_MEAN",
+      "scope": "ALL_2024_VALIDATION",
+      "n": 6,
+      "mae_mph": 0.62507932119964,
+      "rmse_mph": 0.867429036708116,
+      "bias_mph": -0.3808423134157503,
+      "correlation": 0.7673431124774106
+    },
+    {
+      "model": "FAST_FRIDAY_REFERENCE_ONLY",
+      "scope": "PAST_OTHER_GE_1",
+      "n": 5,
+      "mae_mph": 0.5408000000000073,
+      "rmse_mph": 0.6989618015313908,
+      "bias_mph": -0.1444000000000017,
+      "correlation": 0.8018153458123218
+    },
+    {
+      "model": "FROZEN_CROSS_YEAR_PRIOR_CALIBRATION",
+      "scope": "PAST_OTHER_GE_1",
+      "n": 5,
+      "mae_mph": 0.8378557692307822,
+      "rmse_mph": 1.0755748356184054,
+      "bias_mph": -0.8301596153846276,
+      "correlation": 0.8018153458123218
+    },
+    {
+      "model": "ONLINE_RUNNING_FIELD_MEAN_ABLATION",
+      "scope": "PAST_OTHER_GE_1",
+      "n": 5,
+      "mae_mph": 0.7380800000000022,
+      "rmse_mph": 0.9068448445020839,
+      "bias_mph": 0.0904800000000023,
+      "correlation": 0.7844721946550569
+    },
+    {
+      "model": "FROZEN_PRIMARY_ONLINE_SHRUNK_FIELD_MEAN",
+      "scope": "PAST_OTHER_GE_1",
+      "n": 5,
+      "mae_mph": 0.6711432623626422,
+      "rmse_mph": 0.9336769942980923,
+      "bias_mph": -0.3780588530219745,
+      "correlation": 0.7618913464790157
+    },
+    {
+      "model": "FAST_FRIDAY_REFERENCE_ONLY",
+      "scope": "PAST_OTHER_GE_3",
+      "n": 3,
+      "mae_mph": 0.35633333333333894,
+      "rmse_mph": 0.44155218642119715,
+      "bias_mph": 0.30433333333333695,
+      "correlation": 0.8515267403941066
+    },
+    {
+      "model": "FROZEN_CROSS_YEAR_PRIOR_CALIBRATION",
+      "scope": "PAST_OTHER_GE_3",
+      "n": 3,
+      "mae_mph": 0.3942532051282133,
+      "rmse_mph": 0.49783085902244856,
+      "bias_mph": -0.381426282051289,
+      "correlation": 0.8515267403941066
+    },
+    {
+      "model": "ONLINE_RUNNING_FIELD_MEAN_ABLATION",
+      "scope": "PAST_OTHER_GE_3",
+      "n": 3,
+      "mae_mph": 0.6199666666666795,
+      "rmse_mph": 0.6942489010914498,
+      "bias_mph": 0.6199666666666795,
+      "correlation": 0.7515390846970875
+    },
+    {
+      "model": "FROZEN_PRIMARY_ONLINE_SHRUNK_FIELD_MEAN",
+      "scope": "PAST_OTHER_GE_3",
+      "n": 3,
+      "mae_mph": 0.30986361034799376,
+      "rmse_mph": 0.3786351141893617,
+      "bias_mph": 0.17861040521978566,
+      "correlation": 0.8213123036568657
+    }
+  ],
+  "actual_2024_reference_residual": {
+    "mean_mph": 0.07183333333333526,
+    "median_mph": 0.07800000000000296,
+    "min_mph": -0.7050000000000125,
+    "max_mph": 1.328000000000003
+  },
+  "primary_gain_vs_reference_mae_mph": -0.1259126545329679,
+  "primary_gain_vs_frozen_prior_mae_mph": 0.1389270890567833,
+  "interpretation_boundary": "Only six 2024 observations satisfy the previously frozen strict validation requirements. Results are therefore an external generalization check, not a high-power statistical estimate.",
+  "no_post_hoc_tuning": true,
+  "input_hashes": {
+    "r4/output/r4f7c7_final_performance_architecture_contract_v1.json": "0a0c4efe81f5d3404a03bc35b0e7bb8b257f8cb8839096b0ed4e44dba9e546d3",
+    "r4/output/r4f7c2c_2024_validation_numeric_matrix_v1.csv": "67730abe3a04a7580c481ff177fdc14bdff7620028e8790416bdf64f7d69e36d"
+  },
+  "next_phase": "Freeze performance-model validation conclusion. Then evaluate 2022 degraded chronology robustness and 2025 technical-regime transfer before integrating the performance distribution into the action Monte Carlo."
+}

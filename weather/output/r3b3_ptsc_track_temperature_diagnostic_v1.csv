@@ -1,0 +1,2 @@
+﻿feature,rows,pearson_corr,spearman_corr,simulator_feature_allowed,reason,causal_claim
+delta_ptsc_track_c,34,-0.2465672928,-0.2631217060,False,Future track temperature is not identifiable and air-to-track proxy is prohibited.,False

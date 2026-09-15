@@ -1,0 +1,17 @@
+{
+  "status": "R5_MANUAL_PHYSICS_DIAGNOSTIC_COMPLETE",
+  "important": "Fast Friday was not used in any model in this diagnostic.",
+  "within_run": {
+    "n": 110,
+    "selected_by_mae_for_diagnostic_only": "FADE_TRACK_NONLINEAR",
+    "mae": 0.5738469756659005,
+    "rmse": 0.9291364698560747
+  },
+  "same_car_repeat": {
+    "n": 27,
+    "selected_by_mae_for_diagnostic_only": "REPEAT_TRACK_CHANGE",
+    "mae": 0.906860953486646,
+    "rmse": 1.2635969933155715
+  },
+  "scientific_boundary": "Lowest MAE here is diagnostic only. Final model selection must retain the mandatory physical mechanism and use all three evidence layers, including first-run chronology."
+}

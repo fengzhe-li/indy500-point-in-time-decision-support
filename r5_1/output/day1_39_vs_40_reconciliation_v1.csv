@@ -1,0 +1,2 @@
+transition_id,year,car_number,driver_name,hrrr_pair_available,ptsc_pair_available,full_environment_pair_available,exclusion_reason
+135b66b6-87b3-5cb3-ba14-d2d21ed2fa92__TO__d8d8f4a5-fd52-51ca-bdc6-e2ddbea561ca,2024,21,Rinus VeeKay,False,True,False,PTSC_PAIR_AVAILABLE_BUT_HRRR_PAIR_UNAVAILABLE

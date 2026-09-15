@@ -1,0 +1,7 @@
+﻿metric,value,status
+canonical_collision_rows,3,PASS
+v1_v2_forensic_rows,6,PASS
+numeric_car_number_used_as_identity,0,PASS
+attempt_id_used_as_grounding_key,1,PASS
+existing_result_match_files_mutated,0,PASS
+canonical_data_mutated,0,PASS

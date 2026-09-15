@@ -1,0 +1,104 @@
+{
+  "phase": "R3C.1",
+  "freeze_timestamp_utc": "2026-09-09T23:44:28.593806+00:00",
+  "system_name": "Indy 500 Day 1 Qualifying Uncertainty-Aware Decision Support Prototype",
+  "final_system_class": "LIMITED_UNCERTAINTY_AWARE_PERFORMANCE_DECISION_SUPPORT",
+  "historical_truth_reconstruction": {
+    "four_lap_performance": "READY",
+    "repeat_pair_performance": "READY",
+    "2022_repeat_pair_chronology": "READY_WITH_LIMITATIONS",
+    "historical_action_semantics": "READY_WITH_LIMITATIONS",
+    "lane_identity": "PARTIAL",
+    "contemporaneous_rank_cutoff": "PARTIAL",
+    "queue_membership_position": "PARTIAL",
+    "exact_queue_wait": "NOT_IDENTIFIABLE",
+    "2022_decision_time": "NOT_IDENTIFIABLE",
+    "pit_service": "UNKNOWN_NOT_IDENTIFIABLE",
+    "rubber_grip": "UNKNOWN_NOT_IDENTIFIABLE",
+    "tire_thermal_pressure": "UNKNOWN_NOT_IDENTIFIABLE"
+  },
+  "performance_model": {
+    "central_point_prediction": "ZERO_DELTA_BASELINE",
+    "frozen_zero_delta_pooled_mae_mph": 0.5638461538461562,
+    "predictive_uncertainty": "EMPIRICAL_REPEAT_DELTA_DISTRIBUTION",
+    "recovery_branch": "EMPIRICAL_BOOTSTRAP_PLUS_BETA_POSTERIOR",
+    "recovery_all_primary": {
+      "successes": 4.0,
+      "trials": 39.0,
+      "posterior_alpha": 5.0,
+      "posterior_beta": 36.0,
+      "posterior_mean": 0.12195121951219512
+    }
+  },
+  "environment_model": {
+    "timed_weather_years": [
+      "2020",
+      "2021",
+      "2023"
+    ],
+    "timed_weather_rows": 129,
+    "repeat_pair_rows": 39,
+    "normal_fit_rows": 35,
+    "recovery_rows": 4,
+    "best_ridge_loyo_mae_mph": 0.3017006031046218,
+    "same_rows_zero_delta_mae_mph": 0.29651428571428573,
+    "mae_improvement_vs_zero_mph": -0.005186317390336093,
+    "beats_zero_delta": false,
+    "simulator_role": "SENSITIVITY_ONLY_ZERO_DELTA_REMAINS_CENTRAL",
+    "ptsc_track_temperature": "DIAGNOSTIC_ONLY",
+    "future_track_temperature": "NOT_PREDICTED",
+    "air_to_track_proxy": false
+  },
+  "monte_carlo": {
+    "central_recovery_prior": "ALL_PRIMARY",
+    "condition": "CONDITIONAL_ON_COMPLETED_REPEAT_ATTEMPT",
+    "retain_result_repeat": {
+      "mean_final_delta_mph": 0.52093556,
+      "q05_final_delta_mph": 0.0,
+      "q50_final_delta_mph": 0.174,
+      "q95_final_delta_mph": 3.462,
+      "probability_improve": 0.69789,
+      "probability_worse": 0.0
+    },
+    "withdraw_result_repeat": {
+      "mean_final_delta_mph": 0.428083195,
+      "q05_final_delta_mph": -0.927,
+      "q50_final_delta_mph": 0.174,
+      "q95_final_delta_mph": 3.462,
+      "probability_improve": 0.69789,
+      "probability_worse": 0.30211
+    },
+    "retain_minus_withdraw_mean_delta_mph": 0.09285236499999994,
+    "queue_wait_scenarios_minutes": [
+      5,
+      15,
+      30,
+      45
+    ],
+    "queue_wait_changes_central_performance": false,
+    "actual_2022_future_weather_used": false,
+    "rank_cutoff_probability_available": false,
+    "repeat_completion_probability_available": false
+  },
+  "historical_action_interpretation": {
+    "direct_lane1_observed_drivers": [
+      "Alexander Rossi",
+      "Scott McLaughlin"
+    ],
+    "takuma_sato": "REQUIRED_REATTEMPT_NOT_ELECTIVE_CHOICE",
+    "remaining_lane_assignments": "NOT_FULLY_IDENTIFIABLE"
+  },
+  "final_provenance_repairs": {
+    "scott_mclaughlin_first_attempt_speed_mph": 231.543,
+    "monte_carlo_delta_distribution_changed": false
+  },
+  "claims_policy": {
+    "hard_recommendation": false,
+    "causal_weather_claim": false,
+    "exact_2022_queue_wait_claim": false,
+    "exact_2022_decision_time_claim": false,
+    "full_live_leaderboard_reconstruction_claim": false
+  },
+  "supported_output": "PERFORMANCE_RISK_ENVELOPES_WITH_EXPLICIT_UNCERTAINTY_AND_IDENTIFIABILITY_BOUNDARIES",
+  "technical_phase_complete": true
+}

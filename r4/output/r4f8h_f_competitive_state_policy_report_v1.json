@@ -1,0 +1,28 @@
+{
+  "phase": "R4F8H-F",
+  "status": "R4F8H_COMPETITIVE_STATE_POLICY_FROZEN",
+  "evidence": {
+    "competitor_audit_status": "R4F8H-D",
+    "throughput_semantic_status": "INSUFFICIENT_NUMERIC_THROUGHPUT_SUPPORT",
+    "decision_time_benchmark_speed_coverage": "60/60",
+    "decision_time_benchmark_rank_coverage": "60/60",
+    "leaderboard_context_coverage": "60/60"
+  },
+  "final_policy": "STATIC_DECISION_TIME_BENCHMARK_PRIMARY",
+  "dynamic_competitor_evolution": "UNIDENTIFIABLE_WITH_CURRENT_EVIDENCE",
+  "primary_rank_outputs": "NOT_ALLOWED",
+  "primary_benchmark_crossing_outputs": "ALLOWED_CONDITIONAL_ON_DECISION_TIME_BENCHMARK",
+  "qa": {
+    "pass": 12,
+    "warn": 0,
+    "fail": 0
+  },
+  "protected_input_hashes": {
+    "r4/output/r4f8e_reconstructed_decision_numeric_state_v1.csv": "ec63d81fd99f72ae877f05762957e90c0ac6bdef8f28564c796b74b1984d629b",
+    "r4/output/r4f8e_reconstructed_action_numeric_interface_v1.csv": "86620bb2849b7a0831a14a926c4f031036c97ca0f9e5a74c93abd6869b5056aa",
+    "r4/output/r4f8h_d_competitor_evolution_evidence_report_v1.json": "5db948dbc53e23306c159914fbb4de6e90baa343d3d724ca600ea495a91df0cb",
+    "r4/output/r4f8h_e_throughput_proxy_report_v1.json": "6fd12fe1e7abbb133fde62f1cec081285588801eb23e65b5a7233f6d96484323"
+  },
+  "final_mc_executed": false,
+  "next_phase": "R4F8H-G_FINAL_ACTION_MONTE_CARLO"
+}

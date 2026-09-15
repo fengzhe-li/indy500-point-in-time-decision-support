@@ -1,0 +1,63 @@
+{
+  "phase": "R4F7C2B",
+  "status": "R4F7C2B_EXACT_WEATHER_JOIN_SCHEMA_READY",
+  "frozen_target_attempts": 110,
+  "source_files": [
+    {
+      "file": "weather/evidence/ptsc/indy500_day1_track_temp_2020_2024.csv",
+      "exists": true,
+      "rows": 168,
+      "columns": 26,
+      "parseable_datetime_columns": "session_date;local_time",
+      "numeric_columns": "year;source_row_index;ambient_f;ambient_c;track_f;track_c;humidity;wind_raw;wind;pressure_raw;pressure;sensor_1_f;sensor_2_f;sensor_3_f;sensor_4_f;sensor_avg_f",
+      "exact_target_time_matches": 0
+    },
+    {
+      "file": "weather/evidence/ptsc/indy500_day1_track_temp_2020_2024_time_normalized.csv",
+      "exists": true,
+      "rows": 168,
+      "columns": 30,
+      "parseable_datetime_columns": "session_date;local_time;local_datetime;utc_datetime",
+      "numeric_columns": "year;source_row_index;ambient_f;ambient_c;track_f;track_c;humidity;wind_raw;wind;pressure_raw;pressure;sensor_1_f;sensor_2_f;sensor_3_f;sensor_4_f;sensor_avg_f",
+      "exact_target_time_matches": 1
+    },
+    {
+      "file": "weather/output/performance_grade_attempt_realized_environment.csv",
+      "exists": true,
+      "rows": 129,
+      "columns": 33,
+      "parseable_datetime_columns": "mapped_capture_time_utc;ptsc_before_utc;ptsc_after_utc",
+      "numeric_columns": "year;car_number;car_attempt_index;ptsc_gap_minutes;ptsc_ambient_c;ptsc_track_c;ptsc_humidity;ptsc_wind;ptsc_pressure;ptsc_sensor_1_f;ptsc_sensor_2_f;ptsc_sensor_3_f;ptsc_sensor_4_f;ptsc_sensor_avg_f",
+      "exact_target_time_matches": 104
+    },
+    {
+      "file": "weather/output/performance_context_features.csv",
+      "exists": true,
+      "rows": 136,
+      "columns": 118,
+      "parseable_datetime_columns": "performance_time_utc;most_recent_supported_attempt_time_utc;selected_issue_time_utc;before_valid_time_utc;after_valid_time_utc",
+      "numeric_columns": "car_number;car_attempt_index;four_lap_total_seconds;four_lap_average_speed_mph;prior_supported_attempt_count;seconds_since_prior_supported_attempt;prior_supported_attempt_average_speed_mph;prior_supported_attempt_total_seconds;best_prior_supported_average_speed_mph;best_prior_supported_total_seconds;speed_change_vs_prior_supported_attempt_mph;speed_change_vs_best_prior_supported_mph;selected_issue_age_minutes;before_forecast_lead_hours;after_forecast_lead_hours;before_valid_offset_minutes;after_valid_offset_minutes;interpolation_weight_after;forecast_DPT_2m;forecast_DPT_2m_before;forecast_DPT_2m_after;forecast_DSWRF_surface;forecast_DSWRF_surface_before;forecast_DSWRF_surface_after;forecast_GUST_surface;forecast_GUST_surface_before;forecast_GUST_surface_after;forecast_PRES_surface;forecast_PRES_surface_before;forecast_PRES_surface_after;forecast_TCDC_atmosphere;forecast_TCDC_atmosphere_before;forecast_TCDC_atmosphere_after;forecast_TMP_2m;forecast_TMP_2m_before;forecast_TMP_2m_after;forecast_UGRD_10m;forecast_UGRD_10m_before;forecast_UGRD_10m_after;forecast_VGRD_10m;forecast_VGRD_10m_before;forecast_VGRD_10m_after;forecast_cloud_cover_pct;forecast_cloud_cover_pct_before;forecast_cloud_cover_pct_after;forecast_dewpoint_c;forecast_dewpoint_c_before;forecast_dewpoint_c_after;forecast_gust_ms;forecast_gust_ms_before;forecast_gust_ms_after;forecast_pressure_hpa;forecast_pressure_hpa_before;forecast_pressure_hpa_after;forecast_relative_humidity_pct;forecast_relative_humidity_pct_before;forecast_relative_humidity_pct_after;forecast_shortwave_radiation_wm2;forecast_shortwave_radiation_wm2_before;forecast_shortwave_radiation_wm2_after;forecast_temp_c;forecast_temp_c_before;forecast_temp_c_after;forecast_wind_direction_deg;forecast_wind_direction_deg_before;forecast_wind_direction_deg_after;forecast_wind_speed_10m_ms;forecast_wind_speed_10m_ms_before;forecast_wind_speed_10m_ms_after",
+      "exact_target_time_matches": 110
+    },
+    {
+      "file": "weather/output/performance_grade_hrrr_forecast_alignment.csv",
+      "exists": true,
+      "rows": 136,
+      "columns": 99,
+      "parseable_datetime_columns": "performance_time_utc;selected_issue_time_utc;before_valid_time_utc;after_valid_time_utc",
+      "numeric_columns": "car_number;car_attempt_index;selected_issue_age_minutes;before_forecast_lead_hours;after_forecast_lead_hours;before_valid_offset_minutes;after_valid_offset_minutes;interpolation_weight_after;forecast_DPT_2m;forecast_DPT_2m_before;forecast_DPT_2m_after;forecast_DSWRF_surface;forecast_DSWRF_surface_before;forecast_DSWRF_surface_after;forecast_GUST_surface;forecast_GUST_surface_before;forecast_GUST_surface_after;forecast_PRES_surface;forecast_PRES_surface_before;forecast_PRES_surface_after;forecast_TCDC_atmosphere;forecast_TCDC_atmosphere_before;forecast_TCDC_atmosphere_after;forecast_TMP_2m;forecast_TMP_2m_before;forecast_TMP_2m_after;forecast_UGRD_10m;forecast_UGRD_10m_before;forecast_UGRD_10m_after;forecast_VGRD_10m;forecast_VGRD_10m_before;forecast_VGRD_10m_after;forecast_cloud_cover_pct;forecast_cloud_cover_pct_before;forecast_cloud_cover_pct_after;forecast_dewpoint_c;forecast_dewpoint_c_before;forecast_dewpoint_c_after;forecast_gust_ms;forecast_gust_ms_before;forecast_gust_ms_after;forecast_pressure_hpa;forecast_pressure_hpa_before;forecast_pressure_hpa_after;forecast_relative_humidity_pct;forecast_relative_humidity_pct_before;forecast_relative_humidity_pct_after;forecast_shortwave_radiation_wm2;forecast_shortwave_radiation_wm2_before;forecast_shortwave_radiation_wm2_after;forecast_temp_c;forecast_temp_c_before;forecast_temp_c_after;forecast_wind_direction_deg;forecast_wind_direction_deg_before;forecast_wind_direction_deg_after;forecast_wind_speed_10m_ms;forecast_wind_speed_10m_ms_before;forecast_wind_speed_10m_ms_after",
+      "exact_target_time_matches": 110
+    },
+    {
+      "file": "weather/output/hrrr_ims_2020_2024_features.csv",
+      "exists": true,
+      "rows": 259,
+      "columns": 24,
+      "parseable_datetime_columns": "date;cycle_time_utc;valid_time_utc",
+      "numeric_columns": "date;forecast_hour;TMP_2m;DPT_2m;UGRD_10m;VGRD_10m;GUST_surface;PRES_surface;TCDC_atmosphere;DSWRF_surface;temp_c;dewpoint_c;relative_humidity_pct;wind_speed_10m_ms;wind_direction_deg;pressure_hpa;gust_ms;cloud_cover_pct;shortwave_radiation_wm2;forecast_lead_hours",
+      "exact_target_time_matches": 0
+    }
+  ],
+  "goal": "Resolve exact PTSC temporal schema and confirm the already-aligned performance-context / canonical HRRR schemas before constructing the frozen numeric matrix.",
+  "no_model_fit": true
+}

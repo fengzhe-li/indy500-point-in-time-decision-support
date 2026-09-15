@@ -1,0 +1,90 @@
+====================================================================================================
+INDY 500 V2-C WIND / PHYSICS-RESIDUAL DIAGNOSTIC
+====================================================================================================
+
+LINKAGE / COVERAGE
+----------------------------------------------------------------------------------------------------
+V2-B linked transitions: 39
+rows with raw LOYO residual: 39/39
+abs_delta_wind_speed_ms: 39/39
+abs_delta_gust_ms: 39/39
+wind_vector_change_ms: 38/39
+mean_wind_speed_ms: 39/39
+mean_gust_ms: 39/39
+abs_delta_ptsc_wind: 38/39
+abs_delta_forecast_wind_speed_10m_ms: 38/39
+abs_delta_forecast_gust_ms: 38/39
+
+RAW SPEARMAN WITH ABSOLUTE PHYSICS RESIDUAL
+----------------------------------------------------------------------------------------------------
+                         wind_metric  n  spearman_rho  p_value_descriptive_only
+             abs_delta_wind_speed_ms 39      0.064170                  0.697939
+                   abs_delta_gust_ms 39      0.344534                  0.031725
+               wind_vector_change_ms 38      0.115877                  0.488440
+                  mean_wind_speed_ms 39      0.064980                  0.694311
+                        mean_gust_ms 39      0.107287                  0.515633
+                 abs_delta_ptsc_wind 38     -0.063796                  0.703562
+abs_delta_forecast_wind_speed_10m_ms 38      0.032498                  0.846418
+          abs_delta_forecast_gust_ms 38      0.313492                  0.055294
+
+PARTIAL SPEARMAN CONTROLLING ABSOLUTE OVERALL PERFORMANCE CHANGE
+----------------------------------------------------------------------------------------------------
+                         wind_metric  n  partial_spearman_controlling_abs_delta
+             abs_delta_wind_speed_ms 39                               -0.031890
+                   abs_delta_gust_ms 39                                0.199002
+               wind_vector_change_ms 38                                0.208751
+                  mean_wind_speed_ms 39                                0.028497
+                        mean_gust_ms 39                                0.060187
+                 abs_delta_ptsc_wind 38                               -0.122406
+abs_delta_forecast_wind_speed_10m_ms 38                               -0.045482
+          abs_delta_forecast_gust_ms 38                                0.189685
+
+BY-YEAR DESCRIPTIVE SPEARMAN
+----------------------------------------------------------------------------------------------------
+ year                          wind_metric  n  spearman_rho
+ 2020              abs_delta_wind_speed_ms 11     -0.509091
+ 2020                    abs_delta_gust_ms 11      0.354545
+ 2020                wind_vector_change_ms 11     -0.027273
+ 2020                   mean_wind_speed_ms 11      0.036364
+ 2020                         mean_gust_ms 11      0.254545
+ 2020                  abs_delta_ptsc_wind 11     -0.118182
+ 2020 abs_delta_forecast_wind_speed_10m_ms 11     -0.509091
+ 2020           abs_delta_forecast_gust_ms 11      0.354545
+ 2021              abs_delta_wind_speed_ms 15     -0.132143
+ 2021                    abs_delta_gust_ms 15      0.046429
+ 2021                wind_vector_change_ms 15      0.042857
+ 2021                   mean_wind_speed_ms 15     -0.039286
+ 2021                         mean_gust_ms 15     -0.053571
+ 2021                  abs_delta_ptsc_wind 15      0.235925
+ 2021 abs_delta_forecast_wind_speed_10m_ms 15     -0.132143
+ 2021           abs_delta_forecast_gust_ms 15      0.046429
+ 2023              abs_delta_wind_speed_ms 13      0.428571
+ 2023                    abs_delta_gust_ms 13      0.549451
+ 2023                wind_vector_change_ms 12      0.391608
+ 2023                   mean_wind_speed_ms 13     -0.192308
+ 2023                         mean_gust_ms 13     -0.038462
+ 2023                  abs_delta_ptsc_wind 12     -0.006993
+ 2023 abs_delta_forecast_wind_speed_10m_ms 12      0.391608
+ 2023           abs_delta_forecast_gust_ms 12      0.503497
+
+LARGEST ABSOLUTE PHYSICS RESIDUAL CASES
+----------------------------------------------------------------------------------------------------
+ year  car_number      driver_name  delta_speed_mph  abs_physics_residual_mph  delta_wind_speed_ms  delta_gust_ms  wind_vector_change_ms  mean_wind_speed_ms  mean_gust_ms
+ 2021          60      Jack Harvey            4.695                  4.697200            -0.265414      -0.378085               0.331060            3.130374      5.008569
+ 2023          77     Callum Ilott            3.462                  3.471798             0.501939       0.390713               0.631530            4.803984      6.506819
+ 2020          81       Ben Hanley            1.971                  1.659027            -0.099065       0.593106               0.123824            0.715754      1.781709
+ 2020          59      Max Chilton            1.484                  1.249781            -0.140380       1.304035               0.235995            0.556014      1.632315
+ 2021          26     Colton Herta           -1.419                  1.192681             0.191325      -0.115698               0.312272            3.487993      5.088165
+ 2021           4   Dalton Kellett           -0.927                  0.874788            -0.208120      -1.272370               0.822608            3.081015      4.582211
+ 2023          66      Tony Kanaan            0.727                  0.848327             0.522518       0.950205               0.533957            5.296831      7.181626
+ 2023           6 Felix Rosenqvist            0.848                  0.799532             0.679444       2.439944                    NaN            4.446962      7.029457
+ 2021          18         Ed Jones            0.798                  0.605736             0.952904      -0.030590               2.489173            2.723957      4.624444
+ 2023           8  Marcus Ericsson            0.609                  0.556205             1.080712       1.394911               1.214817            5.480672      7.446541
+
+INTERPRETATION BOUNDARY
+----------------------------------------------------------------------------------------------------
+This is a residual diagnostic, not a new predictive wind model.
+PTSC and HRRR-derived wind evidence are not merged into a single physical variable.
+Raw wind associations must not be interpreted without the magnitude-controlled result.
+Wind direction is treated through vector-state change where possible rather than raw angular difference.
+No deterministic wind coefficient is justified solely by this diagnostic.

@@ -1,0 +1,12 @@
+metric,value,expected,status
+decision_universe,60,60,PASS
+action_universe,170,170,PASS
+final_mc_results_present,1183,1183,PASS
+candidate_fields_found,203,MEASURED,PASS
+historical_action_candidates,44,MEASURED_NOT_ASSUMED_VALID,PASS
+later_attempt_candidates,4,MEASURED_NOT_ASSUMED_VALID,PASS
+realized_speed_candidates,19,MEASURED_NOT_ASSUMED_VALID,PASS
+benchmark_outcome_candidates,0,MEASURED_NOT_ASSUMED_VALID,PASS
+historical_action_used_as_optimal_label,False,False,PASS
+future_outcome_used_as_r4f8h_feature,False,False,PASS
+model_refit,False,False,PASS

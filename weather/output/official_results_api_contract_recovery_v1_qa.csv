@@ -1,0 +1,11 @@
+﻿metric,value,status
+bundle_exists,1,PASS
+seed_pages_successful,5,PASS
+bundle_context_rows,49,PASS
+api_contract_rows,11,PASS
+events_session_details_contract_found,1,PASS
+concrete_page_identifier_rows,0,INFO
+years_with_concrete_identifiers,,REVIEW
+api_calls_executed,0,PASS
+canonical_data_mutated,0,PASS
+policy_hash,47266a0e6cb5a77ff7f2aa24c89be4dd1231e1e4f32cb171f096a99d3faa78c3,INFO

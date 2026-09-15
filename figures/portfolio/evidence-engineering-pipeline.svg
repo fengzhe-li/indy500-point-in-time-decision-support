@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#45c7d8"/></marker></defs>
+<rect width="1600" height="900" fill="#0b1118"/>
+<text x="80" y="85" fill="#edf4f7" font-family="Arial" font-size="42" font-weight="700">Evidence-to-decision-support pipeline</text>
+<text x="80" y="125" fill="#9bb0bd" font-family="Arial" font-size="21">Each gate preserves source authority, chronology and scientific role.</text>
+<rect x="55" y="185" width="265" height="155" rx="18" fill="#141e29" stroke="#45c7d8" stroke-width="3"/>
+<text x="83" y="227" fill="#45c7d8" font-family="Arial" font-size="23" font-weight="700">HISTORICAL SOURCES</text>
+<text x="83" y="265" fill="#edf4f7" font-family="Arial" font-size="19">official results • timing • PTSC • weather</text>
+<path d="M320 263 L355 263" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="362" y="185" width="265" height="155" rx="18" fill="#141e29" stroke="#45c7d8" stroke-width="3"/>
+<text x="390" y="227" fill="#45c7d8" font-family="Arial" font-size="23" font-weight="700">AUTHORITY + PROVENANCE</text>
+<text x="390" y="265" fill="#edf4f7" font-family="Arial" font-size="19">field-level lineage and source class</text>
+<path d="M627 263 L662 263" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="669" y="185" width="265" height="155" rx="18" fill="#141e29" stroke="#45c7d8" stroke-width="3"/>
+<text x="697" y="227" fill="#45c7d8" font-family="Arial" font-size="23" font-weight="700">ATTEMPT RECONSTRUCTION</text>
+<text x="697" y="265" fill="#edf4f7" font-family="Arial" font-size="19">four-lap identity and chronology</text>
+<path d="M934 263 L969 263" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="976" y="185" width="265" height="155" rx="18" fill="#141e29" stroke="#45c7d8" stroke-width="3"/>
+<text x="1004" y="227" fill="#45c7d8" font-family="Arial" font-size="23" font-weight="700">ELIGIBILITY + QUARANTINE</text>
+<text x="1004" y="265" fill="#edf4f7" font-family="Arial" font-size="19">reject unresolved joins and leakage</text>
+<path d="M1241 263 L1276 263" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="1283" y="185" width="265" height="155" rx="18" fill="#141e29" stroke="#65d6a6" stroke-width="3"/>
+<text x="1311" y="227" fill="#65d6a6" font-family="Arial" font-size="23" font-weight="700">FROZEN TRANSITIONS</text>
+<text x="1311" y="265" fill="#edf4f7" font-family="Arial" font-size="19">41 same-car evidence units</text>
+<rect x="55" y="500" width="265" height="155" rx="18" fill="#141e29" stroke="#65d6a6" stroke-width="3"/>
+<text x="83" y="542" fill="#65d6a6" font-family="Arial" font-size="23" font-weight="700">TWO MODEL LAYERS</text>
+<text x="83" y="580" fill="#edf4f7" font-family="Arial" font-size="19">physical response + future track state</text>
+<path d="M320 578 L355 578" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="362" y="500" width="265" height="155" rx="18" fill="#141e29" stroke="#65d6a6" stroke-width="3"/>
+<text x="390" y="542" fill="#65d6a6" font-family="Arial" font-size="23" font-weight="700">MONTE CARLO</text>
+<text x="390" y="580" fill="#edf4f7" font-family="Arial" font-size="19">three uncertainty sources propagated</text>
+<path d="M627 578 L662 578" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="669" y="500" width="265" height="155" rx="18" fill="#141e29" stroke="#45c7d8" stroke-width="3"/>
+<text x="697" y="542" fill="#45c7d8" font-family="Arial" font-size="23" font-weight="700">VALIDATION + DIAGNOSTICS</text>
+<text x="697" y="580" fill="#edf4f7" font-family="Arial" font-size="19">LOYO • 2025 external • sections • wind</text>
+<path d="M934 578 L969 578" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="976" y="500" width="265" height="155" rx="18" fill="#141e29" stroke="#ff9f43" stroke-width="3"/>
+<text x="1004" y="542" fill="#ff9f43" font-family="Arial" font-size="23" font-weight="700">OPERATIONAL PRESENTATION</text>
+<text x="1004" y="580" fill="#edf4f7" font-family="Arial" font-size="19">five anchors + labelled interpolation</text>
+<path d="M1241 578 L1276 578" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="1283" y="500" width="265" height="155" rx="18" fill="#141e29" stroke="#ff9f43" stroke-width="3"/>
+<text x="1311" y="542" fill="#ff9f43" font-family="Arial" font-size="23" font-weight="700">HUMAN DECISION CONTEXT</text>
+<text x="1311" y="580" fill="#edf4f7" font-family="Arial" font-size="19">live queue and competitive state remain external</text>
+<path d="M1380 340 L1380 450" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<path d="M1380 450 L115 450 L115 500" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
+</svg>

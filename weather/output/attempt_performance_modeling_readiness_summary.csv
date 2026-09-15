@@ -1,0 +1,14 @@
+﻿metric,value,status
+input_rows_equal_136,1.0,PASS
+target_rows_equal_expected_123,1.0,PASS
+model_target_spans_4_years,1.0,PASS
+derived_hrrr_complete_136,1.0,PASS
+no_hard_excluded_field_in_baseline,1.0,PASS
+raw_derived_redundancy_confirmed,1.0,PASS
+baseline_feature_set_nonempty,1.0,PASS
+input_rows,136.0,INFO
+target_nonnull_rows,123.0,INFO
+baseline_candidate_features,16.0,INFO
+high_redundancy_pairs_ge_0_95,9.0,INFO
+wind_speed_uv_reconstruction_mae,0.03198683447262409,INFO
+wind_speed_uv_reconstruction_max_abs_error,0.24207263982119848,INFO

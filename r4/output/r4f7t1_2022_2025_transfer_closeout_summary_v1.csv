@@ -1,0 +1,3 @@
+year,role,canonical_attempt_rows,matched_first_attempt_reference_rows,point_time_rows,interval_lower_rows,interval_upper_rows,chronology_usable_rows,raw_reference_mae_mph,frozen_prior_mae_mph,strongest_valid_claim
+2022,DEGRADED_CHRONOLOGY_TRANSFER_ROBUSTNESS,44,32,0,5,5,21,2.4976562500000012,3.0209609375000097,REFERENCE_TO_OUTCOME_ROBUSTNESS; PREQUENTIAL_REPLAY_ONLY_IF_REAL_POINT_TIMES_EXIST
+2025,TECHNICAL_REGIME_TRANSFER,0,33,0,0,0,0,,,REFERENCE_TRANSFER_EVIDENCE_ONLY; NO LOCAL QUALIFYING OUTCOME VALIDATION

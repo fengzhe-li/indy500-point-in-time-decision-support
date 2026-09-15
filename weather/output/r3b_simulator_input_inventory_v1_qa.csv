@@ -1,0 +1,6 @@
+﻿metric,value,status
+state_v3_present,1,PASS
+relevant_files_found,128,PASS
+performance_candidates_found,103,PASS
+weather_candidates_found,25,PASS
+files_mutated,0,PASS

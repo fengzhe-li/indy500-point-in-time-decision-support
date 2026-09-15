@@ -1,201 +1,253 @@
-# Physics-Conditioned Probabilistic Performance Inference for Indianapolis 500 Qualifying
+<div align="center">
 
-**Evidence engineering · physical-state inference · calibrated uncertainty · external-regime evaluation · operational decision support**
+# Indianapolis 500 Requalification Decision Support
 
-The original engineering question was operational: **should a team retain its current qualifying result or withdraw it to seek another run?** A historical identifiability audit showed that the opportunity process could not be reconstructed defensibly from public evidence: Lane 1/2 state, withdrawals, requeue timing, pit return, live queue position, exact timestamps, team intent and race-control effects were incomplete or inconsistent.
+### Physics-conditioned probabilistic inference for a decision that public history cannot fully identify
 
-The project therefore does **not** fabricate a queue-time predictor. It reformulates the identifiable component as:
+**FINAL_V2 frozen scientific core** · **2020–2024 reference era** · **2025 external regime evaluation** · **Human in the loop**
 
-> **If another on-track opportunity occurs `h` minutes from now, what distribution of four-lap qualifying-performance change should be expected relative to the current official result?**
+[Methodology](docs/methodology.md) · [Model card](docs/model-card.md) · [Validation](docs/validation.md) · [Evidence engineering](docs/evidence-engineering.md) · [Full report](docs/paper/physics_conditioned_probabilistic_performance_inference.pdf)
 
-The scientific target is **p(Δv | H=h)**, not `P(H=h)`.
+</div>
 
-## 1. Identifiability-driven architecture
+![Identifiability-driven system boundary](figures/portfolio/identifiability-system-boundary.svg)
 
-![Identifiability-driven architecture](figures/figure1_identifiability_architecture.svg)
+> **The key engineering result is a boundary.** Public historical evidence does not consistently reveal queue entry, Lane 1/Lane 2 state, withdrawals, requeue timing, pit return, live queue position or team intent. The project therefore does not guess an opportunity-time model or imitate historical decisions. It estimates the identifiable conditional performance problem and leaves the final retain/withdraw judgement to the pit wall.
 
-This boundary is central to the project: historical evidence supports conditional physical-performance inference, but not a defensible historical model of the opportunity/queue process. Live queue context can therefore be overlaid only as external decision context, not learned as `P(H|Q)` from the reconstructed archive.
+## The system in one screen
 
-## 2. Evidence engineering before modelling
+| Evidence / result | Verified value | Meaning |
+|---|---:|---|
+| Frozen same-car transitions | **41** | Small, high-confidence performance core |
+| Section-linked transitions | **39 / 41** | Mechanism evidence; sections are not independent rows |
+| Scientific horizons | **15 / 30 / 60 / 90 / 120 min** | Independently fitted/calibrated anchors |
+| Stress-test scenarios | **135** | Thermal gap × ambient path × solar state × horizon |
+| 2025 external cases | **15** | Hybrid-era realized-weather retrospective evaluation |
+| External MAE / RMSE | **0.492 / 0.610 mph** | Point-error scale across all 15 cases |
+| External 80% / 90% PI coverage | **80% / 100%** | Empirical rates in a small external sample |
+| External directional accuracy | **46.7%** | Weak direction discrimination, reported without concealment |
 
-The compact final response equation is only the visible end of a much larger reconstruction problem. The repository retains source registry, provenance, chronology constraints, field-level evidence links, eligibility rules, quarantine logic, canonical tables and QA outputs because these determine which historical transitions are scientifically usable.
+The model is more useful as a **probabilistic physical-opportunity envelope** than as a binary prediction that the next run will be faster. Of the 15 external cases, **4** lie inside the production boundary of ≤120 minutes; that subset has MAE **0.221 mph**, RMSE **0.269 mph**, 80% coverage **100%**, 90% coverage **100%**, and directional accuracy **50%**. These four cases are too few for a broad calibration claim.
 
-The frozen 2020–2024 reference contains **41 evidence-qualified same-car transitions**. Same-car differencing reduces persistent car/driver/configuration effects while preserving the within-car environmental change relevant to a repeat attempt.
+## The engineering problem
 
-## 3. Frozen physical-response core
+After setting a valid four-lap average, an Indianapolis 500 entrant may retain it and wait in the lower-priority lane, or withdraw it to seek priority for another attempt. That choice combines at least three different processes:
 
-For an evidence-qualified same-car transition:
+1. **Opportunity:** whether and when another run becomes available.
+2. **Physical performance:** how the car's four-lap performance distribution changes as conditions evolve.
+3. **Utility:** how rank, bubble position, time remaining and downside risk affect the team decision.
 
-`Δv = β_track ΔT_track + β_ambient ΔT_ambient + ε`
+Historical evidence was sufficient for the second process, but not for a consistently labelled first process. That finding changed the estimand from a complete strategy policy to:
 
-with frozen coefficients:
+> **If another on-track opportunity occurs _h_ minutes from now, what distribution of four-lap qualifying-performance change should be expected relative to the current official result?**
 
-- `β_track = -0.03482533`
-- `β_ambient = +0.18239338`
+Formally, the project estimates **p(Δv | H = h)**. It does not estimate **P(H = h)**. Physical-performance inference, opportunity-time prediction and strategy recommendation remain separate layers.
 
-The ambient coefficient is interpreted **conditionally**, not as an isolated universal causal effect, because the retained thermal variables are correlated. Paired bootstrap inference preserves their joint uncertainty; the bootstrap coefficient correlation is approximately **-0.9085**.
+![Evidence engineering pipeline](figures/portfolio/evidence-engineering-pipeline.svg)
 
-### Physical-state structure
+## Evidence engineering and data archaeology
 
-![Physical-state transitions](figures/identifiability_reformulation.svg)
+The analysis began with official results and detailed reports, then reconciled attempts, chronology, section timing, observed track temperature, weather context and source authority. Every usable value carries evidence and eligibility semantics; unresolved joins remain quarantined.
 
-### Observed versus frozen physical prediction
+![Evidence products and attrition](figures/portfolio/evidence-products-and-attrition.svg)
 
-![Observed versus frozen prediction](figures/external_regime_evaluation_2025.svg)
+The two core datasets use different observational units. The performance response uses **41 same-car transitions**. The future-state layer uses **168 structured track-temperature observations**, transformed into **656 current–future pairs** at the supported horizons. Section evidence links to **39** transitions and contributes **351 dependent within-transition comparisons**, not 351 independent training examples.
 
-Internal median absolute point error is approximately **0.311 mph**. Nominal predictive-interval coverage is approximately **82.9% for 80% intervals** and **90.2% for 90% intervals**.
+![Evidence hierarchy](figures/portfolio/evidence-hierarchy.svg)
 
-## 4. Future track-state inference
+![Same-car transition design](figures/portfolio/same-car-transition-design.svg)
 
-The future opportunity horizon is treated as a condition supplied to the model. Future track temperature is inferred from the current physical state and future environmental trajectory rather than manually supplied as an input.
+See [evidence engineering](docs/evidence-engineering.md), [data dictionary](docs/data-dictionary.md), and [identifiability boundary](docs/identifiability-boundary.md).
 
-The retained M2b structure uses horizon, ambient-temperature change, the current track-to-ambient thermal gap and mean future solar state. Solar is kept on the physical pathway through future track state; it is **not** inserted as a direct speed term.
+## Frozen physical-response model
 
-### Paper Figure 1 — future track-temperature model selection
-
-![Paper Figure 1](figures/paper/figure01_future_track_model_selection.svg)
-
-The retained M2b model achieved a macro MAE of approximately **1.939°C**, compared with **1.990°C** for the non-solar M1 reference. The PTSC-normalized track-temperature evidence contains 168 rows and 656 matched pairs.
-
-## 5. Horizon-specific uncertainty calibration
-
-Scientific calibration is frozen at exactly **15, 30, 60, 90 and 120 minutes**. The 120-minute boundary is empirical/model-validation support, not a rules-derived limit.
-
-### Paper Figure 2 — conformal calibration
-
-![Paper Figure 2](figures/paper/figure02_future_track_conformal_calibration.svg)
-
-Overall conformal coverage is approximately **80.6% / 90.9%** for nominal 80% / 90% intervals. The difficult 2022 held-out regime remains visible, with substantially weaker coverage, and is treated as an explicit distribution-shift/applicability warning rather than hidden by aggregate performance.
-
-### Calibration diagnostic
-
-![Conformal calibration diagnostic](figures/conformal_calibration.svg)
-
-## 6. Uncertainty propagation and ablation
-
-The final performance distribution propagates three distinct uncertainty sources: paired coefficient uncertainty, future physical-state uncertainty and empirical unexplained attempt-level performance variation. Empirical performance residuals dominate the final predictive width.
-
-![Uncertainty ablation](figures/uncertainty_ablation.svg)
-
-This is an **ablation/sensitivity analysis**, not a strict variance decomposition.
-
-## 7. Systematic scenario stress testing
-
-V2-E evaluates **135** combinations of thermal gap × ambient trajectory × solar state × horizon to test whether the frozen system behaves coherently across plausible operating conditions.
-
-![V2-E 120-minute stress test](figures/figure7_v2e_120min_stress_test.svg)
-
-The stress test is used to expose behaviour and boundary cases; it is not a substitute for external validation.
-
-## 8. Regulation-aware analysis
-
-Technical regime and qualifying-format regime are kept separate. Three technical periods were investigated:
-
-| Technical period | Statistical role | Quantitative evidence |
-|---|---|---:|
-| 2018–2019 pre-Aeroscreen | early-regime investigation | 2019: **10** clean transitions; 2018 insufficient after filtering |
-| 2020–2024 Aeroscreen / pre-hybrid | frozen production reference | **41** transitions |
-| 2025–2026 hybrid/later era | transferability + applicability analysis | 2025: **23** primary physics-safe transitions; 2026 mainly an applicability boundary |
-
-Comparable coefficient fits preserve the same qualitative signs:
-
-| Regime | N | β_track | β_ambient |
-|---|---:|---:|---:|
-| 2019 pre-Aeroscreen | 10 | -0.05059 | +0.17008 |
-| 2020–2024 reference | 41 | -0.03483 | +0.18239 |
-| 2025 hybrid era | 23 | -0.06308 | +0.12100 |
-
-This does **not** justify claiming coefficient invariance across eras. The later samples are used to examine transferability rather than silently enlarging the frozen reference training set.
-
-## 9. External 2025 evaluation
-
-The frozen 2020–2024 inference chain was evaluated **without refitting** on **15 eligible 2025 hybrid-era repeat-attempt cases**.
-
-| External metric | 2025 result |
-|---|---:|
-| MAE | **0.492 mph** |
-| Median absolute error | **0.425 mph** |
-| RMSE | **0.610 mph** |
-| 80% PI coverage | **80.0%** |
-| 90% PI coverage | **100.0%** |
-| Directional accuracy | **46.7%** |
-| Observed improvement rate | **60.0%** |
-
-The weak directional accuracy is deliberately retained: `P(improve)` has limited classification separation in the external sample. The evidence therefore supports **uncertainty-aware physical inference** more strongly than deterministic faster/slower prediction.
-
-### Full external-regime view
-
-![2025 external validation](figures/figure8_external_2025_validation.svg)
-
-### Cases within the calibrated ≤120-minute support boundary
-
-![2025 supported horizon evaluation](figures/figure8_external_2025_supported_120min.svg)
-
-Only **4** of the 15 realised external horizons lie within the calibrated ≤120-minute production boundary. For these supported cases, MAE is approximately **0.221 mph**; longer-horizon cases are retained only as diagnostics.
-
-### Beyond-120-minute applicability diagnostic
-
-![Beyond 120 minutes](figures/appendix_external_2025_beyond_120min.svg)
-
-The 15-case end-to-end external evaluation must not be conflated with the separate **23-transition 2025 regulation-aware coefficient-comparison sample**.
-
-## 10. Operational presentation layer
-
-`FINAL_V2` is the frozen scientific/model layer. `OPERATIONAL_CURVE_V2` is a separate derived visualization layer.
-
-At `h=0`, the current state is a deterministic boundary with expected/median Δspeed = 0; it is **not** represented as a fabricated probabilistic forecast. The calibrated anchors remain 15/30/60/90/120 minutes. Intermediate minute-level values are piecewise-linear interpolation of frozen output summaries, not new Monte Carlo runs or new calibration points.
-
-![Operational performance outlook](figures/operational_performance_outlook.svg)
-
-No production output is extended beyond 120 minutes. No best-wait time, queue prediction or autonomous strategy recommendation is produced.
-
-## 11. Diagnostics and rejected extensions
-
-Negative results are part of the engineering evidence:
-
-- **Queue/opportunity predictor:** rejected because the historical opportunity process is not reliably identifiable.
-- **Direct solar performance term:** rejected; solar remains on the future-track-state pathway.
-- **Wind performance term:** not retained because historical support was not sufficiently stable across years.
-- **Section-level mechanism expansion:** used diagnostically; broad spatial coherence did not justify automatically expanding the production feature set.
-- **Arbitrary minute-level scientific forecasts:** rejected; interpolation is isolated in the operational presentation layer.
-- **Pooling 2025 into the reference fit:** rejected to preserve external-evaluation integrity.
-
-## 12. What the system supports — and what it does not
-
-The system supports conditional inference about how the **distribution** of four-lap performance may shift if another opportunity occurs at a specified horizon. It quantifies expected Δspeed, predictive intervals, `P(improve)` and expected future four-lap speed under the physical state model.
-
-It does **not** predict `P(H|Q)`, exact queue duration, Lane 1 versus Lane 2 waiting time, competitor behaviour, team intent, weather-forecast skill, an optimal wait, or a withdraw/retain decision. A real pit-wall decision must combine this physical-performance evidence with live queue state, leaderboard position, remaining session time, driver feedback, competitors, team objectives, risk tolerance and race-control context.
-
-## 13. Repository map
+The robust zero-intercept response model is:
 
 ```text
-├── README.md
-├── docs/                  # identifiability boundary, methodology, model documentation
-├── data/                  # canonical, provenance and plotting data
-├── evidence/              # source/evidence work where publication-safe
-├── figures/
-│   ├── paper/             # figures explicitly aligned to the final manuscript
-│   └── ...                # diagnostics, stress tests, external and operational views
-├── pipeline/              # reconstruction, provenance, eligibility and QA
-├── src/                   # selected frozen modelling/diagnostic implementations
-├── results/               # frozen outputs, manifests, QA and external evaluation
-├── paper/                 # technical report assets
-├── requirements.txt
-└── .gitignore
+Δvphysical = βtrack ΔTtrack + βambient ΔTambient
+
+βtrack   = −0.034825 mph / °C
+βambient = +0.182393 mph / °C
 ```
 
-See the expanded [`figures/GALLERY.md`](figures/GALLERY.md) for the complete figure inventory and the distinction between paper-aligned figures and supplementary project assets.
+The zero intercept encodes a narrow physical constraint: when both measured temperature changes are zero, the modelled thermal contribution is zero. It does **not** claim that realized speed change must be zero; tyre preparation, setup, execution, wind exposure and other latent run state remain in the residual distribution.
 
-## 14. Frozen status
+![Frozen physical response](figures/portfolio/frozen-physical-response.svg)
 
-- Scientific/model layer: **FINAL_V2 — FROZEN**
-- Operational presentation layer: **OPERATIONAL_CURVE_V2 — FROZEN**
-- Frozen reference regime: **2020–2024**
-- Quantitative cross-regime comparison: **2019 / 2020–2024 / 2025**
-- End-to-end external evaluation: **2025**
-- 2026 role: **qualifying-format / applicability boundary**
-- Scientific opportunity horizons: **15 / 30 / 60 / 90 / 120 min**
+## Future physical state
 
----
+Future track temperature is estimated separately from the performance response. The retained **M2b** specification conditions on future ambient-temperature change, the current track-to-ambient thermal gap and mean solar elevation. One model is fitted for each scientific horizon, selected through leave-one-year-out comparison.
 
-**Fengzhe Li — University College London**
+![Future track model](figures/portfolio/future-track-state-model.svg)
+
+![Candidate-model comparison](figures/portfolio/future-track-model-selection.png)
+
+The solar-state extension is retained in the future track-state pathway. A direct solar performance coefficient is not added to the speed model. Current heating/cooling rate and change in solar elevation were investigated and rejected when their out-of-year evidence did not justify extra complexity.
+
+## Probabilistic inference
+
+FINAL_V2 propagates three sources of uncertainty:
+
+- paired bootstrap uncertainty in the physical-response coefficients;
+- horizon-specific future track-state uncertainty;
+- empirical unexplained attempt-level performance variation from centered leave-one-year-out residuals.
+
+![Three-source uncertainty architecture](figures/portfolio/three-source-uncertainty.svg)
+
+![Uncertainty-source ablation](figures/portfolio/uncertainty-source-ablation.png)
+
+Removing empirical performance residual uncertainty reduces mean 80% interval width by about **90.4% at 15 minutes** and **72.8% at 120 minutes**. This is an uncertainty-source ablation and sensitivity result, not an orthogonal variance decomposition. It shows why better track-temperature point prediction alone cannot collapse the final outcome interval.
+
+See [uncertainty architecture](docs/uncertainty.md).
+
+## Calibrated support and operational interpolation
+
+![Calibration boundary](figures/portfolio/calibrated-horizon-boundary.svg)
+
+Scientific support exists at exactly **15, 30, 60, 90 and 120 minutes**. `OPERATIONAL_CURVE_V2` provides a one-minute display between anchors, with every row labelled as `CURRENT_STATE_BOUNDARY`, `CALIBRATED_ANCHOR` or `INTERPOLATED_OPERATIONAL`. The interpolated values are presentation summaries; they are not independently calibrated minute-by-minute forecasts.
+
+## Diagnostics that interrogate rather than inflate the model
+
+### Section-level mechanism evidence
+
+![Section mechanism](figures/portfolio/section-mechanism-coherence.png)
+
+For the 39 linked transitions, mean directional coherence across nine common sections is **0.724** and rises to **0.935** for the 12 transitions with |Δv| ≥ 0.50 mph. Meaningful changes are generally spatially coherent. Large residuals can also be coherent, so section evidence clarifies mechanism without converting dependent section rows into extra training samples.
+
+### Wind diagnostic
+
+![Wind residual diagnostic](figures/portfolio/wind-residual-diagnostic.png)
+
+Wind is physically relevant. The available fixed-point and gridded historical proxies, however, showed weak or unstable out-of-year residual relationships. No deterministic wind coefficient or production residual-scale term was forced into FINAL_V2.
+
+## Scenario stress test
+
+The frozen model was exercised over **3 thermal-gap states × 3 ambient trajectories × 3 solar states × 5 horizons = 135 scenarios**. Every ambient trajectory remained within its corresponding historical support range.
+
+![120-minute scenario stress test](figures/portfolio/scenario-stress-test-120min.png)
+
+At 120 minutes, P(improvement) ranges from **0.2055 to 0.6704**, while expected Δspeed ranges from **−0.4630 to +0.2248 mph**. Physical state can materially shift the odds without eliminating outcome uncertainty. The grid remains conditional on an opportunity occurring; it contains no queue model.
+
+## 2025 external validation
+
+![2025 external validation](figures/portfolio/external-validation-2025.png)
+
+The frozen 2020–2024 inference core was evaluated on 15 eligible 2025 hybrid-era same-car repeats. The evaluation uses the realized PTSC ambient trajectory retrospectively, so it tests the physical-inference chain under a new technical regime; it is **not** live weather-forecast validation.
+
+| Metric | All external cases ≤180 min | Production-boundary subset ≤120 min |
+|---|---:|---:|
+| N | 15 | 4 |
+| MAE | 0.492 mph | 0.221 mph |
+| Median absolute error | 0.425 mph | 0.190 mph |
+| RMSE | 0.610 mph | 0.269 mph |
+| Directional accuracy | 46.7% | 50.0% |
+| 80% PI coverage | 80% | 100% |
+| 90% PI coverage | 100% | 100% |
+
+Cases above 120 minutes are marked as extended retrospective validation and are not production-supported outputs. The 100% 90% interval coverage is an observed rate in 15 cases, not proof of perfect long-run calibration. See [validation](docs/validation.md).
+
+## Technical-regime transfer and format boundary
+
+![Technical regime timeline](figures/portfolio/technical-regime-timeline.svg)
+
+![Regime coefficients](figures/portfolio/regime-coefficient-comparison.png)
+
+The 2019 pre-Aeroscreen and 2025 hybrid samples retain the same directional response as the reference core. All reported 90% bootstrap intervals for direct coefficient differences include zero. This is qualified compatibility evidence, not equivalence or causal proof of coefficient invariance. The 2026 format is separately classified as structurally lacking same-day initial-round repeat transitions.
+
+See [regime transfer](docs/regime-transfer.md).
+
+## Operational decision-support layer
+
+![Operational performance outlook](figures/portfolio/operational-performance-outlook.png)
+
+![Operational probability outlook](figures/portfolio/operational-probability-outlook.png)
+
+The model returns expected Δspeed, median Δspeed, 80% and 90% predictive intervals, and P(Δv > 0) for a supplied physical scenario and opportunity horizon. A real pit-wall decision must combine that evidence with live queue position, cars ahead, leaderboard state, session remaining, interruption risk, withdrawal consequences and engineering judgement.
+
+It does not choose Lane 1 or Lane 2, predict an optimal wait, or recommend retain/withdraw actions. See [operational interface](docs/operational-interface.md).
+
+## Evidence-based decisions: rejected or not retained
+
+| Candidate | Decision | Evidence-based reason |
+|---|---|---|
+| Historical queue-time model | Rejected | Queue/lane/withdrawal states were not consistently observable |
+| Direct solar speed term | Not retained | Solar enters through the future track-state mechanism |
+| Deterministic wind term | Not retained | Historical proxy relationships were weak and unstable across years |
+| Section rows as training observations | Rejected | Nine sections within a transition are dependent |
+| Pooling 2025 into the frozen core | Rejected | Would destroy external validation integrity |
+| Independent minute-level calibration | Rejected | Intermediate minutes are labelled operational interpolation |
+| Unsupported high-capacity models | Rejected | The evidence base does not justify complexity for its own sake |
+
+These are model-risk controls and engineering outputs, not unfinished work.
+
+## Reproducibility and freeze discipline
+
+![Freeze and reproducibility](figures/portfolio/freeze-and-reproducibility.svg)
+
+The repository contains frozen manifests and SHA-256 records for the performance core, FINAL_V2, diagnostics, operational curve and regulation extension. Portfolio scripts read those artefacts without refitting them. Later observations remain external unless a separately versioned research phase explicitly replaces the freeze.
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install -r requirements.txt
+
+# Recreate only the curated GitHub figures from frozen outputs
+make figures
+
+# Verify public claims, figure references and frozen hashes
+make portfolio-check
+
+# Run repository smoke/integrity tests
+make test
+```
+
+Raw public-source evidence is retained for audit where redistribution permits. Derived canonical tables, provenance records, quarantine outputs and freeze manifests are included. Some external services and historical replay resources are not guaranteed to remain available; the repository does not claim that every raw acquisition can be repeated indefinitely. See [reproducibility](docs/reproducibility.md).
+
+## Repository map
+
+```text
+pipeline/                 source-specific ingestion and canonical reconciliation
+data/canonical/v1/        canonical historical data products
+weather/                  observed weather, future-state model and FINAL_V2 outputs
+r5_2/                     frozen 2020–2024 physical-response core
+r6_regime_extension/      2019/2025 regime evidence and external evaluation
+figures/portfolio/        curated GitHub visual narrative
+docs/                     technical documentation and final report
+scripts/                  presentation regeneration and integrity checks
+tests/                    pipeline and portfolio QA
+```
+
+For the detailed module and status inventory, open [the repository guide](docs/reproducibility.md) and [figure gallery](figures/GALLERY.md).
+
+## Limitations
+
+- The primary response dataset contains only 41 transitions.
+- Exact queue opportunity and team-intent history remains unidentifiable from the public record.
+- Latent setup, tyre preparation, execution and vehicle state dominate much of the predictive spread.
+- The 2025 external sample is small, with only four cases inside the production horizon.
+- Future-state validation uses realized historical ambient paths; end-to-end live forecast validation remains separate.
+- 2022 shows a marked thermal-regime shift and future-track interval undercoverage.
+- Wind proxies do not represent the spatial aerodynamic exposure around the oval.
+- Technical transferability is qualified; qualifying-format applicability must be checked separately.
+
+## Documentation
+
+- [Identifiability boundary](docs/identifiability-boundary.md)
+- [Methodology](docs/methodology.md)
+- [Model card](docs/model-card.md)
+- [Evidence engineering](docs/evidence-engineering.md)
+- [Validation](docs/validation.md)
+- [Uncertainty](docs/uncertainty.md)
+- [Regime transfer](docs/regime-transfer.md)
+- [Operational interface](docs/operational-interface.md)
+- [Reproducibility](docs/reproducibility.md)
+- [Technical challenges](docs/technical_challenges.md)
+- [FINAL_V2 system specification](docs/final_v2_system_specification.md)
+- [Full research report](docs/paper/physics_conditioned_probabilistic_performance_inference.pdf)
+
+## Author and citation
+
+**Fengzhe Li** · University College London
+
+If this repository informs your work, cite the project and the versioned frozen artefacts used. The scientific core is `FINAL_V2`; the regulation-aware evidence extension is `R6_REGULATION_AWARE_EXTENSION_V1_FROZEN`.
+

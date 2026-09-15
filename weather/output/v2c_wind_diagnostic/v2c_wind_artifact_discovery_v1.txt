@@ -1,0 +1,1745 @@
+====================================================================================================
+INDY 500 V2-C WIND EVIDENCE DISCOVERY
+====================================================================================================
+
+CANDIDATE FILES
+----------------------------------------------------------------------------------------------------
+data/canonical/v1/weather_forecasts.csv
+  columns of interest: []
+r5/__pycache__/run_r5_manual_first_run_thermal_window_v1.cpython-314.pyc
+r5/output/r5_manual_first_run_thermal_window_models_v1.csv
+  columns of interest: []
+r5/output/r5_manual_first_run_thermal_window_report_v1.json
+r5/output/r5_manual_first_run_thermal_window_rows_v1.csv
+  columns of interest: ['attempt_id', 'year', 'car_attempt_index', 'performance_time_utc', 'lap1_speed_mph', 'lap2_speed_mph', 'lap3_speed_mph', 'lap4_speed_mph', 'four_lap_average_speed_mph', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms', 'same_year_first_run_speed_median_mph', 'speed_residual_vs_same_year_first_run_median_mph', 'same_year_first_run_fade_median_mph', 'fade_residual_vs_same_year_first_run_median_mph']
+r5/run_r5_manual_first_run_thermal_window_v1.py
+r5_2/manual/final_curve_ambient_trajectory_template.csv
+  columns of interest: []
+r5_2/manual/historical_2024_ambient_trajectory_v1.csv
+  columns of interest: []
+weather/__pycache__/build_track_condition_recon.cpython-312.pyc
+weather/build_hrrr_features.py
+weather/build_track_condition_recon.py
+weather/evidence/download_manifest.csv
+  columns of interest: ['year']
+weather/evidence/downloads/2021/2021-indycar-qualorder-Day1.pdf
+weather/evidence/downloads/2021/2021-indycar-results-p6.pdf
+weather/evidence/downloads/2021/2021-indycar-results-p7-sun-morning.pdf
+weather/evidence/downloads/2021/2021-indycar-results-quals-day1.pdf
+weather/evidence/downloads/2021/2021-indycar-sectionresults-race.pdf
+weather/evidence/downloads/2021/2021-indycar-topsectiontimes-quals-day1.pdf
+weather/evidence/downloads/2021/2021-indycar-topsectiontimes-quals-poleday-sunday.pdf
+weather/evidence/downloads/2021/2021-indycar-topsectiontimes-race.pdf
+weather/evidence/downloads/2024/indycar-qual-explainer-2024Indy500.pdf
+weather/evidence/downloads/2024/indycar-qualorder-2024Indy500.pdf
+weather/evidence/downloads/2024/indycar-results-p6-05-18-2024-morn.pdf
+weather/evidence/downloads/2024/indycar-results-quals-day1-05-18-2024.pdf
+weather/evidence/downloads/2024/indycar-sectionresults-race-05-26-2024.pdf
+weather/evidence/downloads/2024/indycar-topsectiontimes-race-05-26-2024.pdf
+weather/evidence/extracted_text/2021/2021-indycar-qualorder-Day1.txt
+weather/evidence/extracted_text/2021/2021-indycar-results-p6.txt
+weather/evidence/extracted_text/2021/2021-indycar-results-p7-sun-morning.txt
+weather/evidence/extracted_text/2021/2021-indycar-results-quals-day1.txt
+weather/evidence/extracted_text/2021/2021-indycar-sectionresults-race.txt
+weather/evidence/extracted_text/2021/2021-indycar-topsectiontimes-quals-day1.txt
+weather/evidence/extracted_text/2021/2021-indycar-topsectiontimes-quals-poleday-sunday.txt
+weather/evidence/extracted_text/2021/2021-indycar-topsectiontimes-race.txt
+weather/evidence/extracted_text/2024/indycar-qual-explainer-2024Indy500.txt
+weather/evidence/extracted_text/2024/indycar-results-p6-05-18-2024-morn.txt
+weather/evidence/extracted_text/2024/indycar-results-quals-day1-05-18-2024.txt
+weather/evidence/extracted_text/2024/indycar-sectionresults-race-05-26-2024.txt
+weather/evidence/extracted_text/2024/indycar-topsectiontimes-race-05-26-2024.txt
+weather/evidence/indy500_discovered_sources.csv
+  columns of interest: ['year']
+weather/evidence/last_chance_official/2021_driver_event_details_3608.json
+weather/evidence/last_chance_official/2021_drivers_by_year.json
+weather/evidence/last_chance_official/2021_events_by_year_series.json
+weather/evidence/last_chance_official/2021_indy500_event_candidate_1.json
+weather/evidence/last_chance_official/2021_last_chance_official_page.html
+weather/evidence/last_chance_official/2021_last_chance_session_5847_v2.json
+weather/evidence/last_chance_official/2023_driver_event_details_3608.json
+weather/evidence/last_chance_official/2023_drivers_by_year.json
+weather/evidence/last_chance_official/2023_events_by_year_series.json
+weather/evidence/last_chance_official/2023_indy500_event_candidate_1.json
+weather/evidence/last_chance_official/2023_last_chance_official_page.html
+weather/evidence/last_chance_official/2023_last_chance_session_6205_v2.json
+weather/evidence/last_chance_official/2024_driver_event_details_3608.json
+weather/evidence/last_chance_official/2024_drivers_by_year.json
+weather/evidence/last_chance_official/2024_events_by_year_series.json
+weather/evidence/last_chance_official/2024_indy500_event_candidate_1.json
+weather/evidence/last_chance_official/2024_last_chance_official_page.html
+weather/evidence/last_chance_official/2024_last_chance_session_6385_v2.json
+weather/evidence/last_chance_official/indycar_v2_bundle.js
+weather/evidence/priority_download_manifest.csv
+  columns of interest: ['year']
+weather/evidence/ptsc/FirestoneTemperatures_current.xlsx
+weather/evidence/ptsc/indy500_day1_track_temp_2020_2024.csv
+  columns of interest: ['year', 'local_time', 'wind_raw', 'wind', 'wind_direction']
+weather/evidence/ptsc/indy500_day1_track_temp_2020_2024_time_normalized.csv
+  columns of interest: ['year', 'local_time', 'timezone_name', 'local_datetime', 'utc_datetime', 'wind_raw', 'wind', 'wind_direction']
+weather/evidence/ptsc/indy500_day1_track_temp_excluded_blocks.csv
+  columns of interest: ['year', 'local_time', 'wind_raw', 'wind', 'wind_direction']
+weather/evidence/ptsc/indy500_day1_track_temp_qa.csv
+  columns of interest: ['year']
+weather/evidence/ptsc/indy500_day1_track_temp_qa_summary.csv
+  columns of interest: ['year']
+weather/evidence/ptsc_all_file_links.csv
+  columns of interest: []
+weather/evidence/ptsc_firestone_history_probe.csv
+  columns of interest: ['year']
+weather/evidence/ptsc_wayback_results.csv
+  columns of interest: ['timestamp', 'year']
+weather/evidence/raw_pages/2020_doctorindy.com_homepage.txt
+weather/evidence/raw_pages/2021_doctorindy.com_homepage.txt
+weather/evidence/raw_pages/2022_doctorindy.com_homepage.txt
+weather/evidence/raw_pages/2022_www.indycar.com_news_2022_05_05-21-buzz.txt
+weather/evidence/raw_pages/2023_doctorindy.com_homepage.txt
+weather/evidence/raw_pages/2024_doctorindy.com_2024_04_10_2024-indianapolis-500-archive.txt
+weather/evidence/raw_pages/2024_www.indycar.com_news_2024_05_05-18-buzz.txt
+weather/evidence/rescue/official_2022_editorial_chronology/article_text/INDYCAR_2022_DAY1_RECAP.txt
+weather/evidence/rescue/official_2022_editorial_chronology/article_text/INDYCAR_2022_GANASSI.txt
+weather/evidence/rescue/official_2022_editorial_chronology/article_text/INDYCAR_2022_MORNING_PRACTICE.txt
+weather/evidence/rescue/official_2022_editorial_chronology/article_text/INDYCAR_2022_QUALFORMAT.txt
+weather/evidence/rescue/official_2022_editorial_chronology/article_text/INDYCAR_2022_QUALS_CHANGE.txt
+weather/evidence/rescue/official_2022_editorial_chronology/article_text/INDYCAR_2022_SATO_BUZZ.txt
+weather/evidence/rescue/official_2022_editorial_chronology/raw_html/INDYCAR_2022_DAY1_RECAP.html
+weather/evidence/rescue/official_2022_editorial_chronology/raw_html/INDYCAR_2022_GANASSI.html
+weather/evidence/rescue/official_2022_editorial_chronology/raw_html/INDYCAR_2022_MORNING_PRACTICE.html
+weather/evidence/rescue/official_2022_editorial_chronology/raw_html/INDYCAR_2022_QUALFORMAT.html
+weather/evidence/rescue/official_2022_editorial_chronology/raw_html/INDYCAR_2022_QUALS_CHANGE.html
+weather/evidence/rescue/official_2022_editorial_chronology/raw_html/INDYCAR_2022_SATO_BUZZ.html
+weather/evidence/rescue/official_day1_session_details/raw_api/2020_5771_session_details.json
+weather/evidence/rescue/official_day1_session_details/raw_api/2021_5838_session_details.json
+weather/evidence/rescue/official_day1_session_details/raw_api/2022_6033_session_details.json
+weather/evidence/rescue/official_day1_session_details/raw_api/2023_6202_session_details.json
+weather/evidence/rescue/official_day1_session_details/raw_api/2024_6382_session_details.json
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2020_5771_01_Results.txt
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2020_5771_02_Section_Results.txt
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2020_5771_03_Top_Section_Times.txt
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2021_5838_01_Results.txt
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2021_5838_02_Section_Results.txt
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2021_5838_03_Top_Section_Times.txt
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2022_6033_01_Results.txt
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2022_6033_02_Section_Results.txt
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2022_6033_03_Top_Section_Times.txt
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2023_6202_01_Overall_Results.txt
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2023_6202_02_Results.txt
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2023_6202_03_Results.txt
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2023_6202_04_Section_Results.txt
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2023_6202_05_Top_Section_Times.txt
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2024_6382_01_Results.txt
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2024_6382_02_Section_Results.txt
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2024_6382_03_Top_Section_Times.txt
+weather/evidence/rescue/official_day1_session_details/reports_v2/2020_5771_01_Results.pdf
+weather/evidence/rescue/official_day1_session_details/reports_v2/2020_5771_02_Section_Results.pdf
+weather/evidence/rescue/official_day1_session_details/reports_v2/2020_5771_03_Top_Section_Times.pdf
+weather/evidence/rescue/official_day1_session_details/reports_v2/2021_5838_01_Results.pdf
+weather/evidence/rescue/official_day1_session_details/reports_v2/2021_5838_02_Section_Results.pdf
+weather/evidence/rescue/official_day1_session_details/reports_v2/2021_5838_03_Top_Section_Times.pdf
+weather/evidence/rescue/official_day1_session_details/reports_v2/2022_6033_01_Results.pdf
+weather/evidence/rescue/official_day1_session_details/reports_v2/2022_6033_02_Section_Results.pdf
+weather/evidence/rescue/official_day1_session_details/reports_v2/2022_6033_03_Top_Section_Times.pdf
+weather/evidence/rescue/official_day1_session_details/reports_v2/2023_6202_01_Overall_Results.pdf
+weather/evidence/rescue/official_day1_session_details/reports_v2/2023_6202_02_Results.pdf
+weather/evidence/rescue/official_day1_session_details/reports_v2/2023_6202_03_Results.pdf
+weather/evidence/rescue/official_day1_session_details/reports_v2/2023_6202_04_Section_Results.pdf
+weather/evidence/rescue/official_day1_session_details/reports_v2/2023_6202_05_Top_Section_Times.pdf
+weather/evidence/rescue/official_day1_session_details/reports_v2/2024_6382_01_Results.pdf
+weather/evidence/rescue/official_day1_session_details/reports_v2/2024_6382_02_Section_Results.pdf
+weather/evidence/rescue/official_day1_session_details/reports_v2/2024_6382_03_Top_Section_Times.pdf
+weather/evidence/rescue/official_dynamic_resources/2020_002_bundle.js
+weather/evidence/rescue/official_dynamic_resources/2021_002_bundle.js
+weather/evidence/rescue/official_dynamic_resources/2022_002_bundle.js
+weather/evidence/rescue/official_dynamic_resources/2023_002_bundle.js
+weather/evidence/rescue/official_dynamic_resources/2024_002_bundle.js
+weather/evidence/rescue/official_indy500_correct_series/2020_events_by_year_series_correct.json
+weather/evidence/rescue/official_indy500_correct_series/2021_events_by_year_series_correct.json
+weather/evidence/rescue/official_indy500_correct_series/2022_events_by_year_series_correct.json
+weather/evidence/rescue/official_indy500_correct_series/2023_events_by_year_series_correct.json
+weather/evidence/rescue/official_indy500_correct_series/2024_events_by_year_series_correct.json
+weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2020_events_by_year_series.json
+weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2022_events_by_year_series.json
+weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2023_events_by_year_series.json
+weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2024_events_by_year_series.json
+weather/evidence/rescue/official_indy500_season_dropdown/season_dropdown_ntt_indycar.json
+weather/evidence/rescue/official_lane_queue_live_resources/current_driversfeed.json
+weather/evidence/rescue/official_lane_queue_live_resources/current_driversfeed_nxt.json
+weather/evidence/rescue/official_lane_queue_live_resources/current_js_122.js
+weather/evidence/rescue/official_lane_queue_live_resources/current_js_324.js
+weather/evidence/rescue/official_lane_queue_live_resources/current_js_484.js
+weather/evidence/rescue/official_lane_queue_live_resources/current_js_4bd1b696.js
+weather/evidence/rescue/official_lane_queue_live_resources/current_js_615.js
+weather/evidence/rescue/official_lane_queue_live_resources/current_js_684.js
+weather/evidence/rescue/official_lane_queue_live_resources/current_js_834.js
+weather/evidence/rescue/official_lane_queue_live_resources/current_js_874.js
+weather/evidence/rescue/official_lane_queue_live_resources/current_js_layout.js
+weather/evidence/rescue/official_lane_queue_live_resources/current_js_main-app.js
+weather/evidence/rescue/official_lane_queue_live_resources/current_js_page.js
+weather/evidence/rescue/official_lane_queue_live_resources/current_js_polyfills.js
+weather/evidence/rescue/official_lane_queue_live_resources/current_js_webpack.js
+weather/evidence/rescue/official_lane_queue_live_resources/current_leaderboard_page.html
+weather/evidence/rescue/official_lane_queue_live_resources/current_schedulefeed.json
+weather/evidence/rescue/official_lane_queue_live_resources/current_schedulefeed_nxt.json
+weather/evidence/rescue/official_lane_queue_live_resources/current_timingscoring-ris.json
+weather/evidence/rescue/official_lane_queue_live_resources/current_trackactivityleaderboardfeed.json
+weather/evidence/rescue/official_lane_queue_live_resources/current_trackactivityleaderboardfeed_nxt.json
+weather/evidence/rescue/official_lane_queue_live_resources/current_tsconfig.json
+weather/evidence/rescue/official_lane_queue_live_resources/frontend_endpoint_code_context_v1.txt
+weather/evidence/rescue/official_lane_queue_live_resources/preexisting_frozen_hashes.json
+weather/evidence/rescue/official_lane_queue_live_resources/probe_timingscoring_sessionid_6382.json
+weather/evidence/rescue/official_lane_queue_live_resources/regression_test_result_v1.json
+weather/evidence/rescue/official_reports/2020_001_2026-indycar-rulebook.pdf
+weather/evidence/rescue/official_reports/2020_002_Current-Schedule.pdf
+weather/evidence/rescue/official_reports/2021_003_2026-indycar-rulebook.pdf
+weather/evidence/rescue/official_reports/2021_004_Current-Schedule.pdf
+weather/evidence/rescue/official_reports/2022_005_2026-indycar-rulebook.pdf
+weather/evidence/rescue/official_reports/2022_006_Current-Schedule.pdf
+weather/evidence/rescue/official_reports/2023_007_2026-indycar-rulebook.pdf
+weather/evidence/rescue/official_reports/2023_008_Current-Schedule.pdf
+weather/evidence/rescue/official_reports/2024_009_2026-indycar-rulebook.pdf
+weather/evidence/rescue/official_reports/2024_010_Current-Schedule.pdf
+weather/evidence/rescue/official_results_api_contract/2020_day1_results_page.html
+weather/evidence/rescue/official_results_api_contract/2021_day1_results_page.html
+weather/evidence/rescue/official_results_api_contract/2022_day1_results_page.html
+weather/evidence/rescue/official_results_api_contract/2023_day1_results_page.html
+weather/evidence/rescue/official_results_api_contract/2024_day1_results_page.html
+weather/evidence/rescue/secondary_2022_high_priority_chronology/article_text/NBC_2022_DAY1.txt
+weather/evidence/rescue/secondary_2022_high_priority_chronology/article_text/THE_RACE_2022_DAY1.txt
+weather/evidence/rescue/secondary_2022_high_priority_chronology/raw_html/NBC_2022_DAY1.html
+weather/evidence/rescue/secondary_2022_high_priority_chronology/raw_html/THE_RACE_2022_DAY1.html
+weather/evidence/track_condition_evidence_candidates.csv
+  columns of interest: ['year', 'time_values']
+weather/evidence/track_condition_evidence_candidates_v2.csv
+  columns of interest: ['year', 'time_values']
+weather/extract_hrrr_ims.py
+weather/output/attempt_performance_baseline_aggregate_metrics_v1.csv
+  columns of interest: []
+weather/output/attempt_performance_baseline_feature_set_v1.csv
+  columns of interest: []
+weather/output/attempt_performance_baseline_fold_metrics_v1.csv
+  columns of interest: ['test_year', 'train_years']
+weather/output/attempt_performance_baseline_model_diagnostics_v1.csv
+  columns of interest: ['test_year']
+weather/output/attempt_performance_baseline_predictions_v1.csv
+  columns of interest: ['test_year', 'attempt_id', 'actual_speed_mph', 'predicted_speed_mph']
+weather/output/attempt_performance_baseline_v1.md
+weather/output/attempt_performance_baseline_v1_qa.csv
+  columns of interest: []
+weather/output/attempt_performance_feature_manifest_v1.csv
+  columns of interest: []
+weather/output/attempt_performance_model_matrix_v1.csv
+  columns of interest: ['attempt_id', 'year', 'forecast_wind_speed_10m_ms', 'forecast_wind_direction_sin', 'forecast_wind_direction_cos', 'prior_supported_attempt_count', 'seconds_since_prior_supported_attempt', 'best_prior_supported_average_speed_mph', 'has_prior_supported_attempt', 'four_lap_average_speed_mph']
+weather/output/attempt_performance_modeling_column_audit.csv
+  columns of interest: []
+weather/output/attempt_performance_modeling_correlation_audit.csv
+  columns of interest: []
+weather/output/attempt_performance_modeling_readiness.md
+weather/output/attempt_performance_modeling_readiness_summary.csv
+  columns of interest: []
+weather/output/attempt_performance_prior_speed_diagnostics_v1.csv
+  columns of interest: ['year', 'corr_current_vs_best_prior_speed', 'mean_current_minus_best_prior_speed_mph', 'median_current_minus_best_prior_speed_mph', 'std_current_minus_best_prior_speed_mph']
+weather/output/attempt_performance_repeat_delta_context_v1.csv
+  columns of interest: ['current_attempt_id', 'baseline_attempt_id', 'year', 'current_performance_time_utc', 'baseline_performance_time_utc', 'seconds_since_baseline_attempt', 'prior_supported_attempt_count', 'prior_complete_attempt_count', 'baseline_is_immediately_previous_supported_attempt', 'baseline_speed_mph', 'current_speed_mph', 'target_speed_delta_vs_best_prior_mph', 'current_forecast_wind_direction_sin', 'current_forecast_wind_direction_cos', 'baseline_forecast_wind_direction_sin', 'baseline_forecast_wind_direction_cos', 'delta_forecast_wind_direction_sin', 'delta_forecast_wind_direction_cos', 'current_wind_speed_10m_ms', 'baseline_wind_speed_10m_ms', 'delta_wind_speed_10m_ms']
+weather/output/attempt_performance_repeat_delta_context_v1.md
+weather/output/attempt_performance_repeat_delta_context_v1_qa.csv
+  columns of interest: []
+weather/output/attempt_performance_residual_diagnostics_v1.csv
+  columns of interest: ['test_year', 'attempt_id', 'actual_speed_mph', 'predicted_speed_mph', 'year', 'four_lap_average_speed_mph', 'forecast_wind_speed_10m_ms', 'forecast_wind_direction_sin', 'forecast_wind_direction_cos', 'prior_supported_attempt_count', 'seconds_since_prior_supported_attempt', 'best_prior_supported_average_speed_mph', 'has_prior_supported_attempt', '_resolved_year']
+weather/output/attempt_performance_residual_feature_correlations_v1.csv
+  columns of interest: ['within_year_corr_feature_vs_residual', 'abs_within_year_corr_feature_vs_residual', 'within_year_corr_feature_vs_actual_target']
+weather/output/attempt_performance_residual_group_summary_v1.csv
+  columns of interest: ['mean_actual_speed_mph', 'mean_predicted_speed_mph']
+weather/output/attempt_performance_residual_stability_qa_v1.csv
+  columns of interest: []
+weather/output/attempt_performance_residual_stability_v1.md
+weather/output/attempt_performance_target_structure_v1.csv
+  columns of interest: ['year', 'mean_speed_mph', 'median_speed_mph', 'std_speed_mph', 'min_speed_mph', 'max_speed_mph', 'primary_year_mean_range_mph', 'eta_squared_descriptive_year']
+weather/output/attempt_performance_v1_design.md
+weather/output/attempt_performance_v1_design_qa.csv
+  columns of interest: []
+weather/output/attempt_performance_validation_folds_v1.csv
+  columns of interest: ['train_years', 'test_year']
+weather/output/chronology_evidence_field_inventory_v1.csv
+  columns of interest: []
+weather/output/chronology_evidence_source_inventory_v1.csv
+  columns of interest: ['years', 'time_like_fields', 'has_time_like_field']
+weather/output/chronology_evidence_source_inventory_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_action_lane_evidence_v1.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'time_lower_utc', 'time_upper_utc']
+weather/output/chronology_rescue_2022_adjudicated_evidence_v2.csv
+  columns of interest: ['year', 'speed_mph', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc', 'related_speed_mph']
+weather/output/chronology_rescue_2022_adjudicated_evidence_v2_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_adjudicated_evidence_v3.csv
+  columns of interest: ['year', 'speed_mph', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc', 'related_speed_mph']
+weather/output/chronology_rescue_2022_adjudicated_evidence_v3_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_adjudicated_evidence_v4.csv
+  columns of interest: ['year', 'speed_mph', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc', 'related_speed_mph']
+weather/output/chronology_rescue_2022_adjudicated_evidence_v5.csv
+  columns of interest: ['year', 'speed_mph', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc', 'related_speed_mph']
+weather/output/chronology_rescue_2022_adjudicated_summary_v2.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_attempt_coverage_gap_audit_v1.csv
+  columns of interest: ['attempt_id', 'year', 'car_attempt_index', 'four_lap_average_speed_mph', 'attempt_class', 'has_approximate_time', 'repeated_attempt']
+weather/output/chronology_rescue_2022_attempt_coverage_gap_audit_v2.csv
+  columns of interest: ['attempt_id', 'car_attempt_index', 'speed_mph', 'attempt_class', 'repeated_attempt']
+weather/output/chronology_rescue_2022_car06_car6_official_raw_schema_audit_v1.csv
+  columns of interest: ['attempt_id']
+weather/output/chronology_rescue_2022_car06_car6_official_raw_schema_audit_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_car06_car6_result_match_forensics_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_car06_car6_result_match_forensics_v1.csv
+  columns of interest: ['attempt_id', 'canonical_speed_mph', 'match_speed_mph', 'raw_official_speed_mph', 'speed_matches_canonical', 'raw_speed_matches_canonical', 'raw_matches_other_attempt_id']
+weather/output/chronology_rescue_2022_car06_car6_result_match_forensics_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_castroneves_canonical_identity_audit_v1.csv
+  columns of interest: ['attempt_id', 'car_attempt_index', 'canonical_speed_mph', 'attempt_class', 'official_speed_mph']
+weather/output/chronology_rescue_2022_castroneves_canonical_identity_audit_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_castroneves_car06_reaudit_v1.csv
+  columns of interest: ['attempt_id', 'car_attempt_index', 'canonical_speed_mph', 'attempt_class', 'official_speed_mph']
+weather/output/chronology_rescue_2022_castroneves_car06_reaudit_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_castroneves_final_integration_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_castroneves_first_run_action_v1.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'subject_speed_mph']
+weather/output/chronology_rescue_2022_castroneves_first_run_action_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_castroneves_first_run_final_adjudication_v1.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'subject_speed_mph', 'related_speed_mph']
+weather/output/chronology_rescue_2022_castroneves_repeat_pair_audit_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_castroneves_repeat_pair_audit_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_castroneves_repeat_pair_evidence_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_chronology_action_coverage_summary_v2.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_chronology_action_coverage_summary_v2_corrected.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_chronology_action_coverage_v2_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_chronology_only_link_resolution_v1.csv
+  columns of interest: ['year', 'official_speed_mph', 'attempt_id', 'attempt_key', 'car_attempt_index', 'canonical_speed_mph', 'attempt_class']
+weather/output/chronology_rescue_2022_chronology_only_link_resolution_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_coverage_gap_audit_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_coverage_gap_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_derived_attempt_intervals_v1.csv
+  columns of interest: ['year', 'speed_mph', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc']
+weather/output/chronology_rescue_2022_derived_attempt_intervals_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_editorial_candidate_mining_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_editorial_candidates_v1.csv
+  columns of interest: ['explicit_clock_times', 'relative_time_terms', 'attempt_terms', 'speeds_detected_mph', 'normalized_time_lower_utc', 'normalized_time_upper_utc']
+weather/output/chronology_rescue_2022_editorial_entity_matches_v1.csv
+  columns of interest: ['speed_mph']
+weather/output/chronology_rescue_2022_editorial_promotion_audit_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_editorial_promotion_audit_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_editorial_source_audit_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_evidence_with_attempt_ids_v1.csv
+  columns of interest: ['year', 'speed_mph', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc', 'related_speed_mph', 'attempt_id', 'attempt_link_status']
+weather/output/chronology_rescue_2022_evidence_with_attempt_ids_v2.csv
+  columns of interest: ['year', 'speed_mph', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc', 'related_speed_mph', 'attempt_id', 'attempt_link_status']
+weather/output/chronology_rescue_2022_high_priority_editorial_candidates_v1.csv
+  columns of interest: ['detected_times', 'target_attempt_count', 'target_attempt_ids']
+weather/output/chronology_rescue_2022_high_priority_editorial_candidates_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_high_priority_editorial_target_summary_v1.csv
+  columns of interest: ['high_priority_attempt_targets', 'attempt_ids']
+weather/output/chronology_rescue_2022_ilott_archive_target_local_matches_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_autosport_retake_adjudication_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_autosport_retake_adjudication_v1.csv
+  columns of interest: ['subject_attempt_id', 'related_attempt_id', 'timestamp_semantics', 'time_quality']
+weather/output/chronology_rescue_2022_ilott_autosport_retake_adjudication_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_autosport_retake_adjudication_v2.csv
+  columns of interest: ['subject_attempt_id', 'related_attempt_id', 'timestamp_semantics', 'time_quality']
+weather/output/chronology_rescue_2022_ilott_autosport_retake_evidence_v1.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'subject_speed_mph', 'related_speed_mph', 'observed_speed_delta_mph', 'reported_speed_delta_mph', 'timestamp']
+weather/output/chronology_rescue_2022_ilott_autosport_retake_evidence_v2.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'subject_speed_mph', 'related_speed_mph', 'observed_speed_delta_mph', 'reported_speed_delta_mph', 'timestamp']
+weather/output/chronology_rescue_2022_ilott_ledger_integration_preflight_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_ledger_integration_preflight_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_ledger_integration_schema_preflight_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_local_text_hits_v1.csv
+  columns of interest: ['exact_speed_hits']
+weather/output/chronology_rescue_2022_ilott_paragraph_local_adjudication_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_paragraph_local_adjudication_v1.csv
+  columns of interest: ['exact_speed_hits']
+weather/output/chronology_rescue_2022_ilott_paragraph_local_adjudication_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_postintegration_coverage_corrected_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_postintegration_coverage_corrected_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_postintegration_coverage_corrected_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_precision_archive_targets_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_precision_archive_targets_v1.csv
+  columns of interest: ['year']
+weather/output/chronology_rescue_2022_ilott_precision_archive_targets_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_repeat_pair_audit_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_repeat_pair_audit_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_repeat_pair_evidence_v1.csv
+  columns of interest: ['exact_speed_hits']
+weather/output/chronology_rescue_2022_ilott_retake_ledger_integration_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_retake_ledger_integration_v1.csv
+  columns of interest: ['attempt_id', 'related_attempt_id', 'time_quality']
+weather/output/chronology_rescue_2022_ilott_retake_ledger_integration_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_retake_postintegration_coverage_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_sentence_local_adjudication_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_sentence_local_adjudication_v1.csv
+  columns of interest: ['exact_speed_hits']
+weather/output/chronology_rescue_2022_ilott_sentence_local_adjudication_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ilott_sentence_local_promotion_candidate_v1.csv
+  columns of interest: ['exact_speed_hits']
+weather/output/chronology_rescue_2022_karam_attempt_identity_audit_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_karam_attempt_identity_audit_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_karam_identity_evidence_v1.csv
+  columns of interest: ['mentions_no_attempt', 'explicit_speed_tokens']
+weather/output/chronology_rescue_2022_karam_identity_promotion_candidate_v1.csv
+  columns of interest: ['attempt_id', 'speed_mph', 'time_lower_utc']
+weather/output/chronology_rescue_2022_karam_racer_two_event_evidence_v1.csv
+  columns of interest: ['specific_attempt_id', 'specific_speed_mph']
+weather/output/chronology_rescue_2022_karam_repeat_conflict_adjudication_v1.csv
+  columns of interest: ['first_attempt_id', 'first_speed_mph', 'second_attempt_id', 'second_speed_mph', 'no_attempt_object_id', 'objective_speed_delta_mph', 'time_quality', 'exact_timestamp']
+weather/output/chronology_rescue_2022_karam_repeat_conflict_evidence_v1.csv
+  columns of interest: ['year', 'first_attempt_id', 'first_speed_mph', 'second_attempt_id', 'second_speed_mph', 'no_attempt_object_id', 'evidence_direction', 'speed_delta_mph']
+weather/output/chronology_rescue_2022_karam_repeat_conflict_evidence_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_karam_repeat_evidence_hits_v1.csv
+  columns of interest: ['speed_hits', 'no_attempt_terms']
+weather/output/chronology_rescue_2022_karam_repeat_integration_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_karam_repeat_integration_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_karam_repeat_object_reconciliation_v1.csv
+  columns of interest: ['attempt_id', 'car_attempt_index', 'canonical_speed_mph']
+weather/output/chronology_rescue_2022_karam_repeat_object_reconciliation_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_karam_two_event_adjudication_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_karam_two_event_adjudication_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_karam_two_event_ordering_edges_v1.csv
+  columns of interest: ['from_attempt_id', 'to_attempt_id']
+weather/output/chronology_rescue_2022_lane_action_metric_semantics_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_malukas_autosport_repeat_evidence_v1.csv
+  columns of interest: ['year', 'first_attempt_id', 'first_speed_mph', 'second_attempt_id', 'second_speed_mph', 'time_quality', 'exact_timestamp']
+weather/output/chronology_rescue_2022_malukas_autosport_repeat_evidence_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_malukas_repeat_chronology_audit_v1.csv
+  columns of interest: ['attempt_id', 'car_attempt_index', 'speed_mph']
+weather/output/chronology_rescue_2022_malukas_repeat_chronology_audit_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_malukas_repeat_evidence_hits_v1.csv
+  columns of interest: ['speed_hits', 'first_attempt_terms', 'second_attempt_terms']
+weather/output/chronology_rescue_2022_malukas_repeat_integration_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_malukas_repeat_integration_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_marco_first_attempt_identity_binding_v1.csv
+  columns of interest: ['subject_attempt_id', 'subject_speed_mph', 'related_attempt_id', 'related_speed_mph', 'related_car_attempt_index', 'time_quality', 'exact_timestamp']
+weather/output/chronology_rescue_2022_marco_first_attempt_identity_binding_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_marco_first_attempt_integration_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_marco_first_attempt_integration_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_marco_repeat_chronology_audit_v1.csv
+  columns of interest: ['attempt_id', 'car_attempt_index', 'speed_mph']
+weather/output/chronology_rescue_2022_marco_repeat_chronology_audit_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_marco_repeat_evidence_hits_v1.csv
+  columns of interest: ['speed_hits']
+weather/output/chronology_rescue_2022_marco_second_attempt_integration_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_marco_second_attempt_integration_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_marco_second_attempt_therace_evidence_v1.csv
+  columns of interest: ['year', 'first_attempt_id', 'first_speed_mph', 'second_attempt_id', 'second_speed_mph', 'time_quality', 'exact_timestamp']
+weather/output/chronology_rescue_2022_marco_second_attempt_therace_evidence_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_marco_second_run_direct_evidence_adjudication_v1.csv
+  columns of interest: ['first_attempt_id', 'first_speed_mph', 'second_attempt_id', 'second_speed_mph', 'strong_speed_or_improvement_hits', 'time_quality', 'exact_timestamp']
+weather/output/chronology_rescue_2022_marco_second_run_direct_evidence_hits_v1.csv
+  columns of interest: ['speed_hits', 'first_attempt_terms']
+weather/output/chronology_rescue_2022_marco_second_run_direct_evidence_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_next_rescue_priority_v1.csv
+  columns of interest: ['attempt_id', 'year', 'car_attempt_index', 'four_lap_average_speed_mph', 'attempt_class', 'has_approximate_time', 'repeated_attempt']
+weather/output/chronology_rescue_2022_next_rescue_priority_v2.csv
+  columns of interest: ['attempt_id', 'car_attempt_index', 'speed_mph', 'attempt_class', 'repeated_attempt']
+weather/output/chronology_rescue_2022_official_evidence_v1.csv
+  columns of interest: ['year', 'speed_mph', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc']
+weather/output/chronology_rescue_2022_official_evidence_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_ordering_edges_v2.csv
+  columns of interest: ['year', 'from_speed_mph', 'to_speed_mph']
+weather/output/chronology_rescue_2022_ordering_edges_v3.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_repeat_group_denominator_reconciliation_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_repeat_group_denominator_reconciliation_v1.csv
+  columns of interest: ['attempt_id', 'car_attempt_index']
+weather/output/chronology_rescue_2022_repeat_group_denominator_reconciliation_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_repeat_pair_coverage_post_ilott_v1.csv
+  columns of interest: ['attempt_count', 'attempt_ids']
+weather/output/chronology_rescue_2022_repeat_pair_coverage_v1.csv
+  columns of interest: ['first_attempt_id', 'first_speed_mph', 'second_attempt_id', 'second_speed_mph', 'both_attempts_have_chronology']
+weather/output/chronology_rescue_2022_repeat_pair_driver_eligibility_v1.csv
+  columns of interest: ['broad_repeat_attempt_count', 'attempt_ids', 'attempt_statuses']
+weather/output/chronology_rescue_2022_repeat_pair_eligibility_policy_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_repeat_pair_eligibility_policy_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_repeat_pair_eligibility_policy_v1.json
+weather/output/chronology_rescue_2022_repeat_pair_eligibility_policy_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_repeat_pair_final_driver_coverage_v1.csv
+  columns of interest: ['pair_attempt_count', 'covered_attempt_count', 'attempt_ids', 'covered_attempt_ids', 'missing_attempt_ids']
+weather/output/chronology_rescue_2022_repeat_pair_rescue_completion_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_repeat_pair_rescue_completion_v1.json
+weather/output/chronology_rescue_2022_repeat_pair_rescue_completion_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_result_match_car_number_literal_repair_audit_v1.csv
+  columns of interest: ['attempt_id', 'canonical_speed_mph', 'v2_official_speed_mph', 'speed_matches']
+weather/output/chronology_rescue_2022_result_match_car_number_literal_repair_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_result_match_car_number_literal_repair_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_result_match_v3_active_adoption_manifest_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_result_match_v3_active_adoption_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_result_match_v3_active_switch_candidates_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_result_match_v3_dependency_audit_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_result_match_v3_dependency_audit_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_result_match_v3_dependency_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_result_row_matches_v1.csv
+  columns of interest: ['year', 'speed_mph']
+weather/output/chronology_rescue_2022_result_to_canonical_attempt_matches_v1.csv
+  columns of interest: ['year', 'official_speed_mph', 'attempt_id', 'attempt_key', 'car_attempt_index', 'canonical_speed_mph']
+weather/output/chronology_rescue_2022_result_to_canonical_attempt_matches_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_result_to_canonical_attempt_matches_v2.csv
+  columns of interest: ['year', 'official_speed_mph', 'attempt_id', 'attempt_key', 'car_attempt_index', 'canonical_speed_mph']
+weather/output/chronology_rescue_2022_result_to_canonical_attempt_matches_v3.csv
+  columns of interest: ['year', 'official_speed_mph', 'attempt_id', 'attempt_key', 'car_attempt_index', 'canonical_speed_mph']
+weather/output/chronology_rescue_2022_sato_marco_result_context_v1.csv
+  columns of interest: ['year', 'speed_avg_mph', 'elapsed_time']
+weather/output/chronology_rescue_2022_sato_required_reattempt_adjudication_v1.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'subject_speed_mph', 'related_speed_mph', 'time_quality', 'exact_timestamp', 'direct_official_reattempt_rows']
+weather/output/chronology_rescue_2022_sato_required_reattempt_evidence_hits_v1.csv
+  columns of interest: ['reattempt_terms', 'speed_hits']
+weather/output/chronology_rescue_2022_sato_required_reattempt_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_sato_required_reattempt_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_sato_second_attempt_action_only_summary_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_sato_second_attempt_action_only_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_secondary_adjudicated_evidence_v1.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'time_lower_utc', 'time_upper_utc']
+weather/output/chronology_rescue_2022_secondary_adjudicated_evidence_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_secondary_editorial_candidates_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_secondary_editorial_candidates_v1_qa.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_secondary_ordering_edges_v1.csv
+  columns of interest: ['from_attempt_id', 'to_attempt_id']
+weather/output/chronology_rescue_2022_secondary_rejected_candidates_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_secondary_source_manifest_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_unresolved_attempt_links_v1.csv
+  columns of interest: ['year', 'official_speed_mph', 'best_attempt_id']
+weather/output/chronology_rescue_2022_weather_event_edges_v1.csv
+  columns of interest: []
+weather/output/chronology_rescue_2022_weather_interruption_windows_v1.csv
+  columns of interest: ['year', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc', 'time_quality']
+weather/output/chronology_rescue_2022_weather_interruption_windows_v1_qa.csv
+  columns of interest: []
+weather/output/contemporaneous_cutoff_speed_anchor_summary_v1.csv
+  columns of interest: []
+weather/output/contemporaneous_cutoff_speed_anchor_v1_qa.csv
+  columns of interest: []
+weather/output/contemporaneous_decision_state_evidence_ledger_v1.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'cutoff_speed_mph', 'time_quality', 'exact_timestamp']
+weather/output/contemporaneous_decision_state_evidence_ledger_v1_qa.csv
+  columns of interest: []
+weather/output/contemporaneous_decision_state_evidence_ledger_v1_summary.csv
+  columns of interest: []
+weather/output/contemporaneous_decision_state_evidence_ledger_v2.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'cutoff_speed_mph', 'time_quality', 'exact_timestamp', 'cutoff_speed_derivation', 'cutoff_speed_quality']
+weather/output/decision_recovery_prior_sensitivity_v1.csv
+  columns of interest: []
+weather/output/decision_robustness_envelope_v1.csv
+  columns of interest: ['current_retained_speed_mph', 'absolute_target_speed_mph', 'time_remaining_minutes']
+weather/output/decision_robustness_envelope_v1.md
+weather/output/decision_robustness_envelope_v1_qa.csv
+  columns of interest: []
+weather/output/decision_robustness_summary_v1.csv
+  columns of interest: []
+weather/output/decision_time_observable_state_v2.csv
+  columns of interest: ['year', 'first_attempt_id', 'second_attempt_id', 'first_car_attempt_index', 'second_car_attempt_index', 'first_attempt_status', 'second_attempt_status', 'first_attempt_chronology_usable', 'second_attempt_chronology_usable', 'first_attempt_time_quality', 'first_attempt_time_point_utc', 'first_attempt_time_lower_utc', 'first_attempt_time_upper_utc', 'second_attempt_time_quality', 'second_attempt_time_point_utc', 'second_attempt_time_lower_utc', 'second_attempt_time_upper_utc', 'first_attempt_speed_mph', 'second_attempt_speed_mph', 'cutoff_speed_mph', 'decision_state_time_quality', 'queue_time_quality', 'elapsed_time_as_track_evolution']
+weather/output/decision_time_observable_state_v2_provenance.csv
+  columns of interest: ['subject_attempt_id', 'related_attempt_id']
+weather/output/decision_time_observable_state_v2_qa.csv
+  columns of interest: []
+weather/output/decision_time_observable_state_v2_summary.json
+weather/output/decision_time_observable_state_v3.csv
+  columns of interest: ['year', 'first_attempt_id', 'second_attempt_id', 'first_car_attempt_index', 'second_car_attempt_index', 'first_attempt_status', 'first_attempt_speed_mph', 'first_attempt_time_quality', 'predecision_cutoff_speed_mph', 'predecision_state_time_quality', 'elapsed_time_as_track_evolution']
+weather/output/decision_time_observable_state_v3_provenance.csv
+  columns of interest: []
+weather/output/decision_time_observable_state_v3_qa.csv
+  columns of interest: []
+weather/output/decision_time_observable_state_v3_summary.json
+weather/output/decision_time_observable_state_v4_1_final.csv
+  columns of interest: ['year', 'first_attempt_id', 'second_attempt_id', 'first_car_attempt_index', 'second_car_attempt_index', 'first_attempt_status', 'first_attempt_speed_mph', 'first_attempt_time_quality', 'predecision_cutoff_speed_mph', 'predecision_state_time_quality', 'elapsed_time_as_track_evolution', 'first_attempt_speed_repair_status', 'first_attempt_speed_repair_evidence_ids']
+weather/output/decision_time_observable_state_v4_final.csv
+  columns of interest: ['year', 'first_attempt_id', 'second_attempt_id', 'first_car_attempt_index', 'second_car_attempt_index', 'first_attempt_status', 'first_attempt_speed_mph', 'first_attempt_time_quality', 'predecision_cutoff_speed_mph', 'predecision_state_time_quality', 'elapsed_time_as_track_evolution', 'first_attempt_speed_repair_status', 'first_attempt_speed_repair_evidence_ids']
+weather/output/decision_time_state_v2_input_audit_v1.json
+weather/output/decision_time_state_v2_input_audit_v1_qa.csv
+  columns of interest: []
+weather/output/decision_time_state_v2_input_schema_audit_v1.csv
+  columns of interest: ['year_column', 'attempt_column']
+weather/output/decision_time_state_v2_joinability_audit_v1.csv
+  columns of interest: []
+weather/output/decision_time_state_v2_temporal_admissibility_audit_v1.csv
+  columns of interest: ['subject_attempt_id', 'related_attempt_id']
+weather/output/decision_time_state_v2_temporal_admissibility_audit_v1_qa.csv
+  columns of interest: []
+weather/output/decision_time_state_v3_transition_outcome_evidence.csv
+  columns of interest: ['year', 'cutoff_speed_mph']
+weather/output/final_capability_summary_v1.json
+weather/output/final_core_results_v1.csv
+  columns of interest: []
+weather/output/final_integrated_decision_compact_v1.csv
+  columns of interest: ['current_retained_speed_mph', 'absolute_target_speed_mph', 'time_remaining_minutes']
+weather/output/final_integrated_decision_metadata_v1.csv
+  columns of interest: []
+weather/output/final_integrated_decision_output_v1.md
+weather/output/final_integrated_decision_output_v1_qa.csv
+  columns of interest: []
+weather/output/final_integrated_decision_profiles_v1.csv
+  columns of interest: ['current_retained_speed_mph', 'absolute_target_speed_mph', 'time_remaining_minutes']
+weather/output/final_limitations_v1.csv
+  columns of interest: []
+weather/output/final_realized_environment_2024_overlap_audit.csv
+  columns of interest: ['_attempt_id_norm', 'attempt_id', 'performance_time_utc', 'attempt_id_chronology', 'chronology_time_utc']
+weather/output/final_realized_environment_coverage_audit.csv
+  columns of interest: ['year', 'canonical_attempts', 'cross_layer_overlap_attempts', 'combined_unique_environment_attempts']
+weather/output/final_realized_environment_coverage_audit.md
+weather/output/final_results_freeze_manifest_v1.csv
+  columns of interest: []
+weather/output/final_results_freeze_v1_qa.csv
+  columns of interest: []
+weather/output/final_supported_claims_v1.csv
+  columns of interest: []
+weather/output/global_car_number_attempt_id_grounded_row_audit_v1.csv
+  columns of interest: ['attempt_id', 'canonical_year']
+weather/output/global_car_number_attempt_id_grounded_triage_summary_v1.csv
+  columns of interest: []
+weather/output/global_car_number_attempt_id_grounded_triage_v1_qa.csv
+  columns of interest: []
+weather/output/global_car_number_canonical_collision_audit_v1.csv
+  columns of interest: ['year', 'canonical_attempt_count']
+weather/output/global_car_number_collision_audit_summary_v1.csv
+  columns of interest: []
+weather/output/global_car_number_collision_audit_v1_qa.csv
+  columns of interest: []
+weather/output/global_car_number_output_file_triage_v1.csv
+  columns of interest: ['attempt_id_column', 'rows_with_attempt_id', 'missing_canonical_attempt_links']
+weather/output/global_car_number_output_impact_candidates_v1.csv
+  columns of interest: []
+weather/output/global_car_number_remediation_priority_v1.csv
+  columns of interest: ['attempt_id_column', 'rows_with_attempt_id', 'missing_canonical_attempt_links']
+weather/output/global_car_number_script_risk_audit_v1.csv
+  columns of interest: []
+weather/output/global_pipeline_consistency_audit_v1.csv
+  columns of interest: []
+weather/output/global_pipeline_consistency_v1.md
+weather/output/global_pipeline_consistency_v1_qa.csv
+  columns of interest: []
+weather/output/global_pipeline_phase_status_v1.csv
+  columns of interest: []
+weather/output/global_pipeline_policy_hash_inventory_v1.csv
+  columns of interest: []
+weather/output/hrrr_forecast_availability_policy.csv
+  columns of interest: ['issue_time_utc', 'policy_availability_time_utc', 'availability_time_quality']
+weather/output/hrrr_forecast_availability_policy.md
+weather/output/hrrr_forecast_availability_policy_qa.csv
+  columns of interest: []
+weather/output/hrrr_ims_20200815.csv
+  columns of interest: ['cycle_time_utc', 'valid_time_utc', 'GUST_surface']
+weather/output/hrrr_ims_20200815_features.csv
+  columns of interest: ['cycle_time_utc', 'valid_time_utc', 'GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+weather/output/hrrr_ims_2020_2024_features.csv
+  columns of interest: ['cycle_time_utc', 'valid_time_utc', 'GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+weather/output/hrrr_ims_20210522.csv
+  columns of interest: ['cycle_time_utc', 'valid_time_utc', 'GUST_surface']
+weather/output/hrrr_ims_20210522_features.csv
+  columns of interest: ['cycle_time_utc', 'valid_time_utc', 'GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+weather/output/hrrr_ims_20220521.csv
+  columns of interest: ['cycle_time_utc', 'valid_time_utc', 'GUST_surface']
+weather/output/hrrr_ims_20220521_features.csv
+  columns of interest: ['cycle_time_utc', 'valid_time_utc', 'GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+weather/output/hrrr_ims_20230520.csv
+  columns of interest: ['cycle_time_utc', 'valid_time_utc', 'GUST_surface']
+weather/output/hrrr_ims_20230520_features.csv
+  columns of interest: ['cycle_time_utc', 'valid_time_utc', 'GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+weather/output/hrrr_ims_20240518.csv
+  columns of interest: ['cycle_time_utc', 'valid_time_utc', 'GUST_surface']
+weather/output/hrrr_ims_20240518_features.csv
+  columns of interest: ['cycle_time_utc', 'valid_time_utc', 'GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+weather/output/hrrr_leakage_safe_forecast_candidate_audit.csv
+  columns of interest: ['attempt_id', 'car_attempt_index', 'performance_time_utc', 'nearest_issue_time_utc', 'nearest_valid_time_utc', 'latest_available_issue_time_utc']
+weather/output/hrrr_leakage_safe_forecast_candidate_audit_summary.csv
+  columns of interest: []
+weather/output/interruption_rescue_2022_candidate_adjudication_v1.csv
+  columns of interest: ['event_time_quality', 'exact_event_timestamp']
+weather/output/interruption_rescue_2022_candidate_adjudication_v1_qa.csv
+  columns of interest: []
+weather/output/interruption_rescue_2022_targeted_hits_v1.csv
+  columns of interest: ['time_expressions', 'event_time_quality']
+weather/output/interruption_rescue_2022_targeted_summary_v1.csv
+  columns of interest: []
+weather/output/interruption_rescue_2022_targeted_v1_qa.csv
+  columns of interest: []
+weather/output/interruption_state_evidence_ledger_2022_v1.csv
+  columns of interest: ['year', 'time_lower_utc', 'time_upper_utc', 'time_quality', 'time_source_class']
+weather/output/interruption_state_evidence_ledger_2022_v1_qa.csv
+  columns of interest: []
+weather/output/interruption_state_evidence_ledger_2022_v1_summary.csv
+  columns of interest: []
+weather/output/interruption_track_state_identifiability_2022_v1.csv
+  columns of interest: ['year', 'day1_rain_arrival_speed_effect', 'elapsed_time_as_track_evolution']
+weather/output/interruption_track_state_identifiability_2022_v1.json
+weather/output/interruption_track_state_identifiability_2022_v1_qa.csv
+  columns of interest: []
+weather/output/lane_rescue_2022_repeat_pair_targeted_driver_summary_v1.csv
+  columns of interest: []
+weather/output/lane_rescue_2022_repeat_pair_targeted_hits_v1.csv
+  columns of interest: []
+weather/output/lane_rescue_2022_repeat_pair_targeted_v1_qa.csv
+  columns of interest: []
+weather/output/lane_rescue_2022_rossi_lane1_evidence_v2.csv
+  columns of interest: ['year', 'first_attempt_id', 'first_speed_mph', 'second_attempt_id', 'second_speed_mph', 'exact_timestamp']
+weather/output/lane_rescue_2022_rossi_lane1_evidence_v2_qa.csv
+  columns of interest: []
+weather/output/lane_rescue_2022_rossi_lane1_integration_summary_v1.csv
+  columns of interest: []
+weather/output/lane_rescue_2022_rossi_lane1_integration_v1_qa.csv
+  columns of interest: []
+weather/output/large_gain_event_evidence_audit_qa_v1.csv
+  columns of interest: []
+weather/output/large_gain_event_evidence_audit_v1.csv
+  columns of interest: ['year', 'baseline_attempt_id', 'current_attempt_id', 'baseline_speed_mph', 'current_speed_mph', 'delta_speed_mph', 'baseline_below_year_median', 'seconds_since_baseline_attempt', 'baseline_attempt_class', 'current_attempt_class', 'comparable_lap_speed_rows', 'mean_lap_speed_gain_mph', 'min_lap_speed_gain_mph', 'max_lap_speed_gain_mph', 'std_lap_speed_gain_mph', 'baseline_attempt_metadata_json', 'current_attempt_metadata_json']
+weather/output/large_gain_event_evidence_audit_v1.md
+weather/output/large_gain_event_lap_audit_v1.csv
+  columns of interest: ['year', 'baseline_attempt_id', 'current_attempt_id', 'baseline_lap_speed_mph', 'current_lap_speed_mph', 'lap_speed_delta_mph', 'baseline_lap_time_seconds', 'current_lap_time_seconds']
+weather/output/large_gain_event_section_audit_v1.csv
+  columns of interest: ['year', 'attempt_role', 'attempt_id']
+weather/output/leaderboard_rescue_2022_candidate_adjudication_v1.csv
+  columns of interest: ['cutoff_speed', 'time_quality', 'exact_timestamp']
+weather/output/leaderboard_rescue_2022_candidate_adjudication_v1_qa.csv
+  columns of interest: []
+weather/output/leaderboard_rescue_2022_external_temporal_evidence_v1.csv
+  columns of interest: ['subject_attempt_id', 'related_attempt_id', 'cutoff_speed_mph', 'time_quality', 'exact_timestamp']
+weather/output/leaderboard_rescue_2022_external_temporal_evidence_v1_qa.csv
+  columns of interest: []
+weather/output/leaderboard_rescue_2022_repeat_pair_driver_summary_v1.csv
+  columns of interest: []
+weather/output/leaderboard_rescue_2022_repeat_pair_targeted_hits_v1.csv
+  columns of interest: ['speed_hits_mph']
+weather/output/leaderboard_rescue_2022_repeat_pair_targeted_v1_qa.csv
+  columns of interest: []
+weather/output/official_action_lane_leaderboard_fetch_audit_v1.csv
+  columns of interest: ['year']
+weather/output/official_action_lane_leaderboard_local_evidence_hits_v1.csv
+  columns of interest: ['year']
+weather/output/official_action_lane_leaderboard_resource_candidates_v1.csv
+  columns of interest: ['year']
+weather/output/official_action_lane_leaderboard_resource_discovery_v1.md
+weather/output/official_action_lane_leaderboard_resource_discovery_v1_qa.csv
+  columns of interest: []
+weather/output/official_api_record_semantics_by_car_v1.csv
+  columns of interest: ['year', 'speed_avg', 'elapsed_time']
+weather/output/official_api_record_semantics_records_v1.csv
+  columns of interest: ['year', 'elapsed_time', 'speed_avg']
+weather/output/official_api_record_semantics_summary_v1.csv
+  columns of interest: ['year']
+weather/output/official_api_record_semantics_v1_qa.csv
+  columns of interest: []
+weather/output/official_day1_api_record_categorical_values_v1.csv
+  columns of interest: ['year']
+weather/output/official_day1_api_record_field_inventory_v1.csv
+  columns of interest: ['year']
+weather/output/official_day1_api_record_inventory_v1.csv
+  columns of interest: ['year', 'field__BestLapTime', 'field__BestSpeed', 'field__BestSpeedFormatted', 'field__ElapsedTime', 'field__SpeedAvg', 'field__SpeedAvgFormatted', 'field__TimesLed']
+weather/output/official_day1_api_record_schema_audit_v1_qa.csv
+  columns of interest: []
+weather/output/official_day1_report_text_audit_v1_qa.csv
+  columns of interest: []
+weather/output/official_day1_report_text_file_audit_v1.csv
+  columns of interest: ['year']
+weather/output/official_day1_report_text_summary_v1.csv
+  columns of interest: ['year']
+weather/output/official_day1_report_text_term_hits_v1.csv
+  columns of interest: ['year']
+weather/output/official_day1_results_attempt_rows_v1.csv
+  columns of interest: ['year', 'elapsed_time', 'speed_avg_mph']
+weather/output/official_day1_results_attempt_rows_v1_qa.csv
+  columns of interest: []
+weather/output/official_day1_session_detail_audit_v1.csv
+  columns of interest: ['year']
+weather/output/official_day1_session_details_and_reports_v1.md
+weather/output/official_day1_session_details_and_reports_v1_qa.csv
+  columns of interest: []
+weather/output/official_day1_session_field_inventory_v1.csv
+  columns of interest: ['year']
+weather/output/official_day1_session_report_download_v2.csv
+  columns of interest: ['year']
+weather/output/official_day1_session_report_download_v2_qa.csv
+  columns of interest: []
+weather/output/official_day1_session_report_fetch_audit_v1.csv
+  columns of interest: ['year']
+weather/output/official_day1_session_report_inventory_v1.csv
+  columns of interest: ['year']
+weather/output/official_dynamic_endpoint_candidates_v1.csv
+  columns of interest: ['year']
+weather/output/official_dynamic_endpoint_discovery_v1.md
+weather/output/official_dynamic_endpoint_discovery_v1_qa.csv
+  columns of interest: []
+weather/output/official_dynamic_inline_data_candidates_v1.csv
+  columns of interest: ['year']
+weather/output/official_dynamic_page_audit_v1.csv
+  columns of interest: ['year']
+weather/output/official_dynamic_script_inventory_v1.csv
+  columns of interest: ['year', 'fetch_attempted']
+weather/output/official_indy500_day1_api_fetch_audit_v1.csv
+  columns of interest: ['year']
+weather/output/official_indy500_day1_report_inventory_v1.csv
+  columns of interest: ['year']
+weather/output/official_indy500_day1_session_candidates_v1.csv
+  columns of interest: ['year']
+weather/output/official_indy500_day1_session_report_recovery_v1.md
+weather/output/official_indy500_day1_session_report_recovery_v1_qa.csv
+  columns of interest: []
+weather/output/official_indy500_event_inventory_v1.csv
+  columns of interest: ['year']
+weather/output/official_indy500_session_inventory_v1.csv
+  columns of interest: ['year']
+weather/output/official_indycar_series_identity_v1.csv
+  columns of interest: ['year', 'hdnYear']
+weather/output/official_lane_queue_live_archive_targets_v1.csv
+  columns of interest: ['year']
+weather/output/official_lane_queue_live_endpoint_audit_v1.csv
+  columns of interest: []
+weather/output/official_lane_queue_live_field_inventory_v1.csv
+  columns of interest: ['attempt_signal', 'timestamp_signal']
+weather/output/official_lane_queue_live_resource_recon_v1.md
+weather/output/official_lane_queue_live_resource_recon_v1_qa.csv
+  columns of interest: []
+weather/output/official_lane_queue_live_resource_registry_v1.csv
+  columns of interest: ['year', 'timestamp_fields_present']
+weather/output/official_lane_queue_live_year_coverage_v1.csv
+  columns of interest: ['year', 'attempt_timestamp']
+weather/output/official_report_endpoint_candidates_v1.csv
+  columns of interest: ['year']
+weather/output/official_report_endpoint_extraction_v1.md
+weather/output/official_report_endpoint_extraction_v1_qa.csv
+  columns of interest: []
+weather/output/official_report_endpoint_fetch_audit_v1.csv
+  columns of interest: ['year']
+weather/output/official_results_api_bundle_context_v1.csv
+  columns of interest: []
+weather/output/official_results_api_contract_candidates_v1.csv
+  columns of interest: ['contains_year_parameter']
+weather/output/official_results_api_contract_recovery_v1.md
+weather/output/official_results_api_contract_recovery_v1_qa.csv
+  columns of interest: []
+weather/output/official_results_page_identifiers_v1.csv
+  columns of interest: ['year']
+weather/output/performance_context_features.csv
+  columns of interest: ['attempt_id', 'attempt_key', 'car_attempt_index', 'performance_time_utc', 'performance_time_semantic', 'attempt_class', 'four_lap_average_speed_mph', 'prior_supported_attempt_count', 'most_recent_supported_attempt_time_utc', 'seconds_since_prior_supported_attempt', 'prior_supported_attempt_average_speed_mph', 'prior_supported_attempt_total_seconds', 'best_prior_supported_average_speed_mph', 'speed_change_vs_prior_supported_attempt_mph', 'speed_change_vs_best_prior_supported_mph', 'selected_issue_time_utc', 'before_valid_time_utc', 'after_valid_time_utc', 'forecast_GUST_surface', 'forecast_GUST_surface_before', 'forecast_GUST_surface_after', 'forecast_GUST_surface_interpolation_method', 'forecast_gust_ms', 'forecast_gust_ms_before', 'forecast_gust_ms_after', 'forecast_gust_ms_interpolation_method', 'forecast_wind_direction_deg', 'forecast_wind_direction_deg_before', 'forecast_wind_direction_deg_after', 'forecast_wind_direction_deg_interpolation_method', 'forecast_wind_speed_10m_ms', 'forecast_wind_speed_10m_ms_before', 'forecast_wind_speed_10m_ms_after', 'forecast_wind_speed_10m_ms_interpolation_method']
+weather/output/performance_context_features_qa.csv
+  columns of interest: []
+weather/output/performance_grade_attempt_realized_environment.csv
+  columns of interest: ['attempt_id', 'year', 'attempt_key', 'car_attempt_index', 'mapped_capture_time_utc', 'environment_time_semantic', 'ptsc_wind']
+weather/output/performance_grade_attempt_realized_environment_2024_supported.csv
+  columns of interest: ['attempt_id', 'year', 'car_attempt_index', 'mapped_capture_time_utc', 'environment_time_semantic', 'ptsc_wind']
+weather/output/performance_grade_attempt_realized_environment_2024_supported_qa.csv
+  columns of interest: []
+weather/output/performance_grade_attempt_realized_environment_qa.csv
+  columns of interest: ['year']
+weather/output/performance_grade_attempt_timing.csv
+  columns of interest: ['attempt_id', 'attempt_key', 'car_attempt_index', 'mapped_capture_time_utc', 'time_semantic_note']
+weather/output/performance_grade_attempt_timing_2024_supported.csv
+  columns of interest: ['attempt_id', 'attempt_key', 'car_attempt_index', 'mapped_capture_time_utc', 'time_semantic_note']
+weather/output/performance_grade_attempt_timing_2024_supported_qa.csv
+  columns of interest: []
+weather/output/performance_grade_attempt_timing_qa.csv
+  columns of interest: ['canonical_attempts', 'performance_grade_timed_attempts']
+weather/output/performance_grade_hrrr_forecast_alignment.csv
+  columns of interest: ['attempt_id', 'car_attempt_index', 'performance_time_utc', 'selected_issue_time_utc', 'before_valid_time_utc', 'after_valid_time_utc', 'forecast_GUST_surface', 'forecast_GUST_surface_before', 'forecast_GUST_surface_after', 'forecast_GUST_surface_interpolation_method', 'forecast_gust_ms', 'forecast_gust_ms_before', 'forecast_gust_ms_after', 'forecast_gust_ms_interpolation_method', 'forecast_wind_direction_deg', 'forecast_wind_direction_deg_before', 'forecast_wind_direction_deg_after', 'forecast_wind_direction_deg_interpolation_method', 'forecast_wind_speed_10m_ms', 'forecast_wind_speed_10m_ms_before', 'forecast_wind_speed_10m_ms_after', 'forecast_wind_speed_10m_ms_interpolation_method']
+weather/output/performance_grade_hrrr_forecast_alignment_qa.csv
+  columns of interest: []
+weather/output/pit_service_identifiability_2022_v1.csv
+  columns of interest: ['year', 'service_between_attempts_support', 'later_attempt_proves_repair']
+weather/output/pit_service_identifiability_2022_v1.json
+weather/output/pit_service_identifiability_2022_v1_qa.csv
+  columns of interest: []
+weather/output/pit_service_rescue_2022_candidate_adjudication_v1.csv
+  columns of interest: ['service_between_attempts', 'exact_service_time']
+weather/output/pit_service_rescue_2022_candidate_adjudication_v1_qa.csv
+  columns of interest: []
+weather/output/pit_service_rescue_2022_external_technical_evidence_v1.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'later_repeat_attempt_supported', 'service_between_attempts_confirmed', 'exact_service_time']
+weather/output/pit_service_rescue_2022_external_technical_evidence_v1_qa.csv
+  columns of interest: []
+weather/output/pit_service_rescue_2022_repeat_pair_driver_summary_v1.csv
+  columns of interest: ['service_between_attempts_known']
+weather/output/pit_service_rescue_2022_repeat_pair_targeted_hits_v1.csv
+  columns of interest: ['service_between_attempts', 'exact_service_time']
+weather/output/pit_service_rescue_2022_repeat_pair_targeted_v1_qa.csv
+  columns of interest: []
+weather/output/ptsc_attempt_realized_environment_alignment.csv
+  columns of interest: ['attempt_id', 'car_attempt_index', 'event_time_quality', 'target_time_lower_utc', 'target_time_upper_utc', 'target_time_midpoint_utc', 'ptsc_wind']
+weather/output/ptsc_attempt_realized_environment_alignment_qa.csv
+  columns of interest: []
+weather/output/queue_requeue_evidence_ledger_v1.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'time_quality', 'exact_timestamp']
+weather/output/queue_requeue_evidence_ledger_v1_qa.csv
+  columns of interest: []
+weather/output/queue_requeue_evidence_ledger_v1_summary.csv
+  columns of interest: []
+weather/output/queue_rescue_2022_candidate_adjudication_v1.csv
+  columns of interest: ['time_quality', 'exact_timestamp']
+weather/output/queue_rescue_2022_candidate_adjudication_v1_qa.csv
+  columns of interest: []
+weather/output/queue_rescue_2022_external_queue_order_evidence_v1.csv
+  columns of interest: ['subject_attempt_id', 'related_attempt_id', 'time_quality', 'exact_timestamp']
+weather/output/queue_rescue_2022_external_queue_order_evidence_v1_qa.csv
+  columns of interest: []
+weather/output/queue_rescue_2022_repeat_pair_driver_summary_v1.csv
+  columns of interest: []
+weather/output/queue_rescue_2022_repeat_pair_targeted_hits_v1.csv
+  columns of interest: ['exact_timestamp']
+weather/output/queue_rescue_2022_repeat_pair_targeted_v1_qa.csv
+  columns of interest: []
+weather/output/queue_rescue_2022_restart_time_anchor_hits_v1.csv
+  columns of interest: ['time_expressions', 'time_quality']
+weather/output/queue_rescue_2022_restart_time_anchor_summary_v1.csv
+  columns of interest: []
+weather/output/queue_rescue_2022_restart_time_anchor_v1_qa.csv
+  columns of interest: []
+weather/output/queue_wait_cutoff_feasibility_grid_v1.csv
+  columns of interest: ['year', 'decision_time_utc', 'time_remaining_minutes']
+weather/output/queue_wait_evidence_inventory_v1.csv
+  columns of interest: ['nonnull_event_time_rows']
+weather/output/queue_wait_identifiability_2022_v1.csv
+  columns of interest: ['year', 'priority_time_anchor_count', 'inter_attempt_gap_as_queue_wait']
+weather/output/queue_wait_identifiability_2022_v1.json
+weather/output/queue_wait_identifiability_2022_v1_qa.csv
+  columns of interest: []
+weather/output/queue_wait_latest_withdraw_reference_v1.csv
+  columns of interest: ['year', 'latest_withdraw_time_utc']
+weather/output/queue_wait_run_duration_reference_v1.csv
+  columns of interest: []
+weather/output/queue_wait_sensitivity_scenarios_v1.csv
+  columns of interest: []
+weather/output/queue_wait_sensitivity_scenarios_v1.md
+weather/output/queue_wait_sensitivity_scenarios_v1_qa.csv
+  columns of interest: []
+weather/output/queue_wait_session_boundary_audit_v1.csv
+  columns of interest: ['year', 'event_time_utc', 'time_quality', 'time_basis']
+weather/output/queue_wait_throughput_proxy_v1.csv
+  columns of interest: ['year', 'prior_attempt_id', 'current_attempt_id', 'prior_time_utc', 'current_time_utc']
+weather/output/queue_wait_uncertainty_design_v1.md
+weather/output/queue_wait_uncertainty_design_v1_qa.csv
+  columns of interest: []
+weather/output/queue_wait_uncertainty_policy_v1.csv
+  columns of interest: []
+weather/output/r3b3_environment_ridge_coefficients_v1.csv
+  columns of interest: ['holdout_year']
+weather/output/r3b3_environment_ridge_loyo_metrics_v1.csv
+  columns of interest: ['holdout_year']
+weather/output/r3b3_environment_ridge_predictions_v1.csv
+  columns of interest: ['holdout_year']
+weather/output/r3b3_environment_univariate_sensitivity_v1.csv
+  columns of interest: []
+weather/output/r3b3_performance_environment_sensitivity_v1.json
+weather/output/r3b3_performance_environment_sensitivity_v1_qa.csv
+  columns of interest: []
+weather/output/r3b3_ptsc_track_temperature_diagnostic_v1.csv
+  columns of interest: []
+weather/output/r3b3_repeat_pair_environment_dataset_v1.csv
+  columns of interest: ['year', 'baseline_attempt_id', 'repeat_attempt_id', 'baseline_speed_mph', 'reconstructed_repeat_speed_mph', 'baseline_below_year_median', 'baseline_performance_time_utc', 'repeat_performance_time_utc', 'seconds_since_prior_supported_attempt', 'elapsed_time_role', 'baseline_forecast_wind_speed_10m_ms', 'repeat_forecast_wind_speed_10m_ms', 'delta_forecast_wind_speed_10m_ms', 'baseline_forecast_gust_ms', 'repeat_forecast_gust_ms', 'delta_forecast_gust_ms', 'baseline_ptsc_wind', 'repeat_ptsc_wind', 'delta_ptsc_wind']
+weather/output/r3b3_repeat_pair_environment_dataset_v1.json
+weather/output/r3b3_repeat_pair_environment_dataset_v1_qa.csv
+  columns of interest: []
+weather/output/r3b3_repeat_performance_join_audit_v1_qa.csv
+  columns of interest: []
+weather/output/r3b3_repeat_performance_join_schema_v1.csv
+  columns of interest: ['year_column', 'attempt_id_column', 'first_attempt_id_column', 'second_attempt_id_column', 'first_speed_column', 'second_speed_column', 'performance_time_column']
+weather/output/r3b3_repeat_performance_join_summary_v1.json
+weather/output/r3b4_monte_carlo_action_envelope_v1.csv
+  columns of interest: ['condition_on_completed_repeat_attempt', 'baseline_speed_mph', 'predecision_cutoff_speed_mph', 'mean_final_speed_mph', 'q05_final_speed_mph', 'q50_final_speed_mph', 'q95_final_speed_mph']
+weather/output/r3b4_monte_carlo_performance_decision_envelope_v1.json
+weather/output/r3b4_monte_carlo_performance_decision_envelope_v1_qa.csv
+  columns of interest: []
+weather/output/r3b4_queue_wait_influence_diagnostic_v1.csv
+  columns of interest: []
+weather/output/r3b4_target_gain_probability_v1.csv
+  columns of interest: ['actual_cutoff_speed_used']
+weather/output/r3b_future_environment_policy_v1.csv
+  columns of interest: []
+weather/output/r3b_future_environment_scenarios_v1.csv
+  columns of interest: ['first_attempt_id', 'decision_time_quality', 'decision_time_method', 'decision_time_utc', 'decision_time_lower_utc', 'decision_time_upper_utc', 'future_target_time_utc', 'hrrr_cycle_issue_time_utc', 'hrrr_before_valid_time_utc', 'hrrr_after_valid_time_utc', 'forecast_wind_u_ms', 'forecast_wind_v_ms', 'forecast_wind_speed_10m_ms', 'forecast_wind_direction_deg', 'forecast_gust_ms', 'elapsed_time_used_as_track_evolution']
+weather/output/r3b_future_environment_scenarios_v1.json
+weather/output/r3b_future_environment_scenarios_v1_qa.csv
+  columns of interest: []
+weather/output/r3b_future_environment_state_coverage_v1.csv
+  columns of interest: ['first_attempt_id', 'decision_time_quality', 'decision_time_method', 'decision_time_point_available', 'decision_time_utc', 'decision_time_lower_utc', 'decision_time_upper_utc']
+weather/output/r3b_performance_uncertainty_policy_v1.csv
+  columns of interest: []
+weather/output/r3b_queue_wait_scenarios_v1.csv
+  columns of interest: []
+weather/output/r3b_simulator_input_inventory_v1.csv
+  columns of interest: []
+weather/output/r3b_simulator_input_inventory_v1_qa.csv
+  columns of interest: []
+weather/output/r3b_simulator_input_pack_v1.csv
+  columns of interest: ['year', 'first_attempt_id', 'first_attempt_speed_mph', 'predecision_cutoff_speed_mph', 'realized_second_attempt_used_as_forecast_input']
+weather/output/r3b_simulator_input_pack_v1.json
+weather/output/r3b_simulator_input_pack_v1_qa.csv
+  columns of interest: []
+weather/output/r3b_timed_subset_coverage_v1.csv
+  columns of interest: ['year', 'timed_rows', 'fully_joinable_timed_weather_rows']
+weather/output/r3b_timed_subset_hrrr_interface_v1.json
+weather/output/r3b_timed_subset_hrrr_interface_v1_qa.csv
+  columns of interest: []
+weather/output/r3b_timed_subset_hrrr_schema_audit_v1.csv
+  columns of interest: ['issue_time_column', 'valid_time_column', 'availability_time_column', 'attempt_id_column', 'year_column', 'performance_time_column']
+weather/output/r3c_action_historical_applicability_v1.csv
+  columns of interest: []
+weather/output/r3c_final_capability_boundary_v1.json
+weather/output/r3c_final_monte_carlo_action_envelope_v1.csv
+  columns of interest: ['condition_on_completed_repeat_attempt', 'baseline_speed_mph', 'predecision_cutoff_speed_mph', 'mean_final_speed_mph', 'q05_final_speed_mph', 'q50_final_speed_mph', 'q95_final_speed_mph']
+weather/output/r3c_final_monte_carlo_action_envelope_v2.csv
+  columns of interest: ['condition_on_completed_repeat_attempt', 'baseline_speed_mph', 'predecision_cutoff_speed_mph', 'mean_final_speed_mph', 'q05_final_speed_mph', 'q50_final_speed_mph', 'q95_final_speed_mph', 'absolute_speed_repair_status']
+weather/output/r3c_final_state_action_freeze_v1_qa.csv
+  columns of interest: []
+weather/output/r3c_scott_first_attempt_speed_rescue_evidence_v1.csv
+  columns of interest: ['target_attempt_id', 'speed_field', 'speed_mph', 'row_attempt_id', 'row_canonical_attempt_id', 'row_current_attempt_id', 'row_baseline_attempt_id', 'row_subject_attempt_id', 'row_related_attempt_id']
+weather/output/r3c_scott_first_attempt_speed_rescue_v1.json
+weather/output/r3c_scott_first_attempt_speed_rescue_v1_qa.csv
+  columns of interest: []
+weather/output/repeat_attempt_delta_baseline_aggregate_metrics_v1.csv
+  columns of interest: []
+weather/output/repeat_attempt_delta_baseline_fold_metrics_v1.csv
+  columns of interest: ['test_year', 'train_years']
+weather/output/repeat_attempt_delta_baseline_predictions_v1.csv
+  columns of interest: ['test_year', 'current_attempt_id', 'baseline_attempt_id']
+weather/output/repeat_attempt_delta_baseline_qa_v1.csv
+  columns of interest: []
+weather/output/repeat_attempt_delta_baseline_v1.md
+weather/output/repeat_attempt_delta_model_coefficients_v1.csv
+  columns of interest: ['test_year']
+weather/output/repeat_delta_outlier_error_contribution_v1.csv
+  columns of interest: []
+weather/output/repeat_delta_regime_diagnosis_qa_v1.csv
+  columns of interest: []
+weather/output/repeat_delta_regime_diagnosis_v1.md
+weather/output/repeat_delta_regime_feature_correlations_v1.csv
+  columns of interest: []
+weather/output/repeat_delta_regime_row_diagnostics_v1.csv
+  columns of interest: ['current_attempt_id', 'baseline_attempt_id', 'year', 'current_performance_time_utc', 'baseline_performance_time_utc', 'seconds_since_baseline_attempt', 'prior_supported_attempt_count', 'prior_complete_attempt_count', 'baseline_is_immediately_previous_supported_attempt', 'baseline_speed_mph', 'current_speed_mph', 'target_speed_delta_vs_best_prior_mph', 'current_forecast_wind_direction_sin', 'current_forecast_wind_direction_cos', 'baseline_forecast_wind_direction_sin', 'baseline_forecast_wind_direction_cos', 'delta_forecast_wind_direction_sin', 'delta_forecast_wind_direction_cos', 'current_wind_speed_10m_ms', 'baseline_wind_speed_10m_ms', 'delta_wind_speed_10m_ms', 'baseline_speed_year_centered_mph', 'target_year_centered_mph', 'baseline_below_year_median']
+weather/output/repeat_delta_regime_summary_v1.csv
+  columns of interest: ['mean_baseline_speed_mph', 'median_baseline_speed_mph']
+weather/output/repeat_delta_regime_threshold_audit_v1.csv
+  columns of interest: []
+weather/output/repeat_performance_distribution_bootstrap_v1.csv
+  columns of interest: []
+weather/output/repeat_performance_empirical_distributions_v1.csv
+  columns of interest: []
+weather/output/repeat_performance_recovery_probability_v1.csv
+  columns of interest: []
+weather/output/repeat_performance_uncertainty_rows_v1.csv
+  columns of interest: ['current_attempt_id', 'baseline_attempt_id', 'year', 'baseline_speed_mph', 'target_speed_delta_vs_best_prior_mph', 'baseline_below_year_median']
+weather/output/repeat_performance_uncertainty_v1.md
+weather/output/repeat_performance_uncertainty_v1_qa.csv
+  columns of interest: []
+weather/output/rescue_readiness_matrix_v1.csv
+  columns of interest: []
+weather/output/rescue_readiness_matrix_v1_qa.csv
+  columns of interest: []
+weather/output/rescue_readiness_summary_v1.json
+weather/output/retain_withdraw_decision_semantics_v1.csv
+  columns of interest: []
+weather/output/retain_withdraw_decision_semantics_v1.md
+weather/output/retain_withdraw_decision_semantics_v1_qa.csv
+  columns of interest: []
+weather/output/retain_withdraw_monte_carlo_draw_summary_v1.csv
+  columns of interest: ['current_retained_speed_mph', 'time_remaining_minutes']
+weather/output/retain_withdraw_monte_carlo_scenario_results_v1.csv
+  columns of interest: ['current_retained_speed_mph', 'time_remaining_minutes', 'expected_new_speed_given_completed_mph', 'new_speed_q05_mph', 'new_speed_q10_mph', 'new_speed_q25_mph', 'new_speed_q50_mph', 'new_speed_q75_mph', 'new_speed_q90_mph', 'new_speed_q95_mph', 'retain_speed_mph', 'retain_speed_variance']
+weather/output/retain_withdraw_monte_carlo_v1.md
+weather/output/retain_withdraw_monte_carlo_v1_qa.csv
+  columns of interest: []
+weather/output/retain_withdraw_scenario_classification_v1.csv
+  columns of interest: ['current_retained_speed_mph', 'time_remaining_minutes']
+weather/output/retain_withdraw_target_aware_compact_v1.csv
+  columns of interest: ['current_retained_speed_mph', 'absolute_target_speed_mph', 'time_remaining_minutes']
+weather/output/retain_withdraw_target_aware_profiles_v1.csv
+  columns of interest: ['current_retained_speed_mph', 'absolute_target_speed_mph', 'time_remaining_minutes']
+weather/output/retain_withdraw_target_aware_profiles_v1.md
+weather/output/retain_withdraw_target_aware_profiles_v1_qa.csv
+  columns of interest: []
+weather/output/retain_withdraw_threshold_policy_v1.csv
+  columns of interest: []
+weather/output/rubber_grip_adjacent_mechanism_evidence_2022_v1.csv
+  columns of interest: ['year']
+weather/output/rubber_grip_identifiability_2022_v1.csv
+  columns of interest: ['year', 'elapsed_time_as_track_evolution']
+weather/output/rubber_grip_identifiability_2022_v1.json
+weather/output/rubber_grip_identifiability_2022_v1_qa.csv
+  columns of interest: []
+weather/output/rubber_grip_rescue_2022_targeted_hits_v1.csv
+  columns of interest: ['speed_relation_terms', 'time_expressions']
+weather/output/rubber_grip_rescue_2022_targeted_summary_v1.csv
+  columns of interest: []
+weather/output/rubber_grip_rescue_2022_targeted_v1_qa.csv
+  columns of interest: []
+weather/output/sequential_simulator_readiness_v1.csv
+  columns of interest: []
+weather/output/target_aware_cross_year_robustness_v1.md
+weather/output/target_aware_cross_year_robustness_v1_qa.csv
+  columns of interest: []
+weather/output/target_aware_loyo_profiles_v1.csv
+  columns of interest: ['holdout_year']
+weather/output/target_aware_loyo_recovery_posterior_v1.csv
+  columns of interest: ['holdout_year']
+weather/output/target_aware_loyo_stability_summary_v1.csv
+  columns of interest: ['most_sensitive_holdout_year']
+weather/output/technical_state_evidence_2022_v1.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'later_repeat_attempt_supported']
+weather/output/tire_thermal_pressure_identifiability_2022_v1.csv
+  columns of interest: ['year', 'elapsed_time_can_imply_thermal_state']
+weather/output/tire_thermal_pressure_identifiability_2022_v1.json
+weather/output/tire_thermal_pressure_identifiability_2022_v1_qa.csv
+  columns of interest: []
+weather/output/tire_thermal_rescue_2022_targeted_hits_v1.csv
+  columns of interest: ['attempt_specific']
+weather/output/tire_thermal_rescue_2022_targeted_summary_v1.csv
+  columns of interest: []
+weather/output/tire_thermal_rescue_2022_targeted_v1_qa.csv
+  columns of interest: []
+weather/output/unified_attempt_action_lane_ledger_v1.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id']
+weather/output/unified_attempt_action_lane_ledger_v2.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'subject_speed_mph', 'related_speed_mph']
+weather/output/unified_attempt_action_lane_ledger_v3.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'subject_speed_mph', 'related_speed_mph']
+weather/output/unified_attempt_action_lane_ledger_v4.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'subject_speed_mph', 'related_speed_mph']
+weather/output/unified_attempt_action_lane_ledger_v5.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'subject_speed_mph', 'related_speed_mph']
+weather/output/unified_attempt_action_lane_ledger_v6.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'subject_speed_mph', 'related_speed_mph']
+weather/output/unified_attempt_action_lane_ledger_v7.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'subject_speed_mph', 'related_speed_mph']
+weather/output/unified_attempt_action_lane_ledger_v8.csv
+  columns of interest: ['year', 'subject_attempt_id', 'related_attempt_id', 'subject_speed_mph', 'related_speed_mph']
+weather/output/unified_attempt_chronology_constraint_ledger_v1.csv
+  columns of interest: ['year', 'attempt_id', 'car_attempt_index', 'time_point_utc', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc', 'time_quality']
+weather/output/unified_attempt_chronology_constraint_ledger_v10.csv
+  columns of interest: ['year', 'attempt_id', 'car_attempt_index', 'time_point_utc', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc', 'time_quality', 'related_attempt_id']
+weather/output/unified_attempt_chronology_constraint_ledger_v1_qa.csv
+  columns of interest: []
+weather/output/unified_attempt_chronology_constraint_ledger_v2.csv
+  columns of interest: ['year', 'attempt_id', 'car_attempt_index', 'time_point_utc', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc', 'time_quality']
+weather/output/unified_attempt_chronology_constraint_ledger_v2_qa.csv
+  columns of interest: []
+weather/output/unified_attempt_chronology_constraint_ledger_v3.csv
+  columns of interest: ['year', 'attempt_id', 'car_attempt_index', 'time_point_utc', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc', 'time_quality', 'related_attempt_id']
+weather/output/unified_attempt_chronology_constraint_ledger_v4.csv
+  columns of interest: ['year', 'attempt_id', 'car_attempt_index', 'time_point_utc', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc', 'time_quality', 'related_attempt_id']
+weather/output/unified_attempt_chronology_constraint_ledger_v5.csv
+  columns of interest: ['year', 'attempt_id', 'car_attempt_index', 'time_point_utc', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc', 'time_quality', 'related_attempt_id']
+weather/output/unified_attempt_chronology_constraint_ledger_v6.csv
+  columns of interest: ['year', 'attempt_id', 'car_attempt_index', 'time_point_utc', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc', 'time_quality', 'related_attempt_id']
+weather/output/unified_attempt_chronology_constraint_ledger_v7.csv
+  columns of interest: ['year', 'attempt_id', 'car_attempt_index', 'time_point_utc', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc', 'time_quality', 'related_attempt_id']
+weather/output/unified_attempt_chronology_constraint_ledger_v8.csv
+  columns of interest: ['year', 'attempt_id', 'car_attempt_index', 'time_point_utc', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc', 'time_quality', 'related_attempt_id']
+weather/output/unified_attempt_chronology_constraint_ledger_v9.csv
+  columns of interest: ['year', 'attempt_id', 'car_attempt_index', 'time_point_utc', 'time_lower_utc', 'time_upper_utc', 'time_midpoint_utc', 'time_quality', 'related_attempt_id']
+weather/output/unified_attempt_chronology_constraint_summary_v1.csv
+  columns of interest: ['year']
+weather/output/unified_attempt_chronology_constraint_summary_v2.csv
+  columns of interest: ['year']
+weather/output/unified_attempt_chronology_constraint_summary_v3.csv
+  columns of interest: ['year', 'unique_attempts_with_chronology']
+weather/output/unified_attempt_chronology_constraint_summary_v4.csv
+  columns of interest: ['year', 'unique_attempts_with_chronology']
+weather/output/unified_secondary_evidence_integration_v1_qa.csv
+  columns of interest: []
+weather/output/v2_future_track/future_track_conformal_calibration_v1.csv
+  columns of interest: ['held_out_year']
+weather/output/v2_future_track/future_track_conformal_calibration_v1.txt
+weather/output/v2_future_track/future_track_interval_calibration_v1.csv
+  columns of interest: ['held_out_year']
+weather/output/v2_future_track/future_track_interval_calibration_v1.txt
+weather/output/v2_future_track/future_track_model_metrics_v1.csv
+  columns of interest: ['held_out_year']
+weather/output/v2_future_track/future_track_model_predictions_v1.csv
+  columns of interest: ['held_out_year']
+weather/output/v2_future_track/future_track_model_summary_v1.txt
+weather/output/v2_future_track/future_track_residual_diagnostics_v1.txt
+weather/output/v2_future_track/future_track_residuals_v1.csv
+  columns of interest: ['held_out_year']
+weather/output/v2_future_track/future_track_samples_v1.csv
+  columns of interest: ['year']
+weather/output/v2_future_track/future_track_samples_v1_qa.txt
+weather/output/v2_future_track/future_track_samples_with_solar_v1.csv
+  columns of interest: ['year']
+weather/output/v2_future_track/future_track_samples_with_solar_v1_qa.txt
+weather/output/v2_future_track/horizon_specific_coefficients_v1.csv
+  columns of interest: ['held_out_year']
+weather/output/v2_future_track/horizon_specific_metrics_v1.csv
+  columns of interest: ['held_out_year']
+weather/output/v2_future_track/horizon_specific_predictions_v1.csv
+  columns of interest: ['held_out_year']
+weather/output/v2_future_track/horizon_specific_summary_v1.txt
+weather/output/v2_future_track/solar_model_coefficients_v1.csv
+  columns of interest: ['held_out_year']
+weather/output/v2_future_track/solar_model_metrics_v1.csv
+  columns of interest: ['held_out_year']
+weather/output/v2_future_track/solar_model_predictions_v1.csv
+  columns of interest: ['held_out_year']
+weather/output/v2_future_track/solar_model_summary_v1.txt
+weather/output/v2_future_track/v2a_final_results_table_v1.csv
+  columns of interest: ['expected_delta_speed_mph', 'median_delta_speed_mph']
+weather/output/v2_future_track/v2a_final_scenario_outlook_v1.png
+weather/output/v2_future_track/v2a_freeze_manifest_v1.json
+weather/output/v2_future_track/v2a_freeze_summary_v1.txt
+weather/output/v2_future_track/v2a_full_sample_track_model_coefficients_v1.csv
+  columns of interest: []
+weather/output/v2_future_track/v2a_operational_scenario_outlook_v1.csv
+  columns of interest: ['expected_delta_speed_mph', 'median_delta_speed_mph']
+weather/output/v2_future_track/v2a_operational_scenario_outlook_v1.txt
+weather/output/v2_future_track/v2a_performance_mc_integration_v1.csv
+  columns of interest: ['year', 'deterministic_physical_delta_speed_mph', 'expected_delta_speed_mph', 'median_delta_speed_mph']
+weather/output/v2_future_track/v2a_performance_mc_integration_v1_qa.txt
+weather/output/v2b_section_mechanism/v2b_attempt_section_coverage_v1.csv
+  columns of interest: ['attempt_id', 'valid_section_speed_rows', 'valid_section_time_rows']
+weather/output/v2b_section_mechanism/v2b_final_core_attempt_linkage_audit_v1.csv
+  columns of interest: ['year', 'delta_speed_final_core_mph', 'before_attempt_id', 'after_attempt_id', 'before_valid_section_speed_rows', 'before_valid_section_time_rows', 'after_valid_section_speed_rows', 'after_valid_section_time_rows', 'both_attempts_in_section_table', 'both_have_section_speed']
+weather/output/v2b_section_mechanism/v2b_freeze_manifest_v1.json
+weather/output/v2b_section_mechanism/v2b_freeze_summary_v1.txt
+weather/output/v2b_section_mechanism/v2b_missing_transition_recovery_best_v3.csv
+  columns of interest: ['year', 'target_delta_speed_mph', 'candidate_attempt_count', 'before_attempt_id', 'after_attempt_id', 'before_attempt_index', 'after_attempt_index', 'before_speed_mph', 'after_speed_mph', 'candidate_delta_speed_mph', 'before_valid_speed_rows', 'after_valid_speed_rows']
+weather/output/v2b_section_mechanism/v2b_missing_transition_recovery_candidates_v3.csv
+  columns of interest: ['year', 'target_delta_speed_mph', 'candidate_attempt_count', 'before_attempt_id', 'after_attempt_id', 'before_attempt_index', 'after_attempt_index', 'before_speed_mph', 'after_speed_mph', 'candidate_delta_speed_mph', 'before_valid_speed_rows', 'after_valid_speed_rows']
+weather/output/v2b_section_mechanism/v2b_missing_transition_recovery_summary_v3.txt
+weather/output/v2b_section_mechanism/v2b_section_changes_long_v1.csv
+  columns of interest: ['year', 'delta_four_lap_average_speed_mph', 'before_attempt_id', 'after_attempt_id', 'before_mean_section_speed_mph', 'after_mean_section_speed_mph', 'delta_section_speed_mph']
+weather/output/v2b_section_mechanism/v2b_section_linkage_audit_summary_v1.txt
+weather/output/v2b_section_mechanism/v2b_section_magnitude_control_summary_v1.txt
+weather/output/v2b_section_mechanism/v2b_section_mechanism_descriptive_summary_v1.txt
+weather/output/v2b_section_mechanism/v2b_section_residual_diagnostics_summary_v1.txt
+weather/output/v2b_section_mechanism/v2b_section_residual_diagnostics_v1.csv
+  columns of interest: ['year', 'delta_four_lap_average_speed_mph', 'mean_delta_section_speed_mph', 'median_delta_section_speed_mph', 'sd_delta_section_speed_mph', 'min_delta_section_speed_mph', 'max_delta_section_speed_mph', 'direction_coherence', 'abs_delta_speed_mph']
+weather/output/v2b_section_mechanism/v2b_transition_map_v1.csv
+  columns of interest: ['year', 'delta_speed_mph', 'before_attempt_id', 'after_attempt_id']
+weather/output/v2b_section_mechanism/v2b_transition_section_mechanism_metrics_v1.csv
+  columns of interest: ['year', 'delta_four_lap_average_speed_mph', 'mean_delta_section_speed_mph', 'median_delta_section_speed_mph', 'sd_delta_section_speed_mph', 'min_delta_section_speed_mph', 'max_delta_section_speed_mph', 'direction_coherence']
+weather/ptsc_source_block_verification.csv
+  columns of interest: ['year', 'selected_block_valid_time_row_count', 'excluded_duplicate_block_valid_time_row_count']
+weather/scripts/__pycache__/recon_official_lane_queue_live_resources_v1.cpython-314.pyc
+weather/scripts/adjudicate_2022_castroneves_first_run_action_v1.py
+weather/scripts/adjudicate_2022_castroneves_first_run_action_v1_active_v3.py
+weather/scripts/adjudicate_2022_ilott_autosport_retake_evidence_v1.py
+weather/scripts/adjudicate_2022_ilott_sentence_local_evidence_v1_active_v3.py
+weather/scripts/adjudicate_2022_interruption_drying_candidates_v1.py
+weather/scripts/adjudicate_2022_karam_two_event_chronology_v1.py
+weather/scripts/adjudicate_2022_karam_two_event_chronology_v1_active_v3.py
+weather/scripts/adjudicate_2022_live_leaderboard_candidates_v1.py
+weather/scripts/adjudicate_2022_pit_service_candidates_v1.py
+weather/scripts/adjudicate_2022_queue_requeue_candidates_v1.py
+weather/scripts/adjudicate_2022_secondary_chronology_evidence_v1.py
+weather/scripts/adjudicate_2022_weather_interruption_windows_v1.py
+weather/scripts/adopt_active_2022_rescue_scripts_to_result_match_v3_v1.py
+weather/scripts/align_2024_supported_performance_timing_to_ptsc.py
+weather/scripts/align_performance_grade_timing_to_ptsc.py
+weather/scripts/align_ptsc_realized_environment.py
+weather/scripts/audit_2022_castroneves_canonical_identity_v1.py
+weather/scripts/audit_2022_castroneves_canonical_identity_v1_active_v3.py
+weather/scripts/audit_2022_castroneves_repeat_pair_evidence_v1.py
+weather/scripts/audit_2022_castroneves_repeat_pair_evidence_v1_active_v3.py
+weather/scripts/audit_2022_chronology_action_coverage_v2.py
+weather/scripts/audit_2022_chronology_coverage_gaps_v1.py
+weather/scripts/audit_2022_editorial_chronology_promotion_candidates_v1.py
+weather/scripts/audit_2022_ilott_repeat_pair_evidence_v1_active_v3.py
+weather/scripts/audit_2022_interruption_drying_reset_evidence_v1.py
+weather/scripts/audit_2022_karam_attempt_identity_rescue_v1.py
+weather/scripts/audit_2022_karam_attempt_identity_rescue_v1_active_v3.py
+weather/scripts/audit_2022_karam_repeat_object_reconciliation_v1.py
+weather/scripts/audit_2022_malukas_repeat_chronology_v1.py
+weather/scripts/audit_2022_marco_first_attempt_identity_binding_v1.py
+weather/scripts/audit_2022_marco_repeat_chronology_v1.py
+weather/scripts/audit_2022_marco_second_run_direct_evidence_v1.py
+weather/scripts/audit_2022_repeat_group_denominator_reconciliation_v1.py
+weather/scripts/audit_2022_repeat_pair_lane_evidence_targeted_v1.py
+weather/scripts/audit_2022_repeat_pair_live_leaderboard_cutoff_v1.py
+weather/scripts/audit_2022_repeat_pair_pit_service_evidence_v1.py
+weather/scripts/audit_2022_repeat_pair_queue_requeue_evidence_v1.py
+weather/scripts/audit_2022_restart_queue_time_anchors_v1.py
+weather/scripts/audit_2022_result_match_v3_adoption_dependencies_v1.py
+weather/scripts/audit_2022_rubber_grip_evolution_evidence_v1.py
+weather/scripts/audit_2022_sato_existing_v5_rows_v1.py
+weather/scripts/audit_2022_sato_failed_first_required_reattempt_v1.py
+weather/scripts/audit_2022_tire_thermal_pressure_evidence_v1.py
+weather/scripts/audit_2022_unresolved_canonical_attempt_links_v1.py
+weather/scripts/audit_attempt_performance_modeling_readiness.py
+weather/scripts/audit_attempt_performance_residual_stability_v1.py
+weather/scripts/audit_correct_indycar_events_by_year_v1.py
+weather/scripts/audit_decision_time_state_v2_binding_anomalies_v1.py
+weather/scripts/audit_decision_time_state_v2_inputs_v1.py
+weather/scripts/audit_decision_time_state_v2_temporal_admissibility_v1.py
+weather/scripts/audit_final_realized_environment_coverage.py
+weather/scripts/audit_global_car_number_collision_risk_v1.py
+weather/scripts/audit_global_pipeline_consistency_v1.py
+weather/scripts/audit_large_gain_event_evidence_v1.py
+weather/scripts/audit_leakage_safe_forecast_candidates.py
+weather/scripts/audit_official_api_record_semantics_v1.py
+weather/scripts/audit_official_day1_api_records_schema_v1.py
+weather/scripts/audit_official_day1_report_text_v1.py
+weather/scripts/audit_official_events_api_response_v1.py
+weather/scripts/audit_official_season_dropdown_hierarchy_v1.py
+weather/scripts/audit_r3b3_repeat_performance_join_v1.py
+weather/scripts/audit_r3b_simulator_inputs_v1.py
+weather/scripts/audit_r3b_timed_subset_hrrr_interface_v1.py
+weather/scripts/audit_repeat_delta_regimes_v1.py
+weather/scripts/audit_target_aware_cross_year_robustness_v1.py
+weather/scripts/build_2022_contemporaneous_decision_state_ledger_v1.py
+weather/scripts/build_2022_ilott_precision_archive_targets_v1.py
+weather/scripts/build_2022_interruption_state_ledger_v1.py
+weather/scripts/build_2022_queue_requeue_evidence_ledger_v1.py
+weather/scripts/build_2022_targeted_chronology_rescue_seed_v1.py
+weather/scripts/build_2024_supported_performance_timing.py
+weather/scripts/build_decision_robustness_envelope_v1.py
+weather/scripts/build_decision_time_observable_state_v2.py
+weather/scripts/build_decision_time_observable_state_v3_temporal_safe.py
+weather/scripts/build_final_integrated_decision_output_v1.py
+weather/scripts/build_performance_grade_attempt_timing.py
+weather/scripts/build_r3b3_repeat_pair_environment_dataset_v1.py
+weather/scripts/build_r3b_future_environment_scenarios_v1.py
+weather/scripts/build_r3b_simulator_input_pack_v1.py
+weather/scripts/build_rescue_readiness_matrix_v1.py
+weather/scripts/build_target_aware_decision_profiles_v1.py
+weather/scripts/build_unified_attempt_chronology_constraint_ledger_v1.py
+weather/scripts/build_unified_attempt_chronology_constraint_ledger_v2.py
+weather/scripts/capture_2022_external_queue_order_evidence_v1.py
+weather/scripts/capture_2022_external_service_technical_evidence_v1.py
+weather/scripts/capture_2022_external_temporal_leaderboard_evidence_v1.py
+weather/scripts/capture_2022_karam_repeat_conflict_evidence_v1.py
+weather/scripts/capture_2022_malukas_autosport_repeat_evidence_v1.py
+weather/scripts/capture_2022_marco_second_attempt_therace_v1.py
+weather/scripts/capture_2022_rossi_lane1_evidence_v1.py
+weather/scripts/capture_2022_rossi_lane1_evidence_v2.py
+weather/scripts/capture_2022_secondary_chronology_evidence_v1.py
+weather/scripts/collect_track_condition_evidence.py
+weather/scripts/correct_2022_ilott_html_paragraph_local_evidence_v1_active_v3.py
+weather/scripts/correct_2022_lane_action_metric_semantics_v1.py
+weather/scripts/crawl_track_condition_sources.py
+weather/scripts/derive_2022_attempt_intervals_from_weather_windows_v1.py
+weather/scripts/derive_2022_contemporaneous_cutoff_speed_anchors_v1.py
+weather/scripts/discover_canonical_attempt_table_v1.py
+weather/scripts/discover_indy500_sources.py
+weather/scripts/discover_official_action_lane_leaderboard_resources_v1.py
+weather/scripts/discover_official_dynamic_report_endpoints_v1.py
+weather/scripts/download_current_firestone_temps.py
+weather/scripts/download_discovered_sources.py
+weather/scripts/download_official_day1_session_reports_v2.py
+weather/scripts/extract_indy500_day1_track_temp.py
+weather/scripts/extract_indy500_day1_track_temp_backup.py
+weather/scripts/extract_official_report_endpoints_v1.py
+weather/scripts/finalize_r3c1_results_and_capability_freeze_v1.py
+weather/scripts/finalize_r3c_state_and_action_applicability_v1.py
+weather/scripts/fit_r3b3_performance_environment_sensitivity_v1.py
+weather/scripts/forensic_audit_2022_car06_car6_result_matches_v1.py
+weather/scripts/freeze_2022_interruption_track_state_identifiability_v1.py
+weather/scripts/freeze_2022_pit_service_identifiability_v1.py
+weather/scripts/freeze_2022_queue_wait_identifiability_v1.py
+weather/scripts/freeze_2022_repeat_pair_eligibility_policy_v1.py
+weather/scripts/freeze_2022_repeat_pair_rescue_completion_v1.py
+weather/scripts/freeze_2022_rubber_grip_identifiability_v1.py
+weather/scripts/freeze_2022_tire_thermal_pressure_identifiability_v1.py
+weather/scripts/freeze_attempt_performance_v1_design.py
+weather/scripts/freeze_queue_wait_uncertainty_design_v1.py
+weather/scripts/freeze_retain_withdraw_decision_semantics_v1.py
+weather/scripts/inspect_2022_car06_car6_official_raw_schema_v1.py
+weather/scripts/inspect_firestone_temps.py
+weather/scripts/integrate_2022_castroneves_first_run_action_chronology_v1.py
+weather/scripts/integrate_2022_castroneves_first_run_action_chronology_v1_active_v3.py
+weather/scripts/integrate_2022_ilott_retake_to_active_ledgers_v1.py
+weather/scripts/integrate_2022_karam_repeat_attempt_v1.py
+weather/scripts/integrate_2022_malukas_repeat_attempt_v1.py
+weather/scripts/integrate_2022_marco_first_attempt_chronology_v1.py
+weather/scripts/integrate_2022_marco_second_attempt_v1.py
+weather/scripts/integrate_2022_rossi_lane1_action_v1.py
+weather/scripts/integrate_2022_sato_required_reattempt_to_active_ledgers_v1.py
+weather/scripts/integrate_2022_sato_second_attempt_action_only_v1.py
+weather/scripts/integrate_2022_secondary_evidence_into_unified_ledgers_v1.py
+weather/scripts/inventory_chronology_evidence_sources_v1.py
+weather/scripts/materialize_hrrr_availability_policy.py
+weather/scripts/materialize_performance_context_features.py
+weather/scripts/materialize_performance_grade_hrrr_forecast_alignment.py
+weather/scripts/materialize_queue_wait_sensitivity_scenarios_v1.py
+weather/scripts/materialize_repeat_attempt_delta_context_v1.py
+weather/scripts/materialize_repeat_performance_uncertainty_v1.py
+weather/scripts/mine_2022_high_priority_chronology_targets_v1.py
+weather/scripts/mine_2022_high_priority_chronology_targets_v1_active_v3.py
+weather/scripts/mine_2022_official_editorial_chronology_candidates_v1.py
+weather/scripts/normalize_ptsc_timestamps.py
+weather/scripts/parse_official_day1_results_attempt_rows_v1.py
+weather/scripts/preflight_2022_ilott_retake_ledger_integration_v1.py
+weather/scripts/probe_ptsc_firestone_history.py
+weather/scripts/promote_2022_adjudicated_chronology_evidence_v2.py
+weather/scripts/promote_2022_mclaughlin_newgarden_chronology_v3.py
+weather/scripts/qa_indy500_day1_track_temp.py
+weather/scripts/query_wayback_ptsc.py
+weather/scripts/reaudit_2022_castroneves_with_preserved_car_number_v1.py
+weather/scripts/reaudit_2022_castroneves_with_preserved_car_number_v1_active_v3.py
+weather/scripts/recalculate_2022_post_ilott_coverage_v1.py
+weather/scripts/recon_decision_state_materialization.py
+weather/scripts/recon_forecast_decision_state_join.py
+weather/scripts/recon_official_lane_queue_live_resources_v1.py
+weather/scripts/reconcile_2022_results_to_canonical_attempt_ids_v1.py
+weather/scripts/recover_official_day1_session_details_and_reports_v1.py
+weather/scripts/recover_official_indy500_day1_session_reports_v1.py
+weather/scripts/recover_official_indycar_series_identity_v1.py
+weather/scripts/recover_official_results_api_contract_v1.py
+weather/scripts/repair_2022_result_match_car_number_literals_v1.py
+weather/scripts/rescue_scott_first_attempt_speed_r3c0a_v1.py
+weather/scripts/resolve_2022_chronology_only_canonical_links_v1.py
+weather/scripts/run_attempt_performance_baseline_ladder_v1.py
+weather/scripts/run_r3b4_monte_carlo_performance_decision_envelope_v1.py
+weather/scripts/run_repeat_attempt_delta_baseline_ladder_v1.py
+weather/scripts/run_retain_withdraw_monte_carlo_v1.py
+weather/scripts/scrape_ptsc_file_index.py
+weather/scripts/triage_car_number_collision_impact_by_attempt_id_v1.py
+weather/scripts/v2_add_solar_features.py
+weather/scripts/v2_build_future_track_samples.py
+weather/scripts/v2_evaluate_future_track_models.py
+weather/scripts/v2_evaluate_horizon_specific_models.py
+weather/scripts/v2_evaluate_solar_models.py
+weather/scripts/v2_future_track_conformal_calibration.py
+weather/scripts/v2_future_track_interval_calibration.py
+weather/scripts/v2_future_track_residual_diagnostics.py
+weather/scripts/v2_integrate_track_to_performance_mc.py
+weather/scripts/v2a_build_operational_scenario_outlook.py
+weather/scripts/v2a_freeze_and_finalize.py
+weather/scripts/v2b_build_section_mechanism_audit.py
+weather/scripts/v2b_freeze_and_finalize.py
+weather/scripts/v2b_recover_missing_attempt_ids.py
+weather/scripts/v2b_recover_missing_attempt_ids_v2.py
+weather/scripts/v2b_recover_missing_attempt_ids_v3.py
+weather/scripts/v2b_section_linkage_audit.py
+weather/scripts/v2b_section_magnitude_control.py
+weather/scripts/v2b_section_residual_diagnostics.py
+weather/scripts/v2c_discover_wind_evidence.py
+weather/scripts/weather/v2_add_solar_features.py
+weather/timing71_environment_field_audit.csv
+  columns of interest: ['year', 'wind_token_file_count']
+weather/tire_telemetry_availability.csv
+  columns of interest: ['year', 'tire_pressure_time_series']
+weather/track_condition_coverage_audit.csv
+  columns of interest: ['year']
+weather/track_condition_evidence.csv
+  columns of interest: ['year', 'stated_local_time', 'local_timezone']
+weather/track_condition_recon_qa.csv
+  columns of interest: []
+weather/track_condition_reconnaissance_freeze_manifest.csv
+  columns of interest: []
+weather/track_condition_reconnaissance_report.md
+weather/track_condition_source_catalog.csv
+  columns of interest: ['year']
+weather/track_temperature_anchor_reconciliation.csv
+  columns of interest: ['year', 'local_time', 'utc_datetime']
+
+====================================================================================================
+CSV FILES WITH WIND/GUST COLUMNS
+====================================================================================================
+
+r5/frozen_inputs/day1/day1_environment_linked_transitions_39_FROZEN.csv
+  total columns: 54
+  wind/gust columns: ['delta_ptsc_wind', 'delta_forecast_wind_speed_10m_ms', 'delta_forecast_gust_ms']
+  context columns: ['year', 'session_id', 'before_attempt_id', 'after_attempt_id', 'before_time_utc', 'after_time_utc', 'before_time_class', 'after_time_class', 'delta_ptsc_wind', 'delta_forecast_wind_speed_10m_ms', 'delta_forecast_gust_ms']
+
+r5/output/r5_manual_first_run_sequence_physics_v1.csv
+  total columns: 33
+  wind/gust columns: ['wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+  context columns: ['attempt_id', 'year', 'car_attempt_index', 'performance_time_utc', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+
+r5/output/r5_manual_first_run_thermal_window_rows_v1.csv
+  total columns: 38
+  wind/gust columns: ['wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+  context columns: ['attempt_id', 'year', 'car_attempt_index', 'performance_time_utc', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms', 'same_year_first_run_speed_median_mph', 'speed_residual_vs_same_year_first_run_median_mph', 'same_year_first_run_fade_median_mph', 'fade_residual_vs_same_year_first_run_median_mph']
+
+r5/output/r5_manual_same_car_repeat_physics_v1.csv
+  total columns: 42
+  wind/gust columns: ['before_wind_speed_10m_ms', 'after_wind_speed_10m_ms', 'delta_wind_speed_10m_ms']
+  context columns: ['year', 'before_attempt_id', 'after_attempt_id', 'before_attempt_index', 'after_attempt_index', 'before_time_utc', 'after_time_utc', 'before_wind_speed_10m_ms', 'after_wind_speed_10m_ms', 'delta_wind_speed_10m_ms']
+
+r5/output/r5_manual_within_run_fade_physics_v1.csv
+  total columns: 31
+  wind/gust columns: ['wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+  context columns: ['attempt_id', 'year', 'car_attempt_index', 'performance_time_utc', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+
+r5/output/r5b_solar_physics_features.csv
+  total columns: 29
+  wind/gust columns: ['wind_speed_ms', 'wind_direction_deg', 'gust_ms']
+  context columns: ['attempt_id', 'year', 'car_attempt_index', 'performance_time_utc', 'track_observation_time_utc', 'wind_speed_ms', 'wind_direction_deg', 'gust_ms', 'hrrr_selected_issue_time_utc', 'source']
+
+r5/output/r5c_same_car_physics_transitions.csv
+  total columns: 55
+  wind/gust columns: ['wind_speed_ms_before', 'wind_speed_ms_after', 'delta_wind_speed_ms', 'wind_direction_deg_before', 'wind_direction_deg_after', 'delta_wind_direction_deg', 'gust_ms_before', 'gust_ms_after', 'delta_gust_ms']
+  context columns: ['year', 'before_attempt_id', 'after_attempt_id', 'before_attempt_index', 'after_attempt_index', 'before_time_utc', 'after_time_utc', 'wind_speed_ms_before', 'wind_speed_ms_after', 'delta_wind_speed_ms', 'wind_direction_deg_before', 'wind_direction_deg_after', 'delta_wind_direction_deg', 'gust_ms_before', 'gust_ms_after', 'delta_gust_ms']
+
+r5/output/r5f_future_physical_state_interface.csv
+  total columns: 34
+  wind/gust columns: ['current_wind_speed_ms', 'future_wind_speed_ms']
+  context columns: ['decision_time_utc', 'future_attempt_time_utc', 'track_observation_time_utc', 'track_dynamics_training_years', 'current_wind_speed_ms', 'future_wind_speed_ms', 'forecast_time_method']
+
+r5_2/manual/compact_model_robust_coefficients_v1.csv
+  total columns: 8
+  wind/gust columns: ['ols_delta_gust_ms', 'huber_delta_gust_ms']
+  context columns: ['ols_delta_gust_ms', 'huber_delta_gust_ms']
+
+r5_2/manual/official_physics_core_screen_v1.csv
+  total columns: 16
+  wind/gust columns: ['beta_delta_gust_ms', 'beta_delta_wind_speed_ms']
+  context columns: ['beta_delta_gust_ms', 'beta_delta_wind_speed_ms']
+
+r5_2/manual/physics_informed_constrained_core_screen_v1.csv
+  total columns: 12
+  wind/gust columns: ['beta_delta_gust_ms']
+  context columns: ['beta_delta_gust_ms']
+
+r5_2/manual/r5_2_old_vs_rescued_model_comparison_v1.csv
+  total columns: 16
+  wind/gust columns: ['beta_delta_gust_ms']
+  context columns: ['beta_delta_gust_ms']
+
+r5_2/manual/r5_2_repeat_analysis_set_v1.csv
+  total columns: 108
+  wind/gust columns: ['delta_ptsc_wind', 'delta_forecast_wind_speed_10m_ms', 'delta_forecast_gust_ms', 'previous_wind_speed_ms', 'previous_gust_ms', 'previous_wind_direction_deg', 'previous_wind_u_ms', 'previous_wind_v_ms', 'next_wind_speed_ms', 'next_gust_ms', 'next_wind_direction_deg', 'next_wind_u_ms', 'next_wind_v_ms', 'delta_wind_speed_ms', 'delta_gust_ms', 'delta_wind_direction_deg', 'delta_wind_u_ms', 'delta_wind_v_ms']
+  context columns: ['year', 'session_id', 'before_attempt_id', 'after_attempt_id', 'before_time_utc', 'after_time_utc', 'before_time_class', 'after_time_class', 'delta_ptsc_wind', 'delta_forecast_wind_speed_10m_ms', 'delta_forecast_gust_ms', 'previous_wind_speed_ms', 'previous_gust_ms', 'previous_wind_direction_deg', 'previous_wind_u_ms', 'previous_wind_v_ms', 'next_wind_speed_ms', 'next_gust_ms', 'next_wind_direction_deg', 'next_wind_u_ms', 'next_wind_v_ms', 'delta_wind_speed_ms', 'delta_gust_ms', 'delta_wind_direction_deg', 'delta_wind_u_ms', 'delta_wind_v_ms', 'analysis_source']
+
+r5_2/manual/rescued_attempt_environment_states_v1.csv
+  total columns: 43
+  wind/gust columns: ['hrrr_wind_speed_10m_ms', 'hrrr_wind_direction_deg', 'hrrr_gust_ms', 'ptsc_wind', 'ptsc_wind_direction']
+  context columns: ['year', 'attempt_role', 'time_et', 'time_utc', 'time_quality', 'source_authority', 'source', '_time', 'hrrr_match_time_utc', 'hrrr_time_distance_min', 'hrrr_wind_speed_10m_ms', 'hrrr_wind_direction_deg', 'hrrr_gust_ms', 'ptsc_match_time_utc', 'ptsc_time_distance_min', 'ptsc_wind', 'ptsc_wind_direction']
+
+r5_2/manual/rescued_attempt_quarantine_v1.csv
+  total columns: 43
+  wind/gust columns: ['hrrr_wind_speed_10m_ms', 'hrrr_wind_direction_deg', 'hrrr_gust_ms', 'ptsc_wind', 'ptsc_wind_direction']
+  context columns: ['year', 'attempt_role', 'time_et', 'time_utc', 'time_quality', 'source_authority', 'source', '_time', 'hrrr_match_time_utc', 'hrrr_time_distance_min', 'hrrr_wind_speed_10m_ms', 'hrrr_wind_direction_deg', 'hrrr_gust_ms', 'ptsc_match_time_utc', 'ptsc_time_distance_min', 'ptsc_wind', 'ptsc_wind_direction']
+
+r5_2/manual/rescued_repeat_physical_transitions_v1.csv
+  total columns: 43
+  wind/gust columns: ['before_wind_speed_ms', 'after_wind_speed_ms', 'delta_wind_speed_ms', 'before_gust_ms', 'after_gust_ms', 'delta_gust_ms']
+  context columns: ['year', 'before_time_utc', 'after_time_utc', 'elapsed_between_attempt_points_min', 'before_wind_speed_ms', 'after_wind_speed_ms', 'delta_wind_speed_ms', 'before_gust_ms', 'after_gust_ms', 'delta_gust_ms']
+
+r5_2/manual/rescued_repeat_physical_transitions_v2.csv
+  total columns: 54
+  wind/gust columns: ['before_wind_speed_ms', 'after_wind_speed_ms', 'delta_wind_speed_ms', 'before_gust_ms', 'after_gust_ms', 'delta_gust_ms']
+  context columns: ['year', 'before_attempt_id', 'after_attempt_id', 'before_time_utc', 'after_time_utc', 'elapsed_between_attempt_points_min', 'before_time_quality', 'after_time_quality', 'before_wind_speed_ms', 'after_wind_speed_ms', 'delta_wind_speed_ms', 'before_gust_ms', 'after_gust_ms', 'delta_gust_ms']
+
+r5_2/manual/track_temperature_extended_horizon_panel_v1.csv
+  total columns: 16
+  wind/gust columns: ['current_wind_ms', 'future_wind_ms']
+  context columns: ['year', 'current_time_utc', 'future_time_utc', 'current_wind_ms', 'future_wind_ms']
+
+r5_2/manual/track_temperature_future_transition_panel_v1.csv
+  total columns: 24
+  wind/gust columns: ['current_wind_ms', 'future_wind_ms', 'delta_wind_ms', 'current_gust_ms', 'future_gust_ms', 'delta_gust_ms']
+  context columns: ['year', 'current_time_utc', 'future_time_utc', 'target_time_error_min', 'current_wind_ms', 'future_wind_ms', 'delta_wind_ms', 'current_gust_ms', 'future_gust_ms', 'delta_gust_ms']
+
+r5_2/manual/track_temperature_state_panel_v1.csv
+  total columns: 41
+  wind/gust columns: ['wind_raw', 'wind', 'wind_direction', 'hrrr_wind_speed_10m_ms', 'hrrr_gust_ms']
+  context columns: ['year', 'session_date', 'local_time', 'timezone_name', 'local_datetime', 'utc_datetime', 'source_sheet', 'source_row_index', 'source_block_occurrence', 'wind_raw', 'wind', 'wind_direction', 'time_utc', 'hrrr_match_time_utc', 'hrrr_wind_speed_10m_ms', 'hrrr_gust_ms']
+
+weather/evidence/ptsc/indy500_day1_track_temp_2020_2024.csv
+  total columns: 26
+  wind/gust columns: ['wind_raw', 'wind', 'wind_direction']
+  context columns: ['year', 'session_date', 'local_time', 'source_sheet', 'source_row_index', 'source_block_occurrence', 'wind_raw', 'wind', 'wind_direction']
+
+weather/evidence/ptsc/indy500_day1_track_temp_2020_2024_time_normalized.csv
+  total columns: 30
+  wind/gust columns: ['wind_raw', 'wind', 'wind_direction']
+  context columns: ['year', 'session_date', 'local_time', 'timezone_name', 'local_datetime', 'utc_datetime', 'source_sheet', 'source_row_index', 'source_block_occurrence', 'wind_raw', 'wind', 'wind_direction']
+
+weather/evidence/ptsc/indy500_day1_track_temp_excluded_blocks.csv
+  total columns: 27
+  wind/gust columns: ['wind_raw', 'wind', 'wind_direction']
+  context columns: ['year', 'session_date', 'local_time', 'source_sheet', 'source_row_index', 'source_block_occurrence', 'wind_raw', 'wind', 'wind_direction']
+
+weather/output/attempt_performance_model_matrix_v1.csv
+  total columns: 22
+  wind/gust columns: ['forecast_wind_speed_10m_ms', 'forecast_wind_direction_sin', 'forecast_wind_direction_cos']
+  context columns: ['attempt_id', 'session_id', 'year', 'forecast_wind_speed_10m_ms', 'forecast_wind_direction_sin', 'forecast_wind_direction_cos', 'prior_supported_attempt_count', 'seconds_since_prior_supported_attempt', 'has_prior_supported_attempt']
+
+weather/output/attempt_performance_repeat_delta_context_v1.csv
+  total columns: 41
+  wind/gust columns: ['current_forecast_wind_direction_sin', 'current_forecast_wind_direction_cos', 'baseline_forecast_wind_direction_sin', 'baseline_forecast_wind_direction_cos', 'delta_forecast_wind_direction_sin', 'delta_forecast_wind_direction_cos', 'current_wind_speed_10m_ms', 'baseline_wind_speed_10m_ms', 'delta_wind_speed_10m_ms']
+  context columns: ['current_attempt_id', 'baseline_attempt_id', 'session_id', 'year', 'current_performance_time_utc', 'baseline_performance_time_utc', 'seconds_since_baseline_attempt', 'prior_supported_attempt_count', 'prior_complete_attempt_count', 'baseline_is_immediately_previous_supported_attempt', 'current_forecast_wind_direction_sin', 'current_forecast_wind_direction_cos', 'baseline_forecast_wind_direction_sin', 'baseline_forecast_wind_direction_cos', 'delta_forecast_wind_direction_sin', 'delta_forecast_wind_direction_cos', 'current_wind_speed_10m_ms', 'baseline_wind_speed_10m_ms', 'delta_wind_speed_10m_ms']
+
+weather/output/attempt_performance_residual_diagnostics_v1.csv
+  total columns: 34
+  wind/gust columns: ['forecast_wind_speed_10m_ms', 'forecast_wind_direction_sin', 'forecast_wind_direction_cos']
+  context columns: ['test_year', 'attempt_id', 'session_id', 'year', 'forecast_wind_speed_10m_ms', 'forecast_wind_direction_sin', 'forecast_wind_direction_cos', 'prior_supported_attempt_count', 'seconds_since_prior_supported_attempt', 'has_prior_supported_attempt', '_resolved_year']
+
+weather/output/hrrr_ims_20200815.csv
+  total columns: 14
+  wind/gust columns: ['GUST_surface']
+  context columns: ['date', 'cycle_time_utc', 'valid_time_utc', 'GUST_surface']
+
+weather/output/hrrr_ims_20200815_features.csv
+  total columns: 24
+  wind/gust columns: ['GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+  context columns: ['date', 'cycle_time_utc', 'valid_time_utc', 'GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+
+weather/output/hrrr_ims_2020_2024_features.csv
+  total columns: 24
+  wind/gust columns: ['GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+  context columns: ['date', 'cycle_time_utc', 'valid_time_utc', 'GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+
+weather/output/hrrr_ims_20210522.csv
+  total columns: 14
+  wind/gust columns: ['GUST_surface']
+  context columns: ['date', 'cycle_time_utc', 'valid_time_utc', 'GUST_surface']
+
+weather/output/hrrr_ims_20210522_features.csv
+  total columns: 24
+  wind/gust columns: ['GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+  context columns: ['date', 'cycle_time_utc', 'valid_time_utc', 'GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+
+weather/output/hrrr_ims_20220521.csv
+  total columns: 14
+  wind/gust columns: ['GUST_surface']
+  context columns: ['date', 'cycle_time_utc', 'valid_time_utc', 'GUST_surface']
+
+weather/output/hrrr_ims_20220521_features.csv
+  total columns: 24
+  wind/gust columns: ['GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+  context columns: ['date', 'cycle_time_utc', 'valid_time_utc', 'GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+
+weather/output/hrrr_ims_20230520.csv
+  total columns: 14
+  wind/gust columns: ['GUST_surface']
+  context columns: ['date', 'cycle_time_utc', 'valid_time_utc', 'GUST_surface']
+
+weather/output/hrrr_ims_20230520_features.csv
+  total columns: 24
+  wind/gust columns: ['GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+  context columns: ['date', 'cycle_time_utc', 'valid_time_utc', 'GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+
+weather/output/hrrr_ims_20240518.csv
+  total columns: 14
+  wind/gust columns: ['GUST_surface']
+  context columns: ['date', 'cycle_time_utc', 'valid_time_utc', 'GUST_surface']
+
+weather/output/hrrr_ims_20240518_features.csv
+  total columns: 24
+  wind/gust columns: ['GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+  context columns: ['date', 'cycle_time_utc', 'valid_time_utc', 'GUST_surface', 'wind_speed_10m_ms', 'wind_direction_deg', 'gust_ms']
+
+weather/output/performance_context_features.csv
+  total columns: 118
+  wind/gust columns: ['forecast_GUST_surface', 'forecast_GUST_surface_before', 'forecast_GUST_surface_after', 'forecast_GUST_surface_interpolation_method', 'forecast_gust_ms', 'forecast_gust_ms_before', 'forecast_gust_ms_after', 'forecast_gust_ms_interpolation_method', 'forecast_wind_direction_deg', 'forecast_wind_direction_deg_before', 'forecast_wind_direction_deg_after', 'forecast_wind_direction_deg_interpolation_method', 'forecast_wind_speed_10m_ms', 'forecast_wind_speed_10m_ms_before', 'forecast_wind_speed_10m_ms_after', 'forecast_wind_speed_10m_ms_interpolation_method']
+  context columns: ['attempt_id', 'session_id', 'attempt_key', 'car_attempt_index', 'performance_time_utc', 'performance_time_semantic', 'performance_timing_source', 'attempt_class', 'result_counted_at_session_end', 'prior_supported_attempt_count', 'most_recent_supported_attempt_time_utc', 'seconds_since_prior_supported_attempt', 'prior_supported_attempt_average_speed_mph', 'prior_supported_attempt_total_seconds', 'speed_change_vs_prior_supported_attempt_mph', 'selected_issue_time_utc', 'before_valid_time_utc', 'after_valid_time_utc', 'forecast_GUST_surface', 'forecast_GUST_surface_before', 'forecast_GUST_surface_after', 'forecast_GUST_surface_interpolation_method', 'forecast_gust_ms', 'forecast_gust_ms_before', 'forecast_gust_ms_after', 'forecast_gust_ms_interpolation_method', 'forecast_wind_direction_deg', 'forecast_wind_direction_deg_before', 'forecast_wind_direction_deg_after', 'forecast_wind_direction_deg_interpolation_method', 'forecast_wind_speed_10m_ms', 'forecast_wind_speed_10m_ms_before', 'forecast_wind_speed_10m_ms_after', 'forecast_wind_speed_10m_ms_interpolation_method']
+
+weather/output/performance_grade_attempt_realized_environment.csv
+  total columns: 33
+  wind/gust columns: ['ptsc_wind']
+  context columns: ['attempt_id', 'session_id', 'year', 'attempt_key', 'car_attempt_index', 'mapped_capture_time_utc', 'environment_time_semantic', 'ptsc_wind']
+
+weather/output/performance_grade_attempt_realized_environment_2024_supported.csv
+  total columns: 30
+  wind/gust columns: ['ptsc_wind']
+  context columns: ['attempt_id', 'session_id', 'year', 'car_attempt_index', 'mapped_capture_time_utc', 'environment_time_semantic', 'ptsc_wind']
+
+weather/output/performance_grade_hrrr_forecast_alignment.csv
+  total columns: 99
+  wind/gust columns: ['forecast_GUST_surface', 'forecast_GUST_surface_before', 'forecast_GUST_surface_after', 'forecast_GUST_surface_interpolation_method', 'forecast_gust_ms', 'forecast_gust_ms_before', 'forecast_gust_ms_after', 'forecast_gust_ms_interpolation_method', 'forecast_wind_direction_deg', 'forecast_wind_direction_deg_before', 'forecast_wind_direction_deg_after', 'forecast_wind_direction_deg_interpolation_method', 'forecast_wind_speed_10m_ms', 'forecast_wind_speed_10m_ms_before', 'forecast_wind_speed_10m_ms_after', 'forecast_wind_speed_10m_ms_interpolation_method']
+  context columns: ['attempt_id', 'session_id', 'car_attempt_index', 'performance_time_utc', 'performance_timing_source', 'selected_issue_time_utc', 'before_valid_time_utc', 'after_valid_time_utc', 'forecast_GUST_surface', 'forecast_GUST_surface_before', 'forecast_GUST_surface_after', 'forecast_GUST_surface_interpolation_method', 'forecast_gust_ms', 'forecast_gust_ms_before', 'forecast_gust_ms_after', 'forecast_gust_ms_interpolation_method', 'forecast_wind_direction_deg', 'forecast_wind_direction_deg_before', 'forecast_wind_direction_deg_after', 'forecast_wind_direction_deg_interpolation_method', 'forecast_wind_speed_10m_ms', 'forecast_wind_speed_10m_ms_before', 'forecast_wind_speed_10m_ms_after', 'forecast_wind_speed_10m_ms_interpolation_method']
+
+weather/output/ptsc_attempt_realized_environment_alignment.csv
+  total columns: 28
+  wind/gust columns: ['ptsc_wind']
+  context columns: ['attempt_id', 'session_id', 'car_attempt_index', 'event_time_quality', 'target_time_lower_utc', 'target_time_upper_utc', 'target_time_midpoint_utc', 'ptsc_wind']
+
+weather/output/r3b3_repeat_pair_environment_dataset_v1.csv
+  total columns: 64
+  wind/gust columns: ['baseline_forecast_wind_speed_10m_ms', 'repeat_forecast_wind_speed_10m_ms', 'delta_forecast_wind_speed_10m_ms', 'baseline_forecast_gust_ms', 'repeat_forecast_gust_ms', 'delta_forecast_gust_ms', 'baseline_ptsc_wind', 'repeat_ptsc_wind', 'delta_ptsc_wind']
+  context columns: ['year', 'baseline_attempt_id', 'repeat_attempt_id', 'baseline_below_year_median', 'baseline_performance_time_utc', 'repeat_performance_time_utc', 'seconds_since_prior_supported_attempt', 'elapsed_time_role', 'baseline_forecast_wind_speed_10m_ms', 'repeat_forecast_wind_speed_10m_ms', 'delta_forecast_wind_speed_10m_ms', 'baseline_forecast_gust_ms', 'repeat_forecast_gust_ms', 'delta_forecast_gust_ms', 'baseline_ptsc_wind', 'repeat_ptsc_wind', 'delta_ptsc_wind']
+
+weather/output/r3b_future_environment_scenarios_v1.csv
+  total columns: 45
+  wind/gust columns: ['forecast_wind_u_ms', 'forecast_wind_v_ms', 'forecast_wind_speed_10m_ms', 'forecast_wind_direction_deg', 'forecast_gust_ms']
+  context columns: ['first_attempt_id', 'decision_time_quality', 'decision_time_method', 'decision_time_utc', 'decision_time_lower_utc', 'decision_time_upper_utc', 'future_target_time_utc', 'after_session_called', 'hrrr_cycle_issue_time_utc', 'hrrr_before_valid_time_utc', 'hrrr_after_valid_time_utc', 'forecast_wind_u_ms', 'forecast_wind_v_ms', 'forecast_wind_speed_10m_ms', 'forecast_wind_direction_deg', 'forecast_gust_ms', 'elapsed_time_used_as_track_evolution']
+
+weather/output/repeat_delta_regime_row_diagnostics_v1.csv
+  total columns: 52
+  wind/gust columns: ['current_forecast_wind_direction_sin', 'current_forecast_wind_direction_cos', 'baseline_forecast_wind_direction_sin', 'baseline_forecast_wind_direction_cos', 'delta_forecast_wind_direction_sin', 'delta_forecast_wind_direction_cos', 'current_wind_speed_10m_ms', 'baseline_wind_speed_10m_ms', 'delta_wind_speed_10m_ms']
+  context columns: ['current_attempt_id', 'baseline_attempt_id', 'session_id', 'year', 'current_performance_time_utc', 'baseline_performance_time_utc', 'seconds_since_baseline_attempt', 'prior_supported_attempt_count', 'prior_complete_attempt_count', 'baseline_is_immediately_previous_supported_attempt', 'current_forecast_wind_direction_sin', 'current_forecast_wind_direction_cos', 'baseline_forecast_wind_direction_sin', 'baseline_forecast_wind_direction_cos', 'delta_forecast_wind_direction_sin', 'delta_forecast_wind_direction_cos', 'current_wind_speed_10m_ms', 'baseline_wind_speed_10m_ms', 'delta_wind_speed_10m_ms', 'baseline_speed_year_centered_mph', 'target_year_centered_mph', 'baseline_below_year_median']
+
+weather/timing71_environment_field_audit.csv
+  total columns: 15
+  wind/gust columns: ['wind_token_file_count']
+  context columns: ['year', 'wind_token_file_count']

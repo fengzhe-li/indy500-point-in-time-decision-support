@@ -1,0 +1,51 @@
+{
+  "checks": {
+    "all_r4_engineering_and_r4a_tests_pass": true,
+    "decision_target_types": [
+      "IMPROVE_CURRENT_SPEED",
+      "REACH_TARGET_RANK",
+      "REMAIN_ABOVE_CUTOFF",
+      "MAXIMIZE_EXPECTED_RANK"
+    ],
+    "future_competitor_actions_rejected": true,
+    "future_tire_temperature_truth_rejected": true,
+    "future_track_grip_truth_rejected": true,
+    "historical_status_not_used_for_lane_eligibility": true,
+    "inferred_historical_queue_wait_rejected": true,
+    "leading_zero_car_number_preserved": true,
+    "numeric_car_number_rejected": true,
+    "post_decision_information_rejected": true,
+    "provenance_classes": [
+      "OBSERVED",
+      "DERIVED_FROM_OBSERVABLES",
+      "FORECAST_AVAILABLE_AT_DECISION_TIME",
+      "UNKNOWN"
+    ],
+    "realized_future_weather_rejected": true,
+    "scenario_field_count": 29,
+    "stochastic_probabilities_created": false,
+    "substantive_simulation_run": false,
+    "tests_run": 20,
+    "unknown_preserved": true
+  },
+  "notes": "Schema/loader QA only; no queue, competitor, weather, tire, shadow, utility, or strategy probability was created.",
+  "phase": "R4A_PIT_WALL_OBSERVABLE_STATE",
+  "r3c1_assets": {
+    "decision_time_observable_state_v4_1_final.csv": true,
+    "final_capability_summary_v1.json": true,
+    "final_core_results_v1.csv": true,
+    "final_limitations_v1.csv": true,
+    "final_results_freeze_v1_qa.csv": true,
+    "final_supported_claims_v1.csv": true,
+    "r3b3_performance_environment_sensitivity_v1.json": true,
+    "r3b3_repeat_pair_environment_dataset_v1.csv": true,
+    "r3b4_monte_carlo_performance_decision_envelope_v1.json": true,
+    "r3b_timed_subset_coverage_v1.csv": true,
+    "r3c_action_historical_applicability_v1.csv": true,
+    "r3c_final_monte_carlo_action_envelope_v2.csv": true,
+    "repeat_performance_recovery_probability_v1.csv": true
+  },
+  "r3c1_manifest_asset_count": 13,
+  "r3c1_manifest_assets_verified": true,
+  "status": "PASS"
+}

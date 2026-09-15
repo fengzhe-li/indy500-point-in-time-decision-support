@@ -1,0 +1,10 @@
+﻿metric,value
+scripts_scanned,93
+scripts_with_result_match_refs,17
+v1_reference_scripts,4
+v2_reference_scripts,16
+v3_reference_scripts,2
+active_switch_candidates,8
+classification_active_rescue_switch_to_v3,8
+classification_audit_script_preserve,4
+classification_legacy_preserve,5

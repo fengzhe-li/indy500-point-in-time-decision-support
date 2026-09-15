@@ -1,0 +1,9 @@
+﻿metric,value,status
+binding_ready,1,PASS
+marco_first_added_once,1,PASS
+marco_second_not_added,0,PASS
+unique_chronology_gain_one,1,PASS
+repeat_coverage_not_artificially_incremented,0,PASS
+lane_evidence_unchanged,0,PASS
+canonical_mutated,0,PASS
+phase5_to_phase8_mutated,0,PASS

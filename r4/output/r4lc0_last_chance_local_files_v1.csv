@@ -1,0 +1,48 @@
+path,suffix,size_bytes,keyword_hits,year_hits,filename_match,content_match
+data/canonical/v1/decision_state_features.csv,.csv,588,bump,,False,True
+r4/run_r4lc0_last_chance_local_asset_audit_v1.py,.py,7505,last_chance,,True,False
+weather/output/retain_withdraw_decision_semantics_v1.md,.md,986,bump,,False,True
+weather/output/retain_withdraw_monte_carlo_v1.md,.md,1330,bump,,False,True
+weather/evidence/rescue/secondary_2022_high_priority_chronology/article_text/THE_RACE_2022_DAY1.txt,.txt,8643,bump;bumping,2020;2021;2022,False,True
+data/canonical/v1/attempts.csv,.csv,102341,bump,2020;2021;2022;2023;2024,False,True
+data_reconnaissance_report.md,.md,12728,bump,2020;2021;2022;2023;2024,False,True
+revised_feasibility_assessment.md,.md,19059,bump,2020;2021;2022;2023;2024,False,True
+v1_inclusion_exclusion_rules.md,.md,15349,bump;last chance,2020;2021;2022;2023;2024,False,True
+weather/output/chronology_evidence_field_inventory_v1.csv,.csv,103278,bump,2020;2021;2022;2023;2024,False,True
+weather/output/chronology_rescue_2022_ilott_archive_target_local_matches_v1.csv,.csv,32636,bump,2020;2021;2022;2023;2024,False,True
+weather/output/chronology_rescue_2022_sato_required_reattempt_evidence_hits_v1.csv,.csv,241564,bump,2020;2021;2022;2023;2024,False,True
+weather/output/official_action_lane_leaderboard_resource_discovery_v1.md,.md,13811,bump;last chance,2020;2021;2022;2023;2024,False,True
+weather/output/official_day1_report_text_file_audit_v1.csv,.csv,5028,bump,2020;2021;2022;2023;2024,False,True
+weather/output/official_day1_report_text_summary_v1.csv,.csv,2834,bump,2020;2021;2022;2023;2024,False,True
+weather/output/official_day1_report_text_term_hits_v1.csv,.csv,631305,bump,2020;2021;2022;2023;2024,False,True
+weather/output/official_day1_results_attempt_rows_v1.csv,.csv,81103,bump,2020;2021;2022;2023;2024,False,True
+weather/output/official_lane_queue_live_resource_recon_v1.md,.md,4907,bump,2020;2021;2022;2023;2024,False,True
+weather/output/official_lane_queue_live_resource_registry_v1.csv,.csv,15889,bump,2020;2021;2022;2023;2024,False,True
+data/canonical/v1/evidence_items.csv,.csv,697196,bump,2020;2021;2022;2023;2024;2025,False,True
+data/canonical/v1/field_evidence_links.csv,.csv,63813458,bump,2020;2021;2022;2023;2024;2025,False,True
+weather/evidence/raw_pages/2024_doctorindy.com_2024_04_10_2024-indianapolis-500-archive.txt,.txt,13989,last chance,2020;2021;2022;2023;2024;2025,False,True
+weather/evidence/rescue/official_indy500_season_dropdown/season_dropdown_ntt_indycar.json,.json,163679,bump;last chance;last row;qualifications - last chance;qualifications - last row,2020;2021;2022;2023;2024;2025,False,True
+weather/output/leaderboard_rescue_2022_repeat_pair_targeted_hits_v1.csv,.csv,652114,bump;bumping,2020;2021;2022;2023;2024;2025,False,True
+weather/output/official_action_lane_leaderboard_local_evidence_hits_v1.csv,.csv,93390,bump;last chance;last row;lastchance,2020;2021;2022;2023;2024;2025,False,True
+weather/output/official_action_lane_leaderboard_resource_candidates_v1.csv,.csv,200963,bump;last chance,2020;2021;2022;2023;2024;2025,False,True
+weather/output/official_lane_queue_live_field_inventory_v1.csv,.csv,354069,bump,2020;2021;2022;2023;2024;2025,False,True
+weather/evidence/rescue/secondary_2022_high_priority_chronology/raw_html/THE_RACE_2022_DAY1.html,.html,100771,bump;bumping,2020;2021;2022;2023;2025,False,True
+weather/evidence/raw_pages/2024_www.indycar.com_news_2024_05_05-18-buzz.txt,.txt,13102,bump;last chance;last row,2020;2021;2022;2024,False,True
+v1_dataset_schema.md,.md,21693,bump,2020;2022;2023;2024,False,True
+v1_data_dictionary.csv,.csv,42866,bump,2020;2024,False,True
+weather/evidence/extracted_text/2021/2021-indycar-results-quals-day1.txt,.txt,6106,bump,2021,False,True
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2021_5838_01_Results.txt,.txt,8893,bump,2021,False,True
+weather/output/chronology_rescue_2022_ilott_local_text_hits_v1.csv,.csv,19902,bump;bumping,2021;2022,False,True
+weather/output/chronology_rescue_2022_ilott_repeat_pair_evidence_v1.csv,.csv,36597,bump;bumping,2021;2022,False,True
+weather/evidence/indy500_discovered_sources.csv,.csv,9621,last chance;lastchance,2021;2022;2023;2024,False,True
+weather/evidence/download_manifest.csv,.csv,10877,last chance;lastchance,2021;2024,False,True
+weather/output/chronology_rescue_2022_ilott_sentence_local_adjudication_v1.csv,.csv,13323,bump;bumping,2022,False,True
+weather/output/chronology_rescue_2022_karam_identity_evidence_v1.csv,.csv,3404,bump;bumping,2022,False,True
+weather/output/leaderboard_rescue_2022_external_temporal_evidence_v1.csv,.csv,2938,bump;bumping,2022,False,True
+weather/evidence/rescue/secondary_2022_high_priority_chronology/raw_html/NBC_2022_DAY1.html,.html,525297,last row,2022;2023;2024;2025,False,True
+weather/evidence/rescue/secondary_2022_high_priority_chronology/article_text/NBC_2022_DAY1.txt,.txt,16020,last row,2022;2024,False,True
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2023_6202_02_Results.txt,.txt,12182,bump,2023,False,True
+tmp/pdfs/rules_2024.txt,.txt,2179,last chance,2024,False,True
+weather/evidence/extracted_text/2024/indycar-qual-explainer-2024Indy500.txt,.txt,2181,last chance,2024,False,True
+weather/evidence/extracted_text/2024/indycar-results-quals-day1-05-18-2024.txt,.txt,7186,bump,2024,False,True
+weather/evidence/rescue/official_day1_session_details/report_text_v1/2024_6382_01_Results.txt,.txt,11001,bump,2024,False,True

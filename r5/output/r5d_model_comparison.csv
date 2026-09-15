@@ -1,0 +1,10 @@
+model,predictors,n,mae_mph,rmse_mph,bias_mph,loyo_folds,max_sign_count_across_folds,explicit_track_thermal,explicit_solar,selected
+M0_ELAPSED_REFERENCE,elapsed_minutes,27,0.9975330996,1.31222578,0.2301226862,3,2,False,False,False
+M1_TRACK_LINEAR,delta_track_temp_c,27,0.982844705,1.320729989,0.215493812,3,1,True,False,True
+M2_TRACK_NONLINEAR,delta_track_temp_c|delta_track_temp_centered_sq_c2,27,1.25256789,1.473377108,0.2268291676,3,2,True,False,False
+M3_THERMAL_AIR_SOLAR,delta_track_temp_c|delta_track_temp_centered_sq_c2|delta_air_temp_c|delta_solar_radiation_wm2|delta_solar_elevation_deg,27,1.871784915,2.307250284,0.9051943497,3,2,True,True,False
+M4_EXTENDED_PHYSICS,delta_track_temp_c|delta_track_temp_centered_sq_c2|delta_air_temp_c|delta_solar_radiation_wm2|delta_solar_elevation_deg|delta_wind_speed_ms|delta_relative_humidity_pct|delta_dewpoint_c|delta_cloud_cover_fraction,27,8.752760344,13.39981687,-8.065498557,3,2,True,True,False
+M5_ONLINE_STATE,delta_track_temp_c|delta_track_temp_centered_sq_c2|delta_air_temp_c|delta_solar_radiation_wm2|delta_solar_elevation_deg|elapsed_minutes|before_attempt_index,27,1.898863588,2.317288253,1.079466353,3,2,True,True,False
+M_PHYSICS_PLUS_FF,delta_track_temp_c|fast_friday_reference_mph_before,27,0.9384625641,1.294592489,0.2139196055,3,1,True,False,False
+ABLATION_PHYSICS_NO_TRACK,elapsed_minutes|delta_air_temp_c|delta_solar_radiation_wm2|delta_solar_elevation_deg|delta_wind_speed_ms,27,1.979749193,2.289014824,1.270682613,3,2,False,True,False
+ABLATION_PHYSICS_NO_SOLAR,elapsed_minutes|delta_track_temp_c|delta_track_temp_centered_sq_c2|delta_air_temp_c|delta_wind_speed_ms,27,1.832464475,2.21342849,0.7111427464,3,2,True,False,False

@@ -1,0 +1,8 @@
+metric,value,expected,status
+years_present,"[2021, 2023, 2024]","[2021, 2023, 2024]",PASS
+2021_initial_order_rows,5,5,PASS
+2021_repeat_complete_records,4,4,PASS
+2023_harvey_attempts_represented,4,4,PASS
+2024_siegel_attempts_represented,2,2,PASS
+no_fabricated_exact_timestamps,0,0,PASS
+no_premature_action_training_labels,0,0,PASS

@@ -1,0 +1,128 @@
+====================================================================================================
+INDY 500 V2-C WIND RESIDUAL DIAGNOSTIC — FINAL FREEZE
+====================================================================================================
+
+STATUS: FROZEN
+
+SCOPE
+----------------------------------------------------------------------------------------------------
+Final physics core transitions: 41
+Wind-linked transitions used in diagnostic: 39
+Raw LOYO residual coverage: 39/39
+Wind-speed-change coverage: 39/39
+Gust-change coverage: 39/39
+Wind-vector-change coverage: 38/39
+
+PURPOSE
+----------------------------------------------------------------------------------------------------
+Wind evidence is used only to test whether unresolved thermal-model error
+shows a stable relationship with historical wind-state proxies.
+
+This is NOT a new predictive wind model.
+
+No wind variable is added to the frozen deterministic performance model.
+
+No heteroskedastic residual model is introduced.
+
+CORE RESULT — RAW ASSOCIATIONS
+----------------------------------------------------------------------------------------------------
+Spearman association with absolute raw LOYO physics residual:
+
+|delta wind speed|:              +0.064170
+|delta gust|:                    +0.344534
+wind-vector change magnitude:    +0.115877
+mean wind speed:                 +0.064980
+mean gust:                       +0.107287
+|delta PTSC wind|:               -0.063796
+|delta forecast wind speed|:     +0.032498
+|delta forecast gust|:           +0.313492
+
+The strongest raw signal appears in gust change,
+but raw associations are not sufficient because residual magnitude
+also depends on overall attempt-level performance-change magnitude.
+
+MAGNITUDE-CONTROLLED RESULT
+----------------------------------------------------------------------------------------------------
+Partial Spearman controlling absolute overall performance change:
+
+|delta wind speed|:              -0.031890
+|delta gust|:                    +0.199002
+wind-vector change magnitude:    +0.208751
+mean wind speed:                 +0.028497
+mean gust:                       +0.060187
+|delta PTSC wind|:               -0.122406
+|delta forecast wind speed|:     -0.045482
+|delta forecast gust|:           +0.189685
+
+No strong independent wind-residual relationship remains.
+
+CROSS-YEAR STABILITY
+----------------------------------------------------------------------------------------------------
+Within-year relationships are not stable.
+
+Examples:
+
+|delta wind speed|
+2020: -0.509
+2021: -0.132
+2023: +0.429
+
+|delta gust|
+2020: +0.355
+2021: +0.046
+2023: +0.549
+
+The variation in both sign and magnitude does not support a stable
+production wind or variance effect.
+
+PHYSICAL INTERPRETATION
+----------------------------------------------------------------------------------------------------
+Wind remains physically relevant to qualifying performance.
+
+However, the available historical proxies do not represent the full
+aerodynamic wind exposure experienced by the car around the oval.
+
+Fixed-point or gridded wind cannot reconstruct:
+- instantaneous gust timing,
+- spatial variation around the circuit,
+- changing headwind/tailwind/crosswind orientation,
+- car/setup-specific aerodynamic sensitivity,
+- local turbulence and exposure.
+
+Therefore:
+
+physical relevance
+DOES NOT imply
+historical identifiability sufficient for modelling.
+
+FINAL DECISION
+----------------------------------------------------------------------------------------------------
+Do NOT add a deterministic wind coefficient.
+
+Do NOT introduce a production heteroskedastic wind-residual model.
+
+Retain wind as:
+- a plausible contributor to unresolved performance variation,
+- a residual interpretation limitation,
+- a candidate variable for future prospective high-resolution data collection.
+
+FINAL PROJECT INTERPRETATION
+----------------------------------------------------------------------------------------------------
+The frozen thermal model explains the identifiable broad physical-state contribution.
+
+Section validation shows that many unexplained changes are spatially coherent.
+
+Wind diagnostics show that available historical wind proxies do not independently
+explain those residuals in a stable way.
+
+Therefore, the residual term should remain an empirical representation of broad,
+unresolved performance-state variation rather than being decomposed into
+unsupported historical mechanisms.
+
+====================================================================================================
+MANIFEST
+====================================================================================================
+weather/output/v2c_wind_diagnostic/v2c_freeze_manifest_v1.json
+
+SHA256(manifest):
+8050d9e9dbd1cf54bdd57dc4b07e19e0be524a71090131aed6fdb08a7a156160

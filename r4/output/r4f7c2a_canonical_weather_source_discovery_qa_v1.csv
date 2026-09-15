@@ -1,0 +1,7 @@
+metric,value,expected,status
+frozen_target_ids,110,110,PASS
+targets_with_point_time,110,110,PASS
+track_numeric_source_found,6,>0,PASS
+weather_numeric_source_found,31,>0,PASS
+canonical_hrrr_file_present,True,True,PASS
+discovery_only_no_model_fit,True,True,PASS

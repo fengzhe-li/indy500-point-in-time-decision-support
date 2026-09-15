@@ -1,0 +1,7 @@
+metric,value,expected,status
+input_rows_preserved,7,7,PASS
+dataset_action_diversity,REATTEMPT,>=2 distinct actions for direct policy fit,WARN
+direct_policy_fit_rows,0,0,PASS
+historical_replay_rows,5,>0,PASS
+evidence_only_rows,2,>0,PASS
+no_policy_fit_without_action_diversity,0,0,PASS

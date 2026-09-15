@@ -1,0 +1,24 @@
+{
+  "phase": "R4F7B",
+  "status": "R4F7B_LATENT_WINDOW_MODEL_CONTRACT_FROZEN",
+  "input_hashes": {
+    "r4/output/r4f7a_v2_expanded_latent_window_input_readiness_rows.csv": "67e4ad87527a0c68f14231bf61f6630bbed0141f044d34c53715d592f9e5b057",
+    "r4/output/r4f6k_expanded_fast_friday_canonical_panel_v1.csv": "3993bf366551bc7bc509237bf3a38fab5d24066bd04c29b419767c528c97bcc8",
+    "r4/output/r4p1_attempt_four_lap_panel_v1.csv": "af6ff210a62c5aa0eb43b912c4df42aa62fe1a5aeb9a26d1d5281d515d4cb30b"
+  },
+  "manifest_hash": "0d27688f2f7c77e496d0670f4d9a4e08232b72b72c06f07857bd2633d4a93cbf",
+  "contract_hash": "758b8aa18dcbf6b1f0bd4d9e5a3c7be5345f1218a0eab422b10c93df3eedb65f",
+  "core_development_observations": 104,
+  "core_year_counts": {
+    "2020": 39,
+    "2021": 48,
+    "2023": 17
+  },
+  "validation_observations": 6,
+  "reference_type_distribution_core": {
+    "GENERAL_FAST_FRIDAY_BEST_SPEED": 98,
+    "NO_TOW_SINGLE_LAP": 4,
+    "FOUR_LAP_QUALIFYING_SIM": 2
+  },
+  "next_phase": "R4F7C: assemble numeric thermal/model matrix and compare frozen low-complexity baselines before introducing latent-window dynamics."
+}

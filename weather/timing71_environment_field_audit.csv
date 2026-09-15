@@ -1,0 +1,7 @@
+year,archive,archive_coverage,json_file_count,tyre_category_file_count,weather_token_file_count,tracktemp_token_file_count,airtemp_token_file_count,ambient_token_file_count,humidity_token_file_count,wind_token_file_count,pressure_token_file_count,tiretemperature_token_file_count,tyretemperature_token_file_count,finding
+2020,evidence/timing71_2020_part1.zip,PARTIAL_BEGINNING_OR_END_UNKNOWN,2646,483,0,0,0,0,0,0,0,0,0,"Tire category marker present; no environment, tire-temperature, or tire-pressure field located"
+2020,evidence/timing71_2020_part2.zip,PARTIAL_BEGINNING_OR_END_UNKNOWN,1662,392,0,0,0,0,0,0,0,0,0,"Tire category marker present; no environment, tire-temperature, or tire-pressure field located"
+2021,evidence/timing71_2021_sample.zip,SAMPLE_ONLY,4271,491,0,0,0,0,0,0,0,0,0,"Tire category marker present; no environment, tire-temperature, or tire-pressure field located"
+2022,,NOT_RECOVERED,0,0,0,0,0,0,0,0,0,0,0,No retained 2022 Timing71 qualifying replay; field availability remains unresolved
+2023,evidence/timing71_2023.zip,RETAINED_CAPTURE,12941,1303,0,0,0,0,0,0,0,0,0,"Tire category marker present; no environment, tire-temperature, or tire-pressure field located"
+2024,evidence/timing71_2024.zip,RETAINED_CAPTURE,15499,1570,0,0,0,0,0,0,0,0,0,"Tire category marker present; no environment, tire-temperature, or tire-pressure field located"

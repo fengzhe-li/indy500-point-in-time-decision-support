@@ -1,0 +1,25 @@
+﻿csv_path,csv_row,attempt_id,canonical_year,canonical_car_number,output_car_number,canonical_driver,output_driver,collision_sensitive,car_number_match,driver_match,classification
+weather/output/chronology_rescue_2022_attempt_coverage_gap_audit_v1.csv,28,90eea27e-6e83-5e24-8428-811eae3ff157,2022,06,06,Helio Castroneves,Helio Castroneves,True,True,True,CAR_NUMBER_LITERAL_PRESERVED
+weather/output/chronology_rescue_2022_attempt_coverage_gap_audit_v1.csv,31,bb599e9f-cbdc-5c79-9791-ce325ef01086,2022,6,6,Juan Pablo Montoya,Juan Pablo Montoya,True,True,True,CAR_NUMBER_LITERAL_PRESERVED
+weather/output/chronology_rescue_2022_attempt_coverage_gap_audit_v1.csv,41,01896a4f-c482-5093-a806-89bc4273641d,2022,06,06,Helio Castroneves,Helio Castroneves,True,True,True,CAR_NUMBER_LITERAL_PRESERVED
+weather/output/chronology_rescue_2022_attempt_coverage_gap_audit_v2.csv,28,90eea27e-6e83-5e24-8428-811eae3ff157,2022,06,06,Helio Castroneves,Helio Castroneves,True,True,True,CAR_NUMBER_LITERAL_PRESERVED
+weather/output/chronology_rescue_2022_attempt_coverage_gap_audit_v2.csv,31,bb599e9f-cbdc-5c79-9791-ce325ef01086,2022,6,6,Juan Pablo Montoya,Juan Pablo Montoya,True,True,True,CAR_NUMBER_LITERAL_PRESERVED
+weather/output/chronology_rescue_2022_attempt_coverage_gap_audit_v2.csv,41,01896a4f-c482-5093-a806-89bc4273641d,2022,06,06,Helio Castroneves,Helio Castroneves,True,True,True,CAR_NUMBER_LITERAL_PRESERVED
+weather/output/chronology_rescue_2022_castroneves_car06_reaudit_v1.csv,2,90eea27e-6e83-5e24-8428-811eae3ff157,2022,06,06,Helio Castroneves,,True,True,,CAR_NUMBER_LITERAL_PRESERVED
+weather/output/chronology_rescue_2022_castroneves_car06_reaudit_v1.csv,3,01896a4f-c482-5093-a806-89bc4273641d,2022,06,06,Helio Castroneves,,True,True,,CAR_NUMBER_LITERAL_PRESERVED
+weather/output/chronology_rescue_2022_castroneves_first_run_final_adjudication_v1.csv,2,01896a4f-c482-5093-a806-89bc4273641d,2022,06,06,Helio Castroneves,Helio Castroneves,True,True,True,CAR_NUMBER_LITERAL_PRESERVED
+weather/output/chronology_rescue_2022_next_rescue_priority_v1.csv,7,01896a4f-c482-5093-a806-89bc4273641d,2022,06,06,Helio Castroneves,Helio Castroneves,True,True,True,CAR_NUMBER_LITERAL_PRESERVED
+weather/output/chronology_rescue_2022_next_rescue_priority_v1.csv,17,90eea27e-6e83-5e24-8428-811eae3ff157,2022,06,06,Helio Castroneves,Helio Castroneves,True,True,True,CAR_NUMBER_LITERAL_PRESERVED
+weather/output/chronology_rescue_2022_next_rescue_priority_v1.csv,38,bb599e9f-cbdc-5c79-9791-ce325ef01086,2022,6,6,Juan Pablo Montoya,Juan Pablo Montoya,True,True,True,CAR_NUMBER_LITERAL_PRESERVED
+weather/output/chronology_rescue_2022_next_rescue_priority_v2.csv,6,01896a4f-c482-5093-a806-89bc4273641d,2022,06,06,Helio Castroneves,Helio Castroneves,True,True,True,CAR_NUMBER_LITERAL_PRESERVED
+weather/output/chronology_rescue_2022_next_rescue_priority_v2.csv,15,90eea27e-6e83-5e24-8428-811eae3ff157,2022,06,06,Helio Castroneves,Helio Castroneves,True,True,True,CAR_NUMBER_LITERAL_PRESERVED
+weather/output/chronology_rescue_2022_next_rescue_priority_v2.csv,31,bb599e9f-cbdc-5c79-9791-ce325ef01086,2022,6,6,Juan Pablo Montoya,Juan Pablo Montoya,True,True,True,CAR_NUMBER_LITERAL_PRESERVED
+weather/output/chronology_rescue_2022_result_to_canonical_attempt_matches_v1.csv,28,90eea27e-6e83-5e24-8428-811eae3ff157,2022,06,6,Helio Castroneves,"Castroneves, Helio",True,False,False,IDENTITY_CONTRADICTION
+weather/output/chronology_rescue_2022_result_to_canonical_attempt_matches_v1.csv,31,bb599e9f-cbdc-5c79-9791-ce325ef01086,2022,6,6,Juan Pablo Montoya,"Montoya, Juan Pablo",True,True,False,IDENTITY_CONTRADICTION
+weather/output/chronology_rescue_2022_result_to_canonical_attempt_matches_v1.csv,41,01896a4f-c482-5093-a806-89bc4273641d,2022,06,6,Helio Castroneves,"Castroneves, Helio",True,False,False,IDENTITY_CONTRADICTION
+weather/output/chronology_rescue_2022_result_to_canonical_attempt_matches_v2.csv,28,90eea27e-6e83-5e24-8428-811eae3ff157,2022,06,6,Helio Castroneves,"Castroneves, Helio",True,False,False,IDENTITY_CONTRADICTION
+weather/output/chronology_rescue_2022_result_to_canonical_attempt_matches_v2.csv,31,bb599e9f-cbdc-5c79-9791-ce325ef01086,2022,6,6,Juan Pablo Montoya,"Montoya, Juan Pablo",True,True,False,IDENTITY_CONTRADICTION
+weather/output/chronology_rescue_2022_result_to_canonical_attempt_matches_v2.csv,41,01896a4f-c482-5093-a806-89bc4273641d,2022,06,6,Helio Castroneves,"Castroneves, Helio",True,False,False,IDENTITY_CONTRADICTION
+weather/output/unified_attempt_action_lane_ledger_v2.csv,3,01896a4f-c482-5093-a806-89bc4273641d,2022,06,06,Helio Castroneves,Helio Castroneves,True,True,True,CAR_NUMBER_LITERAL_PRESERVED
+weather/output/unified_attempt_chronology_constraint_ledger_v4.csv,155,01896a4f-c482-5093-a806-89bc4273641d,2022,06,06,Helio Castroneves,Helio Castroneves,True,True,True,CAR_NUMBER_LITERAL_PRESERVED
+weather/output/unified_attempt_chronology_constraint_ledger_v4.csv,156,90eea27e-6e83-5e24-8428-811eae3ff157,2022,06,06,Helio Castroneves,Helio Castroneves,True,True,True,CAR_NUMBER_LITERAL_PRESERVED

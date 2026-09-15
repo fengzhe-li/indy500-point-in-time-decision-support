@@ -1,0 +1,10 @@
+﻿metric,value,status
+row_count_preserved,True,PASS
+all_attempt_ids_grounded,0,PASS
+speed_consistency,0,PASS
+driver_identity_consistency,0,PASS
+official_literal_consistency,0,PASS
+duplicate_attempt_ids,0,PASS
+v2_mutated,0,PASS
+canonical_mutated,0,PASS
+matching_algorithm_rerun,0,PASS

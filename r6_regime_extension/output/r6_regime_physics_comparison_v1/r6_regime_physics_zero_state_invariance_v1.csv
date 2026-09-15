@@ -1,0 +1,4 @@
+regime_code,delta_track_c,delta_ambient_c,predicted_delta_speed_mph,invariance_pass
+A,0.0,0.0,0.0,True
+B,0.0,0.0,0.0,True
+C,0.0,0.0,0.0,True

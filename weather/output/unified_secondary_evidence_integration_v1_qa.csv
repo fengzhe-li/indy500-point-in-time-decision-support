@@ -1,0 +1,12 @@
+﻿metric,value,status
+ledger_v2_rows,151,INFO
+new_rossi_chronology_rows,2,PASS
+2022_unique_attempts_with_chronology,10,PASS
+action_lane_rows,1,PASS
+historical_lane1_rows,1,PASS
+duplicate_new_evidence_ids,0,PASS
+karam_specific_attempt_promoted_in_r1g20,0,PASS
+lane_inferred_from_status,0,PASS
+queue_wait_inferred,0,PASS
+canonical_data_mutated,0,PASS
+ledger_v2_mutated,0,PASS

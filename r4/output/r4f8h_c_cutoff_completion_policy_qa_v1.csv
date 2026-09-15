@@ -1,0 +1,15 @@
+metric,value,expected,status
+f8e_decision_rows_preserved,60,60,PASS
+unique_decision_ids_preserved,60,60,PASS
+sensitivity_grid_values,"5,10,15,20,30,45,60","5,10,15,20,30,45,60",PASS
+all_scenarios_marked_structural,True,True,PASS
+all_historical_exact_time_claims_false,True,True,PASS
+scenario_values_not_ground_truth,True,True,PASS
+existing_cutoff_grid_found,True,True,PASS
+existing_cutoff_grid_rows,144,MEASURED,PASS
+run_duration_reference_found,True,True,PASS
+exact_session_remaining_created,False,False,PASS
+last_chance_exact_time_created,False,False,PASS
+final_action_monte_carlo_run,False,False,PASS
+performance_model_refit,False,False,PASS
+old_r4p11_final_probability_reused,False,False,PASS

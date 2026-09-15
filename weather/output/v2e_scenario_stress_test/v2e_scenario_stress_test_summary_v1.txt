@@ -1,0 +1,74 @@
+==============================================================================================================
+INDY 500 V2-E SYSTEMATIC SCENARIO STRESS TEST
+==============================================================================================================
+
+SCENARIO DESIGN
+--------------------------------------------------------------------------------------------------------------
+Total scenarios: 135
+3 thermal-gap states × 3 ambient trajectories × 3 solar states × 5 supported horizons
+
+Thermal-gap and solar states are empirical q25/q50/q75 values from the V2-A historical sample.
+Cooling and warming trajectories are defined separately at each supported horizon using the median observed negative and positive hourly ambient-change rates. Neutral is fixed at 0 C/hour.
+
+THERMAL GAP LEVELS
+--------------------------------------------------------------------------------------------------------------
+LOW_GAP       : 9.4444 C
+MEDIAN_GAP    : 14.4444 C
+HIGH_GAP      : 21.1111 C
+
+AMBIENT TRAJECTORY LEVELS BY HORIZON
+--------------------------------------------------------------------------------------------------------------
+ 15 min | COOLING=-2.2222 | NEUTRAL=+0.0000 | WARMING=+2.2222 C/hour
+ 30 min | COOLING=-1.1111 | NEUTRAL=+0.0000 | WARMING=+1.1111 C/hour
+ 60 min | COOLING=-0.5556 | NEUTRAL=+0.0000 | WARMING=+1.1111 C/hour
+ 90 min | COOLING=-0.7407 | NEUTRAL=+0.0000 | WARMING=+0.7407 C/hour
+120 min | COOLING=-1.1111 | NEUTRAL=+0.0000 | WARMING=+0.8333 C/hour
+
+SUPPORT CHECK
+--------------------------------------------------------------------------------------------------------------
+Ambient-delta scenarios within horizon-specific historical observed range: 1.000
+
+EXTREME EXPECTED OUTLOOKS
+--------------------------------------------------------------------------------------------------------------
+
+TOP 10 EXPECTED DELTA-SPEED SCENARIOS
+ horizon_min thermal_gap_state ambient_trajectory  solar_state  expected_delta_speed_mph  p_improve  lower_80_mph  upper_80_mph
+         120          HIGH_GAP            WARMING    LOW_SOLAR                   0.22479    0.67040      -0.53037       1.00849
+         120          HIGH_GAP            WARMING MEDIAN_SOLAR                   0.19337    0.65048      -0.58196       0.98136
+          60          HIGH_GAP            WARMING    LOW_SOLAR                   0.18115    0.64138      -0.55948       0.94364
+         120          HIGH_GAP            WARMING   HIGH_SOLAR                   0.17032    0.63736      -0.59365       0.94844
+          90          HIGH_GAP            WARMING    LOW_SOLAR                   0.16178    0.62616      -0.59225       0.91711
+          60          HIGH_GAP            WARMING MEDIAN_SOLAR                   0.15381    0.62184      -0.59527       0.91523
+         120        MEDIAN_GAP            WARMING    LOW_SOLAR                   0.15080    0.62156      -0.60838       0.91873
+          90          HIGH_GAP            WARMING MEDIAN_SOLAR                   0.13147    0.60746      -0.61339       0.87477
+          60          HIGH_GAP            WARMING   HIGH_SOLAR                   0.12975    0.60696      -0.61165       0.87439
+          60        MEDIAN_GAP            WARMING    LOW_SOLAR                   0.12664    0.60388      -0.62326       0.86997
+
+BOTTOM 10 EXPECTED DELTA-SPEED SCENARIOS
+ horizon_min thermal_gap_state ambient_trajectory  solar_state  expected_delta_speed_mph  p_improve  lower_80_mph  upper_80_mph
+         120           LOW_GAP            COOLING   HIGH_SOLAR                  -0.46298    0.20552      -1.32475       0.30757
+         120           LOW_GAP            COOLING MEDIAN_SOLAR                  -0.42411    0.21650      -1.27535       0.33240
+         120           LOW_GAP            COOLING    LOW_SOLAR                  -0.39956    0.22770      -1.24275       0.36628
+         120        MEDIAN_GAP            COOLING   HIGH_SOLAR                  -0.39927    0.22910      -1.23789       0.34982
+         120        MEDIAN_GAP            COOLING MEDIAN_SOLAR                  -0.37206    0.23662      -1.21461       0.37399
+         120        MEDIAN_GAP            COOLING    LOW_SOLAR                  -0.34251    0.25176      -1.15897       0.42674
+         120          HIGH_GAP            COOLING   HIGH_SOLAR                  -0.32538    0.26220      -1.12765       0.41513
+          90           LOW_GAP            COOLING   HIGH_SOLAR                  -0.31407    0.27764      -1.14618       0.41334
+         120          HIGH_GAP            COOLING MEDIAN_SOLAR                  -0.30971    0.27088      -1.11526       0.45233
+          90           LOW_GAP            COOLING MEDIAN_SOLAR                  -0.28336    0.29140      -1.10909       0.47541
+
+P(IMPROVEMENT) RANGE BY HORIZON
+--------------------------------------------------------------------------------------------------------------
+ horizon_min  min_p_improve  median_p_improve  max_p_improve  min_expected_delta  median_expected_delta  max_expected_delta
+          15        0.39646           0.48340        0.58500            -0.12261               -0.01502             0.10369
+          30        0.38058           0.47086        0.58450            -0.14528               -0.03131             0.10143
+          60        0.34578           0.44906        0.64138            -0.19630               -0.06132             0.18115
+          90        0.27764           0.43178        0.62616            -0.31407               -0.08380             0.16178
+         120        0.20552           0.42906        0.67040            -0.46298               -0.09259             0.22479
+
+INTERPRETATION BOUNDARY
+--------------------------------------------------------------------------------------------------------------
+This stress test evaluates the behavior of the frozen conditional physical-performance system.
+It does NOT estimate queue waiting time, opportunity probability, or retain/withdraw expected utility.
+A scenario with higher P(improvement) therefore means that, conditional on receiving another on-track opportunity at that horizon and physical state, improvement is more probable under the model.
+It must NOT be interpreted as a recommendation to withdraw an existing qualifying result.

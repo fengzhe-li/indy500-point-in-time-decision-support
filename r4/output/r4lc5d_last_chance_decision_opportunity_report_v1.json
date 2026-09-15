@@ -1,0 +1,27 @@
+{
+  "phase": "R4LC5D",
+  "status": "R4LC5D_LAST_CHANCE_DECISION_OPPORTUNITY_PANEL_READY",
+  "rows": 10,
+  "action_counts": {
+    "STOP": 6,
+    "REATTEMPT": 4
+  },
+  "policy_fit_candidate_rows": 8,
+  "fully_numeric_policy_fit_rows": 7,
+  "critical_semantics": {
+    "day1": [
+      "STOP",
+      "RETAIN_AND_REATTEMPT",
+      "WITHDRAW_AND_PRIORITY_REATTEMPT"
+    ],
+    "last_chance_qualified": [
+      "STOP",
+      "WITHDRAW_AND_REATTEMPT"
+    ],
+    "last_chance_unqualified": [
+      "STOP",
+      "REATTEMPT"
+    ]
+  },
+  "interpretation": "Action diversity becomes available once decision opportunities include cars that had the opportunity to reattempt but chose STOP. The 2023 post-guaranteed-attempt state is the cleanest current Last Chance policy supervision block."
+}

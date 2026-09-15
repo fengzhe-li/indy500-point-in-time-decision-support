@@ -1,0 +1,10 @@
+{
+  "status": "R6_REGULATION_AWARE_EXTENSION_V1_FROZEN",
+  "created_utc": "2026-09-13T12:42:49.833494+00:00",
+  "r5_2_core_modified": false,
+  "regime_A_primary_rows": 10,
+  "regime_B_reference_rows": 41,
+  "regime_C_primary_rows": 23,
+  "all_freeze_qa_passed": true,
+  "scientific_core_complete": true
+}

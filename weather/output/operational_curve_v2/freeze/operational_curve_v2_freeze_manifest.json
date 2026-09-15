@@ -1,0 +1,52 @@
+{
+  "freeze_version": "OPERATIONAL_CURVE_V2",
+  "status": "FROZEN",
+  "role": "Derived operational presentation layer over frozen FINAL_V2 outputs",
+  "scientific_core_modified": false,
+  "source": "weather/output/v2_future_track/v2a_operational_scenario_outlook_v1.csv",
+  "validated_anchor_horizons_min": [
+    15,
+    30,
+    60,
+    90,
+    120
+  ],
+  "continuous_operational_range_min": [
+    15,
+    120
+  ],
+  "visualization_resolution_min": 1,
+  "zero_minute_policy": "CURRENT_STATE_BOUNDARY only; not an independently calibrated horizon",
+  "intermediate_minute_policy": "piecewise-linear operational interpolation between calibrated anchors",
+  "above_120_policy": "unsupported and not generated",
+  "queue_wait_prediction": false,
+  "best_wait_recommendation": false,
+  "strategy_recommendation": false,
+  "supported_question": "If another on-track opportunity occurs at h minutes from now, what physical-performance outlook is implied?",
+  "unsupported_questions": [
+    "When exactly will the next attempt become available?",
+    "Will another attempt definitely occur?",
+    "What is the optimal wait time?",
+    "Should the team automatically withdraw the current result?"
+  ],
+  "scenarios": [
+    "cooling",
+    "neutral",
+    "warming"
+  ],
+  "curve_rows": 321,
+  "anchor_rows": 15,
+  "qa_passed": 15,
+  "qa_total": 15,
+  "artifact_hashes": {
+    "weather/output/operational_curve_v2/operational_performance_curve_v2.csv": "c78dcb30310e213e5f2a6148de7901c5fcb38f241bd1e6d7a773f4874b6c7309",
+    "weather/output/operational_curve_v2/operational_validated_anchors_v2.csv": "9fa69339270d40e73ac0006e0013d030f67078e78e5ce8ffb97d75b8619c65bb",
+    "weather/output/operational_curve_v2/operational_curve_metadata_v2.json": "19c1bf9f8bf29775bab8f1d698d0a34443df5bfbcc5334431164bcd66a43d431",
+    "weather/output/operational_curve_v2/operational_curve_qa_v2.csv": "1a6bf3afecf197817f5e494ddc43e2c7f062cc1d29f26d9032996b338d9a95ca",
+    "weather/output/operational_curve_v2/operational_anchor_identity_qa_v2.csv": "ce4136b7c8988346d52891cf599d1fc9ff1163945d2e451ab3771878b1f61a77",
+    "weather/output/operational_curve_v2/operational_expected_speed_change_v2.png": "7d8d32798e2cc16100dde6aca53ee2a818e0f5715cc06d16f43ffeda91a450e5",
+    "weather/output/operational_curve_v2/operational_probability_improvement_v2.png": "5b5081576f246f7fbd8e02ed9282a5d98ff97abb63886be41ba2e10819728849",
+    "weather/output/operational_curve_v2/operational_predictive_interval_v2.png": "fd729caecca7c34f52cd083bfd43c1acdcdd5dc6f23ec86a4b36a9d0c3703cf3",
+    "weather/output/operational_curve_v2/freeze/operational_curve_v2_freeze_qa.csv": "748500dcc15761964adcc7080f60f5e14031f714912d3dfc323e568f0524cfb2"
+  }
+}

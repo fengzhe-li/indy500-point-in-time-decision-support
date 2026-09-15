@@ -1,0 +1,9 @@
+﻿metric,value,status
+uncertainty_rows_present,39,PASS
+delta_column_present,0,FAIL
+timed_hrrr_attempts_present,129,PASS
+join_mode_resolved,JOIN_SCHEMA_REVIEW_REQUIRED,REVIEW
+2022_timing_fabricated,0,PASS
+historical_queue_wait_claimed,0,PASS
+elapsed_time_used_as_track_evolution,0,PASS
+protected_outputs_mutated,0,PASS

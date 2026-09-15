@@ -1,0 +1,13 @@
+metric,value,expected,status,detail
+consecutive_transition_count,92,92,PASS,"For each group with n complete runs, builder creates exactly n-1 transitions."
+multi_run_group_count,70,70,PASS,
+multi_run_input_rows,162,162,PASS,
+environment_linked_transitions,39,>0,PASS,
+timed_transitions,40,>0,PASS,
+past_only_signal_rows,40,40,PASS,
+cross_car_future_information_used,0,0,PASS,
+performance_inclusion_depends_on_lane_action,0,0,PASS,
+elapsed_time_called_queue_wait,0,0,PASS,
+car_number_numeric_normalization,False,False,PASS,"Car numbers remain raw strings; ""06"" is never normalized to ""6""."
+fixed_time_bucket_required,False,False,PASS,Cross-car signal uses nearest prior distinct cars and records actual span.
+model_fitting_performed,False,False,PASS,

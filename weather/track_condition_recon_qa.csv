@@ -1,0 +1,20 @@
+check_id,pass_fail,details
+FIVE_TARGET_YEARS_ASSESSED,PASS,Coverage contains 2020-2024 exactly
+PHASE_4A5_FINAL_STATUS,PASS,TRACK_CONDITION_RECONNAISSANCE_CORRECTED_AND_FROZEN
+PTSC_TOTAL_ROW_COUNT,PASS,Expected 168; observed 168
+PTSC_YEAR_ROW_COUNTS,PASS,Normalized asset matches independently checked workbook blocks
+PTSC_WORKBOOK_BLOCK_COUNTS_VERIFIED,PASS,Counts read directly from workbook date blocks
+PTSC_2022_DUPLICATE_BLOCK_EXCLUDED,PASS,Second same-date source block has 20 valid time rows and remains excluded
+PTSC_TRACK_ROWS_MATERIALIZED,PASS,Expected 168; observed 168
+PTSC_ALL_TRACK_AND_CORE_WEATHER_PRESENT,PASS,"Track, ambient, humidity, and wind populate every PTSC row"
+PTSC_2022_PRESSURE_ANOMALY_PRESERVED,PASS,One source value remains raw-only; no correction invented
+2022_BENCHMARK_ANCHORS_PRESERVED,PASS,Official 85°F and 107°F anchors
+ANCHOR_RECONCILIATION_EXACT_ONLY,PASS,Three anchors compared at exact PTSC timestamps
+CELSIUS_CONVERSION_VALID,PASS,All Fahrenheit track values convert deterministically
+NO_INFERRED_NUMERIC_TRACK_TEMPERATURE,PASS,All numeric track values are explicit source observations
+SOURCE_AUTHORITY_CLASSES_DISTINCT,PASS,"Official editorial, PTSC, secondary, and HRRR remain separate"
+NO_NUMERIC_TIRE_TELEMETRY,PASS,PTSC surface sensors were not relabelled as tire telemetry
+SOURCE_LOCAL_HASHES_PRESENT,PASS,All referenced local assets have SHA-256 hashes
+EVIDENCE_SOURCE_URL_PRESENT,PASS,All accepted observations have a source URL
+NO_RUBBER_OR_SHADE_NUMERIC_PROXY,PASS,No proxy created
+TIMING71_HAS_NO_ENVIRONMENT_OR_TIRE_TELEMETRY_FIELDS,PASS,Target tokens absent from retained Timing71 JSON

@@ -1,0 +1,9 @@
+﻿metric,value
+canonical_rows_2020_2024,329
+canonical_numeric_collision_groups,3
+scripts_scanned,88
+scripts_with_car_number_normalization_risk,38
+high_risk_scripts,29
+output_csvs_scanned,247
+collision_sensitive_output_csvs,24
+high_risk_output_csvs,19

@@ -1,0 +1,11 @@
+path,file_type,keyword_hits
+r4/README.md,md,future competitor | future leaderboard
+tmp/pdfs/rules_2024.txt,txt,subsequent attempts
+weather/evidence/extracted_text/2024/indycar-qual-explainer-2024Indy500.txt,txt,subsequent attempts
+r4/run_r4f8f_action_specific_wait_queue_model_freeze_v1.py,py,competitor evolution
+r4/run_r4f7b_latent_window_model_contract_freeze_v1.py,py,future competitor | session progression
+r4/run_r4f8h_d_competitor_evolution_evidence_audit_v1.py,py,attempt throughput | attempts per hour | benchmark evolution | competitor evolution | cutoff evolution | field evolution | future attempts | future competitor | future leaderboard | later competitors | leaderboard evolution | rank evolution | runs per hour | session progression | subsequent attempts
+r4/run_r4p11_stochastic_wait_performance_mc_v1.py,py,leaderboard evolution
+r4/output/r4f7b_latent_window_model_contract_v1.json,json,future competitor | session progression
+r4/output/r4p11_stochastic_wait_performance_mc_report_v1.json,json,leaderboard evolution
+r4/output/r4f8f_wait_queue_model_contract_v1.json,json,competitor evolution

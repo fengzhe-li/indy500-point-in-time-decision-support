@@ -1,0 +1,6 @@
+metric,value,expected,status
+day1_decision_rows,138,>0,PASS
+2022_2024_validation_leakage,0,0,PASS
+day1_never_uses_last_chance_withdraw_action,0,0,PASS
+policy_fit_only_core_years,0,0,PASS
+frozen_schema_loaded,ACTION_SEMANTICS_FROZEN,ACTION_SEMANTICS_FROZEN,PASS

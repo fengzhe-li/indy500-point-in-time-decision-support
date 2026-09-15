@@ -1,0 +1,5 @@
+metric,value,expected,status
+model_target_attempts,110,110,PASS
+primary_attempt_source_audited,True,True,PASS
+numeric_feature_sources_found,33,>0,PASS
+schema_only_no_model_fit,True,True,PASS

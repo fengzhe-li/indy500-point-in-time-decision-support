@@ -1,0 +1,198 @@
+==============================================================================================================
+INDY 500 FINAL SYSTEM ARCHITECTURE AUDIT
+==============================================================================================================
+
+1. FROZEN COMPONENT INVENTORY
+--------------------------------------------------------------------------------------------------------------
+
+PHYSICS_CORE
+  [FOUND] r5_2/manual/probabilistic_physics_coefficient_bootstrap_v1.csv
+          bytes: 205811
+          sha256: adbe04c05a2cc2147b5b46ccc490457fb3e8d0277447563a71a0ea572f1edc9f
+  [FOUND] r5_2/manual/probabilistic_physics_loyo_residuals_v1.csv
+          bytes: 4766
+          sha256: 04ddb1f4e605451c4d30ff1b4fb8809acc8e02290bad34e719f37e5cea224086
+
+V2_A_FUTURE_TRACK_STATE
+  [FOUND] weather/output/v2_future_track/v2a_freeze_manifest_v1.json
+          bytes: 4251
+          sha256: ed81d2148b3f9ef2e00b4d63b01793b53fd90d1e0a8692e97809fbeb20be7e69
+  [FOUND] weather/output/v2_future_track/v2a_final_results_table_v1.csv
+          bytes: 3901
+          sha256: c0b4e30b5452c4f01aa92570069a78b8e417cefaa020fdea8dcbf5d3a043efb4
+  [FOUND] weather/output/v2_future_track/v2a_final_scenario_outlook_v1.png
+          bytes: 133305
+  [FOUND] weather/output/v2_future_track/v2a_freeze_summary_v1.txt
+          bytes: 3166
+          sha256: f24e301c50e83472ce80b3c335385af567e67b8906d34efc2a7ccdf1accc6309
+
+V2_B_SECTION_MECHANISM
+  [FOUND] weather/output/v2b_section_mechanism/v2b_freeze_manifest_v1.json
+          bytes: 2840
+          sha256: 7257a7d0eb0b5cdb4a22c5d530e2f7f445e25e0951c8a9a1ce100e3b7cf22171
+  [FOUND] weather/output/v2b_section_mechanism/v2b_freeze_summary_v1.txt
+          bytes: 4900
+          sha256: 8b2a4291d375cbee28a3c6cadece756015f23bc7c236ba8c41c02e87dc94595a
+  [FOUND] weather/output/v2b_section_mechanism/v2b_transition_section_mechanism_metrics_v1.csv
+          bytes: 9572
+          sha256: f7d23f2eccf9ee72df20787666e8a27acbecf96636632b4a022fe99207d49555
+
+V2_C_WIND_DIAGNOSTIC
+  [FOUND] weather/output/v2c_wind_diagnostic/v2c_freeze_manifest_v1.json
+          bytes: 2606
+          sha256: 8050d9e9dbd1cf54bdd57dc4b07e19e0be524a71090131aed6fdb08a7a156160
+  [FOUND] weather/output/v2c_wind_diagnostic/v2c_freeze_summary_v1.txt
+          bytes: 4796
+          sha256: 59cf5569046bb81d8c21807bc0e3722740225414f65304d0528ca72926ad67bf
+  [FOUND] weather/output/v2c_wind_diagnostic/v2c_wind_residual_diagnostic_v1.csv
+          bytes: 22856
+          sha256: 7a999a913c0a9a55f9a557e9a2a5437963bf4a73de8f7533eac5adea2f6c8c77
+
+==============================================================================================================
+2. FROZEN MANIFEST STATUS
+--------------------------------------------------------------------------------------------------------------
+
+weather/output/v2_future_track/v2a_freeze_manifest_v1.json
+  module: not recorded
+  status: FROZEN
+  freeze_time_utc: not recorded
+
+weather/output/v2b_section_mechanism/v2b_freeze_manifest_v1.json
+  module: V2-B Section Mechanism Validation
+  status: FROZEN
+  freeze_time_utc: 2026-09-14T08:29:50.976734+00:00
+
+weather/output/v2c_wind_diagnostic/v2c_freeze_manifest_v1.json
+  module: V2-C Wind Residual Diagnostic
+  status: FROZEN
+  freeze_time_utc: 2026-09-14T08:34:29.360360+00:00
+
+==============================================================================================================
+3. PHYSICS CORE
+--------------------------------------------------------------------------------------------------------------
+LOYO transition rows: 41
+  delta_four_lap_average_speed_mph: FOUND
+  delta_track_temp_c: FOUND
+  delta_air_temp_c: FOUND
+  predicted_physical_delta_mph_loyo: FOUND
+  residual_loyo_raw: FOUND
+  residual_loyo_centered: FOUND
+coefficient bootstrap rows: 5000
+bootstrap coefficient columns: ['beta_track_temp', 'beta_ambient_temp']
+first-two-beta correlation: -0.908473
+
+==============================================================================================================
+4. FINAL SYSTEM ARCHITECTURE
+--------------------------------------------------------------------------------------------------------------
+HISTORICAL EVIDENCE
+        |
+        v
+IDENTIFIABILITY AUDIT
+        |
+        +-----------------------------+
+        |                             |
+        | identifiable                | not reliably identifiable
+        v                             v
+PHYSICAL PERFORMANCE CORE       QUEUE / OPPORTUNITY PROCESS
+        |                             |
+        |                             +--> retained as external live input
+        |                                  rather than historical target
+        v
+FUTURE OPPORTUNITY HORIZON h
+(user/scenario supplied)
+        |
+        v
+V2-A FUTURE TRACK-STATE MODEL
+        |
+        |  distribution of future track state
+        v
+PHYSICS COEFFICIENT UNCERTAINTY
++
+EMPIRICAL PERFORMANCE RESIDUAL
+        |
+        v
+MONTE CARLO PERFORMANCE OUTLOOK
+        |
+        +--> E[delta speed]
+        +--> 80% interval
+        +--> 90% interval
+        +--> P(delta speed > 0)
+
+SUPPORTING VALIDATION LAYERS
+
+V2-B SECTION MECHANISM VALIDATION
+        |
+        +--> tests spatial coherence of attempt-level changes
+        +--> diagnostic only
+        +--> does not increase training N
+
+V2-C WIND RESIDUAL DIAGNOSTIC
+        |
+        +--> tests historical wind proxies against unresolved error
+        +--> diagnostic / limitation only
+        +--> no deterministic wind coefficient
+        +--> no production heteroskedastic wind model
+
+==============================================================================================================
+5. CAPABILITY BOUNDARY
+--------------------------------------------------------------------------------------------------------------
+[SUPPORTED] Estimate the distribution of four-lap performance change conditional on a specified future opportunity horizon h.
+[SUPPORTED] Propagate future track-state uncertainty, paired physics-coefficient uncertainty, and empirical performance residual uncertainty.
+[SUPPORTED] Return expected delta speed, calibrated uncertainty intervals, and probability of improvement.
+[SUPPORTED] Use section evidence to diagnose whether observed performance changes are spatially coherent or localized.
+[SUPPORTED] Use historical wind evidence as a residual-identifiability diagnostic.
+[NOT SUPPORTED] Predict the exact time at which another qualifying opportunity will occur.
+[NOT SUPPORTED] Predict Lane 1 / Lane 2 queue waiting time from the historical dataset.
+[NOT SUPPORTED] Automatically decide retain versus withdraw without external competitive and operational state.
+[NOT SUPPORTED] Attribute thermal-model residuals uniquely to wind, tyres, setup, fuel, driver execution, or another latent mechanism.
+[NOT SUPPORTED] Treat section observations as independent performance-training rows.
+
+==============================================================================================================
+6. FINAL DECISION-SUPPORT INTERFACE
+--------------------------------------------------------------------------------------------------------------
+INPUTS
+
+Required scenario/state inputs:
+- current track temperature
+- current ambient temperature
+- future ambient-temperature scenario
+- future opportunity horizon h
+- solar state / geometry required by frozen V2-A model
+
+External operational inputs NOT modelled historically:
+- current qualifying position
+- bubble position / competitor state
+- Lane 1 / Lane 2 queue state
+- remaining session time
+- interruption / no-run risk
+- team utility of retaining current result
+
+MODEL OUTPUTS
+
+For each supported horizon:
+- expected four-lap speed change
+- 80% prediction interval
+- 90% prediction interval
+- probability of improvement
+
+INTERPRETATION
+
+The model answers:
+
+"If another on-track opportunity occurs h minutes from now,
+what distribution of four-lap performance change should be expected?"
+
+It does NOT answer:
+
+"When will another opportunity occur?"
+
+or
+
+"Should the team withdraw the current result?"
+
+==============================================================================================================
+7. AUDIT STATUS
+--------------------------------------------------------------------------------------------------------------
+PASS: all expected frozen integration artifacts were found.
+
+No frozen model or diagnostic artifact was modified by this audit.

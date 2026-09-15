@@ -1,0 +1,94 @@
+{
+  "name": "IndyCar",
+  "description": "108th Running of the Indianapolis 500 - Qualifications - Day One",
+  "colSpec": [
+    [
+      "Num",
+      "text",
+      "Car number"
+    ],
+    [
+      "State",
+      "text"
+    ],
+    [
+      "Driver",
+      "text"
+    ],
+    [
+      "Team",
+      "text"
+    ],
+    [
+      "Laps",
+      "numeric"
+    ],
+    [
+      "T",
+      "text",
+      "Tyre"
+    ],
+    [
+      "Gap",
+      "delta",
+      "Gap to leader"
+    ],
+    [
+      "Int",
+      "delta",
+      "Interval to car in front"
+    ],
+    [
+      "T1S",
+      "numeric",
+      "Turn 1 speed"
+    ],
+    [
+      "T3S",
+      "numeric",
+      "Turn 3 speed"
+    ],
+    [
+      "Last",
+      "laptime",
+      "Last lap time"
+    ],
+    [
+      "Spd",
+      "numeric",
+      "Last lap speed"
+    ],
+    [
+      "Av.Spd",
+      "numeric",
+      "Average speed"
+    ],
+    [
+      "Best",
+      "laptime",
+      "Best lap time"
+    ],
+    [
+      "B.Spd",
+      "numeric",
+      "Best lap speed"
+    ],
+    [
+      "Pits",
+      "numeric"
+    ]
+  ],
+  "trackDataSpec": [
+    "Current qualifier",
+    "Laps",
+    "Lap 1 speed",
+    "Lap 2 speed",
+    "Lap 3 speed",
+    "Lap 4 speed",
+    "Average speed",
+    "Current rank"
+  ],
+  "startTime": 1716044276.289,
+  "uuid": "4146f406-154f-4065-bd5f-10d0bd349b77",
+  "version": 1
+}

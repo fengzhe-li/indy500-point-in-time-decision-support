@@ -1,0 +1,12 @@
+{
+  "status": "R5_FIRST_RUN_THERMAL_WINDOW_COMPLETE",
+  "n": 71,
+  "years": [
+    "2020",
+    "2021",
+    "2023",
+    "2024"
+  ],
+  "fast_friday_used": false,
+  "interpretation": "First-attempt chronology is treated as a natural environmental time sweep. Same-year median residuals reduce cross-year scale differences but do not fully control car capability."
+}

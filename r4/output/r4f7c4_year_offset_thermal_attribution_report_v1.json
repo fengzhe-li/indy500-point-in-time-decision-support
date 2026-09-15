@@ -1,0 +1,243 @@
+{
+  "phase": "R4F7C4",
+  "status": "R4F7C4_YEAR_OFFSET_THERMAL_ATTRIBUTION_READY",
+  "development_rows": 104,
+  "development_years": [
+    2020,
+    2021,
+    2023
+  ],
+  "2024_validation_access": "NOT_READ",
+  "global_driver_grouped_metrics": [
+    {
+      "validation_scheme": "GLOBAL_DRIVER_GROUPED_5FOLD",
+      "model": "FAST_FRIDAY_REFERENCE_ONLY",
+      "n": 104,
+      "mae_mph": 0.8603942307692318,
+      "rmse_mph": 1.1283224827149367,
+      "bias_mph": 0.685759615384616,
+      "correlation": 0.8952101582326827
+    },
+    {
+      "validation_scheme": "GLOBAL_DRIVER_GROUPED_5FOLD",
+      "model": "FAST_FRIDAY_PLUS_YEAR_OFFSET",
+      "n": 104,
+      "mae_mph": 0.6185963243468279,
+      "rmse_mph": 0.8868085437952661,
+      "bias_mph": 0.0009229445875231607,
+      "correlation": 0.9048455000093011
+    },
+    {
+      "validation_scheme": "GLOBAL_DRIVER_GROUPED_5FOLD",
+      "model": "FAST_FRIDAY_PLUS_THERMAL_RIDGE",
+      "n": 104,
+      "mae_mph": 0.6210645907344868,
+      "rmse_mph": 0.9053191320794118,
+      "bias_mph": 0.007886276362716362,
+      "correlation": 0.9024043789493433
+    },
+    {
+      "validation_scheme": "GLOBAL_DRIVER_GROUPED_5FOLD",
+      "model": "FAST_FRIDAY_PLUS_YEAR_OFFSET_PLUS_THERMAL_RIDGE",
+      "n": 104,
+      "mae_mph": 0.6269857164706202,
+      "rmse_mph": 0.9077372812064973,
+      "bias_mph": 0.00826817885178845,
+      "correlation": 0.902462294741619
+    }
+  ],
+  "within_year_metrics": [
+    {
+      "year": 2020,
+      "model": "FAST_FRIDAY_REFERENCE_ONLY",
+      "n": 39,
+      "mae_mph": 1.0107692307692333,
+      "rmse_mph": 1.1790343941395884,
+      "bias_mph": 0.8820512820512822,
+      "correlation": 0.9458129983678725
+    },
+    {
+      "year": 2020,
+      "model": "FAST_FRIDAY_PLUS_CONSTANT_OFFSET",
+      "n": 39,
+      "mae_mph": 0.6838399245243963,
+      "rmse_mph": 0.8566935645282708,
+      "bias_mph": -0.003331291356491379,
+      "correlation": 0.9368587133342039
+    },
+    {
+      "year": 2020,
+      "model": "FAST_FRIDAY_PLUS_WITHIN_YEAR_THERMAL_RIDGE",
+      "n": 39,
+      "mae_mph": 0.6341656850125995,
+      "rmse_mph": 0.837525905102743,
+      "bias_mph": -0.013869556026559137,
+      "correlation": 0.9391022108942192
+    },
+    {
+      "year": 2021,
+      "model": "FAST_FRIDAY_REFERENCE_ONLY",
+      "n": 48,
+      "mae_mph": 0.8443125000000009,
+      "rmse_mph": 1.1894285304996945,
+      "bias_mph": 0.6961041666666681,
+      "correlation": 0.6593252177527879
+    },
+    {
+      "year": 2021,
+      "model": "FAST_FRIDAY_PLUS_CONSTANT_OFFSET",
+      "n": 48,
+      "mae_mph": 0.6646433591992764,
+      "rmse_mph": 1.0027020419800692,
+      "bias_mph": -0.0038826754385983264,
+      "correlation": 0.6425334532424803
+    },
+    {
+      "year": 2021,
+      "model": "FAST_FRIDAY_PLUS_WITHIN_YEAR_THERMAL_RIDGE",
+      "n": 48,
+      "mae_mph": 0.71177923211029,
+      "rmse_mph": 1.0364782339177712,
+      "bias_mph": 0.0036595445798592863,
+      "correlation": 0.6357986330399098
+    },
+    {
+      "year": 2023,
+      "model": "FAST_FRIDAY_REFERENCE_ONLY",
+      "n": 17,
+      "mae_mph": 0.5608235294117625,
+      "rmse_mph": 0.7776781430113883,
+      "bias_mph": 0.20623529411764707,
+      "correlation": 0.8740749008886584
+    },
+    {
+      "year": 2023,
+      "model": "FAST_FRIDAY_PLUS_CONSTANT_OFFSET",
+      "n": 17,
+      "mae_mph": 0.507092436974788,
+      "rmse_mph": 0.7697299252745308,
+      "bias_mph": -0.0075268261150574075,
+      "correlation": 0.8711387917559514
+    },
+    {
+      "year": 2023,
+      "model": "FAST_FRIDAY_PLUS_WITHIN_YEAR_THERMAL_RIDGE",
+      "n": 17,
+      "mae_mph": 0.6802885687666108,
+      "rmse_mph": 0.9473538017852438,
+      "bias_mph": 0.06625156184098306,
+      "correlation": 0.8295844220838781
+    }
+  ],
+  "within_year_results": [
+    {
+      "year": 2020,
+      "offset_mae": 0.6838399245243963,
+      "thermal_mae": 0.6341656850125995,
+      "thermal_beats_offset": true,
+      "mae_gain": 0.049674239511796836
+    },
+    {
+      "year": 2021,
+      "offset_mae": 0.6646433591992764,
+      "thermal_mae": 0.71177923211029,
+      "thermal_beats_offset": false,
+      "mae_gain": -0.04713587291101362
+    },
+    {
+      "year": 2023,
+      "offset_mae": 0.507092436974788,
+      "thermal_mae": 0.6802885687666108,
+      "thermal_beats_offset": false,
+      "mae_gain": -0.1731961317918228
+    }
+  ],
+  "thermal_survives_explicit_year_offset": false,
+  "coefficient_sign_summary": [
+    {
+      "feature": "ptsc_track_temp_c_past_safe",
+      "positive_years": 2,
+      "negative_years": 1,
+      "same_sign_all_three_years": false,
+      "dominant_sign_count": 2
+    },
+    {
+      "feature": "ptsc_track_temp_slope_c_per_min_past_safe",
+      "positive_years": 1,
+      "negative_years": 2,
+      "same_sign_all_three_years": false,
+      "dominant_sign_count": 2
+    },
+    {
+      "feature": "forecast_temp_c",
+      "positive_years": 2,
+      "negative_years": 1,
+      "same_sign_all_three_years": false,
+      "dominant_sign_count": 2
+    },
+    {
+      "feature": "forecast_relative_humidity_pct",
+      "positive_years": 2,
+      "negative_years": 1,
+      "same_sign_all_three_years": false,
+      "dominant_sign_count": 2
+    },
+    {
+      "feature": "forecast_wind_speed_10m_ms",
+      "positive_years": 0,
+      "negative_years": 3,
+      "same_sign_all_three_years": true,
+      "dominant_sign_count": 3
+    },
+    {
+      "feature": "forecast_pressure_hpa",
+      "positive_years": 0,
+      "negative_years": 3,
+      "same_sign_all_three_years": true,
+      "dominant_sign_count": 3
+    },
+    {
+      "feature": "forecast_gust_ms",
+      "positive_years": 1,
+      "negative_years": 2,
+      "same_sign_all_three_years": false,
+      "dominant_sign_count": 2
+    },
+    {
+      "feature": "forecast_cloud_cover_pct",
+      "positive_years": 1,
+      "negative_years": 1,
+      "same_sign_all_three_years": false,
+      "dominant_sign_count": 1
+    },
+    {
+      "feature": "forecast_shortwave_radiation_wm2",
+      "positive_years": 2,
+      "negative_years": 1,
+      "same_sign_all_three_years": false,
+      "dominant_sign_count": 2
+    },
+    {
+      "feature": "forecast_wind_direction_sin",
+      "positive_years": 1,
+      "negative_years": 2,
+      "same_sign_all_three_years": false,
+      "dominant_sign_count": 2
+    },
+    {
+      "feature": "forecast_wind_direction_cos",
+      "positive_years": 0,
+      "negative_years": 3,
+      "same_sign_all_three_years": true,
+      "dominant_sign_count": 3
+    }
+  ],
+  "interpretation_boundary": "Year-offset models are offline structural diagnostics, not final prospective predictors, because fold-level same-year offsets are not constrained to use only observations before each test attempt.",
+  "decision_rule": {
+    "case_A": "If year-offset alone explains most of the C3 thermal gain and year+thermal adds little, do not interpret C3 as strong within-session thermal evidence.",
+    "case_B": "If year+thermal materially beats year-offset and within-year thermal also improves multiple years, promote thermal state as a real incremental structural signal and proceed to time-safe latent-window modeling.",
+    "case_C": "If within-year thermal is highly heterogeneous by year, use hierarchical shrinkage / year-sensitive response rather than one universal thermal coefficient."
+  },
+  "input_hash": "7eb79eae44b7de126d0a3a3947b31bd3d95ad405ecb1a1da051fe1220aece802",
+  "next_phase": "R4F7C5: construct prospective past-only session calibration and latent-window state. 2024 remains unopened until the development architecture is frozen."
+}

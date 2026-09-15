@@ -1,0 +1,10 @@
+metric,value,expected,status
+2021_session_json,True,True,PASS
+2021_records_nonempty,7,>0,PASS
+2021_session_reports_available,0,0 allowed,PASS
+2023_session_json,True,True,PASS
+2023_records_nonempty,4,>0,PASS
+2023_report_downloads,0,>0 of 3,WARN
+2024_session_json,True,True,PASS
+2024_records_nonempty,4,>0,PASS
+2024_report_downloads,0,>0 of 3,WARN

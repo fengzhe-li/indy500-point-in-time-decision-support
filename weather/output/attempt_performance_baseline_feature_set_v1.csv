@@ -1,0 +1,17 @@
+﻿feature_name,feature_group,nonnull_rows,missing_rows,missing_pct,missingness_policy,baseline_v1
+forecast_temp_c,HRRR_DERIVED,136,0,0.0,SHOULD_BE_COMPLETE,True
+forecast_dewpoint_c,HRRR_DERIVED,136,0,0.0,SHOULD_BE_COMPLETE,True
+forecast_relative_humidity_pct,HRRR_DERIVED,136,0,0.0,SHOULD_BE_COMPLETE,True
+forecast_wind_speed_10m_ms,HRRR_DERIVED,136,0,0.0,SHOULD_BE_COMPLETE,True
+forecast_wind_direction_deg,HRRR_DERIVED,136,0,0.0,SHOULD_BE_COMPLETE,True
+forecast_pressure_hpa,HRRR_DERIVED,136,0,0.0,SHOULD_BE_COMPLETE,True
+forecast_gust_ms,HRRR_DERIVED,136,0,0.0,SHOULD_BE_COMPLETE,True
+forecast_cloud_cover_pct,HRRR_DERIVED,136,0,0.0,SHOULD_BE_COMPLETE,True
+forecast_shortwave_radiation_wm2,HRRR_DERIVED,136,0,0.0,SHOULD_BE_COMPLETE,True
+prior_supported_attempt_count,PRIOR_ATTEMPT_CONTEXT,136,0,0.0,STRUCTURAL_MISSING_ALLOWED,True
+seconds_since_prior_supported_attempt,PRIOR_ATTEMPT_CONTEXT,53,83,61.029411764705884,STRUCTURAL_MISSING_ALLOWED,True
+prior_supported_attempt_average_speed_mph,PRIOR_ATTEMPT_CONTEXT,53,83,61.029411764705884,STRUCTURAL_MISSING_ALLOWED,True
+prior_supported_attempt_total_seconds,PRIOR_ATTEMPT_CONTEXT,53,83,61.029411764705884,STRUCTURAL_MISSING_ALLOWED,True
+best_prior_supported_average_speed_mph,PRIOR_ATTEMPT_CONTEXT,53,83,61.029411764705884,STRUCTURAL_MISSING_ALLOWED,True
+best_prior_supported_total_seconds,PRIOR_ATTEMPT_CONTEXT,53,83,61.029411764705884,STRUCTURAL_MISSING_ALLOWED,True
+car_attempt_index,STRUCTURAL,132,4,2.941176470588235,SHOULD_BE_COMPLETE,True

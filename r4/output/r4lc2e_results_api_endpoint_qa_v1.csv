@@ -1,0 +1,5 @@
+metric,value,expected,status
+bundle_nonempty,606654,>10000,PASS
+results_endpoints_found,11,>0,PASS
+known_results_endpoints_recovered,5,>=3,PASS
+session_or_event_related_endpoint_found,4,>0,PASS

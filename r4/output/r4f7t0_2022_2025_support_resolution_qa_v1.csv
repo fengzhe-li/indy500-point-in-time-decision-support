@@ -1,0 +1,7 @@
+metric,value,expected,status
+2022_canonical_attempt_rows,44,>0,PASS
+2022_fast_friday_reference_rows,33,>0,PASS
+2025_fast_friday_reference_rows,33,>0,PASS
+2024_not_reused_for_tuning,False,False,PASS
+model_refit_performed,False,False,PASS
+transfer_support_resolution_only,True,True,PASS

@@ -1,0 +1,90 @@
+﻿record_type,official_result_row,attempt_id,field_name,field_value,notes
+OFFICIAL_RAW_FIELD,27,,year,2022,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,27,,source_file,2022_6033_01_Results.txt,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,27,,source_line_number,34,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,27,,result_row,27,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,27,,car_number,06,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,27,,driver_name_pdf,"Castroneves, Helio",Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,27,,engine_tire,D/H/F,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,27,,qual_lap_1,39.0784,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,27,,qual_lap_2,39.1640,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,27,,qual_lap_3,39.2037,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,27,,qual_lap_4,39.3280,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,27,,elapsed_time,02:36.7741,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,27,,speed_avg_mph,229.630,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,27,,raw_line,"27    06   Castroneves, Helio     D/H/F    39.0784     39.1640      39.2037     39.3280     02:36.7741       229.630      Day 1",Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,30,,year,2022,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,30,,source_file,2022_6033_01_Results.txt,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,30,,source_line_number,37,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,30,,result_row,30,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,30,,car_number,6,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,30,,driver_name_pdf,"Montoya, Juan Pablo",Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,30,,engine_tire,D/C/F,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,30,,qual_lap_1,39.2195,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,30,,qual_lap_2,39.2360,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,30,,qual_lap_3,39.4915,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,30,,qual_lap_4,39.5185,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,30,,elapsed_time,02:37.4655,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,30,,speed_avg_mph,228.622,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,30,,raw_line,"30    6    Montoya, Juan Pablo    D/C/F    39.2195     39.2360      39.4915     39.5185     02:37.4655       228.622      Day 1",Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,40,,year,2022,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,40,,source_file,2022_6033_01_Results.txt,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,40,,source_line_number,47,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,40,,result_row,40,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,40,,car_number,06,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,40,,driver_name_pdf,"Castroneves, Helio",Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,40,,engine_tire,D/H/F,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,40,,qual_lap_1,39.0275,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,40,,qual_lap_2,39.0796,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,40,,qual_lap_3,39.2705,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,40,,qual_lap_4,42.2807,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,40,,elapsed_time,02:39.6583,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,40,,speed_avg_mph,225.482,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,40,,status,Withdrawn,Raw parsed official Results field.
+OFFICIAL_RAW_FIELD,40,,raw_line,"40    06   Castroneves, Helio     D/H/F    39.0275     39.0796      39.2705     42.2807     02:39.6583       225.482      Day 1         Withdrawn",Raw parsed official Results field.
+CANONICAL_TARGET,,90eea27e-6e83-5e24-8428-811eae3ff157,canonical_identity,06 | Helio Castroneves | 229.63,Canonical identity reference.
+CANONICAL_TARGET,,bb599e9f-cbdc-5c79-9791-ce325ef01086,canonical_identity,6 | Juan Pablo Montoya | 228.622,Canonical identity reference.
+CANONICAL_TARGET,,01896a4f-c482-5093-a806-89bc4273641d,canonical_identity,06 | Helio Castroneves | 225.482,Canonical identity reference.
+MATCH_V2_FIELD,27,90eea27e-6e83-5e24-8428-811eae3ff157,year,2022,Current contaminated V2 match row.
+MATCH_V2_FIELD,27,90eea27e-6e83-5e24-8428-811eae3ff157,official_result_row,27,Current contaminated V2 match row.
+MATCH_V2_FIELD,27,90eea27e-6e83-5e24-8428-811eae3ff157,car_number,6,Current contaminated V2 match row.
+MATCH_V2_FIELD,27,90eea27e-6e83-5e24-8428-811eae3ff157,driver_name,"Castroneves, Helio",Current contaminated V2 match row.
+MATCH_V2_FIELD,27,90eea27e-6e83-5e24-8428-811eae3ff157,official_speed_mph,229.630,Current contaminated V2 match row.
+MATCH_V2_FIELD,27,90eea27e-6e83-5e24-8428-811eae3ff157,attempt_id,90eea27e-6e83-5e24-8428-811eae3ff157,Current contaminated V2 match row.
+MATCH_V2_FIELD,27,90eea27e-6e83-5e24-8428-811eae3ff157,attempt_key,INDY500_DAY1_2022|INDY500_DAY1_2022|CAR_06|1|2,Current contaminated V2 match row.
+MATCH_V2_FIELD,27,90eea27e-6e83-5e24-8428-811eae3ff157,car_attempt_index,2,Current contaminated V2 match row.
+MATCH_V2_FIELD,27,90eea27e-6e83-5e24-8428-811eae3ff157,canonical_speed_mph,229.63,Current contaminated V2 match row.
+MATCH_V2_FIELD,27,90eea27e-6e83-5e24-8428-811eae3ff157,canonical_result_status,VALID_RETAINED,Current contaminated V2 match row.
+MATCH_V2_FIELD,27,90eea27e-6e83-5e24-8428-811eae3ff157,match_score,30,Current contaminated V2 match row.
+MATCH_V2_FIELD,27,90eea27e-6e83-5e24-8428-811eae3ff157,match_reasons,"[""CAR_MATCH"", ""SPEED_MATCH"", ""OFFICIAL_STATUS_EMPTY""]",Current contaminated V2 match row.
+MATCH_V2_FIELD,27,90eea27e-6e83-5e24-8428-811eae3ff157,match_status,UNIQUE_MATCH,Current contaminated V2 match row.
+MATCH_V2_FIELD,27,90eea27e-6e83-5e24-8428-811eae3ff157,canonical_promoted,False,Current contaminated V2 match row.
+MATCH_V2_FIELD,30,bb599e9f-cbdc-5c79-9791-ce325ef01086,year,2022,Current contaminated V2 match row.
+MATCH_V2_FIELD,30,bb599e9f-cbdc-5c79-9791-ce325ef01086,official_result_row,30,Current contaminated V2 match row.
+MATCH_V2_FIELD,30,bb599e9f-cbdc-5c79-9791-ce325ef01086,car_number,6,Current contaminated V2 match row.
+MATCH_V2_FIELD,30,bb599e9f-cbdc-5c79-9791-ce325ef01086,driver_name,"Montoya, Juan Pablo",Current contaminated V2 match row.
+MATCH_V2_FIELD,30,bb599e9f-cbdc-5c79-9791-ce325ef01086,official_speed_mph,228.622,Current contaminated V2 match row.
+MATCH_V2_FIELD,30,bb599e9f-cbdc-5c79-9791-ce325ef01086,attempt_id,bb599e9f-cbdc-5c79-9791-ce325ef01086,Current contaminated V2 match row.
+MATCH_V2_FIELD,30,bb599e9f-cbdc-5c79-9791-ce325ef01086,attempt_key,INDY500_DAY1_2022|INDY500_DAY1_2022|CAR_6|1|1,Current contaminated V2 match row.
+MATCH_V2_FIELD,30,bb599e9f-cbdc-5c79-9791-ce325ef01086,car_attempt_index,1,Current contaminated V2 match row.
+MATCH_V2_FIELD,30,bb599e9f-cbdc-5c79-9791-ce325ef01086,canonical_speed_mph,228.622,Current contaminated V2 match row.
+MATCH_V2_FIELD,30,bb599e9f-cbdc-5c79-9791-ce325ef01086,canonical_result_status,VALID_RETAINED,Current contaminated V2 match row.
+MATCH_V2_FIELD,30,bb599e9f-cbdc-5c79-9791-ce325ef01086,match_score,30,Current contaminated V2 match row.
+MATCH_V2_FIELD,30,bb599e9f-cbdc-5c79-9791-ce325ef01086,match_reasons,"[""CAR_MATCH"", ""SPEED_MATCH"", ""OFFICIAL_STATUS_EMPTY""]",Current contaminated V2 match row.
+MATCH_V2_FIELD,30,bb599e9f-cbdc-5c79-9791-ce325ef01086,match_status,UNIQUE_MATCH,Current contaminated V2 match row.
+MATCH_V2_FIELD,30,bb599e9f-cbdc-5c79-9791-ce325ef01086,canonical_promoted,False,Current contaminated V2 match row.
+MATCH_V2_FIELD,40,01896a4f-c482-5093-a806-89bc4273641d,year,2022,Current contaminated V2 match row.
+MATCH_V2_FIELD,40,01896a4f-c482-5093-a806-89bc4273641d,official_result_row,40,Current contaminated V2 match row.
+MATCH_V2_FIELD,40,01896a4f-c482-5093-a806-89bc4273641d,car_number,6,Current contaminated V2 match row.
+MATCH_V2_FIELD,40,01896a4f-c482-5093-a806-89bc4273641d,driver_name,"Castroneves, Helio",Current contaminated V2 match row.
+MATCH_V2_FIELD,40,01896a4f-c482-5093-a806-89bc4273641d,official_speed_mph,225.482,Current contaminated V2 match row.
+MATCH_V2_FIELD,40,01896a4f-c482-5093-a806-89bc4273641d,official_status,Withdrawn,Current contaminated V2 match row.
+MATCH_V2_FIELD,40,01896a4f-c482-5093-a806-89bc4273641d,attempt_id,01896a4f-c482-5093-a806-89bc4273641d,Current contaminated V2 match row.
+MATCH_V2_FIELD,40,01896a4f-c482-5093-a806-89bc4273641d,attempt_key,INDY500_DAY1_2022|INDY500_DAY1_2022|CAR_06|1|1,Current contaminated V2 match row.
+MATCH_V2_FIELD,40,01896a4f-c482-5093-a806-89bc4273641d,car_attempt_index,1,Current contaminated V2 match row.
+MATCH_V2_FIELD,40,01896a4f-c482-5093-a806-89bc4273641d,canonical_speed_mph,225.482,Current contaminated V2 match row.
+MATCH_V2_FIELD,40,01896a4f-c482-5093-a806-89bc4273641d,canonical_result_status,VALID_RETAINED,Current contaminated V2 match row.
+MATCH_V2_FIELD,40,01896a4f-c482-5093-a806-89bc4273641d,match_score,27,Current contaminated V2 match row.
+MATCH_V2_FIELD,40,01896a4f-c482-5093-a806-89bc4273641d,match_reasons,"[""CAR_MATCH"", ""SPEED_MATCH"", ""STATUS_DIFFER""]",Current contaminated V2 match row.
+MATCH_V2_FIELD,40,01896a4f-c482-5093-a806-89bc4273641d,match_status,UNIQUE_MATCH,Current contaminated V2 match row.
+MATCH_V2_FIELD,40,01896a4f-c482-5093-a806-89bc4273641d,canonical_promoted,False,Current contaminated V2 match row.

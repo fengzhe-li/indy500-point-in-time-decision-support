@@ -1,0 +1,16 @@
+check,pass,detail
+curve_row_count,True,321 / 321
+scenario_set,True,"['cooling', 'neutral', 'warming']"
+max_horizon_120,True,120
+min_horizon_0,True,0
+calibrated_anchor_horizons,True,"[15, 30, 60, 90, 120]"
+calibrated_anchor_count,True,15
+intermediate_not_independently_calibrated,True,0
+zero_boundary_count,True,3
+zero_boundary_status,True,['CURRENT_STATE_BOUNDARY']
+no_extrapolation,True,0
+upstream_curve_qa_all_pass,True,6/6
+anchor_identity_qa_all_pass,True,120/120
+queue_prediction_disabled,True,False
+best_wait_disabled,True,False
+strategy_recommendation_disabled,True,False

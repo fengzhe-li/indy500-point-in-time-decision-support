@@ -1,0 +1,14 @@
+{
+  "forbidden_interpretation": "predicted tyre temperature",
+  "optimum_identifiable": false,
+  "phase": "R5E",
+  "point_optimum_c": null,
+  "proxy": "selected nonlinear/linear physical response function",
+  "reason": "quadratic curvature is non-concave or absent; no favourable optimum identified",
+  "status": "NO_STABLE_THERMAL_WINDOW_IDENTIFIED",
+  "track_temperature_support_c": [
+    34.44444444444444,
+    54.44444444444444
+  ],
+  "tyre_temperature_estimated": false
+}

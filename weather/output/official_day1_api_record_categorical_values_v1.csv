@@ -1,0 +1,2026 @@
+﻿year,field_name,value,count
+2020,CarNumber,9,4
+2020,CarNumber,30,3
+2020,CarNumber,88,3
+2020,CarNumber,26,3
+2020,CarNumber,12,3
+2020,CarNumber,15,2
+2020,CarNumber,8,2
+2020,CarNumber,45,2
+2020,CarNumber,1,2
+2020,CarNumber,5,2
+2020,CarNumber,20,2
+2020,CarNumber,47,2
+2020,CarNumber,60,2
+2020,CarNumber,7,2
+2020,CarNumber,22,2
+2020,CarNumber,51,2
+2020,CarNumber,3,2
+2020,CarNumber,4,2
+2020,CarNumber,59,2
+2020,CarNumber,81,2
+2020,CarNumber,98,1
+2020,CarNumber,28,1
+2020,CarNumber,27,1
+2020,CarNumber,29,1
+2020,CarNumber,21,1
+2020,CarNumber,55,1
+2020,CarNumber,10,1
+2020,CarNumber,18,1
+2020,CarNumber,14,1
+2020,CarNumber,41,1
+2020,CarNumber,66,1
+2020,CarNumber,24,1
+2020,CarNumber,67,1
+2020,DriverName,Scott Dixon,4
+2020,DriverName,Takuma Sato,3
+2020,DriverName,Colton Herta,3
+2020,DriverName,Zach Veach,3
+2020,DriverName,Will Power,3
+2020,DriverName,Graham Rahal,2
+2020,DriverName,Marcus Ericsson,2
+2020,DriverName,Spencer Pigot,2
+2020,DriverName,Josef Newgarden,2
+2020,DriverName,Pato O'Ward,2
+2020,DriverName,Ed Carpenter,2
+2020,DriverName,Conor Daly,2
+2020,DriverName,Jack Harvey,2
+2020,DriverName,Oliver Askew,2
+2020,DriverName,Simon Pagenaud,2
+2020,DriverName,James Davison,2
+2020,DriverName,Helio Castroneves,2
+2020,DriverName,Charlie Kimball,2
+2020,DriverName,Max Chilton,2
+2020,DriverName,Ben Hanley,2
+2020,DriverName,Marco Andretti,1
+2020,DriverName,Ryan Hunter-Reay,1
+2020,DriverName,Alexander Rossi,1
+2020,DriverName,James Hinchcliffe,1
+2020,DriverName,Rinus VeeKay,1
+2020,DriverName,Alex Palou,1
+2020,DriverName,Felix Rosenqvist,1
+2020,DriverName,Santino Ferrucci,1
+2020,DriverName,Tony Kanaan,1
+2020,DriverName,Dalton Kellett,1
+2020,DriverName,Fernando Alonso,1
+2020,DriverName,Sage Karam,1
+2020,DriverName,JR Hildebrand,1
+2020,DriverOverrideID,3628,4
+2020,DriverOverrideID,3811,3
+2020,DriverOverrideID,4511,3
+2020,DriverOverrideID,4235,3
+2020,DriverOverrideID,3667,3
+2020,DriverOverrideID,3668,2
+2020,DriverOverrideID,4905,2
+2020,DriverOverrideID,4232,2
+2020,DriverOverrideID,4215,2
+2020,DriverOverrideID,4559,2
+2020,DriverOverrideID,3620,2
+2020,DriverOverrideID,4218,2
+2020,DriverOverrideID,4505,2
+2020,DriverOverrideID,4616,2
+2020,DriverOverrideID,4276,2
+2020,DriverOverrideID,3709,2
+2020,DriverOverrideID,3622,2
+2020,DriverOverrideID,4144,2
+2020,DriverOverrideID,4558,2
+2020,DriverOverrideID,4906,2
+2020,DriverOverrideID,3608,1
+2020,DriverOverrideID,3645,1
+2020,DriverOverrideID,4587,1
+2020,DriverOverrideID,4216,1
+2020,DriverOverrideID,4614,1
+2020,DriverOverrideID,4931,1
+2020,DriverOverrideID,4588,1
+2020,DriverOverrideID,4897,1
+2020,DriverOverrideID,3648,1
+2020,DriverOverrideID,4416,1
+2020,DriverOverrideID,4628,1
+2020,DriverOverrideID,4247,1
+2020,DriverOverrideID,3736,1
+2020,DriverUrl,/Drivers/Scott-Dixon,4
+2020,DriverUrl,/Drivers/Takuma-Sato,3
+2020,DriverUrl,/Drivers/Will-Power,3
+2020,DriverUrl,/Drivers/Graham-Rahal,2
+2020,DriverUrl,/Drivers/Marcus-Ericsson,2
+2020,DriverUrl,/Drivers/Josef-Newgarden,2
+2020,DriverUrl,/Drivers/Pato-OWard,2
+2020,DriverUrl,/Drivers/Ed-Carpenter,2
+2020,DriverUrl,/Drivers/Conor-Daly,2
+2020,DriverUrl,/Drivers/Jack-Harvey,2
+2020,DriverUrl,/Drivers/Helio-Castroneves,2
+2020,DriverUrl,/Drivers/Ryan-Hunter-Reay,1
+2020,DriverUrl,/Drivers/Alexander-Rossi,1
+2020,DriverUrl,/Drivers/Rinus-VeeKay,1
+2020,DriverUrl,/Drivers/Alex-Palou,1
+2020,DriverUrl,/Drivers/Felix-Rosenqvist,1
+2020,DriverUrl,/Drivers/Santino-Ferrucci,1
+2020,DriversID,3628,4
+2020,DriversID,3811,3
+2020,DriversID,4511,3
+2020,DriversID,4235,3
+2020,DriversID,3667,3
+2020,DriversID,3668,2
+2020,DriversID,4905,2
+2020,DriversID,4232,2
+2020,DriversID,4215,2
+2020,DriversID,4559,2
+2020,DriversID,3620,2
+2020,DriversID,4218,2
+2020,DriversID,4505,2
+2020,DriversID,4616,2
+2020,DriversID,4276,2
+2020,DriversID,3709,2
+2020,DriversID,3622,2
+2020,DriversID,4144,2
+2020,DriversID,4558,2
+2020,DriversID,4906,2
+2020,DriversID,3608,1
+2020,DriversID,3645,1
+2020,DriversID,4587,1
+2020,DriversID,4216,1
+2020,DriversID,4614,1
+2020,DriversID,4931,1
+2020,DriversID,4588,1
+2020,DriversID,4897,1
+2020,DriversID,3648,1
+2020,DriversID,4416,1
+2020,DriversID,4628,1
+2020,DriversID,4247,1
+2020,DriversID,3736,1
+2020,EventsEntrylistID,33574,4
+2020,EventsEntrylistID,33586,3
+2020,EventsEntrylistID,33590,3
+2020,EventsEntrylistID,33583,3
+2020,EventsEntrylistID,33576,3
+2020,EventsEntrylistID,33578,2
+2020,EventsEntrylistID,33573,2
+2020,EventsEntrylistID,33595,2
+2020,EventsEntrylistID,33569,2
+2020,EventsEntrylistID,33571,2
+2020,EventsEntrylistID,33580,2
+2020,EventsEntrylistID,33588,2
+2020,EventsEntrylistID,33589,2
+2020,EventsEntrylistID,33572,2
+2020,EventsEntrylistID,33582,2
+2020,EventsEntrylistID,33596,2
+2020,EventsEntrylistID,33592,2
+2020,EventsEntrylistID,33570,2
+2020,EventsEntrylistID,33597,2
+2020,EventsEntrylistID,33600,2
+2020,EventsEntrylistID,33591,1
+2020,EventsEntrylistID,33585,1
+2020,EventsEntrylistID,33584,1
+2020,EventsEntrylistID,33601,1
+2020,EventsEntrylistID,33581,1
+2020,EventsEntrylistID,33587,1
+2020,EventsEntrylistID,33575,1
+2020,EventsEntrylistID,33579,1
+2020,EventsEntrylistID,33577,1
+2020,EventsEntrylistID,33594,1
+2020,EventsEntrylistID,33598,1
+2020,EventsEntrylistID,33593,1
+2020,EventsEntrylistID,33599,1
+2020,EventsSessionsID,5771,59
+2020,FirstName,Scott,4
+2020,FirstName,James,3
+2020,FirstName,Takuma,3
+2020,FirstName,Colton,3
+2020,FirstName,Zach,3
+2020,FirstName,Will,3
+2020,FirstName,Graham,2
+2020,FirstName,Marcus,2
+2020,FirstName,Spencer,2
+2020,FirstName,Josef,2
+2020,FirstName,Pato,2
+2020,FirstName,Ed,2
+2020,FirstName,Conor,2
+2020,FirstName,Jack,2
+2020,FirstName,Oliver,2
+2020,FirstName,Simon,2
+2020,FirstName,Helio,2
+2020,FirstName,Charlie,2
+2020,FirstName,Max,2
+2020,FirstName,Ben,2
+2020,FirstName,Marco,1
+2020,FirstName,Ryan,1
+2020,FirstName,Alexander,1
+2020,FirstName,Rinus,1
+2020,FirstName,Alex,1
+2020,FirstName,Felix,1
+2020,FirstName,Santino,1
+2020,FirstName,Tony,1
+2020,FirstName,Dalton,1
+2020,FirstName,Fernando,1
+2020,FirstName,Sage,1
+2020,FirstName,JR,1
+2020,IsDeleted,False,59
+2020,LastName,Dixon,4
+2020,LastName,Sato,3
+2020,LastName,Herta,3
+2020,LastName,Veach,3
+2020,LastName,Power,3
+2020,LastName,Rahal,2
+2020,LastName,Ericsson,2
+2020,LastName,Pigot,2
+2020,LastName,Newgarden,2
+2020,LastName,O'Ward,2
+2020,LastName,Carpenter,2
+2020,LastName,Daly,2
+2020,LastName,Harvey,2
+2020,LastName,Askew,2
+2020,LastName,Pagenaud,2
+2020,LastName,Davison,2
+2020,LastName,Castroneves,2
+2020,LastName,Kimball,2
+2020,LastName,Chilton,2
+2020,LastName,Hanley,2
+2020,LastName,Andretti,1
+2020,LastName,Hunter-Reay,1
+2020,LastName,Rossi,1
+2020,LastName,Hinchcliffe,1
+2020,LastName,VeeKay,1
+2020,LastName,Palou,1
+2020,LastName,Rosenqvist,1
+2020,LastName,Ferrucci,1
+2020,LastName,Kanaan,1
+2020,LastName,Kellett,1
+2020,LastName,Alonso,1
+2020,LastName,Karam,1
+2020,LastName,Hildebrand,1
+2020,TeamName,Team Penske,9
+2020,TeamName,Chip Ganassi Racing,7
+2020,TeamName,Andretti Autosport,6
+2020,TeamName,ECR,5
+2020,TeamName,Rahal Letterman Lanigan Racing,5
+2020,TeamName,Arrow McLaren,5
+2020,TeamName,A.J. Foyt Enterprises,4
+2020,TeamName,Andretti Steinbrenner Autosport,3
+2020,TeamName,Rahal Letterman Lanigan Racing with Citrone/Buhl Autosport,2
+2020,TeamName,Meyer Shank Racing,2
+2020,TeamName,"Dale Coyne Racing with Rick Ware Racing, BYRD and Belardi Auto Racing",2
+2020,TeamName,Carlin,2
+2020,TeamName,Dreyer & Reinbold Racing,2
+2020,TeamName,DragonSpeed / Cusick Motorsports,2
+2020,TeamName,Andretti Herta w/ Marco & Curb-Agajanian,1
+2020,TeamName,Dale Coyne Racing with RWR,1
+2020,TeamName,Dale Coyne Racing with Vasser-Sullivan,1
+2021,CarNumber,98,3
+2021,CarNumber,25,3
+2021,CarNumber,24,3
+2021,CarNumber,16,3
+2021,CarNumber,26,2
+2021,CarNumber,21,2
+2021,CarNumber,06,2
+2021,CarNumber,10,2
+2021,CarNumber,18,2
+2021,CarNumber,7,2
+2021,CarNumber,30,2
+2021,CarNumber,47,2
+2021,CarNumber,60,2
+2021,CarNumber,2,2
+2021,CarNumber,45,2
+2021,CarNumber,86,2
+2021,CarNumber,4,2
+2021,CarNumber,12,2
+2021,CarNumber,11,2
+2021,CarNumber,75,2
+2021,CarNumber,9,1
+2021,CarNumber,48,1
+2021,CarNumber,20,1
+2021,CarNumber,28,1
+2021,CarNumber,8,1
+2021,CarNumber,27,1
+2021,CarNumber,5,1
+2021,CarNumber,51,1
+2021,CarNumber,29,1
+2021,CarNumber,3,1
+2021,CarNumber,15,1
+2021,CarNumber,1,1
+2021,CarNumber,22,1
+2021,CarNumber,14,1
+2021,CarNumber,59,1
+2021,DriverName,Marco Andretti,3
+2021,DriverName,Stefan Wilson,3
+2021,DriverName,Sage Karam,3
+2021,DriverName,Simona De Silvestro,3
+2021,DriverName,Colton Herta,2
+2021,DriverName,Rinus VeeKay,2
+2021,DriverName,Helio Castroneves,2
+2021,DriverName,Alex Palou,2
+2021,DriverName,Ed Jones,2
+2021,DriverName,Felix Rosenqvist,2
+2021,DriverName,Takuma Sato,2
+2021,DriverName,Conor Daly,2
+2021,DriverName,Jack Harvey,2
+2021,DriverName,Josef Newgarden,2
+2021,DriverName,Santino Ferrucci,2
+2021,DriverName,Juan Pablo Montoya,2
+2021,DriverName,Dalton Kellett,2
+2021,DriverName,Will Power,2
+2021,DriverName,Charlie Kimball,2
+2021,DriverName,RC Enerson,2
+2021,DriverName,Scott Dixon,1
+2021,DriverName,Tony Kanaan,1
+2021,DriverName,Ed Carpenter,1
+2021,DriverName,Ryan Hunter-Reay,1
+2021,DriverName,Marcus Ericsson,1
+2021,DriverName,Alexander Rossi,1
+2021,DriverName,Pato O'Ward,1
+2021,DriverName,Pietro Fittipaldi,1
+2021,DriverName,James Hinchcliffe,1
+2021,DriverName,Scott McLaughlin,1
+2021,DriverName,Graham Rahal,1
+2021,DriverName,JR Hildebrand,1
+2021,DriverName,Simon Pagenaud,1
+2021,DriverName,Sebastien Bourdais,1
+2021,DriverName,Max Chilton,1
+2021,DriverOverrideID,3608,3
+2021,DriverOverrideID,3803,3
+2021,DriverOverrideID,4247,3
+2021,DriverOverrideID,3813,3
+2021,DriverOverrideID,4511,2
+2021,DriverOverrideID,4614,2
+2021,DriverOverrideID,3622,2
+2021,DriverOverrideID,4931,2
+2021,DriverOverrideID,4542,2
+2021,DriverOverrideID,4588,2
+2021,DriverOverrideID,3811,2
+2021,DriverOverrideID,4218,2
+2021,DriverOverrideID,4505,2
+2021,DriverOverrideID,4215,2
+2021,DriverOverrideID,4897,2
+2021,DriverOverrideID,4002,2
+2021,DriverOverrideID,4416,2
+2021,DriverOverrideID,3667,2
+2021,DriverOverrideID,4144,2
+2021,DriverOverrideID,4442,2
+2021,DriverOverrideID,3628,1
+2021,DriverOverrideID,3648,1
+2021,DriverOverrideID,3620,1
+2021,DriverOverrideID,3645,1
+2021,DriverOverrideID,4905,1
+2021,DriverOverrideID,4587,1
+2021,DriverOverrideID,4559,1
+2021,DriverOverrideID,4882,1
+2021,DriverOverrideID,4216,1
+2021,DriverOverrideID,4932,1
+2021,DriverOverrideID,3668,1
+2021,DriverOverrideID,3736,1
+2021,DriverOverrideID,4276,1
+2021,DriverOverrideID,4021,1
+2021,DriverOverrideID,4558,1
+2021,DriverUrl,/Drivers/Rinus-VeeKay,2
+2021,DriverUrl,/Drivers/Helio-Castroneves,2
+2021,DriverUrl,/Drivers/Alex-Palou,2
+2021,DriverUrl,/Drivers/Felix-Rosenqvist,2
+2021,DriverUrl,/Drivers/Takuma-Sato,2
+2021,DriverUrl,/Drivers/Conor-Daly,2
+2021,DriverUrl,/Drivers/Jack-Harvey,2
+2021,DriverUrl,/Drivers/Josef-Newgarden,2
+2021,DriverUrl,/Drivers/Santino-Ferrucci,2
+2021,DriverUrl,/Drivers/Will-Power,2
+2021,DriverUrl,/Drivers/Scott-Dixon,1
+2021,DriverUrl,/Drivers/Ed-Carpenter,1
+2021,DriverUrl,/Drivers/Ryan-Hunter-Reay,1
+2021,DriverUrl,/Drivers/Marcus-Ericsson,1
+2021,DriverUrl,/Drivers/Alexander-Rossi,1
+2021,DriverUrl,/Drivers/Pato-OWard,1
+2021,DriverUrl,/Drivers/Scott-McLaughlin,1
+2021,DriverUrl,/Drivers/Graham-Rahal,1
+2021,DriversID,3608,3
+2021,DriversID,3803,3
+2021,DriversID,4247,3
+2021,DriversID,3813,3
+2021,DriversID,4511,2
+2021,DriversID,4614,2
+2021,DriversID,3622,2
+2021,DriversID,4931,2
+2021,DriversID,4542,2
+2021,DriversID,4588,2
+2021,DriversID,3811,2
+2021,DriversID,4218,2
+2021,DriversID,4505,2
+2021,DriversID,4215,2
+2021,DriversID,4897,2
+2021,DriversID,4002,2
+2021,DriversID,4416,2
+2021,DriversID,3667,2
+2021,DriversID,4144,2
+2021,DriversID,4442,2
+2021,DriversID,3628,1
+2021,DriversID,3648,1
+2021,DriversID,3620,1
+2021,DriversID,3645,1
+2021,DriversID,4905,1
+2021,DriversID,4587,1
+2021,DriversID,4559,1
+2021,DriversID,4882,1
+2021,DriversID,4216,1
+2021,DriversID,4932,1
+2021,DriversID,3668,1
+2021,DriversID,3736,1
+2021,DriversID,4276,1
+2021,DriversID,4021,1
+2021,DriversID,4558,1
+2021,EventsEntrylistID,33931,3
+2021,EventsEntrylistID,33927,3
+2021,EventsEntrylistID,33926,3
+2021,EventsEntrylistID,33924,3
+2021,EventsEntrylistID,33910,2
+2021,EventsEntrylistID,33908,2
+2021,EventsEntrylistID,33922,2
+2021,EventsEntrylistID,33903,2
+2021,EventsEntrylistID,33906,2
+2021,EventsEntrylistID,33900,2
+2021,EventsEntrylistID,33913,2
+2021,EventsEntrylistID,33907,2
+2021,EventsEntrylistID,33916,2
+2021,EventsEntrylistID,33897,2
+2021,EventsEntrylistID,33928,2
+2021,EventsEntrylistID,33930,2
+2021,EventsEntrylistID,33898,2
+2021,EventsEntrylistID,33904,2
+2021,EventsEntrylistID,33923,2
+2021,EventsEntrylistID,33929,2
+2021,EventsEntrylistID,33902,1
+2021,EventsEntrylistID,33920,1
+2021,EventsEntrylistID,33925,1
+2021,EventsEntrylistID,33912,1
+2021,EventsEntrylistID,33901,1
+2021,EventsEntrylistID,33911,1
+2021,EventsEntrylistID,33899,1
+2021,EventsEntrylistID,33914,1
+2021,EventsEntrylistID,33919,1
+2021,EventsEntrylistID,33918,1
+2021,EventsEntrylistID,33905,1
+2021,EventsEntrylistID,33921,1
+2021,EventsEntrylistID,33909,1
+2021,EventsEntrylistID,33917,1
+2021,EventsEntrylistID,33915,1
+2021,EventsSessionsID,5838,59
+2021,FirstName,Ed,3
+2021,FirstName,Marco,3
+2021,FirstName,Stefan,3
+2021,FirstName,Sage,3
+2021,FirstName,Simona,3
+2021,FirstName,Scott,2
+2021,FirstName,Colton,2
+2021,FirstName,Rinus,2
+2021,FirstName,Helio,2
+2021,FirstName,Alex,2
+2021,FirstName,Felix,2
+2021,FirstName,Takuma,2
+2021,FirstName,Conor,2
+2021,FirstName,Jack,2
+2021,FirstName,Josef,2
+2021,FirstName,Santino,2
+2021,FirstName,Juan Pablo,2
+2021,FirstName,Dalton,2
+2021,FirstName,Will,2
+2021,FirstName,Charlie,2
+2021,FirstName,RC,2
+2021,FirstName,Tony,1
+2021,FirstName,Ryan,1
+2021,FirstName,Marcus,1
+2021,FirstName,Alexander,1
+2021,FirstName,Pato,1
+2021,FirstName,Pietro,1
+2021,FirstName,James,1
+2021,FirstName,Graham,1
+2021,FirstName,JR,1
+2021,FirstName,Simon,1
+2021,FirstName,Sebastien,1
+2021,FirstName,Max,1
+2021,IsDeleted,False,59
+2021,LastName,Andretti,3
+2021,LastName,Wilson,3
+2021,LastName,Karam,3
+2021,LastName,De Silvestro,3
+2021,LastName,Herta,2
+2021,LastName,VeeKay,2
+2021,LastName,Castroneves,2
+2021,LastName,Palou,2
+2021,LastName,Jones,2
+2021,LastName,Rosenqvist,2
+2021,LastName,Sato,2
+2021,LastName,Daly,2
+2021,LastName,Harvey,2
+2021,LastName,Newgarden,2
+2021,LastName,Ferrucci,2
+2021,LastName,Montoya,2
+2021,LastName,Kellett,2
+2021,LastName,Power,2
+2021,LastName,Kimball,2
+2021,LastName,Enerson,2
+2021,LastName,Dixon,1
+2021,LastName,Kanaan,1
+2021,LastName,Carpenter,1
+2021,LastName,Hunter-Reay,1
+2021,LastName,Ericsson,1
+2021,LastName,Rossi,1
+2021,LastName,O'Ward,1
+2021,LastName,Fittipaldi,1
+2021,LastName,Hinchcliffe,1
+2021,LastName,McLaughlin,1
+2021,LastName,Rahal,1
+2021,LastName,Hildebrand,1
+2021,LastName,Pagenaud,1
+2021,LastName,Bourdais,1
+2021,LastName,Chilton,1
+2021,TeamName,Team Penske,6
+2021,TeamName,A.J. Foyt Enterprises,6
+2021,TeamName,Chip Ganassi Racing,5
+2021,TeamName,ECR,5
+2021,TeamName,Andretti Autosport,5
+2021,TeamName,Arrow McLaren,5
+2021,TeamName,Rahal Letterman Lanigan Racing,5
+2021,TeamName,Andretti Herta w/ Marco & Curb-Agajanian,3
+2021,TeamName,Dreyer & Reinbold Racing,3
+2021,TeamName,Paretta Autosport,3
+2021,TeamName,Andretti Global w/ Curb-Agajanian,2
+2021,TeamName,Meyer Shank w/ Curb-Agajanian,2
+2021,TeamName,Dale Coyne Racing with Vasser-Sullivan,2
+2021,TeamName,Meyer Shank Racing,2
+2021,TeamName,Top Gun Racing,2
+2021,TeamName,Dale Coyne Racing with RWR,1
+2021,TeamName,Andretti Steinbrenner Autosport,1
+2021,TeamName,Carlin,1
+2022,CarNumber,24,3
+2022,CarNumber,51,2
+2022,CarNumber,18,2
+2022,CarNumber,2,2
+2022,CarNumber,77,2
+2022,CarNumber,27,2
+2022,CarNumber,98,2
+2022,CarNumber,26,2
+2022,CarNumber,3,2
+2022,CarNumber,06,2
+2022,CarNumber,21,1
+2022,CarNumber,5,1
+2022,CarNumber,7,1
+2022,CarNumber,10,1
+2022,CarNumber,1,1
+2022,CarNumber,48,1
+2022,CarNumber,33,1
+2022,CarNumber,8,1
+2022,CarNumber,28,1
+2022,CarNumber,9,1
+2022,CarNumber,12,1
+2022,CarNumber,23,1
+2022,CarNumber,60,1
+2022,CarNumber,11,1
+2022,CarNumber,20,1
+2022,CarNumber,15,1
+2022,CarNumber,29,1
+2022,CarNumber,14,1
+2022,CarNumber,4,1
+2022,CarNumber,6,1
+2022,CarNumber,30,1
+2022,CarNumber,45,1
+2022,CarNumber,25,1
+2022,DriverName,Sage Karam,3
+2022,DriverName,Takuma Sato,2
+2022,DriverName,David Malukas,2
+2022,DriverName,Josef Newgarden,2
+2022,DriverName,Callum Ilott,2
+2022,DriverName,Alexander Rossi,2
+2022,DriverName,Marco Andretti,2
+2022,DriverName,Colton Herta,2
+2022,DriverName,Scott McLaughlin,2
+2022,DriverName,Helio Castroneves,2
+2022,DriverName,Rinus VeeKay,1
+2022,DriverName,Pato O'Ward,1
+2022,DriverName,Felix Rosenqvist,1
+2022,DriverName,Alex Palou,1
+2022,DriverName,Tony Kanaan,1
+2022,DriverName,Jimmie Johnson,1
+2022,DriverName,Ed Carpenter,1
+2022,DriverName,Marcus Ericsson,1
+2022,DriverName,Romain Grosjean,1
+2022,DriverName,Scott Dixon,1
+2022,DriverName,Will Power,1
+2022,DriverName,Santino Ferrucci,1
+2022,DriverName,Simon Pagenaud,1
+2022,DriverName,JR Hildebrand,1
+2022,DriverName,Conor Daly,1
+2022,DriverName,Graham Rahal,1
+2022,DriverName,Devlin DeFrancesco,1
+2022,DriverName,Kyle Kirkwood,1
+2022,DriverName,Dalton Kellett,1
+2022,DriverName,Juan Pablo Montoya,1
+2022,DriverName,Christian Lundgaard,1
+2022,DriverName,Jack Harvey,1
+2022,DriverName,Stefan Wilson,1
+2022,DriverOverrideID,4247,3
+2022,DriverOverrideID,3811,2
+2022,DriverOverrideID,4636,2
+2022,DriverOverrideID,4215,2
+2022,DriverOverrideID,4939,2
+2022,DriverOverrideID,4587,2
+2022,DriverOverrideID,3608,2
+2022,DriverOverrideID,4511,2
+2022,DriverOverrideID,4932,2
+2022,DriverOverrideID,3622,2
+2022,DriverOverrideID,4614,1
+2022,DriverOverrideID,4559,1
+2022,DriverOverrideID,4588,1
+2022,DriverOverrideID,4931,1
+2022,DriverOverrideID,3648,1
+2022,DriverOverrideID,4934,1
+2022,DriverOverrideID,3620,1
+2022,DriverOverrideID,4905,1
+2022,DriverOverrideID,4935,1
+2022,DriverOverrideID,3628,1
+2022,DriverOverrideID,3667,1
+2022,DriverOverrideID,4897,1
+2022,DriverOverrideID,4276,1
+2022,DriverOverrideID,3736,1
+2022,DriverOverrideID,4218,1
+2022,DriverOverrideID,3668,1
+2022,DriverOverrideID,4940,1
+2022,DriverOverrideID,4623,1
+2022,DriverOverrideID,4416,1
+2022,DriverOverrideID,4002,1
+2022,DriverOverrideID,4938,1
+2022,DriverOverrideID,4505,1
+2022,DriverOverrideID,3803,1
+2022,DriverUrl,/Drivers/Takuma-Sato,2
+2022,DriverUrl,/Drivers/David-Malukas,2
+2022,DriverUrl,/Drivers/Josef-Newgarden,2
+2022,DriverUrl,/Drivers/Alexander-Rossi,2
+2022,DriverUrl,/Drivers/Scott-McLaughlin,2
+2022,DriverUrl,/Drivers/Helio-Castroneves,2
+2022,DriverUrl,/Drivers/Rinus-VeeKay,1
+2022,DriverUrl,/Drivers/Pato-OWard,1
+2022,DriverUrl,/Drivers/Felix-Rosenqvist,1
+2022,DriverUrl,/Drivers/Alex-Palou,1
+2022,DriverUrl,/Drivers/Ed-Carpenter,1
+2022,DriverUrl,/Drivers/Marcus-Ericsson,1
+2022,DriverUrl,/Drivers/Romain-Grosjean,1
+2022,DriverUrl,/Drivers/Scott-Dixon,1
+2022,DriverUrl,/Drivers/Will-Power,1
+2022,DriverUrl,/Drivers/Santino-Ferrucci,1
+2022,DriverUrl,/Drivers/Conor-Daly,1
+2022,DriverUrl,/Drivers/Graham-Rahal,1
+2022,DriverUrl,/Drivers/Kyle-Kirkwood,1
+2022,DriverUrl,/Drivers/Christian-Lundgaard,1
+2022,DriverUrl,/Drivers/Jack-Harvey,1
+2022,DriversID,4247,3
+2022,DriversID,3811,2
+2022,DriversID,4636,2
+2022,DriversID,4215,2
+2022,DriversID,4939,2
+2022,DriversID,4587,2
+2022,DriversID,3608,2
+2022,DriversID,4511,2
+2022,DriversID,4932,2
+2022,DriversID,3622,2
+2022,DriversID,4614,1
+2022,DriversID,4559,1
+2022,DriversID,4588,1
+2022,DriversID,4931,1
+2022,DriversID,3648,1
+2022,DriversID,4934,1
+2022,DriversID,3620,1
+2022,DriversID,4905,1
+2022,DriversID,4935,1
+2022,DriversID,3628,1
+2022,DriversID,3667,1
+2022,DriversID,4897,1
+2022,DriversID,4276,1
+2022,DriversID,3736,1
+2022,DriversID,4218,1
+2022,DriversID,3668,1
+2022,DriversID,4940,1
+2022,DriversID,4623,1
+2022,DriversID,4416,1
+2022,DriversID,4002,1
+2022,DriversID,4938,1
+2022,DriversID,4505,1
+2022,DriversID,3803,1
+2022,EventsEntrylistID,34672,3
+2022,EventsEntrylistID,34665,2
+2022,EventsEntrylistID,34655,2
+2022,EventsEntrylistID,34642,2
+2022,EventsEntrylistID,34667,2
+2022,EventsEntrylistID,34659,2
+2022,EventsEntrylistID,34674,2
+2022,EventsEntrylistID,34658,2
+2022,EventsEntrylistID,34643,2
+2022,EventsEntrylistID,34646,2
+2022,EventsEntrylistID,34657,1
+2022,EventsEntrylistID,34645,1
+2022,EventsEntrylistID,34647,1
+2022,EventsEntrylistID,34650,1
+2022,EventsEntrylistID,34669,1
+2022,EventsEntrylistID,34664,1
+2022,EventsEntrylistID,34668,1
+2022,EventsEntrylistID,34648,1
+2022,EventsEntrylistID,34660,1
+2022,EventsEntrylistID,34649,1
+2022,EventsEntrylistID,34652,1
+2022,EventsEntrylistID,34671,1
+2022,EventsEntrylistID,34666,1
+2022,EventsEntrylistID,34651,1
+2022,EventsEntrylistID,34656,1
+2022,EventsEntrylistID,34654,1
+2022,EventsEntrylistID,34661,1
+2022,EventsEntrylistID,34653,1
+2022,EventsEntrylistID,34644,1
+2022,EventsEntrylistID,34670,1
+2022,EventsEntrylistID,34662,1
+2022,EventsEntrylistID,34663,1
+2022,EventsEntrylistID,34673,1
+2022,EventsSessionsID,6033,44
+2022,FirstName,Scott,3
+2022,FirstName,Sage,3
+2022,FirstName,Takuma,2
+2022,FirstName,David,2
+2022,FirstName,Josef,2
+2022,FirstName,Callum,2
+2022,FirstName,Alexander,2
+2022,FirstName,Marco,2
+2022,FirstName,Colton,2
+2022,FirstName,Helio,2
+2022,FirstName,Rinus,1
+2022,FirstName,Pato,1
+2022,FirstName,Felix,1
+2022,FirstName,Alex,1
+2022,FirstName,Tony,1
+2022,FirstName,Jimmie,1
+2022,FirstName,Ed,1
+2022,FirstName,Marcus,1
+2022,FirstName,Romain,1
+2022,FirstName,Will,1
+2022,FirstName,Santino,1
+2022,FirstName,Simon,1
+2022,FirstName,JR,1
+2022,FirstName,Conor,1
+2022,FirstName,Graham,1
+2022,FirstName,Devlin,1
+2022,FirstName,Kyle,1
+2022,FirstName,Dalton,1
+2022,FirstName,Juan Pablo,1
+2022,FirstName,Christian,1
+2022,FirstName,Jack,1
+2022,FirstName,Stefan,1
+2022,IsDeleted,False,44
+2022,LastName,Karam,3
+2022,LastName,Sato,2
+2022,LastName,Malukas,2
+2022,LastName,Newgarden,2
+2022,LastName,Ilott,2
+2022,LastName,Rossi,2
+2022,LastName,Andretti,2
+2022,LastName,Herta,2
+2022,LastName,McLaughlin,2
+2022,LastName,Castroneves,2
+2022,LastName,VeeKay,1
+2022,LastName,O'Ward,1
+2022,LastName,Rosenqvist,1
+2022,LastName,Palou,1
+2022,LastName,Kanaan,1
+2022,LastName,Johnson,1
+2022,LastName,Carpenter,1
+2022,LastName,Ericsson,1
+2022,LastName,Grosjean,1
+2022,LastName,Dixon,1
+2022,LastName,Power,1
+2022,LastName,Ferrucci,1
+2022,LastName,Pagenaud,1
+2022,LastName,Hildebrand,1
+2022,LastName,Daly,1
+2022,LastName,Rahal,1
+2022,LastName,DeFrancesco,1
+2022,LastName,Kirkwood,1
+2022,LastName,Kellett,1
+2022,LastName,Montoya,1
+2022,LastName,Lundgaard,1
+2022,LastName,Harvey,1
+2022,LastName,Wilson,1
+2022,QualLap1,0.0000,4
+2022,QualLap1,38.7127,2
+2022,QualLap1,38.3465,1
+2022,QualLap1,38.5602,1
+2022,QualLap1,38.5419,1
+2022,QualLap1,38.5293,1
+2022,QualLap1,38.5968,1
+2022,QualLap1,38.6043,1
+2022,QualLap1,38.6342,1
+2022,QualLap1,38.6717,1
+2022,QualLap1,38.6937,1
+2022,QualLap1,38.6681,1
+2022,QualLap1,38.7121,1
+2022,QualLap1,38.5920,1
+2022,QualLap1,38.7531,1
+2022,QualLap1,38.7615,1
+2022,QualLap1,38.8600,1
+2022,QualLap1,38.7183,1
+2022,QualLap1,38.8151,1
+2022,QualLap1,38.8973,1
+2022,QualLap1,38.9471,1
+2022,QualLap1,38.9436,1
+2022,QualLap1,38.9617,1
+2022,QualLap1,38.8751,1
+2022,QualLap1,39.0264,1
+2022,QualLap1,39.0636,1
+2022,QualLap1,39.0784,1
+2022,QualLap1,39.1093,1
+2022,QualLap1,39.1861,1
+2022,QualLap1,39.2195,1
+2022,QualLap1,39.5436,1
+2022,QualLap1,39.0623,1
+2022,QualLap1,38.7399,1
+2022,QualLap1,38.6547,1
+2022,QualLap1,38.6797,1
+2022,QualLap1,38.8599,1
+2022,QualLap1,38.9619,1
+2022,QualLap1,38.7005,1
+2022,QualLap1,39.0556,1
+2022,QualLap1,39.0275,1
+2022,TeamName,Chip Ganassi Racing,5
+2022,TeamName,Team Penske,5
+2022,TeamName,Dreyer & Reinbold Racing,4
+2022,TeamName,ECR,3
+2022,TeamName,Arrow McLaren,3
+2022,TeamName,Andretti Autosport,3
+2022,TeamName,A.J. Foyt Enterprises,3
+2022,TeamName,Rahal Letterman Lanigan Racing,3
+2022,TeamName,Dale Coyne Racing with RWR,2
+2022,TeamName,Dale Coyne Racing with HMD Motorsports,2
+2022,TeamName,Juncos Hollinger Racing,2
+2022,TeamName,Andretti Herta w/ Marco & Curb-Agajanian,2
+2022,TeamName,Andretti Global w/ Curb-Agajanian,2
+2022,TeamName,Meyer Shank w/ Curb-Agajanian,2
+2022,TeamName,Meyer Shank Racing,1
+2022,TeamName,Andretti Steinbrenner Autosport,1
+2022,TeamName,DragonSpeed / Cusick Motorsports,1
+2023,CarNumber,6,1
+2023,CarNumber,7,1
+2023,CarNumber,10,1
+2023,CarNumber,21,1
+2023,CarNumber,9,1
+2023,CarNumber,66,1
+2023,CarNumber,11,1
+2023,CarNumber,5,1
+2023,CarNumber,14,1
+2023,CarNumber,8,1
+2023,CarNumber,55,1
+2023,CarNumber,12,1
+2023,CarNumber,33,1
+2023,CarNumber,3,1
+2023,CarNumber,27,1
+2023,CarNumber,20,1
+2023,CarNumber,2,1
+2023,CarNumber,23,1
+2023,CarNumber,28,1
+2023,CarNumber,06,1
+2023,CarNumber,26,1
+2023,CarNumber,60,1
+2023,CarNumber,18,1
+2023,CarNumber,98,1
+2023,CarNumber,24,1
+2023,CarNumber,29,1
+2023,CarNumber,78,1
+2023,CarNumber,77,1
+2023,CarNumber,50,1
+2023,CarNumber,44,1
+2023,CarNumber,45,1
+2023,CarNumber,51,1
+2023,CarNumber,30,1
+2023,CarNumber,15,1
+2023,DriverName,Felix Rosenqvist,1
+2023,DriverName,Alexander Rossi,1
+2023,DriverName,Alex Palou,1
+2023,DriverName,Rinus VeeKay,1
+2023,DriverName,Scott Dixon,1
+2023,DriverName,Tony Kanaan,1
+2023,DriverName,Takuma Sato,1
+2023,DriverName,Pato O'Ward,1
+2023,DriverName,Santino Ferrucci,1
+2023,DriverName,Marcus Ericsson,1
+2023,DriverName,Benjamin Pedersen,1
+2023,DriverName,Will Power,1
+2023,DriverName,Ed Carpenter,1
+2023,DriverName,Scott McLaughlin,1
+2023,DriverName,Kyle Kirkwood,1
+2023,DriverName,Conor Daly,1
+2023,DriverName,Josef Newgarden,1
+2023,DriverName,Ryan Hunter-Reay,1
+2023,DriverName,Romain Grosjean,1
+2023,DriverName,Helio Castroneves,1
+2023,DriverName,Colton Herta,1
+2023,DriverName,Simon Pagenaud,1
+2023,DriverName,David Malukas,1
+2023,DriverName,Marco Andretti,1
+2023,DriverName,Stefan Wilson,1
+2023,DriverName,Devlin DeFrancesco,1
+2023,DriverName,Agustin Canapino,1
+2023,DriverName,Callum Ilott,1
+2023,DriverName,RC Enerson,1
+2023,DriverName,Katherine Legge,1
+2023,DriverName,Christian Lundgaard,1
+2023,DriverName,Sting Ray Robb,1
+2023,DriverName,Jack Harvey,1
+2023,DriverName,Graham Rahal,1
+2023,DriverOverrideID,4588,1
+2023,DriverOverrideID,4587,1
+2023,DriverOverrideID,4931,1
+2023,DriverOverrideID,4614,1
+2023,DriverOverrideID,3628,1
+2023,DriverOverrideID,3648,1
+2023,DriverOverrideID,3811,1
+2023,DriverOverrideID,4559,1
+2023,DriverOverrideID,4897,1
+2023,DriverOverrideID,4905,1
+2023,DriverOverrideID,4942,1
+2023,DriverOverrideID,3667,1
+2023,DriverOverrideID,3620,1
+2023,DriverOverrideID,4932,1
+2023,DriverOverrideID,4623,1
+2023,DriverOverrideID,4218,1
+2023,DriverOverrideID,4215,1
+2023,DriverOverrideID,3645,1
+2023,DriverOverrideID,4935,1
+2023,DriverOverrideID,3622,1
+2023,DriverOverrideID,4511,1
+2023,DriverOverrideID,4276,1
+2023,DriverOverrideID,4636,1
+2023,DriverOverrideID,3608,1
+2023,DriverOverrideID,3803,1
+2023,DriverOverrideID,4940,1
+2023,DriverOverrideID,4946,1
+2023,DriverOverrideID,4939,1
+2023,DriverOverrideID,4442,1
+2023,DriverOverrideID,4401,1
+2023,DriverOverrideID,4938,1
+2023,DriverOverrideID,4613,1
+2023,DriverOverrideID,4505,1
+2023,DriverOverrideID,3668,1
+2023,DriverUrl,/Drivers/Felix-Rosenqvist,1
+2023,DriverUrl,/Drivers/Alexander-Rossi,1
+2023,DriverUrl,/Drivers/Alex-Palou,1
+2023,DriverUrl,/Drivers/Rinus-VeeKay,1
+2023,DriverUrl,/Drivers/Scott-Dixon,1
+2023,DriverUrl,/Drivers/Takuma-Sato,1
+2023,DriverUrl,/Drivers/Pato-OWard,1
+2023,DriverUrl,/Drivers/Santino-Ferrucci,1
+2023,DriverUrl,/Drivers/Marcus-Ericsson,1
+2023,DriverUrl,/Drivers/Will-Power,1
+2023,DriverUrl,/Drivers/Ed-Carpenter,1
+2023,DriverUrl,/Drivers/Scott-McLaughlin,1
+2023,DriverUrl,/Drivers/Kyle-Kirkwood,1
+2023,DriverUrl,/Drivers/Conor-Daly,1
+2023,DriverUrl,/Drivers/Josef-Newgarden,1
+2023,DriverUrl,/Drivers/Ryan-Hunter-Reay,1
+2023,DriverUrl,/Drivers/Romain-Grosjean,1
+2023,DriverUrl,/Drivers/Helio-Castroneves,1
+2023,DriverUrl,/Drivers/David-Malukas,1
+2023,DriverUrl,/Drivers/Katherine-Legge,1
+2023,DriverUrl,/Drivers/Christian-Lundgaard,1
+2023,DriverUrl,/Drivers/Sting-Ray-Robb,1
+2023,DriverUrl,/Drivers/Jack-Harvey,1
+2023,DriverUrl,/Drivers/Graham-Rahal,1
+2023,DriversID,4588,1
+2023,DriversID,4587,1
+2023,DriversID,4931,1
+2023,DriversID,4614,1
+2023,DriversID,3628,1
+2023,DriversID,3648,1
+2023,DriversID,3811,1
+2023,DriversID,4559,1
+2023,DriversID,4897,1
+2023,DriversID,4905,1
+2023,DriversID,4942,1
+2023,DriversID,3667,1
+2023,DriversID,3620,1
+2023,DriversID,4932,1
+2023,DriversID,4623,1
+2023,DriversID,4218,1
+2023,DriversID,4215,1
+2023,DriversID,3645,1
+2023,DriversID,4935,1
+2023,DriversID,3622,1
+2023,DriversID,4511,1
+2023,DriversID,4276,1
+2023,DriversID,4636,1
+2023,DriversID,3608,1
+2023,DriversID,3803,1
+2023,DriversID,4940,1
+2023,DriversID,4946,1
+2023,DriversID,4939,1
+2023,DriversID,4442,1
+2023,DriversID,4401,1
+2023,DriversID,4938,1
+2023,DriversID,4613,1
+2023,DriversID,4505,1
+2023,DriversID,3668,1
+2023,ElapsedTime,02:33.8810,1
+2023,ElapsedTime,02:34.1569,1
+2023,ElapsedTime,02:34.2432,1
+2023,ElapsedTime,02:34.2449,1
+2023,ElapsedTime,02:34.2584,1
+2023,ElapsedTime,02:34.2768,1
+2023,ElapsedTime,02:34.2932,1
+2023,ElapsedTime,02:34.3394,1
+2023,ElapsedTime,02:34.4093,1
+2023,ElapsedTime,02:34.4866,1
+2023,ElapsedTime,02:34.6797,1
+2023,ElapsedTime,02:34.6932,1
+2023,ElapsedTime,02:34.7128,1
+2023,ElapsedTime,02:34.7206,1
+2023,ElapsedTime,02:34.7311,1
+2023,ElapsedTime,02:34.8833,1
+2023,ElapsedTime,02:34.9039,1
+2023,ElapsedTime,02:35.0837,1
+2023,ElapsedTime,02:35.1744,1
+2023,ElapsedTime,02:35.2032,1
+2023,ElapsedTime,02:35.2055,1
+2023,ElapsedTime,02:35.2539,1
+2023,ElapsedTime,02:35.3270,1
+2023,ElapsedTime,02:35.3857,1
+2023,ElapsedTime,02:35.4083,1
+2023,ElapsedTime,02:35.6061,1
+2023,ElapsedTime,02:35.6287,1
+2023,ElapsedTime,02:35.7212,1
+2023,ElapsedTime,02:35.7574,1
+2023,ElapsedTime,02:35.7971,1
+2023,ElapsedTime,02:35.8067,1
+2023,ElapsedTime,02:36.0199,1
+2023,ElapsedTime,02:36.4549,1
+2023,ElapsedTime,01:18.2613,1
+2023,EventsEntrylistID,35294,1
+2023,EventsEntrylistID,35295,1
+2023,EventsEntrylistID,35298,1
+2023,EventsEntrylistID,35305,1
+2023,EventsEntrylistID,35297,1
+2023,EventsEntrylistID,35319,1
+2023,EventsEntrylistID,35299,1
+2023,EventsEntrylistID,35292,1
+2023,EventsEntrylistID,35301,1
+2023,EventsEntrylistID,35296,1
+2023,EventsEntrylistID,35313,1
+2023,EventsEntrylistID,35300,1
+2023,EventsEntrylistID,35317,1
+2023,EventsEntrylistID,35291,1
+2023,EventsEntrylistID,35307,1
+2023,EventsEntrylistID,35304,1
+2023,EventsEntrylistID,35290,1
+2023,EventsEntrylistID,35321,1
+2023,EventsEntrylistID,35308,1
+2023,EventsEntrylistID,35293,1
+2023,EventsEntrylistID,35306,1
+2023,EventsEntrylistID,35314,1
+2023,EventsEntrylistID,35303,1
+2023,EventsEntrylistID,35323,1
+2023,EventsEntrylistID,35322,1
+2023,EventsEntrylistID,35309,1
+2023,EventsEntrylistID,35316,1
+2023,EventsEntrylistID,35315,1
+2023,EventsEntrylistID,35318,1
+2023,EventsEntrylistID,35320,1
+2023,EventsEntrylistID,35311,1
+2023,EventsEntrylistID,35312,1
+2023,EventsEntrylistID,35310,1
+2023,EventsEntrylistID,35302,1
+2023,EventsSessionsDetailsID,108594,1
+2023,EventsSessionsDetailsID,108595,1
+2023,EventsSessionsDetailsID,108596,1
+2023,EventsSessionsDetailsID,108597,1
+2023,EventsSessionsDetailsID,108598,1
+2023,EventsSessionsDetailsID,108599,1
+2023,EventsSessionsDetailsID,108600,1
+2023,EventsSessionsDetailsID,108601,1
+2023,EventsSessionsDetailsID,108602,1
+2023,EventsSessionsDetailsID,108603,1
+2023,EventsSessionsDetailsID,108604,1
+2023,EventsSessionsDetailsID,108605,1
+2023,EventsSessionsDetailsID,108606,1
+2023,EventsSessionsDetailsID,108607,1
+2023,EventsSessionsDetailsID,108608,1
+2023,EventsSessionsDetailsID,108609,1
+2023,EventsSessionsDetailsID,108610,1
+2023,EventsSessionsDetailsID,108611,1
+2023,EventsSessionsDetailsID,108612,1
+2023,EventsSessionsDetailsID,108613,1
+2023,EventsSessionsDetailsID,108614,1
+2023,EventsSessionsDetailsID,108615,1
+2023,EventsSessionsDetailsID,108616,1
+2023,EventsSessionsDetailsID,108617,1
+2023,EventsSessionsDetailsID,108618,1
+2023,EventsSessionsDetailsID,108619,1
+2023,EventsSessionsDetailsID,108620,1
+2023,EventsSessionsDetailsID,108621,1
+2023,EventsSessionsDetailsID,108622,1
+2023,EventsSessionsDetailsID,108623,1
+2023,EventsSessionsDetailsID,108624,1
+2023,EventsSessionsDetailsID,108625,1
+2023,EventsSessionsDetailsID,108626,1
+2023,EventsSessionsDetailsID,108627,1
+2023,EventsSessionsID,6202,34
+2023,FirstName,Scott,2
+2023,FirstName,Felix,1
+2023,FirstName,Alexander,1
+2023,FirstName,Alex,1
+2023,FirstName,Rinus,1
+2023,FirstName,Tony,1
+2023,FirstName,Takuma,1
+2023,FirstName,Pato,1
+2023,FirstName,Santino,1
+2023,FirstName,Marcus,1
+2023,FirstName,Benjamin,1
+2023,FirstName,Will,1
+2023,FirstName,Ed,1
+2023,FirstName,Kyle,1
+2023,FirstName,Conor,1
+2023,FirstName,Josef,1
+2023,FirstName,Ryan,1
+2023,FirstName,Romain,1
+2023,FirstName,Helio,1
+2023,FirstName,Colton,1
+2023,FirstName,Simon,1
+2023,FirstName,David,1
+2023,FirstName,Marco,1
+2023,FirstName,Stefan,1
+2023,FirstName,Devlin,1
+2023,FirstName,Agustin,1
+2023,FirstName,Callum,1
+2023,FirstName,RC,1
+2023,FirstName,Katherine,1
+2023,FirstName,Christian,1
+2023,FirstName,Sting Ray,1
+2023,FirstName,Jack,1
+2023,FirstName,Graham,1
+2023,IsDeleted,False,34
+2023,LastName,Rosenqvist,1
+2023,LastName,Rossi,1
+2023,LastName,Palou,1
+2023,LastName,VeeKay,1
+2023,LastName,Dixon,1
+2023,LastName,Kanaan,1
+2023,LastName,Sato,1
+2023,LastName,O'Ward,1
+2023,LastName,Ferrucci,1
+2023,LastName,Ericsson,1
+2023,LastName,Pedersen,1
+2023,LastName,Power,1
+2023,LastName,Carpenter,1
+2023,LastName,McLaughlin,1
+2023,LastName,Kirkwood,1
+2023,LastName,Daly,1
+2023,LastName,Newgarden,1
+2023,LastName,Hunter-Reay,1
+2023,LastName,Grosjean,1
+2023,LastName,Castroneves,1
+2023,LastName,Herta,1
+2023,LastName,Pagenaud,1
+2023,LastName,Malukas,1
+2023,LastName,Andretti,1
+2023,LastName,Wilson,1
+2023,LastName,DeFrancesco,1
+2023,LastName,Canapino,1
+2023,LastName,Ilott,1
+2023,LastName,Enerson,1
+2023,LastName,Legge,1
+2023,LastName,Lundgaard,1
+2023,LastName,Robb,1
+2023,LastName,Harvey,1
+2023,LastName,Rahal,1
+2023,PositionFinish,1,1
+2023,PositionFinish,2,1
+2023,PositionFinish,3,1
+2023,PositionFinish,4,1
+2023,PositionFinish,5,1
+2023,PositionFinish,6,1
+2023,PositionFinish,7,1
+2023,PositionFinish,8,1
+2023,PositionFinish,9,1
+2023,PositionFinish,10,1
+2023,PositionFinish,11,1
+2023,PositionFinish,12,1
+2023,PositionFinish,13,1
+2023,PositionFinish,14,1
+2023,PositionFinish,15,1
+2023,PositionFinish,16,1
+2023,PositionFinish,17,1
+2023,PositionFinish,18,1
+2023,PositionFinish,19,1
+2023,PositionFinish,20,1
+2023,PositionFinish,21,1
+2023,PositionFinish,22,1
+2023,PositionFinish,23,1
+2023,PositionFinish,24,1
+2023,PositionFinish,25,1
+2023,PositionFinish,26,1
+2023,PositionFinish,27,1
+2023,PositionFinish,28,1
+2023,PositionFinish,29,1
+2023,PositionFinish,30,1
+2023,PositionFinish,31,1
+2023,PositionFinish,32,1
+2023,PositionFinish,33,1
+2023,PositionFinish,34,1
+2023,QualLap1,38.4076,1
+2023,QualLap1,38.4325,1
+2023,QualLap1,38.4209,1
+2023,QualLap1,38.4776,1
+2023,QualLap1,38.4939,1
+2023,QualLap1,38.4521,1
+2023,QualLap1,38.4476,1
+2023,QualLap1,38.4896,1
+2023,QualLap1,38.5334,1
+2023,QualLap1,38.5372,1
+2023,QualLap1,38.5775,1
+2023,QualLap1,38.6071,1
+2023,QualLap1,38.5227,1
+2023,QualLap1,38.6409,1
+2023,QualLap1,38.5478,1
+2023,QualLap1,38.6052,1
+2023,QualLap1,38.6863,1
+2023,QualLap1,38.7189,1
+2023,QualLap1,38.6964,1
+2023,QualLap1,38.7358,1
+2023,QualLap1,38.7148,1
+2023,QualLap1,38.8072,1
+2023,QualLap1,38.7209,1
+2023,QualLap1,38.7379,1
+2023,QualLap1,38.7534,1
+2023,QualLap1,38.7679,1
+2023,QualLap1,38.7073,1
+2023,QualLap1,38.7146,1
+2023,QualLap1,38.7988,1
+2023,QualLap1,38.8607,1
+2023,QualLap1,38.8988,1
+2023,QualLap1,38.9401,1
+2023,QualLap1,39.0507,1
+2023,QualLap1,39.0861,1
+2023,QualLap2,38.4107,1
+2023,QualLap2,38.5016,1
+2023,QualLap2,38.5113,1
+2023,QualLap2,38.5261,1
+2023,QualLap2,38.5038,1
+2023,QualLap2,38.5745,1
+2023,QualLap2,38.5243,1
+2023,QualLap2,38.5635,1
+2023,QualLap2,38.5873,1
+2023,QualLap2,38.5840,1
+2023,QualLap2,38.6520,1
+2023,QualLap2,38.6492,1
+2023,QualLap2,38.7270,1
+2023,QualLap2,38.6626,1
+2023,QualLap2,38.6164,1
+2023,QualLap2,38.6759,1
+2023,QualLap2,38.7298,1
+2023,QualLap2,38.7366,1
+2023,QualLap2,38.7765,1
+2023,QualLap2,38.7982,1
+2023,QualLap2,38.8143,1
+2023,QualLap2,38.7957,1
+2023,QualLap2,38.7854,1
+2023,QualLap2,38.7932,1
+2023,QualLap2,38.7871,1
+2023,QualLap2,38.8045,1
+2023,QualLap2,38.8576,1
+2023,QualLap2,38.7908,1
+2023,QualLap2,38.8882,1
+2023,QualLap2,38.8971,1
+2023,QualLap2,38.9105,1
+2023,QualLap2,38.9841,1
+2023,QualLap2,39.0956,1
+2023,QualLap2,39.1752,1
+2023,QualLap3,38.4977,1
+2023,QualLap3,38.5623,1
+2023,QualLap3,38.6079,1
+2023,QualLap3,38.6047,1
+2023,QualLap3,38.5797,1
+2023,QualLap3,38.5677,1
+2023,QualLap3,38.6581,1
+2023,QualLap3,38.6360,1
+2023,QualLap3,38.6082,1
+2023,QualLap3,38.6487,1
+2023,QualLap3,38.6975,1
+2023,QualLap3,38.7095,1
+2023,QualLap3,38.6922,1
+2023,QualLap3,38.7084,1
+2023,QualLap3,38.7279,1
+2023,QualLap3,38.7675,1
+2023,QualLap3,38.7262,1
+2023,QualLap3,38.7918,1
+2023,QualLap3,38.8336,1
+2023,QualLap3,38.8212,1
+2023,QualLap3,38.8344,1
+2023,QualLap3,38.7981,1
+2023,QualLap3,38.8755,1
+2023,QualLap3,38.9270,1
+2023,QualLap3,38.9713,1
+2023,QualLap3,38.8869,1
+2023,QualLap3,38.9894,1
+2023,QualLap3,38.9774,1
+2023,QualLap3,38.9780,1
+2023,QualLap3,39.0152,1
+2023,QualLap3,38.9799,1
+2023,QualLap3,39.0172,1
+2023,QualLap3,39.1445,1
+2023,QualLap3,0.0000,1
+2023,QualLap4,38.5650,1
+2023,QualLap4,38.6605,1
+2023,QualLap4,38.7031,1
+2023,QualLap4,38.6365,1
+2023,QualLap4,38.6810,1
+2023,QualLap4,38.6825,1
+2023,QualLap4,38.6632,1
+2023,QualLap4,38.6503,1
+2023,QualLap4,38.6804,1
+2023,QualLap4,38.7167,1
+2023,QualLap4,38.7527,1
+2023,QualLap4,38.7274,1
+2023,QualLap4,38.7709,1
+2023,QualLap4,38.7087,1
+2023,QualLap4,38.8390,1
+2023,QualLap4,38.8347,1
+2023,QualLap4,38.7616,1
+2023,QualLap4,38.8364,1
+2023,QualLap4,38.8679,1
+2023,QualLap4,38.8480,1
+2023,QualLap4,38.8420,1
+2023,QualLap4,38.8529,1
+2023,QualLap4,38.9452,1
+2023,QualLap4,38.9276,1
+2023,QualLap4,38.8965,1
+2023,QualLap4,39.1468,1
+2023,QualLap4,39.0744,1
+2023,QualLap4,39.2384,1
+2023,QualLap4,39.0924,1
+2023,QualLap4,39.0241,1
+2023,QualLap4,39.0175,1
+2023,QualLap4,39.0785,1
+2023,QualLap4,39.1641,1
+2023,QualLap4,0.0000,1
+2023,SpeedAvg,233.947,1
+2023,SpeedAvg,233.528,1
+2023,SpeedAvg,233.398,1
+2023,SpeedAvg,233.395,1
+2023,SpeedAvg,233.375,1
+2023,SpeedAvg,233.347,1
+2023,SpeedAvg,233.322,1
+2023,SpeedAvg,233.252,1
+2023,SpeedAvg,233.147,1
+2023,SpeedAvg,233.03,1
+2023,SpeedAvg,232.739,1
+2023,SpeedAvg,232.719,1
+2023,SpeedAvg,232.689,1
+2023,SpeedAvg,232.677,1
+2023,SpeedAvg,232.662,1
+2023,SpeedAvg,232.433,1
+2023,SpeedAvg,232.402,1
+2023,SpeedAvg,232.133,1
+2023,SpeedAvg,231.997,1
+2023,SpeedAvg,231.954,1
+2023,SpeedAvg,231.951,1
+2023,SpeedAvg,231.878,1
+2023,SpeedAvg,231.769,1
+2023,SpeedAvg,231.682,1
+2023,SpeedAvg,231.648,1
+2023,SpeedAvg,231.353,1
+2023,SpeedAvg,231.32,1
+2023,SpeedAvg,231.182,1
+2023,SpeedAvg,231.129,1
+2023,SpeedAvg,231.07,1
+2023,SpeedAvg,231.056,1
+2023,SpeedAvg,230.74,1
+2023,SpeedAvg,230.098,1
+2023,SpeedAvg,229.999,1
+2023,SpeedAvgFormatted,233.947,1
+2023,SpeedAvgFormatted,233.528,1
+2023,SpeedAvgFormatted,233.398,1
+2023,SpeedAvgFormatted,233.395,1
+2023,SpeedAvgFormatted,233.375,1
+2023,SpeedAvgFormatted,233.347,1
+2023,SpeedAvgFormatted,233.322,1
+2023,SpeedAvgFormatted,233.252,1
+2023,SpeedAvgFormatted,233.147,1
+2023,SpeedAvgFormatted,233.030,1
+2023,SpeedAvgFormatted,232.739,1
+2023,SpeedAvgFormatted,232.719,1
+2023,SpeedAvgFormatted,232.689,1
+2023,SpeedAvgFormatted,232.677,1
+2023,SpeedAvgFormatted,232.662,1
+2023,SpeedAvgFormatted,232.433,1
+2023,SpeedAvgFormatted,232.402,1
+2023,SpeedAvgFormatted,232.133,1
+2023,SpeedAvgFormatted,231.997,1
+2023,SpeedAvgFormatted,231.954,1
+2023,SpeedAvgFormatted,231.951,1
+2023,SpeedAvgFormatted,231.878,1
+2023,SpeedAvgFormatted,231.769,1
+2023,SpeedAvgFormatted,231.682,1
+2023,SpeedAvgFormatted,231.648,1
+2023,SpeedAvgFormatted,231.353,1
+2023,SpeedAvgFormatted,231.320,1
+2023,SpeedAvgFormatted,231.182,1
+2023,SpeedAvgFormatted,231.129,1
+2023,SpeedAvgFormatted,231.070,1
+2023,SpeedAvgFormatted,231.056,1
+2023,SpeedAvgFormatted,230.740,1
+2023,SpeedAvgFormatted,230.098,1
+2023,SpeedAvgFormatted,229.999,1
+2023,TeamName,Arrow McLaren,4
+2023,TeamName,Chip Ganassi Racing,4
+2023,TeamName,Rahal Letterman Lanigan Racing,4
+2023,TeamName,ECR,3
+2023,TeamName,Team Penske,3
+2023,TeamName,A.J. Foyt Enterprises,2
+2023,TeamName,Andretti Autosport,2
+2023,TeamName,Dreyer & Reinbold Racing,2
+2023,TeamName,Juncos Hollinger Racing,2
+2023,TeamName,Meyer Shank w/ Curb-Agajanian,1
+2023,TeamName,Andretti Global w/ Curb-Agajanian,1
+2023,TeamName,Meyer Shank Racing,1
+2023,TeamName,Dale Coyne Racing with HMD Motorsports,1
+2023,TeamName,Andretti Herta w/ Marco & Curb-Agajanian,1
+2023,TeamName,Andretti Steinbrenner Autosport,1
+2023,TeamName,Abel Motorsports,1
+2023,TeamName,Dale Coyne Racing with RWR,1
+2024,CarNumber,12,1
+2024,CarNumber,3,1
+2024,CarNumber,2,1
+2024,CarNumber,7,1
+2024,CarNumber,27,1
+2024,CarNumber,17,1
+2024,CarNumber,60,1
+2024,CarNumber,14,1
+2024,CarNumber,75,1
+2024,CarNumber,5,1
+2024,CarNumber,21,1
+2024,CarNumber,23,1
+2024,CarNumber,26,1
+2024,CarNumber,10,1
+2024,CarNumber,6,1
+2024,CarNumber,11,1
+2024,CarNumber,20,1
+2024,CarNumber,4,1
+2024,CarNumber,98,1
+2024,CarNumber,06,1
+2024,CarNumber,9,1
+2024,CarNumber,78,1
+2024,CarNumber,41,1
+2024,CarNumber,33,1
+2024,CarNumber,66,1
+2024,CarNumber,77,1
+2024,CarNumber,8,1
+2024,CarNumber,45,1
+2024,CarNumber,24,1
+2024,CarNumber,30,1
+2024,CarNumber,51,1
+2024,CarNumber,28,1
+2024,CarNumber,15,1
+2024,CarNumber,18,1
+2024,DriverName,Will Power,1
+2024,DriverName,Scott McLaughlin,1
+2024,DriverName,Josef Newgarden,1
+2024,DriverName,Alexander Rossi,1
+2024,DriverName,Kyle Kirkwood,1
+2024,DriverName,Kyle Larson,1
+2024,DriverName,Felix Rosenqvist,1
+2024,DriverName,Santino Ferrucci,1
+2024,DriverName,Takuma Sato,1
+2024,DriverName,Pato O'Ward,1
+2024,DriverName,Rinus VeeKay,1
+2024,DriverName,Ryan Hunter-Reay,1
+2024,DriverName,Colton Herta,1
+2024,DriverName,Alex Palou,1
+2024,DriverName,Callum Ilott,1
+2024,DriverName,Marcus Armstrong,1
+2024,DriverName,Ed Carpenter,1
+2024,DriverName,Kyffin Simpson,1
+2024,DriverName,Marco Andretti,1
+2024,DriverName,Helio Castroneves,1
+2024,DriverName,Scott Dixon,1
+2024,DriverName,Agustin Canapino,1
+2024,DriverName,Sting Ray Robb,1
+2024,DriverName,Christian Rasmussen,1
+2024,DriverName,Tom Blomqvist,1
+2024,DriverName,Romain Grosjean,1
+2024,DriverName,Linus Lundqvist,1
+2024,DriverName,Christian Lundgaard,1
+2024,DriverName,Conor Daly,1
+2024,DriverName,Pietro Fittipaldi,1
+2024,DriverName,Katherine Legge,1
+2024,DriverName,Marcus Ericsson,1
+2024,DriverName,Graham Rahal,1
+2024,DriverName,Nolan Siegel,1
+2024,DriverOverrideID,3667,1
+2024,DriverOverrideID,4932,1
+2024,DriverOverrideID,4215,1
+2024,DriverOverrideID,4587,1
+2024,DriverOverrideID,4623,1
+2024,DriverOverrideID,4958,1
+2024,DriverOverrideID,4588,1
+2024,DriverOverrideID,4897,1
+2024,DriverOverrideID,3811,1
+2024,DriverOverrideID,4559,1
+2024,DriverOverrideID,4614,1
+2024,DriverOverrideID,3645,1
+2024,DriverOverrideID,4511,1
+2024,DriverOverrideID,4931,1
+2024,DriverOverrideID,4939,1
+2024,DriverOverrideID,4948,1
+2024,DriverOverrideID,3620,1
+2024,DriverOverrideID,4944,1
+2024,DriverOverrideID,3608,1
+2024,DriverOverrideID,3622,1
+2024,DriverOverrideID,3628,1
+2024,DriverOverrideID,4946,1
+2024,DriverOverrideID,4613,1
+2024,DriverOverrideID,4920,1
+2024,DriverOverrideID,4954,1
+2024,DriverOverrideID,4935,1
+2024,DriverOverrideID,4941,1
+2024,DriverOverrideID,4938,1
+2024,DriverOverrideID,4218,1
+2024,DriverOverrideID,4882,1
+2024,DriverOverrideID,4401,1
+2024,DriverOverrideID,4905,1
+2024,DriverOverrideID,3668,1
+2024,DriverOverrideID,4915,1
+2024,DriverUrl,/Drivers/Will-Power,1
+2024,DriverUrl,/Drivers/Scott-McLaughlin,1
+2024,DriverUrl,/Drivers/Josef-Newgarden,1
+2024,DriverUrl,/Drivers/Alexander-Rossi,1
+2024,DriverUrl,/Drivers/Kyle-Kirkwood,1
+2024,DriverUrl,/Drivers/Felix-Rosenqvist,1
+2024,DriverUrl,/Drivers/Santino-Ferrucci,1
+2024,DriverUrl,/Drivers/Takuma-Sato,1
+2024,DriverUrl,/Drivers/Pato-OWard,1
+2024,DriverUrl,/Drivers/Rinus-VeeKay,1
+2024,DriverUrl,/Drivers/Ryan-Hunter-Reay,1
+2024,DriverUrl,/Drivers/Alex-Palou,1
+2024,DriverUrl,/Drivers/Marcus-Armstrong,1
+2024,DriverUrl,/Drivers/Ed-Carpenter,1
+2024,DriverUrl,/Drivers/Kyffin-Simpson,1
+2024,DriverUrl,/Drivers/Helio-Castroneves,1
+2024,DriverUrl,/Drivers/Scott-Dixon,1
+2024,DriverUrl,/Drivers/Sting-Ray-Robb,1
+2024,DriverUrl,/Drivers/Christian-Rasmussen,1
+2024,DriverUrl,/Drivers/Romain-Grosjean,1
+2024,DriverUrl,/Drivers/Christian-Lundgaard,1
+2024,DriverUrl,/Drivers/Conor-Daly,1
+2024,DriverUrl,/Drivers/Katherine-Legge,1
+2024,DriverUrl,/Drivers/Marcus-Ericsson,1
+2024,DriverUrl,/Drivers/Graham-Rahal,1
+2024,DriverUrl,/Drivers/Nolan-Siegel,1
+2024,DriversID,3667,1
+2024,DriversID,4932,1
+2024,DriversID,4215,1
+2024,DriversID,4587,1
+2024,DriversID,4623,1
+2024,DriversID,4958,1
+2024,DriversID,4588,1
+2024,DriversID,4897,1
+2024,DriversID,3811,1
+2024,DriversID,4559,1
+2024,DriversID,4614,1
+2024,DriversID,3645,1
+2024,DriversID,4511,1
+2024,DriversID,4931,1
+2024,DriversID,4939,1
+2024,DriversID,4948,1
+2024,DriversID,3620,1
+2024,DriversID,4944,1
+2024,DriversID,3608,1
+2024,DriversID,3622,1
+2024,DriversID,3628,1
+2024,DriversID,4946,1
+2024,DriversID,4613,1
+2024,DriversID,4920,1
+2024,DriversID,4954,1
+2024,DriversID,4935,1
+2024,DriversID,4941,1
+2024,DriversID,4938,1
+2024,DriversID,4218,1
+2024,DriversID,4882,1
+2024,DriversID,4401,1
+2024,DriversID,4905,1
+2024,DriversID,3668,1
+2024,DriversID,4915,1
+2024,ElapsedTime,02:34.0053,1
+2024,ElapsedTime,02:34.2863,1
+2024,ElapsedTime,02:34.3124,1
+2024,ElapsedTime,02:34.4609,1
+2024,ElapsedTime,02:34.6634,1
+2024,ElapsedTime,02:34.7965,1
+2024,ElapsedTime,02:34.8074,1
+2024,ElapsedTime,02:34.8415,1
+2024,ElapsedTime,02:34.8566,1
+2024,ElapsedTime,02:34.8826,1
+2024,ElapsedTime,02:34.8930,1
+2024,ElapsedTime,02:34.9153,1
+2024,ElapsedTime,02:34.9616,1
+2024,ElapsedTime,02:34.9682,1
+2024,ElapsedTime,02:35.0184,1
+2024,ElapsedTime,02:35.0504,1
+2024,ElapsedTime,02:35.1608,1
+2024,ElapsedTime,02:35.2069,1
+2024,ElapsedTime,02:35.2458,1
+2024,ElapsedTime,02:35.2587,1
+2024,ElapsedTime,02:35.2723,1
+2024,ElapsedTime,02:35.2750,1
+2024,ElapsedTime,02:35.2888,1
+2024,ElapsedTime,02:35.3852,1
+2024,ElapsedTime,02:35.4554,1
+2024,ElapsedTime,02:35.4982,1
+2024,ElapsedTime,02:35.5034,1
+2024,ElapsedTime,02:35.5308,1
+2024,ElapsedTime,02:35.6803,1
+2024,ElapsedTime,02:35.7768,1
+2024,ElapsedTime,02:35.9587,1
+2024,ElapsedTime,02:36.0031,1
+2024,ElapsedTime,02:36.0569,1
+2024,ElapsedTime,02:37.7038,1
+2024,EventsEntrylistID,36782,1
+2024,EventsEntrylistID,36774,1
+2024,EventsEntrylistID,36773,1
+2024,EventsEntrylistID,36777,1
+2024,EventsEntrylistID,36789,1
+2024,EventsEntrylistID,36806,1
+2024,EventsEntrylistID,36794,1
+2024,EventsEntrylistID,36783,1
+2024,EventsEntrylistID,36803,1
+2024,EventsEntrylistID,36776,1
+2024,EventsEntrylistID,36787,1
+2024,EventsEntrylistID,36800,1
+2024,EventsEntrylistID,36788,1
+2024,EventsEntrylistID,36780,1
+2024,EventsEntrylistID,36807,1
+2024,EventsEntrylistID,36781,1
+2024,EventsEntrylistID,36786,1
+2024,EventsEntrylistID,36775,1
+2024,EventsEntrylistID,36804,1
+2024,EventsEntrylistID,36802,1
+2024,EventsEntrylistID,36779,1
+2024,EventsEntrylistID,36797,1
+2024,EventsEntrylistID,36792,1
+2024,EventsEntrylistID,36805,1
+2024,EventsEntrylistID,36795,1
+2024,EventsEntrylistID,36796,1
+2024,EventsEntrylistID,36778,1
+2024,EventsEntrylistID,36793,1
+2024,EventsEntrylistID,36801,1
+2024,EventsEntrylistID,36791,1
+2024,EventsEntrylistID,36798,1
+2024,EventsEntrylistID,36790,1
+2024,EventsEntrylistID,36784,1
+2024,EventsEntrylistID,36785,1
+2024,EventsSessionsDetailsID,113228,1
+2024,EventsSessionsDetailsID,113229,1
+2024,EventsSessionsDetailsID,113230,1
+2024,EventsSessionsDetailsID,113231,1
+2024,EventsSessionsDetailsID,113232,1
+2024,EventsSessionsDetailsID,113233,1
+2024,EventsSessionsDetailsID,113234,1
+2024,EventsSessionsDetailsID,113235,1
+2024,EventsSessionsDetailsID,113236,1
+2024,EventsSessionsDetailsID,113237,1
+2024,EventsSessionsDetailsID,113238,1
+2024,EventsSessionsDetailsID,113239,1
+2024,EventsSessionsDetailsID,113240,1
+2024,EventsSessionsDetailsID,113241,1
+2024,EventsSessionsDetailsID,113242,1
+2024,EventsSessionsDetailsID,113243,1
+2024,EventsSessionsDetailsID,113244,1
+2024,EventsSessionsDetailsID,113245,1
+2024,EventsSessionsDetailsID,113246,1
+2024,EventsSessionsDetailsID,113247,1
+2024,EventsSessionsDetailsID,113248,1
+2024,EventsSessionsDetailsID,113249,1
+2024,EventsSessionsDetailsID,113250,1
+2024,EventsSessionsDetailsID,113251,1
+2024,EventsSessionsDetailsID,113252,1
+2024,EventsSessionsDetailsID,113253,1
+2024,EventsSessionsDetailsID,113254,1
+2024,EventsSessionsDetailsID,113255,1
+2024,EventsSessionsDetailsID,113256,1
+2024,EventsSessionsDetailsID,113257,1
+2024,EventsSessionsDetailsID,113258,1
+2024,EventsSessionsDetailsID,113259,1
+2024,EventsSessionsDetailsID,113260,1
+2024,EventsSessionsDetailsID,113261,1
+2024,EventsSessionsID,6382,34
+2024,FirstName,Scott,2
+2024,FirstName,Kyle,2
+2024,FirstName,Marcus,2
+2024,FirstName,Christian,2
+2024,FirstName,Will,1
+2024,FirstName,Josef,1
+2024,FirstName,Alexander,1
+2024,FirstName,Felix,1
+2024,FirstName,Santino,1
+2024,FirstName,Takuma,1
+2024,FirstName,Pato,1
+2024,FirstName,Rinus,1
+2024,FirstName,Ryan,1
+2024,FirstName,Colton,1
+2024,FirstName,Alex,1
+2024,FirstName,Callum,1
+2024,FirstName,Ed,1
+2024,FirstName,Kyffin,1
+2024,FirstName,Marco,1
+2024,FirstName,Helio,1
+2024,FirstName,Agustin,1
+2024,FirstName,Sting Ray,1
+2024,FirstName,Tom,1
+2024,FirstName,Romain,1
+2024,FirstName,Linus,1
+2024,FirstName,Conor,1
+2024,FirstName,Pietro,1
+2024,FirstName,Katherine,1
+2024,FirstName,Graham,1
+2024,FirstName,Nolan,1
+2024,IsDeleted,False,34
+2024,LastName,Power,1
+2024,LastName,McLaughlin,1
+2024,LastName,Newgarden,1
+2024,LastName,Rossi,1
+2024,LastName,Kirkwood,1
+2024,LastName,Larson,1
+2024,LastName,Rosenqvist,1
+2024,LastName,Ferrucci,1
+2024,LastName,Sato,1
+2024,LastName,O'Ward,1
+2024,LastName,VeeKay,1
+2024,LastName,Hunter-Reay,1
+2024,LastName,Herta,1
+2024,LastName,Palou,1
+2024,LastName,Ilott,1
+2024,LastName,Armstrong,1
+2024,LastName,Carpenter,1
+2024,LastName,Simpson,1
+2024,LastName,Andretti,1
+2024,LastName,Castroneves,1
+2024,LastName,Dixon,1
+2024,LastName,Canapino,1
+2024,LastName,Robb,1
+2024,LastName,Rasmussen,1
+2024,LastName,Blomqvist,1
+2024,LastName,Grosjean,1
+2024,LastName,Lundqvist,1
+2024,LastName,Lundgaard,1
+2024,LastName,Daly,1
+2024,LastName,Fittipaldi,1
+2024,LastName,Legge,1
+2024,LastName,Ericsson,1
+2024,LastName,Rahal,1
+2024,LastName,Siegel,1
+2024,PositionFinish,1,1
+2024,PositionFinish,2,1
+2024,PositionFinish,3,1
+2024,PositionFinish,4,1
+2024,PositionFinish,5,1
+2024,PositionFinish,6,1
+2024,PositionFinish,7,1
+2024,PositionFinish,8,1
+2024,PositionFinish,9,1
+2024,PositionFinish,10,1
+2024,PositionFinish,11,1
+2024,PositionFinish,12,1
+2024,PositionFinish,13,1
+2024,PositionFinish,14,1
+2024,PositionFinish,15,1
+2024,PositionFinish,16,1
+2024,PositionFinish,17,1
+2024,PositionFinish,18,1
+2024,PositionFinish,19,1
+2024,PositionFinish,20,1
+2024,PositionFinish,21,1
+2024,PositionFinish,22,1
+2024,PositionFinish,23,1
+2024,PositionFinish,24,1
+2024,PositionFinish,25,1
+2024,PositionFinish,26,1
+2024,PositionFinish,27,1
+2024,PositionFinish,28,1
+2024,PositionFinish,29,1
+2024,PositionFinish,30,1
+2024,PositionFinish,31,1
+2024,PositionFinish,32,1
+2024,PositionFinish,33,1
+2024,PositionFinish,34,1
+2024,QualLap1,38.4566,1
+2024,QualLap1,38.5384,1
+2024,QualLap1,38.5393,1
+2024,QualLap1,38.5215,1
+2024,QualLap1,38.6325,1
+2024,QualLap1,38.6348,1
+2024,QualLap1,38.6468,1
+2024,QualLap1,38.6780,1
+2024,QualLap1,38.5810,1
+2024,QualLap1,38.6261,1
+2024,QualLap1,38.5525,1
+2024,QualLap1,38.6697,1
+2024,QualLap1,38.6202,1
+2024,QualLap1,38.6905,1
+2024,QualLap1,38.6246,1
+2024,QualLap1,38.7263,1
+2024,QualLap1,38.6286,1
+2024,QualLap1,38.7709,1
+2024,QualLap1,38.7848,1
+2024,QualLap1,38.7847,1
+2024,QualLap1,38.7352,1
+2024,QualLap1,38.7240,1
+2024,QualLap1,38.7714,1
+2024,QualLap1,38.7358,1
+2024,QualLap1,38.7896,1
+2024,QualLap1,38.8169,1
+2024,QualLap1,38.8102,1
+2024,QualLap1,38.8328,1
+2024,QualLap1,38.8096,1
+2024,QualLap1,38.8818,1
+2024,QualLap1,38.9705,1
+2024,QualLap1,38.9050,1
+2024,QualLap1,38.9174,1
+2024,QualLap1,39.3802,1
+2024,QualLap2,38.4897,1
+2024,QualLap2,38.5597,1
+2024,QualLap2,38.5772,1
+2024,QualLap2,38.6044,1
+2024,QualLap2,38.6330,1
+2024,QualLap2,38.6605,1
+2024,QualLap2,38.6877,1
+2024,QualLap2,38.6531,1
+2024,QualLap2,38.6735,1
+2024,QualLap2,38.6939,1
+2024,QualLap2,38.6907,1
+2024,QualLap2,38.7032,1
+2024,QualLap2,38.7197,1
+2024,QualLap2,38.7462,1
+2024,QualLap2,38.6825,1
+2024,QualLap2,38.7401,1
+2024,QualLap2,38.7777,1
+2024,QualLap2,38.8107,1
+2024,QualLap2,38.8070,1
+2024,QualLap2,38.8168,1
+2024,QualLap2,38.7464,1
+2024,QualLap2,38.7863,1
+2024,QualLap2,38.8156,1
+2024,QualLap2,38.7804,1
+2024,QualLap2,38.8341,1
+2024,QualLap2,38.8381,1
+2024,QualLap2,38.8577,1
+2024,QualLap2,38.8518,1
+2024,QualLap2,38.8643,1
+2024,QualLap2,38.9416,1
+2024,QualLap2,38.9505,1
+2024,QualLap2,39.0305,1
+2024,QualLap2,39.0248,1
+2024,QualLap2,39.3976,1
+2024,QualLap3,38.5227,1
+2024,QualLap3,38.5771,1
+2024,QualLap3,38.5903,1
+2024,QualLap3,38.6440,1
+2024,QualLap3,38.6922,1
+2024,QualLap3,38.7271,1
+2024,QualLap3,38.7097,1
+2024,QualLap3,38.7264,1
+2024,QualLap3,38.8064,1
+2024,QualLap3,38.7621,1
+2024,QualLap3,38.8003,1
+2024,QualLap3,38.7303,1
+2024,QualLap3,38.8021,1
+2024,QualLap3,38.7551,1
+2024,QualLap3,38.8111,1
+2024,QualLap3,38.7583,1
+2024,QualLap3,38.9008,1
+2024,QualLap3,38.7977,1
+2024,QualLap3,38.8071,1
+2024,QualLap3,38.8182,1
+2024,QualLap3,38.8450,1
+2024,QualLap3,38.8659,1
+2024,QualLap3,38.8349,1
+2024,QualLap3,38.9967,1
+2024,QualLap3,38.8836,1
+2024,QualLap3,38.8938,1
+2024,QualLap3,38.8817,1
+2024,QualLap3,38.9208,1
+2024,QualLap3,38.8988,1
+2024,QualLap3,38.9476,1
+2024,QualLap3,38.9980,1
+2024,QualLap3,39.0212,1
+2024,QualLap3,39.0512,1
+2024,QualLap3,39.4270,1
+2024,QualLap4,38.5363,1
+2024,QualLap4,38.6111,1
+2024,QualLap4,38.6056,1
+2024,QualLap4,38.6910,1
+2024,QualLap4,38.7057,1
+2024,QualLap4,38.7741,1
+2024,QualLap4,38.7632,1
+2024,QualLap4,38.7840,1
+2024,QualLap4,38.7957,1
+2024,QualLap4,38.8005,1
+2024,QualLap4,38.8495,1
+2024,QualLap4,38.8121,1
+2024,QualLap4,38.8196,1
+2024,QualLap4,38.7764,1
+2024,QualLap4,38.9002,1
+2024,QualLap4,38.8257,1
+2024,QualLap4,38.8537,1
+2024,QualLap4,38.8276,1
+2024,QualLap4,38.8469,1
+2024,QualLap4,38.8390,1
+2024,QualLap4,38.9457,1
+2024,QualLap4,38.8988,1
+2024,QualLap4,38.8669,1
+2024,QualLap4,38.8723,1
+2024,QualLap4,38.9481,1
+2024,QualLap4,38.9494,1
+2024,QualLap4,38.9538,1
+2024,QualLap4,38.9254,1
+2024,QualLap4,39.1076,1
+2024,QualLap4,39.0058,1
+2024,QualLap4,39.0397,1
+2024,QualLap4,39.0464,1
+2024,QualLap4,39.0635,1
+2024,QualLap4,39.4990,1
+2024,SpeedAvg,233.758,1
+2024,SpeedAvg,233.332,1
+2024,SpeedAvg,233.293,1
+2024,SpeedAvg,233.069,1
+2024,SpeedAvg,232.764,1
+2024,SpeedAvg,232.563,1
+2024,SpeedAvg,232.547,1
+2024,SpeedAvg,232.496,1
+2024,SpeedAvg,232.473,1
+2024,SpeedAvg,232.434,1
+2024,SpeedAvg,232.419,1
+2024,SpeedAvg,232.385,1
+2024,SpeedAvg,232.316,1
+2024,SpeedAvg,232.306,1
+2024,SpeedAvg,232.23,1
+2024,SpeedAvg,232.183,1
+2024,SpeedAvg,232.017,1
+2024,SpeedAvg,231.948,1
+2024,SpeedAvg,231.89,1
+2024,SpeedAvg,231.871,1
+2024,SpeedAvg,231.851,1
+2024,SpeedAvg,231.847,1
+2024,SpeedAvg,231.826,1
+2024,SpeedAvg,231.682,1
+2024,SpeedAvg,231.578,1
+2024,SpeedAvg,231.514,1
+2024,SpeedAvg,231.506,1
+2024,SpeedAvg,231.465,1
+2024,SpeedAvg,231.243,1
+2024,SpeedAvg,231.1,1
+2024,SpeedAvg,230.83,1
+2024,SpeedAvg,230.765,1
+2024,SpeedAvg,230.685,1
+2024,SpeedAvg,228.276,1
+2024,SpeedAvgFormatted,233.758,1
+2024,SpeedAvgFormatted,233.332,1
+2024,SpeedAvgFormatted,233.293,1
+2024,SpeedAvgFormatted,233.069,1
+2024,SpeedAvgFormatted,232.764,1
+2024,SpeedAvgFormatted,232.563,1
+2024,SpeedAvgFormatted,232.547,1
+2024,SpeedAvgFormatted,232.496,1
+2024,SpeedAvgFormatted,232.473,1
+2024,SpeedAvgFormatted,232.434,1
+2024,SpeedAvgFormatted,232.419,1
+2024,SpeedAvgFormatted,232.385,1
+2024,SpeedAvgFormatted,232.316,1
+2024,SpeedAvgFormatted,232.306,1
+2024,SpeedAvgFormatted,232.230,1
+2024,SpeedAvgFormatted,232.183,1
+2024,SpeedAvgFormatted,232.017,1
+2024,SpeedAvgFormatted,231.948,1
+2024,SpeedAvgFormatted,231.890,1
+2024,SpeedAvgFormatted,231.871,1
+2024,SpeedAvgFormatted,231.851,1
+2024,SpeedAvgFormatted,231.847,1
+2024,SpeedAvgFormatted,231.826,1
+2024,SpeedAvgFormatted,231.682,1
+2024,SpeedAvgFormatted,231.578,1
+2024,SpeedAvgFormatted,231.514,1
+2024,SpeedAvgFormatted,231.506,1
+2024,SpeedAvgFormatted,231.465,1
+2024,SpeedAvgFormatted,231.243,1
+2024,SpeedAvgFormatted,231.100,1
+2024,SpeedAvgFormatted,230.830,1
+2024,SpeedAvgFormatted,230.765,1
+2024,SpeedAvgFormatted,230.685,1
+2024,SpeedAvgFormatted,228.276,1
+2024,TeamName,Chip Ganassi Racing,5
+2024,TeamName,Arrow McLaren,4
+2024,TeamName,Rahal Letterman Lanigan Racing,4
+2024,TeamName,Team Penske,3
+2024,TeamName,ECR,3
+2024,TeamName,Andretti Global,2
+2024,TeamName,Meyer Shank Racing,2
+2024,TeamName,A.J. Foyt Enterprises,2
+2024,TeamName,Dreyer & Reinbold Racing,2
+2024,TeamName,Juncos Hollinger Racing,2
+2024,TeamName,Dale Coyne Racing,2
+2024,TeamName,Andretti Global w/ Curb-Agajanian,1
+2024,TeamName,Andretti Herta w/ Marco & Curb-Agajanian,1
+2024,TeamName,Meyer Shank w/ Curb-Agajanian,1

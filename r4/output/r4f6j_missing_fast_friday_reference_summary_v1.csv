@@ -1,0 +1,7 @@
+year,session_identified,official_source_type,new_evidence_rows,entries_recovered,canonical_entries,four_lap_refs,no_tow_refs,general_fast_friday_refs,model_role,unresolved_gaps
+2020,Practice 3 (Fast Friday),OFFICIAL_RESULTS_PDF+OFFICIAL_SESSION_API+OFFICIAL_EDITORIAL_HTML,34,33,33,0,1,32,CORE_DEVELOPMENT,Complete official best-lap table recovered; only one explicit numeric no-tow reference and no explicit four-lap averages recovered.
+2021,EXISTING_R4F6G_V2,EXISTING_R4F6G_V2,0,0,3,0,3,0,CORE_DEVELOPMENT,Existing R4F6G-v2 coverage remains three explicit no-tow references only.
+2022,Practice 5 (Fast Friday),OFFICIAL_RESULTS_PDF+OFFICIAL_SESSION_API+OFFICIAL_EDITORIAL_HTML,38,33,33,5,0,28,CORE_DEVELOPMENT,Complete official best-lap table recovered; five explicit qualifying-simulation references; other entries remain general best laps.
+2023,EXISTING_R4F6G_V2,EXISTING_R4F6G_V2,0,0,34,4,0,30,CORE_DEVELOPMENT,None within R4F6J; existing R4F6G-v2 coverage preserved.
+2024,EXISTING_R4F6G_V2,EXISTING_R4F6G_V2,0,0,34,6,0,28,VALIDATION_ONLY,None within R4F6J; existing R4F6G-v2 validation-only coverage preserved.
+2025,Practice 5 (Fast Friday by date and official editorial),OFFICIAL_RESULTS_PDF+OFFICIAL_SESSION_API+OFFICIAL_EDITORIAL_HTML,36,34,34,2,0,32,TECHNICAL_REGIME_TRANSFER,Complete official best-lap table recovered; two explicit qualifying-simulation references; transfer only. Official 12.875 mph Simpson row retained as published.

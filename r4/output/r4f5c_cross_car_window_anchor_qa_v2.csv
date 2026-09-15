@@ -1,0 +1,5 @@
+metric,value,expected,status
+validation_targets,40,40,PASS
+fair_metric_rows,15,15,PASS
+direction_rows,3,3,PASS
+global_positive_rate_valid,0.725000,0_to_1,PASS

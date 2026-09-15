@@ -1,0 +1,6 @@
+year,old_observed_ready,new_observed_ready,absolute_gain,gain_multiple,dataset_role
+2020,0,39,39,,CORE_DEVELOPMENT
+2021,3,48,45,16.0,CORE_DEVELOPMENT
+2022,0,0,0,,DEGRADED_CHRONOLOGY_VALIDATION
+2023,17,17,0,1.0,CORE_DEVELOPMENT
+2024,6,6,0,1.0,VALIDATION_ONLY

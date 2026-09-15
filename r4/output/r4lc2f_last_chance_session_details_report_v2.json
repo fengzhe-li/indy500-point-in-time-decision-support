@@ -1,0 +1,19 @@
+{
+  "phase": "R4LC2F_V2",
+  "status": "R4LC2F_V2_EVENT_WIDE_LAST_CHANCE_SESSION_DISCOVERY_READY",
+  "years": [
+    2021,
+    2023,
+    2024
+  ],
+  "event_ids": {
+    "2021": 5365,
+    "2023": 5431,
+    "2024": 5465
+  },
+  "driver_probe_rows": 123,
+  "unique_session_rows": 38,
+  "target_session_rows": 3,
+  "session_details_rows": 3,
+  "important_fix": "DriverEventDetails exposes driver-specific session participation rather than a guaranteed event-wide session list. Version 2 unions sessions across all drivers before identifying Last Row / Last Chance."
+}

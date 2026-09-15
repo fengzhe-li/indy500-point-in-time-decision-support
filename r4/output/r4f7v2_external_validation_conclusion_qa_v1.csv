@@ -1,0 +1,8 @@
+metric,value,expected,status
+2024_validation_n,6,6,PASS
+frozen_k_unchanged,3.0,3.0,PASS
+primary_worse_than_reference_all6_recorded,True,True,PASS
+supported_subset_n,3,3,PASS
+supported_subset_gain_recorded,0.046469722985345185,>0,PASS
+2024_parameter_refit_performed,False,False,PASS
+performance_model_interpreted_deterministically,False,False,PASS

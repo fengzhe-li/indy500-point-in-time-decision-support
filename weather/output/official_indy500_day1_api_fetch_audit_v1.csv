@@ -1,0 +1,6 @@
+﻿year,request_type,request_url,ok,status_code,content_type,bytes,sha256,error
+2020,EVENTS_BY_YEAR_SERIES,https://www.indycar.com/api/results/EventsByYearSeries?year=2020&id=09341e09-3216-4f89-a45f-db697d72ee13,True,200,application/json; charset=utf-8,2,4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945,
+2021,EVENTS_BY_YEAR_SERIES,https://www.indycar.com/api/results/EventsByYearSeries?year=2021&id=09341e09-3216-4f89-a45f-db697d72ee13,True,200,application/json; charset=utf-8,1847,2f4c8c9f990decd0c359e193c36d1aa1a9af22531799069333a57c62c3e5f94f,
+2022,EVENTS_BY_YEAR_SERIES,https://www.indycar.com/api/results/EventsByYearSeries?year=2022&id=09341e09-3216-4f89-a45f-db697d72ee13,True,200,application/json; charset=utf-8,1180,d20a24e49edbfdc82cc27c8091575db8224552d8ff6f9beb27e55cdcb8471cf7,
+2023,EVENTS_BY_YEAR_SERIES,https://www.indycar.com/api/results/EventsByYearSeries?year=2023&id=09341e09-3216-4f89-a45f-db697d72ee13,True,200,application/json; charset=utf-8,1294,81a5117619155b111974abd60be569152724d11a1dc0f187994737d1a20535ed,
+2024,EVENTS_BY_YEAR_SERIES,https://www.indycar.com/api/results/EventsByYearSeries?year=2024&id=09341e09-3216-4f89-a45f-db697d72ee13,True,200,application/json; charset=utf-8,1047,327f6893a537877d3e77a3cbe4751bf54a6f074a650a9b2f7d429ef589112123,

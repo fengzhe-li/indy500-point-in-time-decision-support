@@ -1,0 +1,5 @@
+metric,value,expected,status
+attempt_rows,329,329,PASS
+primary_repeat_pairs_found,43,>0,PASS
+reference_independent_audit,True,True,PASS
+no_model_fit,True,True,PASS

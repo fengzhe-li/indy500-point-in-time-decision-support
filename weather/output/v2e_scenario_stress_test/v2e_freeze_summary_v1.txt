@@ -1,0 +1,95 @@
+====================================================================================================
+INDY 500 V2-E SYSTEMATIC SCENARIO STRESS TEST — FINAL FREEZE
+====================================================================================================
+
+STATUS: FROZEN
+
+SCENARIO DESIGN
+----------------------------------------------------------------------------------------------------
+135 empirically grounded scenarios:
+
+3 thermal-gap states
+× 3 ambient trajectories
+× 3 solar states
+× 5 supported horizons
+
+Supported horizons:
+15 / 30 / 60 / 90 / 120 min
+
+All ambient-delta scenarios remain inside the corresponding
+horizon-specific historical observed range.
+
+MAIN RESULT
+----------------------------------------------------------------------------------------------------
+Scenario separation increases with horizon.
+
+P(improvement) range:
+
+15 min:
+0.39646 to 0.58500
+
+120 min:
+0.20552 to 0.67040
+
+Expected delta-speed range:
+
+15 min:
+-0.12261 to +0.10369 mph
+
+120 min:
+-0.46298 to +0.22479 mph
+
+MOST FAVOURABLE GRID SCENARIO
+----------------------------------------------------------------------------------------------------
+120 min
+HIGH_GAP
+WARMING
+LOW_SOLAR
+
+Expected delta speed:
++0.22479 mph
+
+P(improvement):
+0.67040
+
+80% interval:
+[-0.53037, +1.00849] mph
+
+MOST UNFAVOURABLE GRID SCENARIO
+----------------------------------------------------------------------------------------------------
+120 min
+LOW_GAP
+COOLING
+HIGH_SOLAR
+
+Expected delta speed:
+-0.46298 mph
+
+P(improvement):
+0.20552
+
+80% interval:
+[-1.32475, +0.30757] mph
+
+FINAL INTERPRETATION
+----------------------------------------------------------------------------------------------------
+Physical-state scenarios materially shift the centre and probability
+of the conditional performance outlook, particularly at longer horizons.
+
+However, predictive intervals remain wide and generally overlap zero,
+consistent with V2-D's finding that unresolved attempt-level residual
+variation dominates final uncertainty.
+
+The stress test therefore supports probabilistic physical-state decision
+support, not deterministic retain/withdraw recommendations.
+
+MANIFEST
+----------------------------------------------------------------------------------------------------
+weather/output/v2e_scenario_stress_test/v2e_freeze_manifest_v1.json
+
+SHA256(manifest):
+c7159461938db8c292f9f2c3e37326ca3aec91ff488780949b1217e69cc8a837
+
+====================================================================================================
+V2-E STATUS: FROZEN
+====================================================================================================

@@ -1,0 +1,9 @@
+metric,value,expected,status
+canonical_decision_rows,148,148,PASS
+mc_eligible_decision_rows,50,>0,PASS
+expanded_action_rows,150,>=eligible_rows,PASS
+STOP_semantics_valid,0,0,PASS
+WITHDRAW_semantics_valid,0,0,PASS
+performance_architecture_frozen,True,True,PASS
+2024_reused_for_tuning,False,False,PASS
+old_mc_probabilities_reused_as_final,False,False,PASS

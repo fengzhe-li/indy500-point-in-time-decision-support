@@ -1,0 +1,9 @@
+﻿metric,value,status
+car_number_used_as_identity_key,0,PASS
+result_match_v3_used,1,PASS
+automatic_promotions,0,PASS
+lane_inference_from_retired,0,PASS
+queue_wait_inference,0,PASS
+results_row_order_used_as_chronology,0,PASS
+canonical_mutated,0,PASS
+phase5_to_phase8_mutated,0,PASS

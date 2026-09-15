@@ -1,0 +1,38 @@
+====================================================================================================
+INDY 500 V2-B MAGNITUDE-CONTROLLED SECTION DIAGNOSTIC
+====================================================================================================
+
+BASIC SPEARMAN RELATIONSHIPS
+----------------------------------------------------------------------------------------------------
+                    variable  spearman_with_abs_residual
+                   abs_delta                    0.542031
+         direction_coherence                    0.430869
+  sd_delta_section_speed_mph                    0.270850
+ relative_section_dispersion                   -0.531781
+max_abs_section_change_share                   -0.232186
+
+PARTIAL SPEARMAN CONTROLLING ABSOLUTE OVERALL SPEED CHANGE
+----------------------------------------------------------------------------------------------------
+            mechanism_metric  n  partial_spearman_controlling_abs_delta
+         direction_coherence 39                               -0.010948
+  sd_delta_section_speed_mph 39                                0.178387
+ relative_section_dispersion 39                               -0.198201
+max_abs_section_change_share 39                               -0.130146
+
+SENSITIVITY AMONG NON-TRIVIAL OVERALL PERFORMANCE CHANGES
+----------------------------------------------------------------------------------------------------
+ minimum_abs_delta_mph  n                       metric  spearman_with_abs_residual
+                   0.1 30          direction_coherence                    0.529908
+                   0.1 30  relative_section_dispersion                   -0.506118
+                   0.1 30 max_abs_section_change_share                   -0.109232
+                   0.2 22          direction_coherence                    0.446033
+                   0.2 22  relative_section_dispersion                   -0.453416
+                   0.2 22 max_abs_section_change_share                   -0.113495
+                   0.5 12          direction_coherence                   -0.202309
+                   0.5 12  relative_section_dispersion                    0.090909
+                   0.5 12 max_abs_section_change_share                    0.006993
+
+INTERPRETATION RULE
+----------------------------------------------------------------------------------------------------
+Do not interpret raw section-speed dispersion as a mechanism effect if its relationship with residual size disappears after controlling for absolute overall performance change.
+Direction coherence and max-absolute-section share are primarily descriptive mechanism evidence, not predictors.

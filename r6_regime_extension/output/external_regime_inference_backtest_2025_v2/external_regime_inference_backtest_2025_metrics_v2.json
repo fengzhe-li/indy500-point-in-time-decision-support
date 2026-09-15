@@ -1,0 +1,39 @@
+{
+  "validation_type": "2025_EXTERNAL_REGIME_REALIZED_WEATHER_BACKTEST",
+  "production_core": "FROZEN_2020_2024",
+  "test_regime": "2025_AEROSCREEN_HYBRID",
+  "production_horizon_minutes": 120.0,
+  "scientific_validation_horizon_minutes": 180.0,
+  "product_subset": {
+    "label": "PRODUCT_HORIZON_LE_120",
+    "n": 4,
+    "mae_mph": 0.22075575022615107,
+    "median_absolute_error_mph": 0.18970390769965922,
+    "rmse_mph": 0.26915976687897303,
+    "direction_accuracy": 0.5,
+    "coverage_80": 1.0,
+    "coverage_90": 1.0,
+    "actual_improvement_rate": 0.75,
+    "mean_p_improve": 0.5153375,
+    "mean_p_improve_when_actual_improved": 0.5088166666666667,
+    "mean_p_improve_when_actual_declined": 0.5349
+  },
+  "extended_validation": {
+    "label": "EXTERNAL_VALIDATION_LE_180",
+    "n": 15,
+    "mae_mph": 0.49160020387931286,
+    "median_absolute_error_mph": 0.4253202331839807,
+    "rmse_mph": 0.6095134635292585,
+    "direction_accuracy": 0.4666666666666667,
+    "coverage_80": 0.8,
+    "coverage_90": 1.0,
+    "actual_improvement_rate": 0.6,
+    "mean_p_improve": 0.5348633333333334,
+    "mean_p_improve_when_actual_improved": 0.5288555555555556,
+    "mean_p_improve_when_actual_declined": 0.543875
+  },
+  "weather_semantics": "Realized PTSC ambient trajectory. Retrospective physical-inference validation, not weather-forecast validation.",
+  "product_semantics": "Production inference remains capped at 120 minutes. The 120-180 minute cases are used only for external validation because the frozen future-track model was validated through 180 minutes.",
+  "queue_wait_prediction": false,
+  "strategy_recommendation": false
+}

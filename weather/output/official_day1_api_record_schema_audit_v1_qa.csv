@@ -1,0 +1,9 @@
+﻿metric,value,status
+target_years_expected,5,INFO
+successful_years,"2020,2021,2022,2023,2024",PASS
+total_api_records,230,INFO
+field_inventory_rows,170,INFO
+canonical_data_mutated,0,PASS
+chronology_inferred,0,PASS
+queue_state_inferred,0,PASS
+lane_state_inferred,0,PASS

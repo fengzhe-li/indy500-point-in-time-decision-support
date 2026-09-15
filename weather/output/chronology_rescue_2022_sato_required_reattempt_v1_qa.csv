@@ -1,0 +1,13 @@
+﻿metric,value,status
+canonical_identity_verified,1,PASS
+result_v3_grounded,1,PASS
+first_status_failed_attempt,Failed Attempt,PASS
+official_invalidation_semantics_found,4,PASS
+official_required_reattempt_semantics_found,2,PASS
+deceleration_lane_mapped_to_qualifying_lane,0,PASS
+lane_inferred,0,PASS
+queue_wait_inferred,0,PASS
+exact_timestamp_inferred,0,PASS
+ledger_mutation,0,PASS
+canonical_mutation,0,PASS
+phase5_to_phase8_mutation,0,PASS

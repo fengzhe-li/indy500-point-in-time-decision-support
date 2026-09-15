@@ -1,0 +1,4 @@
+year,decision_rows,stop_rows,reattempt_rows,policy_fit_rows,complete_numeric_state_rows
+2021,5,3,2,3,3
+2023,4,3,1,4,3
+2024,1,0,1,1,1

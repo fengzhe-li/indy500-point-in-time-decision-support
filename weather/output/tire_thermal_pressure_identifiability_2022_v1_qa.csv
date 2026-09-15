@@ -1,0 +1,11 @@
+﻿metric,value,status
+priority_rows_zero,0,PASS
+temperature_candidates_zero,0,PASS
+pressure_candidates_zero,0,PASS
+thermal_candidates_zero,0,PASS
+fresh_tire_between_runs_zero,0,PASS
+temperature_not_inferred_from_wait,0,PASS
+fresh_tires_not_inferred_from_second_run,0,PASS
+pressure_not_inferred_from_service,0,PASS
+thermal_state_not_inferred_from_elapsed_time,0,PASS
+active_ledger_mutation,0,PASS

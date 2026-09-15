@@ -1,0 +1,43 @@
+{
+  "phase": "R1G.31",
+  "active_ledgers": {
+    "chronology": "V10",
+    "action_lane": "V7"
+  },
+  "2022_attempt_population": 44,
+  "chronology_covered_attempts": 21,
+  "chronology_coverage_pct": 47.73,
+  "decision_relevant_repeat": {
+    "denominator": 8,
+    "covered": 8,
+    "coverage_pct": 100.0,
+    "fully_covered_drivers": [
+      "Alexander Rossi",
+      "Callum Ilott",
+      "David Malukas",
+      "Helio Castroneves",
+      "Marco Andretti",
+      "Sage Karam",
+      "Scott McLaughlin",
+      "Takuma Sato"
+    ],
+    "excluded_policy_drivers": [
+      "Colton Herta",
+      "Josef Newgarden"
+    ]
+  },
+  "explicit_historical_lane_rows": 1,
+  "readiness": {
+    "repeat_subgroup": "READY",
+    "overall_2022_chronology": "PARTIAL",
+    "exact_queue_replay": "NOT_READY",
+    "global_chronology_gate": "FAIL"
+  },
+  "policy_notes": [
+    "Decision-relevant repeat denominator remains frozen at 8.",
+    "Colton Herta Waved Off and Josef Newgarden No Attempt remain excluded from the decision-relevant denominator.",
+    "Sage Karam status-only No Attempt object is not treated as a third qualifying attempt.",
+    "8/8 repeat-pair coverage does not imply complete 2022 chronology.",
+    "Lane, queue wait, and exact queue replay remain unresolved."
+  ]
+}

@@ -1,0 +1,8 @@
+metric,value,expected,status
+historical_repeat_transition_count,92,92,PASS
+performance_distribution_empirical,True,True,PASS
+historical_queue_wait_claimed,False,False,PASS
+thermal_mph_correction_forced,False,False,PASS
+lane2_retains_current_result,True,True,PASS
+lane1_can_finish_worse,True,True,PASS
+risk_profiles,3,3,PASS

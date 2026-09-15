@@ -1,0 +1,13 @@
+﻿metric,value
+canonical_ilott_attempts,2
+first_attempt_id_verified,1
+second_attempt_id_verified,1
+first_speed_verified,1
+second_speed_verified,1
+canonical_speed_delta_mph,0.749
+canonical_delta_at_source_precision,0.7
+autosport_delta_compatible,1
+promotion_ready,1
+lane_evidence,0
+queue_wait_evidence,0
+exact_timestamp_evidence,0

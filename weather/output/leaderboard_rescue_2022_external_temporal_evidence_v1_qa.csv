@@ -1,0 +1,12 @@
+﻿metric,value,status
+all_attempt_ids_in_result_v3,1,PASS
+all_attempt_ids_in_chronology_v10,1,PASS
+rossi_lane1_v8_grounded,1,PASS
+mclaughlin_r2c1a_anchor_grounded,1,PASS
+rossi_rank_transition_captured,1,PASS
+malukas_provisional_p12_captured,1,PASS
+sato_p12_displacement_captured,1,PASS
+exact_live_cutoff_speed_inferred,0,PASS
+exact_timestamp_inferred,0,PASS
+complete_live_leaderboard_claimed,0,PASS
+ledger_mutation,0,PASS

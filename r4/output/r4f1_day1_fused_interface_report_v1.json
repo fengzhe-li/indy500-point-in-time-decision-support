@@ -1,0 +1,27 @@
+{
+  "phase": "R4F1",
+  "status": "R4F1_DAY1_FUSED_INTERFACE_READY",
+  "decision_rows": 138,
+  "action_counts": {
+    "REATTEMPT_SEMANTICS_UNRESOLVED": 72,
+    "STOP": 66
+  },
+  "training_years": [
+    2020,
+    2021,
+    2023
+  ],
+  "validation_only_years": [
+    2022,
+    2024
+  ],
+  "policy_fit_rows": 40,
+  "numeric_state_rows": 50,
+  "important_methodology": [
+    "Current rank and advancement benchmark are reconstructed only from attempts with point timestamps at or before the decision time.",
+    "2022 and 2024 are emitted for validation but prohibited from policy fitting.",
+    "Repeat attempts without explicit Lane1/Lane2 semantics remain REATTEMPT_SEMANTICS_UNRESOLVED.",
+    "No future final qualifying cutoff is substituted for the decision-time benchmark."
+  ],
+  "next_phase": "Combine R4F1 Day1 interface with frozen R4LC5E-v2 Last Chance interface into the canonical Fused dataset."
+}

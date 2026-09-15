@@ -1,0 +1,96 @@
+====================================================================================================
+INDY 500 V2-C WIND LINKAGE / COVERAGE SUMMARY
+====================================================================================================
+
+CORE / LINKAGE COUNTS
+----------------------------------------------------------------------------------------------------
+Final physics core: 41
+V2-B exact transition identities: 39
+frozen_environment: exact unique pair matches 38/39, duplicate matches 0
+r5_2_repeat_analysis: exact unique pair matches 39/39, duplicate matches 0
+r5c_same_car: exact unique pair matches 27/39, duplicate matches 0
+
+FROZEN_ENVIRONMENT
+----------------------------------------------------------------------------------------------------
+wind/gust fields:
+  delta_ptsc_wind
+  delta_forecast_wind_speed_10m_ms
+  delta_forecast_gust_ms
+
+                           field  n_nonnull  n_total  coverage       min    median      max
+                 delta_ptsc_wind         39       39       1.0 -4.650000 -0.260000 2.431111
+delta_forecast_wind_speed_10m_ms         39       39       1.0 -0.577417  0.184395 1.280710
+          delta_forecast_gust_ms         39       39       1.0 -1.272370 -0.026224 1.691328
+
+R5_2_REPEAT_ANALYSIS
+----------------------------------------------------------------------------------------------------
+wind/gust fields:
+  delta_ptsc_wind
+  delta_forecast_wind_speed_10m_ms
+  delta_forecast_gust_ms
+  previous_wind_speed_ms
+  previous_gust_ms
+  previous_wind_direction_deg
+  previous_wind_u_ms
+  previous_wind_v_ms
+  next_wind_speed_ms
+  next_gust_ms
+  next_wind_direction_deg
+  next_wind_u_ms
+  next_wind_v_ms
+  delta_wind_speed_ms
+  delta_gust_ms
+  delta_wind_direction_deg
+  delta_wind_u_ms
+  delta_wind_v_ms
+
+                           field  n_nonnull  n_total  coverage        min    median       max
+                 delta_ptsc_wind         40       42  0.952381  -4.650000 -0.222222  2.431111
+delta_forecast_wind_speed_10m_ms         39       42  0.928571  -0.577417  0.184395  1.280710
+          delta_forecast_gust_ms         39       42  0.928571  -1.272370 -0.026224  1.691328
+          previous_wind_speed_ms         42       42  1.000000   0.626204  3.080577  5.440635
+                previous_gust_ms         42       42  1.000000   0.980298  5.171813  7.356975
+              previous_wind_u_ms         39       42  0.928571  -2.083504  1.645382  3.486835
+              previous_wind_v_ms         39       42  0.928571  -5.206575 -0.285409  2.688512
+              next_wind_speed_ms         42       42  1.000000   0.466064  3.083742  6.021027
+                    next_gust_ms         42       42  1.000000   1.291021  4.703494  8.249429
+                  next_wind_u_ms         39       42  0.928571  -1.256406  1.769766  3.507246
+                  next_wind_v_ms         39       42  0.928571  -5.768885 -0.358632  1.412771
+             delta_wind_speed_ms         42       42  1.000000  -0.577417  0.187860  1.280710
+                   delta_gust_ms         42       42  1.000000  -1.272370 -0.022084  2.439944
+        delta_wind_direction_deg         39       42  0.928571 -71.850921  5.831255 87.185217
+                 delta_wind_u_ms         39       42  0.928571  -0.840444  0.185108  2.305163
+                 delta_wind_v_ms         39       42  0.928571  -2.386910 -0.333010  0.362024
+
+R5C_SAME_CAR
+----------------------------------------------------------------------------------------------------
+wind/gust fields:
+  wind_speed_ms_before
+  wind_speed_ms_after
+  delta_wind_speed_ms
+  wind_direction_deg_before
+  wind_direction_deg_after
+  delta_wind_direction_deg
+  gust_ms_before
+  gust_ms_after
+  delta_gust_ms
+
+                   field  n_nonnull  n_total  coverage        min    median       max
+    wind_speed_ms_before         27       27       1.0   0.626204  2.290799  4.553015
+     wind_speed_ms_after         27       27       1.0   0.466064  2.976955  5.054954
+     delta_wind_speed_ms         27       27       1.0  -0.577417 -0.099065  0.952904
+delta_wind_direction_deg         27       27       1.0 -71.850921  7.154114 87.185217
+          gust_ms_before         27       27       1.0   0.980298  4.752268  6.311463
+           gust_ms_after         27       27       1.0   1.291021  4.036471  6.702176
+           delta_gust_ms         27       27       1.0  -1.272370 -0.156119  1.304035
+
+V2-B TRANSITIONS NOT EXACTLY MATCHED IN FROZEN ENVIRONMENT
+----------------------------------------------------------------------------------------------------
+ core_row  year  car_number      driver_name  delta_speed_mph                    before_attempt_id                     after_attempt_id
+       38  2023           6 Felix Rosenqvist            0.848 9c85ad9a-de5a-5a03-9262-9ef6823db9e8 f684d582-76d7-5411-83d0-39af174901c3
+
+INTERPRETATION BOUNDARY
+----------------------------------------------------------------------------------------------------
+This audit does not test whether wind predicts performance residuals.
+PTSC wind and HRRR wind/gust are retained as distinct evidence streams.
+No deterministic wind coefficient is introduced at this stage.

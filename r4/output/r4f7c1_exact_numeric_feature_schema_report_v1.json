@@ -1,0 +1,317 @@
+{
+  "phase": "R4F7C1",
+  "status": "R4F7C1_EXACT_NUMERIC_FEATURE_SCHEMA_READY",
+  "primary_attempt_source": "r4p1_attempt_four_lap_panel_v1.csv",
+  "primary_source_real_numeric_weather_features": [
+    "lap1_to_lap4_delta_mph",
+    "lap1_to_lap2_delta_mph",
+    "lap2_to_lap3_delta_mph",
+    "lap3_to_lap4_delta_mph"
+  ],
+  "primary_source_boolean_or_availability_columns": [
+    "hrrr_leakage_safe_available",
+    "ptsc_track_temp_available"
+  ],
+  "resolved_architecture": "DIRECT_NUMERIC_SOURCE_AVAILABLE",
+  "actual_numeric_weather_sources": [
+    {
+      "file": "r4p5_decision_safe_forecast_scenarios_v1.csv",
+      "rows": 40,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 99,
+      "continuous_numeric_features": 92,
+      "boolean_or_availability_features": 4
+    },
+    {
+      "file": "r4p6_decision_safe_conditional_dataset_v1.csv",
+      "rows": 5,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 43,
+      "continuous_numeric_features": 39,
+      "boolean_or_availability_features": 1
+    },
+    {
+      "file": "r4p8_track_temperature_training_dataset_v1.csv",
+      "rows": 312,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 28,
+      "continuous_numeric_features": 24,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4p2_environment_linked_transitions_v1.csv",
+      "rows": 39,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 27,
+      "continuous_numeric_features": 22,
+      "boolean_or_availability_features": 1
+    },
+    {
+      "file": "r4p2_multi_run_transitions_v1.csv",
+      "rows": 92,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 27,
+      "continuous_numeric_features": 22,
+      "boolean_or_availability_features": 1
+    },
+    {
+      "file": "r4f6h_repeat_window_validation_rows_v1.csv",
+      "rows": 13,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 12,
+      "continuous_numeric_features": 10,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4p10_thermal_conditioned_repeat_dataset_v1.csv",
+      "rows": 39,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 10,
+      "continuous_numeric_features": 9,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4p0_cross_car_data_inventory_v1.csv",
+      "rows": 6,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 12,
+      "continuous_numeric_features": 8,
+      "boolean_or_availability_features": 1
+    },
+    {
+      "file": "r4p2_past_only_cross_car_signal_v1.csv",
+      "rows": 40,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 9,
+      "continuous_numeric_features": 8,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4p1_first_run_order_panel_v1.csv",
+      "rows": 150,
+      "direct_attempt_join": true,
+      "target_attempt_rows": 75,
+      "relevant_columns": 18,
+      "continuous_numeric_features": 6,
+      "boolean_or_availability_features": 2
+    },
+    {
+      "file": "r4p2_transition_environment_summary_v1.csv",
+      "rows": 5,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 8,
+      "continuous_numeric_features": 6,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4p0_time_window_coverage_v1.csv",
+      "rows": 20,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 10,
+      "continuous_numeric_features": 5,
+      "boolean_or_availability_features": 1
+    },
+    {
+      "file": "r4p1_attempt_four_lap_panel_v1.csv",
+      "rows": 329,
+      "direct_attempt_join": true,
+      "target_attempt_rows": 110,
+      "relevant_columns": 15,
+      "continuous_numeric_features": 4,
+      "boolean_or_availability_features": 2
+    },
+    {
+      "file": "r4p1_multi_run_four_lap_panel_v1.csv",
+      "rows": 162,
+      "direct_attempt_join": true,
+      "target_attempt_rows": 59,
+      "relevant_columns": 15,
+      "continuous_numeric_features": 4,
+      "boolean_or_availability_features": 2
+    },
+    {
+      "file": "r4f6h_v2_repeat_window_validation_rows.csv",
+      "rows": 55,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 4,
+      "continuous_numeric_features": 4,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4f7a_v2_expanded_latent_window_input_readiness_by_year.csv",
+      "rows": 5,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 3,
+      "continuous_numeric_features": 3,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4p10_thermal_conditioned_repeat_predictions_v1.csv",
+      "rows": 195,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 3,
+      "continuous_numeric_features": 3,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4p11_stochastic_wait_performance_mc_results_v1.csv",
+      "rows": 9,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 6,
+      "continuous_numeric_features": 3,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4f7a_latent_window_input_readiness_by_year_v1.csv",
+      "rows": 5,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 3,
+      "continuous_numeric_features": 2,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4p11_stochastic_wait_performance_mc_draws_sample_v1.csv",
+      "rows": 1500,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 2,
+      "continuous_numeric_features": 2,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4p1_four_lap_shape_summary_v1.csv",
+      "rows": 15,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 2,
+      "continuous_numeric_features": 2,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4p9_track_temp_delta_direction_predictions_v1.csv",
+      "rows": 2628,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 3,
+      "continuous_numeric_features": 2,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4p9_track_temp_delta_regression_metrics_v1.csv",
+      "rows": 10,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 2,
+      "continuous_numeric_features": 2,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4p4_improvement_probability_predictions_v1.csv",
+      "rows": 186,
+      "direct_attempt_join": true,
+      "target_attempt_rows": 166,
+      "relevant_columns": 1,
+      "continuous_numeric_features": 1,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4f3b_shared_state_linkage_thermal_fixed_v1.csv",
+      "rows": 50,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 11,
+      "continuous_numeric_features": 1,
+      "boolean_or_availability_features": 5
+    },
+    {
+      "file": "r4f4_decision_window_residual_context_v1.csv",
+      "rows": 50,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 29,
+      "continuous_numeric_features": 1,
+      "boolean_or_availability_features": 10
+    },
+    {
+      "file": "r4f5b_partial_pooled_latent_window_target_v1.csv",
+      "rows": 540,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 4,
+      "continuous_numeric_features": 1,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4f6i_reference_type_repeat_window_rows_v1.csv",
+      "rows": 43,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 7,
+      "continuous_numeric_features": 1,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4f6j_b_temporal_support_potential_pairs_v1.csv",
+      "rows": 43,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 7,
+      "continuous_numeric_features": 1,
+      "boolean_or_availability_features": 2
+    },
+    {
+      "file": "r4f6j_strict_repeat_support_pairs_v1.csv",
+      "rows": 92,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 13,
+      "continuous_numeric_features": 1,
+      "boolean_or_availability_features": 2
+    },
+    {
+      "file": "r4f7a_b_latent_readiness_ceiling_by_year_v1.csv",
+      "rows": 5,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 6,
+      "continuous_numeric_features": 1,
+      "boolean_or_availability_features": 3
+    },
+    {
+      "file": "r4lc4_last_chance_attempt_candidates_v1.csv",
+      "rows": 15,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 3,
+      "continuous_numeric_features": 1,
+      "boolean_or_availability_features": 0
+    },
+    {
+      "file": "r4p7_forecast_horizon_window_scores_v1.csv",
+      "rows": 40,
+      "direct_attempt_join": false,
+      "target_attempt_rows": "",
+      "relevant_columns": 5,
+      "continuous_numeric_features": 1,
+      "boolean_or_availability_features": 1
+    }
+  ],
+  "important_rule": "Availability/usable flags are metadata and may not be used as substitutes for actual numeric thermal or forecast measurements.",
+  "next_phase": "R4F7C2 will construct a deterministic leakage-safe numeric model matrix using only verified continuous weather/thermal features and the frozen 110 observation development+validation universe."
+}

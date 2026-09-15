@@ -1,0 +1,8 @@
+﻿metric,value,status
+derived_attempt_intervals,2,PASS
+mclaughlin_interval_rows,1,PASS
+newgarden_interval_rows,1,PASS
+derived_interval_promoted_as_observed,0,PASS
+exact_attempt_timestamp_invented,0,PASS
+queue_wait_inferred,0,PASS
+canonical_data_mutated,0,PASS

@@ -1,0 +1,7 @@
+model_name,features,pooled_loyo_rows,brier_score,log_loss,roc_auc,prospective_projection_allowed
+ATMOS_THERMAL,"temp_change,rh_change",40,0.281890,0.775325,0.154762,True
+ATMOS_THERMAL_RADIATION,"temp_change,rh_change,shortwave_change",40,0.310829,0.861173,0.172619,True
+ATMOS_THERMAL_WIND,"temp_change,rh_change,wind_change,gust_change",40,0.298741,0.807009,0.270833,True
+ATMOS_COMPACT,"temp_change,rh_change,wind_change,shortwave_change",40,0.361437,0.988744,0.241071,True
+ATMOS_COMPACT_CLOUD,"temp_change,rh_change,wind_change,cloud_change,shortwave_change",40,0.305626,0.838201,0.297619,True
+TRACK_PLUS_ATMOS_DIAGNOSTIC,"track_change,temp_change,rh_change,shortwave_change",39,0.232462,0.677113,0.512987,False

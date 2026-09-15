@@ -1,0 +1,5 @@
+﻿environment_component,source,historical_input,future_simulator_use,leakage_control,realized_future_values_allowed_as_decision_input,ready,notes
+WEATHER_FORECAST,HRRR,hrrr_forecast_availability_policy.csv,DECISION_TIME_AVAILABLE_FORECAST_PLUS_LATENT_WAIT,REQUIRED,False,True,Only forecasts available by the decision time may generate future environment states.
+TRACK_TEMPERATURE,PTSC,performance_grade_attempt_realized_environment.csv,OBSERVED_STATE_WHERE_SUPPORTED;NO_AIR_TO_TRACK_PROXY,REQUIRED,False,True,Observed PTSC track temperature may ground historical state where timing is supported. Do not infer track temperature from air temp.
+RUBBER_GRIP,NONE,rubber_grip_identifiability_2022_v1.csv,UNKNOWN,NOT_APPLICABLE,False,False,No elapsed-time proxy and no reconstructed rubber/grip trajectory.
+TIRE_THERMAL_PRESSURE,NONE,tire_thermal_pressure_identifiability_2022_v1.csv,UNKNOWN,NOT_APPLICABLE,False,False,No attempt-specific historical thermal/pressure state.

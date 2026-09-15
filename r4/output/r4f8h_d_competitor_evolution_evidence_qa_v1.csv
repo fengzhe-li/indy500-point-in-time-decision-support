@@ -1,0 +1,15 @@
+metric,value,expected,status
+f8hc_cutoff_policy_present,True,True,PASS
+f8g_uncertainty_present,True,True,PASS
+f8f_wait_model_present,True,True,PASS
+f8e_action_interface_present,True,True,PASS
+candidate_competitive_fields_found,3559,MEASURED,PASS
+populated_competitive_fields_found,2480,MEASURED,PASS
+leaderboard_candidates_found,24,MEASURED_NOT_ASSUMED_VALID,PASS
+benchmark_candidates_found,154,MEASURED_NOT_ASSUMED_VALID,PASS
+competitor_candidates_found,2,MEASURED_NOT_ASSUMED_VALID,PASS
+throughput_candidates_found,1,MEASURED_NOT_ASSUMED_VALID,PASS
+future_state_candidates_found,7,MEASURED_NOT_ASSUMED_VALID,PASS
+final_monte_carlo_executed,False,False,PASS
+future_outcomes_promoted_to_decision_features,False,False,PASS
+competitor_evolution_fabricated,False,False,PASS

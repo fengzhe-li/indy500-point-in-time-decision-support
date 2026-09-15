@@ -1,0 +1,123 @@
+====================================================================================================
+INDY 500 V2-B SECTION MECHANISM VALIDATION — FINAL FREEZE
+====================================================================================================
+
+STATUS: FROZEN
+
+SCOPE
+----------------------------------------------------------------------------------------------------
+Final physics core transitions: 41
+Transition identities linked: 39/41
+Linked transitions with usable section evidence: 39/39
+Common complete sections per linked transition: 9
+
+PURPOSE
+----------------------------------------------------------------------------------------------------
+Section data are used only as mechanism-validation evidence.
+
+They are NOT treated as independent training observations.
+They do NOT expand the effective sample size.
+They are NOT added as predictors to the production performance model.
+
+CORE FINDING 1 — DIRECTIONAL COHERENCE
+----------------------------------------------------------------------------------------------------
+For all 39 linked transitions:
+mean direction coherence = 0.723647
+median direction coherence = 0.777778
+
+As overall performance-change magnitude increases:
+
+|delta v| >= 0.10 mph:
+mean coherence = 0.781481
+
+|delta v| >= 0.20 mph:
+mean coherence = 0.843434
+
+|delta v| >= 0.50 mph:
+mean coherence = 0.935185
+
+Interpretation:
+Low-coherence cases are concentrated largely among near-zero overall performance changes,
+where section-level sign comparisons become unstable.
+
+Meaningful attempt-level performance changes are usually spatially coherent across the lap.
+
+CORE FINDING 2 — LARGE PHYSICS RESIDUALS
+----------------------------------------------------------------------------------------------------
+Large residuals from the thermal model are frequently associated with high section coherence.
+
+Examples include:
+Jack Harvey: residual 4.617627 mph, coherence 9/9
+Callum Ilott: residual 3.392225 mph, coherence 8/9
+Ben Hanley: residual 1.579455 mph, coherence 8/9
+Colton Herta: residual 1.272254 mph, coherence 8/9
+Max Chilton: residual 1.170208 mph, coherence 9/9
+
+Therefore:
+
+large thermal-model residual
+DOES NOT imply
+localized section anomaly.
+
+The residual term likely includes broad, unobserved performance-state variation.
+
+Potential sources may include tyre preparation, setup, fuel state,
+wind/aerodynamic state, or globally persistent driver-execution effects,
+but these causes are not individually identifiable from the section evidence.
+
+CORE FINDING 3 — MAGNITUDE CONTROL
+----------------------------------------------------------------------------------------------------
+Raw Spearman association with absolute physics residual:
+
+direction coherence:              +0.430869
+section-speed dispersion:         +0.270850
+relative section dispersion:      -0.531781
+max absolute section share:       -0.232186
+
+After controlling for absolute overall speed change:
+
+direction coherence:              -0.010948
+section-speed dispersion:         +0.178387
+relative section dispersion:      -0.198201
+max absolute section share:       -0.130146
+
+Interpretation:
+Much of the apparent relationship between section structure and residual magnitude
+is explained by the magnitude of the overall attempt-level performance change itself.
+
+No strong independent section-pattern predictor of thermal-model residual magnitude
+is supported by the current evidence.
+
+FINAL INTERPRETATION
+----------------------------------------------------------------------------------------------------
+Section-level evidence supports the view that meaningful qualifying-performance changes
+are generally broad and spatially coherent rather than isolated to a small number of
+track sections.
+
+Large unexplained changes from the thermal model are also commonly spatially coherent.
+Therefore, residual performance variation cannot be interpreted primarily as localized
+driver or section anomalies.
+
+Section analysis improves mechanism interpretation but does not justify expanding
+the predictive feature set or effective training sample.
+
+FINAL ROLE IN PROJECT
+----------------------------------------------------------------------------------------------------
+Physics model:
+predicts thermal contribution to attempt-level performance change.
+
+Future-track model:
+projects physical state conditional on future opportunity horizon h.
+
+Section mechanism validation:
+tests whether unexplained attempt-level changes appear spatially coherent or localized.
+
+Section evidence is diagnostic, not predictive.
+
+====================================================================================================
+MANIFEST
+====================================================================================================
+weather/output/v2b_section_mechanism/v2b_freeze_manifest_v1.json
+
+SHA256(manifest):
+7257a7d0eb0b5cdb4a22c5d530e2f7f445e25e0951c8a9a1ce100e3b7cf22171

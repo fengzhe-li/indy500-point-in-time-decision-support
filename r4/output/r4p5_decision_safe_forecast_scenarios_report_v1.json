@@ -1,0 +1,48 @@
+{
+  "phase": "R4P5",
+  "purpose": "Build decision-time-safe HRRR future-weather scenario features for repeat-run decisions.",
+  "availability_guard_minutes": 60,
+  "horizons_minutes": [
+    10,
+    20,
+    30
+  ],
+  "input_transition_rows": 92,
+  "point-time_eligible_transitions": 40,
+  "scenario_rows": 40,
+  "coverage": {
+    "2020": {
+      "rows": 11,
+      "plus10_available": 11,
+      "plus20_available": 11,
+      "plus30_available": 11
+    },
+    "2021": {
+      "rows": 16,
+      "plus10_available": 16,
+      "plus20_available": 16,
+      "plus30_available": 16
+    },
+    "2022": {
+      "rows": 0,
+      "plus10_available": 0,
+      "plus20_available": 0,
+      "plus30_available": 0
+    },
+    "2023": {
+      "rows": 12,
+      "plus10_available": 12,
+      "plus20_available": 12,
+      "plus30_available": 12
+    },
+    "2024": {
+      "rows": 1,
+      "plus10_available": 1,
+      "plus20_available": 1,
+      "plus30_available": 1
+    }
+  },
+  "realized_future_environment_used": false,
+  "model_fitting_performed": false,
+  "important_note": "Future forecast values come from one HRRR cycle already available before the decision point. No after-run realized weather is used."
+}

@@ -1,0 +1,104 @@
+====================================================================================================
+INDY 500 V2-D UNCERTAINTY-SOURCE ABLATION
+====================================================================================================
+
+PURPOSE
+----------------------------------------------------------------------------------------------------
+Quantify how final predictive spread changes when future-track uncertainty, paired coefficient uncertainty, and empirical performance-residual uncertainty are individually enabled or removed.
+
+This is an uncertainty-source ablation / sensitivity analysis, NOT a strict additive variance decomposition.
+
+VARIANTS
+----------------------------------------------------------------------------------------------------
+FULL               track=True  coef=True  residual=True
+TRACK_ONLY         track=True  coef=False  residual=False
+COEFFICIENT_ONLY   track=False  coef=True  residual=False
+RESIDUAL_ONLY      track=False  coef=False  residual=True
+NO_TRACK           track=False  coef=True  residual=True
+NO_COEFFICIENT     track=True  coef=False  residual=True
+NO_RESIDUAL        track=True  coef=True  residual=False
+
+MEAN INTERVAL WIDTHS
+----------------------------------------------------------------------------------------------------
+ horizon_min          variant  n_scenarios  mean_mc_sd_mph  mean_pi80_width_mph  mean_pi90_width_mph
+          15 COEFFICIENT_ONLY          153        0.028688             0.071618             0.092353
+          15             FULL          153        1.040221             1.466721             2.422242
+          15   NO_COEFFICIENT          153        1.038930             1.461980             2.418786
+          15      NO_RESIDUAL          153        0.070742             0.140455             0.208824
+          15         NO_TRACK          153        1.038409             1.464045             2.404599
+          15    RESIDUAL_ONLY          153        1.037718             1.453410             2.376566
+          15       TRACK_ONLY          153        0.050377             0.116486             0.148858
+          30 COEFFICIENT_ONLY          144        0.040631             0.100979             0.130536
+          30             FULL          144        1.046687             1.478780             2.439311
+          30   NO_COEFFICIENT          144        1.043903             1.457287             2.430956
+          30      NO_RESIDUAL          144        0.103465             0.213794             0.312379
+          30         NO_TRACK          144        1.042804             1.467794             2.419478
+          30    RESIDUAL_ONLY          144        1.041306             1.450221             2.394344
+          30       TRACK_ONLY          144        0.074188             0.167695             0.217670
+          60 COEFFICIENT_ONLY          127        0.062874             0.156121             0.201737
+          60             FULL          127        1.052422             1.516102             2.461383
+          60   NO_COEFFICIENT          127        1.046658             1.470371             2.439647
+          60      NO_RESIDUAL          127        0.145929             0.305181             0.449822
+          60         NO_TRACK          127        1.044799             1.474564             2.429835
+          60    RESIDUAL_ONLY          127        1.041486             1.456863             2.382279
+          60       TRACK_ONLY          127        0.102789             0.241044             0.325815
+          90 COEFFICIENT_ONLY          117        0.080771             0.200324             0.258896
+          90             FULL          117        1.053864             1.544836             2.479550
+          90   NO_COEFFICIENT          117        1.044931             1.474428             2.441831
+          90      NO_RESIDUAL          117        0.177335             0.372645             0.536166
+          90         NO_TRACK          117        1.042959             1.477135             2.434107
+          90    RESIDUAL_ONLY          117        1.037636             1.452097             2.379708
+          90       TRACK_ONLY          117        0.122544             0.288155             0.365099
+         120 COEFFICIENT_ONLY          115        0.092895             0.228228             0.296239
+         120             FULL          115        1.056475             1.567739             2.493501
+         120   NO_COEFFICIENT          115        1.045963             1.481007             2.448636
+         120      NO_RESIDUAL          115        0.198568             0.426551             0.606731
+         120         NO_TRACK          115        1.043155             1.477422             2.437840
+         120    RESIDUAL_ONLY          115        1.036863             1.447175             2.368811
+         120       TRACK_ONLY          115        0.137018             0.314869             0.439244
+
+WIDTH REDUCTION RELATIVE TO FULL
+----------------------------------------------------------------------------------------------------
+ horizon_min          variant  pi80_width_reduction_vs_full  pi90_width_reduction_vs_full
+          15 COEFFICIENT_ONLY                      0.951172                      0.961873
+          15             FULL                      0.000000                      0.000000
+          15   NO_COEFFICIENT                      0.003232                      0.001427
+          15      NO_RESIDUAL                      0.904239                      0.913789
+          15         NO_TRACK                      0.001824                      0.007284
+          15    RESIDUAL_ONLY                      0.009075                      0.018857
+          15       TRACK_ONLY                      0.920581                      0.938546
+          30 COEFFICIENT_ONLY                      0.931715                      0.946486
+          30             FULL                      0.000000                      0.000000
+          30   NO_COEFFICIENT                      0.014534                      0.003425
+          30      NO_RESIDUAL                      0.855426                      0.871940
+          30         NO_TRACK                      0.007429                      0.008130
+          30    RESIDUAL_ONLY                      0.019313                      0.018434
+          30       TRACK_ONLY                      0.886599                      0.910766
+          60 COEFFICIENT_ONLY                      0.897025                      0.918039
+          60             FULL                      0.000000                      0.000000
+          60   NO_COEFFICIENT                      0.030164                      0.008831
+          60      NO_RESIDUAL                      0.798707                      0.817248
+          60         NO_TRACK                      0.027398                      0.012817
+          60    RESIDUAL_ONLY                      0.039073                      0.032138
+          60       TRACK_ONLY                      0.841011                      0.867629
+          90 COEFFICIENT_ONLY                      0.870327                      0.895588
+          90             FULL                      0.000000                      0.000000
+          90   NO_COEFFICIENT                      0.045576                      0.015212
+          90      NO_RESIDUAL                      0.758780                      0.783765
+          90         NO_TRACK                      0.043824                      0.018327
+          90    RESIDUAL_ONLY                      0.060031                      0.040266
+          90       TRACK_ONLY                      0.813472                      0.852756
+         120 COEFFICIENT_ONLY                      0.854422                      0.881195
+         120             FULL                      0.000000                      0.000000
+         120   NO_COEFFICIENT                      0.055323                      0.017993
+         120      NO_RESIDUAL                      0.727920                      0.756675
+         120         NO_TRACK                      0.057610                      0.022322
+         120    RESIDUAL_ONLY                      0.076903                      0.050006
+         120       TRACK_ONLY                      0.799157                      0.823845
+
+INTERPRETATION RULE
+----------------------------------------------------------------------------------------------------
+A larger positive width reduction after removing a source indicates that the source materially contributes to final predictive spread under this ablation design.
+Because quantile widths are nonlinear and uncertainty sources interact, reductions must NOT be interpreted as additive percentages summing to 100%.
+
+Single-source variants describe the predictive spread generated when only that uncertainty source is active.

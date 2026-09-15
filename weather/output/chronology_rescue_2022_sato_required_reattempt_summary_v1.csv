@@ -1,0 +1,12 @@
+﻿metric,value
+canonical_identity_verified,1
+first_official_status,Failed Attempt
+official_invalidation_hits,4
+official_required_reattempt_hits,2
+official_first_speed_hits,6
+official_second_speed_hits,5
+direct_qualifying_lane_hits,0
+deceleration_lane_only_hits,2
+existing_chronology_hits,2
+existing_action_hits,0
+promotion_ready,1

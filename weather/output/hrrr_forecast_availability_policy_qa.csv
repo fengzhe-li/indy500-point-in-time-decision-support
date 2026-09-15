@@ -1,0 +1,8 @@
+﻿metric,value,status
+input_snapshots,259,PASS
+canonical_availability_nonnull,0,PASS
+policy_availability_nonnull,259,PASS
+fixed_lag_invariant_rows,259,PASS
+issue_plus_lead_matches_valid_start_rows,259,PASS
+availability_after_valid_start_rows,130,INFO
+primary_lag_minutes,90,POLICY

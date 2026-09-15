@@ -1,0 +1,17 @@
+﻿metric,value,status
+model_matrix_rows_equal_123,1,PASS
+frozen_feature_count_equal_12,1,PASS
+primary_fold_count_equal_3,1,PASS
+sensitivity_fold_count_equal_1,1,PASS
+prediction_rows_match_expected,1,PASS
+fold_metric_rows_match_expected,1,PASS
+each_model_has_116_primary_predictions,1,PASS
+each_model_has_7_sensitivity_predictions,1,PASS
+all_predictions_finite,1,PASS
+all_fold_metrics_finite,1,PASS
+aggregate_model_count_equal_5,1,PASS
+prediction_rows,615,INFO
+fold_metric_rows,20,INFO
+aggregate_best_model,MEAN_BASELINE,INFO
+aggregate_best_primary_mae_mph,1.65416873508633,INFO
+model_policy_hash,599dee972901168e7297d02344e29079cd45fe0f34813db733b15470fcaab806,INFO

@@ -1,0 +1,1950 @@
+
+===== PAGE 1 =====
+Lap      T/S
+Front 
+Stretch 5
+Turn 1 Entry
+Turn 1 Exit
+Turn 2 Entry
+Turn 2 Exit
+Back Stretch 
+1
+Back Stretch 
+2
+Back Stretch 
+3
+Back Stretch 
+4
+Turn 3 Entry
+Turn 3 Exit
+Turn 4 Entry
+Turn 4 Exit
+Front 
+Stretch 1
+Front 
+Stretch 2
+1
+T
+3.3290
+2.2471
+3.3354
+3.3639
+2.1963
+2.7182
+2.5944
+2.5007
+2.4408
+1.9505
+2.9555
+2.9433
+1.9899
+1.4432
+1.4378
+S
+ 202.353
+ 201.775
+ 201.352
+ 199.646
+ 206.442
+ 206.938
+ 216.813
+ 224.937
+ 230.457
+ 232.458
+ 227.234
+ 228.176
+ 227.855
+ 229.131
+ 229.991
+2
+T
+2.9162
+1.9749
+2.9582
+2.9895
+1.9643
+2.4377
+2.3898
+2.3758
+2.3770
+1.9168
+2.9492
+2.9672
+2.0054
+1.4526
+1.4467
+S
+ 230.997
+ 229.586
+ 227.027
+ 224.650
+ 230.825
+ 230.750
+ 235.375
+ 236.762
+ 236.643
+ 236.545
+ 227.720
+ 226.338
+ 226.094
+ 227.648
+ 228.576
+3
+T
+2.9255
+1.9770
+2.9653
+3.0014
+1.9703
+2.4498
+2.3982
+2.3744
+2.3758
+1.9188
+2.9184
+2.9302
+1.9887
+1.4431
+1.4348
+S
+ 230.262
+ 229.342
+ 226.483
+ 223.759
+ 230.122
+ 229.611
+ 234.551
+ 236.902
+ 236.762
+ 236.298
+ 230.123
+ 229.196
+ 227.993
+ 229.147
+ 230.472
+4
+T
+2.9111
+1.9734
+2.9592
+2.9975
+1.9685
+2.4513
+2.4049
+2.3799
+2.3757
+1.9194
+2.9192
+2.9272
+1.9914
+1.4439
+1.4374
+S
+ 231.401
+ 229.760
+ 226.950
+ 224.050
+ 230.332
+ 229.470
+ 233.897
+ 236.354
+ 236.772
+ 236.224
+ 230.060
+ 229.431
+ 227.684
+ 229.020
+ 230.055
+5
+T
+2.9116
+1.9745
+2.9645
+3.0005
+1.9713
+2.4515
+2.4048
+2.3797
+2.3768
+1.9213
+2.9246
+2.9387
+1.9894
+1.4447
+1.4360
+S
+ 231.361
+ 229.632
+ 226.544
+ 223.826
+ 230.005
+ 229.451
+ 233.907
+ 236.374
+ 236.663
+ 235.991
+ 229.635
+ 228.533
+ 227.913
+ 228.893
+ 230.280
+6
+T
+3.0604
+2.3483
+3.6606
+4.0601
+2.7407
+3.3797
+3.2559
+3.4569
+S
+ 220.112
+ 193.080
+ 183.465
+ 165.412
+ 165.436
+ 166.435
+ 172.763
+ 162.718
+Page 1 of 14
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Section Data for Car 5 - O'Ward, Pato
+Indianapolis Motor Speedway
+Section Data Report
+May 17, 2026
+110th Running of the Indianapolis 500
+Event:
+Track:
+Report:
+Qualifications - Firestone Fast 6
+Session:
+NTT INDYCAR SERIES
+2.5 mile(s)
+Round 7
+
+
+===== PAGE 2 =====
+Lap      T/S
+Front 
+Stretch 3
+Front 
+Stretch 4
+Lap
+PO to SF
+SF to PI
+1
+T
+1.9929
+1.9792
+41.4181
+51.0206
+S
+ 229.564
+ 231.153
+ 217.296
+ 156.514
+2
+T
+2.0021
+1.9886
+39.1120
+S
+ 228.509
+ 230.061
+ 230.108
+3
+T
+1.9872
+1.9764
+39.0353
+S
+ 230.223
+ 231.481
+ 230.561
+4
+T
+1.9915
+1.9789
+39.0304
+S
+ 229.726
+ 231.188
+ 230.589
+5
+T
+1.9852
+1.9690
+39.0441
+S
+ 230.455
+ 232.351
+ 230.509
+6
+T
+39.0441
+57.3827
+S
+ 230.509
+ 134.955
+Page 2 of 14
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Section Data for Car 5 - O'Ward, Pato
+Indianapolis Motor Speedway
+Section Data Report
+May 17, 2026
+110th Running of the Indianapolis 500
+Event:
+Track:
+Report:
+Qualifications - Firestone Fast 6
+Session:
+NTT INDYCAR SERIES
+2.5 mile(s)
+Round 7
+
+
+===== PAGE 3 =====
+Lap      T/S
+Front 
+Stretch 5
+Turn 1 Entry
+Turn 1 Exit
+Turn 2 Entry
+Turn 2 Exit
+Back Stretch 
+1
+Back Stretch 
+2
+Back Stretch 
+3
+Back Stretch 
+4
+Turn 3 Entry
+Turn 3 Exit
+Turn 4 Entry
+Turn 4 Exit
+Front 
+Stretch 1
+Front 
+Stretch 2
+1
+T
+3.2353
+2.1862
+3.2595
+3.2826
+2.0924
+2.5557
+2.4638
+2.4129
+2.3857
+1.9231
+2.9104
+2.9295
+1.9782
+1.4407
+1.4320
+S
+ 208.213
+ 207.396
+ 206.041
+ 204.591
+ 216.693
+ 220.096
+ 228.306
+ 233.122
+ 235.780
+ 235.770
+ 230.755
+ 229.251
+ 229.203
+ 229.528
+ 230.923
+2
+T
+2.8847
+1.9527
+2.9235
+2.9628
+1.9422
+2.4249
+2.3845
+2.3568
+2.3414
+1.8980
+2.8890
+2.9127
+1.9717
+1.4375
+1.4297
+S
+ 233.519
+ 232.196
+ 229.721
+ 226.674
+ 233.451
+ 231.968
+ 235.899
+ 238.671
+ 240.241
+ 238.888
+ 232.465
+ 230.573
+ 229.959
+ 230.039
+ 231.294
+3
+T
+2.8844
+1.9540
+2.9262
+2.9682
+1.9496
+2.4347
+2.3912
+2.3612
+2.3448
+1.9038
+2.8987
+2.9217
+1.9771
+1.4415
+1.4324
+S
+ 233.543
+ 232.042
+ 229.510
+ 226.262
+ 232.565
+ 231.035
+ 235.238
+ 238.226
+ 239.893
+ 238.160
+ 231.687
+ 229.863
+ 229.330
+ 229.401
+ 230.858
+4
+T
+2.8865
+1.9526
+2.9310
+2.9735
+1.9544
+2.4375
+2.3941
+2.3708
+2.3555
+1.9064
+2.9020
+2.9273
+1.9824
+1.4452
+1.4361
+S
+ 233.373
+ 232.208
+ 229.134
+ 225.859
+ 231.994
+ 230.769
+ 234.953
+ 237.262
+ 238.803
+ 237.835
+ 231.423
+ 229.423
+ 228.717
+ 228.814
+ 230.264
+5
+T
+2.9014
+1.9642
+2.9381
+2.9702
+1.9475
+2.4290
+2.3865
+2.3612
+2.3474
+1.9054
+2.9039
+2.9252
+1.9827
+1.4455
+1.4368
+S
+ 232.175
+ 230.837
+ 228.580
+ 226.110
+ 232.816
+ 231.577
+ 235.701
+ 238.226
+ 239.627
+ 237.960
+ 231.272
+ 229.588
+ 228.683
+ 228.766
+ 230.151
+6
+T
+3.0045
+2.3106
+3.9124
+4.0588
+2.6347
+3.2454
+3.2044
+3.3162
+S
+ 224.208
+ 196.230
+ 171.657
+ 165.465
+ 172.091
+ 173.322
+ 175.540
+ 169.622
+Page 3 of 14
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Section Data for Car 10 - Palou, Alex
+Indianapolis Motor Speedway
+Section Data Report
+May 17, 2026
+110th Running of the Indianapolis 500
+Event:
+Track:
+Report:
+Qualifications - Firestone Fast 6
+Session:
+NTT INDYCAR SERIES
+2.5 mile(s)
+Round 7
+
+
+===== PAGE 4 =====
+Lap      T/S
+Front 
+Stretch 3
+Front 
+Stretch 4
+Lap
+PO to SF
+SF to PI
+1
+T
+1.9798
+1.9642
+40.4320
+48.8853
+S
+ 231.083
+ 232.919
+ 222.596
+ 163.351
+2
+T
+1.9768
+1.9629
+38.6518
+S
+ 231.434
+ 233.073
+ 232.848
+3
+T
+1.9796
+1.9660
+38.7351
+S
+ 231.107
+ 232.705
+ 232.347
+4
+T
+1.9860
+1.9777
+38.8190
+S
+ 230.362
+ 231.329
+ 231.845
+5
+T
+1.9849
+1.9708
+38.8007
+S
+ 230.490
+ 232.139
+ 231.955
+6
+T
+38.8007
+51.3940
+S
+ 231.955
+ 150.680
+Page 4 of 14
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Section Data for Car 10 - Palou, Alex
+Indianapolis Motor Speedway
+Section Data Report
+May 17, 2026
+110th Running of the Indianapolis 500
+Event:
+Track:
+Report:
+Qualifications - Firestone Fast 6
+Session:
+NTT INDYCAR SERIES
+2.5 mile(s)
+Round 7
+
+
+===== PAGE 5 =====
+Lap      T/S
+Front 
+Stretch 5
+Turn 1 Entry
+Turn 1 Exit
+Turn 2 Entry
+Turn 2 Exit
+Back Stretch 
+1
+Back Stretch 
+2
+Back Stretch 
+3
+Back Stretch 
+4
+Turn 3 Entry
+Turn 3 Exit
+Turn 4 Entry
+Turn 4 Exit
+Front 
+Stretch 1
+Front 
+Stretch 2
+1
+T
+3.3581
+2.2674
+3.3634
+3.3953
+2.2047
+2.6956
+2.5540
+2.4763
+2.4258
+1.9568
+2.9413
+2.9453
+1.9860
+1.4482
+1.4409
+S
+ 200.599
+ 199.969
+ 199.676
+ 197.800
+ 205.656
+ 208.673
+ 220.243
+ 227.153
+ 231.882
+ 231.710
+ 228.331
+ 228.021
+ 228.303
+ 228.340
+ 229.497
+2
+T
+2.9175
+1.9752
+2.9340
+2.9669
+1.9420
+2.4089
+2.3670
+2.3584
+2.3568
+1.9079
+2.8998
+2.9315
+1.9895
+1.4495
+1.4431
+S
+ 230.894
+ 229.551
+ 228.899
+ 226.361
+ 233.475
+ 233.509
+ 237.643
+ 238.509
+ 238.671
+ 237.648
+ 231.599
+ 229.095
+ 227.901
+ 228.135
+ 229.147
+3
+T
+2.9163
+1.9729
+2.9332
+2.9620
+1.9414
+2.4109
+2.3654
+2.3547
+2.3578
+1.9084
+2.8966
+2.9212
+1.9861
+1.4519
+1.4449
+S
+ 230.989
+ 229.819
+ 228.962
+ 226.736
+ 233.548
+ 233.315
+ 237.803
+ 238.884
+ 238.570
+ 237.586
+ 231.855
+ 229.902
+ 228.291
+ 227.758
+ 228.861
+4
+T
+2.9168
+1.9775
+2.9368
+2.9708
+1.9499
+2.4222
+2.3684
+2.3546
+2.3557
+1.9062
+2.8979
+2.9226
+1.9869
+1.4468
+1.4386
+S
+ 230.949
+ 229.284
+ 228.681
+ 226.064
+ 232.529
+ 232.227
+ 237.502
+ 238.894
+ 238.783
+ 237.860
+ 231.751
+ 229.792
+ 228.199
+ 228.561
+ 229.863
+5
+T
+2.9194
+1.9758
+2.9370
+2.9695
+1.9451
+2.4167
+2.3689
+2.3546
+2.3561
+1.9085
+2.8919
+2.9037
+1.9720
+1.4448
+1.4397
+S
+ 230.743
+ 229.481
+ 228.666
+ 226.163
+ 233.103
+ 232.755
+ 237.452
+ 238.894
+ 238.742
+ 237.574
+ 232.232
+ 231.288
+ 229.924
+ 228.877
+ 229.688
+6
+T
+3.1433
+2.4250
+3.8984
+3.9879
+2.5822
+3.1422
+3.1631
+3.5256
+S
+ 214.307
+ 186.973
+ 172.273
+ 168.407
+ 175.590
+ 179.015
+ 177.832
+ 159.547
+Page 5 of 14
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Section Data for Car 12 - Malukas, David
+Indianapolis Motor Speedway
+Section Data Report
+May 17, 2026
+110th Running of the Indianapolis 500
+Event:
+Track:
+Report:
+Qualifications - Firestone Fast 6
+Session:
+NTT INDYCAR SERIES
+2.5 mile(s)
+Round 7
+
+
+===== PAGE 6 =====
+Lap      T/S
+Front 
+Stretch 3
+Front 
+Stretch 4
+Lap
+PO to SF
+SF to PI
+1
+T
+1.9959
+1.9858
+41.4408
+49.3281
+S
+ 229.219
+ 230.385
+ 217.177
+ 161.884
+2
+T
+2.0020
+1.9887
+38.8387
+S
+ 228.521
+ 230.049
+ 231.728
+3
+T
+1.9976
+1.9823
+38.8036
+S
+ 229.024
+ 230.792
+ 231.937
+4
+T
+1.9940
+1.9860
+38.8317
+S
+ 229.438
+ 230.362
+ 231.769
+5
+T
+1.9941
+1.9831
+38.7809
+S
+ 229.426
+ 230.699
+ 232.073
+6
+T
+38.7809
+66.3886
+S
+ 232.073
+ 116.648
+Page 6 of 14
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Section Data for Car 12 - Malukas, David
+Indianapolis Motor Speedway
+Section Data Report
+May 17, 2026
+110th Running of the Indianapolis 500
+Event:
+Track:
+Report:
+Qualifications - Firestone Fast 6
+Session:
+NTT INDYCAR SERIES
+2.5 mile(s)
+Round 7
+
+
+===== PAGE 7 =====
+Lap      T/S
+Front 
+Stretch 5
+Turn 1 Entry
+Turn 1 Exit
+Turn 2 Entry
+Turn 2 Exit
+Back Stretch 
+1
+Back Stretch 
+2
+Back Stretch 
+3
+Back Stretch 
+4
+Turn 3 Entry
+Turn 3 Exit
+Turn 4 Entry
+Turn 4 Exit
+Front 
+Stretch 1
+Front 
+Stretch 2
+1
+T
+3.4260
+2.3189
+3.4349
+3.4651
+2.1875
+2.6403
+2.5304
+2.4661
+2.4228
+1.9427
+2.9323
+2.9347
+1.9801
+1.4411
+1.4338
+S
+ 196.623
+ 195.528
+ 195.520
+ 193.816
+ 207.273
+ 213.044
+ 222.297
+ 228.093
+ 232.169
+ 233.391
+ 229.032
+ 228.845
+ 228.983
+ 229.465
+ 230.633
+2
+T
+2.9142
+1.9807
+2.9491
+2.9750
+1.9511
+2.4342
+2.3951
+2.3697
+2.3587
+1.9145
+2.9122
+2.9343
+1.9857
+1.4449
+1.4376
+S
+ 231.155
+ 228.914
+ 227.727
+ 225.745
+ 232.386
+ 231.082
+ 234.854
+ 237.372
+ 238.479
+ 236.829
+ 230.613
+ 228.876
+ 228.337
+ 228.861
+ 230.023
+3
+T
+2.9282
+1.9873
+2.9545
+2.9813
+1.9581
+2.4423
+2.3973
+2.3665
+2.3594
+1.9177
+2.9153
+2.9395
+1.9911
+1.4481
+1.4422
+S
+ 230.050
+ 228.153
+ 227.311
+ 225.268
+ 231.556
+ 230.316
+ 234.639
+ 237.693
+ 238.408
+ 236.434
+ 230.368
+ 228.471
+ 227.718
+ 228.356
+ 229.290
+4
+T
+2.9311
+1.9791
+2.9458
+2.9865
+1.9625
+2.4523
+2.4070
+2.3742
+2.3600
+1.9153
+2.9104
+2.9371
+1.9920
+1.4502
+1.4430
+S
+ 229.822
+ 229.099
+ 227.982
+ 224.876
+ 231.037
+ 229.377
+ 233.693
+ 236.922
+ 238.347
+ 236.730
+ 230.755
+ 228.658
+ 227.615
+ 228.025
+ 229.163
+5
+T
+2.9318
+1.9779
+2.9400
+2.9763
+1.9581
+2.4383
+2.3939
+2.3650
+2.3594
+1.9203
+2.9228
+2.9353
+1.9794
+1.4471
+1.4420
+S
+ 229.767
+ 229.238
+ 228.432
+ 225.646
+ 231.556
+ 230.694
+ 234.972
+ 237.844
+ 238.408
+ 236.114
+ 229.777
+ 228.798
+ 229.064
+ 228.513
+ 229.321
+6
+T
+3.1250
+2.3580
+3.6120
+3.7924
+2.5240
+3.1646
+3.2844
+3.7194
+S
+ 215.562
+ 192.285
+ 185.933
+ 177.089
+ 179.639
+ 177.748
+ 171.264
+ 151.234
+Page 7 of 14
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Section Data for Car 14 - Ferrucci, Santino
+Indianapolis Motor Speedway
+Section Data Report
+May 17, 2026
+110th Running of the Indianapolis 500
+Event:
+Track:
+Report:
+Qualifications - Firestone Fast 6
+Session:
+NTT INDYCAR SERIES
+2.5 mile(s)
+Round 7
+
+
+===== PAGE 8 =====
+Lap      T/S
+Front 
+Stretch 3
+Front 
+Stretch 4
+Lap
+PO to SF
+SF to PI
+1
+T
+1.9853
+1.9765
+41.5185
+49.3523
+S
+ 230.443
+ 231.469
+ 216.771
+ 161.805
+2
+T
+1.9922
+1.9834
+38.9326
+S
+ 229.645
+ 230.664
+ 231.169
+3
+T
+1.9962
+1.9864
+39.0114
+S
+ 229.185
+ 230.316
+ 230.702
+4
+T
+1.9987
+1.9867
+39.0319
+S
+ 228.898
+ 230.281
+ 230.581
+5
+T
+1.9969
+1.9878
+38.9723
+S
+ 229.105
+ 230.153
+ 230.933
+6
+T
+38.9723
+55.0851
+S
+ 230.933
+ 140.584
+Page 8 of 14
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Section Data for Car 14 - Ferrucci, Santino
+Indianapolis Motor Speedway
+Section Data Report
+May 17, 2026
+110th Running of the Indianapolis 500
+Event:
+Track:
+Report:
+Qualifications - Firestone Fast 6
+Session:
+NTT INDYCAR SERIES
+2.5 mile(s)
+Round 7
+
+
+===== PAGE 9 =====
+Lap      T/S
+Front 
+Stretch 5
+Turn 1 Entry
+Turn 1 Exit
+Turn 2 Entry
+Turn 2 Exit
+Back Stretch 
+1
+Back Stretch 
+2
+Back Stretch 
+3
+Back Stretch 
+4
+Turn 3 Entry
+Turn 3 Exit
+Turn 4 Entry
+Turn 4 Exit
+Front 
+Stretch 1
+Front 
+Stretch 2
+1
+T
+3.4346
+2.3123
+3.4328
+3.4658
+2.2573
+2.7513
+2.5930
+2.4953
+2.4359
+1.9441
+2.9262
+2.9045
+1.9617
+1.4304
+1.4260
+S
+ 196.131
+ 196.086
+ 195.639
+ 193.777
+ 200.864
+ 204.449
+ 216.930
+ 225.424
+ 230.921
+ 233.223
+ 229.510
+ 231.224
+ 231.131
+ 231.181
+ 231.895
+2
+T
+2.8840
+1.9590
+2.9280
+2.9687
+1.9479
+2.4311
+2.3896
+2.3648
+2.3588
+1.9084
+2.9003
+2.8974
+1.9644
+1.4341
+1.4269
+S
+ 233.576
+ 231.449
+ 229.368
+ 226.224
+ 232.768
+ 231.377
+ 235.395
+ 237.864
+ 238.469
+ 237.586
+ 231.559
+ 231.791
+ 230.813
+ 230.585
+ 231.748
+3
+T
+2.8899
+1.9646
+2.9492
+2.9843
+1.9577
+2.4391
+2.3919
+2.3667
+2.3612
+1.9153
+2.9082
+2.9060
+1.9635
+1.4303
+1.4253
+S
+ 233.099
+ 230.790
+ 227.720
+ 225.041
+ 231.603
+ 230.618
+ 235.169
+ 237.673
+ 238.226
+ 236.730
+ 230.930
+ 231.105
+ 230.919
+ 231.197
+ 232.008
+4
+T
+2.8895
+1.9628
+2.9469
+2.9845
+1.9612
+2.4467
+2.3994
+2.3681
+2.3635
+1.9162
+2.9096
+2.9063
+1.9732
+1.4393
+1.4306
+S
+ 233.131
+ 231.001
+ 227.897
+ 225.026
+ 231.190
+ 229.901
+ 234.434
+ 237.532
+ 237.994
+ 236.619
+ 230.819
+ 231.081
+ 229.784
+ 229.752
+ 231.149
+5
+T
+2.8969
+1.9681
+2.9477
+2.9915
+1.9626
+2.4492
+2.4007
+2.3766
+2.3693
+1.9132
+2.9002
+2.8981
+1.9712
+1.4366
+1.4286
+S
+ 232.535
+ 230.379
+ 227.836
+ 224.500
+ 231.025
+ 229.667
+ 234.307
+ 236.683
+ 237.412
+ 236.990
+ 231.567
+ 231.735
+ 230.017
+ 230.183
+ 231.472
+6
+T
+3.1003
+2.3714
+3.6239
+3.7197
+2.4813
+3.0500
+3.0034
+3.1798
+S
+ 217.280
+ 191.199
+ 185.323
+ 180.550
+ 182.731
+ 184.426
+ 187.288
+ 176.898
+Page 9 of 14
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Section Data for Car 20 - Rossi, Alexander
+Indianapolis Motor Speedway
+Section Data Report
+May 17, 2026
+110th Running of the Indianapolis 500
+Event:
+Track:
+Report:
+Qualifications - Firestone Fast 6
+Session:
+NTT INDYCAR SERIES
+2.5 mile(s)
+Round 7
+
+
+===== PAGE 10 =====
+Lap      T/S
+Front 
+Stretch 3
+Front 
+Stretch 4
+Lap
+PO to SF
+SF to PI
+1
+T
+1.9746
+1.9607
+41.7065
+49.9549
+S
+ 231.692
+ 233.334
+ 215.794
+ 159.853
+2
+T
+1.9747
+1.9603
+38.6984
+S
+ 231.680
+ 233.382
+ 232.568
+3
+T
+1.9737
+1.9598
+38.7867
+S
+ 231.798
+ 233.442
+ 232.038
+4
+T
+1.9789
+1.9649
+38.8416
+S
+ 231.188
+ 232.836
+ 231.710
+5
+T
+1.9764
+1.9656
+38.8525
+S
+ 231.481
+ 232.753
+ 231.645
+6
+T
+38.8525
+54.5153
+S
+ 231.645
+ 142.053
+Page 10 of 14
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Section Data for Car 20 - Rossi, Alexander
+Indianapolis Motor Speedway
+Section Data Report
+May 17, 2026
+110th Running of the Indianapolis 500
+Event:
+Track:
+Report:
+Qualifications - Firestone Fast 6
+Session:
+NTT INDYCAR SERIES
+2.5 mile(s)
+Round 7
+
+
+===== PAGE 11 =====
+Lap      T/S
+Front 
+Stretch 5
+Turn 1 Entry
+Turn 1 Exit
+Turn 2 Entry
+Turn 2 Exit
+Back Stretch 
+1
+Back Stretch 
+2
+Back Stretch 
+3
+Back Stretch 
+4
+Turn 3 Entry
+Turn 3 Exit
+Turn 4 Entry
+Turn 4 Exit
+Front 
+Stretch 1
+Front 
+Stretch 2
+1
+T
+3.2438
+2.1941
+3.2590
+3.2988
+2.1309
+2.5915
+2.4994
+2.4419
+2.4083
+1.9392
+2.9307
+2.9403
+1.9836
+1.4415
+1.4339
+S
+ 207.668
+ 206.649
+ 206.073
+ 203.586
+ 212.778
+ 217.056
+ 225.054
+ 230.353
+ 233.567
+ 233.813
+ 229.157
+ 228.409
+ 228.579
+ 229.401
+ 230.617
+2
+T
+2.8988
+1.9627
+2.9265
+2.9725
+1.9484
+2.4287
+2.3937
+2.3724
+2.3560
+1.9082
+2.9066
+2.9330
+1.9840
+1.4439
+1.4363
+S
+ 232.383
+ 231.013
+ 229.486
+ 225.935
+ 232.708
+ 231.605
+ 234.992
+ 237.102
+ 238.752
+ 237.611
+ 231.057
+ 228.977
+ 228.533
+ 229.020
+ 230.232
+3
+T
+2.9005
+1.9654
+2.9386
+2.9797
+1.9548
+2.4381
+2.3992
+2.3787
+2.3628
+1.9105
+2.9124
+2.9361
+1.9817
+1.4435
+1.4344
+S
+ 232.247
+ 230.696
+ 228.541
+ 225.389
+ 231.947
+ 230.712
+ 234.453
+ 236.474
+ 238.065
+ 237.325
+ 230.597
+ 228.736
+ 228.798
+ 229.083
+ 230.537
+4
+T
+2.8977
+1.9623
+2.9348
+2.9820
+1.9593
+2.4422
+2.3992
+2.3745
+2.3595
+1.9126
+2.9177
+2.9436
+1.9874
+1.4449
+1.4372
+S
+ 232.471
+ 231.060
+ 228.837
+ 225.215
+ 231.414
+ 230.325
+ 234.453
+ 236.892
+ 238.398
+ 237.064
+ 230.178
+ 228.153
+ 228.142
+ 228.861
+ 230.087
+5
+T
+2.9031
+1.9683
+2.9407
+2.9861
+1.9645
+2.4446
+2.3962
+2.3667
+2.3524
+1.9069
+2.9094
+2.9412
+1.9893
+1.4485
+1.4417
+S
+ 232.039
+ 230.356
+ 228.378
+ 224.906
+ 230.801
+ 230.099
+ 234.747
+ 237.673
+ 239.117
+ 237.773
+ 230.835
+ 228.339
+ 227.924
+ 228.292
+ 229.369
+6
+T
+3.2302
+2.5609
+4.1205
+4.6819
+3.2539
+4.1671
+4.3823
+5.0254
+S
+ 208.542
+ 177.051
+ 162.988
+ 143.444
+ 139.343
+ 134.986
+ 128.357
+ 111.931
+Page 11 of 14
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Section Data for Car 60 - Rosenqvist, Felix
+Indianapolis Motor Speedway
+Section Data Report
+May 17, 2026
+110th Running of the Indianapolis 500
+Event:
+Track:
+Report:
+Qualifications - Firestone Fast 6
+Session:
+NTT INDYCAR SERIES
+2.5 mile(s)
+Round 7
+
+
+===== PAGE 12 =====
+Lap      T/S
+Front 
+Stretch 3
+Front 
+Stretch 4
+Lap
+PO to SF
+SF to PI
+1
+T
+1.9844
+1.9730
+40.6943
+47.5354
+S
+ 230.548
+ 231.880
+ 221.161
+ 167.989
+2
+T
+1.9868
+1.9739
+38.8324
+S
+ 230.269
+ 231.774
+ 231.765
+3
+T
+1.9866
+1.9751
+38.8981
+S
+ 230.292
+ 231.633
+ 231.374
+4
+T
+1.9908
+1.9785
+38.9242
+S
+ 229.807
+ 231.235
+ 231.219
+5
+T
+1.9955
+1.9816
+38.9367
+S
+ 229.265
+ 230.873
+ 231.144
+6
+T
+38.9367
+73.9787
+S
+ 231.144
+ 104.680
+Page 12 of 14
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Section Data for Car 60 - Rosenqvist, Felix
+Indianapolis Motor Speedway
+Section Data Report
+May 17, 2026
+110th Running of the Indianapolis 500
+Event:
+Track:
+Report:
+Qualifications - Firestone Fast 6
+Session:
+NTT INDYCAR SERIES
+2.5 mile(s)
+Round 7
+
+
+===== PAGE 13 =====
+Name
+Length
+S1
+0.187120 miles
+S21
+0.125947 miles
+S22
+0.186553 miles
+S23
+0.186553 miles
+S24
+0.125947 miles
+S31
+0.156250 miles
+S32
+0.156250 miles
+S33
+0.156250 miles
+S34
+0.156250 miles
+S41
+0.125947 miles
+S42
+0.186553 miles
+S43
+0.186553 miles
+S44
+0.125947 miles
+S51
+0.091856 miles
+S52
+0.091856 miles
+S53
+0.127083 miles
+S54
+0.127083 miles
+S2B
+0.312499 miles
+S4B
+0.312499 miles
+L4
+2.151130 miles
+L1
+2.500000 miles
+L2
+0.441951 miles
+L3
+2.218180 miles
+Report Support Information
+Fastest Lap
+Color Legend
+Section Under Caution
+Section Under Green
+Section Time Data
+T
+Section Speed Data
+S
+Section Legend
+Track Map
+Page 13 of 14
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Section Data for Car 
+Indianapolis Motor Speedway
+Section Data Report
+May 17, 2026
+110th Running of the Indianapolis 500
+Event:
+Track:
+Report:
+Qualifications - Firestone Fast 6
+Session:
+NTT INDYCAR SERIES
+2.5 mile(s)
+Round 7
+
+
+===== PAGE 14 =====
+L5
+0.686553 miles
+L6
+0.870265 miles
+L7
+1.869320 miles
+S2
+0.624998 miles
+S2A
+0.312499 miles
+S3
+0.624998 miles
+S3A
+0.312499 miles
+S3B
+0.312499 miles
+S4
+0.624998 miles
+S4A
+0.312499 miles
+S5
+0.437877 miles
+S5A
+0.183711 miles
+S5B
+0.254165 miles
+Page 14 of 14
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Section Data for Car 
+Indianapolis Motor Speedway
+Section Data Report
+May 17, 2026
+110th Running of the Indianapolis 500
+Event:
+Track:
+Report:
+Qualifications - Firestone Fast 6
+Session:
+NTT INDYCAR SERIES
+2.5 mile(s)
+Round 7

@@ -1,0 +1,12 @@
+﻿metric,value,status
+seed_urls_total,10,INFO
+successful_fetches,10,PASS
+failed_fetches,0,INFO
+years_with_successful_official_fetch,"2020,2021,2022,2023,2024",PASS
+local_candidate_files,70,INFO
+discovered_resource_candidates,577,PASS
+official_host_candidates,533,INFO
+high_priority_candidates_score_ge_10,125,INFO
+structured_or_timing_candidates,34,INFO
+canonical_data_mutated,0,PASS
+policy_hash,b5d972027ae87cb126368194ab8df0bae625e2dde5a0403b46830dcc47f02b1e,INFO

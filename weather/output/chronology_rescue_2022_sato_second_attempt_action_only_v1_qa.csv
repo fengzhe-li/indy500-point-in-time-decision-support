@@ -1,0 +1,9 @@
+﻿metric,value,status
+first_attempt_already_present,2,PASS
+second_attempt_added_once,1,PASS
+chronology_unique_gain_one,1,PASS
+action_gain_one,1,PASS
+sato_repeat_now_covered,1,PASS
+lane_count_unchanged,0,PASS
+canonical_mutated,0,PASS
+phase5_to_phase8_mutated,0,PASS

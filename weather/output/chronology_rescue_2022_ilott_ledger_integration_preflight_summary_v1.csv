@@ -1,0 +1,10 @@
+﻿metric,value
+canonical_identity_verified,1
+chronology_v4_rows,155
+action_v2_rows,2
+chronology_relevant_fields_detected,10
+action_relevant_fields_detected,9
+existing_chronology_ilott_hits,0
+existing_action_ilott_hits,0
+duplicate_free_for_new_integration,1
+recommended_next_stage,INTEGRATE_ILOTT_TO_CHRONOLOGY_V5_AND_ACTION_V3

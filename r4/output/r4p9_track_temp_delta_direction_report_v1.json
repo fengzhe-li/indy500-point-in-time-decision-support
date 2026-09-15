@@ -1,0 +1,46 @@
+{
+  "phase": "R4P9",
+  "purpose": "Model future track-temperature change and cooling probability rather than absolute future track temperature.",
+  "input_rows": 312,
+  "ml_complete_rows": 292,
+  "horizons_minutes": [
+    15,
+    30
+  ],
+  "best_delta_regression": {
+    "15": {
+      "model": "RIDGE_DELTA",
+      "mae_delta_c": 1.0513564388243781,
+      "rmse_delta_c": 1.4137420780754886,
+      "direction_accuracy": 0.6241610738255033
+    },
+    "30": {
+      "model": "RIDGE_DELTA",
+      "mae_delta_c": 1.7212466848811523,
+      "rmse_delta_c": 2.2075691560023407,
+      "direction_accuracy": 0.7272727272727273
+    }
+  },
+  "best_direction_classifier": {
+    "15": {
+      "model": "CURRENT_15M_SLOPE_SIGN",
+      "brier_score": 0.1799496644295302,
+      "accuracy": 0.7181208053691275,
+      "balanced_accuracy": 0.7034526854219949,
+      "roc_auc": 0.7187979539641944
+    },
+    "30": {
+      "model": "LOGISTIC_DIRECTION",
+      "brier_score": 0.13717864155623827,
+      "accuracy": 0.7972027972027972,
+      "balanced_accuracy": 0.7262461059190031,
+      "roc_auc": 0.8522845275181724
+    }
+  },
+  "important_semantics": {
+    "regression_target": "future_track_c - current_track_c",
+    "classification_target": "P(future_track_c < current_track_c)",
+    "decision_use": "Track thermal state input for future qualifying-window evaluation.",
+    "final_strategy_probability": false
+  }
+}

@@ -1,0 +1,6 @@
+year,strict_rows,current_observed_ready,current_forecast_ready,ceiling_if_reference_complete,forecast_ceiling_if_reference_complete,increment_if_reference_complete,ceiling_if_point_time_complete,increment_if_point_time_complete,ceiling_if_ptsc_complete,increment_if_ptsc_complete,ceiling_if_env_alignment_complete,increment_if_env_alignment_complete,only_reference_missing,only_point_time_missing,only_ptsc_missing,only_env_alignment_missing,only_hrrr_missing
+2020,46,0,0,39,39,39,0,0,0,0,0,0,39,0,0,0,0
+2021,51,3,3,48,48,45,3,0,3,0,3,0,45,0,0,0,0
+2022,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023,39,17,17,17,17,0,17,0,17,0,17,0,0,0,0,0,0
+2024,36,6,6,6,6,0,6,0,6,0,6,0,0,0,0,0,0

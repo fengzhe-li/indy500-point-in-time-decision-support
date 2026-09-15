@@ -1,0 +1,14 @@
+﻿metric,value
+chronology_rows_before,160
+chronology_rows_after,162
+action_rows_before,5
+action_rows_after,6
+2022_chronology_before,17
+2022_chronology_after,19
+coverage_before_pct,38.64
+coverage_after_pct,43.18
+repeat_coverage_before,6/8
+repeat_coverage_after,7/8
+newly_covered,David Malukas
+lane_rows_before,1
+lane_rows_after,1

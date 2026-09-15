@@ -1,0 +1,9 @@
+﻿driver_name,decision_relevant,pair_attempt_count,covered_attempt_count,fully_covered,attempt_ids,covered_attempt_ids,missing_attempt_ids
+Alexander Rossi,True,2,2,True,1e2facfd-2c67-5b5a-9556-04ef28eeb0d8|b3147013-0fda-5982-bea1-85788019ef89,1e2facfd-2c67-5b5a-9556-04ef28eeb0d8|b3147013-0fda-5982-bea1-85788019ef89,
+Callum Ilott,True,2,2,True,3cd6d98a-da75-5822-8dae-05e83ad8457c|8fa25fec-e5a6-5844-b3d7-f67c9dc91378,3cd6d98a-da75-5822-8dae-05e83ad8457c|8fa25fec-e5a6-5844-b3d7-f67c9dc91378,
+David Malukas,True,2,2,True,619575d3-e7eb-5cce-886f-0a8485b98eba|85c917fa-1c7a-52cb-a47f-468b4bdae9a5,619575d3-e7eb-5cce-886f-0a8485b98eba|85c917fa-1c7a-52cb-a47f-468b4bdae9a5,
+Helio Castroneves,True,2,2,True,01896a4f-c482-5093-a806-89bc4273641d|90eea27e-6e83-5e24-8428-811eae3ff157,01896a4f-c482-5093-a806-89bc4273641d|90eea27e-6e83-5e24-8428-811eae3ff157,
+Marco Andretti,True,2,2,True,63982b5e-7639-5140-a6a2-702a77c2fc85|c044edbc-0f6c-5aab-bdef-9c4156b50617,63982b5e-7639-5140-a6a2-702a77c2fc85|c044edbc-0f6c-5aab-bdef-9c4156b50617,
+Sage Karam,True,2,2,True,2c453335-3a19-5653-8d5c-79d94db93028|8e0c8731-4ddc-515a-949e-7902dd01eaeb,2c453335-3a19-5653-8d5c-79d94db93028|8e0c8731-4ddc-515a-949e-7902dd01eaeb,
+Scott McLaughlin,True,2,2,True,43d9c081-67f5-5d6f-8b48-9db0ac683a6c|d2ae8749-6312-5afd-b193-dd23dc071124,43d9c081-67f5-5d6f-8b48-9db0ac683a6c|d2ae8749-6312-5afd-b193-dd23dc071124,
+Takuma Sato,True,2,2,True,21e8c99e-b04c-516d-85a8-ccfbaed7ff46|3f221659-74ff-5901-97dc-08071a734690,21e8c99e-b04c-516d-85a8-ccfbaed7ff46|3f221659-74ff-5901-97dc-08071a734690,

@@ -1,0 +1,6 @@
+check,value,expected,status
+explicit thermal dependence,delta_track_temp_c,track term,PASS
+Fast Friday absent primary,False,False,PASS
+LOYO coverage,3,3,PASS
+finite final coefficients,True,True,PASS
+sample-to-feature ratio,27.0,>=4 preferred,PASS

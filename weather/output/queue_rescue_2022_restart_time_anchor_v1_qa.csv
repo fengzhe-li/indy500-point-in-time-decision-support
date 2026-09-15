@@ -1,0 +1,12 @@
+﻿metric,value,status
+queue_ledger_present,1,PASS
+queue_ledger_row_count,5,PASS
+files_scanned,83,PASS
+priority_time_anchor_rows,0,REVIEW
+exact_queue_wait_inferred,0,PASS
+bounded_queue_wait_inferred,0,PASS
+inter_attempt_gap_used_as_queue_wait,0,PASS
+chronology_mutation,0,PASS
+action_lane_mutation,0,PASS
+decision_state_mutation,0,PASS
+queue_ledger_mutation,0,PASS

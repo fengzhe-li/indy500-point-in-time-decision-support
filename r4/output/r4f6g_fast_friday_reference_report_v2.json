@@ -1,0 +1,38 @@
+{
+  "phase": "R4F6G_V2",
+  "status": "R4F6G_V2_ENTRY_IDENTITY_CORRECTED",
+  "critical_correction": "Car numbers are no longer integer-normalized. Entries #6 and #06 remain distinct. Canonical identity is year + normalized driver name.",
+  "supersedes": "r4f6g_canonical_fast_friday_reference_panel_v1.csv",
+  "reference_hierarchy": [
+    "FOUR_LAP_QUALIFYING_SIM",
+    "NO_TOW_SINGLE_LAP",
+    "GENERAL_FAST_FRIDAY_BEST_SPEED"
+  ],
+  "summary": [
+    {
+      "year": 2021,
+      "canonical_entries": 3,
+      "four_lap": 0,
+      "no_tow": 3,
+      "general": 0,
+      "model_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2023,
+      "canonical_entries": 34,
+      "four_lap": 4,
+      "no_tow": 0,
+      "general": 30,
+      "model_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2024,
+      "canonical_entries": 34,
+      "four_lap": 6,
+      "no_tow": 0,
+      "general": 28,
+      "model_role": "VALIDATION_ONLY"
+    }
+  ],
+  "next_phase": "Join corrected canonical Fast Friday references to qualifying attempts and test pre-session normalization against repeat anchors."
+}

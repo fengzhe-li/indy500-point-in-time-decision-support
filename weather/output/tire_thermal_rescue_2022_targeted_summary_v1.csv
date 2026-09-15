@@ -1,0 +1,11 @@
+﻿metric,value
+files_scanned,83
+candidate_rows,2
+priority_rows,0
+direct_temperature_candidates,0
+direct_pressure_candidates,0
+direct_thermal_candidates,0
+fresh_tire_between_runs_candidates,0
+temperature_value_inferred,0
+pressure_value_inferred,0
+wait_used_to_infer_tire_temperature,0

@@ -1,0 +1,21 @@
+{
+  "requested_max_horizon_minutes": 120.0,
+  "actual_horizon_minutes": 120.0,
+  "session_remaining_minutes": 170.0,
+  "forecast_remaining_minutes": 120.0,
+  "step_minutes": 1.0,
+  "monte_carlo_draws": 20000,
+  "track_residual_mode": "EMPIRICAL_STANDARDIZED",
+  "track_residual_source": "r5_2/manual/extended_future_state_standardized_residuals_v3.csv",
+  "performance_residual_column": "residual_loyo_raw",
+  "physics_core": "R5_2_FROZEN_2020_2024",
+  "queue_wait_prediction": false,
+  "strategy_recommendation": false,
+  "interpretation": "Each x-axis position is a hypothetical opportunity to make a future qualifying attempt. The model does not predict when a car will actually reach the front of the queue.",
+  "current_speed_mph": 232.1,
+  "current_track_c": 40.0,
+  "current_ambient_c": 24.0,
+  "current_time_utc": "2025-05-17 19:00:00+00:00",
+  "session_end_utc": "2025-05-17 21:50:00+00:00",
+  "forecast_file": "r6_regime_extension/output/production_inference_v1/smoke_test_forecast.csv"
+}

@@ -1,0 +1,14 @@
+﻿metric,value
+canonical_attempts,44
+chronology_covered_attempts,10
+chronology_uncovered_attempts,34
+repeated_attempts_total,8
+repeated_attempts_with_chronology,2
+repeat_pairs_total,8
+repeat_pairs_both_attempts_chronology,2
+repeat_pairs_with_action_evidence,1
+decision_status_candidates_total,12
+decision_status_candidates_with_chronology,4
+decision_status_candidates_with_action,1
+explicit_lane_attempts,2
+high_priority_targets,17

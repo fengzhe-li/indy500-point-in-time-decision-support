@@ -1,0 +1,7 @@
+﻿check,result,promotion,notes
+racer_proves_pre_first_stop_karam_event,YES,PROMOTE_EVENT_ORDERING,A Karam improvement attempt was underway when the first weather stoppage occurred.
+racer_proves_post_restart_karam_event,YES,PROMOTE_EVENT_ORDERING,RACER explicitly says Karam ran again after the first weather delay.
+racer_proves_two_distinct_karam_attempt_events,YES,PROMOTE_EVENT_ORDERING,The pre-stop attempt and post-restart rerun are distinct events.
+229_905_can_be_uniquely_assigned_to_pre_stop_event,NO,DO_NOT_PROMOTE_IDENTITY,No source currently co-identifies 229.905 with the pre-stop event.
+230_464_can_be_uniquely_assigned_to_post_restart_event,NO,DO_NOT_PROMOTE_IDENTITY,No source currently co-identifies 230.464 with the post-restart event.
+no_attempt_can_be_uniquely_assigned_to_weather_event,NO,DO_NOT_PROMOTE_IDENTITY,No source currently ties the No Attempt row to one specific weather interruption.

@@ -1,0 +1,5 @@
+metric,value,expected,status
+2023_numeric_pdf_rows,34,34,PASS
+2024_numeric_pdf_rows,34,34,PASS
+driver_roster_available,108,>0,PASS
+schema_recon_only_no_model_mutation,True,True,PASS

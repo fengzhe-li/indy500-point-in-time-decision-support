@@ -1,0 +1,38 @@
+{
+  "phase": "R4F8H-E",
+  "source": "weather/output/queue_wait_throughput_proxy_v1.csv",
+  "rows": 132,
+  "resolved_fields": {
+    "year": "year",
+    "session": null,
+    "spacing": null,
+    "rate": null,
+    "count": null,
+    "duration": null,
+    "source": null,
+    "decision_safe": null,
+    "proxy_type": "proxy_type",
+    "quality": null
+  },
+  "global_diagnostics": {
+    "spacing_n": 0,
+    "spacing_median_minutes": null,
+    "spacing_mean_minutes": null,
+    "rate_n": 0,
+    "attempts_per_hour_median": null,
+    "attempts_per_hour_mean": null
+  },
+  "decision_safe_field_present": false,
+  "decision_safe_values": [],
+  "explicitly_decision_safe": false,
+  "semantic_status": "INSUFFICIENT_NUMERIC_THROUGHPUT_SUPPORT",
+  "allowed_use": "May calibrate a STRUCTURAL competitor-arrival/session-progress sensitivity component if numeric support exists. Must remain labelled as a throughput/process proxy.",
+  "forbidden_use": [
+    "Do not treat spacing as direct queue wait.",
+    "Do not infer exact future competitor identities.",
+    "Do not infer exact future competitor actions.",
+    "Do not replay realized future leaderboard as a decision-time feature.",
+    "Do not call structural throughput an empirical competitor strategy model."
+  ],
+  "next_step": "If usable numeric throughput exists, freeze a structural competitor-evolution policy. Otherwise final MC must restrict dynamic rank claims and use static-current-benchmark sensitivity only."
+}

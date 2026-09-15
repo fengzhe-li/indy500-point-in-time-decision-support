@@ -1,0 +1,7 @@
+check,value,expected,status
+deterministic seed fixed,500500,500500,PASS
+wait-to-state-to-performance active,True,True,PASS
+Fast Friday absent primary draws,False,False,PASS
+historical decision year excluded from performance fit,True,True,PASS
+retained result downside protected,0,0,PASS
+action universe preserved,170,170,PASS

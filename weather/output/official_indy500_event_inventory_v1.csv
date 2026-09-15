@@ -1,0 +1,63 @@
+﻿year,event_index,event_id,event_name,session_count,is_indianapolis_500,raw_api_path
+2021,1,5396,VP Racing Fuels Championship Weekend Race 2,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,2,5397,VP Racing Fuels Championship Weekend Race 1,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,3,5390,Indy Lights Grand Prix of Monterey Race 2,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,4,5391,Indy Lights Grand Prix of Monterey Race 1,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,5,5392,Indy Lights Grand Prix of Portland Race 2,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,6,5393,Indy Lights Grand Prix of Portland Race 1,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,7,5394,Cooper Tires Indy Lights Oval Challenge Race 2,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,8,5395,Cooper Tires Indy Lights Oval Challenge Race 1,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,9,5398,Cooper Tires Indy Lights Grand Prix of Mid-Ohio Race 2,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,10,5399,Cooper Tires Indy Lights Grand Prix of Mid-Ohio Race 1,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,11,5400,Cooper Tires Grand Prix of Road America Race 2,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,12,5406,Cooper Tires Grand Prix of Road America Race 1,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,13,5401,Indy Lights Grand Prix of Detroit Race 2,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,14,5402,Indy Lights Grand Prix of Detroit Race 1,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,15,5403,Indy Lights Grand Prix of Indianapolis Race 2,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,16,5404,Indy Lights Grand Prix of Indianapolis Race 1,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,17,5387,Indy Lights Grand Prix of St. Petersburg Race 2,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,18,5405,Indy Lights Grand Prix of St. Petersburg Race 1,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,19,5388,Indy Lights Grand Prix of Alabama Race 2,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2021,20,5389,Indy Lights Grand Prix of Alabama Race 1,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2021_events_by_year_series.json
+2022,1,5415,Indy Lights Grand Prix of Monterey Race 2,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2022_events_by_year_series.json
+2022,2,5414,Indy Lights Grand Prix of Monterey Race 1,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2022_events_by_year_series.json
+2022,3,5413,Indy Lights Grand Prix of Portland,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2022_events_by_year_series.json
+2022,4,5412,Indy Lights at World Wide Technology Raceway,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2022_events_by_year_series.json
+2022,5,5411,Indy Lights Music City Grand Prix,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2022_events_by_year_series.json
+2022,6,5420,Indy Lights at Iowa Speedway,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2022_events_by_year_series.json
+2022,7,5419,Indy Lights at Mid-Ohio,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2022_events_by_year_series.json
+2022,8,5418,Indy Lights Grand Prix at Road America,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2022_events_by_year_series.json
+2022,9,5417,Indy Lights Detroit Grand Prix Race 2,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2022_events_by_year_series.json
+2022,10,5410,Indy Lights Detroit Grand Prix Race 1,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2022_events_by_year_series.json
+2022,11,5409,Indy Lights Grand Prix of Indianapolis Race 2,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2022_events_by_year_series.json
+2022,12,5416,Indy Lights Grand Prix of Indianapolis Race 1,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2022_events_by_year_series.json
+2022,13,5407,Indy Lights Grand Prix of Alabama,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2022_events_by_year_series.json
+2022,14,5408,Grand Prix of St. Petersburg,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2022_events_by_year_series.json
+2023,1,5451,INDY NXT by Firestone Grand Prix of Monterey Race 2,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2023_events_by_year_series.json
+2023,2,5448,INDY NXT by Firestone Grand Prix of Monterey Race 1,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2023_events_by_year_series.json
+2023,3,5449,INDY NXT by Firestone Grand Prix of Portland,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2023_events_by_year_series.json
+2023,4,5450,INDY NXT by Firestone OUTFRONT Showdown,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2023_events_by_year_series.json
+2023,5,5447,INDY NXT by Firestone Grand Prix (Aug),0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2023_events_by_year_series.json
+2023,6,5442,INDY NXT by Firestone Music City Grand Prix,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2023_events_by_year_series.json
+2023,7,5440,INDY NXT by Firestone at Iowa Speedway,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2023_events_by_year_series.json
+2023,8,5441,INDY NXT by Firestone Grand Prix at Mid-Ohio,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2023_events_by_year_series.json
+2023,9,5443,INDY NXT by Firestone Grand Prix at Road America,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2023_events_by_year_series.json
+2023,10,5446,INDY NXT by Firestone Detroit Grand Prix Race 2,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2023_events_by_year_series.json
+2023,11,5438,INDY NXT by Firestone Detroit Grand Prix Race 1,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2023_events_by_year_series.json
+2023,12,5439,INDY NXT by Firestone Grand Prix (May),0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2023_events_by_year_series.json
+2023,13,5445,INDY NXT by Firestone Grand Prix of Alabama,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2023_events_by_year_series.json
+2023,14,5444,INDY NXT by Firestone Grand Prix of St. Petersburg,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2023_events_by_year_series.json
+2024,1,5479,Music City Grand Prix,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2024_events_by_year_series.json
+2024,2,5478,INDY NXT By Firestone at The Milwaukee Mile,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2024_events_by_year_series.json
+2024,3,5477,Grand Prix of Portland,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2024_events_by_year_series.json
+2024,4,5476,OUTFRONT Showdown,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2024_events_by_year_series.json
+2024,5,5475,INDY NXT by Firestone at Iowa Speedway,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2024_events_by_year_series.json
+2024,6,5474,Grand Prix at Mid-Ohio,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2024_events_by_year_series.json
+2024,7,5483,Grand Prix of Monterey Race 2,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2024_events_by_year_series.json
+2024,8,5473,Grand Prix of Monterey Race 1,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2024_events_by_year_series.json
+2024,9,5472,Grand Prix at Road America,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2024_events_by_year_series.json
+2024,10,5482,Detroit Grand Prix,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2024_events_by_year_series.json
+2024,11,5481,Indianapolis Grand Prix Race 2,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2024_events_by_year_series.json
+2024,12,5471,Indianapolis Grand Prix Race 1,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2024_events_by_year_series.json
+2024,13,5470,Grand Prix of Alabama,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2024_events_by_year_series.json
+2024,14,5480,Grand Prix of St. Petersburg,0,False,weather/evidence/rescue/official_indy500_day1_sessions/raw_api/2024_events_by_year_series.json

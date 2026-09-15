@@ -1,0 +1,118 @@
+--- PAGE 1 ---
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Indianapolis Motor Speedway
+Results of Session
+May 18, 2024
+108th Running of the Indianapolis 500
+Event:
+Track:
+Report:
+Practice 6
+Session:
+NTT INDYCAR SERIES
+2.5 mile(s)
+Round 5
+Rank
+Car
+Driver Name
+C/E/T
+Time
+Speed
+Diff
+Gap
+Best Lap
+Total Laps
+1
+10
+Palou, Alex
+D/H/F
+00:38.6720
+ 232.727
+--.----
+--.----
+3
+7
+2
+8
+Lundqvist, Linus (R)
+D/H/F
+00:38.7055
+ 232.525
+0.0335
+0.0335
+11
+14
+3
+11
+Armstrong, Marcus (R)
+D/H/F
+00:38.7237
+ 232.416
+0.0517
+0.0182
+3
+13
+4
+77
+Grosjean, Romain
+D/C/F
+00:38.7272
+ 232.395
+0.0552
+0.0035
+2
+8
+5
+24
+Daly, Conor
+D/C/F
+00:38.7840
+ 232.054
+0.1120
+0.0568
+3
+6
+6
+9
+Dixon, Scott
+D/H/F
+00:38.8033
+ 231.939
+0.1313
+0.0193
+3
+12
+7
+4
+Simpson, Kyffin (R)
+D/H/F
+00:39.0128
+ 230.694
+0.3408
+0.2095
+3
+10
+8
+51
+Legge, Katherine
+D/H/F
+00:39.1322
+ 229.990
+0.4602
+0.1194
+4
+14
+9
+18
+Siegel, Nolan (R)
+D/H/F
+00:39.6645
+ 226.903
+0.9925
+0.5323
+15
+16
+100
+Total Laps:
+(R) Rookie
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024

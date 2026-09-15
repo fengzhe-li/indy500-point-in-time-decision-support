@@ -1,0 +1,43 @@
+{
+  "schema_name": "FUSED_INDYCAR_QUALIFYING_DECISION_STATE_V1",
+  "purpose": "Shared decision-state interface for Day 1 and Last Chance models.",
+  "shared_features": [
+    "decision_id",
+    "year",
+    "session_regime",
+    "car_number",
+    "driver_name",
+    "current_result_mph",
+    "benchmark_speed_mph",
+    "margin_to_benchmark_mph",
+    "current_rank",
+    "qualification_state",
+    "decision_stage",
+    "time_remaining_seconds",
+    "time_quality",
+    "thermal_state_available",
+    "performance_uncertainty_available",
+    "wait_model_available"
+  ],
+  "regime_specific_features": [
+    "benchmark_type",
+    "action_semantics_regime"
+  ],
+  "action_vocabulary": [
+    "STOP",
+    "RETAIN_AND_REATTEMPT",
+    "WITHDRAW_AND_REATTEMPT",
+    "WITHDRAW_AND_PRIORITY_REATTEMPT"
+  ],
+  "day1_action_semantics": {
+    "STOP": "Keep current result and do not reattempt.",
+    "RETAIN_AND_REATTEMPT": "Enter non-priority reattempt path while retaining current result.",
+    "WITHDRAW_AND_PRIORITY_REATTEMPT": "Withdraw current result and take priority reattempt path."
+  },
+  "last_chance_action_semantics": {
+    "STOP": "Do not make another Last Chance attempt.",
+    "WITHDRAW_AND_REATTEMPT": "If a valid qualifying result is currently held, withdraw it before making another attempt.",
+    "REATTEMPT_WITHOUT_HELD_RESULT": "If currently outside the field without a protected qualifying result, make another attempt."
+  },
+  "important_constraint": "Unified vocabulary does not imply identical feasible actions across regimes. Feasible-action masks must be applied before strategy evaluation."
+}

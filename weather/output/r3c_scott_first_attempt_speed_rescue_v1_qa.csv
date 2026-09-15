@@ -1,0 +1,9 @@
+﻿metric,value,status
+exact_attempt_id_used,d2ae8749-6312-5afd-b193-dd23dc071124,PASS
+speed_evidence_observations,2,PASS
+unique_speed_clusters,1,PASS
+scott_first_attempt_speed_final,231.543000,PASS
+scott_envelope_rows_repaired,36,PASS
+monte_carlo_delta_fields_changed,0,PASS
+hard_recommendation_created,0,PASS
+protected_source_outputs_mutated,0,PASS

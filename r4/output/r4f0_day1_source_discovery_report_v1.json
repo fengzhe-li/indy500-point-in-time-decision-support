@@ -1,0 +1,89 @@
+{
+  "phase": "R4F0",
+  "status": "R4F0_DAY1_SOURCE_CONTRACT_DISCOVERY_READY",
+  "csv_files_scanned": 45,
+  "strong_candidate_count": 4,
+  "top_candidates": [
+    {
+      "file": "r4p1_first_run_order_panel_v1.csv",
+      "score": 29,
+      "rows": 150,
+      "action_fields": "lane_action;observed_proxy_time_rank_fraction",
+      "current_result_fields": "",
+      "benchmark_fields": ""
+    },
+    {
+      "file": "r4p6_decision_safe_conditional_dataset_v1.csv",
+      "score": 29,
+      "rows": 5,
+      "action_fields": "decision_time_utc;cycle_age_minutes_at_decision;decision_time_safe",
+      "current_result_fields": "current_four_lap_average_speed_mph",
+      "benchmark_fields": ""
+    },
+    {
+      "file": "r4p1_attempt_four_lap_panel_v1.csv",
+      "score": 27,
+      "rows": 329,
+      "action_fields": "lane_action",
+      "current_result_fields": "",
+      "benchmark_fields": ""
+    },
+    {
+      "file": "r4p1_multi_run_four_lap_panel_v1.csv",
+      "score": 25,
+      "rows": 162,
+      "action_fields": "lane_action",
+      "current_result_fields": "",
+      "benchmark_fields": ""
+    },
+    {
+      "file": "r4p2_multi_run_transitions_v1.csv",
+      "score": 25,
+      "rows": 92,
+      "action_fields": "strategy_before_lane_action;strategy_after_lane_action;performance_dataset_inclusion_depends_on_action",
+      "current_result_fields": "",
+      "benchmark_fields": ""
+    },
+    {
+      "file": "r4p2_environment_linked_transitions_v1.csv",
+      "score": 25,
+      "rows": 39,
+      "action_fields": "strategy_before_lane_action;strategy_after_lane_action;performance_dataset_inclusion_depends_on_action",
+      "current_result_fields": "",
+      "benchmark_fields": ""
+    },
+    {
+      "file": "r4p5_decision_safe_forecast_scenarios_v1.csv",
+      "score": 24,
+      "rows": 40,
+      "action_fields": "decision_time_utc;cycle_age_minutes_at_decision;decision_time_safe",
+      "current_result_fields": "",
+      "benchmark_fields": ""
+    },
+    {
+      "file": "r4p2_past_only_cross_car_signal_v1.csv",
+      "score": 22,
+      "rows": 40,
+      "action_fields": "prior_3_positive_speed_fraction;prior_3_fade_improvement_fraction;prior_5_positive_speed_fraction;prior_5_fade_improvement_fraction",
+      "current_result_fields": "current_delta_speed_mph;prior_3_median_delta_speed_mph;prior_3_mean_delta_speed_mph;prior_3_positive_speed_fraction;prior_5_median_delta_speed_mph;prior_5_mean_delta_speed_mph;prior_5_positive_speed_fraction",
+      "benchmark_fields": ""
+    },
+    {
+      "file": "r4p10_thermal_conditioned_repeat_dataset_v1.csv",
+      "score": 20,
+      "rows": 39,
+      "action_fields": "decision_time_utc",
+      "current_result_fields": "current_speed_mph",
+      "benchmark_fields": ""
+    },
+    {
+      "file": "r4p7_forecast_horizon_window_scores_v1.csv",
+      "score": 17,
+      "rows": 40,
+      "action_fields": "decision_attempt_id;decision_time_utc;decision_time_safe",
+      "current_result_fields": "",
+      "benchmark_fields": ""
+    }
+  ],
+  "next_phase": "Select the highest-quality existing Day1 decision-state source and map it into the frozen Fused V2 action schema."
+}

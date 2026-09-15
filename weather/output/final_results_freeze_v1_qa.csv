@@ -1,0 +1,15 @@
+﻿metric,value,status
+final_state_driver_set_exact,1,PASS
+missing_first_attempt_speeds,0,PASS
+scott_speed_present,231.543000,PASS
+known_predecision_rank_rows,2,PASS
+central_mc_rows_valid,1,PASS
+action_semantics_complete,REPEAT_LANE1_WITHDRAW_CURRENT_RESULT|REPEAT_LANE2_RETAIN_CURRENT_RESULT|STOP_RETAIN_CURRENT_RESULT,PASS
+sato_required_reattempt_preserved,1,PASS
+environment_model_not_promoted,1,PASS
+hard_recommendation_leaks,0,PASS
+supported_claim_rows,14,PASS
+limitation_rows,12,PASS
+core_result_rows,20,PASS
+technical_phase_complete,1,PASS
+protected_upstream_outputs_mutated,0,PASS

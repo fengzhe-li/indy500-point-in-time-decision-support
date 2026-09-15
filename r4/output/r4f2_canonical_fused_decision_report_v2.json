@@ -1,0 +1,22 @@
+{
+  "phase": "R4F2_V2",
+  "status": "R4F2_V2_CANONICAL_FUSED_DECISION_CONTRACT_CORRECTED",
+  "schema_name": "FUSED_INDYCAR_QUALIFYING_DECISION_STATE_V2",
+  "rows": 148,
+  "day1_rows": 138,
+  "last_chance_rows": 10,
+  "validation_years": [
+    2022,
+    2024
+  ],
+  "action_evidence_rows": 76,
+  "decision_state_rows": 50,
+  "counterfactual_model_input_rows": 50,
+  "corrections": [
+    "Validation-year rows can never enter counterfactual model fitting.",
+    "The previous safe_for_policy_fit concept is retained only as upstream audit evidence.",
+    "Historical action evidence, decision-state eligibility and counterfactual-model eligibility are now separate fields.",
+    "Historical observed actions are never treated as hard optimality truth."
+  ],
+  "next_phase": "Freeze corrected Fused decision dataset, then build probabilistic counterfactual decision engines."
+}

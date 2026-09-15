@@ -1,0 +1,16 @@
+{
+  "phase": "R4F6B",
+  "status": "R4F6B_PRESESSION_CANDIDATE_SEMANTIC_VERIFICATION_READY",
+  "r4f6a_fast_friday_keyword_candidates": 25,
+  "semantic_candidates_after_generated_report_exclusion": 21,
+  "likely_numeric_fast_friday_assets": 6,
+  "editorial_numeric_assets": 2,
+  "classification_counts": {
+    "LIKELY_NUMERIC_FAST_FRIDAY_EVIDENCE": 6,
+    "FAST_FRIDAY_EDITORIAL_WITH_NUMERIC_CONTEXT": 2,
+    "FAST_FRIDAY_MENTION_ONLY": 5,
+    "KEYWORD_FALSE_POSITIVE": 8
+  },
+  "methodological_rule": "A file is not promoted to pre-session entry-reference evidence merely because it contains the words Fast Friday. Numeric speed, driver/car context and result-like structure must be present.",
+  "next_phase": "If strong local numeric assets exist, extract a canonical Fast Friday reference panel. Otherwise perform targeted external acquisition for 2020-2024 Fast Friday results."
+}

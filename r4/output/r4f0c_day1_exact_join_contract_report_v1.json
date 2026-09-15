@@ -1,0 +1,691 @@
+{
+  "phase": "R4F0C",
+  "status": "R4F0C_DAY1_EXACT_JOIN_CONTRACT_INSPECTION_READY",
+  "files": {
+    "chronology_v10": {
+      "path": "weather/output/unified_attempt_chronology_constraint_ledger_v10.csv",
+      "exists": true,
+      "rows": 164,
+      "fields": [
+        "year",
+        "attempt_id",
+        "session_id",
+        "car_number",
+        "driver_name",
+        "car_attempt_index",
+        "constraint_class",
+        "time_point_utc",
+        "time_lower_utc",
+        "time_upper_utc",
+        "time_midpoint_utc",
+        "time_quality",
+        "source_layer",
+        "source_semantic",
+        "source_event_id",
+        "anchor_event_type",
+        "result_status",
+        "chronology_usable",
+        "performance_environment_usable",
+        "queue_replay_usable",
+        "notes",
+        "evidence_id",
+        "evidence_stage",
+        "source_authority",
+        "source_title",
+        "source_url",
+        "official_result_row",
+        "ordering_relation",
+        "evidence_summary",
+        "related_attempt_id",
+        "ordering_role",
+        "evidence_type",
+        "action",
+        "lane",
+        "source_candidate_id",
+        "evidence_quality"
+      ]
+    },
+    "decision_state_v2": {
+      "path": "weather/output/decision_time_observable_state_v2.csv",
+      "exists": true,
+      "rows": 8,
+      "fields": [
+        "state_id",
+        "year",
+        "driver_name",
+        "decision_stage",
+        "pair_resolution_method",
+        "first_attempt_id",
+        "second_attempt_id",
+        "first_car_attempt_index",
+        "second_car_attempt_index",
+        "first_attempt_status",
+        "second_attempt_status",
+        "first_attempt_chronology_usable",
+        "second_attempt_chronology_usable",
+        "first_attempt_time_quality",
+        "first_attempt_time_point_utc",
+        "first_attempt_time_lower_utc",
+        "first_attempt_time_upper_utc",
+        "second_attempt_time_quality",
+        "second_attempt_time_point_utc",
+        "second_attempt_time_lower_utc",
+        "second_attempt_time_upper_utc",
+        "first_attempt_speed_mph",
+        "second_attempt_speed_mph",
+        "action_semantic",
+        "lane_identity",
+        "action_evidence_count",
+        "action_binding_quality",
+        "action_source",
+        "current_rank",
+        "current_rank_lower_bound",
+        "current_rank_upper_bound",
+        "top12_state",
+        "cutoff_rank",
+        "cutoff_speed_mph",
+        "decision_state_evidence_count",
+        "decision_state_time_quality",
+        "decision_state_binding_quality",
+        "decision_state_source",
+        "queue_membership",
+        "queue_lane",
+        "queue_position",
+        "relative_run_order",
+        "queue_evidence_count",
+        "queue_time_quality",
+        "queue_binding_quality",
+        "queue_source",
+        "historical_queue_wait_state",
+        "simulator_queue_wait_policy",
+        "pit_service_state",
+        "pit_service_policy",
+        "rubber_state",
+        "rubber_policy",
+        "grip_evolution_state",
+        "grip_evolution_policy",
+        "tire_thermal_pressure_state",
+        "tire_state_policy",
+        "interruption_context",
+        "interruption_policy",
+        "weather_feature_policy",
+        "track_temperature_policy",
+        "elapsed_time_as_track_evolution",
+        "unknown_state_imputation",
+        "observable_components",
+        "state_scope",
+        "full_historical_state",
+        "hard_optimality_truth_ready"
+      ]
+    },
+    "decision_evidence_v2": {
+      "path": "weather/output/contemporaneous_decision_state_evidence_ledger_v2.csv",
+      "exists": true,
+      "rows": 7,
+      "fields": [
+        "state_id",
+        "year",
+        "driver_name",
+        "subject_attempt_id",
+        "related_attempt_id",
+        "state_stage",
+        "rank",
+        "rank_lower_bound",
+        "rank_upper_bound",
+        "top12_state",
+        "cutoff_rank",
+        "cutoff_speed_mph",
+        "action",
+        "lane",
+        "time_quality",
+        "exact_timestamp",
+        "source_name",
+        "source_class",
+        "source_semantic",
+        "promotion_status",
+        "notes",
+        "cutoff_speed_derivation",
+        "cutoff_speed_quality"
+      ]
+    },
+    "action_lane_v8": {
+      "path": "weather/output/unified_attempt_action_lane_ledger_v8.csv",
+      "exists": true,
+      "rows": 8,
+      "fields": [
+        "evidence_id",
+        "year",
+        "subject_attempt_id",
+        "related_attempt_id",
+        "session_id",
+        "car_number",
+        "driver_name",
+        "action",
+        "lane",
+        "relation",
+        "source_name",
+        "source_class",
+        "source_candidate_id",
+        "evidence_quality",
+        "chronology_usable",
+        "queue_position_known",
+        "queue_wait_known",
+        "canonical_mutated",
+        "notes",
+        "subject_speed_mph",
+        "related_speed_mph",
+        "official_subject_status",
+        "source_evidence_id",
+        "promotion_status"
+      ]
+    },
+    "attempt_panel_v1": {
+      "path": "r4/output/r4p1_attempt_four_lap_panel_v1.csv",
+      "exists": true,
+      "rows": 329,
+      "fields": [
+        "year",
+        "session_id",
+        "attempt_id",
+        "entry_key",
+        "car_number",
+        "driver_name",
+        "team_name",
+        "car_attempt_index",
+        "attempt_class",
+        "result_status",
+        "result_counted_at_session_end",
+        "lane_action",
+        "four_lap_average_speed_mph",
+        "lap1_speed_mph",
+        "lap2_speed_mph",
+        "lap3_speed_mph",
+        "lap4_speed_mph",
+        "lap1_to_lap4_delta_mph",
+        "lap1_to_lap2_delta_mph",
+        "lap2_to_lap3_delta_mph",
+        "lap3_to_lap4_delta_mph",
+        "first_half_mean_mph",
+        "second_half_mean_mph",
+        "late_run_fade_mph",
+        "complete_four_lap_shape",
+        "complete_performance_record",
+        "car_attempt_order_quality",
+        "global_order_lower_bound",
+        "global_order_upper_bound",
+        "canonical_start_time_utc",
+        "canonical_end_time_utc",
+        "canonical_event_time_quality",
+        "time_evidence_class",
+        "time_point_utc",
+        "time_lower_utc",
+        "time_upper_utc",
+        "time_source",
+        "time_semantic",
+        "chronology_usable",
+        "environment_alignment_usable",
+        "hrrr_leakage_safe_available",
+        "ptsc_track_temp_available"
+      ]
+    }
+  },
+  "common_fields": [
+    {
+      "left": "chronology_v10",
+      "right": "decision_state_v2",
+      "common_fields": [
+        "driver_name",
+        "year"
+      ]
+    },
+    {
+      "left": "chronology_v10",
+      "right": "decision_evidence_v2",
+      "common_fields": [
+        "action",
+        "driver_name",
+        "lane",
+        "notes",
+        "related_attempt_id",
+        "source_semantic",
+        "time_quality",
+        "year"
+      ]
+    },
+    {
+      "left": "chronology_v10",
+      "right": "action_lane_v8",
+      "common_fields": [
+        "action",
+        "car_number",
+        "chronology_usable",
+        "driver_name",
+        "evidence_id",
+        "evidence_quality",
+        "lane",
+        "notes",
+        "related_attempt_id",
+        "session_id",
+        "source_candidate_id",
+        "year"
+      ]
+    },
+    {
+      "left": "chronology_v10",
+      "right": "attempt_panel_v1",
+      "common_fields": [
+        "attempt_id",
+        "car_attempt_index",
+        "car_number",
+        "chronology_usable",
+        "driver_name",
+        "result_status",
+        "session_id",
+        "time_lower_utc",
+        "time_point_utc",
+        "time_upper_utc",
+        "year"
+      ]
+    },
+    {
+      "left": "decision_state_v2",
+      "right": "decision_evidence_v2",
+      "common_fields": [
+        "cutoff_rank",
+        "cutoff_speed_mph",
+        "driver_name",
+        "state_id",
+        "top12_state",
+        "year"
+      ]
+    },
+    {
+      "left": "decision_state_v2",
+      "right": "action_lane_v8",
+      "common_fields": [
+        "driver_name",
+        "year"
+      ]
+    },
+    {
+      "left": "decision_state_v2",
+      "right": "attempt_panel_v1",
+      "common_fields": [
+        "driver_name",
+        "year"
+      ]
+    },
+    {
+      "left": "decision_evidence_v2",
+      "right": "action_lane_v8",
+      "common_fields": [
+        "action",
+        "driver_name",
+        "lane",
+        "notes",
+        "promotion_status",
+        "related_attempt_id",
+        "source_class",
+        "source_name",
+        "subject_attempt_id",
+        "year"
+      ]
+    },
+    {
+      "left": "decision_evidence_v2",
+      "right": "attempt_panel_v1",
+      "common_fields": [
+        "driver_name",
+        "year"
+      ]
+    },
+    {
+      "left": "action_lane_v8",
+      "right": "attempt_panel_v1",
+      "common_fields": [
+        "car_number",
+        "chronology_usable",
+        "driver_name",
+        "session_id",
+        "year"
+      ]
+    }
+  ],
+  "identity_values": {
+    "chronology_v10": {
+      "attempt_id": [
+        "00d1c34a-f916-5fa9-803b-2cc6962f2595",
+        "d8f3d4d6-6f33-5dbd-80ed-75cd29056b63",
+        "6041dd38-4b6d-5e38-81fd-8006cbe0bafd",
+        "cbdbf766-10d3-516e-83ad-3cb56f8c02fb",
+        "16cb7863-a6d0-5895-93e4-a76ac2c6c71f",
+        "59dbbaed-31a4-576f-ae4e-a507faf360c3",
+        "9a2e168d-3dda-5e76-8daf-588c20d91341",
+        "893c5471-df02-55c0-946f-0af9d0a835d9",
+        "e132bf44-6808-5d6b-819c-a993af279439",
+        "2fb75f25-92ad-5b41-90a1-3a1457ae8012",
+        "63886d30-e3e7-575f-a896-d317da3b03c2",
+        "3e1d9fad-3db2-5b32-b9c1-8802e1467bbe",
+        "81f0c457-15fb-5f7f-9649-8663a142764d",
+        "d155ad85-3d5c-5b55-95d6-40ba696a0bde",
+        "917d4c7e-5c5e-5976-aa32-50a7bc958440",
+        "f2f5d37e-6270-5e2d-8ae0-2e63cea098b3",
+        "7799cc62-18bb-568d-9de2-16cb3622a0de",
+        "a6295479-1996-5baa-b116-ab56a03c118d",
+        "e2df4919-a45f-5b41-916e-55908e4f1abb",
+        "eda9cf9f-a821-5b18-9ef9-84f838678dfc"
+      ],
+      "year": [
+        "2020",
+        "2021",
+        "2023",
+        "2024",
+        "2022"
+      ],
+      "car_number": [
+        "1",
+        "10",
+        "14",
+        "15",
+        "20",
+        "21",
+        "22",
+        "24",
+        "27",
+        "28",
+        "29",
+        "3",
+        "41",
+        "45",
+        "47",
+        "5",
+        "51",
+        "55",
+        "59",
+        "60"
+      ],
+      "driver_name": [
+        "Josef Newgarden",
+        "Felix Rosenqvist",
+        "Tony Kanaan",
+        "Graham Rahal",
+        "Ed Carpenter",
+        "Rinus VeeKay",
+        "Simon Pagenaud",
+        "Sage Karam",
+        "Alexander Rossi",
+        "Ryan Hunter-Reay",
+        "James Hinchcliffe",
+        "Helio Castroneves",
+        "Dalton Kellett",
+        "Spencer Pigot",
+        "Conor Daly",
+        "Pato O'Ward",
+        "James Davison",
+        "Alex Palou",
+        "Max Chilton",
+        "Jack Harvey"
+      ],
+      "lane": [
+        "UNKNOWN"
+      ],
+      "action": [
+        "SECOND_ATTEMPT",
+        "BAILED_OUT_OF_FIRST_RUN",
+        "LATER_SECOND_RUN",
+        "RETAKE_RUN",
+        "REQUIRED_REATTEMPT_AFTER_INVALIDATION",
+        "REPEAT_ATTEMPT_IMPROVED"
+      ]
+    },
+    "decision_state_v2": {
+      "year": [
+        "2022"
+      ],
+      "driver_name": [
+        "Alexander Rossi",
+        "Callum Ilott",
+        "David Malukas",
+        "Helio Castroneves",
+        "Marco Andretti",
+        "Sage Karam",
+        "Scott McLaughlin",
+        "Takuma Sato"
+      ],
+      "queue_lane": [
+        "UNKNOWN"
+      ]
+    },
+    "decision_evidence_v2": {
+      "year": [
+        "2022"
+      ],
+      "driver_name": [
+        "Scott McLaughlin",
+        "Alexander Rossi",
+        "David Malukas",
+        "Takuma Sato"
+      ],
+      "lane": [
+        "LANE_1",
+        "UNKNOWN"
+      ],
+      "action": [
+        "WITHDRAW_EXISTING_RESULT_AND_USE_LANE1",
+        "REPEAT_ATTEMPT_IMPROVED",
+        "REQUIRED_REATTEMPT_AFTER_INVALIDATION"
+      ]
+    },
+    "action_lane_v8": {
+      "year": [
+        "2022"
+      ],
+      "car_number": [
+        "3",
+        "06",
+        "77",
+        "51",
+        "98",
+        "18",
+        "24",
+        "27"
+      ],
+      "driver_name": [
+        "Scott McLaughlin",
+        "Helio Castroneves",
+        "Callum Ilott",
+        "Takuma Sato",
+        "Marco Andretti",
+        "David Malukas",
+        "Sage Karam",
+        "Alexander Rossi"
+      ],
+      "lane": [
+        "LANE_1",
+        "UNKNOWN"
+      ],
+      "action": [
+        "WITHDRAW_EXISTING_RESULT_AND_USE_LANE1",
+        "BAILED_OUT_OF_FIRST_RUN",
+        "RETAKE_RUN",
+        "REQUIRED_REATTEMPT_AFTER_INVALIDATION",
+        "SECOND_ATTEMPT",
+        "REPEAT_ATTEMPT_IMPROVED"
+      ]
+    },
+    "attempt_panel_v1": {
+      "attempt_id": [
+        "00d1c34a-f916-5fa9-803b-2cc6962f2595",
+        "d8f3d4d6-6f33-5dbd-80ed-75cd29056b63",
+        "6041dd38-4b6d-5e38-81fd-8006cbe0bafd",
+        "449bb30a-dc85-5fd4-bc68-156753bda025",
+        "317f7650-a81e-56a5-b488-2767d7046566",
+        "f0b1cd27-f6b6-51e1-b91c-159cdeca670d",
+        "925bf85d-b3b8-58a5-b0a4-2df4955f2bb7",
+        "bbb6e306-5fe0-5643-8ab7-7f370f77a1fe",
+        "cbdbf766-10d3-516e-83ad-3cb56f8c02fb",
+        "16cb7863-a6d0-5895-93e4-a76ac2c6c71f",
+        "59dbbaed-31a4-576f-ae4e-a507faf360c3",
+        "1e794f15-e9b3-55c1-91a6-85cadd3ab366",
+        "9a2e168d-3dda-5e76-8daf-588c20d91341",
+        "893c5471-df02-55c0-946f-0af9d0a835d9",
+        "e132bf44-6808-5d6b-819c-a993af279439",
+        "2fb75f25-92ad-5b41-90a1-3a1457ae8012",
+        "63886d30-e3e7-575f-a896-d317da3b03c2",
+        "3e1d9fad-3db2-5b32-b9c1-8802e1467bbe",
+        "2d3ae29a-bc6b-5723-9247-439f79da15a6",
+        "ceaa8d7b-ed45-5e08-915d-df9fd734c673"
+      ],
+      "year": [
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "car_number": [
+        "1",
+        "10",
+        "12",
+        "14",
+        "15",
+        "18",
+        "20",
+        "21",
+        "22",
+        "24",
+        "26",
+        "27",
+        "28",
+        "29",
+        "3",
+        "30",
+        "4",
+        "41",
+        "45",
+        "47"
+      ],
+      "driver_name": [
+        "Josef Newgarden",
+        "Felix Rosenqvist",
+        "Will Power",
+        "Power, Will",
+        "Tony Kanaan",
+        "Graham Rahal",
+        "Santino Ferrucci",
+        "Ed Carpenter",
+        "Rinus VeeKay",
+        "Simon Pagenaud",
+        "Sage Karam",
+        "Zach Veach",
+        "Veach, Zach",
+        "Alexander Rossi",
+        "Ryan Hunter-Reay",
+        "James Hinchcliffe",
+        "Helio Castroneves",
+        "Takuma Sato",
+        "Charlie Kimball",
+        "Dalton Kellett"
+      ]
+    }
+  },
+  "semantic_map": {
+    "chronology_v10": {
+      "year": [
+        "year"
+      ],
+      "car": [
+        "car_number"
+      ],
+      "driver": [
+        "driver_name"
+      ],
+      "action": [
+        "action"
+      ],
+      "lane": [
+        "lane"
+      ],
+      "time": [
+        "time_point_utc"
+      ]
+    },
+    "decision_state_v2": {
+      "year": [
+        "year"
+      ],
+      "driver": [
+        "driver_name"
+      ],
+      "lane": [
+        "queue_lane"
+      ],
+      "rank": [
+        "current_rank"
+      ],
+      "benchmark": [
+        "cutoff_speed_mph"
+      ]
+    },
+    "decision_evidence_v2": {
+      "year": [
+        "year"
+      ],
+      "driver": [
+        "driver_name"
+      ],
+      "action": [
+        "action"
+      ],
+      "lane": [
+        "lane"
+      ],
+      "rank": [
+        "rank"
+      ],
+      "benchmark": [
+        "cutoff_speed_mph"
+      ]
+    },
+    "action_lane_v8": {
+      "year": [
+        "year"
+      ],
+      "car": [
+        "car_number"
+      ],
+      "driver": [
+        "driver_name"
+      ],
+      "action": [
+        "action"
+      ],
+      "lane": [
+        "lane"
+      ]
+    },
+    "attempt_panel_v1": {
+      "year": [
+        "year"
+      ],
+      "car": [
+        "car_number"
+      ],
+      "driver": [
+        "driver_name"
+      ],
+      "action": [
+        "lane_action"
+      ],
+      "lane": [
+        "lane_action"
+      ],
+      "time": [
+        "time_point_utc",
+        "canonical_start_time_utc",
+        "canonical_end_time_utc"
+      ]
+    }
+  },
+  "next_phase": "Construct R4F1 Day1 adapter using verified join keys only; no guessed identity linkage."
+}

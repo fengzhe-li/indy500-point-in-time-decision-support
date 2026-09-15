@@ -1,0 +1,13 @@
+﻿metric,value,status
+canonical_driver_rows_found,7,PASS
+first_unique_grounding,1,PASS
+second_unique_grounding,1,PASS
+result_v3_binding,1,PASS
+first_official_withdrawn,1,PASS
+first_chronology_covered,1,PASS
+second_chronology_covered,1,PASS
+existing_rossi_explicit_lane_rows,0,PASS
+queue_wait_inferred,0,PASS
+exact_queue_position_inferred,0,PASS
+exact_timestamp_inferred,0,PASS
+ledger_mutation,0,PASS

@@ -1,0 +1,72 @@
+OPERATIONAL_CURVE_V2 FREEZE SUMMARY
+================================================================================
+
+STATUS
+--------------------------------------------------------------------------------
+OPERATIONAL_CURVE_V2_FROZEN
+
+ROLE
+--------------------------------------------------------------------------------
+Derived operational presentation layer over frozen FINAL_V2 outputs.
+No scientific model was refitted or modified.
+
+SUPPORTED HORIZONS
+--------------------------------------------------------------------------------
+Validated/calibrated anchors:
+15, 30, 60, 90, 120 minutes
+
+Continuous operational visualization:
+15–120 minutes at 1-minute resolution
+
+0 minutes:
+CURRENT_STATE_BOUNDARY only
+
+>120 minutes:
+NOT GENERATED / UNSUPPORTED
+
+INTERPOLATION POLICY
+--------------------------------------------------------------------------------
+Intermediate minutes are piecewise-linear operational interpolation between
+calibrated anchor horizons.
+
+Intermediate values are NOT independently calibrated forecast horizons.
+
+DECISION BOUNDARY
+--------------------------------------------------------------------------------
+Queue wait prediction: NO
+Best-wait recommendation: NO
+Automatic strategy recommendation: NO
+
+Supported question:
+"If another on-track opportunity occurs at h minutes from now,
+what physical-performance outlook is implied?"
+
+SCENARIOS
+--------------------------------------------------------------------------------
+cooling
+neutral
+warming
+
+QA
+--------------------------------------------------------------------------------
+15 PASS | 0 FAIL
+
+Curve rows: 321
+Anchor rows: 15
+
+ANCHOR IDENTITY
+--------------------------------------------------------------------------------
+120/120 PASS
+
+MANIFEST
+--------------------------------------------------------------------------------
+weather/output/operational_curve_v2/freeze/operational_curve_v2_freeze_manifest.json
+
+MANIFEST SHA256
+--------------------------------------------------------------------------------
+790c159c33c38f5adeb9245827421f5036f9183337f52ba87ec30b2df29b0a7a
+
+IMPORTANT
+--------------------------------------------------------------------------------
+This freeze does not alter FINAL_V2 scientific evidence, V2-A, V2-B, V2-C,
+V2-D or V2-E. It freezes only the derived operational visualization layer.

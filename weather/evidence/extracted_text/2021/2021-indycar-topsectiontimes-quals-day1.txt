@@ -1,0 +1,1516 @@
+--- PAGE 1 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:38.6973 232.574 0
+2 26 Herta, Colton D/H/F 00:38.7324 232.364 0
+3 48 Kanaan, Tony D/H/F 00:38.7350 232.348 0
+4 20 Carpenter, Ed D/C/F 00:38.7531 232.239 0
+5 21 VeeKay, Rinus D/C/F 00:38.7788 232.086 5
+6 10 Palou, Alex D/H/F 00:38.7999 231.959 5
+7 8 Ericsson, Marcus D/H/F 00:38.8193 231.843 0
+8 18 Jones, Ed D/H/F 00:38.8547 231.632 5
+9 51 Fittipaldi, Pietro (R) D/H/F 00:38.8699 231.542 0
+10 28 Hunter-Reay, Ryan D/H/F 00:38.8731 231.523 0
+11 5 O'Ward, Pato D/C/F 00:38.8881 231.433 0
+12 27 Rossi, Alexander D/H/F 00:38.8924 231.408 0
+13 30 Sato, Takuma D/H/F 00:38.8961 231.386 0
+14 06 Castroneves, Helio D/H/F 00:38.8963 231.384 1
+15 7 Rosenqvist, Felix D/C/F 00:38.9197 231.245 5
+16 47 Daly, Conor D/C/F 00:38.9336 231.163 5
+17 3 McLaughlin, Scott (R) D/C/F 00:38.9350 231.154 0
+18 29 Hinchcliffe, James D/H/F 00:38.9431 231.106 0
+19 2 Newgarden, Josef D/C/F 00:38.9871 230.846 5
+20 15 Rahal, Graham D/H/F 00:38.9950 230.799 0
+21 86 Montoya, Juan Pablo D/C/F 00:38.9955 230.796 0
+22 98 Andretti, Marco D/H/F 00:38.9983 230.779 5
+23 45 Ferrucci, Santino D/H/F 00:39.0335 230.571 5
+24 1 Hildebrand, JR D/C/F 00:39.0345 230.565 0
+25 25 Wilson, Stefan D/H/F 00:39.0521 230.461 5
+26 60 Harvey, Jack D/H/F 00:39.0577 230.428 5
+27 22 Pagenaud, Simon D/C/F 00:39.0617 230.405 0
+28 14 Bourdais, Sebastien D/C/F 00:39.0924 230.224 0
+29 59 Chilton, Max D/C/F 00:39.0960 230.203 0
+30 16 De Silvestro, Simona D/C/F 00:39.0962 230.201 5
+31 4 Kellett, Dalton D/C/F 00:39.1720 229.756 0
+32 24 Karam, Sage D/C/F 00:39.1864 229.672 7
+33 12 Power, Will D/C/F 00:39.2087 229.541 0
+34 11 Kimball, Charlie D/C/F 00:39.3012 229.001 0
+35 75 Enerson, RC (R) D/C/F 00:39.5314 227.667 5
+Section: Lap Length: 2.500000 mile(s)
+Track map included on last page of report
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 1 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 2 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:02.8439 236.871 0
+2 9 Dixon, Scott D/H/F 00:02.8484 236.496 0
+3 10 Palou, Alex D/H/F 00:02.8491 236.438 0
+4 20 Carpenter, Ed D/C/F 00:02.8507 236.306 0
+5 8 Ericsson, Marcus D/H/F 00:02.8526 236.148 0
+6 48 Kanaan, Tony D/H/F 00:02.8539 236.041 1
+7 30 Sato, Takuma D/H/F 00:02.8561 235.859 5
+8 27 Rossi, Alexander D/H/F 00:02.8599 235.545 1
+9 5 O'Ward, Pato D/C/F 00:02.8613 235.430 0
+10 51 Fittipaldi, Pietro (R) D/H/F 00:02.8618 235.389 1
+11 06 Castroneves, Helio D/H/F 00:02.8628 235.307 2
+12 21 VeeKay, Rinus D/C/F 00:02.8647 235.151 7
+13 45 Ferrucci, Santino D/H/F 00:02.8655 235.085 5
+14 28 Hunter-Reay, Ryan D/H/F 00:02.8657 235.069 1
+15 28 Hunter-Reay, Ryan D/H/F 00:02.8657 235.069 0
+16 47 Daly, Conor D/C/F 00:02.8660 235.044 5
+17 29 Hinchcliffe, James D/H/F 00:02.8681 234.872 0
+18 2 Newgarden, Josef D/C/F 00:02.8695 234.757 5
+19 7 Rosenqvist, Felix D/C/F 00:02.8696 234.749 1
+20 86 Montoya, Juan Pablo D/C/F 00:02.8697 234.741 1
+21 15 Rahal, Graham D/H/F 00:02.8704 234.684 0
+22 3 McLaughlin, Scott (R) D/C/F 00:02.8704 234.684 0
+23 18 Jones, Ed D/H/F 00:02.8708 234.651 5
+24 22 Pagenaud, Simon D/C/F 00:02.8709 234.643 0
+25 98 Andretti, Marco D/H/F 00:02.8732 234.455 6
+26 59 Chilton, Max D/C/F 00:02.8767 234.170 0
+27 25 Wilson, Stefan D/H/F 00:02.8774 234.113 5
+28 14 Bourdais, Sebastien D/C/F 00:02.8777 234.088 0
+29 60 Harvey, Jack D/H/F 00:02.8783 234.040 0
+30 24 Karam, Sage D/C/F 00:02.8794 233.950 7
+31 12 Power, Will D/C/F 00:02.8807 233.845 3
+32 4 Kellett, Dalton D/C/F 00:02.8811 233.812 0
+33 16 De Silvestro, Simona D/C/F 00:02.8823 233.715 5
+34 11 Kimball, Charlie D/C/F 00:02.8835 233.618 0
+35 1 Hildebrand, JR D/C/F 00:02.8843 233.553 3
+36 75 Enerson, RC (R) D/C/F 00:02.8988 232.385 0
+Section: SF to T1 Length: 0.187121 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 2 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 3 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:04.8255 233.136 0
+2 20 Carpenter, Ed D/C/F 00:04.8387 232.500 0
+3 9 Dixon, Scott D/H/F 00:04.8424 232.323 0
+4 10 Palou, Alex D/H/F 00:04.8442 232.236 0
+5 48 Kanaan, Tony D/H/F 00:04.8489 232.011 0
+6 27 Rossi, Alexander D/H/F 00:04.8494 231.987 0
+7 21 VeeKay, Rinus D/C/F 00:04.8510 231.911 5
+8 8 Ericsson, Marcus D/H/F 00:04.8518 231.873 0
+9 30 Sato, Takuma D/H/F 00:04.8530 231.815 5
+10 45 Ferrucci, Santino D/H/F 00:04.8557 231.686 5
+11 51 Fittipaldi, Pietro (R) D/H/F 00:04.8572 231.615 0
+12 7 Rosenqvist, Felix D/C/F 00:04.8603 231.467 5
+13 5 O'Ward, Pato D/C/F 00:04.8608 231.443 1
+14 47 Daly, Conor D/C/F 00:04.8623 231.372 0
+15 28 Hunter-Reay, Ryan D/H/F 00:04.8650 231.244 0
+16 18 Jones, Ed D/H/F 00:04.8655 231.220 5
+17 3 McLaughlin, Scott (R) D/C/F 00:04.8663 231.182 0
+18 2 Newgarden, Josef D/C/F 00:04.8693 231.039 5
+19 15 Rahal, Graham D/H/F 00:04.8741 230.812 0
+20 98 Andretti, Marco D/H/F 00:04.8747 230.783 5
+21 59 Chilton, Max D/C/F 00:04.8760 230.722 0
+22 29 Hinchcliffe, James D/H/F 00:04.8765 230.698 0
+23 14 Bourdais, Sebastien D/C/F 00:04.8771 230.670 0
+24 06 Castroneves, Helio D/H/F 00:04.8775 230.651 1
+25 25 Wilson, Stefan D/H/F 00:04.8811 230.481 5
+26 86 Montoya, Juan Pablo D/C/F 00:04.8813 230.471 0
+27 22 Pagenaud, Simon D/C/F 00:04.8825 230.415 0
+28 60 Harvey, Jack D/H/F 00:04.8833 230.377 6
+29 1 Hildebrand, JR D/C/F 00:04.8851 230.292 0
+30 24 Karam, Sage D/C/F 00:04.8884 230.137 7
+31 4 Kellett, Dalton D/C/F 00:04.8895 230.085 5
+32 16 De Silvestro, Simona D/C/F 00:04.8954 229.808 5
+33 12 Power, Will D/C/F 00:04.9002 229.582 5
+34 11 Kimball, Charlie D/C/F 00:04.9069 229.269 0
+35 75 Enerson, RC (R) D/C/F 00:04.9258 228.389 0
+Section: T1 to SS1 Length: 0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 3 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 4 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 20 Carpenter, Ed D/C/F 00:04.8909 230.019 0
+2 7 Rosenqvist, Felix D/C/F 00:04.8925 229.944 5
+3 26 Herta, Colton D/H/F 00:04.8935 229.897 0
+4 8 Ericsson, Marcus D/H/F 00:04.8942 229.864 0
+5 10 Palou, Alex D/H/F 00:04.8958 229.789 5
+6 48 Kanaan, Tony D/H/F 00:04.8960 229.779 0
+7 9 Dixon, Scott D/H/F 00:04.8961 229.775 0
+8 21 VeeKay, Rinus D/C/F 00:04.8994 229.620 5
+9 18 Jones, Ed D/H/F 00:04.9023 229.484 5
+10 27 Rossi, Alexander D/H/F 00:04.9035 229.428 0
+11 51 Fittipaldi, Pietro (R) D/H/F 00:04.9046 229.377 0
+12 98 Andretti, Marco D/H/F 00:04.9047 229.372 5
+13 47 Daly, Conor D/C/F 00:04.9080 229.218 0
+14 5 O'Ward, Pato D/C/F 00:04.9105 229.101 0
+15 30 Sato, Takuma D/H/F 00:04.9121 229.026 5
+16 28 Hunter-Reay, Ryan D/H/F 00:04.9131 228.980 0
+17 45 Ferrucci, Santino D/H/F 00:04.9168 228.807 5
+18 1 Hildebrand, JR D/C/F 00:04.9186 228.724 0
+19 14 Bourdais, Sebastien D/C/F 00:04.9191 228.700 0
+20 15 Rahal, Graham D/H/F 00:04.9193 228.691 0
+21 06 Castroneves, Helio D/H/F 00:04.9205 228.635 0
+22 2 Newgarden, Josef D/C/F 00:04.9217 228.580 5
+23 29 Hinchcliffe, James D/H/F 00:04.9242 228.464 0
+24 60 Harvey, Jack D/H/F 00:04.9248 228.436 5
+25 25 Wilson, Stefan D/H/F 00:04.9257 228.394 5
+26 3 McLaughlin, Scott (R) D/C/F 00:04.9278 228.297 0
+27 24 Karam, Sage D/C/F 00:04.9319 228.107 7
+28 59 Chilton, Max D/C/F 00:04.9338 228.019 0
+29 86 Montoya, Juan Pablo D/C/F 00:04.9353 227.950 0
+30 16 De Silvestro, Simona D/C/F 00:04.9427 227.608 5
+31 12 Power, Will D/C/F 00:04.9462 227.447 5
+32 22 Pagenaud, Simon D/C/F 00:04.9465 227.434 0
+33 4 Kellett, Dalton D/C/F 00:04.9498 227.282 0
+34 11 Kimball, Charlie D/C/F 00:04.9658 226.550 0
+35 75 Enerson, RC (R) D/C/F 00:04.9910 225.406 5
+Section: SS1 to T2 Length: 0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 4 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 5 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:04.8284 232.996 0
+2 48 Kanaan, Tony D/H/F 00:04.8285 232.992 0
+3 21 VeeKay, Rinus D/C/F 00:04.8320 232.823 5
+4 20 Carpenter, Ed D/C/F 00:04.8353 232.664 0
+5 18 Jones, Ed D/H/F 00:04.8369 232.587 5
+6 7 Rosenqvist, Felix D/C/F 00:04.8378 232.544 5
+7 51 Fittipaldi, Pietro (R) D/H/F 00:04.8428 232.304 0
+8 5 O'Ward, Pato D/C/F 00:04.8447 232.213 0
+9 10 Palou, Alex D/H/F 00:04.8448 232.208 5
+10 8 Ericsson, Marcus D/H/F 00:04.8454 232.179 0
+11 26 Herta, Colton D/H/F 00:04.8521 231.858 0
+12 28 Hunter-Reay, Ryan D/H/F 00:04.8521 231.858 0
+13 06 Castroneves, Helio D/H/F 00:04.8554 231.701 1
+14 16 De Silvestro, Simona D/C/F 00:04.8554 231.701 5
+15 29 Hinchcliffe, James D/H/F 00:04.8555 231.696 0
+16 86 Montoya, Juan Pablo D/C/F 00:04.8575 231.601 0
+17 98 Andretti, Marco D/H/F 00:04.8578 231.586 5
+18 60 Harvey, Jack D/H/F 00:04.8582 231.567 5
+19 27 Rossi, Alexander D/H/F 00:04.8634 231.320 0
+20 1 Hildebrand, JR D/C/F 00:04.8635 231.315 0
+21 47 Daly, Conor D/C/F 00:04.8638 231.301 5
+22 25 Wilson, Stefan D/H/F 00:04.8646 231.263 10
+23 30 Sato, Takuma D/H/F 00:04.8652 231.234 0
+24 3 McLaughlin, Scott (R) D/C/F 00:04.8674 231.130 0
+25 2 Newgarden, Josef D/C/F 00:04.8680 231.101 0
+26 45 Ferrucci, Santino D/H/F 00:04.8687 231.068 5
+27 15 Rahal, Graham D/H/F 00:04.8707 230.973 0
+28 12 Power, Will D/C/F 00:04.8772 230.665 5
+29 24 Karam, Sage D/C/F 00:04.8783 230.613 7
+30 4 Kellett, Dalton D/C/F 00:04.8817 230.453 0
+31 59 Chilton, Max D/C/F 00:04.8898 230.071 0
+32 14 Bourdais, Sebastien D/C/F 00:04.8908 230.024 0
+33 22 Pagenaud, Simon D/C/F 00:04.8942 229.864 0
+34 11 Kimball, Charlie D/C/F 00:04.9092 229.162 0
+35 75 Enerson, RC (R) D/C/F 00:04.9225 228.542 5
+Section: T2 to BS Length: 0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 5 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 6 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:04.7585 236.419 0
+2 48 Kanaan, Tony D/H/F 00:04.7596 236.364 0
+3 10 Palou, Alex D/H/F 00:04.7622 236.235 5
+4 18 Jones, Ed D/H/F 00:04.7738 235.661 5
+5 20 Carpenter, Ed D/C/F 00:04.7793 235.390 0
+6 28 Hunter-Reay, Ryan D/H/F 00:04.7797 235.370 0
+7 30 Sato, Takuma D/H/F 00:04.7810 235.306 0
+8 16 De Silvestro, Simona D/C/F 00:04.7815 235.282 5
+9 29 Hinchcliffe, James D/H/F 00:04.7815 235.282 0
+10 21 VeeKay, Rinus D/C/F 00:04.7819 235.262 6
+11 7 Rosenqvist, Felix D/C/F 00:04.7856 235.080 5
+12 5 O'Ward, Pato D/C/F 00:04.7857 235.075 0
+13 51 Fittipaldi, Pietro (R) D/H/F 00:04.7866 235.031 0
+14 06 Castroneves, Helio D/H/F 00:04.7866 235.031 2
+15 8 Ericsson, Marcus D/H/F 00:04.7886 234.933 0
+16 26 Herta, Colton D/H/F 00:04.7898 234.874 5
+17 25 Wilson, Stefan D/H/F 00:04.7915 234.791 10
+18 47 Daly, Conor D/C/F 00:04.7938 234.678 5
+19 60 Harvey, Jack D/H/F 00:04.7942 234.659 5
+20 86 Montoya, Juan Pablo D/C/F 00:04.7949 234.624 5
+21 3 McLaughlin, Scott (R) D/C/F 00:04.7954 234.600 0
+22 98 Andretti, Marco D/H/F 00:04.7986 234.443 10
+23 45 Ferrucci, Santino D/H/F 00:04.8044 234.160 5
+24 2 Newgarden, Josef D/C/F 00:04.8081 233.980 0
+25 27 Rossi, Alexander D/H/F 00:04.8084 233.966 2
+26 15 Rahal, Graham D/H/F 00:04.8154 233.625 0
+27 12 Power, Will D/C/F 00:04.8156 233.616 7
+28 1 Hildebrand, JR D/C/F 00:04.8173 233.533 0
+29 22 Pagenaud, Simon D/C/F 00:04.8186 233.470 0
+30 24 Karam, Sage D/C/F 00:04.8193 233.436 7
+31 59 Chilton, Max D/C/F 00:04.8224 233.286 0
+32 4 Kellett, Dalton D/C/F 00:04.8281 233.011 6
+33 14 Bourdais, Sebastien D/C/F 00:04.8396 232.457 0
+34 75 Enerson, RC (R) D/C/F 00:04.8435 232.270 5
+35 11 Kimball, Charlie D/C/F 00:04.8486 232.026 6
+Section: BS to T3 Length: 0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 6 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 7 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:04.8444 232.227 0
+2 48 Kanaan, Tony D/H/F 00:04.8563 231.658 0
+3 10 Palou, Alex D/H/F 00:04.8579 231.582 5
+4 21 VeeKay, Rinus D/C/F 00:04.8625 231.362 5
+5 28 Hunter-Reay, Ryan D/H/F 00:04.8632 231.329 0
+6 20 Carpenter, Ed D/C/F 00:04.8633 231.324 0
+7 26 Herta, Colton D/H/F 00:04.8635 231.315 0
+8 30 Sato, Takuma D/H/F 00:04.8681 231.096 0
+9 18 Jones, Ed D/H/F 00:04.8696 231.025 5
+10 06 Castroneves, Helio D/H/F 00:04.8700 231.006 1
+11 3 McLaughlin, Scott (R) D/C/F 00:04.8700 231.006 0
+12 51 Fittipaldi, Pietro (R) D/H/F 00:04.8778 230.637 0
+13 29 Hinchcliffe, James D/H/F 00:04.8781 230.623 0
+14 8 Ericsson, Marcus D/H/F 00:04.8788 230.589 0
+15 98 Andretti, Marco D/H/F 00:04.8827 230.405 5
+16 86 Montoya, Juan Pablo D/C/F 00:04.8829 230.396 5
+17 25 Wilson, Stefan D/H/F 00:04.8839 230.349 5
+18 47 Daly, Conor D/C/F 00:04.8858 230.259 5
+19 5 O'Ward, Pato D/C/F 00:04.8872 230.193 0
+20 27 Rossi, Alexander D/H/F 00:04.8899 230.066 1
+21 15 Rahal, Graham D/H/F 00:04.8902 230.052 0
+22 45 Ferrucci, Santino D/H/F 00:04.8928 229.930 0
+23 2 Newgarden, Josef D/C/F 00:04.8951 229.822 0
+24 22 Pagenaud, Simon D/C/F 00:04.8954 229.808 0
+25 16 De Silvestro, Simona D/C/F 00:04.8954 229.808 5
+26 7 Rosenqvist, Felix D/C/F 00:04.8960 229.779 8
+27 7 Rosenqvist, Felix D/C/F 00:04.8960 229.779 0
+28 60 Harvey, Jack D/H/F 00:04.8967 229.747 8
+29 1 Hildebrand, JR D/C/F 00:04.9068 229.274 0
+30 24 Karam, Sage D/C/F 00:04.9102 229.115 0
+31 59 Chilton, Max D/C/F 00:04.9124 229.012 0
+32 4 Kellett, Dalton D/C/F 00:04.9147 228.905 6
+33 12 Power, Will D/C/F 00:04.9198 228.668 8
+34 14 Bourdais, Sebastien D/C/F 00:04.9224 228.547 0
+35 75 Enerson, RC (R) D/C/F 00:04.9333 228.042 5
+36 11 Kimball, Charlie D/C/F 00:04.9380 227.825 0
+Section: T3 to SS2 Length: 0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 7 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 8 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:04.9128 228.994 0
+2 9 Dixon, Scott D/H/F 00:04.9133 228.970 0
+3 21 VeeKay, Rinus D/C/F 00:04.9192 228.696 5
+4 20 Carpenter, Ed D/C/F 00:04.9219 228.570 0
+5 10 Palou, Alex D/H/F 00:04.9226 228.538 0
+6 48 Kanaan, Tony D/H/F 00:04.9251 228.422 0
+7 06 Castroneves, Helio D/H/F 00:04.9285 228.264 0
+8 8 Ericsson, Marcus D/H/F 00:04.9318 228.111 0
+9 18 Jones, Ed D/H/F 00:04.9319 228.107 5
+10 28 Hunter-Reay, Ryan D/H/F 00:04.9322 228.093 0
+11 27 Rossi, Alexander D/H/F 00:04.9335 228.033 0
+12 30 Sato, Takuma D/H/F 00:04.9350 227.964 0
+13 51 Fittipaldi, Pietro (R) D/H/F 00:04.9429 227.599 0
+14 3 McLaughlin, Scott (R) D/C/F 00:04.9437 227.562 0
+15 29 Hinchcliffe, James D/H/F 00:04.9438 227.558 0
+16 47 Daly, Conor D/C/F 00:04.9440 227.549 5
+17 5 O'Ward, Pato D/C/F 00:04.9440 227.549 0
+18 15 Rahal, Graham D/H/F 00:04.9441 227.544 0
+19 2 Newgarden, Josef D/C/F 00:04.9445 227.526 5
+20 7 Rosenqvist, Felix D/C/F 00:04.9476 227.383 1
+21 22 Pagenaud, Simon D/C/F 00:04.9495 227.296 0
+22 25 Wilson, Stefan D/H/F 00:04.9516 227.199 4
+23 86 Montoya, Juan Pablo D/C/F 00:04.9526 227.153 0
+24 1 Hildebrand, JR D/C/F 00:04.9531 227.130 0
+25 45 Ferrucci, Santino D/H/F 00:04.9561 226.993 0
+26 14 Bourdais, Sebastien D/C/F 00:04.9575 226.929 0
+27 60 Harvey, Jack D/H/F 00:04.9619 226.728 4
+28 24 Karam, Sage D/C/F 00:04.9624 226.705 0
+29 98 Andretti, Marco D/H/F 00:04.9636 226.650 5
+30 59 Chilton, Max D/C/F 00:04.9676 226.468 0
+31 4 Kellett, Dalton D/C/F 00:04.9720 226.267 5
+32 12 Power, Will D/C/F 00:04.9858 225.641 6
+33 16 De Silvestro, Simona D/C/F 00:04.9896 225.469 5
+34 11 Kimball, Charlie D/C/F 00:04.9914 225.388 0
+35 75 Enerson, RC (R) D/C/F 00:04.9973 225.122 0
+Section: SS2 to T4 Length: 0.312500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 8 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 9 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:03.1000 232.258 0
+2 21 VeeKay, Rinus D/C/F 00:03.1052 231.869 4
+3 20 Carpenter, Ed D/C/F 00:03.1060 231.809 0
+4 10 Palou, Alex D/H/F 00:03.1093 231.563 0
+5 9 Dixon, Scott D/H/F 00:03.1103 231.489 0
+6 48 Kanaan, Tony D/H/F 00:03.1128 231.303 0
+7 8 Ericsson, Marcus D/H/F 00:03.1146 231.169 0
+8 06 Castroneves, Helio D/H/F 00:03.1148 231.154 0
+9 27 Rossi, Alexander D/H/F 00:03.1192 230.828 0
+10 47 Daly, Conor D/C/F 00:03.1209 230.703 0
+11 28 Hunter-Reay, Ryan D/H/F 00:03.1215 230.658 0
+12 5 O'Ward, Pato D/C/F 00:03.1216 230.651 0
+13 7 Rosenqvist, Felix D/C/F 00:03.1222 230.607 0
+14 1 Hildebrand, JR D/C/F 00:03.1232 230.533 0
+15 3 McLaughlin, Scott (R) D/C/F 00:03.1238 230.489 0
+16 45 Ferrucci, Santino D/H/F 00:03.1251 230.393 0
+17 29 Hinchcliffe, James D/H/F 00:03.1251 230.393 0
+18 2 Newgarden, Josef D/C/F 00:03.1252 230.385 4
+19 30 Sato, Takuma D/H/F 00:03.1260 230.326 0
+20 51 Fittipaldi, Pietro (R) D/H/F 00:03.1271 230.245 0
+21 15 Rahal, Graham D/H/F 00:03.1271 230.245 0
+22 14 Bourdais, Sebastien D/C/F 00:03.1271 230.245 0
+23 18 Jones, Ed D/H/F 00:03.1273 230.231 5
+24 22 Pagenaud, Simon D/C/F 00:03.1307 229.981 0
+25 59 Chilton, Max D/C/F 00:03.1317 229.907 0
+26 86 Montoya, Juan Pablo D/C/F 00:03.1330 229.812 0
+27 25 Wilson, Stefan D/H/F 00:03.1354 229.636 0
+28 60 Harvey, Jack D/H/F 00:03.1364 229.563 4
+29 4 Kellett, Dalton D/C/F 00:03.1389 229.380 0
+30 98 Andretti, Marco D/H/F 00:03.1408 229.241 10
+31 24 Karam, Sage D/C/F 00:03.1431 229.073 0
+32 16 De Silvestro, Simona D/C/F 00:03.1454 228.906 4
+33 12 Power, Will D/C/F 00:03.1495 228.608 0
+34 11 Kimball, Charlie D/C/F 00:03.1557 228.159 0
+35 75 Enerson, RC (R) D/C/F 00:03.1589 227.927 0
+Section: T4 to FS Length: 0.200000 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 9 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 10 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:03.6430 235.071 0
+2 10 Palou, Alex D/H/F 00:03.6497 234.639 0
+3 20 Carpenter, Ed D/C/F 00:03.6517 234.511 0
+4 48 Kanaan, Tony D/H/F 00:03.6531 234.421 0
+5 21 VeeKay, Rinus D/C/F 00:03.6548 234.312 4
+6 9 Dixon, Scott D/H/F 00:03.6549 234.306 0
+7 8 Ericsson, Marcus D/H/F 00:03.6589 234.049 0
+8 27 Rossi, Alexander D/H/F 00:03.6611 233.909 0
+9 06 Castroneves, Helio D/H/F 00:03.6640 233.724 1
+10 51 Fittipaldi, Pietro (R) D/H/F 00:03.6642 233.711 0
+11 47 Daly, Conor D/C/F 00:03.6649 233.666 4
+12 30 Sato, Takuma D/H/F 00:03.6673 233.513 4
+13 5 O'Ward, Pato D/C/F 00:03.6684 233.443 0
+14 3 McLaughlin, Scott (R) D/C/F 00:03.6700 233.342 0
+15 2 Newgarden, Josef D/C/F 00:03.6726 233.176 5
+16 22 Pagenaud, Simon D/C/F 00:03.6734 233.126 0
+17 7 Rosenqvist, Felix D/C/F 00:03.6737 233.107 0
+18 28 Hunter-Reay, Ryan D/H/F 00:03.6741 233.081 0
+19 15 Rahal, Graham D/H/F 00:03.6747 233.043 0
+20 1 Hildebrand, JR D/C/F 00:03.6748 233.037 0
+21 18 Jones, Ed D/H/F 00:03.6755 232.992 4
+22 29 Hinchcliffe, James D/H/F 00:03.6755 232.992 0
+23 45 Ferrucci, Santino D/H/F 00:03.6778 232.847 0
+24 86 Montoya, Juan Pablo D/C/F 00:03.6786 232.796 0
+25 14 Bourdais, Sebastien D/C/F 00:03.6811 232.638 0
+26 59 Chilton, Max D/C/F 00:03.6834 232.493 0
+27 4 Kellett, Dalton D/C/F 00:03.6843 232.436 0
+28 60 Harvey, Jack D/H/F 00:03.6850 232.392 0
+29 25 Wilson, Stefan D/H/F 00:03.6874 232.241 4
+30 12 Power, Will D/C/F 00:03.6878 232.215 0
+31 16 De Silvestro, Simona D/C/F 00:03.6890 232.140 4
+32 24 Karam, Sage D/C/F 00:03.6901 232.071 6
+33 98 Andretti, Marco D/H/F 00:03.6904 232.052 10
+34 11 Kimball, Charlie D/C/F 00:03.6990 231.512 0
+35 75 Enerson, RC (R) D/C/F 00:03.7122 230.689 0
+Section: FS to SF Length: 0.237879 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 10 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 11 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:09.7190 231.505 0
+2 20 Carpenter, Ed D/C/F 00:09.7296 231.253 0
+3 9 Dixon, Scott D/H/F 00:09.7385 231.042 0
+4 10 Palou, Alex D/H/F 00:09.7441 230.909 5
+5 48 Kanaan, Tony D/H/F 00:09.7449 230.890 0
+6 8 Ericsson, Marcus D/H/F 00:09.7460 230.864 0
+7 21 VeeKay, Rinus D/C/F 00:09.7504 230.760 5
+8 7 Rosenqvist, Felix D/C/F 00:09.7528 230.703 5
+9 27 Rossi, Alexander D/H/F 00:09.7529 230.701 0
+10 51 Fittipaldi, Pietro (R) D/H/F 00:09.7618 230.490 0
+11 30 Sato, Takuma D/H/F 00:09.7651 230.412 5
+12 18 Jones, Ed D/H/F 00:09.7678 230.349 5
+13 47 Daly, Conor D/C/F 00:09.7703 230.290 0
+14 45 Ferrucci, Santino D/H/F 00:09.7725 230.238 5
+15 5 O'Ward, Pato D/C/F 00:09.7752 230.174 0
+16 28 Hunter-Reay, Ryan D/H/F 00:09.7781 230.106 0
+17 98 Andretti, Marco D/H/F 00:09.7794 230.075 5
+18 2 Newgarden, Josef D/C/F 00:09.7910 229.803 5
+19 15 Rahal, Graham D/H/F 00:09.7934 229.747 0
+20 3 McLaughlin, Scott (R) D/C/F 00:09.7941 229.730 0
+21 14 Bourdais, Sebastien D/C/F 00:09.7962 229.681 0
+22 29 Hinchcliffe, James D/H/F 00:09.8007 229.575 0
+23 1 Hildebrand, JR D/C/F 00:09.8037 229.505 0
+24 06 Castroneves, Helio D/H/F 00:09.8051 229.472 1
+25 25 Wilson, Stefan D/H/F 00:09.8068 229.433 5
+26 59 Chilton, Max D/C/F 00:09.8098 229.362 0
+27 60 Harvey, Jack D/H/F 00:09.8151 229.239 5
+28 86 Montoya, Juan Pablo D/C/F 00:09.8166 229.204 0
+29 24 Karam, Sage D/C/F 00:09.8203 229.117 7
+30 22 Pagenaud, Simon D/C/F 00:09.8290 228.914 0
+31 16 De Silvestro, Simona D/C/F 00:09.8381 228.703 5
+32 4 Kellett, Dalton D/C/F 00:09.8459 228.522 0
+33 12 Power, Will D/C/F 00:09.8464 228.510 5
+34 11 Kimball, Charlie D/C/F 00:09.8727 227.901 0
+35 75 Enerson, RC (R) D/C/F 00:09.9230 226.746 0
+Section: T1 to T2 Length: 0.625000 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 11 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 12 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:09.5869 234.695 0
+2 48 Kanaan, Tony D/H/F 00:09.5881 234.666 0
+3 10 Palou, Alex D/H/F 00:09.6070 234.204 5
+4 18 Jones, Ed D/H/F 00:09.6107 234.114 5
+5 21 VeeKay, Rinus D/C/F 00:09.6146 234.019 5
+6 20 Carpenter, Ed D/C/F 00:09.6146 234.019 0
+7 7 Rosenqvist, Felix D/C/F 00:09.6234 233.805 5
+8 51 Fittipaldi, Pietro (R) D/H/F 00:09.6294 233.659 0
+9 5 O'Ward, Pato D/C/F 00:09.6304 233.635 0
+10 28 Hunter-Reay, Ryan D/H/F 00:09.6318 233.601 0
+11 8 Ericsson, Marcus D/H/F 00:09.6340 233.548 0
+12 16 De Silvestro, Simona D/C/F 00:09.6369 233.478 5
+13 29 Hinchcliffe, James D/H/F 00:09.6370 233.475 0
+14 06 Castroneves, Helio D/H/F 00:09.6434 233.320 2
+15 30 Sato, Takuma D/H/F 00:09.6462 233.252 0
+16 26 Herta, Colton D/H/F 00:09.6468 233.238 0
+17 60 Harvey, Jack D/H/F 00:09.6524 233.103 5
+18 86 Montoya, Juan Pablo D/C/F 00:09.6526 233.098 0
+19 25 Wilson, Stefan D/H/F 00:09.6561 233.013 10
+20 47 Daly, Conor D/C/F 00:09.6576 232.977 5
+21 98 Andretti, Marco D/H/F 00:09.6603 232.912 5
+22 3 McLaughlin, Scott (R) D/C/F 00:09.6628 232.852 0
+23 27 Rossi, Alexander D/H/F 00:09.6720 232.630 0
+24 45 Ferrucci, Santino D/H/F 00:09.6731 232.604 5
+25 2 Newgarden, Josef D/C/F 00:09.6761 232.532 0
+26 1 Hildebrand, JR D/C/F 00:09.6808 232.419 0
+27 15 Rahal, Graham D/H/F 00:09.6861 232.292 0
+28 12 Power, Will D/C/F 00:09.6975 232.019 0
+29 24 Karam, Sage D/C/F 00:09.6976 232.016 7
+30 4 Kellett, Dalton D/C/F 00:09.7115 231.684 0
+31 59 Chilton, Max D/C/F 00:09.7122 231.667 0
+32 22 Pagenaud, Simon D/C/F 00:09.7128 231.653 0
+33 14 Bourdais, Sebastien D/C/F 00:09.7304 231.234 0
+34 11 Kimball, Charlie D/C/F 00:09.7602 230.528 0
+35 75 Enerson, RC (R) D/C/F 00:09.7660 230.391 5
+Section: T2 to T3 Length: 0.625000 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 12 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 13 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:09.7577 230.587 0
+2 26 Herta, Colton D/H/F 00:09.7763 230.148 0
+3 48 Kanaan, Tony D/H/F 00:09.7814 230.028 0
+4 21 VeeKay, Rinus D/C/F 00:09.7817 230.021 5
+5 20 Carpenter, Ed D/C/F 00:09.7852 229.939 0
+6 28 Hunter-Reay, Ryan D/H/F 00:09.7954 229.700 0
+7 10 Palou, Alex D/H/F 00:09.7970 229.662 5
+8 06 Castroneves, Helio D/H/F 00:09.7993 229.608 1
+9 18 Jones, Ed D/H/F 00:09.8015 229.557 5
+10 30 Sato, Takuma D/H/F 00:09.8031 229.519 0
+11 8 Ericsson, Marcus D/H/F 00:09.8106 229.344 0
+12 3 McLaughlin, Scott (R) D/C/F 00:09.8137 229.271 0
+13 51 Fittipaldi, Pietro (R) D/H/F 00:09.8207 229.108 0
+14 27 Rossi, Alexander D/H/F 00:09.8246 229.017 0
+15 29 Hinchcliffe, James D/H/F 00:09.8250 229.008 0
+16 47 Daly, Conor D/C/F 00:09.8298 228.896 5
+17 5 O'Ward, Pato D/C/F 00:09.8312 228.863 0
+18 15 Rahal, Graham D/H/F 00:09.8343 228.791 0
+19 25 Wilson, Stefan D/H/F 00:09.8410 228.635 4
+20 86 Montoya, Juan Pablo D/C/F 00:09.8435 228.577 0
+21 2 Newgarden, Josef D/C/F 00:09.8441 228.563 5
+22 22 Pagenaud, Simon D/C/F 00:09.8449 228.545 0
+23 7 Rosenqvist, Felix D/C/F 00:09.8456 228.528 0
+24 98 Andretti, Marco D/H/F 00:09.8463 228.512 5
+25 45 Ferrucci, Santino D/H/F 00:09.8489 228.452 0
+26 1 Hildebrand, JR D/C/F 00:09.8599 228.197 0
+27 60 Harvey, Jack D/H/F 00:09.8690 227.987 5
+28 24 Karam, Sage D/C/F 00:09.8726 227.903 0
+29 14 Bourdais, Sebastien D/C/F 00:09.8799 227.735 0
+30 59 Chilton, Max D/C/F 00:09.8800 227.733 0
+31 16 De Silvestro, Simona D/C/F 00:09.8850 227.618 5
+32 4 Kellett, Dalton D/C/F 00:09.8878 227.553 5
+33 12 Power, Will D/C/F 00:09.9092 227.062 6
+34 11 Kimball, Charlie D/C/F 00:09.9294 226.600 0
+35 75 Enerson, RC (R) D/C/F 00:09.9516 226.094 0
+Section: T3 to T4 Length: 0.625000 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 13 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 14 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:06.7430 233.778 0
+2 20 Carpenter, Ed D/C/F 00:06.7577 233.269 0
+3 10 Palou, Alex D/H/F 00:06.7590 233.224 0
+4 21 VeeKay, Rinus D/C/F 00:06.7600 233.190 4
+5 9 Dixon, Scott D/H/F 00:06.7658 232.990 0
+6 48 Kanaan, Tony D/H/F 00:06.7659 232.987 0
+7 8 Ericsson, Marcus D/H/F 00:06.7741 232.705 0
+8 06 Castroneves, Helio D/H/F 00:06.7792 232.529 0
+9 27 Rossi, Alexander D/H/F 00:06.7803 232.492 0
+10 47 Daly, Conor D/C/F 00:06.7893 232.184 4
+11 5 O'Ward, Pato D/C/F 00:06.7900 232.160 0
+12 51 Fittipaldi, Pietro (R) D/H/F 00:06.7913 232.115 0
+13 3 McLaughlin, Scott (R) D/C/F 00:06.7940 232.023 0
+14 28 Hunter-Reay, Ryan D/H/F 00:06.7956 231.968 0
+15 7 Rosenqvist, Felix D/C/F 00:06.7959 231.958 0
+16 30 Sato, Takuma D/H/F 00:06.7967 231.931 4
+17 1 Hildebrand, JR D/C/F 00:06.7992 231.845 0
+18 29 Hinchcliffe, James D/H/F 00:06.8006 231.798 0
+19 2 Newgarden, Josef D/C/F 00:06.8007 231.794 4
+20 15 Rahal, Graham D/H/F 00:06.8018 231.757 0
+21 45 Ferrucci, Santino D/H/F 00:06.8029 231.719 0
+22 18 Jones, Ed D/H/F 00:06.8039 231.685 5
+23 22 Pagenaud, Simon D/C/F 00:06.8041 231.678 0
+24 14 Bourdais, Sebastien D/C/F 00:06.8082 231.539 0
+25 86 Montoya, Juan Pablo D/C/F 00:06.8116 231.423 0
+26 59 Chilton, Max D/C/F 00:06.8151 231.305 0
+27 60 Harvey, Jack D/H/F 00:06.8221 231.067 0
+28 4 Kellett, Dalton D/C/F 00:06.8236 231.016 0
+29 25 Wilson, Stefan D/H/F 00:06.8273 230.891 4
+30 98 Andretti, Marco D/H/F 00:06.8312 230.759 10
+31 16 De Silvestro, Simona D/C/F 00:06.8344 230.651 4
+32 24 Karam, Sage D/C/F 00:06.8344 230.651 6
+33 12 Power, Will D/C/F 00:06.8373 230.554 0
+34 11 Kimball, Charlie D/C/F 00:06.8554 229.945 0
+35 75 Enerson, RC (R) D/C/F 00:06.8711 229.419 0
+Section: T4 to SF Length: 0.437879 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 14 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 15 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 48 Kanaan, Tony D/H/F 00:00.3440 237.844 2
+2 10 Palou, Alex D/H/F 00:00.3443 237.636 0
+3 26 Herta, Colton D/H/F 00:00.3445 237.498 0
+4 8 Ericsson, Marcus D/H/F 00:00.3449 237.223 1
+5 9 Dixon, Scott D/H/F 00:00.3450 237.154 1
+6 20 Carpenter, Ed D/C/F 00:00.3453 236.948 0
+7 30 Sato, Takuma D/H/F 00:00.3461 236.400 5
+8 29 Hinchcliffe, James D/H/F 00:00.3462 236.332 0
+9 06 Castroneves, Helio D/H/F 00:00.3464 236.196 3
+10 51 Fittipaldi, Pietro (R) D/H/F 00:00.3465 236.128 0
+11 45 Ferrucci, Santino D/H/F 00:00.3466 236.059 5
+12 7 Rosenqvist, Felix D/C/F 00:00.3467 235.991 5
+13 86 Montoya, Juan Pablo D/C/F 00:00.3469 235.855 2
+14 21 VeeKay, Rinus D/C/F 00:00.3469 235.855 0
+15 5 O'Ward, Pato D/C/F 00:00.3470 235.787 2
+16 27 Rossi, Alexander D/H/F 00:00.3470 235.787 3
+17 47 Daly, Conor D/C/F 00:00.3473 235.584 5
+18 28 Hunter-Reay, Ryan D/H/F 00:00.3473 235.584 1
+19 28 Hunter-Reay, Ryan D/H/F 00:00.3473 235.584 0
+20 98 Andretti, Marco D/H/F 00:00.3474 235.516 6
+21 18 Jones, Ed D/H/F 00:00.3477 235.313 5
+22 15 Rahal, Graham D/H/F 00:00.3477 235.313 3
+23 3 McLaughlin, Scott (R) D/C/F 00:00.3478 235.245 2
+24 25 Wilson, Stefan D/H/F 00:00.3480 235.110 13
+25 2 Newgarden, Josef D/C/F 00:00.3481 235.042 0
+26 22 Pagenaud, Simon D/C/F 00:00.3481 235.042 0
+27 14 Bourdais, Sebastien D/C/F 00:00.3485 234.772 0
+28 59 Chilton, Max D/C/F 00:00.3487 234.638 0
+29 60 Harvey, Jack D/H/F 00:00.3488 234.570 7
+30 12 Power, Will D/C/F 00:00.3489 234.503 5
+31 4 Kellett, Dalton D/C/F 00:00.3490 234.436 3
+32 24 Karam, Sage D/C/F 00:00.3491 234.369 7
+33 16 De Silvestro, Simona D/C/F 00:00.3491 234.369 5
+34 16 De Silvestro, Simona D/C/F 00:00.3491 234.369 0
+35 1 Hildebrand, JR D/C/F 00:00.3499 233.833 3
+36 11 Kimball, Charlie D/C/F 00:00.3500 233.766 1
+37 75 Enerson, RC (R) D/C/F 00:00.3511 233.034 2
+Section: T1T to T1 Length: 0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 15 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 16 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 9 Dixon, Scott D/H/F 00:00.3476 235.380 0
+2 48 Kanaan, Tony D/H/F 00:00.3482 234.975 0
+3 86 Montoya, Juan Pablo D/C/F 00:00.3483 234.907 5
+4 98 Andretti, Marco D/H/F 00:00.3487 234.638 5
+5 18 Jones, Ed D/H/F 00:00.3491 234.369 5
+6 27 Rossi, Alexander D/H/F 00:00.3493 234.235 0
+7 5 O'Ward, Pato D/C/F 00:00.3493 234.235 0
+8 20 Carpenter, Ed D/C/F 00:00.3495 234.101 0
+9 28 Hunter-Reay, Ryan D/H/F 00:00.3495 234.101 0
+10 21 VeeKay, Rinus D/C/F 00:00.3496 234.034 0
+11 8 Ericsson, Marcus D/H/F 00:00.3496 234.034 0
+12 06 Castroneves, Helio D/H/F 00:00.3497 233.967 1
+13 06 Castroneves, Helio D/H/F 00:00.3497 233.967 0
+14 7 Rosenqvist, Felix D/C/F 00:00.3497 233.967 5
+15 26 Herta, Colton D/H/F 00:00.3498 233.900 0
+16 47 Daly, Conor D/C/F 00:00.3499 233.833 0
+17 2 Newgarden, Josef D/C/F 00:00.3502 233.633 0
+18 10 Palou, Alex D/H/F 00:00.3502 233.633 5
+19 30 Sato, Takuma D/H/F 00:00.3502 233.633 0
+20 1 Hildebrand, JR D/C/F 00:00.3504 233.499 0
+21 51 Fittipaldi, Pietro (R) D/H/F 00:00.3504 233.499 0
+22 29 Hinchcliffe, James D/H/F 00:00.3509 233.167 0
+23 3 McLaughlin, Scott (R) D/C/F 00:00.3511 233.034 0
+24 60 Harvey, Jack D/H/F 00:00.3513 232.901 5
+25 25 Wilson, Stefan D/H/F 00:00.3514 232.835 10
+26 45 Ferrucci, Santino D/H/F 00:00.3516 232.702 5
+27 15 Rahal, Graham D/H/F 00:00.3519 232.504 0
+28 16 De Silvestro, Simona D/C/F 00:00.3519 232.504 5
+29 14 Bourdais, Sebastien D/C/F 00:00.3521 232.372 0
+30 4 Kellett, Dalton D/C/F 00:00.3525 232.108 0
+31 24 Karam, Sage D/C/F 00:00.3527 231.977 7
+32 22 Pagenaud, Simon D/C/F 00:00.3528 231.911 1
+33 59 Chilton, Max D/C/F 00:00.3530 231.780 0
+34 12 Power, Will D/C/F 00:00.3536 231.386 5
+35 11 Kimball, Charlie D/C/F 00:00.3542 230.994 0
+36 75 Enerson, RC (R) D/C/F 00:00.3550 230.474 5
+Section: T2T to T2 Length: 0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 16 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 17 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 10 Palou, Alex D/H/F 00:00.3425 238.885 5
+2 86 Montoya, Juan Pablo D/C/F 00:00.3429 238.607 7
+3 9 Dixon, Scott D/H/F 00:00.3434 238.259 0
+4 48 Kanaan, Tony D/H/F 00:00.3439 237.913 0
+5 21 VeeKay, Rinus D/C/F 00:00.3444 237.567 7
+6 28 Hunter-Reay, Ryan D/H/F 00:00.3447 237.361 2
+7 30 Sato, Takuma D/H/F 00:00.3449 237.223 0
+8 25 Wilson, Stefan D/H/F 00:00.3450 237.154 10
+9 06 Castroneves, Helio D/H/F 00:00.3452 237.017 1
+10 18 Jones, Ed D/H/F 00:00.3452 237.017 8
+11 51 Fittipaldi, Pietro (R) D/H/F 00:00.3453 236.948 0
+12 20 Carpenter, Ed D/C/F 00:00.3453 236.948 0
+13 29 Hinchcliffe, James D/H/F 00:00.3454 236.880 1
+14 16 De Silvestro, Simona D/C/F 00:00.3458 236.605 5
+15 26 Herta, Colton D/H/F 00:00.3458 236.605 0
+16 3 McLaughlin, Scott (R) D/C/F 00:00.3458 236.605 1
+17 45 Ferrucci, Santino D/H/F 00:00.3458 236.605 0
+18 8 Ericsson, Marcus D/H/F 00:00.3459 236.537 0
+19 60 Harvey, Jack D/H/F 00:00.3461 236.400 8
+20 47 Daly, Conor D/C/F 00:00.3464 236.196 5
+21 98 Andretti, Marco D/H/F 00:00.3466 236.059 10
+22 98 Andretti, Marco D/H/F 00:00.3466 236.059 12
+23 7 Rosenqvist, Felix D/C/F 00:00.3470 235.787 5
+24 5 O'Ward, Pato D/C/F 00:00.3471 235.719 1
+25 2 Newgarden, Josef D/C/F 00:00.3472 235.651 5
+26 27 Rossi, Alexander D/H/F 00:00.3475 235.448 2
+27 4 Kellett, Dalton D/C/F 00:00.3477 235.313 8
+28 15 Rahal, Graham D/H/F 00:00.3479 235.177 2
+29 24 Karam, Sage D/C/F 00:00.3479 235.177 7
+30 22 Pagenaud, Simon D/C/F 00:00.3479 235.177 0
+31 12 Power, Will D/C/F 00:00.3482 234.975 8
+32 59 Chilton, Max D/C/F 00:00.3487 234.638 0
+33 75 Enerson, RC (R) D/C/F 00:00.3491 234.369 5
+34 1 Hildebrand, JR D/C/F 00:00.3492 234.302 3
+35 11 Kimball, Charlie D/C/F 00:00.3500 233.766 6
+36 14 Bourdais, Sebastien D/C/F 00:00.3501 233.699 0
+Section: T3T to T3 Length: 0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 17 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 18 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:00.3484 234.840 0
+2 21 VeeKay, Rinus D/C/F 00:00.3493 234.235 4
+3 48 Kanaan, Tony D/H/F 00:00.3496 234.034 0
+4 10 Palou, Alex D/H/F 00:00.3504 233.499 0
+5 9 Dixon, Scott D/H/F 00:00.3505 233.433 0
+6 06 Castroneves, Helio D/H/F 00:00.3505 233.433 0
+7 20 Carpenter, Ed D/C/F 00:00.3507 233.300 1
+8 28 Hunter-Reay, Ryan D/H/F 00:00.3508 233.233 0
+9 7 Rosenqvist, Felix D/C/F 00:00.3510 233.100 1
+10 27 Rossi, Alexander D/H/F 00:00.3511 233.034 2
+11 30 Sato, Takuma D/H/F 00:00.3513 232.901 0
+12 18 Jones, Ed D/H/F 00:00.3515 232.769 6
+13 18 Jones, Ed D/H/F 00:00.3515 232.769 5
+14 8 Ericsson, Marcus D/H/F 00:00.3518 232.570 0
+15 51 Fittipaldi, Pietro (R) D/H/F 00:00.3519 232.504 0
+16 1 Hildebrand, JR D/C/F 00:00.3520 232.438 0
+17 47 Daly, Conor D/C/F 00:00.3521 232.372 1
+18 29 Hinchcliffe, James D/H/F 00:00.3523 232.240 0
+19 2 Newgarden, Josef D/C/F 00:00.3524 232.174 5
+20 3 McLaughlin, Scott (R) D/C/F 00:00.3526 232.042 1
+21 14 Bourdais, Sebastien D/C/F 00:00.3527 231.977 0
+22 5 O'Ward, Pato D/C/F 00:00.3528 231.911 0
+23 59 Chilton, Max D/C/F 00:00.3528 231.911 0
+24 45 Ferrucci, Santino D/H/F 00:00.3529 231.845 0
+25 86 Montoya, Juan Pablo D/C/F 00:00.3530 231.780 0
+26 4 Kellett, Dalton D/C/F 00:00.3534 231.517 5
+27 98 Andretti, Marco D/H/F 00:00.3535 231.452 0
+28 22 Pagenaud, Simon D/C/F 00:00.3539 231.190 0
+29 15 Rahal, Graham D/H/F 00:00.3539 231.190 0
+30 60 Harvey, Jack D/H/F 00:00.3540 231.125 4
+31 25 Wilson, Stefan D/H/F 00:00.3541 231.060 0
+32 24 Karam, Sage D/C/F 00:00.3545 230.799 1
+33 11 Kimball, Charlie D/C/F 00:00.3547 230.669 3
+34 16 De Silvestro, Simona D/C/F 00:00.3549 230.539 4
+35 12 Power, Will D/C/F 00:00.3556 230.085 7
+36 75 Enerson, RC (R) D/C/F 00:00.3568 229.311 0
+Section: T4T to T4 Length: 0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 18 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 19 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:00.4728 237.223 1
+2 5 O'Ward, Pato D/C/F 00:00.4732 237.023 0
+3 10 Palou, Alex D/H/F 00:00.4741 236.573 0
+4 9 Dixon, Scott D/H/F 00:00.4741 236.573 0
+5 48 Kanaan, Tony D/H/F 00:00.4744 236.423 1
+6 8 Ericsson, Marcus D/H/F 00:00.4744 236.423 0
+7 30 Sato, Takuma D/H/F 00:00.4744 236.423 5
+8 20 Carpenter, Ed D/C/F 00:00.4744 236.423 0
+9 27 Rossi, Alexander D/H/F 00:00.4746 236.323 1
+10 2 Newgarden, Josef D/C/F 00:00.4750 236.124 9
+11 21 VeeKay, Rinus D/C/F 00:00.4751 236.075 7
+12 22 Pagenaud, Simon D/C/F 00:00.4755 235.876 0
+13 51 Fittipaldi, Pietro (R) D/H/F 00:00.4757 235.777 1
+14 11 Kimball, Charlie D/C/F 00:00.4758 235.727 0
+15 06 Castroneves, Helio D/H/F 00:00.4759 235.678 2
+16 18 Jones, Ed D/H/F 00:00.4766 235.332 9
+17 47 Daly, Conor D/C/F 00:00.4766 235.332 5
+18 4 Kellett, Dalton D/C/F 00:00.4767 235.282 2
+19 28 Hunter-Reay, Ryan D/H/F 00:00.4768 235.233 3
+20 28 Hunter-Reay, Ryan D/H/F 00:00.4768 235.233 1
+21 7 Rosenqvist, Felix D/C/F 00:00.4769 235.184 5
+22 7 Rosenqvist, Felix D/C/F 00:00.4769 235.184 2
+23 86 Montoya, Juan Pablo D/C/F 00:00.4769 235.184 0
+24 3 McLaughlin, Scott (R) D/C/F 00:00.4770 235.134 0
+25 29 Hinchcliffe, James D/H/F 00:00.4771 235.085 0
+26 15 Rahal, Graham D/H/F 00:00.4773 234.987 1
+27 45 Ferrucci, Santino D/H/F 00:00.4775 234.888 6
+28 1 Hildebrand, JR D/C/F 00:00.4780 234.642 3
+29 98 Andretti, Marco D/H/F 00:00.4780 234.642 7
+30 59 Chilton, Max D/C/F 00:00.4782 234.544 1
+31 60 Harvey, Jack D/H/F 00:00.4784 234.446 0
+32 14 Bourdais, Sebastien D/C/F 00:00.4785 234.397 2
+33 14 Bourdais, Sebastien D/C/F 00:00.4785 234.397 0
+34 25 Wilson, Stefan D/H/F 00:00.4786 234.348 5
+35 24 Karam, Sage D/C/F 00:00.4789 234.201 7
+36 12 Power, Will D/C/F 00:00.4790 234.153 2
+37 16 De Silvestro, Simona D/C/F 00:00.4796 233.860 4
+38 75 Enerson, RC (R) D/C/F 00:00.4816 232.888 0
+Section: SF to SFT Length: 0.031155 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 19 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 20 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:06.8810 138.722 4
+2 2 Newgarden, Josef D/C/F 00:07.2993 130.772 9
+3 16 De Silvestro, Simona D/C/F 00:07.5714 126.073 9
+4 48 Kanaan, Tony D/H/F 00:07.7044 123.896 4
+5 18 Jones, Ed D/H/F 00:07.7674 122.891 9
+6 27 Rossi, Alexander D/H/F 00:07.8746 121.218 4
+7 60 Harvey, Jack D/H/F 00:07.9156 120.590 4
+8 06 Castroneves, Helio D/H/F 00:07.9419 120.191 7
+9 21 VeeKay, Rinus D/C/F 00:07.9542 120.005 4
+10 24 Karam, Sage D/C/F 00:08.0535 118.526 9
+11 7 Rosenqvist, Felix D/C/F 00:08.1464 117.174 4
+12 25 Wilson, Stefan D/H/F 00:08.1780 116.721 9
+13 4 Kellett, Dalton D/C/F 00:08.2148 116.198 9
+14 45 Ferrucci, Santino D/H/F 00:08.3076 114.900 4
+15 75 Enerson, RC (R) D/C/F 00:08.3285 114.612 4
+16 1 Hildebrand, JR D/C/F 00:08.4370 113.138 4
+17 47 Daly, Conor D/C/F 00:08.5051 112.232 4
+18 98 Andretti, Marco D/H/F 00:08.5340 111.852 4
+19 11 Kimball, Charlie D/C/F 00:08.5431 111.733 7
+20 5 O'Ward, Pato D/C/F 00:08.7020 109.693 4
+21 22 Pagenaud, Simon D/C/F 00:08.9841 106.248 4
+22 29 Hinchcliffe, James D/H/F 00:09.1297 104.554 4
+23 86 Montoya, Juan Pablo D/C/F 00:09.2155 103.580 4
+24 20 Carpenter, Ed D/C/F 00:09.3408 102.191 4
+25 10 Palou, Alex D/H/F 00:09.3895 101.661 4
+26 12 Power, Will D/C/F 00:09.4225 101.305 9
+27 3 McLaughlin, Scott (R) D/C/F 00:09.7398 98.005 4
+28 14 Bourdais, Sebastien D/C/F 00:09.8809 96.605 4
+29 28 Hunter-Reay, Ryan D/H/F 00:09.9013 96.406 4
+30 8 Ericsson, Marcus D/H/F 00:10.0104 95.355 4
+31 30 Sato, Takuma D/H/F 00:10.0635 94.852 7
+32 51 Fittipaldi, Pietro (R) D/H/F 00:10.0960 94.547 4
+33 15 Rahal, Graham D/H/F 00:10.6140 89.933 4
+34 9 Dixon, Scott D/H/F 00:11.6508 81.930 4
+Section: PT3 to PSS2 Length: 0.265152 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 20 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 21 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:07.0452 135.489 4
+2 16 De Silvestro, Simona D/C/F 00:07.3364 130.111 9
+3 2 Newgarden, Josef D/C/F 00:07.5384 126.624 4
+4 4 Kellett, Dalton D/C/F 00:07.7205 123.638 9
+5 25 Wilson, Stefan D/H/F 00:08.0100 119.169 14
+6 98 Andretti, Marco D/H/F 00:08.0213 119.001 4
+7 21 VeeKay, Rinus D/C/F 00:08.1927 116.512 4
+8 60 Harvey, Jack D/H/F 00:08.2599 115.564 4
+9 18 Jones, Ed D/H/F 00:08.2835 115.235 9
+10 22 Pagenaud, Simon D/C/F 00:08.3351 114.521 4
+11 06 Castroneves, Helio D/H/F 00:08.3460 114.372 4
+12 24 Karam, Sage D/C/F 00:08.4722 112.668 4
+13 45 Ferrucci, Santino D/H/F 00:08.6478 110.380 4
+14 1 Hildebrand, JR D/C/F 00:08.6735 110.053 4
+15 48 Kanaan, Tony D/H/F 00:08.7013 109.701 4
+16 27 Rossi, Alexander D/H/F 00:08.8112 108.333 4
+17 75 Enerson, RC (R) D/C/F 00:08.8625 107.706 4
+18 7 Rosenqvist, Felix D/C/F 00:08.9041 107.203 9
+19 11 Kimball, Charlie D/C/F 00:09.0109 105.932 7
+20 47 Daly, Conor D/C/F 00:09.0699 105.243 4
+21 10 Palou, Alex D/H/F 00:09.1484 104.340 4
+22 5 O'Ward, Pato D/C/F 00:09.1918 103.848 4
+23 20 Carpenter, Ed D/C/F 00:09.7639 97.763 4
+24 8 Ericsson, Marcus D/H/F 00:09.8561 96.848 4
+25 12 Power, Will D/C/F 00:09.9139 96.284 9
+26 51 Fittipaldi, Pietro (R) D/H/F 00:10.1236 94.289 4
+27 86 Montoya, Juan Pablo D/C/F 00:10.3157 92.533 4
+28 30 Sato, Takuma D/H/F 00:10.4693 91.176 4
+29 14 Bourdais, Sebastien D/C/F 00:10.6576 89.565 4
+30 3 McLaughlin, Scott (R) D/C/F 00:10.7015 89.197 4
+31 28 Hunter-Reay, Ryan D/H/F 00:10.8037 88.354 4
+32 29 Hinchcliffe, James D/H/F 00:10.8808 87.728 4
+33 9 Dixon, Scott D/H/F 00:11.4462 83.394 4
+34 15 Rahal, Graham D/H/F 00:13.0443 73.177 4
+Section: PSS2 to PT4 Length: 0.265152 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 21 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 22 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 16 De Silvestro, Simona D/C/F 00:06.7057 98.627 9
+2 24 Karam, Sage D/C/F 00:06.7458 98.041 9
+3 06 Castroneves, Helio D/H/F 00:06.9290 95.449 4
+4 2 Newgarden, Josef D/C/F 00:06.9430 95.256 9
+5 22 Pagenaud, Simon D/C/F 00:06.9686 94.906 4
+6 4 Kellett, Dalton D/C/F 00:07.0465 93.857 9
+7 98 Andretti, Marco D/H/F 00:07.2111 91.715 4
+8 7 Rosenqvist, Felix D/C/F 00:07.2630 91.059 9
+9 26 Herta, Colton D/H/F 00:07.3658 89.788 9
+10 47 Daly, Conor D/C/F 00:07.4618 88.633 4
+11 12 Power, Will D/C/F 00:07.5738 87.323 4
+12 1 Hildebrand, JR D/C/F 00:07.5912 87.122 4
+13 60 Harvey, Jack D/H/F 00:07.5976 87.049 4
+14 5 O'Ward, Pato D/C/F 00:07.7095 85.786 4
+15 28 Hunter-Reay, Ryan D/H/F 00:07.7947 84.848 4
+16 45 Ferrucci, Santino D/H/F 00:07.8075 84.709 4
+17 25 Wilson, Stefan D/H/F 00:07.8299 84.466 14
+18 75 Enerson, RC (R) D/C/F 00:07.8834 83.893 4
+19 20 Carpenter, Ed D/C/F 00:07.9354 83.343 4
+20 18 Jones, Ed D/H/F 00:07.9374 83.322 9
+21 14 Bourdais, Sebastien D/C/F 00:07.9984 82.687 4
+22 21 VeeKay, Rinus D/C/F 00:08.1175 81.474 4
+23 27 Rossi, Alexander D/H/F 00:08.2221 80.437 4
+24 10 Palou, Alex D/H/F 00:08.2230 80.429 4
+25 86 Montoya, Juan Pablo D/C/F 00:08.3239 79.454 4
+26 48 Kanaan, Tony D/H/F 00:08.3682 79.033 4
+27 51 Fittipaldi, Pietro (R) D/H/F 00:08.4619 78.158 4
+28 11 Kimball, Charlie D/C/F 00:08.4683 78.099 4
+29 30 Sato, Takuma D/H/F 00:08.5970 76.930 4
+30 9 Dixon, Scott D/H/F 00:08.6433 76.517 4
+31 8 Ericsson, Marcus D/H/F 00:08.8134 75.041 4
+32 29 Hinchcliffe, James D/H/F 00:09.7515 67.822 4
+33 3 McLaughlin, Scott (R) D/C/F 00:09.8824 66.923 4
+34 15 Rahal, Graham D/H/F 00:10.4937 63.025 4
+Section: PT4 to PI Length: 0.183712 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 22 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 23 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 25 Wilson, Stefan D/H/F 00:14.4910 0.221 9
+2 47 Daly, Conor D/C/F 01:47.6324 0.218 4
+3 2 Newgarden, Josef D/C/F 01:54.7113 0.218 4
+4 21 VeeKay, Rinus D/C/F 02:01.8233 0.217 4
+5 11 Kimball, Charlie D/C/F 02:50.8967 0.145 4
+6 26 Herta, Colton D/H/F 07:35.6410 0.208 4
+7 12 Power, Will D/C/F 07:51.1961 0.107 4
+8 24 Karam, Sage D/C/F 13:15.5223 0.362 6
+9 16 De Silvestro, Simona D/C/F 16:07.4434 1.645 9
+10 98 Andretti, Marco D/H/F 24:46.2805 0.183 9
+11 45 Ferrucci, Santino D/H/F 25:13.4584 0.183 4
+12 30 Sato, Takuma D/H/F 25:31.9992 0.182 4
+13 10 Palou, Alex D/H/F 27:58.2368 0.301 4
+14 06 Castroneves, Helio D/H/F 32:11.9253 0.125 4
+15 7 Rosenqvist, Felix D/C/F 40:34.5492 0.120 4
+16 18 Jones, Ed D/H/F 43:02.5954 0.094 4
+17 86 Montoya, Juan Pablo D/C/F 46:04.0282 0.117 4
+18 75 Enerson, RC (R) D/C/F 56:40.6445 0.150 4
+19 4 Kellett, Dalton D/C/F 56:53.8043 0.112 4
+20 60 Harvey, Jack D/H/F 59:40.4439 0.444 4
+Section: PI to PO Length: 0.441951 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 23 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 24 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:46.8663 177.662 0
+2 48 Kanaan, Tony D/H/F 00:47.0816 176.850 0
+3 9 Dixon, Scott D/H/F 00:47.5829 174.986 0
+4 21 VeeKay, Rinus D/C/F 00:47.6029 174.913 0
+5 27 Rossi, Alexander D/H/F 00:47.7302 174.446 0
+6 8 Ericsson, Marcus D/H/F 00:47.7764 174.278 0
+7 28 Hunter-Reay, Ryan D/H/F 00:47.7825 174.256 0
+8 98 Andretti, Marco D/H/F 00:47.9695 173.576 9
+9 47 Daly, Conor D/C/F 00:47.9920 173.495 4
+10 29 Hinchcliffe, James D/H/F 00:48.0766 173.190 0
+11 60 Harvey, Jack D/H/F 00:48.1600 172.890 4
+12 1 Hildebrand, JR D/C/F 00:48.2541 172.552 0
+13 75 Enerson, RC (R) D/C/F 00:48.3362 172.259 0
+14 25 Wilson, Stefan D/H/F 00:48.4076 172.005 4
+15 22 Pagenaud, Simon D/C/F 00:48.4341 171.911 0
+16 11 Kimball, Charlie D/C/F 00:48.6073 171.299 4
+17 10 Palou, Alex D/H/F 00:48.6617 171.107 4
+18 12 Power, Will D/C/F 00:48.6675 171.087 4
+19 16 De Silvestro, Simona D/C/F 00:48.6758 171.058 4
+20 2 Newgarden, Josef D/C/F 00:48.7166 170.914 4
+21 4 Kellett, Dalton D/C/F 00:48.7234 170.890 4
+22 15 Rahal, Graham D/H/F 00:48.7328 170.857 0
+23 30 Sato, Takuma D/H/F 00:48.7844 170.677 0
+24 59 Chilton, Max D/C/F 00:49.2055 169.216 0
+25 18 Jones, Ed D/H/F 00:49.4141 168.502 4
+26 14 Bourdais, Sebastien D/C/F 00:49.4496 168.381 0
+27 06 Castroneves, Helio D/H/F 00:49.4592 168.348 0
+28 7 Rosenqvist, Felix D/C/F 00:49.8669 166.972 0
+29 86 Montoya, Juan Pablo D/C/F 00:50.0870 166.238 0
+30 51 Fittipaldi, Pietro (R) D/H/F 00:50.2810 165.597 0
+31 20 Carpenter, Ed D/C/F 00:50.5228 164.804 0
+32 45 Ferrucci, Santino D/H/F 00:50.6456 164.404 0
+33 3 McLaughlin, Scott (R) D/C/F 00:50.9765 163.337 0
+34 24 Karam, Sage D/C/F 00:53.5237 155.564 4
+35 5 O'Ward, Pato D/C/F 00:55.2488 150.707 0
+Section: PO to SF Length: 2.312879 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 24 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 25 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 75 Enerson, RC (R) D/C/F 00:39.1251 206.645 7
+2 59 Chilton, Max D/C/F 00:46.8117 172.713 4
+3 26 Herta, Colton D/H/F 00:47.5217 170.133 4
+4 2 Newgarden, Josef D/C/F 00:48.0704 168.191 9
+5 06 Castroneves, Helio D/H/F 00:48.8653 165.455 7
+6 16 De Silvestro, Simona D/C/F 00:49.2891 164.032 9
+7 4 Kellett, Dalton D/C/F 00:50.5973 159.791 9
+8 24 Karam, Sage D/C/F 00:50.7328 159.364 9
+9 18 Jones, Ed D/H/F 00:52.0576 155.309 9
+10 60 Harvey, Jack D/H/F 00:52.1114 155.148 9
+11 45 Ferrucci, Santino D/H/F 00:52.5028 153.992 4
+12 27 Rossi, Alexander D/H/F 00:52.6651 153.517 4
+13 21 VeeKay, Rinus D/C/F 00:52.6904 153.444 4
+14 25 Wilson, Stefan D/H/F 00:52.7135 153.376 9
+15 98 Andretti, Marco D/H/F 00:52.8932 152.855 4
+16 48 Kanaan, Tony D/H/F 00:53.1647 152.075 4
+17 22 Pagenaud, Simon D/C/F 00:53.9772 149.785 4
+18 47 Daly, Conor D/C/F 00:54.0424 149.605 4
+19 5 O'Ward, Pato D/C/F 00:54.1410 149.332 4
+20 1 Hildebrand, JR D/C/F 00:54.1870 149.206 4
+21 7 Rosenqvist, Felix D/C/F 00:54.5606 148.184 4
+22 11 Kimball, Charlie D/C/F 00:54.8410 147.426 7
+23 30 Sato, Takuma D/H/F 00:56.8802 142.141 7
+24 20 Carpenter, Ed D/C/F 00:56.9294 142.018 4
+25 86 Montoya, Juan Pablo D/C/F 00:57.7933 139.895 4
+26 10 Palou, Alex D/H/F 00:58.2131 138.886 4
+27 12 Power, Will D/C/F 00:59.3171 136.301 4
+28 51 Fittipaldi, Pietro (R) D/H/F 00:59.3770 136.164 4
+29 14 Bourdais, Sebastien D/C/F 00:59.4138 136.079 4
+30 28 Hunter-Reay, Ryan D/H/F 00:59.5648 135.735 4
+31 29 Hinchcliffe, James D/H/F 00:59.6476 135.546 4
+32 8 Ericsson, Marcus D/H/F 01:01.1327 132.253 4
+33 3 McLaughlin, Scott (R) D/C/F 01:02.5592 129.238 4
+34 15 Rahal, Graham D/H/F 01:05.8856 122.713 4
+35 9 Dixon, Scott D/H/F 01:09.1883 116.855 4
+Section: SF to PI Length: 2.245833 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 25 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 26 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 26 Herta, Colton D/H/F 00:22.3296 151.145 0
+2 21 VeeKay, Rinus D/C/F 00:22.5806 149.465 0
+3 48 Kanaan, Tony D/H/F 00:22.5936 149.379 0
+4 47 Daly, Conor D/C/F 00:22.7926 148.074 4
+5 98 Andretti, Marco D/H/F 00:22.8785 147.518 9
+6 1 Hildebrand, JR D/C/F 00:23.0720 146.281 0
+7 27 Rossi, Alexander D/H/F 00:23.1296 145.917 0
+8 22 Pagenaud, Simon D/C/F 00:23.1445 145.823 0
+9 28 Hunter-Reay, Ryan D/H/F 00:23.1869 145.556 0
+10 9 Dixon, Scott D/H/F 00:23.2023 145.460 0
+11 12 Power, Will D/C/F 00:23.2490 145.168 4
+12 8 Ericsson, Marcus D/H/F 00:23.2518 145.150 0
+13 11 Kimball, Charlie D/C/F 00:23.3352 144.631 4
+14 15 Rahal, Graham D/H/F 00:23.3537 144.517 0
+15 16 De Silvestro, Simona D/C/F 00:23.3855 144.320 0
+16 4 Kellett, Dalton D/C/F 00:23.4369 144.004 4
+17 60 Harvey, Jack D/H/F 00:23.4463 143.946 4
+18 29 Hinchcliffe, James D/H/F 00:23.4610 143.856 0
+19 2 Newgarden, Josef D/C/F 00:23.5322 143.421 4
+20 30 Sato, Takuma D/H/F 00:23.5568 143.271 0
+21 25 Wilson, Stefan D/H/F 00:23.7347 142.197 4
+22 18 Jones, Ed D/H/F 00:23.8377 141.582 4
+23 59 Chilton, Max D/C/F 00:23.8502 141.508 0
+24 10 Palou, Alex D/H/F 00:24.1286 139.876 4
+25 14 Bourdais, Sebastien D/C/F 00:24.1410 139.804 0
+26 51 Fittipaldi, Pietro (R) D/H/F 00:24.3222 138.762 0
+27 7 Rosenqvist, Felix D/C/F 00:24.3258 138.742 0
+28 86 Montoya, Juan Pablo D/C/F 00:24.5770 137.324 0
+29 06 Castroneves, Helio D/H/F 00:24.8788 135.658 0
+30 75 Enerson, RC (R) D/C/F 00:24.9055 135.512 4
+31 20 Carpenter, Ed D/C/F 00:25.0462 134.751 0
+32 45 Ferrucci, Santino D/H/F 00:25.4255 132.741 0
+33 3 McLaughlin, Scott (R) D/C/F 00:25.7373 131.133 0
+34 24 Karam, Sage D/C/F 00:26.8780 125.567 4
+35 5 O'Ward, Pato D/C/F 00:28.1184 120.028 0
+Section: PO to BS Length: 0.937500 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 26 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 27 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 75 Enerson, RC (R) D/C/F 00:21.2873 189.614 7
+2 59 Chilton, Max D/C/F 00:25.7124 156.981 4
+3 26 Herta, Colton D/H/F 00:27.5547 146.485 4
+4 16 De Silvestro, Simona D/C/F 00:27.8473 144.946 9
+5 2 Newgarden, Josef D/C/F 00:28.2758 142.750 9
+6 4 Kellett, Dalton D/C/F 00:29.8447 135.246 9
+7 06 Castroneves, Helio D/H/F 00:30.2126 133.599 4
+8 18 Jones, Ed D/H/F 00:30.3435 133.022 9
+9 24 Karam, Sage D/C/F 00:30.6975 131.488 9
+10 60 Harvey, Jack D/H/F 00:30.8731 130.740 4
+11 45 Ferrucci, Santino D/H/F 00:31.1621 129.528 4
+12 21 VeeKay, Rinus D/C/F 00:31.1684 129.502 4
+13 48 Kanaan, Tony D/H/F 00:31.3398 128.794 4
+14 98 Andretti, Marco D/H/F 00:31.4776 128.230 4
+15 27 Rossi, Alexander D/H/F 00:31.9107 126.489 4
+16 1 Hildebrand, JR D/C/F 00:31.9364 126.388 4
+17 47 Daly, Conor D/C/F 00:32.1233 125.652 4
+18 22 Pagenaud, Simon D/C/F 00:32.1305 125.624 4
+19 7 Rosenqvist, Felix D/C/F 00:32.1906 125.390 9
+20 25 Wilson, Stefan D/H/F 00:32.5056 124.174 9
+21 5 O'Ward, Pato D/C/F 00:33.0725 122.046 4
+22 11 Kimball, Charlie D/C/F 00:33.6604 119.914 7
+23 10 Palou, Alex D/H/F 00:34.5210 116.925 4
+24 86 Montoya, Juan Pablo D/C/F 00:35.5102 113.668 4
+25 20 Carpenter, Ed D/C/F 00:35.5418 113.567 4
+26 12 Power, Will D/C/F 00:36.1440 111.675 9
+27 14 Bourdais, Sebastien D/C/F 00:36.7092 109.955 4
+28 51 Fittipaldi, Pietro (R) D/H/F 00:36.9908 109.118 4
+29 28 Hunter-Reay, Ryan D/H/F 00:37.4864 107.675 4
+30 8 Ericsson, Marcus D/H/F 00:37.7590 106.898 4
+31 29 Hinchcliffe, James D/H/F 00:37.7854 106.823 4
+32 30 Sato, Takuma D/H/F 00:38.1064 105.924 7
+33 3 McLaughlin, Scott (R) D/C/F 00:38.9728 103.569 4
+34 15 Rahal, Graham D/H/F 00:42.8323 94.236 4
+35 9 Dixon, Scott D/H/F 00:42.9113 94.063 4
+Section: BS to PI Length: 1.121212 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 27 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 28 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 45 Ferrucci, Santino D/H/F 03:07.1781 39.595 4
+2 24 Karam, Sage D/C/F 03:13.9000 38.223 4
+3 75 Enerson, RC (R) D/C/F 03:30.4368 35.219 4
+4 06 Castroneves, Helio D/H/F 03:40.2258 33.653 4
+5 11 Kimball, Charlie D/C/F 03:44.9261 32.950 4
+6 30 Sato, Takuma D/H/F 03:45.1267 32.921 4
+7 26 Herta, Colton D/H/F 04:50.6866 25.496 0
+8 59 Chilton, Max D/C/F 04:55.0803 25.116 0
+9 2 Newgarden, Josef D/C/F 04:55.3185 25.096 4
+10 48 Kanaan, Tony D/H/F 04:56.7959 24.971 0
+11 60 Harvey, Jack D/H/F 04:57.4559 24.916 4
+12 27 Rossi, Alexander D/H/F 04:57.6736 24.898 0
+13 16 De Silvestro, Simona D/C/F 04:57.7251 24.893 4
+14 21 VeeKay, Rinus D/C/F 04:57.8296 24.885 0
+15 25 Wilson, Stefan D/H/F 04:57.9634 24.873 4
+16 18 Jones, Ed D/H/F 04:58.0786 24.864 4
+17 4 Kellett, Dalton D/C/F 04:58.9333 24.793 4
+18 98 Andretti, Marco D/H/F 04:59.7082 24.729 0
+19 47 Daly, Conor D/C/F 05:00.0131 24.703 0
+20 1 Hildebrand, JR D/C/F 05:00.9065 24.630 0
+21 22 Pagenaud, Simon D/C/F 05:01.5548 24.577 0
+22 7 Rosenqvist, Felix D/C/F 05:02.8535 24.472 0
+23 10 Palou, Alex D/H/F 05:03.6606 24.407 0
+24 28 Hunter-Reay, Ryan D/H/F 05:03.7766 24.397 0
+25 20 Carpenter, Ed D/C/F 05:04.4676 24.342 0
+26 29 Hinchcliffe, James D/H/F 05:04.5126 24.338 0
+27 8 Ericsson, Marcus D/H/F 05:05.7713 24.238 0
+28 86 Montoya, Juan Pablo D/C/F 05:06.5890 24.174 0
+29 51 Fittipaldi, Pietro (R) D/H/F 05:07.1783 24.127 0
+30 12 Power, Will D/C/F 05:07.8515 24.074 4
+31 14 Bourdais, Sebastien D/C/F 05:07.8627 24.074 0
+32 5 O'Ward, Pato D/C/F 05:09.8068 23.923 0
+33 3 McLaughlin, Scott (R) D/C/F 05:11.7905 23.770 0
+34 15 Rahal, Graham D/H/F 05:12.3140 23.730 0
+35 9 Dixon, Scott D/H/F 05:13.2404 23.660 0
+Section: PO to PI Length: 2.058712 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 28 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 29 ---
+Rank Car Driver C/E/T Time Speed Lap
+1 75 Enerson, RC (R) D/C/F 00:01.6271 79.408 7
+2 12 Power, Will D/C/F 00:01.7145 75.360 4
+3 47 Daly, Conor D/C/F 00:01.8452 70.022 4
+4 14 Bourdais, Sebastien D/C/F 00:01.9184 67.350 4
+5 28 Hunter-Reay, Ryan D/H/F 00:01.9202 67.287 4
+6 06 Castroneves, Helio D/H/F 00:01.9218 67.231 4
+7 7 Rosenqvist, Felix D/C/F 00:01.9236 67.168 9
+8 2 Newgarden, Josef D/C/F 00:01.9271 67.046 9
+9 24 Karam, Sage D/C/F 00:01.9607 65.897 9
+10 20 Carpenter, Ed D/C/F 00:02.0450 63.181 4
+11 48 Kanaan, Tony D/H/F 00:02.0488 63.064 4
+12 22 Pagenaud, Simon D/C/F 00:02.1020 61.467 4
+13 25 Wilson, Stefan D/H/F 00:02.1098 61.240 9
+14 1 Hildebrand, JR D/C/F 00:02.1320 60.603 4
+15 16 De Silvestro, Simona D/C/F 00:02.1450 60.235 4
+16 11 Kimball, Charlie D/C/F 00:02.1533 60.003 4
+17 98 Andretti, Marco D/H/F 00:02.1693 59.560 4
+18 59 Chilton, Max D/C/F 00:02.1800 59.268 4
+19 86 Montoya, Juan Pablo D/C/F 00:02.1822 59.208 4
+20 27 Rossi, Alexander D/H/F 00:02.2140 58.358 4
+21 45 Ferrucci, Santino D/H/F 00:02.2228 58.127 4
+22 9 Dixon, Scott D/H/F 00:02.2306 57.924 4
+23 26 Herta, Colton D/H/F 00:02.2329 57.864 9
+24 21 VeeKay, Rinus D/C/F 00:02.2455 57.539 4
+25 60 Harvey, Jack D/H/F 00:02.2542 57.317 4
+26 4 Kellett, Dalton D/C/F 00:02.2576 57.231 9
+27 5 O'Ward, Pato D/C/F 00:02.2783 56.711 4
+28 8 Ericsson, Marcus D/H/F 00:02.3206 55.677 4
+29 18 Jones, Ed D/H/F 00:02.3214 55.658 9
+30 30 Sato, Takuma D/H/F 00:02.3314 55.419 4
+31 10 Palou, Alex D/H/F 00:02.3760 54.379 4
+32 3 McLaughlin, Scott (R) D/C/F 00:02.4546 52.638 4
+33 51 Fittipaldi, Pietro (R) D/H/F 00:02.5118 51.439 4
+34 15 Rahal, Graham D/H/F 00:02.5435 50.798 4
+35 29 Hinchcliffe, James D/H/F 00:02.5791 50.097 4
+Section: PIC to PI Length: 0.035890 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 29 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES
+
+--- PAGE 30 ---
+Track Map
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021 Page 30 of 30
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+105th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 6
+2.5 mile(s)
+May 22, 2021Qualifications - Day One
+NTT INDYCAR SERIES

@@ -1,0 +1,7 @@
+metric,value,expected,status
+attempt_rows,329,329,PASS
+reference_rows,71,71,PASS
+2024_role_validation_only,True,True,PASS
+2022_role_degraded_validation,True,True,PASS
+car_number_not_integer_normalized,True,True,PASS
+audit_only_no_model_fit,True,True,PASS

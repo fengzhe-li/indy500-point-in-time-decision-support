@@ -1,0 +1,82 @@
+{
+  "phase": "R4F8B",
+  "status": "R4F8B_FINAL_ACTION_MC_CONTRACT_FROZEN",
+  "canonical_decision_interface": "r4/output/r4f2_canonical_fused_decision_dataset_v2.csv",
+  "counterfactual_eligibility_field": "decision_state_eligible",
+  "decision_rows_total": 148,
+  "mc_eligible_decision_rows": 50,
+  "expanded_feasible_action_rows": 150,
+  "performance_model": {
+    "architecture": "FAST_FRIDAY_REFERENCE_PLUS_ONLINE_SHRUNK_FIELD_CALIBRATION",
+    "shrinkage_k": 3.0,
+    "prior_mean_residual_mph": -0.685759615384616,
+    "prior_sd_residual_mph": 0.9003554799066349,
+    "external_validation_status": "DEVELOPMENT_SUPPORTED_EXTERNAL_VALIDATION_MIXED",
+    "required_behavior": "Use performance component probabilistically. Do not treat predicted speed as deterministic."
+  },
+  "action_semantics": {
+    "STOP": {
+      "new_attempt": false,
+      "wait_draw": false,
+      "protected_result_retained": true
+    },
+    "REATTEMPT": {
+      "new_attempt": true,
+      "wait_draw": true,
+      "protected_result_retained": false,
+      "use_case": "No protected valid result currently exists."
+    },
+    "RETAIN_AND_REATTEMPT": {
+      "new_attempt": true,
+      "wait_draw": true,
+      "protected_result_retained": true,
+      "use_case": "Day1 Lane2"
+    },
+    "WITHDRAW_AND_REATTEMPT": {
+      "new_attempt": true,
+      "wait_draw": true,
+      "protected_result_retained": false,
+      "withdrawal_downside": true,
+      "use_case": "Last Chance protected-result withdrawal"
+    },
+    "WITHDRAW_AND_PRIORITY_REATTEMPT": {
+      "new_attempt": true,
+      "wait_draw": true,
+      "protected_result_retained": false,
+      "withdrawal_downside": true,
+      "use_case": "Day1 Lane1 priority withdrawal"
+    }
+  },
+  "monte_carlo_order": [
+    "sample_wait_time",
+    "propagate_session_calibration_uncertainty",
+    "sample_future_attempt_performance",
+    "sample_completion_or_no-run",
+    "sample_competitor_evolution",
+    "apply_action_result_retention_semantics",
+    "compute_final_result_and_rank"
+  ],
+  "mandatory_outputs": [
+    "p_beat_current_result",
+    "p_cross_advancement_benchmark",
+    "p_worse_than_current",
+    "p_complete_reattempt",
+    "expected_future_attempt_speed_mph",
+    "expected_final_result_mph",
+    "expected_rank_change",
+    "downside_probability",
+    "mean_wait_minutes",
+    "q50_wait_minutes",
+    "q95_wait_minutes"
+  ],
+  "uncertainty_policy": {
+    "early_session": "Broad calibration uncertainty is mandatory because 2024 external validation showed weak transport of the development prior mean.",
+    "online_update": "Calibration uncertainty may shrink as strictly earlier current-session field observations accumulate.",
+    "run_noise": "Future run performance must include repeat/run noise; do not use only posterior mean speed.",
+    "weather": "Thermal/weather state remains auxiliary uncertainty/context, not the primary deterministic speed coefficient."
+  },
+  "historical_action_policy": "Historical observed actions are replay/sanity evidence only. They are never treated as optimality labels.",
+  "old_r4p11_policy": "Reuse only wait-distribution mechanics/provenance where compatible. Do not reuse old p_improve/p_worse values as final counterfactual outputs because the performance model has changed.",
+  "2024_policy": "External validation is frozen. No Action MC parameter may be selected by improving 2024 performance metrics.",
+  "next_phase": "R4F8C_DECISION_LEVEL_STOCHASTIC_INPUT_ASSEMBLY"
+}

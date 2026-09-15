@@ -1,0 +1,1 @@
+year,event_id,session_id,event_name,session_name,session_type,http_status,bytes,top_level_key_count,top_level_keys,result_container_keys,raw_json_path

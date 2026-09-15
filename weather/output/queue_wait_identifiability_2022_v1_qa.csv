@@ -1,0 +1,10 @@
+﻿metric,value,status
+queue_ledger_rows,5,PASS
+priority_time_anchor_count_is_zero,0,PASS
+exact_wait_rows_zero,0,PASS
+bounded_wait_rows_zero,0,PASS
+inter_attempt_gap_not_used,0,PASS
+queue_wait_status_correct,1,PASS
+simulator_policy_latent,1,PASS
+exact_queue_replay_ready,0,PASS
+active_ledger_mutation,0,PASS

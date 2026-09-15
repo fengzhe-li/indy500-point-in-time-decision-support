@@ -1,0 +1,14 @@
+﻿metric,value
+2022_population_source,RESULT_MATCH_V3_ATTEMPT_IDS
+2022_population_size,44
+canonical_population_matches,44
+missing_canonical_ids,0
+chronology_before,12
+chronology_after,14
+coverage_before_pct,27.27
+coverage_after_pct,31.82
+repeat_groups,10
+fully_covered_repeat_groups_before,4
+fully_covered_repeat_groups_after,5
+lane_rows_before,1
+lane_rows_after,1

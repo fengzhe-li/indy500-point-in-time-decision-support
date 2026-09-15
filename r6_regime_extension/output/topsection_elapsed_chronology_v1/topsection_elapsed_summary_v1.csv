@@ -1,0 +1,4 @@
+year,parsed_topsection_rows,unique_sections,unique_drivers,unique_driver_car,unique_elapsed_tokens,unique_driver_elapsed_lap_events,min_elapsed_s,max_elapsed_s
+2018,988,29,35,35,901,987,0.3445,3393.3886
+2019,1044,29,36,37,957,1044,0.3412,3138.6801
+2025,1583,45,34,34,1395,1548,0.3414,3420.1106

@@ -1,0 +1,167 @@
+{
+  "arbitrary_wait_grid_created": false,
+  "counts": {
+    "bounded_wait_observations": 0,
+    "day1_complete_fade_by_year": {
+      "2020": 46,
+      "2021": 51,
+      "2022": 40,
+      "2023": 69,
+      "2024": 54
+    },
+    "day1_complete_four_lap_fade_rows": 260,
+    "day1_first_complete_by_year": {
+      "2020": 33,
+      "2021": 35,
+      "2022": 32,
+      "2023": 34,
+      "2024": 34
+    },
+    "day1_first_complete_runs": 168,
+    "day1_frozen_39_membership": 39,
+    "day1_repeat_by_year": {
+      "2020": 13,
+      "2021": 16,
+      "2022": 8,
+      "2023": 35,
+      "2024": 20
+    },
+    "day1_same_car_repeat_transitions": 92,
+    "exact_wait_observations": 0,
+    "fast_friday_coverage_by_year": [
+      {
+        "ambiguous_baseline": 33,
+        "day1_entrants": 33,
+        "fast_friday_reference_available": 33,
+        "four_lap_fast_friday_average_available": 0,
+        "missing_baseline": 0,
+        "year": 2020
+      },
+      {
+        "ambiguous_baseline": 35,
+        "day1_entrants": 35,
+        "fast_friday_reference_available": 35,
+        "four_lap_fast_friday_average_available": 0,
+        "missing_baseline": 0,
+        "year": 2021
+      },
+      {
+        "ambiguous_baseline": 33,
+        "day1_entrants": 33,
+        "fast_friday_reference_available": 33,
+        "four_lap_fast_friday_average_available": 5,
+        "missing_baseline": 0,
+        "year": 2022
+      },
+      {
+        "ambiguous_baseline": 30,
+        "day1_entrants": 34,
+        "fast_friday_reference_available": 34,
+        "four_lap_fast_friday_average_available": 4,
+        "missing_baseline": 0,
+        "year": 2023
+      },
+      {
+        "ambiguous_baseline": 28,
+        "day1_entrants": 34,
+        "fast_friday_reference_available": 34,
+        "four_lap_fast_friday_average_available": 6,
+        "missing_baseline": 0,
+        "year": 2024
+      }
+    ],
+    "fast_friday_four_lap_candidate_car_years": 15,
+    "fast_friday_four_lap_candidate_rows": 15,
+    "fast_friday_inventory_rows": 185,
+    "historical_wait_inventory_rows": 100,
+    "last_chance_chronology_rows": 22,
+    "last_chance_complete_by_year": {
+      "2021": 7,
+      "2023": 4,
+      "2024": 4
+    },
+    "last_chance_complete_runs": 15,
+    "last_chance_repeat_classes": {
+      "COMPLETE_TO_COMPLETE_ORDER_UNRESOLVED": 6,
+      "COMPLETE_TO_CRASH_INCOMPLETE": 1,
+      "INITIAL_ATTEMPT": 11,
+      "PARTIAL_TO_COMPLETE": 3,
+      "PARTIAL_TO_PARTIAL": 1
+    },
+    "last_chance_repeat_event_rows": 11,
+    "physical_missingness_rows": 196,
+    "ptsc_pair_current_flag": 40,
+    "related_attempt_intervals_not_wait": 41,
+    "team_rows_with_own_fast_friday_reference": 168,
+    "team_year_groups": 53,
+    "team_year_rows": 168,
+    "wait_evidence_by_regime": {
+      "DAY1_LANE1_PRIORITY": {
+        "bounded_wait": 0,
+        "exact_wait": 0,
+        "rows": 1,
+        "status": "UNAVAILABLE_AS_QUEUE_WAIT"
+      },
+      "DAY1_LANE2_RETAIN": {
+        "bounded_wait": 0,
+        "exact_wait": 0,
+        "rows": 1,
+        "status": "UNAVAILABLE_AS_QUEUE_WAIT"
+      },
+      "DAY1_LANE_UNKNOWN_EVENT_INTERVAL": {
+        "bounded_wait": 0,
+        "exact_wait": 0,
+        "rows": 1,
+        "status": "UNAVAILABLE_AS_QUEUE_WAIT"
+      },
+      "DAY1_LANE_UNKNOWN_REPEAT": {
+        "bounded_wait": 0,
+        "exact_wait": 0,
+        "rows": 92,
+        "status": "UNAVAILABLE_AS_QUEUE_WAIT"
+      },
+      "LAST_CHANCE_REATTEMPT": {
+        "bounded_wait": 0,
+        "exact_wait": 0,
+        "rows": 5,
+        "status": "UNAVAILABLE_AS_QUEUE_WAIT"
+      }
+    }
+  },
+  "models_fitted": false,
+  "phase": "R5.1",
+  "protected_hashes_end": {
+    "r5/frozen_inputs/day1/day1_environment_linked_transitions_39_FROZEN.csv": "a2e4dd7f10d5c6dfefb6e0ce36c79165d3e5d2d6a1d1b971eece2879aa4db355",
+    "r5/frozen_inputs/last_chance/last_chance_attempt_chronology_22_FROZEN.csv": "d50b7dd5f3f3e6735d05c92a246cd7c31ee64ffb2ceb42a226c8352a4212d10b",
+    "r5/frozen_inputs/last_chance/last_chance_official_performance_15_FROZEN.csv": "0bcfd3878ba9a2cac99b892432edc264949ad54094dfaac66a1a7e699fc97649"
+  },
+  "protected_hashes_start": {
+    "r5/frozen_inputs/day1/day1_environment_linked_transitions_39_FROZEN.csv": "a2e4dd7f10d5c6dfefb6e0ce36c79165d3e5d2d6a1d1b971eece2879aa4db355",
+    "r5/frozen_inputs/last_chance/last_chance_attempt_chronology_22_FROZEN.csv": "d50b7dd5f3f3e6735d05c92a246cd7c31ee64ffb2ceb42a226c8352a4212d10b",
+    "r5/frozen_inputs/last_chance/last_chance_official_performance_15_FROZEN.csv": "0bcfd3878ba9a2cac99b892432edc264949ad54094dfaac66a1a7e699fc97649"
+  },
+  "reasons": [
+    "only 17 existing Fast Friday qualifying-simulation four-lap candidate rows across evidence; other references are single-lap types",
+    "only 39 of 92 Day1 repeat transitions meet frozen full-environment criterion",
+    "Last Chance lacks exact timestamps for physical linkage",
+    "zero exact or bounded historical queue waits"
+  ],
+  "reconciliation_39_vs_40": {
+    "broader_40_criterion": "ptsc_pair_available == true",
+    "extra_transition": [
+      {
+        "car_number": "21",
+        "driver_name": "Rinus VeeKay",
+        "exclusion_reason": "PTSC_PAIR_AVAILABLE_BUT_HRRR_PAIR_UNAVAILABLE",
+        "full_environment_pair_available": false,
+        "hrrr_pair_available": false,
+        "ptsc_pair_available": true,
+        "transition_id": "135b66b6-87b3-5cb3-ba14-d2d21ed2fa92__TO__d8d8f4a5-fd52-51ca-bdc6-e2ddbea561ca",
+        "year": 2024
+      }
+    ],
+    "frozen_criterion": "full_environment_pair_available == true"
+  },
+  "status": "R5_1_PHYSICS_EVIDENCE_DATA_ASSEMBLY_PARTIAL",
+  "strategy_recommendations_created": false
+}

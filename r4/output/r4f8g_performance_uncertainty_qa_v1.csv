@@ -1,0 +1,29 @@
+metric,value,expected,status
+frozen_architecture_status,R4F7C7_FINAL_DEVELOPMENT_ARCHITECTURE_FROZEN,R4F7C7_FINAL_DEVELOPMENT_ARCHITECTURE_FROZEN,PASS
+shrinkage_k,3.0,3.0,PASS
+development_calibration_rows,104,104,PASS
+fixed_k3_loyo_mae_reproduced,0.626030643067,0.626030643067,PASS
+calibration_years,"[2020, 2021, 2023]","[2020, 2021, 2023]",PASS
+2024_retuning_rows,0,0,PASS
+2022_fake_point_time_rows,0,0,PASS
+2025_validation_rows,0,0,PASS
+future_information_used,0,0,PASS
+decision_future_outcome_or_leaderboard_used,0,0,PASS
+uncertainty_monotone_nonincreasing,True,True,PASS
+early_uncertainty_broader_than_n3,True,True,PASS
+n3_uncertainty_broader_than_n20,True,True,PASS
+uncertainty_floor_not_collapsed,0.953651527111,>=0.933193083378,PASS
+sample_ready_decisions,59,59,PASS
+not_sample_ready_decisions,['2021_24_POST_GUARANTEED_BREAK'],['2021_24_POST_GUARANTEED_BREAK'],WARN
+harvey_missing_current_speed_degraded_but_ready,"('True', 'SAMPLE_READY_DEGRADED_SUPPORT')","('True', 'SAMPLE_READY_DEGRADED_SUPPORT')",PASS
+missing_current_speed_not_fabricated,3,3,PASS
+sampleable_quantiles_ordered,59,59,PASS
+draw_means_reproduce_centers,max_abs_error=0.020027,<=0.03 mph,PASS
+decision_universe,60,60,PASS
+action_universe,170,170,PASS
+no_action_probability_or_utility_fields,[],[],PASS
+all_sampleable_rows_traceable,59,59,PASS
+repeat_transition_diagnostic_rows,92,92,PASS
+repeat_variability_not_double_counted,SCALE_CROSS_CHECK_ONLY_NOT_AN_ADDITIVE_VARIANCE_TERM,SCALE_CROSS_CHECK_ONLY_NOT_AN_ADDITIVE_VARIANCE_TERM,PASS
+shared_parametric_uncertainty_limitation,NORMAL_SHARED_SCALE_FORMULATION,Explicitly documented because narrow empirical subgroups are sparse,WARN
+r4f7_r4f8e_r4f8f_hashes_preserved,True,True,PASS

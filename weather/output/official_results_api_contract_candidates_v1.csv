@@ -1,0 +1,12 @@
+﻿endpoint_type,raw_api_string,contains_id_parameter,contains_year_parameter,contains_series_parameter,source,manual_review_status
+OTHER_RESULTS_API,/api/results/AllTimeWinnerSeriesByYear?year=,False,True,False,weather/evidence/rescue/official_dynamic_resources/2020_002_bundle.js,UNREVIEWED
+OTHER_RESULTS_API,/api/results/AllTimeWinnerYears,False,False,False,weather/evidence/rescue/official_dynamic_resources/2020_002_bundle.js,UNREVIEWED
+OTHER_RESULTS_API,/api/results/AllTimeWinnersByYearSeries?year=,False,True,False,weather/evidence/rescue/official_dynamic_resources/2020_002_bundle.js,UNREVIEWED
+OTHER_RESULTS_API,/api/results/DriverEventDetails?driverID=,True,False,False,weather/evidence/rescue/official_dynamic_resources/2020_002_bundle.js,UNREVIEWED
+OTHER_RESULTS_API,/api/results/DriverYearDetails?year=,False,True,False,weather/evidence/rescue/official_dynamic_resources/2020_002_bundle.js,UNREVIEWED
+OTHER_RESULTS_API,/api/results/DriversByYear?year=,False,True,False,weather/evidence/rescue/official_dynamic_resources/2020_002_bundle.js,UNREVIEWED
+EVENTS_BY_YEAR_SERIES,/api/results/EventsByYearSeries?year=,False,True,False,weather/evidence/rescue/official_dynamic_resources/2020_002_bundle.js,UNREVIEWED
+EVENTS_SESSION_DETAILS,/api/results/EventsSessionDetails?id=,True,False,False,weather/evidence/rescue/official_dynamic_resources/2020_002_bundle.js,UNREVIEWED
+OTHER_RESULTS_API,/api/results/SeasonDropDown?id=,True,False,False,weather/evidence/rescue/official_dynamic_resources/2020_002_bundle.js,UNREVIEWED
+OTHER_RESULTS_API,/api/results/YearPointSummary?year=,False,True,False,weather/evidence/rescue/official_dynamic_resources/2020_002_bundle.js,UNREVIEWED
+OTHER_RESULTS_API,/api/results/YearsBySeries?series=,False,False,True,weather/evidence/rescue/official_dynamic_resources/2020_002_bundle.js,UNREVIEWED

@@ -1,0 +1,27 @@
+{
+  "ruleset_version": "MANUAL_ANNOTATIONS_V1",
+  "annotations": [
+    {
+      "case": "2021_WILL_POWER_FIRST_ATTEMPT",
+      "rule_id": "OFFICIAL_EDITORIAL_ACTION_V1",
+      "fields": {
+        "result_status": "WITHDRAWN",
+        "result_counted_at_session_end": false,
+        "withdrawal_evidence": "EDITORIALLY_DOCUMENTED_WITHDRAWAL",
+        "lane_action": "PRIORITY_LANE",
+        "lane_evidence": "EDITORIALLY_DOCUMENTED_LANE"
+      },
+      "constraint": "No exact withdrawal time is assigned. No other car inherits this lane action."
+    },
+    {
+      "case": "2022_TAKUMA_SATO_FIRST_ATTEMPT",
+      "rule_id": "RESULT_STATUS_V1",
+      "fields": {
+        "result_status": "DISALLOWED",
+        "result_counted_at_session_end": false
+      },
+      "constraint": "Performance comes from official raw/Section evidence; the later summary omission never erases the attempt; no event time is assigned."
+    }
+  ]
+}
+

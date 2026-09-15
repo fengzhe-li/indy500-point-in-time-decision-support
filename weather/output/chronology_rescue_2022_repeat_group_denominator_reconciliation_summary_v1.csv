@@ -1,0 +1,9 @@
+﻿metric,value
+2022_population,44
+current_broad_repeat_drivers,10
+legacy_source,weather/output/chronology_rescue_2022_repeat_pair_coverage_v1.csv
+legacy_repeat_drivers,8
+current_only_driver_count,2
+current_only_drivers,Colton Herta|Josef Newgarden
+legacy_only_driver_count,0
+legacy_scan_status,EXACT_LEGACY_8_FOUND

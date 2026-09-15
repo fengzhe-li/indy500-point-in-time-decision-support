@@ -1,0 +1,11 @@
+﻿metric,value,status
+first_grounding,1,PASS
+second_grounding,1,PASS
+no_attempt_grounding,1,PASS
+positive_speed_delta,+0.559,PASS
+autosport_speed_consistency,1,PASS
+source_conflict_preserved,1,PASS
+no_attempt_excluded,1,PASS
+lane_inferred,0,PASS
+queue_wait_inferred,0,PASS
+ledger_mutation,0,PASS

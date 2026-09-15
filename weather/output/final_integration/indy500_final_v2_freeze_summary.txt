@@ -1,0 +1,54 @@
+==============================================================================================================
+INDIANAPOLIS 500 CONDITIONAL PERFORMANCE SYSTEM
+FINAL_V2 PROJECT FREEZE
+==============================================================================================================
+
+STATUS: FINAL_FROZEN
+VERSION: FINAL_V2
+
+MODULE STATUS
+--------------------------------------------------------------------------------------------------------------
+V2-A: FROZEN
+V2-B: FROZEN
+V2-C: FROZEN
+V2-D: FROZEN
+V2-E: FROZEN
+
+FINAL ARCHITECTURE
+--------------------------------------------------------------------------------------------------------------
+Historical evidence
+-> identifiability audit
+-> frozen physics-conditioned performance core
+-> V2-A future physical-state model
+-> Monte Carlo uncertainty propagation
+-> V2-B section mechanism diagnostic
+-> V2-C wind residual diagnostic
+-> V2-D uncertainty-source ablation
+-> V2-E systematic scenario stress test
+-> applicability gate
+-> prospective event-ledger design
+
+SUPPORTED QUESTION
+--------------------------------------------------------------------------------------------------------------
+If another on-track opportunity occurs h minutes from now, what distribution of four-lap qualifying-performance change should be expected relative to the current official result?
+
+Supported horizons: 15 / 30 / 60 / 90 / 120 min
+
+SYSTEM BOUNDARY
+--------------------------------------------------------------------------------------------------------------
+The system provides conditional probabilistic physical-performance decision support.
+It does NOT predict exact queue waiting time or autonomously recommend retain / withdraw decisions.
+
+SYSTEM SPECIFICATION
+--------------------------------------------------------------------------------------------------------------
+weather/output/final_integration/indy500_final_v2_system_specification.md
+SHA256: 2cb5ce48585938131c91ad0bf9782255c55fa7808b14451a58a7414b4ab8f00d
+
+FINAL MANIFEST
+--------------------------------------------------------------------------------------------------------------
+weather/output/final_integration/indy500_final_v2_freeze_manifest.json
+SHA256: fe4c35e8c01610757c96e219153820d108c7063c542ed65a09e38dd77e32cf87
+
+==============================================================================================================
+PROJECT STATUS: FINAL_V2 FROZEN
+==============================================================================================================

@@ -1,0 +1,289 @@
+{
+  "phase": "R4F7C6",
+  "status": "R4F7C6_ONLINE_LATENT_WINDOW_STATE_SPACE_READY",
+  "development_rows": 104,
+  "development_years": [
+    2020,
+    2021,
+    2023
+  ],
+  "2024_validation_access": "NOT_READ",
+  "models": [
+    "CROSS_YEAR_PRIOR_CALIBRATION",
+    "FAST_FRIDAY_REFERENCE_ONLY",
+    "ONLINE_EWMA",
+    "ONLINE_KALMAN_LATENT_WINDOW",
+    "ONLINE_RUNNING_FIELD_MEAN",
+    "ONLINE_SHRUNK_FIELD_MEAN"
+  ],
+  "aggregate_metrics": [
+    {
+      "test_year": "ALL_LOYO",
+      "model": "CROSS_YEAR_PRIOR_CALIBRATION",
+      "n": 104,
+      "mae_mph": 0.656311837477292,
+      "rmse_mph": 0.9174044441888435,
+      "bias_mph": 0.032941603511433146,
+      "correlation": 0.8890181172878481
+    },
+    {
+      "test_year": "ALL_LOYO",
+      "model": "FAST_FRIDAY_REFERENCE_ONLY",
+      "n": 104,
+      "mae_mph": 0.8603942307692318,
+      "rmse_mph": 1.1283224827149367,
+      "bias_mph": 0.685759615384616,
+      "correlation": 0.8952101582326827
+    },
+    {
+      "test_year": "ALL_LOYO",
+      "model": "ONLINE_EWMA",
+      "n": 104,
+      "mae_mph": 0.649188162368072,
+      "rmse_mph": 0.9263351811997648,
+      "bias_mph": 0.03267813991939269,
+      "correlation": 0.8966678428678659
+    },
+    {
+      "test_year": "ALL_LOYO",
+      "model": "ONLINE_KALMAN_LATENT_WINDOW",
+      "n": 104,
+      "mae_mph": 0.6509577162050777,
+      "rmse_mph": 0.9163428362846902,
+      "bias_mph": 0.012281979453403343,
+      "correlation": 0.8913703977686984
+    },
+    {
+      "test_year": "ALL_LOYO",
+      "model": "ONLINE_RUNNING_FIELD_MEAN",
+      "n": 104,
+      "mae_mph": 0.6433468082148519,
+      "rmse_mph": 0.9137277941496397,
+      "bias_mph": 0.04731370319236506,
+      "correlation": 0.8978985489177347
+    },
+    {
+      "test_year": "ALL_LOYO",
+      "model": "ONLINE_SHRUNK_FIELD_MEAN",
+      "n": 104,
+      "mae_mph": 0.6375277441895731,
+      "rmse_mph": 0.9075628707247947,
+      "bias_mph": 0.009364456940884698,
+      "correlation": 0.8943904699181341
+    }
+  ],
+  "supported_subset_metrics": [
+    {
+      "minimum_past_other_count": 3,
+      "model": "CROSS_YEAR_PRIOR_CALIBRATION",
+      "n": 95,
+      "mae_mph": 0.6607683241924475,
+      "rmse_mph": 0.9333900445842217,
+      "bias_mph": 0.06864145782227733,
+      "correlation": 0.8887049681030581
+    },
+    {
+      "minimum_past_other_count": 3,
+      "model": "FAST_FRIDAY_REFERENCE_ONLY",
+      "n": 95,
+      "mae_mph": 0.8857789473684222,
+      "rmse_mph": 1.1594224923596543,
+      "bias_mph": 0.7193789473684223,
+      "correlation": 0.8949785272790657
+    },
+    {
+      "minimum_past_other_count": 3,
+      "model": "ONLINE_EWMA",
+      "n": 95,
+      "mae_mph": 0.6519072663998381,
+      "rmse_mph": 0.9421436690039515,
+      "bias_mph": 0.05881092315120004,
+      "correlation": 0.896043308381004
+    },
+    {
+      "minimum_past_other_count": 3,
+      "model": "ONLINE_KALMAN_LATENT_WINDOW",
+      "n": 95,
+      "mae_mph": 0.6554590673559795,
+      "rmse_mph": 0.9327202067972918,
+      "bias_mph": 0.04638646281231511,
+      "correlation": 0.8910493031023855
+    },
+    {
+      "minimum_past_other_count": 3,
+      "model": "ONLINE_RUNNING_FIELD_MEAN",
+      "n": 95,
+      "mae_mph": 0.6450580686946092,
+      "rmse_mph": 0.9284197787185883,
+      "bias_mph": 0.07461013025945727,
+      "correlation": 0.897480780065424
+    },
+    {
+      "minimum_past_other_count": 3,
+      "model": "ONLINE_SHRUNK_FIELD_MEAN",
+      "n": 95,
+      "mae_mph": 0.6429563523878848,
+      "rmse_mph": 0.9233881065438895,
+      "bias_mph": 0.048439170052676825,
+      "correlation": 0.8942691603396201
+    },
+    {
+      "minimum_past_other_count": 5,
+      "model": "CROSS_YEAR_PRIOR_CALIBRATION",
+      "n": 89,
+      "mae_mph": 0.6602251740317057,
+      "rmse_mph": 0.9407209066990525,
+      "bias_mph": 0.06341138177978901,
+      "correlation": 0.8866382141409064
+    },
+    {
+      "minimum_past_other_count": 5,
+      "model": "FAST_FRIDAY_REFERENCE_ONLY",
+      "n": 89,
+      "mae_mph": 0.875494382022474,
+      "rmse_mph": 1.1620239365923075,
+      "bias_mph": 0.7125280898876423,
+      "correlation": 0.8926599133252104
+    },
+    {
+      "minimum_past_other_count": 5,
+      "model": "ONLINE_EWMA",
+      "n": 89,
+      "mae_mph": 0.6293366701849276,
+      "rmse_mph": 0.9279262418562112,
+      "bias_mph": 0.032559686174803565,
+      "correlation": 0.897261350608581
+    },
+    {
+      "minimum_past_other_count": 5,
+      "model": "ONLINE_KALMAN_LATENT_WINDOW",
+      "n": 89,
+      "mae_mph": 0.6530151238254995,
+      "rmse_mph": 0.938372123147259,
+      "bias_mph": 0.03794331778162801,
+      "correlation": 0.8893982306249792
+    },
+    {
+      "minimum_past_other_count": 5,
+      "model": "ONLINE_RUNNING_FIELD_MEAN",
+      "n": 89,
+      "mae_mph": 0.6212146051609129,
+      "rmse_mph": 0.9131502205471768,
+      "bias_mph": 0.0490435847338776,
+      "correlation": 0.8987531941286993
+    },
+    {
+      "minimum_past_other_count": 5,
+      "model": "ONLINE_SHRUNK_FIELD_MEAN",
+      "n": 89,
+      "mae_mph": 0.6351624548689533,
+      "rmse_mph": 0.9225660439968353,
+      "bias_mph": 0.037832440957707304,
+      "correlation": 0.893887382390031
+    },
+    {
+      "minimum_past_other_count": 10,
+      "model": "CROSS_YEAR_PRIOR_CALIBRATION",
+      "n": 74,
+      "mae_mph": 0.6759962455065929,
+      "rmse_mph": 0.9463110694722823,
+      "bias_mph": 0.11146350258936756,
+      "correlation": 0.8928159984014186
+    },
+    {
+      "minimum_past_other_count": 10,
+      "model": "FAST_FRIDAY_REFERENCE_ONLY",
+      "n": 74,
+      "mae_mph": 0.887324324324326,
+      "rmse_mph": 1.1934860136863203,
+      "bias_mph": 0.7553783783783791,
+      "correlation": 0.8975186039650854
+    },
+    {
+      "minimum_past_other_count": 10,
+      "model": "ONLINE_EWMA",
+      "n": 74,
+      "mae_mph": 0.6437210682530181,
+      "rmse_mph": 0.948282949816786,
+      "bias_mph": 0.0651222053780289,
+      "correlation": 0.900946943434488
+    },
+    {
+      "minimum_past_other_count": 10,
+      "model": "ONLINE_KALMAN_LATENT_WINDOW",
+      "n": 74,
+      "mae_mph": 0.6690474463470366,
+      "rmse_mph": 0.9470503711500943,
+      "bias_mph": 0.07912189931485307,
+      "correlation": 0.8948448237553696
+    },
+    {
+      "minimum_past_other_count": 10,
+      "model": "ONLINE_RUNNING_FIELD_MEAN",
+      "n": 74,
+      "mae_mph": 0.6348169007158386,
+      "rmse_mph": 0.9318296214858843,
+      "bias_mph": 0.0778924344922439,
+      "correlation": 0.9020730966685206
+    },
+    {
+      "minimum_past_other_count": 10,
+      "model": "ONLINE_SHRUNK_FIELD_MEAN",
+      "n": 74,
+      "mae_mph": 0.649685749086439,
+      "rmse_mph": 0.9334298375608543,
+      "bias_mph": 0.07735894219120758,
+      "correlation": 0.8987729696597089
+    }
+  ],
+  "selected_parameters": [
+    {
+      "test_year": 2020,
+      "training_years": "2021,2023",
+      "prior_mean_residual_mph": -0.5679846153846164,
+      "prior_empirical_sd_mph": 0.9455440149113153,
+      "selected_ewma_half_life_minutes": 60.0,
+      "ewma_inner_cv_mae": 0.6758427291861232,
+      "selected_shrinkage_k": 8.0,
+      "shrink_inner_cv_mae": 0.6191175571330764,
+      "kalman_prior_sd": 0.3,
+      "kalman_process_sd_per_sqrt_min": 0.02,
+      "kalman_observation_sd": 2.0,
+      "kalman_inner_cv_mae": 0.6155310282071018
+    },
+    {
+      "test_year": 2021,
+      "training_years": "2020,2023",
+      "prior_mean_residual_mph": -0.6768928571428573,
+      "prior_empirical_sd_mph": 0.8403222039750631,
+      "selected_ewma_half_life_minutes": 60.0,
+      "ewma_inner_cv_mae": 0.6170711973861032,
+      "selected_shrinkage_k": 1.0,
+      "shrink_inner_cv_mae": 0.6074344794783053,
+      "kalman_prior_sd": 0.3,
+      "kalman_process_sd_per_sqrt_min": 0.05,
+      "kalman_observation_sd": 1.25,
+      "kalman_inner_cv_mae": 0.5863769909216546
+    },
+    {
+      "test_year": 2023,
+      "training_years": "2020,2021",
+      "prior_mean_residual_mph": -0.7794597701149434,
+      "prior_empirical_sd_mph": 0.8974433169196068,
+      "selected_ewma_half_life_minutes": 60.0,
+      "ewma_inner_cv_mae": 0.6553794024163656,
+      "selected_shrinkage_k": 12.0,
+      "shrink_inner_cv_mae": 0.6412542496112524,
+      "kalman_prior_sd": 0.3,
+      "kalman_process_sd_per_sqrt_min": 0.02,
+      "kalman_observation_sd": 2.0,
+      "kalman_inner_cv_mae": 0.6399893746291369
+    }
+  ],
+  "state_definition": "Latent common qualifying residual state relative to Fast Friday entry reference, updated sequentially from completed field observations.",
+  "prospective_rule": "Prediction at time t is generated before assimilating any attempt occurring at time t. Only strictly earlier observations affect the state.",
+  "hyperparameter_policy": "For each held-out test year, EWMA, shrinkage and Kalman parameters are selected using only the other development years.",
+  "interpretation_boundary": "Latent state is a statistical performance-window estimate. It is not automatically interpreted as a causal temperature or tire effect.",
+  "input_hash": "99164e7ffaccd274a19e48733f7eae8c5f2cd4fcb906292381056808d7105d87",
+  "next_phase_rule": "If online Kalman/shrinkage materially improves over both Fast Friday and cross-year prior calibration, promote the dynamic latent-window layer. Otherwise retain a simpler online session-calibration posterior with broad uncertainty."
+}

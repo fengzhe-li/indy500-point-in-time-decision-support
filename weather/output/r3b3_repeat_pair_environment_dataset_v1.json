@@ -1,0 +1,28 @@
+{
+  "phase": "R3B.3B",
+  "semantic_binding": {
+    "baseline_attempt_id": "baseline_attempt_id",
+    "repeat_attempt_id": "current_attempt_id",
+    "performance_delta": "target_speed_delta_vs_best_prior_mph",
+    "recovery_flag": "diagnostic_recovery_like",
+    "baseline_group": "baseline_below_year_median",
+    "diagnostic_branch": "diagnostic_branch"
+  },
+  "pair_rows": 39,
+  "environment_fit_ready_pairs": 39,
+  "ready_by_year": {
+    "2020": 11,
+    "2021": 16,
+    "2023": 12
+  },
+  "normal_branch_ready_pairs": 35,
+  "recovery_like_ready_pairs": 4,
+  "low_baseline_ready_pairs": 18,
+  "at_or_above_median_ready_pairs": 21,
+  "ptsc_complete_pairs": 38,
+  "2022_timed_environment_used": false,
+  "relationship_interpretation": "OBSERVATIONAL_SENSITIVITY_NOT_CAUSAL",
+  "elapsed_time_role": "PAIR_METADATA_ONLY_NOT_TRACK_EVOLUTION",
+  "queue_wait": "LATENT_NOT_HISTORICAL_TRUTH",
+  "next_phase": "R3B3C_FIT_PERFORMANCE_ENVIRONMENT_SENSITIVITY"
+}

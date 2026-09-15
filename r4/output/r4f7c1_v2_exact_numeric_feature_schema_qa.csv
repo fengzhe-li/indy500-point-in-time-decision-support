@@ -1,0 +1,6 @@
+metric,value,expected,status
+frozen_model_attempts,110,110,PASS
+p1_performance_delta_not_weather,True,True,PASS
+numeric_weather_sources_found,8,>0,PASS
+availability_flags_not_numeric_weather,True,True,PASS
+schema_only_no_model_fit,True,True,PASS

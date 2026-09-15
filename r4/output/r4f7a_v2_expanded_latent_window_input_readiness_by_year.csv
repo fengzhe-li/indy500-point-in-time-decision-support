@@ -1,0 +1,6 @@
+year,all_attempt_rows,strict_performance_rows,strict_with_reference,strict_with_point_time,strict_with_ptsc,strict_with_hrrr,observed_latent_ready,forecast_latent_ready,dataset_role
+2020,63,46,46,39,39,39,39,39,CORE_DEVELOPMENT
+2021,60,51,51,49,48,49,48,48,CORE_DEVELOPMENT
+2022,44,39,39,0,0,0,0,0,DEGRADED_CHRONOLOGY_VALIDATION
+2023,85,39,39,17,17,17,17,17,CORE_DEVELOPMENT
+2024,77,36,36,6,8,6,6,6,VALIDATION_ONLY

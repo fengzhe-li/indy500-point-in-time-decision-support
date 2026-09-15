@@ -1,0 +1,13 @@
+metric,value,expected,status
+2020_entries,33,33,PASS
+2021_entries,35,>=33,PASS
+2022_entries,33,33,PASS
+2023_entries,34,34,PASS
+2024_entries,34,34,PASS
+canonical_identity_unique,0,0,PASS
+2021_no_tow_preserved,3,3,PASS
+2022_role_corrected,True,True,PASS
+2024_validation_only,True,True,PASS
+2025_transfer_only,True,True,PASS
+implausible_simpson_not_canonical,True,True,PASS
+leading_zero_policy_preserved,True,True,PASS

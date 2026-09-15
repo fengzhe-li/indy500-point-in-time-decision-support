@@ -1,0 +1,2 @@
+nominal_interval,lower_residual_mph,upper_residual_mph,observed_self_coverage,interpretation
+EMPIRICAL_LOYO_Q05_Q95,-2.484450657,1.610398584,0.8518518519,descriptive same-sample residual envelope; not independent interval validation

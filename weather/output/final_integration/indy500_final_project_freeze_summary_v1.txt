@@ -1,0 +1,81 @@
+====================================================================================================
+INDY 500 QUALIFYING DECISION-SUPPORT PROJECT — FINAL PROJECT FREEZE
+====================================================================================================
+
+STATUS: FROZEN
+VERSION: FINAL_V1
+
+FINAL RESEARCH QUESTION
+----------------------------------------------------------------------------------------------------
+If another on-track opportunity occurs h minutes from now,
+what distribution of four-lap qualifying-performance change
+should be expected relative to the current official result?
+
+FINAL COMPONENTS
+----------------------------------------------------------------------------------------------------
+Physics core:
+41 same-car transitions
+zero-intercept thermal response model
+5000 paired coefficient bootstrap draws
+empirical LOYO residual uncertainty
+
+V2-A:
+Future physical-state model
+Supported horizons: 15 / 30 / 60 / 90 / 120 min
+
+V2-B:
+Section mechanism validation
+39/41 linked transitions
+diagnostic only
+
+V2-C:
+Wind residual identifiability diagnostic
+39 linked transitions
+no deterministic wind term
+no heteroskedastic wind model
+
+CAPABILITY BOUNDARY
+----------------------------------------------------------------------------------------------------
+SUPPORTED:
+Conditional probabilistic four-lap performance outlook.
+
+NOT SUPPORTED:
+Queue waiting-time prediction.
+Exact opportunity-time prediction.
+Autonomous retain/withdraw decision.
+Unique residual-mechanism attribution.
+
+FINAL METHODOLOGICAL POSITION
+----------------------------------------------------------------------------------------------------
+The project prioritizes identifiability over model complexity.
+
+Historical queue opportunity could not be reconstructed reliably enough
+to justify a supervised historical target.
+
+The opportunity horizon h is therefore treated as a scenario input.
+
+The final system estimates:
+
+p(delta_v | H = h, physical state)
+
+rather than pretending to estimate:
+
+p(H | incomplete historical queue state).
+
+SYSTEM SPECIFICATION
+----------------------------------------------------------------------------------------------------
+weather/output/final_integration/indy500_final_system_specification_v1.md
+
+SHA256:
+efca689e79dac7bcd767a189fc075908b502b9d7a3374e81264295cdb75e6f8b
+
+FINAL MANIFEST
+----------------------------------------------------------------------------------------------------
+weather/output/final_integration/indy500_final_project_freeze_manifest_v1.json
+
+SHA256:
+7c2b1bb2d8c83cd892b6c7429065132a59255542e01ff6cff4872ac349ebd5ba
+
+====================================================================================================
+PROJECT STATUS: FINAL FROZEN
+====================================================================================================

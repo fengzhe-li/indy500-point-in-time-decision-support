@@ -1,0 +1,20 @@
+{
+  "phase": "R4F9-B",
+  "status": "R4F9_HISTORICAL_REALIZED_OUTCOME_INTERFACE_RECONSTRUCTED",
+  "primary_join": "R4F8E.source_attempt_id -> R4P1.attempt_id -> same entry_key -> minimum larger car_attempt_index",
+  "next_attempt_definition": "The first later canonical attempt in the same entry_key by car_attempt_index. This is a historical evaluation outcome, not a decision-time feature.",
+  "complete_outcome_definition": "next attempt has attempt_class=A_COMPLETE and a populated four_lap_average_speed_mph",
+  "benchmark_evaluation": "Historical next-attempt speed is compared only with the benchmark_speed_mph frozen at the original decision state.",
+  "secondary_crosscheck": {
+    "source": "r4/output/r4p5_decision_safe_forecast_scenarios_v1.csv",
+    "join": "source_attempt_id=before_attempt_id",
+    "after_attempt_check": "canonical next attempt ID versus R4P5 after_attempt_id"
+  },
+  "important_boundaries": [
+    "Actual between-attempt observation time is not queue wait.",
+    "Historical actions are not optimal labels.",
+    "Future leaderboard states are not reconstructed as R4F8H inputs.",
+    "Incomplete next attempts are retained as realized outcomes.",
+    "Unresolved source-attempt identities remain blocked."
+  ]
+}

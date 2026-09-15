@@ -1,0 +1,4 @@
+﻿attempt_id,car_number,driver_name,car_attempt_index,canonical_speed_mph,canonical_status,official_result_row,official_status
+2c453335-3a19-5653-8d5c-79d94db93028,24,Sage Karam,2,230.464,VALID_RETAINED,22,
+4778bf12-3fb5-5321-b4ae-9dc2f0880c25,24,Sage Karam,,,UNKNOWN,44,No Attempt
+8e0c8731-4ddc-515a-949e-7902dd01eaeb,24,Sage Karam,1,229.905,VALID_RETAINED,38,Withdrawn

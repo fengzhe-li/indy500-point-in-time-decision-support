@@ -1,0 +1,10 @@
+metric,value,expected,status
+day1_decisions,50,50,PASS
+last_chance_decisions,10,10,PASS
+fused_decisions,60,60,PASS
+unique_fused_decision_ids,True,True,PASS
+day1_action_masks_valid,True,True,PASS
+last_chance_action_masks_valid,True,True,PASS
+last_chance_protected_plus_unprotected,10,10,PASS
+historical_action_labels_used_as_optimality_truth,False,False,PASS
+monte_carlo_run,False,False,PASS

@@ -1,0 +1,18 @@
+{
+  "phase": "R4F2",
+  "status": "R4F2_CANONICAL_FUSED_DECISION_DATASET_READY",
+  "schema_name": "FUSED_INDYCAR_QUALIFYING_DECISION_STATE_V2",
+  "row_count": 148,
+  "day1_rows": 138,
+  "last_chance_rows": 10,
+  "resolved_action_rows": 76,
+  "unresolved_action_rows": 72,
+  "policy_fit_rows": 48,
+  "methodology": [
+    "Historical observed actions are behaviour evidence, not hard optimality labels.",
+    "Day1 repeat attempts whose Lane1/Lane2 semantics are unresolved remain explicitly unresolved.",
+    "2022 and 2024 are isolated as validation-only rows.",
+    "The Fused model will share physical, performance, thermal and stochastic layers while applying regime-specific feasible-action masks."
+  ],
+  "next_phase": "Construct Day1-only, Last-Chance-only and Fused simulation/model specifications using the canonical decision interface."
+}

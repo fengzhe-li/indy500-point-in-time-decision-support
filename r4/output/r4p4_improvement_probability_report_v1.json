@@ -1,0 +1,8 @@
+{
+  "phase": "R4P4",
+  "target": "P(next complete repeat improves four-lap average speed)",
+  "input_rows": 40,
+  "validation": "leave-one-year-out",
+  "future_leakage": false,
+  "interpretation": "Prototype probability model only. Does not yet include complete field-order window state or stochastic queue model."
+}

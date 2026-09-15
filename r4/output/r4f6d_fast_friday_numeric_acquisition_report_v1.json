@@ -1,0 +1,45 @@
+{
+  "phase": "R4F6D",
+  "status": "R4F6D_FAST_FRIDAY_NUMERIC_ACQUISITION_COMPLETE",
+  "sources_attempted": 10,
+  "sources_downloaded": 8,
+  "year_status": {
+    "2020": {
+      "sources": 1,
+      "downloaded": 1,
+      "pdf_downloaded": 0,
+      "html_downloaded": 1
+    },
+    "2021": {
+      "sources": 2,
+      "downloaded": 2,
+      "pdf_downloaded": 0,
+      "html_downloaded": 2
+    },
+    "2022": {
+      "sources": 1,
+      "downloaded": 1,
+      "pdf_downloaded": 0,
+      "html_downloaded": 1
+    },
+    "2023": {
+      "sources": 3,
+      "downloaded": 2,
+      "pdf_downloaded": 0,
+      "html_downloaded": 2
+    },
+    "2024": {
+      "sources": 3,
+      "downloaded": 2,
+      "pdf_downloaded": 0,
+      "html_downloaded": 2
+    }
+  },
+  "reference_hierarchy": [
+    "FOUR_LAP_QUALIFYING_SIM",
+    "NO_TOW_SINGLE_LAP",
+    "GENERAL_FAST_FRIDAY_BEST_SPEED"
+  ],
+  "important_constraint": "Acquisition does not imply semantic usability. Downloaded assets must be parsed and classified before entry-reference construction.",
+  "next_phase": "Inspect downloaded HTML/PDF assets and extract driver-level qualifying-like Fast Friday metrics into a canonical reference panel."
+}

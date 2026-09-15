@@ -1,0 +1,13 @@
+﻿metric,value
+ledger_rows,5
+drivers_represented,Callum Ilott|David Malukas|Scott McLaughlin|Takuma Sato
+explicit_lane_rows,1
+explicit_queue_position_rows,1
+generic_line_membership_rows,2
+ordering_only_rows,2
+known_exact_queue_wait_rows,0
+bounded_queue_wait_rows,0
+exact_timestamp_rows,0
+chronology,V10_UNCHANGED
+action_lane,V8_UNCHANGED
+decision_state,V2_UNCHANGED

@@ -1,0 +1,6 @@
+model_name,test_year,attempt_id,car_number,driver_name,actual_improved,predicted_probability_improve,predicted_class
+BASE_RATE,2020,b4a08fbf-93db-50a2-9416-96b3b9d1b41a,9,Scott Dixon,1,0.750000,1
+BASE_RATE,2021,73af9176-8333-59df-915e-2cc1016f64b2,16,Simona De Silvestro,0,1.000000,1
+BASE_RATE,2023,970e09d9-9783-53a2-ac70-f2117bee1d09,27,Kyle Kirkwood,1,0.500000,1
+BASE_RATE,2023,55035890-97e8-57a3-a2e1-4845f4b05eb9,33,Ed Carpenter,1,0.500000,1
+BASE_RATE,2023,79d389ee-b055-582a-8985-c09472aa4d69,8,Marcus Ericsson,1,0.500000,1

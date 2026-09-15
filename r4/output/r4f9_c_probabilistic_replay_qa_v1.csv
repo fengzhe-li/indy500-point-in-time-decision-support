@@ -1,0 +1,14 @@
+metric,value,expected,status
+historical_interface_rows,60,60,PASS
+day1_speed_evaluable_input_rows,19,19,PASS
+probabilistic_replay_scored_rows,19,19,PASS
+blocked_replay_rows,0,0,PASS
+last_chance_descriptive_rows,10,10,PASS
+last_chance_numeric_probability_scoring,False,False,PASS
+historical_action_used_as_optimal_label,False,False,PASS
+future_outcomes_used_as_prediction_features,False,False,PASS
+dynamic_competitor_evolution_used,False,False,PASS
+dynamic_final_rank_scored,False,False,PASS
+historical_queue_wait_inferred,False,False,PASS
+model_refit_performed,False,False,PASS
+replay_claimed_as_independent_external_validation,False,False,PASS

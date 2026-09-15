@@ -1,0 +1,2855 @@
+
+===== PAGE 1 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:38.6518
+ 232.848
+2
+2
+20
+Rossi, Alexander
+D/C/F
+00:38.6984
+ 232.568
+2
+3
+12
+Malukas, David
+D/C/F
+00:38.7809
+ 232.073
+5
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:38.8324
+ 231.765
+2
+5
+14
+Ferrucci, Santino
+D/C/F
+00:38.9326
+ 231.169
+2
+6
+5
+O'Ward, Pato
+D/C/F
+00:39.0304
+ 230.589
+4
+Section:  Lap
+Length:  2.500000 mile(s)
+Track map included on last page of report
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 1 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 2 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Rossi, Alexander
+D/C/F
+00:02.8840
+ 233.576
+1
+2
+10
+Palou, Alex
+D/H/F
+00:02.8844
+ 233.543
+2
+3
+60
+Rosenqvist, Felix
+D/H/F
+00:02.8977
+ 232.471
+3
+4
+5
+O'Ward, Pato
+D/C/F
+00:02.9111
+ 231.401
+3
+5
+14
+Ferrucci, Santino
+D/C/F
+00:02.9142
+ 231.155
+1
+6
+12
+Malukas, David
+D/C/F
+00:02.9163
+ 230.989
+2
+Section:  Front Stretch 5
+Length:  0.187120 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 2 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 3 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:01.9526
+ 232.208
+3
+2
+20
+Rossi, Alexander
+D/C/F
+00:01.9590
+ 231.449
+1
+3
+60
+Rosenqvist, Felix
+D/H/F
+00:01.9623
+ 231.060
+3
+4
+12
+Malukas, David
+D/C/F
+00:01.9729
+ 229.819
+2
+5
+5
+O'Ward, Pato
+D/C/F
+00:01.9734
+ 229.760
+3
+6
+14
+Ferrucci, Santino
+D/C/F
+00:01.9779
+ 229.238
+4
+Section:  Turn 1 Entry
+Length:  0.125947 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 3 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 4 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:02.9235
+ 229.721
+1
+2
+60
+Rosenqvist, Felix
+D/H/F
+00:02.9265
+ 229.486
+1
+3
+20
+Rossi, Alexander
+D/C/F
+00:02.9280
+ 229.368
+1
+4
+12
+Malukas, David
+D/C/F
+00:02.9332
+ 228.962
+2
+5
+14
+Ferrucci, Santino
+D/C/F
+00:02.9400
+ 228.432
+4
+6
+5
+O'Ward, Pato
+D/C/F
+00:02.9582
+ 227.027
+1
+Section:  Turn 1 Exit
+Length:  0.186553 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 4 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 5 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+12
+Malukas, David
+D/C/F
+00:02.9620
+ 226.736
+2
+2
+10
+Palou, Alex
+D/H/F
+00:02.9628
+ 226.674
+1
+3
+20
+Rossi, Alexander
+D/C/F
+00:02.9687
+ 226.224
+1
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:02.9725
+ 225.935
+1
+5
+14
+Ferrucci, Santino
+D/C/F
+00:02.9750
+ 225.745
+1
+6
+5
+O'Ward, Pato
+D/C/F
+00:02.9895
+ 224.650
+1
+Section:  Turn 2 Entry
+Length:  0.186553 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 5 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 6 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+12
+Malukas, David
+D/C/F
+00:01.9414
+ 233.548
+2
+2
+10
+Palou, Alex
+D/H/F
+00:01.9422
+ 233.451
+1
+3
+20
+Rossi, Alexander
+D/C/F
+00:01.9479
+ 232.768
+1
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:01.9484
+ 232.708
+1
+5
+14
+Ferrucci, Santino
+D/C/F
+00:01.9511
+ 232.386
+1
+6
+5
+O'Ward, Pato
+D/C/F
+00:01.9643
+ 230.825
+1
+Section:  Turn 2 Exit
+Length:  0.125947 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 6 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 7 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+12
+Malukas, David
+D/C/F
+00:02.4089
+ 233.509
+1
+2
+10
+Palou, Alex
+D/H/F
+00:02.4249
+ 231.968
+1
+3
+60
+Rosenqvist, Felix
+D/H/F
+00:02.4287
+ 231.605
+1
+4
+20
+Rossi, Alexander
+D/C/F
+00:02.4311
+ 231.377
+1
+5
+14
+Ferrucci, Santino
+D/C/F
+00:02.4342
+ 231.082
+1
+6
+5
+O'Ward, Pato
+D/C/F
+00:02.4377
+ 230.750
+1
+Section:  Back Stretch 1
+Length:  0.156250 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 7 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 8 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+12
+Malukas, David
+D/C/F
+00:02.3654
+ 237.803
+2
+2
+10
+Palou, Alex
+D/H/F
+00:02.3845
+ 235.899
+1
+3
+20
+Rossi, Alexander
+D/C/F
+00:02.3896
+ 235.395
+1
+4
+5
+O'Ward, Pato
+D/C/F
+00:02.3898
+ 235.375
+1
+5
+60
+Rosenqvist, Felix
+D/H/F
+00:02.3937
+ 234.992
+1
+6
+14
+Ferrucci, Santino
+D/C/F
+00:02.3939
+ 234.972
+4
+Section:  Back Stretch 2
+Length:  0.156250 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 8 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 9 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+12
+Malukas, David
+D/C/F
+00:02.3546
+ 238.894
+3
+2
+12
+Malukas, David
+D/C/F
+00:02.3546
+ 238.894
+4
+3
+10
+Palou, Alex
+D/H/F
+00:02.3568
+ 238.671
+1
+4
+20
+Rossi, Alexander
+D/C/F
+00:02.3648
+ 237.864
+1
+5
+14
+Ferrucci, Santino
+D/C/F
+00:02.3650
+ 237.844
+4
+6
+60
+Rosenqvist, Felix
+D/H/F
+00:02.3667
+ 237.673
+4
+7
+5
+O'Ward, Pato
+D/C/F
+00:02.3744
+ 236.902
+2
+Section:  Back Stretch 3
+Length:  0.156250 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 9 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 10 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:02.3414
+ 240.241
+1
+2
+60
+Rosenqvist, Felix
+D/H/F
+00:02.3524
+ 239.117
+4
+3
+12
+Malukas, David
+D/C/F
+00:02.3557
+ 238.783
+3
+4
+14
+Ferrucci, Santino
+D/C/F
+00:02.3587
+ 238.479
+1
+5
+20
+Rossi, Alexander
+D/C/F
+00:02.3588
+ 238.469
+1
+6
+5
+O'Ward, Pato
+D/C/F
+00:02.3757
+ 236.772
+3
+Section:  Back Stretch 4
+Length:  0.156250 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 10 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 11 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:01.8980
+ 238.888
+1
+2
+12
+Malukas, David
+D/C/F
+00:01.9062
+ 237.860
+3
+3
+60
+Rosenqvist, Felix
+D/H/F
+00:01.9069
+ 237.773
+4
+4
+20
+Rossi, Alexander
+D/C/F
+00:01.9084
+ 237.586
+1
+5
+14
+Ferrucci, Santino
+D/C/F
+00:01.9145
+ 236.829
+1
+6
+5
+O'Ward, Pato
+D/C/F
+00:01.9168
+ 236.545
+1
+Section:  Turn 3 Entry
+Length:  0.125947 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 11 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 12 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:02.8890
+ 232.465
+1
+2
+12
+Malukas, David
+D/C/F
+00:02.8919
+ 232.232
+4
+3
+20
+Rossi, Alexander
+D/C/F
+00:02.9002
+ 231.567
+4
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:02.9066
+ 231.057
+1
+5
+14
+Ferrucci, Santino
+D/C/F
+00:02.9104
+ 230.755
+3
+6
+5
+O'Ward, Pato
+D/C/F
+00:02.9184
+ 230.123
+2
+Section:  Turn 3 Exit
+Length:  0.186553 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 12 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 13 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Rossi, Alexander
+D/C/F
+00:02.8974
+ 231.791
+1
+2
+12
+Malukas, David
+D/C/F
+00:02.9037
+ 231.288
+4
+3
+10
+Palou, Alex
+D/H/F
+00:02.9127
+ 230.573
+1
+4
+5
+O'Ward, Pato
+D/C/F
+00:02.9272
+ 229.431
+3
+5
+60
+Rosenqvist, Felix
+D/H/F
+00:02.9330
+ 228.977
+1
+6
+14
+Ferrucci, Santino
+D/C/F
+00:02.9343
+ 228.876
+1
+Section:  Turn 4 Entry
+Length:  0.186553 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 13 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 14 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Rossi, Alexander
+D/C/F
+00:01.9617
+ 231.131
+0
+2
+10
+Palou, Alex
+D/H/F
+00:01.9717
+ 229.959
+1
+3
+12
+Malukas, David
+D/C/F
+00:01.9720
+ 229.924
+4
+4
+14
+Ferrucci, Santino
+D/C/F
+00:01.9794
+ 229.064
+4
+5
+60
+Rosenqvist, Felix
+D/H/F
+00:01.9817
+ 228.798
+2
+6
+5
+O'Ward, Pato
+D/C/F
+00:01.9887
+ 227.993
+2
+Section:  Turn 4 Exit
+Length:  0.125947 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 14 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 15 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Rossi, Alexander
+D/C/F
+00:01.4303
+ 231.197
+2
+2
+10
+Palou, Alex
+D/H/F
+00:01.4375
+ 230.039
+1
+3
+14
+Ferrucci, Santino
+D/C/F
+00:01.4411
+ 229.465
+0
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:01.4415
+ 229.401
+0
+5
+5
+O'Ward, Pato
+D/C/F
+00:01.4431
+ 229.147
+2
+6
+12
+Malukas, David
+D/C/F
+00:01.4448
+ 228.877
+4
+Section:  Front Stretch 1
+Length:  0.091856 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 15 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 16 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Rossi, Alexander
+D/C/F
+00:01.4253
+ 232.008
+2
+2
+10
+Palou, Alex
+D/H/F
+00:01.4297
+ 231.294
+1
+3
+14
+Ferrucci, Santino
+D/C/F
+00:01.4338
+ 230.633
+0
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:01.4339
+ 230.617
+0
+5
+5
+O'Ward, Pato
+D/C/F
+00:01.4348
+ 230.472
+2
+6
+12
+Malukas, David
+D/C/F
+00:01.4386
+ 229.863
+3
+Section:  Front Stretch 2
+Length:  0.091856 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 16 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 17 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Rossi, Alexander
+D/C/F
+00:01.9737
+ 231.798
+2
+2
+10
+Palou, Alex
+D/H/F
+00:01.9768
+ 231.434
+1
+3
+60
+Rosenqvist, Felix
+D/H/F
+00:01.9844
+ 230.548
+0
+4
+5
+O'Ward, Pato
+D/C/F
+00:01.9852
+ 230.455
+4
+5
+14
+Ferrucci, Santino
+D/C/F
+00:01.9853
+ 230.443
+0
+6
+12
+Malukas, David
+D/C/F
+00:01.9940
+ 229.438
+3
+Section:  Front Stretch 3
+Length:  0.127083 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 17 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 18 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Rossi, Alexander
+D/C/F
+00:01.9598
+ 233.442
+2
+2
+10
+Palou, Alex
+D/H/F
+00:01.9629
+ 233.073
+1
+3
+5
+O'Ward, Pato
+D/C/F
+00:01.9690
+ 232.351
+4
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:01.9730
+ 231.880
+0
+5
+14
+Ferrucci, Santino
+D/C/F
+00:01.9765
+ 231.469
+0
+6
+12
+Malukas, David
+D/C/F
+00:01.9823
+ 230.792
+2
+Section:  Front Stretch 4
+Length:  0.127083 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 18 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 19 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:04.8762
+ 230.712
+1
+2
+20
+Rossi, Alexander
+D/C/F
+00:04.8870
+ 230.202
+1
+3
+60
+Rosenqvist, Felix
+D/H/F
+00:04.8892
+ 230.098
+1
+4
+12
+Malukas, David
+D/C/F
+00:04.9061
+ 229.306
+2
+5
+14
+Ferrucci, Santino
+D/C/F
+00:04.9179
+ 228.755
+4
+6
+5
+O'Ward, Pato
+D/C/F
+00:04.9326
+ 228.074
+3
+Section:  T1 to SS1
+Length:  0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 19 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 20 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+12
+Malukas, David
+D/C/F
+00:04.9034
+ 229.432
+2
+2
+10
+Palou, Alex
+D/H/F
+00:04.9050
+ 229.357
+1
+3
+20
+Rossi, Alexander
+D/C/F
+00:04.9166
+ 228.816
+1
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:04.9209
+ 228.616
+1
+5
+14
+Ferrucci, Santino
+D/C/F
+00:04.9261
+ 228.375
+1
+6
+5
+O'Ward, Pato
+D/C/F
+00:04.9538
+ 227.098
+1
+Section:  SS1 to T2
+Length:  0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 20 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 21 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+12
+Malukas, David
+D/C/F
+00:04.7759
+ 235.557
+1
+2
+10
+Palou, Alex
+D/H/F
+00:04.8094
+ 233.916
+1
+3
+20
+Rossi, Alexander
+D/C/F
+00:04.8207
+ 233.368
+1
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:04.8224
+ 233.286
+1
+5
+5
+O'Ward, Pato
+D/C/F
+00:04.8275
+ 233.039
+1
+6
+14
+Ferrucci, Santino
+D/C/F
+00:04.8293
+ 232.952
+1
+Section:  T2 to BS2
+Length:  0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 21 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 22 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:04.6982
+ 239.453
+1
+2
+12
+Malukas, David
+D/C/F
+00:04.7103
+ 238.838
+3
+3
+60
+Rosenqvist, Felix
+D/H/F
+00:04.7191
+ 238.392
+4
+4
+20
+Rossi, Alexander
+D/C/F
+00:04.7236
+ 238.165
+1
+5
+14
+Ferrucci, Santino
+D/C/F
+00:04.7244
+ 238.125
+4
+6
+5
+O'Ward, Pato
+D/C/F
+00:04.7502
+ 236.831
+2
+Section:  BS2 to T3
+Length:  0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 22 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 23 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:04.7870
+ 235.011
+1
+2
+12
+Malukas, David
+D/C/F
+00:04.8004
+ 234.355
+4
+3
+20
+Rossi, Alexander
+D/C/F
+00:04.8087
+ 233.950
+1
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:04.8148
+ 233.654
+1
+5
+14
+Ferrucci, Santino
+D/C/F
+00:04.8257
+ 233.126
+3
+6
+5
+O'Ward, Pato
+D/C/F
+00:04.8372
+ 232.572
+2
+Section:  T3 to SS2
+Length:  0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 23 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 24 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Rossi, Alexander
+D/C/F
+00:04.8618
+ 231.395
+1
+2
+12
+Malukas, David
+D/C/F
+00:04.8757
+ 230.735
+4
+3
+10
+Palou, Alex
+D/H/F
+00:04.8844
+ 230.324
+1
+4
+14
+Ferrucci, Santino
+D/C/F
+00:04.9147
+ 228.904
+4
+5
+60
+Rosenqvist, Felix
+D/H/F
+00:04.9170
+ 228.797
+1
+6
+5
+O'Ward, Pato
+D/C/F
+00:04.9186
+ 228.723
+3
+Section:  SS2 to T4
+Length:  0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 24 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 25 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Rossi, Alexander
+D/C/F
+00:02.8556
+ 231.601
+2
+2
+10
+Palou, Alex
+D/H/F
+00:02.8672
+ 230.664
+1
+3
+14
+Ferrucci, Santino
+D/C/F
+00:02.8749
+ 230.046
+0
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:02.8754
+ 230.006
+0
+5
+5
+O'Ward, Pato
+D/C/F
+00:02.8779
+ 229.806
+2
+6
+12
+Malukas, David
+D/C/F
+00:02.8845
+ 229.280
+4
+Section:  T4 to FS
+Length:  0.183711 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 25 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 26 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Rossi, Alexander
+D/C/F
+00:03.9335
+ 232.616
+2
+2
+10
+Palou, Alex
+D/H/F
+00:03.9397
+ 232.250
+1
+3
+5
+O'Ward, Pato
+D/C/F
+00:03.9542
+ 231.398
+4
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:03.9574
+ 231.211
+0
+5
+14
+Ferrucci, Santino
+D/C/F
+00:03.9618
+ 230.954
+0
+6
+12
+Malukas, David
+D/C/F
+00:03.9772
+ 230.060
+4
+Section:  FS to SF
+Length:  0.254165 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 26 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 27 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:09.7812
+ 230.032
+1
+2
+20
+Rossi, Alexander
+D/C/F
+00:09.8036
+ 229.507
+1
+3
+12
+Malukas, David
+D/C/F
+00:09.8095
+ 229.369
+2
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:09.8101
+ 229.355
+1
+5
+14
+Ferrucci, Santino
+D/C/F
+00:09.8523
+ 228.372
+4
+6
+5
+O'Ward, Pato
+D/C/F
+00:09.8869
+ 227.573
+1
+Section:  T1 to T2
+Length:  0.624998 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 27 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 28 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+12
+Malukas, David
+D/C/F
+00:09.4888
+ 237.121
+2
+2
+10
+Palou, Alex
+D/H/F
+00:09.5076
+ 236.652
+1
+3
+20
+Rossi, Alexander
+D/C/F
+00:09.5443
+ 235.742
+1
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:09.5508
+ 235.582
+1
+5
+14
+Ferrucci, Santino
+D/C/F
+00:09.5566
+ 235.439
+4
+6
+5
+O'Ward, Pato
+D/C/F
+00:09.5803
+ 234.856
+1
+Section:  T2 to T3
+Length:  0.624998 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 28 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 29 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Rossi, Alexander
+D/C/F
+00:09.6705
+ 232.666
+1
+2
+10
+Palou, Alex
+D/H/F
+00:09.6714
+ 232.644
+1
+3
+12
+Malukas, David
+D/C/F
+00:09.6761
+ 232.531
+4
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:09.7318
+ 231.200
+1
+5
+14
+Ferrucci, Santino
+D/C/F
+00:09.7467
+ 230.847
+1
+6
+5
+O'Ward, Pato
+D/C/F
+00:09.7561
+ 230.624
+2
+Section:  T3 to T4
+Length:  0.624998 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 29 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 30 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Rossi, Alexander
+D/C/F
+00:06.7891
+ 232.189
+2
+2
+10
+Palou, Alex
+D/H/F
+00:06.8069
+ 231.582
+1
+3
+60
+Rosenqvist, Felix
+D/H/F
+00:06.8328
+ 230.704
+0
+4
+5
+O'Ward, Pato
+D/C/F
+00:06.8349
+ 230.634
+4
+5
+14
+Ferrucci, Santino
+D/C/F
+00:06.8367
+ 230.573
+0
+6
+12
+Malukas, David
+D/C/F
+00:06.8617
+ 229.733
+4
+Section:  T4 to SF
+Length:  0.437877 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 30 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 31 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:00.3489
+ 234.500
+1
+2
+60
+Rosenqvist, Felix
+D/H/F
+00:00.3495
+ 234.098
+3
+3
+20
+Rossi, Alexander
+D/C/F
+00:00.3497
+ 233.964
+1
+4
+12
+Malukas, David
+D/C/F
+00:00.3528
+ 231.908
+4
+5
+5
+O'Ward, Pato
+D/C/F
+00:00.3532
+ 231.646
+4
+6
+14
+Ferrucci, Santino
+D/C/F
+00:00.3539
+ 231.187
+1
+Section:  T1T to T1
+Length:  0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 31 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 32 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+12
+Malukas, David
+D/C/F
+00:00.3473
+ 235.581
+2
+2
+20
+Rossi, Alexander
+D/C/F
+00:00.3483
+ 234.904
+1
+3
+10
+Palou, Alex
+D/H/F
+00:00.3485
+ 234.770
+1
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:00.3498
+ 233.897
+1
+5
+14
+Ferrucci, Santino
+D/C/F
+00:00.3502
+ 233.630
+1
+6
+5
+O'Ward, Pato
+D/C/F
+00:00.3526
+ 232.040
+1
+Section:  T2T to T2
+Length:  0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 32 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 33 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:00.3390
+ 241.349
+1
+2
+12
+Malukas, David
+D/C/F
+00:00.3405
+ 240.285
+3
+3
+60
+Rosenqvist, Felix
+D/H/F
+00:00.3406
+ 240.215
+1
+4
+14
+Ferrucci, Santino
+D/C/F
+00:00.3414
+ 239.652
+4
+5
+20
+Rossi, Alexander
+D/C/F
+00:00.3418
+ 239.372
+1
+6
+5
+O'Ward, Pato
+D/C/F
+00:00.3438
+ 237.979
+1
+Section:  T3T to T3
+Length:  0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 33 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 34 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Rossi, Alexander
+D/C/F
+00:00.3492
+ 234.299
+0
+2
+10
+Palou, Alex
+D/H/F
+00:00.3503
+ 233.563
+1
+3
+14
+Ferrucci, Santino
+D/C/F
+00:00.3510
+ 233.097
+0
+4
+12
+Malukas, David
+D/C/F
+00:00.3513
+ 232.898
+4
+5
+60
+Rosenqvist, Felix
+D/H/F
+00:00.3519
+ 232.501
+2
+6
+5
+O'Ward, Pato
+D/C/F
+00:00.3527
+ 231.974
+0
+Section:  T4T to T4
+Length:  0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 34 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 35 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Rossi, Alexander
+D/C/F
+00:00.4786
+ 234.346
+3
+2
+10
+Palou, Alex
+D/H/F
+00:00.4796
+ 233.857
+2
+3
+5
+O'Ward, Pato
+D/C/F
+00:00.4806
+ 233.371
+5
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:00.4819
+ 232.741
+1
+5
+14
+Ferrucci, Santino
+D/C/F
+00:00.4831
+ 232.163
+1
+6
+12
+Malukas, David
+D/C/F
+00:00.4844
+ 231.540
+3
+Section:  SF to SFT
+Length:  0.031155 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 35 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 36 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:02.0678
+  62.484
+5
+2
+14
+Ferrucci, Santino
+D/C/F
+00:02.0981
+  61.581
+5
+3
+60
+Rosenqvist, Felix
+D/H/F
+00:02.2451
+  57.549
+5
+4
+20
+Rossi, Alexander
+D/C/F
+00:02.2891
+  56.443
+5
+5
+5
+O'Ward, Pato
+D/C/F
+00:02.3060
+  56.029
+5
+6
+12
+Malukas, David
+D/C/F
+00:02.6751
+  48.299
+5
+Section:  PIC to PI
+Length:  0.035890 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 36 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 37 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+60
+Rosenqvist, Felix
+D/H/F
+00:47.5354
+ 167.989
+0
+2
+10
+Palou, Alex
+D/H/F
+00:48.8853
+ 163.351
+0
+3
+12
+Malukas, David
+D/C/F
+00:49.3281
+ 161.884
+0
+4
+14
+Ferrucci, Santino
+D/C/F
+00:49.3523
+ 161.805
+0
+5
+20
+Rossi, Alexander
+D/C/F
+00:49.9549
+ 159.853
+0
+6
+5
+O'Ward, Pato
+D/C/F
+00:51.0206
+ 156.514
+0
+Section:  PO to SF
+Length:  2.218180 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 37 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 38 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:51.3940
+ 150.680
+5
+2
+20
+Rossi, Alexander
+D/C/F
+00:54.5153
+ 142.053
+5
+3
+14
+Ferrucci, Santino
+D/C/F
+00:55.0851
+ 140.584
+5
+4
+5
+O'Ward, Pato
+D/C/F
+00:57.3827
+ 134.955
+5
+5
+12
+Malukas, David
+D/C/F
+01:06.3886
+ 116.648
+5
+6
+60
+Rosenqvist, Felix
+D/H/F
+01:13.9787
+ 104.680
+5
+Section:  SF to PI
+Length:  2.151130 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 38 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 39 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+60
+Rosenqvist, Felix
+D/H/F
+00:20.3523
+ 121.440
+0
+2
+14
+Ferrucci, Santino
+D/C/F
+00:20.8937
+ 118.294
+0
+3
+20
+Rossi, Alexander
+D/C/F
+00:21.3682
+ 115.667
+0
+4
+12
+Malukas, David
+D/C/F
+00:21.3866
+ 115.567
+0
+5
+10
+Palou, Alex
+D/H/F
+00:21.7665
+ 113.550
+0
+6
+5
+O'Ward, Pato
+D/C/F
+00:22.4738
+ 109.977
+0
+Section:  PO to BS1
+Length:  0.686553 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 39 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 40 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+00:25.7070
+ 121.872
+5
+2
+14
+Ferrucci, Santino
+D/C/F
+00:29.5053
+ 106.183
+5
+3
+20
+Rossi, Alexander
+D/C/F
+00:29.9855
+ 104.482
+5
+4
+5
+O'Ward, Pato
+D/C/F
+00:31.4201
+  99.712
+5
+5
+12
+Malukas, David
+D/C/F
+00:40.5209
+  77.317
+5
+6
+60
+Rosenqvist, Felix
+D/H/F
+00:42.5565
+  73.619
+5
+Section:  BS3 to PI
+Length:  0.870265 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 40 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 41 =====
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+10
+Palou, Alex
+D/H/F
+04:55.7179
+  22.757
+5
+2
+20
+Rossi, Alexander
+D/C/F
+05:01.3559
+  22.331
+5
+3
+14
+Ferrucci, Santino
+D/C/F
+05:01.9041
+  22.290
+5
+4
+5
+O'Ward, Pato
+D/C/F
+05:06.0432
+  21.989
+5
+5
+12
+Malukas, David
+D/C/F
+05:12.4124
+  21.541
+5
+6
+60
+Rosenqvist, Felix
+D/H/F
+05:17.7998
+  21.175
+5
+Section:  PO to PI
+Length:  1.869320 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 41 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES
+
+
+===== PAGE 42 =====
+Track Map
+Information provided by Indy Racing Information System - Copyright INDYCAR 2026
+Page 42 of 42
+(C)hassis: D=Dallara |  (E)ngine: C=Chevy, H=Honda  |  (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+110th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 7
+2.5 mile(s)
+May 17, 2026
+Qualifications - Firestone Fast 6
+NTT INDYCAR SERIES

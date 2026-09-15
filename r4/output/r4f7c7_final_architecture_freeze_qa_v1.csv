@@ -1,0 +1,10 @@
+metric,value,expected,status
+development_rows,104,104,PASS
+selected_k_in_grid,3.0,IN_GRID,PASS
+c6_shrunk_beats_kalman,True,True,PASS
+c6_shrunk_not_materially_worse_than_running,-0.005819064025278764,<=0.02 mph,PASS
+2024_validation_read,False,False,PASS
+thermal_primary_model,False,False,PASS
+kalman_primary_model,False,False,PASS
+historical_action_classifier_used,False,False,PASS
+development_architecture_frozen_before_2024,True,True,PASS

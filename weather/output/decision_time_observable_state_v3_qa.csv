@@ -1,0 +1,11 @@
+﻿metric,value,status
+state_rows_is_8,8,PASS
+driver_set_exact,1,PASS
+predecision_rank_driver_set_exact,Alexander Rossi|Scott McLaughlin,PASS
+post_action_rank_leaks,0,PASS
+action_lane_observable_leaks,0,PASS
+queue_observable_leaks,0,PASS
+queue_truth_leaks,0,PASS
+unknown_physical_state_leaks,0,PASS
+elapsed_time_track_evolution_used,0,PASS
+active_frozen_ledgers_mutated,0,PASS

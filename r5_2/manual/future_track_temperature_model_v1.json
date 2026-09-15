@@ -1,0 +1,26 @@
+{
+  "version": "R5.2_FUTURE_TRACK_TEMP_MODEL_V1",
+  "target": "delta_track_temp_c",
+  "best_model": "THERMAL_CORE",
+  "features": [
+    "requested_horizon_min",
+    "current_track_temp_c",
+    "delta_ambient_temp_c"
+  ],
+  "fit": "Huber regression",
+  "coefficients": {
+    "intercept": 2.8557938092079906,
+    "requested_horizon_min": 0.02134365718170434,
+    "current_track_temp_c": -0.07257708095185851,
+    "delta_ambient_temp_c": 1.2237601018365731
+  },
+  "residual": {
+    "source": "leave-one-year-out residuals",
+    "mean": -0.02979008743363833,
+    "median": -0.04387804560604108,
+    "sd": 2.0724705966952395,
+    "p05": -3.604286821330361,
+    "p50": -0.04387804560604108,
+    "p95": 3.5738355767105436
+  }
+}

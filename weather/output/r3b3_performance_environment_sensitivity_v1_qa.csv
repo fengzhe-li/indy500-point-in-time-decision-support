@@ -1,0 +1,13 @@
+﻿metric,value,status
+normal_branch_rows,35,PASS
+recovery_branch_rows,4,PASS
+complete_forward_feature_rows,35,PASS
+loyo_years,2020|2021|2023,PASS
+2022_used_in_environment_fit,0,PASS
+recovery_rows_used_in_normal_fit,0,PASS
+ptsc_used_as_forward_predictor,0,PASS
+loyo_completed,12,PASS
+environment_model_beats_zero,-0.0051863174,SENSITIVITY_ONLY
+causal_claim_allowed,0,PASS
+elapsed_time_used_as_track_evolution,0,PASS
+protected_outputs_mutated,0,PASS

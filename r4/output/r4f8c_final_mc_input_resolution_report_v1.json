@@ -1,0 +1,96 @@
+{
+  "phase": "R4F8C",
+  "status": "R4F8C_FINAL_MC_INPUT_RESOLUTION_READY",
+  "f8b_decision_rows": 50,
+  "f8b_action_rows": 150,
+  "last_chance_interface_rows": 10,
+  "wait_queue_candidate_sources": [
+    {
+      "file": "r4/output/r4p11_stochastic_wait_performance_mc_draws_sample_v1.csv",
+      "rows": 1500,
+      "matching_columns": "wait_minutes"
+    },
+    {
+      "file": "r4/output/r4f8b_final_mc_action_expansion_v1.csv",
+      "rows": 150,
+      "matching_columns": "requires_wait_draw;wait_model_available"
+    },
+    {
+      "file": "r4/output/r4f2_canonical_fused_decision_dataset_v1.csv",
+      "rows": 148,
+      "matching_columns": "wait_model_available"
+    },
+    {
+      "file": "r4/output/r4f2_canonical_fused_decision_dataset_v2.csv",
+      "rows": 148,
+      "matching_columns": "wait_model_available"
+    },
+    {
+      "file": "r4/output/r4f1_day1_fused_interface_v1.csv",
+      "rows": 138,
+      "matching_columns": "wait_model_available"
+    },
+    {
+      "file": "r4/output/r4f3_shared_state_linkage_audit_v1.csv",
+      "rows": 50,
+      "matching_columns": "wait_model_structural_available;historical_wait_observed"
+    },
+    {
+      "file": "r4/output/r4f3a_shared_state_linkage_repaired_v1.csv",
+      "rows": 50,
+      "matching_columns": "wait_model_structural_available;historical_wait_observed"
+    },
+    {
+      "file": "r4/output/r4f3b_shared_state_linkage_thermal_fixed_v1.csv",
+      "rows": 50,
+      "matching_columns": "wait_model_structural_available;historical_wait_observed"
+    },
+    {
+      "file": "r4/output/r4f4_decision_window_residual_context_v1.csv",
+      "rows": 50,
+      "matching_columns": "wait_model_structural_available;historical_wait_observed"
+    },
+    {
+      "file": "r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv",
+      "rows": 50,
+      "matching_columns": "wait_model_available"
+    },
+    {
+      "file": "r4/output/r4f8a_action_mc_candidate_files_v1.csv",
+      "rows": 42,
+      "matching_columns": "queue_columns;completion_columns"
+    },
+    {
+      "file": "r4/output/r4p10_thermal_conditioned_repeat_dataset_v1.csv",
+      "rows": 39,
+      "matching_columns": "historical_wait_used_as_feature"
+    },
+    {
+      "file": "r4/output/r4lc5a_last_chance_chronology_action_ledger_v1.csv",
+      "rows": 22,
+      "matching_columns": "completion_status"
+    },
+    {
+      "file": "r4/output/r4lc5e_last_chance_fused_interface_v1.csv",
+      "rows": 10,
+      "matching_columns": "wait_model_available"
+    },
+    {
+      "file": "r4/output/r4lc5e_last_chance_fused_interface_v2.csv",
+      "rows": 10,
+      "matching_columns": "wait_model_available"
+    },
+    {
+      "file": "r4/output/r4p11_stochastic_wait_performance_mc_results_v1.csv",
+      "rows": 9,
+      "matching_columns": "mean_wait_minutes;q50_wait_minutes;q95_wait_minutes;wait_source"
+    },
+    {
+      "file": "r4/output/r4p6_decision_safe_conditional_dataset_v1.csv",
+      "rows": 5,
+      "matching_columns": "historical_wait_to_next_run_min;historical_wait_role"
+    }
+  ],
+  "important_boundary": "R4F8B currently contains Day1 decision states only. Last Chance must remain a separate regime-specific action branch and be integrated before final system completion.",
+  "next_phase": "R4F8D final Day1 Monte Carlo engine, followed by Last Chance regime integration using its frozen action semantics."
+}

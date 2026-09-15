@@ -1,0 +1,18 @@
+concept,source_file,source_column,source_authority,rows,non_null_rows,dtype,usable,decision_time_semantics
+timestamp,weather/output/hrrr_ims_2020_2024_features.csv,valid_time_utc,HRRR forecast valid time,259,259,str,True,FORECAST_REQUIRES_ISSUE_AVAILABILITY_GATE
+air_temperature,weather/output/hrrr_ims_2020_2024_features.csv,temp_c,HRRR forecast,259,259,float64,True,FORECAST_REQUIRES_ISSUE_AVAILABILITY_GATE
+dew_point,weather/output/hrrr_ims_2020_2024_features.csv,dewpoint_c,HRRR forecast,259,259,float64,True,FORECAST_REQUIRES_ISSUE_AVAILABILITY_GATE
+relative_humidity,weather/output/hrrr_ims_2020_2024_features.csv,relative_humidity_pct,HRRR forecast,259,259,float64,True,FORECAST_REQUIRES_ISSUE_AVAILABILITY_GATE
+wind_speed,weather/output/hrrr_ims_2020_2024_features.csv,wind_speed_10m_ms,HRRR forecast,259,259,float64,True,FORECAST_REQUIRES_ISSUE_AVAILABILITY_GATE
+wind_direction,weather/output/hrrr_ims_2020_2024_features.csv,wind_direction_deg,HRRR forecast,259,259,float64,True,FORECAST_REQUIRES_ISSUE_AVAILABILITY_GATE
+gust,weather/output/hrrr_ims_2020_2024_features.csv,gust_ms,HRRR forecast,259,259,float64,True,FORECAST_REQUIRES_ISSUE_AVAILABILITY_GATE
+pressure,weather/output/hrrr_ims_2020_2024_features.csv,pressure_hpa,HRRR forecast,259,259,float64,True,FORECAST_REQUIRES_ISSUE_AVAILABILITY_GATE
+cloud_cover,weather/output/hrrr_ims_2020_2024_features.csv,cloud_cover_pct,HRRR forecast,259,259,float64,True,FORECAST_REQUIRES_ISSUE_AVAILABILITY_GATE
+downward_shortwave,weather/output/hrrr_ims_2020_2024_features.csv,shortwave_radiation_wm2,HRRR forecast,259,259,float64,True,FORECAST_REQUIRES_ISSUE_AVAILABILITY_GATE
+track_surface_temperature,weather/evidence/ptsc/indy500_day1_track_temp_2020_2024_time_normalized.csv,track_c,PTSC observed,168,168,float64,True,OBSERVED_AT_OR_BEFORE_TIMESTAMP
+ambient_temperature,weather/evidence/ptsc/indy500_day1_track_temp_2020_2024_time_normalized.csv,ambient_c,PTSC observed,168,168,float64,True,OBSERVED_AT_OR_BEFORE_TIMESTAMP
+four_lap_average_speed,r4/output/r4p1_attempt_four_lap_panel_v1.csv,four_lap_average_speed_mph,official result,329,260,float64,True,SOURCE_RECORD
+individual_lap_speed,data/canonical/v1/attempt_laps.csv,lap_speed_mph,official detailed result,1174,1174,float64,True,SOURCE_RECORD
+section_speed,data/canonical/v1/attempt_sections.csv,section_speed_mph,official detailed result,9898,9898,float64,True,SOURCE_RECORD
+entry_identifier,data/canonical/v1/attempts.csv,entry_key,canonical,329,329,str,True,SOURCE_RECORD
+chronological_attempt_index,data/canonical/v1/attempts.csv,car_attempt_index,canonical; partial,329,232,float64,True,SOURCE_RECORD

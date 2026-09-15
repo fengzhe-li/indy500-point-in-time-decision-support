@@ -1,0 +1,12 @@
+﻿metric,value,status
+raw_priority_rows,10,PASS
+mclaughlin_lane1_grounded,1,PASS
+mclaughlin_rank15_grounded,1,PASS
+mclaughlin_front_lane1_exactly_one,1,PASS
+promotion_ready_driver_count,1,PASS
+sato_queue_inference_rejected,1,PASS
+castroneves_queue_inference_rejected,1,PASS
+queue_wait_inferred,0,PASS
+inter_attempt_gap_used_as_queue_wait,0,PASS
+exact_timestamp_inferred,0,PASS
+active_ledger_mutation,0,PASS

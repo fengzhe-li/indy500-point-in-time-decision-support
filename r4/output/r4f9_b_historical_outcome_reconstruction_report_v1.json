@@ -1,0 +1,41 @@
+{
+  "phase": "R4F9-B",
+  "status": "R4F9_HISTORICAL_REALIZED_OUTCOME_INTERFACE_RECONSTRUCTED",
+  "coverage": {
+    "final_decisions": 60,
+    "source_attempts_resolved": 50,
+    "source_attempts_unresolved": 10,
+    "resolved_with_later_attempt": 26,
+    "resolved_without_later_attempt": 24,
+    "next_complete_four_lap": 19,
+    "next_incomplete_or_partial": 7,
+    "r4p5_crosschecks": 19,
+    "r4p5_exact_attempt_id_matches": 19,
+    "r4p5_attempt_id_mismatches": 0
+  },
+  "historical_outcome_status_counts": {
+    "BLOCKED_SOURCE_ATTEMPT_UNRESOLVED": 10,
+    "NEXT_ATTEMPT_COMPLETE_SPEED_OBSERVED": 19,
+    "NEXT_ATTEMPT_EXISTS_BUT_NOT_COMPLETE_FOUR_LAP": 7,
+    "OBSERVED_NO_LATER_CANONICAL_ATTEMPT": 24
+  },
+  "evaluation_policy": "R4F9 may score frozen predictive distributions against historically realized next-attempt outcomes where those outcomes are directly reconstructable. STOP/no-later-attempt cases are descriptive replay evidence, not optimal-action labels.",
+  "qa": {
+    "pass": 10,
+    "warn": 2,
+    "fail": 0
+  },
+  "protected_input_hashes": {
+    "r4/output/r4f8e_reconstructed_decision_numeric_state_v1.csv": "ec63d81fd99f72ae877f05762957e90c0ac6bdef8f28564c796b74b1984d629b",
+    "r4/output/r4f2_canonical_fused_decision_dataset_v2.csv": "10042c199a4fa889cb93219bf9f41457486129bb660a5bbd1f789a86f4756298",
+    "r4/output/r4p1_attempt_four_lap_panel_v1.csv": "af6ff210a62c5aa0eb43b912c4df42aa62fe1a5aeb9a26d1d5281d515d4cb30b",
+    "r4/output/r4p5_decision_safe_forecast_scenarios_v1.csv": "d5aa1e988a60624bdfa4cd244abd79858b31de97b3cd75f62212da2ec5b077cd"
+  },
+  "output_hashes": {
+    "r4/output/r4f9_b_historical_realized_outcome_interface_v1.csv": "bf995f3ca55d0c27d8edbbe7cfebb8abb56aeb2a9cf8e36b63711339f278d5db",
+    "r4/output/r4f9_b_r4p5_next_attempt_crosscheck_v1.csv": "1c178f28ef2fc413758a86e14c90ac2bbd656a7ca67df50ff550cc543304f6b9",
+    "r4/output/r4f9_b_historical_outcome_reconstruction_qa_v1.csv": "50879a453c78739a1578cebb34b1b45e16aa41486743423a9b1b7185fac86b4e",
+    "r4/output/r4f9_b_historical_outcome_contract_v1.json": "8a53014f945df6aaf3b8dfc870159eeb5fc950a171763d9db32a1527ba82051b"
+  },
+  "next_phase": "R4F9-C_PROBABILISTIC_REPLAY_EVALUATION"
+}

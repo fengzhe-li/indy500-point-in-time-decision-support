@@ -1,0 +1,18 @@
+{
+  "phase": "R4F3B",
+  "status": "R4F3B_PTSC_TRACK_TEMPERATURE_SEMANTICS_FIXED",
+  "ptsc_time_field": "utc_datetime",
+  "ptsc_temperature_field": "track_c",
+  "ptsc_ready_states": 50,
+  "thermal_ready_states": 50,
+  "engine_ready_states": 43,
+  "correction": "R4F3A correctly repaired PTSC timestamp linkage but incorrectly allowed thermal_context_ready without a parsed track-temperature value. R4F3B explicitly binds track_c and requires a non-null temperature value.",
+  "revised_model_remains": {
+    "whole_field_window": true,
+    "historical_action_classifier": false,
+    "thermal_forecast": true,
+    "performance_uncertainty": true,
+    "stochastic_wait": true,
+    "counterfactual_monte_carlo": true
+  }
+}

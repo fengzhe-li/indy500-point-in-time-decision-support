@@ -1,0 +1,13 @@
+metric,value,expected,status
+readiness_rows,329,329,PASS
+core_development_rows,104,104,PASS
+2020_core_rows,39,39,PASS
+2021_core_rows,48,48,PASS
+2023_core_rows,17,17,PASS
+2024_validation_rows,6,6,PASS
+2022_not_model_eligible,True,True,PASS
+2024_never_development,True,True,PASS
+all_core_reference_types_valid,True,True,PASS
+car_number_string_policy_frozen,True,True,PASS
+historical_actions_not_training_targets,True,True,PASS
+contract_only_no_model_fit,True,True,PASS

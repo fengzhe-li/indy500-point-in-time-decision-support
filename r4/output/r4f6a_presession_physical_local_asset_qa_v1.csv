@@ -1,0 +1,6 @@
+metric,value,expected,status
+relevant_local_assets_found,453,>0,PASS
+high_value_presession_candidates,25,OBSERVED,PASS
+race_or_physical_candidates,316,OBSERVED,PASS
+audit_only_no_model_mutation,True,True,PASS
+practice_not_promoted_to_high_value_by_default,0,0,PASS

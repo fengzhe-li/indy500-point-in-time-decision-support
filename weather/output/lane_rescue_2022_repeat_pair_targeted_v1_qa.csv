@@ -1,0 +1,10 @@
+﻿metric,value,status
+frozen_target_driver_count,8,PASS
+frozen_target_set_exact,1,PASS
+existing_explicit_lane_rows,1,PASS
+files_scanned,105,PASS
+source_files_with_lane_terms,4,PASS
+direct_lane_candidates,2,PASS
+drivers_with_direct_candidates,1,PASS
+ledger_mutation,0,PASS
+canonical_mutation,0,PASS

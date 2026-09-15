@@ -1,0 +1,2 @@
+year,car_number,driver_name,before_speed_mph,after_speed_mph,rescued_before_time_utc,rescued_after_time_utc,reason
+2024,6,Callum Ilott,232.23,231.728,2024-05-18T20:37:00+00:00,2024-05-18T18:32:00+00:00,RESCUED_TIME_ORDER_CONFLICTS_WITH_REPEAT_SEQUENCE

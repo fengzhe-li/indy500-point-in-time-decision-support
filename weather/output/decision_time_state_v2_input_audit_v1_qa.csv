@@ -1,0 +1,10 @@
+﻿metric,value,status
+target_exact,1,PASS
+chronology_driver_coverage_8,8,PASS
+action_driver_coverage_8,8,PASS
+decision_state_partial_allowed,4,PASS
+queue_partial_allowed,4,PASS
+core_join_keys_ready,1,PASS
+no_unknown_state_imputation,0,PASS
+elapsed_time_track_evolution_used,0,PASS
+active_ledger_mutation,0,PASS

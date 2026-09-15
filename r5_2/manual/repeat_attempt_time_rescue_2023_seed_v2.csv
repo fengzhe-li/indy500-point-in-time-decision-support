@@ -1,0 +1,5 @@
+year,car_number,driver_name,speed_mph,attempt_role,time_et,time_utc,time_quality,source_authority,notes
+2023,23,Ryan Hunter-Reay,232.133,SECOND_ATTEMPT,2023-05-20 13:48,2023-05-20T17:48:00Z,EXACT_MINUTE_PUBLIC_CHRONICLE,PUBLIC_CHRONICLE,IndySpeedway chronology states at 1:48p Hunter-Reay was first driver to take a second run and posted 232.133.
+2023,18,David Malukas,231.769,LATER_ATTEMPT,2023-05-20 17:38,2023-05-20T21:38:00Z,EXACT_MINUTE_PUBLIC_CHRONICLE,PUBLIC_CHRONICLE,IndySpeedway chronology states at 5:38p David Malukas moved from the bottom up to 23rd; official result is 231.769.
+2023,6,Felix Rosenqvist,233.099,FIRST_ATTEMPT,2023-05-20 11:55,2023-05-20T15:55:00Z,EXACT_MINUTE_OFFICIAL,INDYCAR_OFFICIAL,Official IndyCar states first attempt occurred at 11:55 a.m. ET.
+2023,6,Felix Rosenqvist,233.947,SECOND_ATTEMPT,2023-05-20 16:42,2023-05-20T20:42:00Z,EXACT_MINUTE_OFFICIAL,INDYCAR_OFFICIAL,Official IndyCar states second run occurred at 4:42 p.m. ET.

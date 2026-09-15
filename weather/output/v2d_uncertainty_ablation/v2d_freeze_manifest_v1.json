@@ -1,0 +1,61 @@
+{
+  "module": "V2-D Uncertainty-Source Ablation",
+  "status": "FROZEN",
+  "freeze_time_utc": "2026-09-14T08:48:33.389846+00:00",
+  "purpose": "Assess the sensitivity of final predictive spread to future-track uncertainty, paired coefficient uncertainty, and empirical performance-residual uncertainty.",
+  "interpretation_boundary": "This is an uncertainty-source ablation / sensitivity analysis, not a strict additive variance decomposition.",
+  "principal_findings": {
+    "dominant_source": "empirical performance residual",
+    "track_uncertainty_role": "secondary but increasingly important with horizon",
+    "coefficient_uncertainty_role": "secondary but increasingly important with horizon",
+    "main_system_implication": "Improving future track-state point prediction alone cannot substantially collapse final performance intervals while unresolved attempt-level residual variation remains dominant."
+  },
+  "selected_results": {
+    "pi80_reduction_no_residual": {
+      "15_min": 0.904239,
+      "30_min": 0.855426,
+      "60_min": 0.798707,
+      "90_min": 0.75878,
+      "120_min": 0.72792
+    },
+    "pi90_reduction_no_residual": {
+      "15_min": 0.913789,
+      "30_min": 0.87194,
+      "60_min": 0.817248,
+      "90_min": 0.783765,
+      "120_min": 0.756675
+    },
+    "track_only_pi80_width_mph": {
+      "15_min": 0.116486,
+      "30_min": 0.167695,
+      "60_min": 0.241044,
+      "90_min": 0.288155,
+      "120_min": 0.314869
+    },
+    "coefficient_only_pi80_width_mph": {
+      "15_min": 0.071618,
+      "30_min": 0.100979,
+      "60_min": 0.156121,
+      "90_min": 0.200324,
+      "120_min": 0.228228
+    }
+  },
+  "artifacts": {
+    "weather/output/v2d_uncertainty_ablation/v2d_uncertainty_ablation_detail_v1.csv": {
+      "sha256": "4eb8500168677d3682cb7cf28908dae159e727d4dc55ea40cd78e3ef1570308e",
+      "bytes": 1298998
+    },
+    "weather/output/v2d_uncertainty_ablation/v2d_uncertainty_ablation_summary_v1.csv": {
+      "sha256": "c066c4f7ab8d8efb00999817c68d9623a79a8c88017f2a9f93760b9555dc62fd",
+      "bytes": 4824
+    },
+    "weather/output/v2d_uncertainty_ablation/v2d_uncertainty_ablation_width_reduction_v1.csv": {
+      "sha256": "9c2f18dcdabb4645871190aceaa2716e3c0157138f8e7da944e974bd20f72605",
+      "bytes": 3197
+    },
+    "weather/output/v2d_uncertainty_ablation/v2d_uncertainty_ablation_summary_v1.txt": {
+      "sha256": "302b3fce099de169a99db9046df13ff7901f9e4e0035836c75c8b3534ac5a201",
+      "bytes": 8844
+    }
+  }
+}

@@ -1,0 +1,6 @@
+﻿year,constraint_rows,chronology_usable_rows,performance_environment_usable_rows,constraint_class_distribution
+2020,47,0,47,"{""PERFORMANCE_CAPTURE_APPROXIMATION"": 47}"
+2021,54,0,54,"{""PERFORMANCE_CAPTURE_APPROXIMATION"": 54}"
+2022,0,0,0,{}
+2023,28,0,28,"{""PERFORMANCE_CAPTURE_APPROXIMATION"": 28}"
+2024,13,9,7,"{""APPROXIMATE_OBSERVED"": 4, ""BOUNDED_INTERVAL"": 4, ""ORDERING_ONLY"": 1, ""PERFORMANCE_CAPTURE_APPROXIMATION"": 4}"

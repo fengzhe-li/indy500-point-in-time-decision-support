@@ -1,0 +1,129 @@
+{
+  "phase": "R4F7A_V2",
+  "status": "R4F7A_V2_EXPANDED_LATENT_READINESS_READY",
+  "old_core_development_ready": 20,
+  "new_core_development_ready": 104,
+  "new_core_forecast_ready": 104,
+  "core_growth_multiple": 5.2,
+  "year_summary": [
+    {
+      "year": 2020,
+      "all_attempt_rows": 63,
+      "strict_performance_rows": 46,
+      "strict_with_reference": 46,
+      "strict_with_point_time": 39,
+      "strict_with_ptsc": 39,
+      "strict_with_hrrr": 39,
+      "observed_latent_ready": 39,
+      "forecast_latent_ready": 39,
+      "dataset_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2021,
+      "all_attempt_rows": 60,
+      "strict_performance_rows": 51,
+      "strict_with_reference": 51,
+      "strict_with_point_time": 49,
+      "strict_with_ptsc": 48,
+      "strict_with_hrrr": 49,
+      "observed_latent_ready": 48,
+      "forecast_latent_ready": 48,
+      "dataset_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2022,
+      "all_attempt_rows": 44,
+      "strict_performance_rows": 39,
+      "strict_with_reference": 39,
+      "strict_with_point_time": 0,
+      "strict_with_ptsc": 0,
+      "strict_with_hrrr": 0,
+      "observed_latent_ready": 0,
+      "forecast_latent_ready": 0,
+      "dataset_role": "DEGRADED_CHRONOLOGY_VALIDATION"
+    },
+    {
+      "year": 2023,
+      "all_attempt_rows": 85,
+      "strict_performance_rows": 39,
+      "strict_with_reference": 39,
+      "strict_with_point_time": 17,
+      "strict_with_ptsc": 17,
+      "strict_with_hrrr": 17,
+      "observed_latent_ready": 17,
+      "forecast_latent_ready": 17,
+      "dataset_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2024,
+      "all_attempt_rows": 77,
+      "strict_performance_rows": 36,
+      "strict_with_reference": 36,
+      "strict_with_point_time": 6,
+      "strict_with_ptsc": 8,
+      "strict_with_hrrr": 6,
+      "observed_latent_ready": 6,
+      "forecast_latent_ready": 6,
+      "dataset_role": "VALIDATION_ONLY"
+    }
+  ],
+  "gain_by_year": [
+    {
+      "year": 2020,
+      "old_observed_ready": 0,
+      "new_observed_ready": 39,
+      "absolute_gain": 39,
+      "gain_multiple": "",
+      "dataset_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2021,
+      "old_observed_ready": 3,
+      "new_observed_ready": 48,
+      "absolute_gain": 45,
+      "gain_multiple": 16.0,
+      "dataset_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2022,
+      "old_observed_ready": 0,
+      "new_observed_ready": 0,
+      "absolute_gain": 0,
+      "gain_multiple": "",
+      "dataset_role": "DEGRADED_CHRONOLOGY_VALIDATION"
+    },
+    {
+      "year": 2023,
+      "old_observed_ready": 17,
+      "new_observed_ready": 17,
+      "absolute_gain": 0,
+      "gain_multiple": 1.0,
+      "dataset_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2024,
+      "old_observed_ready": 6,
+      "new_observed_ready": 6,
+      "absolute_gain": 0,
+      "gain_multiple": 1.0,
+      "dataset_role": "VALIDATION_ONLY"
+    }
+  ],
+  "remaining_missing_components": {
+    "NO_POINT_TIME": 100,
+    "NO_ENV_ALIGNMENT": 100,
+    "NO_PTSC": 99,
+    "NO_HRRR": 100
+  },
+  "core_reference_type_distribution": {
+    "GENERAL_FAST_FRIDAY_BEST_SPEED": 98,
+    "NO_TOW_SINGLE_LAP": 4,
+    "FOUR_LAP_QUALIFYING_SIM": 2
+  },
+  "validation_reference_type_distribution": {
+    "GENERAL_FAST_FRIDAY_BEST_SPEED": 3,
+    "FOUR_LAP_QUALIFYING_SIM": 3
+  },
+  "important_boundary": "This readiness audit does not fit the latent-window model. 2024 remains validation-only and 2022 remains degraded chronology validation.",
+  "next_phase": "If core development readiness is materially expanded, freeze the R4F7 model interface and begin hierarchical entry-reference + thermal + latent-window development."
+}

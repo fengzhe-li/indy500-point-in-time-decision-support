@@ -1,0 +1,9 @@
+﻿metric,value,status
+verified_population_is_44,44,PASS
+chronology_covered_is_21,21,PASS
+repeat_denominator_is_8,8,PASS
+repeat_coverage_is_8_of_8,8,PASS
+lane_rows_remain_1,1,PASS
+repeat_subgroup_ready,READY,PASS
+global_chronology_gate_not_upgraded,FAIL,PASS
+ledger_mutation,0,PASS

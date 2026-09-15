@@ -1,0 +1,4 @@
+﻿attempt_id,car_attempt_index,canonical_speed_mph,attempt_class,result_status,source_native_locator,has_official_result_link,official_result_row,official_speed_mph,official_status
+90eea27e-6e83-5e24-8428-811eae3ff157,2,229.63,A_COMPLETE,VALID_RETAINED,records[27],True,27,229.630,
+bb599e9f-cbdc-5c79-9791-ce325ef01086,1,228.622,A_COMPLETE,VALID_RETAINED,records[30],True,30,228.622,
+01896a4f-c482-5093-a806-89bc4273641d,1,225.482,A_COMPLETE,VALID_RETAINED,records[40],True,40,225.482,Withdrawn

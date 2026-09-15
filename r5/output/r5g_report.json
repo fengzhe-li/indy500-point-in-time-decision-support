@@ -1,0 +1,20 @@
+{
+  "action_universe": 170,
+  "blocked_action_rows": 10,
+  "blocked_decisions": 10,
+  "chain_active": true,
+  "competitor_evolution": "static decision-time benchmark; dynamic evolution unidentified",
+  "cutoff": "frozen structural sensitivity horizons because exact session remaining is unresolved",
+  "decision_universe": 60,
+  "draws_per_supported_action": 2000,
+  "historical_replay_parameter_policy": "exclude the decision year from performance coefficients, residual calibration, and PTSC track-dynamics training; 2024 uses 2020/2021/2023 development data",
+  "no_current_result_policy": "block unless independently validated baseline exists; Fast Friday fallback not used",
+  "performance_model": "M1_TRACK_LINEAR",
+  "phase": "R5G",
+  "priority_wait": "shared base structural prior plus explicit fixed-support sensitivity; not empirical lane calibration",
+  "seed": 500500,
+  "status": "PARTIAL_BUT_USABLE",
+  "stop_only_decisions": 10,
+  "supported_action_rows": 160,
+  "supported_decisions": 50
+}

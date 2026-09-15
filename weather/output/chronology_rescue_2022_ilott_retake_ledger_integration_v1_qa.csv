@@ -1,0 +1,14 @@
+﻿metric,value,status
+canonical_identity_grounded,1,PASS
+result_v3_grounded,1,PASS
+adjudicated_evidence_ready,1,PASS
+preintegration_duplicate_free,1,PASS
+chronology_row_count_increment,2,PASS
+action_row_count_increment,1,PASS
+new_chronology_evidence_rows,2,PASS
+new_action_evidence_rows,1,PASS
+lane_evidence_count_unchanged,1,PASS
+canonical_mutated,0,PASS
+chronology_v4_mutated,0,PASS
+action_v2_mutated,0,PASS
+phase5_to_phase8_mutated,0,PASS

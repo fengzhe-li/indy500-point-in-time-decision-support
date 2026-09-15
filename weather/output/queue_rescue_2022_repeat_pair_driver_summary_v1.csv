@@ -1,0 +1,9 @@
+﻿driver_name,total_queue_order_units,direct_queue_position_candidates,direct_queue_membership_candidates,source_native_ordering_candidates,other_driver_contamination,queue_wait_known,promotion_ready
+Alexander Rossi,0,0,0,0,0,False,False
+Callum Ilott,0,0,0,0,0,False,False
+David Malukas,0,0,0,0,0,False,False
+Helio Castroneves,2,0,0,2,0,False,False
+Marco Andretti,0,0,0,0,0,False,False
+Sage Karam,4,0,0,0,4,False,False
+Scott McLaughlin,4,4,0,0,0,False,False
+Takuma Sato,4,0,0,4,0,False,False

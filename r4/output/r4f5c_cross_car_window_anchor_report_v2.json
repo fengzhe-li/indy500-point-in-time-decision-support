@@ -1,0 +1,13 @@
+{
+  "phase": "R4F5C_V2",
+  "status": "R4F5C_V2_FAIR_BASELINE_VALIDATION_READY",
+  "target_count": 40,
+  "global_repeat_improve_rate": 0.725,
+  "evaluation_corrections": [
+    "Magnitude models are compared on identical cross-car-prediction support.",
+    "Direction accuracy is compared against an ALWAYS_IMPROVE base-rate baseline rather than a zero-valued prediction.",
+    "Leave-one-out global and year-specific mean repeat baselines are included."
+  ],
+  "decision_rule": "Do not promote the current cross-car field-median normalization into the main model unless it adds material predictive value over fair baselines.",
+  "next_phase_if_weak": "Build stronger pre-session hierarchical entry references using Fast Friday first, then Indy / same-technical-regime oval evidence where appropriate."
+}

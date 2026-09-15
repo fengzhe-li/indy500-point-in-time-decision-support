@@ -1,0 +1,5 @@
+metric,value,expected,status
+manifest_sources,10,10,PASS
+at_least_one_source_downloaded,8,>0,PASS
+2024_preserved_as_validation,True,True,PASS
+raw_acquisition_only_no_model_fit,True,True,PASS

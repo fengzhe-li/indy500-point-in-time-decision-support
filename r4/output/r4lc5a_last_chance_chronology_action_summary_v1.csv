@@ -1,0 +1,4 @@
+year,ledger_rows,complete_numeric_performance_rows,reattempt_events,exact_attempt_ordinals,exact_timestamps,action_training_rows,status
+2021,9,7,0,5,0,0,CHRONOLOGY_ACTION_EVIDENCE_PARTIAL
+2023,7,4,3,5,0,0,CHRONOLOGY_ACTION_EVIDENCE_PARTIAL
+2024,6,4,2,2,0,0,CHRONOLOGY_ACTION_EVIDENCE_PARTIAL

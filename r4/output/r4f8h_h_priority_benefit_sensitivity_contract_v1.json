@@ -1,0 +1,64 @@
+{
+  "phase": "R4F8H-H",
+  "status": "R4F8H_PRIORITY_BENEFIT_SENSITIVITY_COMPLETE",
+  "question": "How much hypothetical Lane-1 wait reduction is required before WITHDRAW_AND_PRIORITY_REATTEMPT can exceed RETAIN_AND_REATTEMPT on benchmark-success probability?",
+  "priority_wait_reduction_scenarios": {
+    "fractions": [
+      0.0,
+      0.25,
+      0.5,
+      0.75
+    ],
+    "percents": [
+      0,
+      25,
+      50,
+      75
+    ],
+    "semantics": "STRUCTURAL_SENSITIVITY_NOT_HISTORICAL_ESTIMATES",
+    "probability_distribution": null,
+    "scenario_average_allowed": false
+  },
+  "lane2_wait": {
+    "support_minutes": [
+      5.0,
+      15.0,
+      30.0,
+      45.0
+    ],
+    "probabilities": [
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ],
+    "semantics": "R4F8F_STRUCTURAL_BASELINE"
+  },
+  "lane1_wait": {
+    "rule": "lane1_wait = lane2_structural_wait * (1 - assumed_priority_reduction)",
+    "empirical_claim": false
+  },
+  "paired_random_numbers": {
+    "used": true,
+    "reason": "Retain and withdraw share the same base wait, run-duration, and future-speed draws so that only the assumed priority benefit changes."
+  },
+  "break_even_definition": "First TESTED priority-reduction level where P(withdraw final result >= decision-time benchmark) > P(retain final result >= decision-time benchmark).",
+  "break_even_is_not": [
+    "an empirical Lane-1 advantage estimate",
+    "an optimal-action threshold",
+    "a utility threshold",
+    "a causal effect estimate"
+  ],
+  "allowed_claims": [
+    "Under stated structural wait-reduction scenarios, priority may or may not offset withdrawal downside.",
+    "Benchmark-success crossover can be reported as a sensitivity threshold on the tested grid.",
+    "Zero-priority scenario is the equal-wait baseline."
+  ],
+  "forbidden_claims": [
+    "Lane 1 historically reduces wait by 25/50/75 percent",
+    "the crossover identifies the true optimal action",
+    "dynamic final-rank probability",
+    "empirical queue advantage",
+    "historical causal effect of lane choice"
+  ]
+}

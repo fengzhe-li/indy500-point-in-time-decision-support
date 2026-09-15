@@ -1,0 +1,10 @@
+﻿metric,value
+raw_corrected_units,18
+unique_semantic_units,6
+direct_repeat_units,0
+direct_action_units,0
+direct_lane_units,0
+direct_queue_units,0
+late_improvement_units,1
+speed_result_only_units,2
+final_status,ILOTT_LATE_IMPROVEMENT_EVIDENCE_ONLY_NO_REPEAT_ACTION_PROMOTION

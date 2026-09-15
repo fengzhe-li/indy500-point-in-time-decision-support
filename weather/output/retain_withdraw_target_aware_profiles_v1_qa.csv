@@ -1,0 +1,17 @@
+﻿metric,value,status
+mc_rows_equal_120,1,PASS
+normal_rows_equal_35,1,PASS
+recovery_rows_equal_4,1,PASS
+profile_rows_match_expected,1,PASS
+compact_rows_match_expected,1,PASS
+all_probabilities_in_0_1,1,PASS
+completion_plus_failure_equals_one,1,PASS
+target_unconditional_not_above_completion,1,PASS
+target_gain_probability_monotonic,1,PASS
+no_historical_leaderboard_targets,1,PASS
+no_recommendation_enabled,1,PASS
+all_recommendations_not_issued,1,PASS
+all_policy_hashes_present,1,PASS
+profile_rows,840,INFO
+compact_target_rows,480,INFO
+policy_hash,e1e442abde646a21d6f2724dd33abb2828b1ef80becbf80ec3b7e24be579ef0e,INFO

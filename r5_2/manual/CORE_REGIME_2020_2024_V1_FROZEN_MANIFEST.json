@@ -1,0 +1,129 @@
+{
+  "version": "INDY500_CORE_REGIME_2020_2024_V1",
+  "frozen_at_utc": "2026-09-11T15:40:24.916363+00:00",
+  "technical_regime": {
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "description": "Aeroscreen-era Indy 500 qualifying before the hybrid-era Indy 500."
+  },
+  "scientific_objective": "Physics-conditioned probabilistic estimation of change in four-lap qualifying average under hypothetical waiting intervals.",
+  "observation_unit": "One complete four-lap Indy 500 qualifying attempt.",
+  "performance_target": "delta_four_lap_average_speed_mph",
+  "performance_core": {
+    "features": [
+      "delta_track_temp_c",
+      "delta_air_temp_c"
+    ],
+    "track_temp_constraint": "<= 0",
+    "generic_reattempt_intercept": 0.0,
+    "air_density_role": "diagnostic only",
+    "gust_wind_role": "secondary sensitivity / uncertainty",
+    "shortwave_cloud_role": "thermal forcing / mechanism"
+  },
+  "future_state": {
+    "validated_wait_horizon_minutes": [
+      0,
+      180
+    ],
+    "target": "delta_track_temp_c",
+    "zero_wait_invariance": true
+  },
+  "decision_boundary": {
+    "model_outputs": [
+      "expected_delta_speed",
+      "median_delta_speed",
+      "80_percent_interval",
+      "90_percent_interval",
+      "p_improve"
+    ],
+    "model_does_not_output": [
+      "DELETE",
+      "WITHDRAW",
+      "RETAIN",
+      "REATTEMPT"
+    ]
+  },
+  "validation": {
+    "performance_same_car_analysis_rows": 42,
+    "future_track_transition_rows": 1016,
+    "future_state_loyo_years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "independent_rescued_end_to_end_cases_within_horizon": 2,
+    "rescued_case_80pct_hits": "1/2",
+    "rescued_case_90pct_hits": "2/2",
+    "rescued_case_mean_absolute_point_error_mph": 0.8757
+  },
+  "known_limitations": [
+    "Performance-layer sample size is small.",
+    "Unobserved setup, tire preparation, and vehicle-state changes remain in residual uncertainty.",
+    "Future track-temperature point prediction can miss transient cooling/heating events.",
+    "The model is decision support, not a strategy recommendation system.",
+    "The 2020-2024 core must not be assumed valid in other technical regulation regimes without revalidation."
+  ],
+  "files": [
+    {
+      "path": "r5_2/manual/r5_2_repeat_analysis_set_v1.csv",
+      "exists": true,
+      "sha256": "2060ef99477f34cfa343ef64677ad0ab6aa3ae88c5e54ca8a992f0e4201c551e",
+      "size_bytes": 56476
+    },
+    {
+      "path": "r5_2/manual/probabilistic_physics_core_v1.json",
+      "exists": true,
+      "sha256": "447462fd6abbef86a11bb3bd06a54b6642b351e52dbd36de1833f3796419cc1d",
+      "size_bytes": 1236
+    },
+    {
+      "path": "r5_2/manual/probabilistic_physics_coefficient_bootstrap_v1.csv",
+      "exists": true,
+      "sha256": "adbe04c05a2cc2147b5b46ccc490457fb3e8d0277447563a71a0ea572f1edc9f",
+      "size_bytes": 205811
+    },
+    {
+      "path": "r5_2/manual/probabilistic_physics_loyo_residuals_v1.csv",
+      "exists": true,
+      "sha256": "04ddb1f4e605451c4d30ff1b4fb8809acc8e02290bad34e719f37e5cea224086",
+      "size_bytes": 4766
+    },
+    {
+      "path": "r5_2/manual/extended_invariant_future_state_model_v3.json",
+      "exists": true,
+      "sha256": "62f18a1597729beb6bb0e6a274806113f939457990e711c44b55ec05c854ab78",
+      "size_bytes": 751
+    },
+    {
+      "path": "r5_2/manual/extended_future_state_horizon_uncertainty_v3.csv",
+      "exists": true,
+      "sha256": "f1d61ed3622e99285745ba1fdb4cac9e75adc5ca5a8b6307338585da264c7fc6",
+      "size_bytes": 1041
+    },
+    {
+      "path": "r5_2/manual/extended_future_state_standardized_residuals_v3.csv",
+      "exists": true,
+      "sha256": "71cf1598810f3b6102b68ee4797418f4d23249cb621aa65c0f1924fb8630d2fe",
+      "size_bytes": 19969
+    },
+    {
+      "path": "r5_2/manual/final_engine_rescued_case_backtest_v1.csv",
+      "exists": true,
+      "sha256": "88ea1962b2d050323f390060b048cbdee409a618f850a7f850f44bb630c1961d",
+      "size_bytes": 823
+    },
+    {
+      "path": "r5_2/manual/build_final_wait_performance_engine_v1.py",
+      "exists": true,
+      "sha256": "8ee8e06f9b99dce2281bb3842ac70cf8b995ebbdacaa3e0fe75c550164b3cf3e",
+      "size_bytes": 11356
+    }
+  ]
+}

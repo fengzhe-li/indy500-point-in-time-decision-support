@@ -1,0 +1,7 @@
+field,semantic_class,numeric_rows,numeric_fraction,unique_numeric,min,max
+fused_decision_id,IDENTIFIER,0,0.0,0,,
+regime,SESSION_REGIME,0,0.0,0,,
+source_decision_id,IDENTIFIER,0,0.0,0,,
+protected_result_exists,CURRENT_STATE;PROTECTION,0,0.0,0,,
+performance_state_class,,0,0.0,0,,
+source_file,,0,0.0,0,,

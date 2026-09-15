@@ -1,0 +1,13 @@
+metric,value,expected,status
+final_rows,60,60,PASS
+day1_rows,50,50,PASS
+last_chance_rows,10,10,PASS
+day1_attempt_level_speed_evaluable,19,19,PASS
+last_chance_categorical_evaluable,10,10,PASS
+last_chance_qualified,6,6,PASS
+last_chance_not_qualified,4,4,PASS
+last_chance_unmapped_outcome,0,0,PASS
+last_chance_reconstructed_attempt_ids_forced_into_day1_uuid_space,False,False,PASS
+future_outcomes_used_for_prediction,False,False,PASS
+historical_action_used_as_optimal_label,False,False,PASS
+dynamic_final_rank_claimed,False,False,PASS

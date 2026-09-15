@@ -1,0 +1,6 @@
+﻿metric,value,status
+v3_exists,1,PASS
+scripts_scanned,93,PASS
+source_scripts_modified,0,PASS
+historical_outputs_regenerated,0,PASS
+canonical_mutated,0,PASS

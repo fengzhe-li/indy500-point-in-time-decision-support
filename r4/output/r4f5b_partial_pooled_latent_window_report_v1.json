@@ -1,0 +1,20 @@
+{
+  "phase": "R4F5B",
+  "status": "R4F5B_PARTIAL_POOLED_LATENT_WINDOW_TARGET_READY",
+  "first_run_residual_rows": 79,
+  "repeat_residual_rows": 40,
+  "grid_rows": 540,
+  "target_rows": 265,
+  "target_design": {
+    "repeat_evidence": "HIGHER-WEIGHT SAME-CAR NORMALIZED ANCHOR",
+    "first_run_evidence": "LOWER-WEIGHT DENSE FIELD TEMPORAL SIGNAL",
+    "neutral_prior": "SHRINKS SPARSE LOCAL ESTIMATES TOWARD ZERO"
+  },
+  "important_methodology": [
+    "This is an OFFLINE historical latent-window target, so complete-session information may be used for target construction.",
+    "First-run residuals are centered on the annual first-run field median and are not interpreted as car-specific performance residuals.",
+    "Repeat residuals receive greater weight because they compare the same car with its own earlier run.",
+    "Fast Friday and same-regulation external evidence have not yet been added. They remain available as a later physical/hierarchical prior if needed."
+  ],
+  "next_phase": "Quantify latent-target density and stability. Then attach track-temperature/weather states and train a prospective window-state predictor whose features are decision-time observable."
+}

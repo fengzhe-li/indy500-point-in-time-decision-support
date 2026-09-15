@@ -1,0 +1,7 @@
+year,session_id,report_index,document_id,name,document_type,relative_url,download_status,download_url,final_url,download_bytes,saved_path,error
+2023,6205,1,4806b943-0a01-474a-82f1-efba7fe157dc,Results,Results,INDYCAR/Documents/6205/2023-05-21/indycar-quals-results-LastChance.pdf,,,,0,,<HTTPError 404: 'Not Found'>
+2023,6205,2,849fe1c1-30be-4c28-aee9-f5f49d71fd36,Section Results,Section Results,INDYCAR/Documents/6205/2023-05-21/indycar-sectionresults-quals-lastchance1.pdf,,,,0,,<HTTPError 404: 'Not Found'>
+2023,6205,3,da55e150-38c5-40ca-9fa8-4d181033f09f,Top Section Times,Top Section Times,INDYCAR/Documents/6205/2023-05-21/indycar-topsectiontimes-quals-lastchance1.pdf,,,,0,,<HTTPError 404: 'Not Found'>
+2024,6385,1,d85f61f8-f452-40f4-923f-3d625eaaa598,Results,Results,INDYCAR/Documents/6385/2024-05-19/indycar-results-quals-poleday-lastchance.pdf,,,,0,,<HTTPError 404: 'Not Found'>
+2024,6385,2,0d92333c-e316-46f0-ba8c-76cb2ed2bd52,Section Results,Section Results,INDYCAR/Documents/6385/2024-05-19/indycar-sectionresults-quals-lastchance1.pdf,,,,0,,<HTTPError 404: 'Not Found'>
+2024,6385,3,685d5c20-0726-4ef6-9b36-903ec16b5d63,Top Section Times,Top Section Times,INDYCAR/Documents/6385/2024-05-19/indycar-topsectiontimes-quals-lastchance1.pdf,,,,0,,<HTTPError 404: 'Not Found'>

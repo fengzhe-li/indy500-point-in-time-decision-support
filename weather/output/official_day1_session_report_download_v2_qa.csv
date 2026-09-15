@@ -1,0 +1,6 @@
+﻿metric,value,status
+report_inventory_expected,17,INFO
+downloaded_report_files,17,PASS
+valid_pdf_magic_files,17,PASS
+years_with_successful_download,"2020,2021,2022,2023,2024",PASS
+canonical_data_mutated,0,PASS

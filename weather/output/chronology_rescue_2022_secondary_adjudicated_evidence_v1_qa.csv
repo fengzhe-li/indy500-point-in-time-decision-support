@@ -1,0 +1,10 @@
+﻿metric,value,status
+promoted_secondary_evidence_rows,3,PASS
+mclaughlin_lane1_rows,1,PASS
+rossi_ordering_edges,1,PASS
+karam_specific_attempt_promotions,0,PASS
+context_join_false_positives_rejected,10,PASS
+lane_inferred_from_withdrawn_status,0,PASS
+queue_position_inferred,0,PASS
+queue_wait_inferred,0,PASS
+canonical_data_mutated,0,PASS

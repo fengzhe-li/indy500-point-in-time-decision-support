@@ -1,0 +1,15 @@
+{
+  "phase": "R4F3A",
+  "status": "R4F3A_PTSC_LINKAGE_REPAIR_READY",
+  "selected_time_field": "utc_datetime",
+  "selected_temperature_field": null,
+  "parsed_ptsc_rows": 168,
+  "ptsc_ready_states": 50,
+  "engine_ready_states": 43,
+  "methodology": [
+    "PTSC observation must occur at or before the historical decision time.",
+    "Maximum accepted PTSC observation age is 30 minutes.",
+    "PTSC repair does not alter the previously frozen action semantics or validation split.",
+    "Engine readiness remains dependent on performance, whole-field window, thermal context and structural wait model."
+  ]
+}

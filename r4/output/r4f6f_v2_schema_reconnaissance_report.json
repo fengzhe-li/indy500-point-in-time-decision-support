@@ -1,0 +1,11 @@
+{
+  "phase": "R4F6F_V2",
+  "status": "R4F6F_V2_PDF_SCHEMA_RECONNAISSANCE_READY",
+  "important_correction": "R4F6F-v1 canonical panel is not accepted as model input. Its two parsed rows are parser artefacts / incomplete extraction.",
+  "known_driver_roster_rows": 108,
+  "pdf_numeric_rows": {
+    "2023": 34,
+    "2024": 34
+  },
+  "next_phase": "Define deterministic official-PDF row parser from observed row schema, then construct canonical driver-level Fast Friday references with explicit provenance."
+}

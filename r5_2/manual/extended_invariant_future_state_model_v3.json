@@ -1,0 +1,29 @@
+{
+  "version": "R5.2_EXTENDED_INVARIANT_FUTURE_STATE_V3",
+  "validated_horizon_minutes": {
+    "minimum": 0,
+    "maximum": 180
+  },
+  "target": "delta_track_temp_c",
+  "model": "EXTENDED_THERMAL_LINEAR",
+  "features": [
+    "h",
+    "h_x_track_state",
+    "delta_ambient_temp_c"
+  ],
+  "track_reference_c": 40.0,
+  "fit": "zero-intercept Huber",
+  "coefficients": {
+    "h": 0.7644303546031922,
+    "h_x_track_state": -0.08667772939412162,
+    "delta_ambient_temp_c": 1.6897676157872081
+  },
+  "zero_wait_invariance": true,
+  "uncertainty_scale": {
+    "formula": "sigma(h)=a*sqrt(h_hours)+b*h_hours",
+    "a": 2.44775097302591,
+    "b": 0.0,
+    "sigma_at_zero": 0.0
+  },
+  "residual_shape": "median-centered standardized empirical LOYO residuals"
+}

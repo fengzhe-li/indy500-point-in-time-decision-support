@@ -1,0 +1,64 @@
+{
+  "phase": "R3B.4",
+  "seed": 20260910,
+  "draws_per_recovery_prior": 200000,
+  "state_rows": 8,
+  "actions": [
+    "STOP_RETAIN_CURRENT_RESULT",
+    "REPEAT_LANE2_RETAIN_CURRENT_RESULT",
+    "REPEAT_LANE1_WITHDRAW_CURRENT_RESULT"
+  ],
+  "recovery_prior_scenarios": [
+    "ALL_PRIMARY",
+    "AT_OR_ABOVE_BASELINE_MEDIAN",
+    "LOW_BASELINE"
+  ],
+  "queue_wait_scenarios_minutes": [
+    5,
+    15,
+    30,
+    45
+  ],
+  "central_recovery_prior": "ALL_PRIMARY",
+  "central_performance_model": "ZERO_DELTA_BASELINE",
+  "predictive_uncertainty": "EMPIRICAL_NORMAL_AND_RECOVERY_BRANCH_BOOTSTRAP_WITH_BETA_POSTERIOR_MIXTURE",
+  "environment_effect": "SENSITIVITY_ONLY_NOT_CENTRAL",
+  "2022_future_weather": "NOT_IDENTIFIABLE_NOT_USED",
+  "queue_wait_effect_on_performance": "NOT_IDENTIFIABLE_NOT_APPLIED",
+  "simulation_condition": "CONDITIONAL_ON_COMPLETED_REPEAT_ATTEMPT",
+  "repeat_completion_probability": "NOT_MODELED",
+  "session_end_feasibility": "NOT_MODELED",
+  "rank_cutoff_probability": "NOT_IDENTIFIABLE",
+  "actual_cutoff_speed": "NOT_USED",
+  "central_action_envelopes": {
+    "STOP_RETAIN_CURRENT_RESULT": {
+      "mean_final_delta_mph": 0.0,
+      "q05_final_delta_mph": 0.0,
+      "q50_final_delta_mph": 0.0,
+      "q95_final_delta_mph": 0.0,
+      "prob_improve": 0.0,
+      "prob_worse": 0.0
+    },
+    "REPEAT_LANE2_RETAIN_CURRENT_RESULT": {
+      "mean_final_delta_mph": 0.52093556,
+      "q05_final_delta_mph": 0.0,
+      "q50_final_delta_mph": 0.174,
+      "q95_final_delta_mph": 3.462,
+      "prob_improve": 0.69789,
+      "prob_worse": 0.0
+    },
+    "REPEAT_LANE1_WITHDRAW_CURRENT_RESULT": {
+      "mean_final_delta_mph": 0.428083195,
+      "q05_final_delta_mph": -0.927,
+      "q50_final_delta_mph": 0.174,
+      "q95_final_delta_mph": 3.462,
+      "prob_improve": 0.69789,
+      "prob_worse": 0.30211
+    }
+  },
+  "lane2_vs_lane1_interpretation": "PERFORMANCE_ONLY_DOWNSIDE_PROTECTION;NOT_A_DECISION_RECOMMENDATION",
+  "lane1_priority_value": "REQUIRES_QUEUE_TIME_OR_SESSION_FEASIBILITY_INFORMATION_NOT_IDENTIFIABLE_HERE",
+  "hard_recommendation_ready": false,
+  "r3b4_ready": true,
+  "next_phase": "R3C_FINAL_DECISION_SUPPORT_BOUNDARY_AND_RESULTS_FREEZE"
+}

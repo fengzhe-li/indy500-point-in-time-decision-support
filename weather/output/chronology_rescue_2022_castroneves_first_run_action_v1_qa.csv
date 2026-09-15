@@ -1,0 +1,11 @@
+﻿metric,value,status
+canonical_structure_ok,0,FAIL
+direct_first_run_action_evidence_rows,1,PASS
+promoted_action_rows,0,FAIL
+lane_claimed,0,PASS
+wall_clock_timestamp_claimed,0,PASS
+result_row_order_used_as_chronology,0,PASS
+queue_wait_inferred,0,PASS
+duplicate_action_evidence_ids,0,PASS
+canonical_data_mutated,0,PASS
+action_ledger_v1_mutated,0,PASS

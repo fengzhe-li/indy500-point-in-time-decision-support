@@ -1,0 +1,35 @@
+{
+  "phase": "R3A.2",
+  "year": 2022,
+  "state_rows": 8,
+  "known_predecision_rank_rows": 2,
+  "known_predecision_rank_drivers": [
+    "Alexander Rossi",
+    "Scott McLaughlin"
+  ],
+  "expected_predecision_rank_drivers": [
+    "Alexander Rossi",
+    "Scott McLaughlin"
+  ],
+  "temporal_leakage_removed": {
+    "malukas_post_repeat_p12": true,
+    "sato_post_reattempt_p12": true,
+    "mclaughlin_post_rerun_p26": true,
+    "rossi_post_second_p21": true,
+    "historical_action_from_observables": true,
+    "historical_lane_from_observables": true,
+    "post_action_queue_from_observables": true
+  },
+  "historical_action_role": "LABEL_ONLY",
+  "historical_lane_role": "LABEL_ONLY",
+  "queue_evidence_role": "TRANSITION_OR_ORDERING_ONLY",
+  "post_action_rank_role": "OUTCOME_VALIDATION_ONLY",
+  "queue_wait": "LATENT_SENSITIVITY_VARIABLE",
+  "pit_service": "UNKNOWN",
+  "rubber_grip": "UNKNOWN",
+  "tire_state": "UNKNOWN",
+  "elapsed_time_as_track_evolution": "PROHIBITED",
+  "unknown_state_imputation": "NONE",
+  "r3b_simulator_input_ready": true,
+  "next_phase": "R3B_LIMITED_UNCERTAINTY_AWARE_SEQUENTIAL_SIMULATOR"
+}

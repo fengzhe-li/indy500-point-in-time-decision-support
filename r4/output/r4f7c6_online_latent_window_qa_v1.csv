@@ -1,0 +1,10 @@
+metric,value,expected,status
+development_rows,104,104,PASS
+development_years,"2020,2021,2023","2020,2021,2023",PASS
+prediction_rows,624,624,PASS
+future_information_used,False,False,PASS
+2024_validation_read,False,False,PASS
+test_year_used_for_hyperparameter_selection,False,False,PASS
+same_timestamp_assimilated_before_prediction,False,False,PASS
+historical_action_labels_used,False,False,PASS
+online_state_not_declared_causal_weather_effect,True,True,PASS

@@ -1,0 +1,3 @@
+evidence_role,rows,years,high_replay_value,policy_fit_eligible
+HISTORICAL_REPLAY_ONLY,5,2023;2024,3,0
+PERFORMANCE_OR_ACTION_EVIDENCE_ONLY,2,2021,0,0

@@ -1,0 +1,6 @@
+session_id,year,official_session_id,event_name,session_name,event_date,local_timezone,scheduled_start_utc,scheduled_end_utc,actual_start_utc,actual_end_utc,chronology_reconciliation_status,year_policy_version
+INDY500_DAY1_2020,2020,5771,104th Running of the Indianapolis 500,Qualifications (Day 1),2020-08-15,America/Indiana/Indianapolis,,,,,PARTIAL,YEAR_POLICY_V1
+INDY500_DAY1_2021,2021,5838,105th Running of the Indianapolis 500,Qualifications - Day 1,2021-05-22,America/Indiana/Indianapolis,,,,,PARTIAL,YEAR_POLICY_V1
+INDY500_DAY1_2022,2022,6033,106th Running of the Indianapolis 500,Qualifications - Day 1,2022-05-21,America/Indiana/Indianapolis,,,,,FAIL,YEAR_POLICY_V1
+INDY500_DAY1_2023,2023,,2023 Indianapolis 500,Qualifications - Day One,2023-05-20,America/Indiana/Indianapolis,,,,,PARTIAL,YEAR_POLICY_V1
+INDY500_DAY1_2024,2024,,2024 Indianapolis 500,Qualifications - Day One,2024-05-18,America/Indiana/Indianapolis,2024-05-18T15:00:00Z,2024-05-18T21:50:00Z,,,PARTIAL,YEAR_POLICY_V1

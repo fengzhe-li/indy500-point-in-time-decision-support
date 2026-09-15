@@ -1,0 +1,23 @@
+{
+  "phase": "R3A.0",
+  "target_driver_count": 8,
+  "target_exact": true,
+  "driver_coverage": {
+    "chronology": 8,
+    "action_lane": 8,
+    "decision_state": 4,
+    "queue": 4
+  },
+  "core_join_keys_ready": true,
+  "chronology_attempt_key_available": true,
+  "attempt_level_join_possible": true,
+  "decision_time_state_v2_builder_ready": true,
+  "policy": {
+    "queue_wait": "LATENT",
+    "service": "UNKNOWN",
+    "rubber_grip": "UNKNOWN",
+    "tire_state": "UNKNOWN",
+    "elapsed_time_as_track_evolution": "PROHIBITED"
+  },
+  "next_step": "BUILD_DECISION_TIME_OBSERVABLE_STATE_V2"
+}

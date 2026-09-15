@@ -1,0 +1,98 @@
+{
+  "project": "Indianapolis 500 Conditional Performance Decision-Support System",
+  "version": "FINAL_V2",
+  "status": "FINAL_FROZEN",
+  "freeze_time_utc": "2026-09-14T08:57:11.804052+00:00",
+  "module_status": {
+    "V2-A": "FROZEN",
+    "V2-B": "FROZEN",
+    "V2-C": "FROZEN",
+    "V2-D": "FROZEN",
+    "V2-E": "FROZEN"
+  },
+  "architecture": {
+    "performance_core": "same-car physics-conditioned probabilistic inference",
+    "future_state": "V2-A",
+    "section_mechanism_diagnostic": "V2-B",
+    "wind_residual_diagnostic": "V2-C",
+    "uncertainty_source_ablation": "V2-D",
+    "scenario_stress_test": "V2-E",
+    "applicability_gate": "included",
+    "prospective_event_ledger": "included"
+  },
+  "supported_horizons_min": [
+    15,
+    30,
+    60,
+    90,
+    120
+  ],
+  "research_question": "If another on-track opportunity occurs h minutes from now, what distribution of four-lap qualifying-performance change should be expected relative to the current official result?",
+  "artifacts": {
+    "physics_core_bootstrap": {
+      "path": "r5_2/manual/probabilistic_physics_coefficient_bootstrap_v1.csv",
+      "sha256": "adbe04c05a2cc2147b5b46ccc490457fb3e8d0277447563a71a0ea572f1edc9f",
+      "bytes": 205811
+    },
+    "physics_core_loyo_residuals": {
+      "path": "r5_2/manual/probabilistic_physics_loyo_residuals_v1.csv",
+      "sha256": "04ddb1f4e605451c4d30ff1b4fb8809acc8e02290bad34e719f37e5cea224086",
+      "bytes": 4766
+    },
+    "v2a_manifest": {
+      "path": "weather/output/v2_future_track/v2a_freeze_manifest_v1.json",
+      "sha256": "ed81d2148b3f9ef2e00b4d63b01793b53fd90d1e0a8692e97809fbeb20be7e69",
+      "bytes": 4251
+    },
+    "v2a_final_results": {
+      "path": "weather/output/v2_future_track/v2a_final_results_table_v1.csv",
+      "sha256": "c0b4e30b5452c4f01aa92570069a78b8e417cefaa020fdea8dcbf5d3a043efb4",
+      "bytes": 3901
+    },
+    "v2b_manifest": {
+      "path": "weather/output/v2b_section_mechanism/v2b_freeze_manifest_v1.json",
+      "sha256": "7257a7d0eb0b5cdb4a22c5d530e2f7f445e25e0951c8a9a1ce100e3b7cf22171",
+      "bytes": 2840
+    },
+    "v2c_manifest": {
+      "path": "weather/output/v2c_wind_diagnostic/v2c_freeze_manifest_v1.json",
+      "sha256": "8050d9e9dbd1cf54bdd57dc4b07e19e0be524a71090131aed6fdb08a7a156160",
+      "bytes": 2606
+    },
+    "v2d_manifest": {
+      "path": "weather/output/v2d_uncertainty_ablation/v2d_freeze_manifest_v1.json",
+      "sha256": "998de3e1f313367a59878b42d6bb5c7f45fa0614fcc885b39acf86a9bcf01863",
+      "bytes": 2468
+    },
+    "v2d_summary": {
+      "path": "weather/output/v2d_uncertainty_ablation/v2d_freeze_summary_v1.txt",
+      "sha256": "01c2d7680ea922fb1a1ee3422d291d06df26a5f1f0cca7171dfbc23ac33d7d28",
+      "bytes": 2852
+    },
+    "v2e_manifest": {
+      "path": "weather/output/v2e_scenario_stress_test/v2e_freeze_manifest_v1.json",
+      "sha256": "c7159461938db8c292f9f2c3e37326ca3aec91ff488780949b1217e69cc8a837",
+      "bytes": 2709
+    },
+    "v2e_summary": {
+      "path": "weather/output/v2e_scenario_stress_test/v2e_freeze_summary_v1.txt",
+      "sha256": "502cdad1841bffcf2f855ff8d1ed71e36b0ae0d22c70b61629f754d02bfc4889",
+      "bytes": 2618
+    },
+    "applicability_gate": {
+      "path": "weather/output/final_integration/applicability_gate_v2.md",
+      "sha256": "97bafa3d5e93415cfaee1e791d9c8f19ec331993b035dfd4ce772d08f96223e1",
+      "bytes": 2239
+    },
+    "prospective_event_ledger": {
+      "path": "weather/output/final_integration/future_prospective_event_ledger_schema_v2.csv",
+      "sha256": "6d0a9d54b5e5a088f17126502ab09efb5eb823ad8dc57564210031f2d26345bd",
+      "bytes": 2240
+    },
+    "final_v2_system_specification": {
+      "path": "weather/output/final_integration/indy500_final_v2_system_specification.md",
+      "sha256": "2cb5ce48585938131c91ad0bf9782255c55fa7808b14451a58a7414b4ab8f00d",
+      "bytes": 7003
+    }
+  }
+}

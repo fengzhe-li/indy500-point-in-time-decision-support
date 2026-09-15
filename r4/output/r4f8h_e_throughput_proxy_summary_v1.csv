@@ -1,0 +1,5 @@
+year,session,rows,spacing_n,spacing_median_minutes,spacing_mean_minutes,rate_n,attempts_per_hour_median,attempts_per_hour_mean,count_n,duration_n,decision_safe_values,quality_values,proxy_type_values
+2020,,46,0,,,0,,,0,0,,,SUPPORTED_ATTEMPT_TIMESTAMP_SPACING
+2021,,53,0,,,0,,,0,0,,,SUPPORTED_ATTEMPT_TIMESTAMP_SPACING
+2023,,27,0,,,0,,,0,0,,,SUPPORTED_ATTEMPT_TIMESTAMP_SPACING
+2024,,6,0,,,0,,,0,0,,,SUPPORTED_ATTEMPT_TIMESTAMP_SPACING

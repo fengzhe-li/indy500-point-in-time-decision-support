@@ -1,0 +1,5 @@
+metric,value,expected,status
+repeat_targets_preserved,40,40,PASS
+expected_repeat_target_count,40,40,PASS
+subject_car_excluded_from_predictor,0,0,PASS
+metric_rows_created,9,9,PASS

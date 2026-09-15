@@ -1,0 +1,77 @@
+{
+  "phase": "R4F6K",
+  "status": "R4F6K_EXPANDED_FAST_FRIDAY_CANONICAL_READY",
+  "supersedes_for_model_facing_reference": [
+    "r4f6g_canonical_fast_friday_reference_panel_v2.csv",
+    "r4f6j_candidate_expanded_fast_friday_reference_panel_v1.csv"
+  ],
+  "2021_pdf_source": "https://indycaraldia.com/wp-content/uploads/2021/05/indycar-results-p5.pdf",
+  "2021_download_method": "PYTHON_HTTPS",
+  "2021_general_rows": 35,
+  "canonical_summary": [
+    {
+      "year": 2020,
+      "canonical_entries": 33,
+      "four_lap": 0,
+      "no_tow": 1,
+      "general": 32,
+      "quarantined": 0,
+      "model_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2021,
+      "canonical_entries": 35,
+      "four_lap": 0,
+      "no_tow": 3,
+      "general": 32,
+      "quarantined": 0,
+      "model_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2022,
+      "canonical_entries": 33,
+      "four_lap": 5,
+      "no_tow": 0,
+      "general": 28,
+      "quarantined": 0,
+      "model_role": "DEGRADED_CHRONOLOGY_VALIDATION"
+    },
+    {
+      "year": 2023,
+      "canonical_entries": 34,
+      "four_lap": 4,
+      "no_tow": 0,
+      "general": 30,
+      "quarantined": 0,
+      "model_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2024,
+      "canonical_entries": 34,
+      "four_lap": 6,
+      "no_tow": 0,
+      "general": 28,
+      "quarantined": 0,
+      "model_role": "VALIDATION_ONLY"
+    },
+    {
+      "year": 2025,
+      "canonical_entries": 33,
+      "four_lap": 2,
+      "no_tow": 0,
+      "general": 31,
+      "quarantined": 1,
+      "model_role": "TECHNICAL_REGIME_TRANSFER"
+    }
+  ],
+  "quarantined_rows": 1,
+  "frozen_role_policy": {
+    "2020": "CORE_DEVELOPMENT",
+    "2021": "CORE_DEVELOPMENT",
+    "2022": "DEGRADED_CHRONOLOGY_VALIDATION",
+    "2023": "CORE_DEVELOPMENT",
+    "2024": "VALIDATION_ONLY",
+    "2025": "TECHNICAL_REGIME_TRANSFER"
+  },
+  "important_measurement_rule": "FOUR_LAP_QUALIFYING_SIM, NO_TOW_SINGLE_LAP and GENERAL_FAST_FRIDAY_BEST_SPEED remain distinct measurement types and are not assumed homogeneous."
+}

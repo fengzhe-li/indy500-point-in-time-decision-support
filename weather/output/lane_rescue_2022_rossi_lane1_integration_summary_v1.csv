@@ -1,0 +1,9 @@
+﻿metric,value
+chronology_ledger,V10_UNCHANGED
+action_rows_before,7
+action_rows_after,8
+explicit_lane_rows_before,1
+explicit_lane_rows_after,2
+lane_drivers_before,Scott McLaughlin
+lane_drivers_after,Alexander Rossi|Scott McLaughlin
+rossi_lane,LANE_1

@@ -1,0 +1,7 @@
+﻿metric,value,status
+official_schema_columns,15,PASS
+target_official_rows_found,3,PASS
+canonical_targets_found,3,PASS
+v2_targets_found,3,PASS
+existing_match_v2_mutated,0,PASS
+canonical_mutated,0,PASS

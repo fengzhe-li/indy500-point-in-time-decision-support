@@ -1,0 +1,62 @@
+{
+  "phase": "R4F8G",
+  "status": "R4F8G_PARTIAL_BUT_USABLE",
+  "model_version": "R4F8G_PERFORMANCE_UNCERTAINTY_V1",
+  "target": "P(future_attempt_speed | current decision state, frozen performance architecture, available same-session evidence)",
+  "frozen_point_architecture": "FAST_FRIDAY_REFERENCE_PLUS_ONLINE_SHRUNK_FIELD_CALIBRATION",
+  "point_equation": "predicted_speed_i_t = FastFridayReference_i + ((k * prior_mean) + (n_t * observed_field_mean_t)) / (k + n_t)",
+  "shrinkage_k": 3.0,
+  "frozen_prior_mean_residual_mph": -0.685759615384616,
+  "frozen_prior_sd_residual_mph": 0.9003554799066349,
+  "uncertainty_distribution": {
+    "family": "NORMAL_CONSERVATIVE_EMPIRICAL_COMPONENTS",
+    "center": "Frozen Fast Friday reference plus online shrunk field calibration",
+    "run_noise_floor_sd_mph": 0.9331930833784372,
+    "run_noise_evidence": "SD of 74 fixed-k LOYO errors with same-session support n>=10",
+    "calibration_sd": "frozen_prior_sd*sqrt(k/(k+n))",
+    "predictive_sd": "sqrt(run_noise_floor_sd^2+calibration_sd^2)",
+    "limited_sample_policy": "Calibration uncertainty is maximal at n=0 and contracts monotonically with support count.",
+    "noncollapse_policy": "Predictive SD never falls below the empirical high-support residual SD."
+  },
+  "component_accounting": {
+    "baseline_calibration_uncertainty": "Frozen cross-year prior SD",
+    "current_session_calibration_uncertainty": "Support-dependent shrinkage term",
+    "run_to_run_and_repeat_variability": "Conservatively embedded in the held-out high-support residual floor; 92 existing repeat deltas are a scale cross-check and are not added again as an independent term",
+    "limited_sample_uncertainty": "n-dependent calibration term",
+    "early_session_inflation": "n=0 has full prior SD contribution",
+    "later_session_shrinkage": "Calibration contribution contracts as n grows"
+  },
+  "calibration": {
+    "years": [
+      2020,
+      2021,
+      2023
+    ],
+    "rows": 104,
+    "fixed_k3_loyo_mae_mph": 0.626030643067375,
+    "uses_2024": false,
+    "uses_2022": false,
+    "uses_2025": false
+  },
+  "repeat_variability_diagnostic": {
+    "file": "r4/output/r4p2_multi_run_transitions_v1.csv",
+    "rows": 92,
+    "delta_speed_sd_mph": 1.0142037257496221,
+    "role": "SCALE_CROSS_CHECK_ONLY_NOT_AN_ADDITIVE_VARIANCE_TERM"
+  },
+  "sample_interface": {
+    "distribution": "Normal(predictive_mean_speed_mph,predictive_sd_mph)",
+    "deterministic_seed_supported": true,
+    "seed_for_qa_only": 20260910,
+    "draws_materialized": false
+  },
+  "missing_state_policy": "Current-best speed is not a point-formula input. Missing Fast Friday reference prevents sampling; missing current speed alone is retained as degraded support.",
+  "prohibited_outputs": [
+    "P(beat current)",
+    "P(cross benchmark)",
+    "expected utility",
+    "final action rank",
+    "recommendation"
+  ],
+  "downstream_boundary": "No R4F8H action Monte Carlo or R4F9 replay is run."
+}

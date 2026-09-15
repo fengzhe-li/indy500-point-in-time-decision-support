@@ -1,0 +1,24 @@
+{
+  "phase": "R4LC3",
+  "status": "R4LC3_OFFICIAL_LAST_CHANCE_RECORD_REPORT_INGESTION_READY",
+  "sessions": {
+    "2021": 5847,
+    "2023": 6205,
+    "2024": 6385
+  },
+  "record_counts": {
+    "2021": 7,
+    "2023": 4,
+    "2024": 4
+  },
+  "report_counts": {
+    "2021": 0,
+    "2023": 3,
+    "2024": 3
+  },
+  "downloaded_report_counts": {
+    "2021": 0,
+    "2023": 0,
+    "2024": 0
+  }
+}

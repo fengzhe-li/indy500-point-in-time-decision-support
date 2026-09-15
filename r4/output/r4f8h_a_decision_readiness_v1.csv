@@ -1,0 +1,61 @@
+fused_decision_id,year,driver,regime,protected_result_exists,current_speed_available,protected_speed_available,rank_available,benchmark_speed_available,benchmark_rank_available,decision_time_available,session_remaining_available,uncertainty_match_count,predictive_mean_available,predictive_sd_available,predictive_q05_available,predictive_q50_available,predictive_q95_available,performance_sample_ready
+DAY1::DAY1_2020_10_POST_FIRST_ATTEMPT,2020,Felix Rosenqvist,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_14_POST_FIRST_ATTEMPT,2020,Tony Kanaan,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_20_POST_FIRST_ATTEMPT,2020,Ed Carpenter,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_22_POST_FIRST_ATTEMPT,2020,Simon Pagenaud,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_24_POST_FIRST_ATTEMPT,2020,Sage Karam,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_27_POST_FIRST_ATTEMPT,2020,Alexander Rossi,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_28_POST_FIRST_ATTEMPT,2020,Ryan Hunter-Reay,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_29_POST_FIRST_ATTEMPT,2020,James Hinchcliffe,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_3_POST_FIRST_ATTEMPT,2020,Helio Castroneves,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_47_POST_FIRST_ATTEMPT,2020,Conor Daly,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_51_POST_FIRST_ATTEMPT,2020,James Davison,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_55_POST_FIRST_ATTEMPT,2020,Alex Palou,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_59_POST_FIRST_ATTEMPT,2020,Max Chilton,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_66_POST_FIRST_ATTEMPT,2020,Fernando Alonso,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_67_POST_FIRST_ATTEMPT,2020,JR Hildebrand,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_7_POST_FIRST_ATTEMPT,2020,Oliver Askew,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_8_POST_FIRST_ATTEMPT,2020,Marcus Ericsson,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_81_POST_FIRST_ATTEMPT,2020,Ben Hanley,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_88_POST_FIRST_ATTEMPT,2020,Colton Herta,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2020_98_POST_FIRST_ATTEMPT,2020,Marco Andretti,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_1_POST_FIRST_ATTEMPT,2021,JR Hildebrand,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_11_POST_FIRST_ATTEMPT,2021,Charlie Kimball,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_12_POST_FIRST_ATTEMPT,2021,Will Power,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_14_POST_FIRST_ATTEMPT,2021,Sebastien Bourdais,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_15_POST_FIRST_ATTEMPT,2021,Graham Rahal,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_16_POST_FIRST_ATTEMPT,2021,Simona De Silvestro,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_2_POST_FIRST_ATTEMPT,2021,Josef Newgarden,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_20_POST_FIRST_ATTEMPT,2021,Ed Carpenter,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_21_POST_FIRST_ATTEMPT,2021,Rinus VeeKay,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_22_POST_FIRST_ATTEMPT,2021,Simon Pagenaud,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_26_POST_FIRST_ATTEMPT,2021,Colton Herta,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_27_POST_FIRST_ATTEMPT,2021,Alexander Rossi,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_3_POST_FIRST_ATTEMPT,2021,Scott McLaughlin,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_30_POST_FIRST_ATTEMPT,2021,Takuma Sato,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_4_POST_FIRST_ATTEMPT,2021,Dalton Kellett,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_45_POST_FIRST_ATTEMPT,2021,Santino Ferrucci,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_47_POST_FIRST_ATTEMPT,2021,Conor Daly,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_5_POST_FIRST_ATTEMPT,2021,Pato O'Ward,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_51_POST_FIRST_ATTEMPT,2021,Pietro Fittipaldi,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_59_POST_FIRST_ATTEMPT,2021,Max Chilton,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_60_POST_FIRST_ATTEMPT,2021,Jack Harvey,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_7_POST_FIRST_ATTEMPT,2021,Felix Rosenqvist,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_75_POST_FIRST_ATTEMPT,2021,RC Enerson,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_8_POST_FIRST_ATTEMPT,2021,Marcus Ericsson,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2021_86_POST_FIRST_ATTEMPT,2021,Juan Pablo Montoya,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2023_10_POST_FIRST_ATTEMPT,2023,Alex Palou,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2023_11_POST_FIRST_ATTEMPT,2023,Takuma Sato,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2023_14_POST_FIRST_ATTEMPT,2023,Santino Ferrucci,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2023_27_POST_FIRST_ATTEMPT,2023,Kyle Kirkwood,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+DAY1::DAY1_2023_44_POST_FIRST_ATTEMPT,2023,Katherine Legge,DAY1,True,True,True,True,True,True,True,False,1,True,True,True,True,True,True
+LAST_CHANCE::2021_24_POST_GUARANTEED_BREAK,2021,Sage Karam,LAST_CHANCE,True,True,True,True,True,True,False,False,1,False,False,False,False,False,False
+LAST_CHANCE::2021_12_POST_GUARANTEED_BREAK,2021,Will Power,LAST_CHANCE,True,True,True,True,True,True,False,False,1,True,True,True,True,True,True
+LAST_CHANCE::2021_16_POST_GUARANTEED_BREAK,2021,Simona De Silvestro,LAST_CHANCE,True,True,True,True,True,True,False,False,1,True,True,True,True,True,True
+LAST_CHANCE::2021_75_POST_GUARANTEED_BREAK,2021,RC Enerson,LAST_CHANCE,False,False,False,True,True,True,False,False,1,True,True,True,True,True,True
+LAST_CHANCE::2021_11_POST_GUARANTEED_BREAK,2021,Charlie Kimball,LAST_CHANCE,False,False,False,True,True,True,False,False,1,True,True,True,True,True,True
+LAST_CHANCE::2023_45_POST_GUARANTEED_BREAK,2023,Christian Lundgaard,LAST_CHANCE,True,True,True,True,True,True,False,False,1,True,True,True,True,True,True
+LAST_CHANCE::2023_51_POST_GUARANTEED_BREAK,2023,Sting Ray Robb,LAST_CHANCE,True,True,True,True,True,True,False,False,1,True,True,True,True,True,True
+LAST_CHANCE::2023_15_POST_GUARANTEED_BREAK,2023,Graham Rahal,LAST_CHANCE,True,True,True,True,True,True,False,False,1,True,True,True,True,True,True
+LAST_CHANCE::2023_30_POST_GUARANTEED_BREAK,2023,Jack Harvey,LAST_CHANCE,False,False,False,True,True,True,False,False,1,True,True,True,True,True,True
+LAST_CHANCE::2024_18_FINAL_DECISION,2024,Nolan Siegel,LAST_CHANCE,False,True,False,True,True,True,False,False,1,True,True,True,True,True,True

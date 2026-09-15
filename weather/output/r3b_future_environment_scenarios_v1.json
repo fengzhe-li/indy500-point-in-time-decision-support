@@ -1,0 +1,20 @@
+{
+  "phase": "R3B.2",
+  "year": 2022,
+  "state_rows": 8,
+  "wait_scenarios": 4,
+  "scenario_rows": 32,
+  "environment_ready_rows": 0,
+  "drivers_with_ready_scenarios": [],
+  "drivers_with_ready_count": 0,
+  "decision_time_not_identifiable_rows": 32,
+  "no_hrrr_bracket_rows": 0,
+  "target_after_session_end_rows": 0,
+  "decision_anchor_policy": "USE_SUPPORTED_FIRST_ATTEMPT_TIME_POINT_ONLY;DO_NOT_COLLAPSE_BOUNDED_TIME_TO_POINT",
+  "queue_wait_policy": "LATENT_SENSITIVITY_ONLY",
+  "weather_policy": "LATEST_DECISION_TIME_AVAILABLE_SAME_CYCLE_HRRR_INTERPOLATION",
+  "future_track_temperature_policy": "UNKNOWN_NO_AIR_TO_TRACK_PROXY",
+  "realized_future_weather_used": false,
+  "elapsed_time_as_track_evolution": false,
+  "r3b3_performance_simulation_ready": false
+}

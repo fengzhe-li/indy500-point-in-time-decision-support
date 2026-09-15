@@ -1,0 +1,24 @@
+{
+  "ruleset_version": "SECTION_RECONSTRUCTION_V1",
+  "formats": {
+    "SECTION_SET_2020_2023": {
+      "rule_version": "SECTION_SUM_2020_2023_V1",
+      "required_section_count": 9,
+      "published_precision_seconds": 0.0001,
+      "rounding_bound_seconds": 0.0005,
+      "tolerance_seconds": 0.0005,
+      "official_lap_time_range_seconds": [30, 60],
+      "segmentation_rule": "SECTION_SEGMENT_2020_2023_V1"
+    },
+    "SECTION_SET_2024": {
+      "rule_version": "SECTION_SUM_2024_V1",
+      "required_section_count": 17,
+      "published_precision_seconds": 0.0001,
+      "rounding_bound_seconds": 0.0009,
+      "tolerance_seconds": 0.0009,
+      "official_lap_time_range_seconds": [30, 60],
+      "segmentation_rule": "SELECTED_ATTEMPT_ONLY_NO_REPEAT_COVERAGE"
+    }
+  },
+  "tolerance_protocol": "Half-unit rounding accumulation for every published section plus the published lap time; empirical residuals must not exceed this bound. Failed laps remain unreconstructed."
+}

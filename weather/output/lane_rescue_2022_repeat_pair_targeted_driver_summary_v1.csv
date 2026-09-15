@@ -1,0 +1,9 @@
+﻿driver_name,total_lane_units,direct_driver_lane_candidates,same_unit_review,ambiguous_multi_driver,other_driver_closer,direct_lane_labels,promotion_ready
+Alexander Rossi,0,0,0,0,0,,False
+Callum Ilott,0,0,0,0,0,,False
+David Malukas,0,0,0,0,0,,False
+Helio Castroneves,0,0,0,0,0,,False
+Marco Andretti,0,0,0,0,0,,False
+Sage Karam,2,0,0,0,2,,False
+Scott McLaughlin,2,2,0,0,0,LANE_1,False
+Takuma Sato,0,0,0,0,0,,False

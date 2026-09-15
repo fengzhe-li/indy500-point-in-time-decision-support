@@ -1,0 +1,6 @@
+metric,value,expected,status
+past_only_rows,40,40,PASS
+future_information_used,0,0,PASS
+fixed_window_duration_required,False,False,PASS
+causal_claim_made,False,False,PASS
+year_grouped_validation,True,True,PASS

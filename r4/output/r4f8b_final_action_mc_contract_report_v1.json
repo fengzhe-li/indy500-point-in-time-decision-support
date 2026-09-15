@@ -1,0 +1,43 @@
+{
+  "phase": "R4F8B",
+  "status": "R4F8B_FINAL_ACTION_MC_CONTRACT_FROZEN",
+  "decision_rows": 148,
+  "mc_eligible_decisions": 50,
+  "expanded_action_rows": 150,
+  "eligibility_field": "decision_state_eligible",
+  "action_counts": {
+    "STOP": 50,
+    "REATTEMPT": 0,
+    "RETAIN_AND_REATTEMPT": 50,
+    "WITHDRAW_AND_REATTEMPT": 0,
+    "WITHDRAW_AND_PRIORITY_REATTEMPT": 50
+  },
+  "old_wait_engine_present": true,
+  "old_wait_schema": [
+    "action",
+    "risk_profile",
+    "utility_rank",
+    "mc_draws",
+    "p_improve",
+    "p_worse",
+    "p_unchanged",
+    "mean_raw_repeat_delta_mph",
+    "mean_effective_result_delta_mph",
+    "q05_effective_delta_mph",
+    "q50_effective_delta_mph",
+    "q95_effective_delta_mph",
+    "mean_wait_minutes",
+    "q50_wait_minutes",
+    "q95_wait_minutes",
+    "mean_utility",
+    "performance_source",
+    "wait_source",
+    "thermal_mph_correction_applied"
+  ],
+  "next_phase": "Assemble decision-level wait/performance/benchmark stochastic inputs without yet producing final action rankings.",
+  "input_hashes": {
+    "r4/output/r4f2_canonical_fused_decision_dataset_v2.csv": "10042c199a4fa889cb93219bf9f41457486129bb660a5bbd1f789a86f4756298",
+    "r4/output/r4f7c7_final_performance_architecture_contract_v1.json": "0a0c4efe81f5d3404a03bc35b0e7bb8b257f8cb8839096b0ed4e44dba9e546d3",
+    "r4/output/r4f7v2_external_validation_conclusion_v1.json": "edf057d934da0aa59fe45492a41441873c54f34be9939f820f6abe4ada07f7f8"
+  }
+}

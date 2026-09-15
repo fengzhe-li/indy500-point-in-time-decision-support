@@ -1,0 +1,51 @@
+{
+  "module": "V2-C Wind Residual Diagnostic",
+  "status": "FROZEN",
+  "freeze_time_utc": "2026-09-14T08:34:29.360360+00:00",
+  "scope": {
+    "final_physics_core_transitions": 41,
+    "wind_linked_transitions": 39,
+    "raw_loyo_residual_available": 39,
+    "wind_speed_change_available": 39,
+    "gust_change_available": 39,
+    "wind_vector_change_available": 38
+  },
+  "role": "Residual diagnostic and applicability limitation only. Wind is not added as a deterministic performance predictor or as a production heteroskedastic uncertainty term.",
+  "principal_findings": [
+    "Absolute wind-speed change showed essentially no relationship with absolute LOYO thermal-model residual.",
+    "Absolute gust change showed a modest raw association, but the relationship weakened after controlling for absolute overall performance change.",
+    "Wind-vector state change also showed only a weak magnitude-controlled association with residual size.",
+    "Within-year wind/residual associations were unstable in both sign and magnitude.",
+    "Large thermal-model residuals did not consistently coincide with large wind-state changes.",
+    "Available fixed-point or gridded historical wind proxies are not sufficient representations of the spatially varying aerodynamic wind exposure experienced around the oval.",
+    "The evidence does not justify an explicit deterministic wind coefficient or production residual-scale model."
+  ],
+  "partial_spearman_controlling_abs_delta_speed": {
+    "abs_delta_wind_speed_ms": -0.03189,
+    "abs_delta_gust_ms": 0.199002,
+    "wind_vector_change_ms": 0.208751,
+    "mean_wind_speed_ms": 0.028497,
+    "mean_gust_ms": 0.060187,
+    "abs_delta_ptsc_wind": -0.122406,
+    "abs_delta_forecast_wind_speed_10m_ms": -0.045482,
+    "abs_delta_forecast_gust_ms": 0.189685
+  },
+  "files": {
+    "weather/output/v2c_wind_diagnostic/v2c_wind_linkage_coverage_audit_v1.csv": {
+      "sha256": "79fb99d614f4f029f18d42b4095b9943cff84504837a7984c99ee401b778a4c2",
+      "bytes": 20751
+    },
+    "weather/output/v2c_wind_diagnostic/v2c_wind_linkage_coverage_summary_v1.txt": {
+      "sha256": "10ad50426a2d16a1ce971dc5ab1e10b09634d1cd10cc65e1b44ef3f544141f39",
+      "bytes": 5147
+    },
+    "weather/output/v2c_wind_diagnostic/v2c_wind_residual_diagnostic_v1.csv": {
+      "sha256": "7a999a913c0a9a55f9a557e9a2a5437963bf4a73de8f7533eac5adea2f6c8c77",
+      "bytes": 22856
+    },
+    "weather/output/v2c_wind_diagnostic/v2c_wind_residual_diagnostic_summary_v1.txt": {
+      "sha256": "47e2efdcfb935b186c6ae942fe7064a50de5d43064498aeebc05bcecad9e422d",
+      "bytes": 6617
+    }
+  }
+}

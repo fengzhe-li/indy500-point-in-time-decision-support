@@ -1,0 +1,54 @@
+{
+  "schema_name": "FUSED_INDYCAR_QUALIFYING_DECISION_STATE_V2",
+  "schema_status": "ACTION_SEMANTICS_FROZEN",
+  "action_vocabulary": [
+    "STOP",
+    "REATTEMPT",
+    "RETAIN_AND_REATTEMPT",
+    "WITHDRAW_AND_REATTEMPT",
+    "WITHDRAW_AND_PRIORITY_REATTEMPT"
+  ],
+  "action_definitions": {
+    "STOP": "Do not make another qualifying attempt.",
+    "REATTEMPT": "Make another attempt when there is no currently protected valid result that must be retained or withdrawn.",
+    "RETAIN_AND_REATTEMPT": "Retain the current valid result while entering a non-priority reattempt path.",
+    "WITHDRAW_AND_REATTEMPT": "Withdraw the currently protected valid result before making another attempt.",
+    "WITHDRAW_AND_PRIORITY_REATTEMPT": "Withdraw the current result and enter the priority reattempt path."
+  },
+  "feasible_action_rules": {
+    "DAY1_WITH_VALID_RESULT": [
+      "STOP",
+      "RETAIN_AND_REATTEMPT",
+      "WITHDRAW_AND_PRIORITY_REATTEMPT"
+    ],
+    "LAST_CHANCE_WITH_VALID_RESULT": [
+      "STOP",
+      "WITHDRAW_AND_REATTEMPT"
+    ],
+    "LAST_CHANCE_WITHOUT_VALID_RESULT": [
+      "STOP",
+      "REATTEMPT"
+    ]
+  },
+  "shared_features": [
+    "decision_id",
+    "year",
+    "session_regime",
+    "car_number",
+    "driver_name",
+    "decision_stage",
+    "qualification_state",
+    "current_rank",
+    "current_result_mph",
+    "benchmark_type",
+    "benchmark_speed_mph",
+    "margin_to_benchmark_mph",
+    "has_protected_result",
+    "time_remaining_seconds",
+    "time_quality",
+    "thermal_state_available",
+    "performance_uncertainty_available",
+    "wait_model_available"
+  ],
+  "critical_rule": "REATTEMPT and WITHDRAW_AND_REATTEMPT must remain distinct. A car already outside the field with no protected result cannot be labelled as withdrawing a result before reattempting."
+}

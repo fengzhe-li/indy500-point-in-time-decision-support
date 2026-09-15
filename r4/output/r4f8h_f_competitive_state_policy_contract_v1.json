@@ -1,0 +1,42 @@
+{
+  "phase": "R4F8H-F",
+  "status": "R4F8H_COMPETITIVE_STATE_POLICY_FROZEN",
+  "empirical_competitor_evolution_model_available": false,
+  "empirical_future_leaderboard_model_available": false,
+  "numeric_structural_arrival_calibration_available": false,
+  "primary_mc_treatment": {
+    "benchmark_semantics": "STATIC_DECISION_TIME_OBSERVED_BENCHMARK",
+    "benchmark_speed_source": "R4F8E benchmark_speed_mph",
+    "benchmark_rank_source": "R4F8E benchmark_rank",
+    "leaderboard_context_source": "R4F8E decision_state_leaderboard_context",
+    "interpretation": "The benchmark is frozen at the state observable at the decision moment. Final MC may estimate probability that a new/final result exceeds that decision-time benchmark."
+  },
+  "allowed_primary_outputs": [
+    "probability_reattempt_completed",
+    "probability_new_attempt_beats_current_result",
+    "probability_final_result_beats_current_decision_time_benchmark",
+    "expected_new_attempt_speed",
+    "expected_final_result_speed",
+    "final_speed_quantiles",
+    "probability_final_result_worse_than_current",
+    "probability_protected_result_lost",
+    "wait_summary",
+    "cutoff_sensitivity_by_time_remaining_scenario"
+  ],
+  "forbidden_primary_claims": [
+    "dynamic final-rank probability",
+    "expected final rank from simulated competitor evolution",
+    "probability of being overtaken by future competitors",
+    "probability of finishing above a dynamically evolving cutoff",
+    "empirically fitted competitor-action model",
+    "empirically calibrated competitor-arrival process"
+  ],
+  "historical_future_information_policy": {
+    "future_competitor_actions_used_as_features": false,
+    "future_leaderboard_used_as_features": false,
+    "later_attempt_count_used_as_decision_feature": false,
+    "realized_final_cutoff_used_as_decision_feature": false
+  },
+  "secondary_interpretation": "Historical later leaderboard/outcome information may be used only in later R4F9 replay/evaluation, never as a decision-time input to R4F8H.",
+  "research_claim_boundary": "R4F8H is a conditional action comparison under the observed decision-time competitive benchmark, not a full dynamic leaderboard forecast."
+}

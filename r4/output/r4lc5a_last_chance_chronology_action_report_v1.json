@@ -1,0 +1,11 @@
+{
+  "phase": "R4LC5A",
+  "status": "R4LC5A_LAST_CHANCE_CHRONOLOGY_ACTION_EVIDENCE_READY",
+  "ledger_rows": 22,
+  "research_interpretation": "Public and official evidence confirms multiple reattempt episodes in 2021, 2023 and 2024, but exact timestamps and complete pre-decision state remain unresolved. This phase is therefore evidence reconstruction, not yet action-policy training.",
+  "critical_findings": [
+    "2021 official API record order must not be treated as chronology because official initial qualifying order differs.",
+    "2023 Jack Harvey has four documented attempts, including a two-lap waved-off second attempt and a decisive fourth run.",
+    "2024 Marcus Ericsson and Nolan Siegel both have important reattempt chronology absent from the final-results API rows."
+  ]
+}

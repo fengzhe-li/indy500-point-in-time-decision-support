@@ -1,0 +1,37 @@
+{
+  "phase": "R4F9-C",
+  "status": "R4F9_PROBABILISTIC_REPLAY_EVALUATION_COMPLETE",
+  "primary_numeric_sample": {
+    "regime": "DAY1",
+    "requirement": "historically observed complete next four-lap attempt",
+    "expected_n": 19,
+    "role": "RETROSPECTIVE_REPLAY_CALIBRATION_DIAGNOSTIC",
+    "independent_external_holdout": false
+  },
+  "scored_targets": [
+    "realized next-attempt four-lap speed",
+    "whether next attempt improves current result",
+    "whether next attempt crosses the benchmark observable at the original decision moment"
+  ],
+  "distribution_diagnostics": [
+    "MAE",
+    "RMSE",
+    "mean signed error",
+    "standardized residuals",
+    "PIT values",
+    "50/80/90/95 percent central predictive interval coverage"
+  ],
+  "binary_probability_diagnostics": [
+    "Brier score for improvement",
+    "Brier score for decision-time benchmark crossing",
+    "coarse probability reliability bins"
+  ],
+  "last_chance_policy": {
+    "numeric_scoring": false,
+    "role": "DESCRIPTIVE_CASE_REPLAY_ONLY",
+    "reason": "Final qualification depends on dynamic competitor evolution and historical remaining-time/cutoff conditions not identified well enough for primary probabilistic scoring."
+  },
+  "historical_action_optimal_label": false,
+  "model_refit": false,
+  "dynamic_rank_prediction": false
+}

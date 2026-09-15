@@ -1,0 +1,10 @@
+﻿metric,value,status
+target_driver_count,8,PASS
+target_set_exact,1,PASS
+files_scanned,105,PASS
+total_candidate_units,976,PASS
+high_value_candidate_units,8,PASS
+drivers_with_high_value_candidates,4,PASS
+position_finish_promoted_as_live_rank,0,PASS
+ledger_mutation,0,PASS
+canonical_mutation,0,PASS

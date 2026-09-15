@@ -1,0 +1,17 @@
+﻿metric,value,status
+scenario_rows_match_expected,1,PASS
+draw_summary_rows_match_expected,1,PASS
+normal_delta_rows_equal_35,1,PASS
+recovery_delta_rows_equal_4,1,PASS
+run_duration_rows_equal_260,1,PASS
+all_probability_values_in_0_1,1,PASS
+completion_and_failure_sum_to_one,1,PASS
+retain_completion_probability_all_one,1,PASS
+no_utility_function_applied,1,PASS
+no_leaderboard_target_applied,1,PASS
+no_queue_wait_historical_claim,1,PASS
+all_policy_hashes_present,1,PASS
+scenario_rows,120,INFO
+draws_per_scenario,100000,INFO
+total_monte_carlo_draws,12000000,INFO
+policy_hash,d2cd3f54f3398999d73c5503cb26e3a1acca8d7be420bb74541dd612b9d1c22e,INFO

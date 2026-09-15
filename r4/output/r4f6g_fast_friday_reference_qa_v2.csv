@@ -1,0 +1,12 @@
+metric,value,expected,status
+2023_pdf_rows,34,34,PASS
+2024_pdf_rows,34,34,PASS
+unparsed_pdf_numeric_rows,0,0,PASS
+2023_canonical_entries,34,34,PASS
+2024_canonical_entries,34,34,PASS
+2023_6_and_06_distinct,True,True,PASS
+2024_6_and_06_distinct,True,True,PASS
+2021_no_tow_entries,3,3,PASS
+2023_four_lap_entries,4,4,PASS
+2024_four_lap_entries,6,6,PASS
+2024_validation_only,True,True,PASS

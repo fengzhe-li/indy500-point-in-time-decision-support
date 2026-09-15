@@ -1,0 +1,9 @@
+metric,value,expected,status
+2022_attempt_rows,44,44,PASS
+2022_reference_outcome_matches,32,>=25,PASS
+2022_point_time_claim_based_on_values_not_schema,0,MEASURED,PASS
+2025_canonical_reference_rows,33,33,PASS
+2025_fake_outcome_validation_performed,False,False,PASS
+2024_reused_for_tuning,False,False,PASS
+frozen_model_refit,False,False,PASS
+transfer_closeout_only,True,True,PASS

@@ -1,0 +1,17 @@
+{
+  "phase": "R4LC1",
+  "status": "R4LC1_LAST_CHANCE_YEAR_ELIGIBILITY_REGISTRY_READY",
+  "years": {
+    "last_chance_or_last_row_held": [
+      2021,
+      2023,
+      2024,
+      2025
+    ],
+    "not_held": [
+      2020,
+      2022
+    ]
+  },
+  "research_implication": "Last-Chance-only model must not treat 2020 or 2022 as Last Chance sessions. Core historical Last Chance domain is 2021, 2023, 2024, with 2025 reserved or used separately depending cross-regime validation policy."
+}

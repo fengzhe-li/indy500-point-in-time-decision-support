@@ -1,0 +1,2 @@
+﻿phase,first_attempt_id,first_speed_mph,second_attempt_id,second_speed_mph,direct_source_native_second_run_hits,strong_speed_or_improvement_hits,relation,action,time_quality,lane,queue,exact_timestamp,promotion_ready,notes
+R1G.28D,c044edbc-0f6c-5aab-bdef-9c4156b50617,226.108,63982b5e-7639-5140-a6a2-702a77c2fc85,230.345,0,0,NOT_YET,NOT_YET,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,False,"Result-row ordering, canonical attempt index, and presence of both speeds are not used alone to establish chronology. Promotion requires source-native Marco second/repeat-run semantics."

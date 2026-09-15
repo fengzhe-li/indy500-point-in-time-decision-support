@@ -1,0 +1,2 @@
+year,official_complete_attempts,assigned_matches,strong_matches,acceptable_matches,acceptable_coverage,duplicate_candidate_rows,duplicate_official_rows,same_car_consecutive_pairs,overlapping_pairs,clean_repeat_transitions
+2025,61,55,55,55,0.9016393442622951,0,0,24,0,24

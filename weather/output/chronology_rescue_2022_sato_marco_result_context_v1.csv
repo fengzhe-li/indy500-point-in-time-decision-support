@@ -1,0 +1,5 @@
+﻿year,car_number,expected_driver,driver_name_pdf,result_row,speed_avg_mph,elapsed_time,status,source_file,source_line_number,chronology_assigned
+2022,51,Takuma Sato,"Sato, Takuma",12,231.708,02:35.3679,,2022_6033_01_Results.txt,19,False
+2022,51,Takuma Sato,"Sato, Takuma",33,232.196,02:35.0413,Failed Attempt,2022_6033_01_Results.txt,40,False
+2022,98,Marco Andretti,"Andretti, Marco",23,230.345,02:36.2875,,2022_6033_01_Results.txt,30,False
+2022,98,Marco Andretti,"Andretti, Marco",39,226.108,02:39.2161,Retired,2022_6033_01_Results.txt,46,False

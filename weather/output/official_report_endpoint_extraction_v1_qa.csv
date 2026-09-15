@@ -1,0 +1,11 @@
+﻿metric,value,status
+seed_pages_expected_5,5,PASS
+all_seed_pages_fetch_success,5,PASS
+candidate_rows,25,PASS
+years_with_candidates,"2020,2021,2022,2023,2024",PASS
+high_value_endpoint_fetches_attempted,10,INFO
+successful_endpoint_fetches,10,PASS
+downloaded_files,10,INFO
+candidate_types,PDF;RESULTS_CANDIDATE,INFO
+canonical_data_mutated,0,PASS
+policy_hash,2ab8f8c977dabbbec641ed4d690e33513f1e79b027b749538e776a52bb602b30,INFO

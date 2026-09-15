@@ -1,0 +1,6 @@
+﻿year,performance_timing_rows,timed_rows,performance_alignment_usable_rows,leakage_safe_hrrr_rows,leakage_safe_context_rows,ptsc_track_temp_rows,fully_joinable_timed_weather_rows
+2020,47,47,47,47,47,46,47
+2021,54,54,54,54,54,53,54
+2022,0,0,0,0,0,0,0
+2023,28,28,28,28,28,28,28
+2024,0,0,0,0,0,0,0

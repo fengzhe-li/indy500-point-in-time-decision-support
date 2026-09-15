@@ -1,0 +1,106 @@
+{
+  "blocked_statuses": {
+    "BLOCKED_MISSING_DECISION_TIME": 50
+  },
+  "decision_year_excluded_from_dynamic_training": true,
+  "forecast_policy": "latest HRRR cycle with cycle+90min <= decision; interpolate or explicitly short-extrapolate no more than 60 minutes within that already-available cycle",
+  "phase": "R5F",
+  "ready_rows": 450,
+  "realized_future_weather_used_at_prediction": false,
+  "rows": 500,
+  "status": "PARTIAL_BUT_USABLE",
+  "track_dynamics_by_decision_year": {
+    "2020": {
+      "coefficients": {
+        "delta_air_temp": 0.5902917162939365,
+        "delta_solar_geometry_wm2": 0.014445679190521532,
+        "delta_wind": 0.03487444821733419,
+        "elapsed_minutes": 0.0006878215457900155,
+        "intercept": -0.4954995773504376,
+        "track_temp_before": 0.01966539181602959
+      },
+      "excluded_decision_year": 2020,
+      "features": [
+        "elapsed_minutes",
+        "track_temp_before",
+        "delta_air_temp",
+        "delta_solar_geometry_wm2",
+        "delta_wind"
+      ],
+      "model": "PTSC_COMPACT_TRACK_EVOLUTION_RIDGE_V1",
+      "no_ambient_equals_track_substitution": true,
+      "residual_sd_c": 1.1668237880621593,
+      "ridge_alpha": 5.0,
+      "training_covariates": "observed PTSC ambient/wind plus deterministic solar geometry; deployment uses decision-time HRRR forecast changes",
+      "training_rows": 129,
+      "years": [
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "2021": {
+      "coefficients": {
+        "delta_air_temp": 0.4906227254664549,
+        "delta_solar_geometry_wm2": 0.01619853542374034,
+        "delta_wind": 0.03524845758993815,
+        "elapsed_minutes": 0.015921064810567726,
+        "intercept": -0.7029261508419288,
+        "track_temp_before": 0.01824271047015205
+      },
+      "excluded_decision_year": 2021,
+      "features": [
+        "elapsed_minutes",
+        "track_temp_before",
+        "delta_air_temp",
+        "delta_solar_geometry_wm2",
+        "delta_wind"
+      ],
+      "model": "PTSC_COMPACT_TRACK_EVOLUTION_RIDGE_V1",
+      "no_ambient_equals_track_substitution": true,
+      "residual_sd_c": 1.2637808353536666,
+      "ridge_alpha": 5.0,
+      "training_covariates": "observed PTSC ambient/wind plus deterministic solar geometry; deployment uses decision-time HRRR forecast changes",
+      "training_rows": 128,
+      "years": [
+        2020,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "2023": {
+      "coefficients": {
+        "delta_air_temp": 0.6564988803582339,
+        "delta_solar_geometry_wm2": 0.009534602232671564,
+        "delta_wind": 0.046680529243418915,
+        "elapsed_minutes": 0.022591160542767667,
+        "intercept": -0.31026539590239255,
+        "track_temp_before": 0.00654488575038241
+      },
+      "excluded_decision_year": 2023,
+      "features": [
+        "elapsed_minutes",
+        "track_temp_before",
+        "delta_air_temp",
+        "delta_solar_geometry_wm2",
+        "delta_wind"
+      ],
+      "model": "PTSC_COMPACT_TRACK_EVOLUTION_RIDGE_V1",
+      "no_ambient_equals_track_substitution": true,
+      "residual_sd_c": 1.3012130392266659,
+      "ridge_alpha": 5.0,
+      "training_covariates": "observed PTSC ambient/wind plus deterministic solar geometry; deployment uses decision-time HRRR forecast changes",
+      "training_rows": 125,
+      "years": [
+        2020,
+        2021,
+        2022,
+        2024
+      ]
+    }
+  },
+  "uncertainty": "decision-year-excluded PTSC dynamic residual SD scaled by sqrt(max(wait,1)/15)",
+  "version": "R5F_FUTURE_PHYSICAL_STATE_V1"
+}

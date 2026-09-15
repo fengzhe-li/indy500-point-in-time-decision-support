@@ -1,0 +1,88 @@
+--- PAGE 1 ---
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Indianapolis Motor Speedway
+Results of Session
+May 23, 2021
+105th Running of the Indianapolis 500
+Event:
+Track:
+Report:
+Practice 7
+Session:
+NTT INDYCAR SERIES
+2.5 mile(s)
+Round 6
+Rank
+Car
+Driver Name
+C/E/T
+Time
+Speed
+Diff
+Gap
+Best Lap
+Total Laps
+1
+06
+Castroneves, Helio
+D/H/F
+00:39.0440
+ 230.509
+--.----
+--.----
+2
+12
+2
+28
+Hunter-Reay, Ryan
+D/H/F
+00:39.0541
+ 230.450
+0.0101
+0.0101
+2
+6
+3
+10
+Palou, Alex
+D/H/F
+00:39.0825
+ 230.282
+0.0385
+0.0284
+12
+17
+4
+16
+De Silvestro, Simona
+D/C/F
+00:39.3016
+ 228.998
+0.2576
+0.2191
+2
+10
+5
+11
+Kimball, Charlie
+D/C/F
+00:39.4875
+ 227.920
+0.4435
+0.1859
+3
+7
+6
+75
+Enerson, RC (R)
+D/C/F
+00:39.5806
+ 227.384
+0.5366
+0.0931
+10
+14
+66
+Total Laps:
+(R) Rookie
+Information provided by Indy Racing Information System - Copyright INDYCAR 2021

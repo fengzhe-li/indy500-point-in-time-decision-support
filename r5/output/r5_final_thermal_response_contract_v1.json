@@ -1,0 +1,25 @@
+{
+  "status": "R5_THERMAL_RESPONSE_MODEL_ESTIMATED",
+  "primary_response_model": "SAME_CAR_DELTA_SPEED_FROM_DELTA_TRACK_TEMPERATURE",
+  "formula": "future_speed = current_qualifying_speed + predicted_delta_speed(delta_track_temperature)",
+  "car_baseline": "CURRENT_SAME_DAY_QUALIFYING_RESULT",
+  "fast_friday_primary_baseline": false,
+  "physical_mechanism": {
+    "primary": "track_surface_temperature",
+    "supporting_forcing_for_future_track_state": [
+      "shortwave solar radiation",
+      "cloud cover",
+      "ambient temperature",
+      "wind",
+      "solar geometry"
+    ],
+    "tyre_temperature_directly_observed": false,
+    "tyre_interpretation": "track-temperature-dependent thermal working condition proxy only"
+  },
+  "auxiliary_physical_evidence": {
+    "within_run_four_lap_fade": true,
+    "first_run_chronological_thermal_sweep": true,
+    "same_car_repeat_attempts": true
+  },
+  "important_boundary": "The model predicts within-car performance change, not absolute car capability from weather alone."
+}

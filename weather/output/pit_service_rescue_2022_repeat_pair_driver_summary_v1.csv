@@ -1,0 +1,9 @@
+﻿driver_name,service_related_units,priority_candidates,classes,service_between_attempts_known,promotion_ready
+Alexander Rossi,0,0,,False,False
+Callum Ilott,0,0,,False,False
+David Malukas,2,2,DIRECT_TIRE_SERVICE_CANDIDATE,False,False
+Helio Castroneves,0,0,,False,False
+Marco Andretti,6,4,DIRECT_COOLING_CANDIDATE|PIT_MENTION_REVIEW,False,False
+Sage Karam,0,0,,False,False
+Scott McLaughlin,0,0,,False,False
+Takuma Sato,4,4,DIRECT_COOLING_CANDIDATE,False,False

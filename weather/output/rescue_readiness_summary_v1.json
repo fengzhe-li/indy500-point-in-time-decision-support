@@ -1,0 +1,37 @@
+{
+  "phase": "R2I",
+  "repeat_target_exact": true,
+  "repeat_driver_count": 8,
+  "repeat_chronology_driver_coverage": 8,
+  "original_global_chronology_gate": "FAIL",
+  "rescued_operational_gate": "READY_FOR_LIMITED_SEQUENTIAL_SIMULATOR",
+  "full_historical_truth_gate": "FAIL",
+  "limited_sequential_simulator_ready": true,
+  "full_observable_state_simulator_ready": false,
+  "hard_recommendation_ready": false,
+  "full_simulator_blockers": [
+    "LANE_IDENTITY",
+    "CONTEMPORANEOUS_RANK_CUTOFF",
+    "QUEUE_MEMBERSHIP_POSITION",
+    "QUEUE_WAIT_TIME",
+    "PIT_SERVICE_STATE",
+    "RUBBER_GRIP_EVOLUTION",
+    "TIRE_THERMAL_PRESSURE"
+  ],
+  "readiness_counts": {
+    "ready_or_ready_with_limits": 7,
+    "partial": 3,
+    "latent_unknown_or_not_ready": 4,
+    "total_domains": 15
+  },
+  "downstream_policy": {
+    "queue_wait": "LATENT_SENSITIVITY_VARIABLE",
+    "pit_service": "UNKNOWN",
+    "rubber_grip": "UNKNOWN",
+    "tire_thermal": "UNKNOWN",
+    "elapsed_time_as_track_evolution": "PROHIBITED",
+    "historical_full_queue_replay": "PROHIBITED",
+    "hard_optimality_claim": "PROHIBITED_UNTIL_VALIDATED"
+  },
+  "next_phase": "BUILD_DECISION_TIME_OBSERVABLE_STATE_V2_AND_LIMITED_SEQUENTIAL_SIMULATOR"
+}

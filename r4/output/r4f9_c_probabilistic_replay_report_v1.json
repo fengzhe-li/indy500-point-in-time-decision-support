@@ -1,0 +1,68 @@
+{
+  "phase": "R4F9-C",
+  "status": "R4F9_PROBABILISTIC_REPLAY_EVALUATION_COMPLETE",
+  "sample": {
+    "day1_complete_next_attempts": 19,
+    "scored": 19,
+    "blocked": 0,
+    "last_chance_descriptive": 10
+  },
+  "speed_metrics": {
+    "mean_error_actual_minus_predicted_mph": 0.032849791643110096,
+    "mae_mph": 0.6935655087041553,
+    "rmse_mph": 0.8984228787561581,
+    "standardized_residual_mean": 0.02797689732234623,
+    "standardized_residual_sd": 0.9295686246690771,
+    "pit_mean": 0.5230081446765477
+  },
+  "interval_coverage": {
+    "PI50": {
+      "observed": 0.5789473684210527,
+      "nominal": 0.5,
+      "hits": 11,
+      "n": 19
+    },
+    "PI80": {
+      "observed": 0.7368421052631579,
+      "nominal": 0.8,
+      "hits": 14,
+      "n": 19
+    },
+    "PI90": {
+      "observed": 0.8947368421052632,
+      "nominal": 0.9,
+      "hits": 17,
+      "n": 19
+    },
+    "PI95": {
+      "observed": 1.0,
+      "nominal": 0.95,
+      "hits": 19,
+      "n": 19
+    }
+  },
+  "binary_probability_metrics": {
+    "benchmark_crossing_brier": 0.14691703708773138,
+    "improvement_brier": 0.24040831876729007
+  },
+  "interpretation_boundary": "These metrics evaluate retrospective decision-time predictive plausibility on realized later attempts. They do not constitute an independent external validation and do not establish optimal historical actions.",
+  "qa": {
+    "pass": 13,
+    "warn": 0,
+    "fail": 0
+  },
+  "protected_input_hashes": {
+    "r4/output/r4f9_b3_final_historical_outcome_interface_v1.csv": "1ad685ae65af8f77aaf98088ce1146a31109caba54d99627ba1ace2bf957a04f",
+    "r4/output/r4f8g_decision_predictive_uncertainty_state_v1.csv": "d2f84bb1dd61481732d8e2b986c041ffc612b77e635c4f0b9bd4cc156f36bdec"
+  },
+  "output_hashes": {
+    "r4/output/r4f9_c_probabilistic_replay_rows_v1.csv": "190b523f8b4285f6430070ed67c48b4c3ef722a73843b81c6da771dc150b563e",
+    "r4/output/r4f9_c_interval_coverage_summary_v1.csv": "1952553a32cdabd97613298e9229200a174d609d4d90447b2e535dae249bbebf",
+    "r4/output/r4f9_c_probability_calibration_summary_v1.csv": "c6c843ef089a4573c33104c7698166127c0a311545f64a98b31eb928c8158d81",
+    "r4/output/r4f9_c_replay_by_year_summary_v1.csv": "0ab55d9d60a3199b78b9f309b34e5eda9f14673fcb5e654c02b8aec4f3243258",
+    "r4/output/r4f9_c_last_chance_descriptive_replay_v1.csv": "ab72974e46fd776b89adfb36dfcb21a38caa3188d4275db0721b7d047c5356c2",
+    "r4/output/r4f9_c_probabilistic_replay_qa_v1.csv": "18e78c9dfbd2a26ecd71d7cf3332206c38e4d7adc02e1087465d5cd12a680290",
+    "r4/output/r4f9_c_probabilistic_replay_contract_v1.json": "260ff68c41d6efee5cdf53866b7d7768c7fda70e3e8c51e3efb20f7a1d2b9ccf"
+  },
+  "next_phase": "R4F9-D_REPRESENTATIVE_CASE_REPLAY"
+}

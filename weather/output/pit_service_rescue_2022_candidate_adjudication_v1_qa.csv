@@ -1,0 +1,9 @@
+﻿metric,value,status
+priority_scanner_rows,10,PASS
+promotion_ready_service_units,0,PASS
+cooldown_lap_promoted_as_cooling_service,0,PASS
+cooper_tires_promoted_as_tire_service,0,PASS
+refuel_inferred,0,PASS
+pit_return_inferred,0,PASS
+service_between_attempts_inferred,0,PASS
+active_ledger_mutation,0,PASS

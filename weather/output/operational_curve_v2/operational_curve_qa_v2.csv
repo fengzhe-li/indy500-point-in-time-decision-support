@@ -1,0 +1,7 @@
+check,pass,detail
+row_count,True,321 / 321
+anchor_count,True,15
+no_intermediate_marked_calibrated,True,0
+no_extrapolation,True,max horizon = 120
+probability_bounds,True,"P(improve) within [0,1]"
+predictive_interval_order,True,90-low <= 80-low <= 80-high <= 90-high

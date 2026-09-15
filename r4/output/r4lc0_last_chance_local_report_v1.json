@@ -1,0 +1,19 @@
+{
+  "phase": "R4LC0",
+  "status": "R4LC0_LAST_CHANCE_LOCAL_ASSET_AUDIT_READY",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "matched_files": 47,
+  "purpose": "Audit existing project assets for historical Last Chance / Last Row qualifying evidence before new data ingestion.",
+  "notes": [
+    "2021 may appear as Last Row rather than Last Chance.",
+    "This audit does not modify source files.",
+    "Absence here means only absence from current local project assets, not absence from public sources."
+  ]
+}

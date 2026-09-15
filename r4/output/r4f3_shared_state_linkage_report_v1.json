@@ -1,0 +1,25 @@
+{
+  "phase": "R4F3",
+  "status": "R4F3_SHARED_STATE_LINKAGE_AUDIT_READY",
+  "counterfactual_states": 50,
+  "engine_v1_ready_states": 0,
+  "revised_model_architecture": {
+    "historical_action_classifier": false,
+    "performance_uncertainty": "SHARED",
+    "whole_field_performance_window": "BUILD_FROM_PROSPECTIVE_CROSS_CAR ATTEMPTS, NOT SAME-CAR LABELS",
+    "thermal_state": "OBSERVED_PTSC + DECISION-SAFE_HRRR_FORECAST",
+    "wait_queue": "STOCHASTIC_MODEL; HISTORICAL_WAIT_NOT_ASSUMED",
+    "decision_layer": "COUNTERFACTUAL_MONTE_CARLO OVER FEASIBLE ACTIONS"
+  },
+  "window_definition_v1": {
+    "past_only": true,
+    "subject_car_excluded": true,
+    "minimum_other_cars": 3,
+    "primary_context_minutes": 20,
+    "supporting_context_minutes": [
+      10,
+      30
+    ]
+  },
+  "next_phase": "Use coverage audit to build the shared whole-field performance-window state model and probabilistic performance transition layer."
+}

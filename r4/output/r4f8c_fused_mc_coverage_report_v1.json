@@ -1,0 +1,20 @@
+{
+  "phase": "R4F8C",
+  "status": "R4F8C_FUSED_MC_COVERAGE_CONTRACT_FROZEN",
+  "decision_counts": {
+    "DAY1": 50,
+    "LAST_CHANCE": 10
+  },
+  "action_counts": {
+    "STOP": 60,
+    "RETAIN_AND_REATTEMPT": 50,
+    "WITHDRAW_AND_PRIORITY_REATTEMPT": 50,
+    "WITHDRAW_AND_REATTEMPT": 6,
+    "REATTEMPT": 4
+  },
+  "last_chance": {
+    "protected": 6,
+    "unprotected": 4
+  },
+  "next_phase": "Run final probabilistic action evaluation using performance uncertainty, wait uncertainty and regime-specific result protection semantics."
+}

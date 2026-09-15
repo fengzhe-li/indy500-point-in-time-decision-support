@@ -1,0 +1,5 @@
+year,rows,ptsc_available,ptsc_age_le_15m,ptsc_age_le_30m,ptsc_age_le_60m,ptsc_median_age_minutes,hrrr_joined,hrrr_leakage_safe,hrrr_issue_before_attempt,initial_model_numeric_complete
+2020,39,39,39,39,39,7.416666666666667,39,39,39,39
+2021,48,48,48,48,48,7.433333333333334,48,48,48,48
+2023,17,17,17,17,17,4.883333333333334,17,17,17,17
+2024,6,6,6,6,6,10.5,6,6,6,6

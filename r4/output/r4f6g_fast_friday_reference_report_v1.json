@@ -1,0 +1,50 @@
+{
+  "phase": "R4F6G",
+  "status": "R4F6G_DETERMINISTIC_FAST_FRIDAY_REFERENCE_PANEL_READY",
+  "critical_correction": "R4F6F-v1 automatic name-regex panel is rejected as model input. R4F6G replaces it with deterministic parsing of the observed official timing-report schema.",
+  "reference_hierarchy": [
+    "FOUR_LAP_QUALIFYING_SIM",
+    "NO_TOW_SINGLE_LAP",
+    "GENERAL_FAST_FRIDAY_BEST_SPEED"
+  ],
+  "pdf_rows": {
+    "2023": 34,
+    "2024": 34
+  },
+  "canonical_entries": 69,
+  "summary": [
+    {
+      "year": 2021,
+      "all_evidence_rows": 3,
+      "canonical_entries": 3,
+      "four_lap_canonical": 0,
+      "no_tow_canonical": 3,
+      "general_canonical": 0,
+      "model_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2023,
+      "all_evidence_rows": 38,
+      "canonical_entries": 33,
+      "four_lap_canonical": 4,
+      "no_tow_canonical": 0,
+      "general_canonical": 29,
+      "model_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2024,
+      "all_evidence_rows": 40,
+      "canonical_entries": 33,
+      "four_lap_canonical": 6,
+      "no_tow_canonical": 0,
+      "general_canonical": 27,
+      "model_role": "VALIDATION_ONLY"
+    }
+  ],
+  "known_limitations": [
+    "2020 and 2022 driver-level Fast Friday references are not yet recovered.",
+    "General Fast Friday best speed can contain more draft/context contamination than four-lap qualifying simulation or explicit no-tow evidence.",
+    "2024 remains validation-only."
+  ],
+  "next_phase": "Join canonical Fast Friday references against qualifying attempt entries, measure entry coverage, and test whether pre-session normalization improves cross-car repeat-anchor prediction versus the rejected annual-field-median baseline."
+}

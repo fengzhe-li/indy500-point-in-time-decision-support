@@ -1,0 +1,32 @@
+{
+  "phase": "R4F7T0",
+  "status": "R4F7T0_2022_2025_TRANSFER_SUPPORT_RESOLVED",
+  "year_summary": [
+    {
+      "year": 2022,
+      "canonical_attempt_rows": 44,
+      "canonical_reference_rows": 33,
+      "candidate_files": 157,
+      "files_with_speed": 59,
+      "files_with_time_and_speed": 26,
+      "files_with_order_or_time_and_speed": 46,
+      "strongest_supported_mode": "POINT_TIME_PREQUENTIAL_REPLAY_POTENTIALLY_AVAILABLE"
+    },
+    {
+      "year": 2025,
+      "canonical_attempt_rows": 0,
+      "canonical_reference_rows": 33,
+      "candidate_files": 14,
+      "files_with_speed": 5,
+      "files_with_time_and_speed": 0,
+      "files_with_order_or_time_and_speed": 0,
+      "strongest_supported_mode": "REFERENCE_VS_OUTCOME_TRANSFER_ONLY"
+    }
+  ],
+  "rules": {
+    "2022": "Use only validation strength actually supported by degraded chronology. Do not invent exact timestamps.",
+    "2025": "Technical-regime transfer only. Do not fold 2025 into the frozen 2020-2023 development model.",
+    "model": "No refit and no architecture change is permitted."
+  },
+  "next_phase": "Construct one lightweight robustness/transfer evaluation using the strongest supported mode for each year, then move to action Monte Carlo integration."
+}

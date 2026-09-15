@@ -1,0 +1,9 @@
+﻿metric,value,status
+marco_first_grounding,1,PASS
+marco_second_grounding,1,PASS
+frozen_repeat_pair_matches,1,PASS
+official_next_driver_evidence,1,PASS
+lane_inferred,0,PASS
+queue_inferred,0,PASS
+timestamp_inferred,0,PASS
+ledger_mutation,0,PASS

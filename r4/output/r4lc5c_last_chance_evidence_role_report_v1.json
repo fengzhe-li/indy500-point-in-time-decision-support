@@ -1,0 +1,13 @@
+{
+  "phase": "R4LC5C",
+  "status": "R4LC5C_LAST_CHANCE_EVIDENCE_ROLE_GATE_READY",
+  "input_decision_episodes": 7,
+  "observed_actions": [
+    "REATTEMPT"
+  ],
+  "action_diversity_sufficient_for_policy_fit": false,
+  "policy_fit_eligible_rows": 0,
+  "historical_replay_rows": 5,
+  "performance_or_action_evidence_only_rows": 2,
+  "methodological_decision": "Current Last Chance evidence is not used to fit a standalone action classifier because observed decision episodes are action-imbalanced and often state-incomplete. Last Chance instead contributes regime-specific payoff/risk structure, performance evidence, and historical replay validation."
+}

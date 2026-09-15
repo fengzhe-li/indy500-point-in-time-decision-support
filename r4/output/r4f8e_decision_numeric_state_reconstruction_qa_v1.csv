@@ -1,0 +1,22 @@
+metric,value,expected,status
+decision_rows,60,60,PASS
+action_rows,170,170,PASS
+unique_fused_decision_id,60,60,PASS
+day1_decisions_preserved,50,50,PASS
+last_chance_decisions_added,10,10,PASS
+day1_actions_preserved,150,150,PASS
+last_chance_actions_added,20,20,PASS
+action_contract_columns_exact,True,True,PASS
+car_number_preserved_as_text,True,True,PASS
+year_identity_driver_complete,60,60,PASS
+decision_time_utc_resolved,50,50,WARN
+session_remaining_seconds_resolved,0,0,WARN
+current_best_speed_resolved,57,57,WARN
+protected_result_speed_resolved,56,56,PASS
+rank_and_benchmark_resolved,60,60,PASS
+source_attempt_id_resolved,57,57,WARN
+unprotected_has_no_protected_speed,True,True,PASS
+last_chance_actions_are_regime_specific,"Counter({'STOP': 10, 'WITHDRAW_AND_REATTEMPT': 6, 'REATTEMPT': 4})","{'STOP': 10, 'WITHDRAW_AND_REATTEMPT': 6, 'REATTEMPT': 4}",PASS
+no_forbidden_leakage_columns,[],[],PASS
+all_rows_marked_leakage_safe,60,60,PASS
+r4f7_r4f8b_r4f8c_r4f8d_hashes_preserved,True,True,PASS

@@ -1,0 +1,22 @@
+{
+  "validation_type": "2025_EXTERNAL_REGIME_REALIZED_WEATHER_BACKTEST",
+  "production_core": "FROZEN_2020_2024",
+  "test_regime": "2025_AEROSCREEN_HYBRID",
+  "max_product_horizon_minutes": 120.0,
+  "included_cases": 4,
+  "excluded_cases": 19,
+  "mae_mph": 0.22075575022615107,
+  "median_absolute_error_mph": 0.18970390769965922,
+  "rmse_mph": 0.26915976687897303,
+  "direction_accuracy": 0.5,
+  "coverage_80": 1.0,
+  "coverage_90": 1.0,
+  "actual_improvement_rate": 0.75,
+  "mean_predicted_p_improve": 0.5153375,
+  "mean_p_improve_when_actual_improved": 0.5088166666666667,
+  "mean_p_improve_when_actual_declined": 0.5349,
+  "weather_input_semantics": "Realized 2025 PTSC ambient trajectory; retrospective/oracle-style weather input. This validates the frozen inference chain, not weather forecast accuracy.",
+  "wait_semantics": "Actual wait is not supplied to the model as a decision variable. A full inference curve is generated; the prediction is read retrospectively at the observed second-attempt timestamp.",
+  "strategy_recommendation": false,
+  "queue_wait_prediction": false
+}

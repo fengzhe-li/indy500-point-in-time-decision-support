@@ -1,0 +1,7 @@
+metric,value,expected,status
+action_diversity,REATTEMPT;STOP,REATTEMPT;STOP,PASS
+stop_examples,6,>0,PASS
+reattempt_examples,4,>0,PASS
+2023_post_break_four_cars,4,4,PASS
+2023_action_pattern,STOP;STOP;STOP;REATTEMPT,STOP;STOP;STOP;REATTEMPT,PASS
+no_exact_timestamps_fabricated,0,0,PASS

@@ -1,0 +1,10 @@
+﻿metric,value,status
+castroneves_canonical_objects,3,INFO
+index1_object_count,2,INFO
+unique_225482_result_link,1,PASS
+unique_229630_result_link,1,PASS
+direct_first_run_narrative,1,PASS
+automatic_action_promotions,0,PASS
+result_row_order_used_as_chronology,0,PASS
+duplicate_index1_silently_merged,0,PASS
+canonical_data_mutated,0,PASS

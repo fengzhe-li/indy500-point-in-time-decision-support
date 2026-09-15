@@ -1,0 +1,123 @@
+{
+  "phase": "R4F7C5",
+  "status": "R4F7C5_PROSPECTIVE_PAST_ONLY_FIELD_STATE_READY",
+  "development_rows": 104,
+  "development_years": [
+    2020,
+    2021,
+    2023
+  ],
+  "2024_validation_access": "NOT_READ",
+  "support_summary": [
+    {
+      "year": 2020,
+      "rows": 39,
+      "past_other_ge_1": 38,
+      "past_other_ge_3": 36,
+      "past_other_ge_5": 34,
+      "own_prior_available": 11,
+      "median_past_other_count": 19
+    },
+    {
+      "year": 2021,
+      "rows": 48,
+      "past_other_ge_1": 47,
+      "past_other_ge_3": 45,
+      "past_other_ge_5": 43,
+      "own_prior_available": 15,
+      "median_past_other_count": 23.5
+    },
+    {
+      "year": 2023,
+      "rows": 17,
+      "past_other_ge_1": 16,
+      "past_other_ge_3": 14,
+      "past_other_ge_5": 12,
+      "own_prior_available": 1,
+      "median_past_other_count": 8
+    }
+  ],
+  "state_features": [
+    "session_elapsed_minutes",
+    "past_other_count",
+    "past_other_mean_residual_mph",
+    "past_other_median_residual_mph",
+    "past_other_ewma_10m_residual_mph",
+    "past_other_ewma_20m_residual_mph",
+    "past_other_ewma_30m_residual_mph",
+    "past_other_ewma_45m_residual_mph",
+    "past_other_recent_10m_count",
+    "past_other_recent_20m_count",
+    "past_other_recent_30m_count",
+    "past_other_recent_45m_count",
+    "own_prior_available",
+    "own_previous_residual_mph",
+    "own_previous_age_minutes"
+  ],
+  "thermal_features": [
+    "ptsc_track_temp_c_past_safe",
+    "ptsc_track_temp_slope_c_per_min_past_safe",
+    "forecast_temp_c",
+    "forecast_relative_humidity_pct",
+    "forecast_wind_speed_10m_ms",
+    "forecast_pressure_hpa",
+    "forecast_gust_ms",
+    "forecast_cloud_cover_pct",
+    "forecast_shortwave_radiation_wm2",
+    "forecast_wind_direction_sin",
+    "forecast_wind_direction_cos"
+  ],
+  "aggregate_loyo_metrics": [
+    {
+      "test_year": "ALL_LOYO",
+      "model": "FAST_FRIDAY_REFERENCE_ONLY",
+      "n": 104,
+      "mae_mph": 0.8603942307692318,
+      "rmse_mph": 1.1283224827149367,
+      "bias_mph": 0.685759615384616,
+      "correlation": 0.8952101582326827
+    },
+    {
+      "test_year": "ALL_LOYO",
+      "model": "REFERENCE_PLUS_GLOBAL_TRAIN_CALIBRATION",
+      "n": 104,
+      "mae_mph": 0.656311837477292,
+      "rmse_mph": 0.9174044441888435,
+      "bias_mph": 0.032941603511433146,
+      "correlation": 0.8890181172878481
+    },
+    {
+      "test_year": "ALL_LOYO",
+      "model": "REFERENCE_PLUS_PAST_STATE_PLUS_THERMAL_RIDGE",
+      "n": 104,
+      "mae_mph": 1.0560149347535552,
+      "rmse_mph": 1.4151646157408608,
+      "bias_mph": 0.6163901037470837,
+      "correlation": 0.8132155272424588
+    },
+    {
+      "test_year": "ALL_LOYO",
+      "model": "REFERENCE_PLUS_PAST_STATE_RIDGE",
+      "n": 104,
+      "mae_mph": 0.8022103081631405,
+      "rmse_mph": 1.0587707935849393,
+      "bias_mph": -0.14827073535674082,
+      "correlation": 0.8578892854450318
+    },
+    {
+      "test_year": "ALL_LOYO",
+      "model": "REFERENCE_PLUS_THERMAL_RIDGE",
+      "n": 104,
+      "mae_mph": 0.8117935130286302,
+      "rmse_mph": 1.0764904986424153,
+      "bias_mph": 0.015407176929123797,
+      "correlation": 0.8442541370540145
+    }
+  ],
+  "common_field_state_rule": "Only qualifying attempts with timestamp strictly earlier than the current attempt and belonging to other drivers may contribute to common-field state.",
+  "own_entry_rule": "Earlier attempts from the same driver are kept separate as own_previous_residual and may be used prospectively.",
+  "ewma_rule": "10/20/30/45-minute exponentially decayed past residual summaries are observable state proxies, not definitions of the latent performance window.",
+  "important_boundary": "The purpose of R4F7C5 is to test whether strictly past whole-field performance history contains incremental prospective information. A formal latent state-space model is introduced only if this evidence supports it.",
+  "input_hash": "7eb79eae44b7de126d0a3a3947b31bd3d95ad405ecb1a1da051fe1220aece802",
+  "next_phase_rule": "If past-only state improves fair LOYO or consistently improves supported within-year heuristics, proceed to R4F7C6 latent state-space / hierarchical shrinkage. If not, latent-window uncertainty must remain broad and weather/history should not be over-weighted."
+}

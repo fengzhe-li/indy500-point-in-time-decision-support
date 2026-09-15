@@ -1,0 +1,154 @@
+{
+  "phase": "R4F8H-D",
+  "purpose": "Competitive-state evolution evidence audit before final MC.",
+  "candidate_field_rows": 3559,
+  "populated_candidate_field_rows": 2480,
+  "candidate_categories": {
+    "leaderboard": 24,
+    "benchmark_or_cutoff": 154,
+    "competitor": 2,
+    "throughput": 1,
+    "future_or_later_state": 7
+  },
+  "top_candidate_paths": [
+    [
+      "weather/evidence/rescue/official_lane_queue_live_resources/current_trackactivityleaderboardfeed.json",
+      293
+    ],
+    [
+      "weather/evidence/rescue/official_lane_queue_live_resources/current_trackactivityleaderboardfeed_nxt.json",
+      239
+    ],
+    [
+      "weather/evidence/rescue/official_lane_queue_live_resources/probe_timingscoring_sessionid_6382.json",
+      150
+    ],
+    [
+      "evidence/official_session_2021.json",
+      118
+    ],
+    [
+      "evidence/official_session_2020.json",
+      118
+    ],
+    [
+      "weather/evidence/rescue/official_day1_session_details/raw_api/2020_5771_session_details.json",
+      118
+    ],
+    [
+      "weather/evidence/rescue/official_day1_session_details/raw_api/2021_5838_session_details.json",
+      118
+    ],
+    [
+      "evidence/official_session_2022.json",
+      88
+    ],
+    [
+      "weather/evidence/rescue/official_day1_session_details/raw_api/2022_6033_session_details.json",
+      88
+    ],
+    [
+      "evidence/official_session_2023.json",
+      68
+    ],
+    [
+      "evidence/official_session_2024.json",
+      68
+    ],
+    [
+      "weather/evidence/rescue/official_day1_session_details/raw_api/2024_6382_session_details.json",
+      68
+    ],
+    [
+      "weather/evidence/rescue/official_day1_session_details/raw_api/2023_6202_session_details.json",
+      68
+    ],
+    [
+      "r4/evidence/fast_friday/r4f6j/2025_fast_friday_session_6655.json",
+      34
+    ],
+    [
+      "r4/evidence/fast_friday/r4f6j/2022_fast_friday_session_6031.json",
+      33
+    ],
+    [
+      "r4/evidence/fast_friday/r4f6j/2020_fast_friday_session_5767.json",
+      33
+    ],
+    [
+      "weather/output/decision_time_observable_state_v4_final.csv",
+      14
+    ],
+    [
+      "weather/output/decision_time_observable_state_v2.csv",
+      14
+    ],
+    [
+      "weather/output/decision_time_observable_state_v3.csv",
+      14
+    ],
+    [
+      "weather/output/decision_time_observable_state_v4_1_final.csv",
+      14
+    ],
+    [
+      "weather/evidence/last_chance_official/2021_last_chance_session_5847_v2.json",
+      14
+    ],
+    [
+      "weather/output/decision_time_observable_state_v3_summary.json",
+      10
+    ],
+    [
+      "weather/output/r3b4_monte_carlo_action_envelope_v1.csv",
+      8
+    ],
+    [
+      "weather/output/r3c_final_monte_carlo_action_envelope_v1.csv",
+      8
+    ],
+    [
+      "weather/output/r3c_final_monte_carlo_action_envelope_v2.csv",
+      8
+    ],
+    [
+      "weather/evidence/last_chance_official/2024_last_chance_session_6385_v2.json",
+      8
+    ],
+    [
+      "weather/evidence/last_chance_official/2023_last_chance_session_6205_v2.json",
+      8
+    ],
+    [
+      "r4/output/r4f8h_c_cutoff_completion_policy_report_v1.json",
+      7
+    ],
+    [
+      "weather/output/decision_time_state_v3_transition_outcome_evidence.csv",
+      6
+    ],
+    [
+      "weather/output/leaderboard_rescue_2022_candidate_adjudication_v1.csv",
+      5
+    ]
+  ],
+  "text_candidate_files": 10,
+  "interpretation_boundary": "A current leaderboard/benchmark field is not itself a competitor-evolution model. A historical later outcome is also not automatically decision-safe for simulation. Candidate sources must be inspected semantically before use.",
+  "allowed_downstream_options": [
+    "If a defensible frozen competitor-evolution component exists, join it into final action MC.",
+    "If only static current benchmark exists, final MC may report speed-vs-current-benchmark results but must not claim dynamic future rank probabilities.",
+    "If only structural throughput/session-progress evidence exists, freeze a structural competitor-evolution sensitivity component and label it explicitly."
+  ],
+  "research_integrity": {
+    "final_mc_run": false,
+    "future_outcome_leakage": false,
+    "competitor_evolution_fabricated": false,
+    "historical_action_used_as_optimal_label": false
+  },
+  "qa": {
+    "pass": 14,
+    "warn": 0,
+    "fail": 0
+  },
+  "next_step": "Inspect strongest competitor/leaderboard/benchmark evolution candidates and freeze the allowed competitive-state treatment before final action-conditioned Monte Carlo."
+}

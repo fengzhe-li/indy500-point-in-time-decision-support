@@ -1,0 +1,107 @@
+{
+  "phase": "R3B.3C",
+  "analysis_population": {
+    "environment_ready_pairs": 39,
+    "normal_branch_pairs": 35,
+    "recovery_like_pairs": 4,
+    "forward_complete_case_pairs": 35
+  },
+  "forward_features": [
+    "delta_forecast_temp_c",
+    "delta_forecast_dewpoint_c",
+    "delta_forecast_relative_humidity_pct",
+    "delta_forecast_wind_speed_10m_ms",
+    "delta_forecast_gust_ms",
+    "delta_forecast_pressure_hpa",
+    "delta_forecast_cloud_cover_pct",
+    "delta_forecast_shortwave_radiation_wm2"
+  ],
+  "ptsc_track_temperature_role": "DIAGNOSTIC_ONLY",
+  "recovery_branch_role": "EXISTING_EMPIRICAL_DISTRIBUTION_AND_POSTERIOR_ONLY",
+  "validation": {
+    "type": "LEAVE_ONE_YEAR_OUT",
+    "years": [
+      "2020",
+      "2021",
+      "2023"
+    ],
+    "ridge_alphas": [
+      0.1,
+      1.0,
+      10.0,
+      100.0
+    ]
+  },
+  "best_ridge_alpha": 100.0,
+  "best_environment_model_pooled_mae_mph": 0.3017006031046218,
+  "same_rows_zero_delta_mae_mph": 0.29651428571428573,
+  "environment_model_mae_improvement_mph": -0.005186317390336093,
+  "environment_model_beats_zero_delta": false,
+  "frozen_zero_delta_baseline_mae_mph": 0.5638461538461562,
+  "simulator_environment_role": "SENSITIVITY_ONLY_ZERO_DELTA_REMAINS_CENTRAL",
+  "full_fit_intercept_mph": 0.08462857142857141,
+  "full_fit_coefficients": [
+    {
+      "feature": "delta_forecast_gust_ms",
+      "standardized_coefficient": 0.02489747627402174,
+      "raw_coefficient_mph_per_feature_unit": 0.03502418765775773,
+      "feature_mean": 0.04109473851142855,
+      "feature_std": 0.7108652031364685
+    },
+    {
+      "feature": "delta_forecast_wind_speed_10m_ms",
+      "standardized_coefficient": 0.01767313409041319,
+      "raw_coefficient_mph_per_feature_unit": 0.035816659327031715,
+      "feature_mean": 0.2662319137685714,
+      "feature_std": 0.4934333470088552
+    },
+    {
+      "feature": "delta_forecast_temp_c",
+      "standardized_coefficient": 0.017284369585912913,
+      "raw_coefficient_mph_per_feature_unit": 0.012382198175829761,
+      "feature_mean": 2.1470440075514285,
+      "feature_std": 1.3959047772028286
+    },
+    {
+      "feature": "delta_forecast_shortwave_radiation_wm2",
+      "standardized_coefficient": 0.013592520320847982,
+      "raw_coefficient_mph_per_feature_unit": 8.262287361758903e-05,
+      "feature_mean": -19.916715873017147,
+      "feature_std": 164.51280045958558
+    },
+    {
+      "feature": "delta_forecast_pressure_hpa",
+      "standardized_coefficient": 0.011455077372702979,
+      "raw_coefficient_mph_per_feature_unit": 0.012021699051477748,
+      "feature_mean": -0.9704111111228573,
+      "feature_std": 0.9528667556600398
+    },
+    {
+      "feature": "delta_forecast_cloud_cover_pct",
+      "standardized_coefficient": 0.011324823216791603,
+      "raw_coefficient_mph_per_feature_unit": 0.0003112950403199206,
+      "feature_mean": -18.73036507936572,
+      "feature_std": 36.379709760724054
+    },
+    {
+      "feature": "delta_forecast_relative_humidity_pct",
+      "standardized_coefficient": -0.008961341840710927,
+      "raw_coefficient_mph_per_feature_unit": -0.0013215368948858532,
+      "feature_mean": -8.731580197228574,
+      "feature_std": 6.7810001184151245
+    },
+    {
+      "feature": "delta_forecast_dewpoint_c",
+      "standardized_coefficient": 0.003308600499709972,
+      "raw_coefficient_mph_per_feature_unit": 0.002526836106455522,
+      "feature_mean": -0.9056921730571427,
+      "feature_std": 1.309384685163082
+    }
+  ],
+  "interpretation": "OBSERVATIONAL_SENSITIVITY_NOT_CAUSAL",
+  "2022_environment_fit_used": false,
+  "future_track_temperature_prediction": false,
+  "air_to_track_proxy": false,
+  "elapsed_time_as_track_evolution": false,
+  "next_phase": "R3B4_MONTE_CARLO_DECISION_VALUE"
+}

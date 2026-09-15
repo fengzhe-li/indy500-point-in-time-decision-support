@@ -1,0 +1,8 @@
+{
+  "command": "/Users/fengzhecharlieli/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -m unittest tests.test_pipeline",
+  "elapsed_seconds": 22.214,
+  "exit_code": 0,
+  "output": "..............................\n----------------------------------------------------------------------\nRan 30 tests in 21.973s\n\nOK\n",
+  "result": "PASS",
+  "tests_run": 30
+}

@@ -1,0 +1,9 @@
+﻿car_number,driver_name,first_attempt_id,first_speed_mph,second_attempt_id,second_speed_mph,first_has_chronology,second_has_chronology,both_attempts_have_chronology,pair_has_action_evidence,pair_actions,pair_lanes
+51,Takuma Sato,3f221659-74ff-5901-97dc-08071a734690,232.196,21e8c99e-b04c-516d-85a8-ccfbaed7ff46,231.708,True,False,False,False,,
+18,David Malukas,619575d3-e7eb-5cce-886f-0a8485b98eba,231.233,85c917fa-1c7a-52cb-a47f-468b4bdae9a5,231.607,False,False,False,False,,
+77,Callum Ilott,3cd6d98a-da75-5822-8dae-05e83ad8457c,230.212,8fa25fec-e5a6-5844-b3d7-f67c9dc91378,230.961,False,False,False,False,,
+27,Alexander Rossi,1e2facfd-2c67-5b5a-9556-04ef28eeb0d8,231.341,b3147013-0fda-5982-bea1-85788019ef89,230.812,True,True,True,False,,
+24,Sage Karam,8e0c8731-4ddc-515a-949e-7902dd01eaeb,229.905,2c453335-3a19-5653-8d5c-79d94db93028,230.464,False,False,False,False,,
+98,Marco Andretti,c044edbc-0f6c-5aab-bdef-9c4156b50617,226.108,63982b5e-7639-5140-a6a2-702a77c2fc85,230.345,False,False,False,False,,
+3,Scott McLaughlin,d2ae8749-6312-5afd-b193-dd23dc071124,231.543,43d9c081-67f5-5d6f-8b48-9db0ac683a6c,230.154,True,True,True,True,WITHDRAW_EXISTING_RESULT_AND_USE_LANE1,LANE_1
+06,Helio Castroneves,01896a4f-c482-5093-a806-89bc4273641d,225.482,90eea27e-6e83-5e24-8428-811eae3ff157,229.63,False,False,False,False,,

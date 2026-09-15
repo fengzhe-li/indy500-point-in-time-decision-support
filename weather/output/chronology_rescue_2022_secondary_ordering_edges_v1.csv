@@ -1,0 +1,3 @@
+﻿edge_id,from_attempt_id,relation,to_attempt_id,from_event,to_event,source_authority,constraint_class,notes
+R1G19-EDGE-ROSSI-1-2,1e2facfd-2c67-5b5a-9556-04ef28eeb0d8,BEFORE,b3147013-0fda-5982-bea1-85788019ef89,,,REPUTABLE_SECONDARY_EDITORIAL,ORDERING_ONLY,Corroborated Rossi first-run to second-run ordering. No wall-clock time inferred.
+R1G19-EDGE-KARAM-RESTART,,BEFORE,,FIRST_WEATHER_HOLD_LIFTED,KARAM_POST_RESTART_ATTEMPT_EVENT,REPUTABLE_SECONDARY_EDITORIAL,ORDERING_ONLY,Karam event remains event-level because specific canonical Karam attempt is unresolved.

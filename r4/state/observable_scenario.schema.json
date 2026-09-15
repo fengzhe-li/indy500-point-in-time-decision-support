@@ -1,0 +1,390 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://indy500.local/r4a/observable_scenario.schema.json",
+  "title": "R4A Pit-Wall Observable Scenario",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "fields",
+    "decision_target"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "R4A_OBSERVABLE_SCENARIO_V1"
+    },
+    "fields": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "driver_name",
+        "car_number",
+        "decision_timestamp_utc",
+        "session_start_time_utc",
+        "session_end_time_utc",
+        "session_remaining_seconds",
+        "current_valid_four_lap_average_speed_mph",
+        "current_rank",
+        "advancement_benchmark_label",
+        "advancement_benchmark_rank",
+        "current_cutoff_speed_mph",
+        "completed_attempt_count",
+        "current_result_validity",
+        "lane1_eligibility",
+        "lane2_eligibility",
+        "visible_lane1_queue_count",
+        "visible_lane2_queue_count",
+        "visible_cars_currently_queued",
+        "ambient_temperature_c",
+        "track_temperature_c",
+        "relative_humidity_percent",
+        "pressure_hpa",
+        "wind_speed_mps",
+        "wind_direction_degrees",
+        "gust_speed_mps",
+        "cloud_cover_percent",
+        "shortwave_radiation_w_m2",
+        "solar_elevation_degrees",
+        "solar_azimuth_degrees",
+        "rain_interruption_observable_state"
+      ],
+      "properties": {
+        "driver_name": {
+          "$ref": "#/$defs/stringField"
+        },
+        "car_number": {
+          "$ref": "#/$defs/stringField"
+        },
+        "decision_timestamp_utc": {
+          "$ref": "#/$defs/timestampField"
+        },
+        "session_start_time_utc": {
+          "$ref": "#/$defs/timestampField"
+        },
+        "session_end_time_utc": {
+          "$ref": "#/$defs/timestampField"
+        },
+        "session_remaining_seconds": {
+          "$ref": "#/$defs/numberField"
+        },
+        "current_valid_four_lap_average_speed_mph": {
+          "$ref": "#/$defs/numberField"
+        },
+        "current_rank": {
+          "$ref": "#/$defs/integerField"
+        },
+        "advancement_benchmark_label": {
+          "$ref": "#/$defs/stringField"
+        },
+        "advancement_benchmark_rank": {
+          "$ref": "#/$defs/integerField"
+        },
+        "current_cutoff_speed_mph": {
+          "$ref": "#/$defs/numberField"
+        },
+        "completed_attempt_count": {
+          "$ref": "#/$defs/integerField"
+        },
+        "current_result_validity": {
+          "$ref": "#/$defs/validityField"
+        },
+        "lane1_eligibility": {
+          "$ref": "#/$defs/booleanField"
+        },
+        "lane2_eligibility": {
+          "$ref": "#/$defs/booleanField"
+        },
+        "visible_lane1_queue_count": {
+          "$ref": "#/$defs/integerField"
+        },
+        "visible_lane2_queue_count": {
+          "$ref": "#/$defs/integerField"
+        },
+        "visible_cars_currently_queued": {
+          "$ref": "#/$defs/stringArrayField"
+        },
+        "ambient_temperature_c": {
+          "$ref": "#/$defs/numberField"
+        },
+        "track_temperature_c": {
+          "$ref": "#/$defs/numberField"
+        },
+        "relative_humidity_percent": {
+          "$ref": "#/$defs/numberField"
+        },
+        "pressure_hpa": {
+          "$ref": "#/$defs/numberField"
+        },
+        "wind_speed_mps": {
+          "$ref": "#/$defs/numberField"
+        },
+        "wind_direction_degrees": {
+          "$ref": "#/$defs/numberField"
+        },
+        "gust_speed_mps": {
+          "$ref": "#/$defs/numberField"
+        },
+        "cloud_cover_percent": {
+          "$ref": "#/$defs/numberField"
+        },
+        "shortwave_radiation_w_m2": {
+          "$ref": "#/$defs/numberField"
+        },
+        "solar_elevation_degrees": {
+          "$ref": "#/$defs/numberField"
+        },
+        "solar_azimuth_degrees": {
+          "$ref": "#/$defs/numberField"
+        },
+        "rain_interruption_observable_state": {
+          "$ref": "#/$defs/stringField"
+        }
+      }
+    },
+    "decision_target": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "BEAT_CURRENT_RESULT",
+            "CROSS_ADVANCEMENT_BENCHMARK",
+            "IMPROVE_RANK",
+            "REMAIN_ABOVE_CUTOFF",
+            "MAXIMIZE_EXPECTED_RANK"
+          ]
+        }
+      }
+    }
+  },
+  "$defs": {
+    "fieldBase": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "value",
+        "availability",
+        "available_at_utc",
+        "valid_at_utc",
+        "source_reference",
+        "derivation"
+      ],
+      "properties": {
+        "value": {},
+        "availability": {
+          "enum": [
+            "OBSERVED",
+            "DERIVED_FROM_OBSERVABLES",
+            "FORECAST_AVAILABLE_AT_DECISION_TIME",
+            "UNKNOWN"
+          ]
+        },
+        "available_at_utc": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "valid_at_utc": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "source_reference": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "derivation": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "availability": {
+                "const": "UNKNOWN"
+              }
+            },
+            "required": [
+              "availability"
+            ]
+          },
+          "then": {
+            "properties": {
+              "value": {
+                "type": "null"
+              },
+              "available_at_utc": {
+                "type": "null"
+              },
+              "valid_at_utc": {
+                "type": "null"
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "availability": {
+                "const": "DERIVED_FROM_OBSERVABLES"
+              }
+            },
+            "required": [
+              "availability"
+            ]
+          },
+          "then": {
+            "properties": {
+              "derivation": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    "stringField": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/fieldBase"
+        },
+        {
+          "properties": {
+            "value": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "timestampField": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/fieldBase"
+        },
+        {
+          "properties": {
+            "value": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "format": "date-time"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "numberField": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/fieldBase"
+        },
+        {
+          "properties": {
+            "value": {
+              "type": [
+                "number",
+                "null"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "integerField": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/fieldBase"
+        },
+        {
+          "properties": {
+            "value": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "booleanField": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/fieldBase"
+        },
+        {
+          "properties": {
+            "value": {
+              "type": [
+                "boolean",
+                "null"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "stringArrayField": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/fieldBase"
+        },
+        {
+          "properties": {
+            "value": {
+              "type": [
+                "array",
+                "null"
+              ],
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "validityField": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/fieldBase"
+        },
+        {
+          "properties": {
+            "value": {
+              "enum": [
+                "VALID",
+                "INVALID",
+                "NO_CURRENT_RESULT",
+                null
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

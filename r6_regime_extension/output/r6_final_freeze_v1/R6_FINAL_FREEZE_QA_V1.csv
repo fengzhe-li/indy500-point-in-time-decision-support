@@ -1,0 +1,16 @@
+check,expected,observed,pass
+REGIME_A_PRIMARY_N,10,10,True
+REGIME_C_PRIMARY_N,23,23,True
+2019_LINKAGE,10/10,10/10,True
+2025_LINKAGE,23/24,23/24,True
+FROZEN_B_TRACK,-0.03482533,-0.03482533,True
+FROZEN_B_AMBIENT,0.18239338,0.18239338,True
+ZERO_STATE_A,0.0,0.0,True
+ZERO_STATE_B,0.0,0.0,True
+ZERO_STATE_C,0.0,0.0,True
+90PCT_DIFF_ZERO_INCLUDED_A_MINUS_B_beta_track_mph_per_c,True,True,True
+90PCT_DIFF_ZERO_INCLUDED_A_MINUS_B_beta_ambient_mph_per_c,True,True,True
+90PCT_DIFF_ZERO_INCLUDED_C_MINUS_B_beta_track_mph_per_c,True,True,True
+90PCT_DIFF_ZERO_INCLUDED_C_MINUS_B_beta_ambient_mph_per_c,True,True,True
+90PCT_DIFF_ZERO_INCLUDED_A_MINUS_C_beta_track_mph_per_c,True,True,True
+90PCT_DIFF_ZERO_INCLUDED_A_MINUS_C_beta_ambient_mph_per_c,True,True,True

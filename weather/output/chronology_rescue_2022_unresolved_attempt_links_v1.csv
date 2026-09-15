@@ -1,0 +1,5 @@
+﻿year,official_result_row,car_number,driver_name,official_speed_mph,official_status,best_score,best_attempt_id,second_score,reason
+2022,41,26,"Herta, Colton",,Waved Off,12,88fe3936-d77d-5a12-bdd7-0104979729da,7,AMBIGUOUS_OR_WEAK_MATCH
+2022,42,2,"Newgarden, Josef",,No Attempt,12,a395f440-40c9-5b57-82bb-b5353a862b0f,7,AMBIGUOUS_OR_WEAK_MATCH
+2022,43,25,"Wilson, Stefan",,Incomplete,12,f2811627-1280-5eea-845c-6057e526aaea,,AMBIGUOUS_OR_WEAK_MATCH
+2022,44,24,"Karam, Sage",,No Attempt,12,4778bf12-3fb5-5321-b4ae-9dc2f0880c25,7,AMBIGUOUS_OR_WEAK_MATCH

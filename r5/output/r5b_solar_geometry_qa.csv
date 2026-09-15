@@ -1,0 +1,5 @@
+check,value,expected,status
+timezone-aware timestamps,110,110,PASS
+elevation + zenith = 90,0.0,<=1e-9,PASS
+azimuth bounds,True,True,PASS
+leakage-safe HRRR,110,110,PASS

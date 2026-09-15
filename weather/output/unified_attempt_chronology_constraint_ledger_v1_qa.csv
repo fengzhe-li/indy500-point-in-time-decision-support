@@ -1,0 +1,13 @@
+﻿metric,value,status
+ledger_rows,142,INFO
+exact_observed_constraints,0,INFO
+bounded_interval_constraints,4,INFO
+approximate_observed_constraints,4,INFO
+ordering_only_constraints,1,INFO
+performance_capture_only_constraints,133,INFO
+2022_attempt_time_constraints,0,EXPECTED_GAP
+capture_time_promoted_to_exact_run_start,0,PASS
+elapsed_duration_used_as_wall_clock,0,PASS
+result_row_order_used_as_chronology,0,PASS
+queue_wait_inferred,0,PASS
+canonical_data_mutated,0,PASS

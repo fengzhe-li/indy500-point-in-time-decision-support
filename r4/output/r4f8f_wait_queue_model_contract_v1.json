@@ -1,0 +1,99 @@
+{
+  "phase": "R4F8F",
+  "status": "R4F8F_PARTIAL_BUT_USABLE",
+  "model_version": "R4F8F_WAIT_QUEUE_MODEL_V1",
+  "decision_universe_rows": 60,
+  "action_universe_rows": 170,
+  "target": "P(wait | regime, feasible_action, available evidence)",
+  "wait_variable": {
+    "name": "LATENT_PRE_RUN_DELAY_TO_TIMED_RUN_START_MINUTES",
+    "start": "action commitment / entry into the future attempt-opportunity process",
+    "end": "start of the timed qualifying run",
+    "includes": [
+      "latent queue delay",
+      "staging delay",
+      "release delay"
+    ],
+    "excludes": [
+      "timed four-lap run duration",
+      "performance outcome",
+      "competitor evolution",
+      "completion-before-cutoff determination"
+    ]
+  },
+  "sampler": {
+    "type": "CATEGORICAL_SUPPORT_POINT",
+    "deterministic_seed_interface_required": true,
+    "no_draws_materialized_in_r4f8f": true,
+    "parameter_file": "r4/output/r4f8f_action_wait_distribution_parameters_v1.csv"
+  },
+  "non_stop_prior": {
+    "distribution_family": "DISCRETE_MAXIMUM_ENTROPY_STRUCTURAL_PRIOR",
+    "support_minutes": [
+      5.0,
+      15.0,
+      30.0,
+      45.0
+    ],
+    "probability_mass": [
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ],
+    "empirical_claim": false,
+    "reason_for_sharing": "No direct historical queue-wait pairs or defensible action-specific calibration are available."
+  },
+  "action_semantics": {
+    "DAY1::STOP": {
+      "queue_semantics": "NO_QUEUE_NO_WAIT_NO_NEW_ATTEMPT",
+      "protection_semantics": "CURRENT_PROTECTED_RESULT_RETAINED"
+    },
+    "DAY1::RETAIN_AND_REATTEMPT": {
+      "queue_semantics": "DAY1_LANE2_NON_PRIORITY",
+      "protection_semantics": "CURRENT_PROTECTED_RESULT_RETAINED"
+    },
+    "DAY1::WITHDRAW_AND_PRIORITY_REATTEMPT": {
+      "queue_semantics": "DAY1_LANE1_PRIORITY",
+      "protection_semantics": "CURRENT_PROTECTED_RESULT_SURRENDERED"
+    },
+    "LAST_CHANCE::STOP": {
+      "queue_semantics": "NO_QUEUE_NO_WAIT_NO_NEW_ATTEMPT",
+      "protection_semantics": "CURRENT_STATE_RETAINED"
+    },
+    "LAST_CHANCE::REATTEMPT": {
+      "queue_semantics": "LAST_CHANCE_UNPROTECTED_REATTEMPT",
+      "protection_semantics": "NO_PROTECTED_RESULT_EXISTS"
+    },
+    "LAST_CHANCE::WITHDRAW_AND_REATTEMPT": {
+      "queue_semantics": "LAST_CHANCE_PROTECTED_WITHDRAW",
+      "protection_semantics": "CURRENT_PROTECTED_RESULT_SURRENDERED"
+    }
+  },
+  "stop_rule": {
+    "wait_minutes": 0.0,
+    "deterministic": true,
+    "stochastic_draws_allowed": false,
+    "requires_new_attempt": false
+  },
+  "last_chance": {
+    "prior": "BROAD_LATENT_PRE_RUN_DELAY_PRIOR_V1",
+    "support_level": "WEAK",
+    "broad_structural_prior_required": true,
+    "fabricated_timestamps": false
+  },
+  "cutoff_boundary": {
+    "completion_before_cutoff": "NOT_DEFINED_IN_R4F8F",
+    "required_future_input": "decision-safe session remaining / cutoff policy plus timed-run-duration component",
+    "unknown_session_remaining_is_infinite": false
+  },
+  "forbidden_uses": [
+    "Treating inter-attempt gaps as queue wait",
+    "Inferring queue-entry timestamps",
+    "Fabricating Last Chance decision timestamps",
+    "Fabricating exact session remaining",
+    "Reusing old R4P11 final action probabilities",
+    "Treating generated old R4P11 draws as observations"
+  ],
+  "downstream_boundary": "No performance uncertainty engine, final action Monte Carlo, or historical replay is run in R4F8F."
+}

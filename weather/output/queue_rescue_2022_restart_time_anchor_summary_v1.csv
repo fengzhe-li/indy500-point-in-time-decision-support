@@ -1,0 +1,7 @@
+﻿metric,value
+files_scanned,83
+candidate_rows,12
+priority_time_anchor_rows,0
+exact_queue_waits_derived,0
+bounded_queue_waits_derived,0
+inter_attempt_gap_used_as_wait,0

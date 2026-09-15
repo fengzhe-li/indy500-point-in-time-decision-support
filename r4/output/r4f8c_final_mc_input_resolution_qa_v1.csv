@@ -1,0 +1,6 @@
+metric,value,expected,status
+f8b_decision_rows,50,50,PASS
+f8b_action_rows,150,150,PASS
+last_chance_interface_rows,10,10,PASS
+wait_queue_candidate_source_found,17,>0,PASS
+schema_resolution_only_no_mc_run,True,True,PASS

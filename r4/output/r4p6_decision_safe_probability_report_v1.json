@@ -1,0 +1,39 @@
+{
+  "phase": "R4P6",
+  "purpose": "Train a decision-time-safe conditional probability model for whether a future complete qualifying attempt improves the current four-lap average.",
+  "input_transition_rows": 92,
+  "point_timed_transition_rows": 40,
+  "safe_cycle_rows": 40,
+  "conditional_training_rows": 5,
+  "availability_guard_minutes": 60,
+  "future_realized_weather_used": false,
+  "queue_model_used": false,
+  "historical_future_run_time_role": "Used only as supervised candidate-time alignment for the forecast available at decision time.",
+  "validation": "leave-one-year-out",
+  "per_year": {
+    "2020": {
+      "rows": 1,
+      "mean_historical_candidate_wait_min": 74.25,
+      "min_historical_candidate_wait_min": 74.25,
+      "max_historical_candidate_wait_min": 74.25
+    },
+    "2021": {
+      "rows": 1,
+      "mean_historical_candidate_wait_min": 20.766667,
+      "min_historical_candidate_wait_min": 20.766667,
+      "max_historical_candidate_wait_min": 20.766667
+    },
+    "2023": {
+      "rows": 3,
+      "mean_historical_candidate_wait_min": 79.57777766666668,
+      "min_historical_candidate_wait_min": 53.266667,
+      "max_historical_candidate_wait_min": 103.783333
+    }
+  },
+  "important_limitations": [
+    "This is conditional on a candidate future run time; the model does not predict queue waiting time.",
+    "HRRR atmospheric forecast does not directly forecast track-surface temperature.",
+    "Dataset remains small and concentrated in 2020, 2021 and 2023.",
+    "No causal claim is made."
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "phase": "R4F7C3",
+  "status": "R4F7C3_DEVELOPMENT_BASELINE_COMPARISON_READY",
+  "development_rows": 104,
+  "development_years": [
+    2020,
+    2021,
+    2023
+  ],
+  "validation_2024_access_policy": "NOT_READ",
+  "thermal_features": [
+    "ptsc_track_temp_c_past_safe",
+    "ptsc_track_temp_slope_c_per_min_past_safe",
+    "forecast_temp_c",
+    "forecast_relative_humidity_pct",
+    "forecast_wind_speed_10m_ms",
+    "forecast_pressure_hpa",
+    "forecast_gust_ms",
+    "forecast_cloud_cover_pct",
+    "forecast_shortwave_radiation_wm2",
+    "forecast_wind_direction_sin",
+    "forecast_wind_direction_cos"
+  ],
+  "models": [
+    "YEAR_INTERCEPT_ONLY",
+    "FAST_FRIDAY_REFERENCE_ONLY",
+    "FAST_FRIDAY_PLUS_THERMAL_RIDGE",
+    "FAST_FRIDAY_PLUS_THERMAL_HUBER"
+  ],
+  "aggregate_metrics": [
+    {
+      "validation_scheme": "DRIVER_GROUPED_5FOLD",
+      "model": "YEAR_INTERCEPT_ONLY",
+      "n": 104,
+      "mae_mph": 1.197826693163154,
+      "rmse_mph": 1.767257477127249,
+      "bias_mph": 0.010343337041167189,
+      "correlation": 0.44610968783829397
+    },
+    {
+      "validation_scheme": "DRIVER_GROUPED_5FOLD",
+      "model": "FAST_FRIDAY_REFERENCE_ONLY",
+      "n": 104,
+      "mae_mph": 0.8603942307692318,
+      "rmse_mph": 1.1283224827149367,
+      "bias_mph": 0.685759615384616,
+      "correlation": 0.8952101582326827
+    },
+    {
+      "validation_scheme": "DRIVER_GROUPED_5FOLD",
+      "model": "FAST_FRIDAY_PLUS_THERMAL_RIDGE",
+      "n": 104,
+      "mae_mph": 0.6210645907344868,
+      "rmse_mph": 0.9053191320794118,
+      "bias_mph": 0.007886276362716362,
+      "correlation": 0.9024043789493433
+    },
+    {
+      "validation_scheme": "DRIVER_GROUPED_5FOLD",
+      "model": "FAST_FRIDAY_PLUS_THERMAL_HUBER",
+      "n": 104,
+      "mae_mph": 0.6164633387238104,
+      "rmse_mph": 0.8773951617698691,
+      "bias_mph": 0.009888899219628109,
+      "correlation": 0.9049735307962264
+    },
+    {
+      "validation_scheme": "LEAVE_ONE_YEAR_OUT",
+      "model": "YEAR_INTERCEPT_ONLY",
+      "n": 104,
+      "mae_mph": 1.4422940048678117,
+      "rmse_mph": 2.1443385093032012,
+      "bias_mph": 0.16203700581026526,
+      "correlation": -0.5012563112146164
+    },
+    {
+      "validation_scheme": "LEAVE_ONE_YEAR_OUT",
+      "model": "FAST_FRIDAY_REFERENCE_ONLY",
+      "n": 104,
+      "mae_mph": 0.8603942307692318,
+      "rmse_mph": 1.1283224827149367,
+      "bias_mph": 0.685759615384616,
+      "correlation": 0.8952101582326827
+    },
+    {
+      "validation_scheme": "LEAVE_ONE_YEAR_OUT",
+      "model": "FAST_FRIDAY_PLUS_THERMAL_RIDGE",
+      "n": 104,
+      "mae_mph": 0.8117935130286302,
+      "rmse_mph": 1.0764904986424153,
+      "bias_mph": 0.015407176929123797,
+      "correlation": 0.8442541370540145
+    },
+    {
+      "validation_scheme": "LEAVE_ONE_YEAR_OUT",
+      "model": "FAST_FRIDAY_PLUS_THERMAL_HUBER",
+      "n": 104,
+      "mae_mph": 2.4312824445218824,
+      "rmse_mph": 3.225528501832958,
+      "bias_mph": -2.37201490785925,
+      "correlation": 0.652241215020095
+    }
+  ],
+  "raw_reference_by_year": [
+    {
+      "year": 2020,
+      "n": 39,
+      "reference_only_mae": 1.0107692307692333,
+      "reference_only_rmse": 1.1790343941395887,
+      "reference_bias_pred_minus_actual": 0.8820512820512822,
+      "residual_mean_actual_minus_reference": -0.8820512820512822,
+      "residual_median_actual_minus_reference": -0.9550000000000125
+    },
+    {
+      "year": 2021,
+      "n": 48,
+      "reference_only_mae": 0.8443125000000009,
+      "reference_only_rmse": 1.1894285304996948,
+      "reference_bias_pred_minus_actual": 0.6961041666666681,
+      "residual_mean_actual_minus_reference": -0.6961041666666681,
+      "residual_median_actual_minus_reference": -0.5855000000000103
+    },
+    {
+      "year": 2023,
+      "n": 17,
+      "reference_only_mae": 0.5608235294117625,
+      "reference_only_rmse": 0.7776781430113883,
+      "reference_bias_pred_minus_actual": 0.20623529411764707,
+      "residual_mean_actual_minus_reference": -0.20623529411764707,
+      "residual_median_actual_minus_reference": -0.22700000000000387
+    }
+  ],
+  "top_reference_residual_outliers": [
+    {
+      "attempt_id": "7d5d82b7-9765-51c9-b149-cb7de00d3905",
+      "year": 2021,
+      "driver_name": "Jack Harvey",
+      "reference_speed_mph": 230.84,
+      "observed_speed_mph": 225.496,
+      "reference_residual_mph": -5.343999999999994
+    },
+    {
+      "attempt_id": "90108456-7f40-5313-a9ff-43273b65d2f0",
+      "year": 2021,
+      "driver_name": "Colton Herta",
+      "reference_speed_mph": 232.784,
+      "observed_speed_mph": 230.229,
+      "reference_residual_mph": -2.5549999999999784
+    },
+    {
+      "attempt_id": "a7f0ef57-a971-5870-9606-1fe1cd378e2a",
+      "year": 2020,
+      "driver_name": "Conor Daly",
+      "reference_speed_mph": 232.337,
+      "observed_speed_mph": 229.884,
+      "reference_residual_mph": -2.453000000000003
+    },
+    {
+      "attempt_id": "df3c02a3-9655-512c-a2e6-4ffe9eadc505",
+      "year": 2020,
+      "driver_name": "Conor Daly",
+      "reference_speed_mph": 232.337,
+      "observed_speed_mph": 229.955,
+      "reference_residual_mph": -2.3819999999999766
+    },
+    {
+      "attempt_id": "333cf68d-54d9-5559-ac70-c73c27086892",
+      "year": 2023,
+      "driver_name": "Callum Ilott",
+      "reference_speed_mph": 228.942,
+      "observed_speed_mph": 231.182,
+      "reference_residual_mph": 2.2399999999999807
+    },
+    {
+      "attempt_id": "f50bf607-2eaa-51a1-a6d0-2049fcaf3dcd",
+      "year": 2020,
+      "driver_name": "Marco Andretti",
+      "reference_speed_mph": 233.491,
+      "observed_speed_mph": 231.351,
+      "reference_residual_mph": -2.140000000000015
+    },
+    {
+      "attempt_id": "1a120ea2-c723-5585-8ec6-30169bb44ca7",
+      "year": 2020,
+      "driver_name": "JR Hildebrand",
+      "reference_speed_mph": 228.275,
+      "observed_speed_mph": 226.341,
+      "reference_residual_mph": -1.9339999999999975
+    },
+    {
+      "attempt_id": "a5d8e516-48e0-58b8-ac13-213c753fc12d",
+      "year": 2021,
+      "driver_name": "Dalton Kellett",
+      "reference_speed_mph": 230.197,
+      "observed_speed_mph": 228.323,
+      "reference_residual_mph": -1.8739999999999952
+    },
+    {
+      "attempt_id": "e7089fb7-0048-5bb8-8589-cc5bbc59a6cd",
+      "year": 2020,
+      "driver_name": "Jack Harvey",
+      "reference_speed_mph": 231.6,
+      "observed_speed_mph": 229.757,
+      "reference_residual_mph": -1.8429999999999893
+    },
+    {
+      "attempt_id": "75519828-93ba-5485-a4bf-a06b93f7cec3",
+      "year": 2020,
+      "driver_name": "Max Chilton",
+      "reference_speed_mph": 227.61,
+      "observed_speed_mph": 225.819,
+      "reference_residual_mph": -1.7910000000000252
+    }
+  ],
+  "interpretation_policy": {
+    "driver_grouped_cv": "Primary same-regime development comparison. Rows from the same driver never cross train/test.",
+    "leave_one_year_out": "Cross-year transfer stress test. Not identical to future same-year pit-wall operation.",
+    "year_intercept_loyo": "Held-out year has no trained year intercept, therefore predictor falls back to global training mean.",
+    "outliers": "No observations are removed from primary metrics. Huber is included as a robustness model."
+  },
+  "input_hash": "7eb79eae44b7de126d0a3a3947b31bd3d95ad405ecb1a1da051fe1220aece802",
+  "next_phase_rule": "Do not open 2024 validation yet. First determine whether thermal information improves development CV over Fast Friday reference-only. Then introduce hierarchical entry correction and latent-window dynamics."
+}

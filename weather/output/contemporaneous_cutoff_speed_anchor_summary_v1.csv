@@ -1,0 +1,9 @@
+﻿metric,value
+state_ledger_input,V1
+state_ledger_output,V2
+malukas_p12_cutoff_speed_mph,231.607
+sato_p12_cutoff_speed_mph,231.708
+cutoff_speed_increase_mph,0.101
+known_cutoff_speed_rows,2
+exact_timestamp_rows,0
+derivation_class,DERIVED_FROM_CONTEMPORANEOUS_P12_ATTEMPT_BINDING

@@ -1,0 +1,17 @@
+{
+  "phase": "R3B.2A",
+  "r3b2_2022_driver_specific_environment_ready": false,
+  "r3b2_reason": "DECISION_TIME_NOT_IDENTIFIABLE",
+  "hrrr_old_builder_schema_mismatch": false,
+  "hrrr_missing_old_builder_fields": [],
+  "timed_subset_years": [
+    "2020",
+    "2021",
+    "2023"
+  ],
+  "timed_subset_fully_joinable_rows": 129,
+  "timed_subset_mechanism_modeling_ready": true,
+  "2022_future_weather_policy": "LATENT_DECISION_TIME_OR_TIME_AGNOSTIC_SENSITIVITY_ONLY",
+  "2022_historical_weather_truth_claim": false,
+  "next_phase": "R3B3_TIMED_SUBSET_PERFORMANCE_ENVIRONMENT_SENSITIVITY"
+}

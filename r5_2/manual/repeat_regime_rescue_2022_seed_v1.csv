@@ -1,0 +1,9 @@
+year,car_number,driver_name,before_speed_mph,after_speed_mph,before_regime,after_regime,time_quality,source_authority,notes
+2022,3,Scott McLaughlin,231.543,230.154,PRE_RAIN,POST_RAIN_COOLER,REGIME_BOUNDED,NBC_PLUS_OFFICIAL,Withdrew 231.543 to try for Fast 12. Qualifying then paused about 90 min by lightning/rain. Second run 230.154 occurred after restart on cooler track.
+2022,51,Takuma Sato,232.196,231.708,INITIAL_FIELD_SWEEP,LATER_ATTEMPT,ORDER_ONLY,INDYCAR_OFFICIAL,"First 232.196 invalidated for impeding Andretti; forced to make a second attempt, resulting 231.708."
+2022,18,David Malukas,231.233,231.607,INITIAL_FIELD_SWEEP,LATER_ATTEMPT,ORDER_ONLY,PUBLIC_SECONDARY,Multiple-attempt sequence independently reported.
+2022,77,Callum Ilott,230.212,230.961,INITIAL_FIELD_SWEEP,LATER_ATTEMPT,ORDER_ONLY,PUBLIC_SECONDARY,Multiple-attempt sequence independently reported.
+2022,24,Sage Karam,229.905,230.464,INITIAL_FIELD_SWEEP,LATER_ATTEMPT,ORDER_ONLY,PUBLIC_SECONDARY,Multiple-attempt sequence independently reported.
+2022,27,Alexander Rossi,231.341,230.812,INITIAL_FIELD_SWEEP,LATER_ATTEMPT,ORDER_ONLY,NBC_PLUS_SECONDARY,Rossi made a later attempt to improve but dropped from 231.341 to 230.812.
+2022,6,Helio Castroneves,225.482,229.63,INITIAL_FIELD_SWEEP,LATER_ATTEMPT,ORDER_ONLY,PUBLIC_SECONDARY_PLUS_OFFICIAL_RESULT,Large improvement on repeat attempt; exact timing still unresolved.
+2022,98,Marco Andretti,226.108,230.345,INITIAL_FIELD_SWEEP,LATER_ATTEMPT,ORDER_ONLY,PUBLIC_SECONDARY,Large improvement on repeat attempt; exact timing still unresolved.

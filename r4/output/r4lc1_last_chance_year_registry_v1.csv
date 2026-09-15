@@ -1,0 +1,7 @@
+year,session_regime,last_chance_held,session_name,entry_count,reason,model_role,official_source_status
+2020,NONE,False,,33,Exactly 33 entries; no Last Chance/Last Row session required.,DAY1_ONLY,VERIFIED
+2021,LAST_ROW,True,Qualifications - Last Row,35,More than 33 entries; Last Row qualifying was held.,LAST_CHANCE_TRAINING_CANDIDATE,VERIFIED
+2022,NONE,False,,33,Exactly 33 entries; scheduled Last Chance was not required.,DAY1_DEGRADED_VALIDATION_CANDIDATE,VERIFIED
+2023,LAST_CHANCE,True,Qualifications - Last Chance,34,More than 33 entries; Last Chance qualifying was held.,LAST_CHANCE_TRAINING_CANDIDATE,VERIFIED
+2024,LAST_CHANCE,True,Qualifications - Last Chance,34,More than 33 entries; Last Chance qualifying was held.,LAST_CHANCE_TRAINING_OR_SPARSE_TIMING_VALIDATION_CANDIDATE,VERIFIED
+2025,LAST_CHANCE,True,Qualifications - Last Chance,34,More than 33 entries; Last Chance qualifying was held.,CROSS_TECHNICAL_REGIME_VALIDATION_CANDIDATE,VERIFIED

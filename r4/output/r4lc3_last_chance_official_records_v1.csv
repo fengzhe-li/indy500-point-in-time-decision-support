@@ -1,0 +1,16 @@
+BestLapTime,BestSpeed,BestSpeedFormatted,CarNumber,Difference,DriverName,DriverOverrideID,DriverUrl,DriversID,ElapsedTime,EventsEntrylistID,EventsSessionsDetailsID,EventsSessionsID,FirstName,Gap,InLap,IsDeleted,LapsComplete,LapsDown,LapsLed,LastName,PitStops,PointsEarned,PositionFinish,PositionStart,QualLap1,QualLap2,QualLap3,QualLap4,SpeedAvg,SpeedAvgFormatted,Status,TeamName,TimesLed,record_index,session_id,year
+,,,24,,Sage Karam,4247,,4247,02:37.0982,33926,101338,5847,Sage,,,False,,,,Karam,,,31,,39.1250,39.2288,39.3235,39.4209,229.156,229.156,,Dreyer & Reinbold Racing,,1,5847,2021
+,,,12,,Will Power,3667,/Drivers/Will-Power,3667,02:37.2905,33904,101339,5847,Will,,,False,,,,Power,,,32,,39.1215,39.2831,39.3316,39.5543,228.876,228.876,,Team Penske,,2,5847,2021
+,,,16,,Simona De Silvestro,3813,,3813,02:37.6504,33924,101340,5847,Simona,,,False,,,,De Silvestro,,,33,,39.3222,39.3830,39.4528,39.4924,228.353,228.353,,Paretta Autosport,,3,5847,2021
+,,,11,,Charlie Kimball,4144,,4144,02:38.0256,33923,101341,5847,Charlie,,,False,,,,Kimball,,,72,,39.4129,39.4789,39.5297,39.6041,227.811,227.811,,A.J. Foyt Enterprises,,4,5847,2021
+,,,11,,Charlie Kimball,4144,,4144,02:38.1831,33923,101342,5847,Charlie,,,False,,,,Kimball,,,73,,39.4758,39.5510,39.5601,39.5962,227.584,227.584,,A.J. Foyt Enterprises,,5,5847,2021
+,,,75,,RC Enerson,4442,,4442,02:38.3823,33929,101343,5847,RC,,,False,,,,Enerson,,,74,,39.4854,39.5940,39.6357,39.6672,227.298,227.298,,Top Gun Racing,,6,5847,2021
+,,,75,,RC Enerson,4442,,4442,02:38.7212,33929,101344,5847,RC,,,False,,,,Enerson,,,75,,39.6084,39.6850,39.6822,39.7456,226.813,226.813,,Top Gun Racing,,7,5847,2021
+,,,45,,Christian Lundgaard,4938,/Drivers/Christian-Lundgaard,4938,02:36.7607,35311,108667,6205,Christian,,,False,,,,Lundgaard,,,1,,39.0753,39.1685,39.2377,39.2792,229.649,229.649,,Rahal Letterman Lanigan Racing,,1,6205,2023
+,,,51,,Sting Ray Robb,4613,/Drivers/Sting-Ray-Robb,4613,02:36.8293,35312,108668,6205,Sting Ray,,,False,,,,Robb,,,2,,39.1195,39.2052,39.2133,39.2913,229.549,229.549,,Dale Coyne Racing with RWR,,2,6205,2023
+,,,30,,Jack Harvey,4505,/Drivers/Jack-Harvey,4505,02:37.0916,35310,108669,6205,Jack,,,False,,,,Harvey,,,3,,39.2268,39.2873,39.2712,39.3063,229.166,229.166,,Rahal Letterman Lanigan Racing,,3,6205,2023
+,,,15,,Graham Rahal,3668,/Drivers/Graham-Rahal,3668,02:37.0960,35302,108670,6205,Graham,,,False,,,,Rahal,,,4,,39.1960,39.2503,39.3056,39.3441,229.159,229.159,,Rahal Letterman Lanigan Racing,,4,6205,2023
+,,,51,,Katherine Legge,4401,/Drivers/Katherine-Legge,4401,02:36.4590,36798,113314,6385,Katherine,,,False,,,,Legge,,,1,,38.9927,39.0237,39.1150,39.3276,230.092,230.092,,Dale Coyne Racing,,1,6385,2024
+,,,28,,Marcus Ericsson,4905,/Drivers/Marcus-Ericsson,4905,02:36.5037,36790,113315,6385,Marcus,,,False,,,,Ericsson,,,2,,39.0165,39.1208,39.1753,39.1911,230.027,230.027,,Andretti Global,,2,6385,2024
+,,,15,,Graham Rahal,3668,/Drivers/Graham-Rahal,3668,02:36.5396,36784,113316,6385,Graham,,,False,,,,Rahal,,,3,,39.0632,39.1307,39.1589,39.1868,229.974,229.974,,Rahal Letterman Lanigan Racing,,3,6385,2024
+,,,18,,Nolan Siegel,4915,/Drivers/Nolan-Siegel,4915,02:36.8174,36785,113317,6385,Nolan,,,False,,,,Siegel,,,4,,39.1631,39.1686,39.2231,39.2626,229.566,229.566,,Dale Coyne Racing,,4,6385,2024

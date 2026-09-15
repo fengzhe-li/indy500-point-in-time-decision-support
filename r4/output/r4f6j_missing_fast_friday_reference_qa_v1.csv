@@ -1,0 +1,19 @@
+metric,value,expected,status
+protected_r4f6g_v2_r4f6h_r4f6i_hashes,True,True,PASS
+protected_artifact_count,23,23,PASS
+pdf_api_crosscheck_rows,100,100,PASS
+pdf_signature_checks,3,3,PASS
+new_evidence_rows,108,108,PASS
+candidate_unique_year_driver,171,171,PASS
+candidate_rows,171,171,PASS
+legacy_shared_fields_exact,True,True,PASS
+car_number_values_are_strings,True,True,PASS
+leading_zero_and_plain_car_numbers_distinct,True,True,PASS
+2024_validation_only,{'VALIDATION_ONLY'},{'VALIDATION_ONLY'},PASS
+2025_transfer_only,{'TECHNICAL_REGIME_TRANSFER'},{'TECHNICAL_REGIME_TRANSFER'},PASS
+2020_2022_explicit_provenance,True,True,PASS
+reference_type_priorities,True,True,PASS
+ordinary_best_laps_not_mislabeled,True,True,PASS
+source_urls_and_paths_retained,True,True,PASS
+download_failure_semantics,RECOVERED,"Failure would remain unresolved, not NONEXISTENT",PASS
+2025_published_speed_outlier_preserved,Kyffin Simpson 12.875 mph,Preserve official value with warning,WARN

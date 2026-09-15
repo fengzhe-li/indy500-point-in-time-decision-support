@@ -1,0 +1,10 @@
+﻿metric,value,status
+result_match_v3_policy_preserved,1,PASS
+html_block_boundaries_enforced,1,PASS
+rossi_first_second_terms_attributed_to_ilott,0,PASS
+automatic_promotions,0,PASS
+result_row_order_used_as_chronology,0,PASS
+retired_status_used_as_action,0,PASS
+queue_wait_inferred,0,PASS
+canonical_mutated,0,PASS
+phase5_to_phase8_mutated,0,PASS

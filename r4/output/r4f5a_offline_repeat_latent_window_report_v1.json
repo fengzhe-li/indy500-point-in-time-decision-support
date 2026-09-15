@@ -1,0 +1,15 @@
+{
+  "phase": "R4F5A",
+  "status": "R4F5A_OFFLINE_REPEAT_LATENT_WINDOW_TARGET_READY",
+  "repeat_residuals": 40,
+  "grid_step_minutes": 5,
+  "smoothing_half_width_minutes": 30,
+  "target_rows": 140,
+  "methodology": [
+    "Complete historical repeat residuals are allowed because this phase constructs an OFFLINE target.",
+    "The target is not used as a decision-time input.",
+    "One car contributes at most one closest repeat residual to each time-grid estimate.",
+    "This is a first sparse target layer. Fast Friday and first-run hierarchical priors may be added later through partial pooling."
+  ],
+  "next_phase": "Evaluate whether repeat-only target density is sufficient. If sparse, add pre-session / first-run hierarchical normalization to obtain a denser latent performance-window target."
+}

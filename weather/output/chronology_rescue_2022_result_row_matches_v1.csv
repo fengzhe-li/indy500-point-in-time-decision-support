@@ -1,0 +1,5 @@
+﻿year,match_type,car_number,driver_name,speed_mph,official_result_row,official_status,source_file,source_line_number
+2022,FIRST_15_MINUTES,21,Rinus VeeKay,233.655,1,,2022_6033_01_Results.txt,8
+2022,FIRST_15_MINUTES,5,Pato O'Ward,233.037,2,,2022_6033_01_Results.txt,9
+2022,FIRST_15_MINUTES,7,Felix Rosenqvist,232.775,3,,2022_6033_01_Results.txt,10
+2022,SATO_BEFORE_ANDRETTI,51,Takuma Sato,232.196,33,Failed Attempt,2022_6033_01_Results.txt,40

@@ -1,0 +1,14 @@
+﻿metric,value,status
+seed_pages_expected_5,5,PASS
+successful_seed_pages,5,PASS
+official_scripts_fetch_attempted,5,INFO
+successful_official_script_fetches,5,PASS
+scripts_with_high_value_hits,5,INFO
+inline_data_candidate_rows,0,INFO
+endpoint_candidate_rows,595,PASS
+high_value_endpoint_candidates_score_ge_15,595,INFO
+api_json_graphql_candidates,65,INFO
+years_with_endpoint_candidates,"2020,2021,2022,2023,2024",PASS
+canonical_data_mutated,0,PASS
+scripts_executed,0,PASS
+policy_hash,4b7969c43f0a6dde441347072b0d24d7c204f2c53d8ab71bae0f8e681ab24359,INFO

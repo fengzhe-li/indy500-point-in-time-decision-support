@@ -1,0 +1,13 @@
+metric,value,expected,status
+decision_rows,60,60,PASS
+action_rows,170,170,PASS
+unique_decision_ids,60,60,PASS
+stop_action_present,60,>0,PASS
+performance_sample_ready_decisions,59,59,PASS
+decisions_with_unique_uncertainty_match,60,60,PASS
+decision_safe_exact_session_remaining,0,0,PASS
+decision_timestamp_available,50,50,PASS
+nonstop_actions_with_wait_model,110,110,PASS
+stop_wait_deterministic_zero,True,True,PASS
+action_rows_core_ready_except_cutoff,169,<=170; report measured,PASS
+actions_with_decision_safe_cutoff_completion_input,0,0,PASS

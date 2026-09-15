@@ -1,0 +1,204 @@
+path,rows,field,nonempty_count,unique_nonempty_count,examples
+canonical_year_summary.csv,5,attempt_count,5,5,63 | 60 | 44 | 85 | 77
+canonical_year_summary.csv,5,repeated_attempt_count_where_supportable,5,5,25 | 23 | 8 | 34 | 4
+2024_inter_attempt_gap_diagnostics.csv,0,next_attempt_id,0,0,
+year_coverage_audit.csv,5,withdrawal_coverage,5,5,status direct; exact withdrawal times unknown | partial; Power withdrawal bracketed before 17:33 next attempt | Newgarden withdrawal/reinstatement known; timing incomplete | withdrawn status direct; exact times mostly unknown | partial; selected forfeiture timed
+year_coverage_audit.csv,5,pit_requeue_coverage,5,5,partial pit/out state; requeue not identified | partial pit entry/exit; queue/requeue identity not systematic | unavailable | unknown | unavailable systematically; replay exposes no reliable queue/route field
+r4/output/r4f1_day1_fused_interface_v1.csv,138,later_attempt_count,138,4,1 | 0 | 2 | 3
+r4/output/r4f1_day1_fused_interface_v1.csv,138,action_mask_RETAIN_AND_REATTEMPT,138,2,True | False
+r4/output/r4f1_day1_fused_interface_v1.csv,138,action_mask_WITHDRAW_AND_REATTEMPT,138,1,False
+r4/output/r4f1_day1_fused_interface_v1.csv,138,action_mask_WITHDRAW_AND_PRIORITY_REATTEMPT,138,2,True | False
+r4/output/r4f1_day1_fused_interface_v1.csv,138,observed_action_unified,138,2,REATTEMPT_SEMANTICS_UNRESOLVED | STOP
+r4/output/r4f1_day1_fused_interface_v1.csv,138,observed_action_quality,138,2,PARTIAL | HIGH
+r4/output/r4f1_day1_fused_interface_v1.csv,138,observed_action_evidence,138,7,|  | UNKNOWN | NO_LATER_ATTEMPT_OBSERVED | LATER_SECOND_RUN | UNKNOWN | UNKNOWN | REPEAT_ATTEMPT_IMPROVED | UNKNOWN | UNKNOWN | SECOND_ATTEMPT | UNKNOWN | UNKNOWN | REQUIRED_REATTEMPT_AFTER_INVALIDATION | UNKNOWN | UNKNOWN
+r4/output/r4f8h_g_action_mc_scenario_results_v1.csv,1183,current_result_speed_mph,1141,57,230.254 | 229.154 | 229.811 | 228.836 | 227.099 | 231.268
+r4/output/r4f8h_g_action_mc_scenario_results_v1.csv,1183,expected_final_result_speed_conditional_mph,1103,724,230.254 | 230.2959399515034 | 230.29617473116596 | 230.34418728361828 | 230.34140585088227 | 230.3822101448261
+r4/output/r4f8h_g_action_mc_scenario_results_v1.csv,1183,final_speed_q05_mph,1103,413,230.254 | 227.97000109747952 | 227.98704461718808 | 228.04199146557318 | 227.99311902232532 | 228.00361567767837
+r4/output/r4f8h_g_action_mc_scenario_results_v1.csv,1183,final_speed_q25_mph,1103,418,230.254 | 228.98380506340678 | 228.96225315470073 | 229.02482075443336 | 228.97128635882336 | 228.9993560513778
+r4/output/r4f8h_g_action_mc_scenario_results_v1.csv,1183,final_speed_q50_mph,1103,454,230.254 | 229.65084601530003 | 229.66179812737943 | 229.68447251779975 | 229.64305167089083 | 229.68444043160073
+r4/output/r4f8h_g_action_mc_scenario_results_v1.csv,1183,final_speed_q75_mph,1103,549,230.254 | 230.36310772089308 | 230.36378102713417 | 230.32771635541638 | 230.37143058389577 | 230.33729349581867
+r4/output/r4f8h_g_action_mc_scenario_results_v1.csv,1183,final_speed_q95_mph,1103,696,230.254 | 230.47985019777406 | 230.49451644643216 | 230.98492084994916 | 230.96592173847856 | 231.16332528035468
+r4/output/r4f8h_h_priority_break_even_summary_v1.csv,350,current_result_speed_mph,350,50,230.254 | 229.154 | 229.811 | 228.836 | 227.099 | 231.268
+r4/output/r4f8h_h_priority_break_even_summary_v1.csv,350,withdraw_downside_probability_at_crossover,145,145,0.8834 | 0.76165 | 0.76635 | 0.6422 | 0.64955 | 0.5341
+r4/output/r4f8h_h_priority_break_even_summary_v1.csv,350,withdraw_no_result_probability_at_crossover,145,110,0.75235 | 0.496 | 0.49865 | 0.245 | 0.24935 | 0.0
+r4/output/r4f1_day1_fused_interface_summary_v1.csv,5,RETAIN_AND_REATTEMPT,5,1,0
+r4/output/r4f1_day1_fused_interface_summary_v1.csv,5,WITHDRAW_AND_PRIORITY_REATTEMPT,5,1,0
+r4/output/r4f4_decision_window_residual_context_v1.csv,50,historical_action_required_for_engine,50,1,False
+r4/output/r4f8h_h_priority_benefit_sensitivity_results_v1.csv,1400,current_result_speed_mph,1400,50,230.254 | 229.154 | 229.811 | 228.836 | 227.099 | 231.268
+r4/output/r4f8h_h_priority_benefit_sensitivity_results_v1.csv,1400,retain_p_completed,1400,215,0.0 | 0.2516 | 0.2493 | 0.503 | 0.4961 | 0.74855
+r4/output/r4f8h_h_priority_benefit_sensitivity_results_v1.csv,1400,retain_p_final_result_exists,1400,1,1.0
+r4/output/r4f8h_h_priority_benefit_sensitivity_results_v1.csv,1400,retain_p_final_meets_benchmark,1400,140,1.0 | 0.0 | 0.018 | 0.0159 | 0.03335 | 0.0309
+r4/output/r4f8h_h_priority_benefit_sensitivity_results_v1.csv,1400,retain_p_final_improves_current,1400,296,0.0 | 0.07155 | 0.0682 | 0.1417 | 0.1376 | 0.21345
+r4/output/r4f8h_h_priority_benefit_sensitivity_results_v1.csv,1400,retain_p_final_worse_than_current,1400,1,0.0
+r4/output/r4f8h_h_priority_benefit_sensitivity_results_v1.csv,1400,retain_expected_final_speed_mph,1400,350,230.254 | 230.29816782866368 | 230.29600235374943 | 230.34356188218868 | 230.33928275756975 | 230.38838879801622
+r4/output/r4f8h_h_priority_benefit_sensitivity_results_v1.csv,1400,withdraw_p_completed,1400,357,0.0 | 0.24755 | 0.2516 | 0.5 | 0.2493 | 0.5033
+r4/output/r4f8h_h_priority_benefit_sensitivity_results_v1.csv,1400,withdraw_p_final_result_exists,1400,357,0.0 | 0.24755 | 0.2516 | 0.5 | 0.2493 | 0.5033
+r4/output/r4f8h_h_priority_benefit_sensitivity_results_v1.csv,1400,withdraw_p_no_final_result,1400,357,1.0 | 0.75245 | 0.7484 | 0.5 | 0.7507 | 0.4967
+r4/output/r4f8h_h_priority_benefit_sensitivity_results_v1.csv,1400,withdraw_p_final_meets_benchmark,1400,658,0.0 | 0.06895 | 0.07155 | 0.1398 | 0.0682 | 0.1383
+r4/output/r4f8h_h_priority_benefit_sensitivity_results_v1.csv,1400,withdraw_p_final_beats_current,1400,718,0.0 | 0.06895 | 0.07155 | 0.1398 | 0.0682 | 0.1383
+r4/output/r4f8h_h_priority_benefit_sensitivity_results_v1.csv,1400,withdraw_p_final_worse_than_current,1400,718,1.0 | 0.93105 | 0.92845 | 0.8602 | 0.9318 | 0.8617
+r4/output/r4f8h_h_priority_benefit_sensitivity_results_v1.csv,1400,withdraw_expected_final_speed_conditional_mph,1250,750,229.68210953132572 | 229.68752188208575 | 229.66968354404275 | 229.6584641866889 | 229.66558439785624 | 229.66968195336042
+r4/output/r4f8h_h_priority_benefit_sensitivity_results_v1.csv,1400,withdraw_benchmark_probability_exceeds_retain,1400,2,False | True
+r4/output/r4f8h_h_priority_benefit_sensitivity_results_v1.csv,1400,withdraw_completion_probability_exceeds_retain,1400,2,False | True
+r4/output/r4f3b_shared_state_linkage_thermal_fixed_v1.csv,50,historical_action_required_for_engine,50,1,False
+r4/output/r4f8e_reconstructed_action_numeric_interface_v1.csv,170,current_result_retained_before_attempt,170,2,True | False
+r4/output/r4f8e_reconstructed_action_numeric_interface_v1.csv,170,protected_result_speed_before_action_mph,162,56,230.254000 | 229.154000 | 229.811000 | 228.836000 | 227.099000 | 231.268000
+r4/output/r4f3a_shared_state_linkage_repaired_v1.csv,50,historical_action_required_for_engine,50,1,False
+r4/output/r4f3_shared_state_linkage_audit_v1.csv,50,historical_action_required_for_engine,50,1,False
+r4/output/r4f2_canonical_fused_decision_dataset_v2.csv,148,action_mask_RETAIN_AND_REATTEMPT,148,2,True | False
+r4/output/r4f2_canonical_fused_decision_dataset_v2.csv,148,action_mask_WITHDRAW_AND_REATTEMPT,148,2,False | True
+r4/output/r4f2_canonical_fused_decision_dataset_v2.csv,148,action_mask_WITHDRAW_AND_PRIORITY_REATTEMPT,148,2,True | False
+r4/output/r4f2_canonical_fused_decision_dataset_v2.csv,148,observed_action,148,3,REATTEMPT_SEMANTICS_UNRESOLVED | STOP | REATTEMPT
+r4/output/r4f7c1_v2_exact_numeric_feature_schema_audit.csv,312,performance_or_outcome,312,2,False | True
+r4/output/r4f8e_reconstructed_decision_numeric_state_v1.csv,60,current_protected_result_speed_mph,56,56,230.254000 | 229.154000 | 229.811000 | 228.836000 | 227.099000 | 231.268000
+r4/output/r4f2_canonical_fused_decision_dataset_v1.csv,148,action_mask_RETAIN_AND_REATTEMPT,148,2,True | False
+r4/output/r4f2_canonical_fused_decision_dataset_v1.csv,148,action_mask_WITHDRAW_AND_REATTEMPT,148,2,False | True
+r4/output/r4f2_canonical_fused_decision_dataset_v1.csv,148,action_mask_WITHDRAW_AND_PRIORITY_REATTEMPT,148,2,True | False
+r4/output/r4f2_canonical_fused_decision_dataset_v1.csv,148,observed_action,148,3,REATTEMPT_SEMANTICS_UNRESOLVED | STOP | REATTEMPT
+r4/output/r4lc5d_last_chance_decision_opportunity_panel_v1.csv,10,observed_action,10,2,STOP | REATTEMPT
+r4/output/r4lc5d_last_chance_decision_opportunity_panel_v1.csv,10,outcome,10,7,QUALIFIED_P31 | QUALIFIED_P32 | QUALIFIED_P33 | FAILED_TO_QUALIFY | ULTIMATELY_BUMPED_BY_HARVEY | ULTIMATELY_QUALIFIED_P33
+r4/output/r4f8h_h_retain_withdraw_comparison_v1.csv,1400,retain_p_completed,1400,215,0.0 | 0.2516 | 0.2493 | 0.503 | 0.4961 | 0.74855
+r4/output/r4f8h_h_retain_withdraw_comparison_v1.csv,1400,withdraw_p_completed,1400,357,0.0 | 0.24755 | 0.2516 | 0.5 | 0.2493 | 0.5033
+r4/output/r4f8h_h_retain_withdraw_comparison_v1.csv,1400,retain_p_final_meets_benchmark,1400,140,1.0 | 0.0 | 0.018 | 0.0159 | 0.03335 | 0.0309
+r4/output/r4f8h_h_retain_withdraw_comparison_v1.csv,1400,withdraw_p_final_meets_benchmark,1400,658,0.0 | 0.06895 | 0.07155 | 0.1398 | 0.0682 | 0.1383
+r4/output/r4f8h_h_retain_withdraw_comparison_v1.csv,1400,withdraw_p_no_final_result,1400,357,1.0 | 0.75245 | 0.7484 | 0.5 | 0.7507 | 0.4967
+r4/output/r4f8h_h_retain_withdraw_comparison_v1.csv,1400,withdraw_p_final_worse_than_current,1400,718,1.0 | 0.93105 | 0.92845 | 0.8602 | 0.9318 | 0.8617
+r4/output/r4lc4_last_chance_attempt_candidates_v1.csv,15,withdraw_before_attempt,15,1,UNKNOWN
+r4/output/r4lc4_last_chance_attempt_candidates_v1.csv,15,result_retained_before_attempt,15,1,UNKNOWN
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,150,protected_result_retained,150,2,True | False
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,150,withdrawal_risk,150,2,False | True
+r4/output/r4f2_canonical_fused_decision_summary_v2.csv,8,RETAIN_AND_REATTEMPT,8,1,0
+r4/output/r4f2_canonical_fused_decision_summary_v2.csv,8,WITHDRAW_AND_REATTEMPT,8,1,0
+r4/output/r4f2_canonical_fused_decision_summary_v2.csv,8,WITHDRAW_AND_PRIORITY_REATTEMPT,8,1,0
+r4/output/r4f2_canonical_fused_decision_summary_v1.csv,8,RETAIN_AND_REATTEMPT,8,1,0
+r4/output/r4f2_canonical_fused_decision_summary_v1.csv,8,WITHDRAW_AND_REATTEMPT,8,1,0
+r4/output/r4f2_canonical_fused_decision_summary_v1.csv,8,WITHDRAW_AND_PRIORITY_REATTEMPT,8,1,0
+r4/output/r4lc5c_last_chance_evidence_role_gate_v1.csv,7,observed_action,7,1,REATTEMPT
+r4/output/r4lc5c_last_chance_evidence_role_gate_v1.csv,7,outcome_status,7,6,FAILED_TO_QUALIFY | WAVED_OFF_AFTER_TWO_LAPS | COMPLETE_BUT_FAILED_TO_BEAT_BUBBLE | QUALIFIED_P33 | QUALIFIED_P32 | CRASH_INCOMPLETE_FAILED_TO_QUALIFY
+r4/output/r4p5_decision_safe_forecast_scenarios_v1.csv,40,actual_next_attempt_time_utc,40,40,2020-08-15T18:47:30Z | 2020-08-15T19:39:10Z | 2020-08-15T19:00:50Z | 2020-08-15T20:22:30Z | 2020-08-15T20:10:00Z | 2020-08-15T17:55:45Z
+r4/output/r4f6e_fast_friday_pdf_recovery_v1.csv,2,attempt_count,2,1,6
+r4/output/r4f8g_decision_predictive_uncertainty_state_v1.csv,60,future_outcome_or_leaderboard_used,60,1,False
+r4/output/r4f8h_g_action_mc_sensitivity_envelope_v1.csv,169,expected_final_result_speed_conditional_mph_min,166,129,230.254 | 229.6520501980558 | 229.154 | 229.0681836415678 | 229.811 | 228.8214637240071
+r4/output/r4f8h_g_action_mc_sensitivity_envelope_v1.csv,169,expected_final_result_speed_conditional_mph_max,166,166,230.43278495894222 | 230.254 | 229.6937715970991 | 229.49976021908626 | 229.154 | 229.08303003317747
+r4/output/r4f8c_fused_mc_action_expansion_v1.csv,170,current_result_retained_before_attempt,170,2,True | False
+r4/output/r4lc5b_last_chance_predecision_state_ledger_v1.csv,7,observed_action,7,1,REATTEMPT
+r4/output/r4lc5b_last_chance_predecision_state_ledger_v1.csv,7,outcome_status,7,6,FAILED_TO_QUALIFY | WAVED_OFF_AFTER_TWO_LAPS | COMPLETE_BUT_FAILED_TO_BEAT_BUBBLE | QUALIFIED_P33 | QUALIFIED_P32 | CRASH_INCOMPLETE_FAILED_TO_QUALIFY
+r4/output/r4lc5e_last_chance_fused_interface_v1.csv,10,withdrawal_required_for_reattempt,10,2,True | False
+r4/output/r4lc5e_last_chance_fused_interface_v1.csv,10,action_mask_RETAIN_AND_REATTEMPT,10,1,False
+r4/output/r4lc5e_last_chance_fused_interface_v1.csv,10,action_mask_WITHDRAW_AND_REATTEMPT,10,1,True
+r4/output/r4lc5e_last_chance_fused_interface_v1.csv,10,action_mask_WITHDRAW_AND_PRIORITY_REATTEMPT,10,1,False
+r4/output/r4lc5e_last_chance_fused_interface_v1.csv,10,observed_action_raw,10,2,STOP | REATTEMPT
+r4/output/r4lc5e_last_chance_fused_interface_v1.csv,10,observed_action_unified,10,2,STOP | WITHDRAW_AND_REATTEMPT
+r4/output/r4lc5e_last_chance_fused_interface_v1.csv,10,observed_action_context,10,2,STOP_CURRENT_STATE | REATTEMPT_WITHOUT_PROTECTED_RESULT
+r4/output/r4lc5e_last_chance_fused_interface_v1.csv,10,outcome,10,7,QUALIFIED_P31 | QUALIFIED_P32 | QUALIFIED_P33 | FAILED_TO_QUALIFY | ULTIMATELY_BUMPED_BY_HARVEY | ULTIMATELY_QUALIFIED_P33
+r4/output/r4f7t1_2025_reference_transfer_rows_v1.csv,33,qualifying_outcome_available_locally,33,1,False
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,50,action_mask_RETAIN_AND_REATTEMPT,50,1,True
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,50,action_mask_WITHDRAW_AND_REATTEMPT,50,1,False
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,50,action_mask_WITHDRAW_AND_PRIORITY_REATTEMPT,50,1,True
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,50,observed_action,50,2,STOP | REATTEMPT_SEMANTICS_UNRESOLVED
+r4/output/r4lc5e_last_chance_fused_interface_summary_v2.csv,3,WITHDRAW_AND_REATTEMPT,3,1,0
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,10,action_mask_RETAIN_AND_REATTEMPT,10,1,False
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,10,action_mask_WITHDRAW_AND_REATTEMPT,10,2,True | False
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,10,action_mask_WITHDRAW_AND_PRIORITY_REATTEMPT,10,1,False
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,10,observed_action_raw,10,2,STOP | REATTEMPT
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,10,observed_action_unified,10,2,STOP | REATTEMPT
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,10,withdrawal_required_for_observed_action,10,1,False
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,10,outcome,10,7,QUALIFIED_P31 | QUALIFIED_P32 | QUALIFIED_P33 | FAILED_TO_QUALIFY | ULTIMATELY_BUMPED_BY_HARVEY | ULTIMATELY_QUALIFIED_P33
+data/canonical/v1/attempts.csv,329,outcome_label,14,2,ON_BUBBLE | BUMPED
+data/canonical/v1/attempts.csv,329,withdrawal_evidence,329,2,UNKNOWN | EDITORIALLY_DOCUMENTED_WITHDRAWAL
+data/canonical/v1/attempts.csv,329,requeue_evidence,329,1,UNKNOWN
+data/canonical/v1/decision_state_features.csv,0,prior_observed_attempt_count,0,0,
+data/canonical/v1/chronology_events.csv,305,withdrawal_evidence,305,1,UNKNOWN
+data/canonical/v1/chronology_events.csv,305,requeue_evidence,305,1,UNKNOWN
+weather/output/r3b4_monte_carlo_action_envelope_v1.csv,288,historical_action_label,288,6,WITHDRAW_EXISTING_RESULT_AND_USE_LANE1 | RETAKE_RUN | REPEAT_ATTEMPT_IMPROVED | BAILED_OUT_OF_FIRST_RUN | SECOND_ATTEMPT | REQUIRED_REATTEMPT_AFTER_INVALIDATION
+weather/output/r3b4_monte_carlo_action_envelope_v1.csv,288,mean_final_speed_mph,288,50,231.3410000000 | 231.8619355600 | 231.7690831950 | 231.6509534450 | 231.5497983450 | 232.2125134300
+weather/output/r3b4_monte_carlo_action_envelope_v1.csv,288,q05_final_speed_mph,288,22,231.3410000000 | 230.4140000000 | 230.9590000000 | 230.2120000000 | 229.2850000000 | 229.8300000000
+weather/output/r3b4_monte_carlo_action_envelope_v1.csv,288,q50_final_speed_mph,288,29,231.3410000000 | 231.5150000000 | 231.4350000000 | 231.5680000000 | 230.2120000000 | 230.3860000000
+weather/output/r3b4_monte_carlo_action_envelope_v1.csv,288,q95_final_speed_mph,288,29,231.3410000000 | 234.8030000000 | 232.1390000000 | 236.0360000000 | 230.2120000000 | 233.6740000000
+weather/output/r3b4_monte_carlo_action_envelope_v1.csv,288,rank_outcome_probability_available,288,1,False
+weather/output/official_lane_queue_live_resource_registry_v1.csv,22,withdraw_fields_present,22,2,NO | YES
+weather/output/decision_time_observable_state_v4_final.csv,8,historical_action_label,8,6,WITHDRAW_EXISTING_RESULT_AND_USE_LANE1 | RETAKE_RUN | REPEAT_ATTEMPT_IMPROVED | BAILED_OUT_OF_FIRST_RUN | SECOND_ATTEMPT | REQUIRED_REATTEMPT_AFTER_INVALIDATION
+weather/output/decision_time_observable_state_v4_final.csv,8,historical_action_evidence_count,8,1,1
+weather/output/decision_time_observable_state_v4_final.csv,8,historical_action_evidence_ids,8,8,R2B3-ROSSI-LANE1-ACTION | R1G26D-ILOTT-AUTOSPORT-RETAKE | R1G29C-MALUKAS-REPEAT-ACTION | R1G25C-CASTRONEVES-FIRST-RUN-BAILOUT | R1G28F-MARCO-SECOND-ACTION | R1G30C-KARAM-REPEAT-ACTION
+weather/output/decision_time_observable_state_v4_final.csv,8,historical_action_source,8,6,Autosport + INDYCAR Official Qualification Results | AUTOSPORT | THE_RACE_2022_DAY1 | The Race + INDYCAR Official Qualification Results | The Race | INDYCAR 2022 Day 1 Qualifying Recap
+weather/output/decision_time_observable_state_v4_final.csv,8,historical_action_is_observable_feature,8,1,False
+weather/output/decision_time_observable_state_v4_final.csv,8,post_action_outcome_is_observable_feature,8,1,False
+weather/output/chronology_rescue_2022_ilott_sentence_local_adjudication_v1.csv,18,sentence_withdraw_terms,0,0,
+weather/output/queue_wait_latest_withdraw_reference_v1.csv,16,withdraw_to_completion_seconds,16,16,455.77885000000003 | 457.36603 | 458.10339999999997 | 462.93600000000004 | 1055.77885 | 1057.36603
+weather/output/queue_wait_latest_withdraw_reference_v1.csv,16,withdraw_to_completion_minutes,16,16,7.596314166666668 | 7.622767166666667 | 7.635056666666666 | 7.7156 | 17.596314166666666 | 17.622767166666666
+weather/output/queue_wait_latest_withdraw_reference_v1.csv,16,latest_withdraw_time_utc,16,16,2024-05-18T21:42:24.221150+00:00 | 2024-05-18T21:42:22.633970+00:00 | 2024-05-18T21:42:21.896600+00:00 | 2024-05-18T21:42:17.064000+00:00 | 2024-05-18T21:32:24.221150+00:00 | 2024-05-18T21:32:22.633970+00:00
+weather/output/r3b_simulator_input_pack_v1.csv,8,historical_action_label,8,6,WITHDRAW_EXISTING_RESULT_AND_USE_LANE1 | RETAKE_RUN | REPEAT_ATTEMPT_IMPROVED | BAILED_OUT_OF_FIRST_RUN | SECOND_ATTEMPT | REQUIRED_REATTEMPT_AFTER_INVALIDATION
+weather/output/r3b_simulator_input_pack_v1.csv,8,historical_action_used_as_feature,8,1,False
+weather/output/chronology_rescue_2022_repeat_pair_driver_eligibility_v1.csv,10,broad_repeat_attempt_count,10,2,2 | 3
+weather/output/performance_context_features.csv,136,prior_supported_attempt_count,136,4,0 | 1 | 2 | 3
+weather/output/official_lane_queue_live_field_inventory_v1.csv,924,withdraw_signal,924,2,NO | YES
+weather/output/chronology_rescue_2022_karam_repeat_evidence_hits_v1.csv,59,withdraw_terms,30,2,withdrawn|withdraw | withdraw
+weather/output/chronology_rescue_2022_karam_repeat_evidence_hits_v1.csv,59,direct_withdraw,59,1,False
+weather/output/chronology_rescue_2022_castroneves_repeat_pair_evidence_v1.csv,1,mentions_withdraw,1,1,False
+weather/output/retain_withdraw_target_aware_profiles_v1.csv,840,current_retained_speed_mph,840,3,229.0 | 231.0 | 233.0
+weather/output/final_integrated_decision_compact_v1.csv,480,current_retained_speed_mph,480,3,229.0 | 231.0 | 233.0
+weather/output/chronology_rescue_2022_malukas_autosport_repeat_evidence_v1.csv,1,withdrawal_semantic,1,1,UNKNOWN
+weather/output/pit_service_identifiability_2022_v1.csv,1,later_attempt_proves_repair,1,1,False
+weather/output/queue_wait_cutoff_feasibility_grid_v1.csv,144,required_withdraw_to_completion_seconds,144,16,455.77885000000003 | 457.36603 | 458.10339999999997 | 462.93600000000004 | 1055.77885 | 1057.36603
+weather/output/queue_wait_cutoff_feasibility_grid_v1.csv,144,required_withdraw_to_completion_minutes,144,16,7.596314166666668 | 7.622767166666667 | 7.635056666666666 | 7.7156 | 17.596314166666666 | 17.622767166666666
+weather/output/retain_withdraw_monte_carlo_draw_summary_v1.csv,120,current_retained_speed_mph,120,3,229.0 | 231.0 | 233.0
+weather/output/chronology_rescue_2022_ilott_sentence_local_promotion_candidate_v1.csv,1,sentence_withdraw_terms,0,0,
+weather/output/chronology_rescue_2022_repeat_pair_final_driver_coverage_v1.csv,8,pair_attempt_count,8,1,2
+weather/output/chronology_rescue_2022_repeat_pair_final_driver_coverage_v1.csv,8,covered_attempt_count,8,1,2
+weather/output/decision_time_observable_state_v3.csv,8,historical_action_label,8,6,WITHDRAW_EXISTING_RESULT_AND_USE_LANE1 | RETAKE_RUN | REPEAT_ATTEMPT_IMPROVED | BAILED_OUT_OF_FIRST_RUN | SECOND_ATTEMPT | REQUIRED_REATTEMPT_AFTER_INVALIDATION
+weather/output/decision_time_observable_state_v3.csv,8,historical_action_evidence_count,8,1,1
+weather/output/decision_time_observable_state_v3.csv,8,historical_action_evidence_ids,8,8,R2B3-ROSSI-LANE1-ACTION | R1G26D-ILOTT-AUTOSPORT-RETAKE | R1G29C-MALUKAS-REPEAT-ACTION | R1G25C-CASTRONEVES-FIRST-RUN-BAILOUT | R1G28F-MARCO-SECOND-ACTION | R1G30C-KARAM-REPEAT-ACTION
+weather/output/decision_time_observable_state_v3.csv,8,historical_action_source,8,6,Autosport + INDYCAR Official Qualification Results | AUTOSPORT | THE_RACE_2022_DAY1 | The Race + INDYCAR Official Qualification Results | The Race | INDYCAR 2022 Day 1 Qualifying Recap
+weather/output/decision_time_observable_state_v3.csv,8,historical_action_is_observable_feature,8,1,False
+weather/output/decision_time_observable_state_v3.csv,8,post_action_outcome_is_observable_feature,8,1,False
+weather/output/chronology_rescue_2022_high_priority_editorial_candidates_v1.csv,12,target_attempt_count,12,2,1 | 2
+weather/output/retain_withdraw_monte_carlo_scenario_results_v1.csv,120,current_retained_speed_mph,120,3,229.0 | 231.0 | 233.0
+weather/output/retain_withdraw_monte_carlo_scenario_results_v1.csv,120,retain_speed_mph,120,3,229.0 | 231.0 | 233.0
+weather/output/retain_withdraw_monte_carlo_scenario_results_v1.csv,120,retain_completion_probability,120,1,1.0
+weather/output/retain_withdraw_monte_carlo_scenario_results_v1.csv,120,retain_speed_variance,120,1,0.0
+weather/output/chronology_rescue_2022_ilott_autosport_retake_adjudication_v2.csv,1,withdrawal_semantics,1,1,UNKNOWN
+weather/output/global_car_number_canonical_collision_audit_v1.csv,6,canonical_attempt_count,6,3,2 | 1 | 3
+weather/output/r3c_action_historical_applicability_v1.csv,24,historical_action_label,24,6,WITHDRAW_EXISTING_RESULT_AND_USE_LANE1 | RETAKE_RUN | REPEAT_ATTEMPT_IMPROVED | BAILED_OUT_OF_FIRST_RUN | SECOND_ATTEMPT | REQUIRED_REATTEMPT_AFTER_INVALIDATION
+weather/output/chronology_rescue_2022_ilott_autosport_retake_adjudication_v1.csv,1,withdrawal_semantics,1,1,UNKNOWN
+weather/output/r3c_final_monte_carlo_action_envelope_v1.csv,288,historical_action_label,288,6,WITHDRAW_EXISTING_RESULT_AND_USE_LANE1 | RETAKE_RUN | REPEAT_ATTEMPT_IMPROVED | BAILED_OUT_OF_FIRST_RUN | SECOND_ATTEMPT | REQUIRED_REATTEMPT_AFTER_INVALIDATION
+weather/output/r3c_final_monte_carlo_action_envelope_v1.csv,288,mean_final_speed_mph,288,50,231.3410000000 | 231.8619355600 | 231.7690831950 | 231.6509534450 | 231.5497983450 | 232.2125134300
+weather/output/r3c_final_monte_carlo_action_envelope_v1.csv,288,q05_final_speed_mph,288,22,231.3410000000 | 230.4140000000 | 230.9590000000 | 230.2120000000 | 229.2850000000 | 229.8300000000
+weather/output/r3c_final_monte_carlo_action_envelope_v1.csv,288,q50_final_speed_mph,288,29,231.3410000000 | 231.5150000000 | 231.4350000000 | 231.5680000000 | 230.2120000000 | 230.3860000000
+weather/output/r3c_final_monte_carlo_action_envelope_v1.csv,288,q95_final_speed_mph,288,29,231.3410000000 | 234.8030000000 | 232.1390000000 | 236.0360000000 | 230.2120000000 | 233.6740000000
+weather/output/r3c_final_monte_carlo_action_envelope_v1.csv,288,rank_outcome_probability_available,288,1,False
+weather/output/r3c_final_monte_carlo_action_envelope_v1.csv,288,historical_action_applicability,288,4,COUNTERFACTUAL_ACTION | OBSERVED_ACTION | GENERIC_COUNTERFACTUAL_OR_PARTIAL_HISTORY | NOT_APPLICABLE_AS_ELECTIVE_CHOICE
+weather/output/r3c_final_monte_carlo_action_envelope_v1.csv,288,historical_action_feasibility,288,4,RULE_POSSIBILITY_NOT_HISTORICALLY_RECONSTRUCTED | SUPPORTED | NOT_FULLY_IDENTIFIABLE | NOT_COMPARABLE
+weather/output/chronology_rescue_2022_ilott_autosport_retake_evidence_v2.csv,1,withdrawal_semantics,1,1,UNKNOWN
+weather/output/decision_time_observable_state_v4_1_final.csv,8,historical_action_label,8,6,WITHDRAW_EXISTING_RESULT_AND_USE_LANE1 | RETAKE_RUN | REPEAT_ATTEMPT_IMPROVED | BAILED_OUT_OF_FIRST_RUN | SECOND_ATTEMPT | REQUIRED_REATTEMPT_AFTER_INVALIDATION
+weather/output/decision_time_observable_state_v4_1_final.csv,8,historical_action_evidence_count,8,1,1
+weather/output/decision_time_observable_state_v4_1_final.csv,8,historical_action_evidence_ids,8,8,R2B3-ROSSI-LANE1-ACTION | R1G26D-ILOTT-AUTOSPORT-RETAKE | R1G29C-MALUKAS-REPEAT-ACTION | R1G25C-CASTRONEVES-FIRST-RUN-BAILOUT | R1G28F-MARCO-SECOND-ACTION | R1G30C-KARAM-REPEAT-ACTION
+weather/output/decision_time_observable_state_v4_1_final.csv,8,historical_action_source,8,6,Autosport + INDYCAR Official Qualification Results | AUTOSPORT | THE_RACE_2022_DAY1 | The Race + INDYCAR Official Qualification Results | The Race | INDYCAR 2022 Day 1 Qualifying Recap
+weather/output/decision_time_observable_state_v4_1_final.csv,8,historical_action_is_observable_feature,8,1,False
+weather/output/decision_time_observable_state_v4_1_final.csv,8,post_action_outcome_is_observable_feature,8,1,False
+weather/output/attempt_performance_model_matrix_v1.csv,123,prior_supported_attempt_count,123,3,0 | 1 | 2
+weather/output/r3c_final_monte_carlo_action_envelope_v2.csv,288,historical_action_label,288,6,WITHDRAW_EXISTING_RESULT_AND_USE_LANE1 | RETAKE_RUN | REPEAT_ATTEMPT_IMPROVED | BAILED_OUT_OF_FIRST_RUN | SECOND_ATTEMPT | REQUIRED_REATTEMPT_AFTER_INVALIDATION
+weather/output/r3c_final_monte_carlo_action_envelope_v2.csv,288,mean_final_speed_mph,288,56,231.3410000000 | 231.8619355600 | 231.7690831950 | 231.6509534450 | 231.5497983450 | 232.2125134300
+weather/output/r3c_final_monte_carlo_action_envelope_v2.csv,288,q05_final_speed_mph,288,24,231.3410000000 | 230.4140000000 | 230.9590000000 | 230.2120000000 | 229.2850000000 | 229.8300000000
+weather/output/r3c_final_monte_carlo_action_envelope_v2.csv,288,q50_final_speed_mph,288,32,231.3410000000 | 231.5150000000 | 231.4350000000 | 231.5680000000 | 230.2120000000 | 230.3860000000
+weather/output/r3c_final_monte_carlo_action_envelope_v2.csv,288,q95_final_speed_mph,288,32,231.3410000000 | 234.8030000000 | 232.1390000000 | 236.0360000000 | 230.2120000000 | 233.6740000000
+weather/output/r3c_final_monte_carlo_action_envelope_v2.csv,288,rank_outcome_probability_available,288,1,False
+weather/output/r3c_final_monte_carlo_action_envelope_v2.csv,288,historical_action_applicability,288,4,COUNTERFACTUAL_ACTION | OBSERVED_ACTION | GENERIC_COUNTERFACTUAL_OR_PARTIAL_HISTORY | NOT_APPLICABLE_AS_ELECTIVE_CHOICE
+weather/output/r3c_final_monte_carlo_action_envelope_v2.csv,288,historical_action_feasibility,288,4,RULE_POSSIBILITY_NOT_HISTORICALLY_RECONSTRUCTED | SUPPORTED | NOT_FULLY_IDENTIFIABLE | NOT_COMPARABLE
+weather/output/chronology_rescue_2022_ilott_autosport_retake_evidence_v1.csv,1,withdrawal_semantics,1,1,UNKNOWN
+weather/output/final_integrated_decision_profiles_v1.csv,480,current_retained_speed_mph,480,3,229.0 | 231.0 | 233.0
+weather/output/attempt_performance_repeat_delta_context_v1.csv,40,prior_supported_attempt_count,40,2,1 | 2
+weather/output/attempt_performance_repeat_delta_context_v1.csv,40,prior_complete_attempt_count,40,2,1 | 2
+weather/output/chronology_rescue_2022_ilott_paragraph_local_adjudication_v1.csv,18,withdraw_terms,0,0,
+weather/output/chronology_rescue_2022_ilott_repeat_pair_evidence_v1.csv,18,mentions_withdraw,18,1,False
+weather/output/repeat_delta_regime_row_diagnostics_v1.csv,39,prior_supported_attempt_count,39,2,1 | 2
+weather/output/repeat_delta_regime_row_diagnostics_v1.csv,39,prior_complete_attempt_count,39,2,1 | 2
+weather/output/retain_withdraw_scenario_classification_v1.csv,120,current_retained_speed_mph,120,3,229.0 | 231.0 | 233.0
+weather/output/queue_wait_sensitivity_scenarios_v1.csv,4,median_withdraw_to_completion_seconds,4,4,455.77885000000003 | 1055.77885 | 1955.77885 | 2855.77885
+weather/output/queue_wait_sensitivity_scenarios_v1.csv,4,q95_withdraw_to_completion_seconds,4,4,458.10339999999997 | 1058.1034 | 1958.1034 | 2858.1034
+weather/output/queue_wait_sensitivity_scenarios_v1.csv,4,median_withdraw_to_completion_minutes,4,4,7.596314166666668 | 17.596314166666666 | 32.596314166666666 | 47.596314166666666
+weather/output/queue_wait_sensitivity_scenarios_v1.csv,4,q95_withdraw_to_completion_minutes,4,4,7.635056666666666 | 17.635056666666667 | 32.635056666666664 | 47.635056666666664
+weather/output/attempt_performance_residual_diagnostics_v1.csv,615,prior_supported_attempt_count,615,3,0 | 1 | 2
+weather/output/chronology_rescue_2022_repeat_pair_coverage_post_ilott_v1.csv,10,attempt_count,10,2,2 | 3
+weather/output/retain_withdraw_target_aware_compact_v1.csv,480,current_retained_speed_mph,480,3,229.0 | 231.0 | 233.0
+weather/output/official_lane_queue_live_year_coverage_v1.csv,5,withdraw_event,5,1,FOUND_PARTIAL
+weather/output/decision_robustness_envelope_v1.csv,480,current_retained_speed_mph,480,3,229.0 | 231.0 | 233.0

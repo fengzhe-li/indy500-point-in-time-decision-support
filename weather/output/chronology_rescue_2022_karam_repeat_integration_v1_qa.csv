@@ -1,0 +1,16 @@
+﻿metric,value,status
+canonical_identity_verified,1,PASS
+adjudication_ready,1,PASS
+first_chronology_added_once,1,PASS
+second_chronology_added_once,1,PASS
+no_attempt_not_promoted,0,PASS
+repeat_action_added_once,1,PASS
+chronology_unique_gain_two,2,PASS
+karam_repeat_newly_covered,1,PASS
+decision_relevant_denominator_is_8,8,PASS
+decision_relevant_coverage_is_8_of_8,8,PASS
+lane_evidence_unchanged,0,PASS
+queue_wait_inferred,0,PASS
+timestamp_inferred,0,PASS
+canonical_mutated,0,PASS
+phase5_to_phase8_mutated,0,PASS

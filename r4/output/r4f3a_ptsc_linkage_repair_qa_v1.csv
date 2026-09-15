@@ -1,0 +1,7 @@
+metric,value,expected,status
+input_states_preserved,50,50,PASS
+ptsc_rows_parsed,168,>0,PASS
+ptsc_development_years_present,2020;2021;2023,2020;2021;2023,PASS
+ptsc_future_observation_leakage,0,0,PASS
+ptsc_prior_state_coverage,50,>0,PASS
+engine_ready_not_forced,43,OBSERVED,PASS

@@ -1,0 +1,4 @@
+metric,value,expected,status
+project_root_exists,True,True,PASS
+audit_completed,True,True,PASS
+years_scanned,6,6,PASS

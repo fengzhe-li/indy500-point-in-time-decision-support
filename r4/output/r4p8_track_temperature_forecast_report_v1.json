@@ -1,0 +1,35 @@
+{
+  "phase": "R4P8",
+  "purpose": "Forecast future Indy 500 track-surface temperature from current PTSC thermal state, past thermal trend and decision-time-safe HRRR atmospheric forecast.",
+  "raw_ptsc_rows": 168,
+  "supervised_rows": 312,
+  "ml_complete_rows": 292,
+  "horizons_minutes": [
+    15,
+    30
+  ],
+  "availability_lag_guard_minutes": 60,
+  "validation": "leave-one-year-out",
+  "future_realized_weather_used": false,
+  "best_by_horizon": {
+    "15": {
+      "model_name": "PERSISTENCE",
+      "mae_c": 1.1272682078051208,
+      "rmse_c": 1.4618667959327045,
+      "direction_accuracy": 0.1610738255033557
+    },
+    "30": {
+      "model_name": "PERSISTENCE",
+      "mae_c": 1.95027195027195,
+      "rmse_c": 2.3551090228482994,
+      "direction_accuracy": 0.06993006993006994
+    }
+  },
+  "important_semantics": {
+    "track_temperature": "PTSC observed track-surface temperature.",
+    "current_state": "Observed at decision time.",
+    "past_slope": "Uses only previous PTSC observations.",
+    "future_atmosphere": "Uses HRRR cycle available before decision time.",
+    "strategy": "No STOP / RETAIN / WITHDRAW recommendation is made."
+  }
+}

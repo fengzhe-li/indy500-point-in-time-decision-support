@@ -1,0 +1,9 @@
+﻿driver_name,in_eligibility,in_chronology,in_action_lane,in_decision_state,in_queue,has_chronology,has_action_lane,has_decision_state,has_queue_evidence
+Alexander Rossi,True,True,True,True,False,True,True,True,False
+Callum Ilott,True,True,True,False,True,True,True,False,True
+David Malukas,True,True,True,True,True,True,True,True,True
+Helio Castroneves,True,True,True,False,False,True,True,False,False
+Marco Andretti,True,True,True,False,False,True,True,False,False
+Sage Karam,True,True,True,False,False,True,True,False,False
+Scott McLaughlin,True,True,True,True,True,True,True,True,True
+Takuma Sato,True,True,True,True,True,True,True,True,True

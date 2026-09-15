@@ -1,0 +1,28 @@
+{
+  "phase": "R3A.1",
+  "year": 2022,
+  "state_rows": 8,
+  "target_driver_count": 8,
+  "pair_resolution": {
+    "chronology_car_attempt_index": 8,
+    "eligibility_order_fallback": 0
+  },
+  "observability": {
+    "rank_state_rows": 3,
+    "queue_state_rows": 3,
+    "explicit_lane_rows": 2
+  },
+  "latent_or_unknown": {
+    "queue_wait": "LATENT_SENSITIVITY_VARIABLE",
+    "pit_service": "UNKNOWN",
+    "rubber_grip": "UNKNOWN",
+    "tire_thermal_pressure": "UNKNOWN"
+  },
+  "weather_policy": "DECISION_TIME_HRRR_WITH_AVAILABILITY_CONTROL",
+  "track_temperature_policy": "OBSERVED_PTSC_WHERE_TIME_ALIGNMENT_SUPPORTED",
+  "elapsed_time_as_track_evolution": "PROHIBITED",
+  "unknown_state_imputation": "NONE",
+  "full_historical_state_claim": false,
+  "limited_sequential_simulator_input_ready": true,
+  "next_phase": "R3B_LIMITED_UNCERTAINTY_AWARE_SEQUENTIAL_SIMULATOR"
+}

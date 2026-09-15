@@ -1,0 +1,82 @@
+{
+  "project": "Indy 500 qualifying decision support",
+  "version": "V2-A",
+  "status": "FROZEN",
+  "freeze_scope": "future physical-state and conditional performance outlook",
+  "research_question": "If another on-track opportunity occurs h minutes from now, what distribution of four-lap qualifying performance change should be expected relative to the current official result?",
+  "opportunity_horizons_min": [
+    15,
+    30,
+    60,
+    90,
+    120
+  ],
+  "future_track_model": {
+    "name": "M2b_mean_solar",
+    "structure": "horizon-specific linear models",
+    "features": [
+      "future ambient temperature change",
+      "current track-minus-ambient thermal gap",
+      "mean solar elevation over interval"
+    ],
+    "rejected_features": [
+      "current track heating/cooling rate",
+      "delta solar elevation"
+    ],
+    "validation": "leave-one-year-out",
+    "production_refit": "full 2020-2024 PTSC sample after model selection",
+    "conditional_semantics": "future ambient change must come from forecast or explicit scenario"
+  },
+  "future_track_uncertainty": {
+    "method": "horizon-specific finite-sample absolute-residual conformal calibration",
+    "observed_coverage80": 0.8064024390243902,
+    "observed_coverage90": 0.9085365853658537,
+    "known_regime_shift_year": 2022,
+    "coverage80_2022": 0.6097560975609756,
+    "coverage90_2022": 0.6991869918699187
+  },
+  "performance_model": {
+    "formula": "delta_v = beta_track * delta_track_temp + beta_ambient * delta_ambient_temp + epsilon",
+    "coefficient_uncertainty": "5000 paired bootstrap coefficient draws; joint coefficient dependence preserved",
+    "performance_residual_uncertainty": "symmetrized magnitude of centered leave-one-year-out residuals",
+    "performance_core_frozen": true
+  },
+  "monte_carlo": {
+    "components": [
+      "future track-state uncertainty",
+      "paired coefficient uncertainty",
+      "empirical performance residual uncertainty"
+    ],
+    "outputs": [
+      "expected delta speed",
+      "median delta speed",
+      "P(delta speed > 0)",
+      "80% prediction interval",
+      "90% prediction interval"
+    ]
+  },
+  "decision_semantics": {
+    "h_is_scenario_axis": true,
+    "predicts_queue_wait": false,
+    "predicts_attempt_availability": false,
+    "is_retain_withdraw_recommendation": false,
+    "interpretation": "conditional physical-performance outlook given a future on-track opportunity"
+  },
+  "known_limitations": [
+    "2022 exhibits strong year-level thermal-regime shift and substantial conformal under-coverage.",
+    "Current retrospective future-track evaluation uses realized future ambient change and therefore does not constitute end-to-end weather-forecast validation.",
+    "Mean solar elevation is a deterministic geometry proxy, not measured irradiance, cloud or shade exposure.",
+    "Public historical data do not reliably identify queue waiting time or future attempt availability."
+  ],
+  "artifact_hashes_sha256": {
+    "weather/output/v2_future_track/v2a_operational_scenario_outlook_v1.csv": "8ba250a63cea731d82192d7ed8ae2398071d435dc09d21694a6efd04503461ef",
+    "weather/output/v2_future_track/v2a_full_sample_track_model_coefficients_v1.csv": "6f37876ff30c8fbc47aeb83900c23b377a99f0a620125a4eb247d0f3c01316c8",
+    "weather/output/v2_future_track/v2a_performance_mc_integration_v1.csv": "45824fad8660775c1c52ff32ddc5db0dccfb2341eaecd7acfd0f31d4073f21c7",
+    "weather/output/v2_future_track/future_track_conformal_calibration_v1.csv": "bd7f384f04b7932192b979c403cbacc7c3a69106a7e3df0b58290de34986b891",
+    "r5_2/manual/probabilistic_physics_coefficient_bootstrap_v1.csv": "adbe04c05a2cc2147b5b46ccc490457fb3e8d0277447563a71a0ea572f1edc9f",
+    "r5_2/manual/probabilistic_physics_loyo_residuals_v1.csv": "04ddb1f4e605451c4d30ff1b4fb8809acc8e02290bad34e719f37e5cea224086",
+    "weather/output/v2_future_track/future_track_residuals_v1.csv": "592bdcfcd4b545194408bba429ffe309d48dcaf3f51020f17cfc6f1c24e5d5ec",
+    "weather/output/v2_future_track/v2a_final_results_table_v1.csv": "c0b4e30b5452c4f01aa92570069a78b8e417cefaa020fdea8dcbf5d3a043efb4",
+    "weather/output/v2_future_track/v2a_final_scenario_outlook_v1.png": "b2a4e79e6cf404b54b8d4d1f48530ff9c3bdf797f4fbd7a7aa89d388393c5303"
+  }
+}

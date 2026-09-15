@@ -1,0 +1,7 @@
+metric,value,expected,status
+all_rows_preserved,148,148,PASS
+decision_ids_unique,0,0,PASS
+validation_policy_fit_leakage,1,0,FAIL
+no_hard_optimality_truth,0,0,PASS
+only_valid_or_explicitly_unresolved_actions,0,0,PASS
+both_regimes_present,DAY1;LAST_CHANCE,DAY1;LAST_CHANCE,PASS

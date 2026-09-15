@@ -1,0 +1,10 @@
+﻿metric,value,status
+raw_drying_candidates,2,PASS
+deduplicated_wet_terminal_state_exactly_one,1,PASS
+active_drying_inferred,0,PASS
+track_cleaning_inferred,0,PASS
+track_reset_inferred,0,PASS
+grip_effect_inferred,0,PASS
+rubber_effect_inferred,0,PASS
+elapsed_time_used_as_track_evolution,0,PASS
+active_ledger_mutation,0,PASS

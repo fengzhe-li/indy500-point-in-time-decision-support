@@ -1,0 +1,27 @@
+{
+  "status": "R6_REGIME_PHYSICS_COMPARISON_V1_COMPLETE",
+  "primary_model": "HUBER_IRLS_NO_INTERCEPT",
+  "sensitivity_model": "OLS_NO_INTERCEPT",
+  "predictors": [
+    "delta_track_c",
+    "delta_ambient_c"
+  ],
+  "target": "delta_speed_mph",
+  "bootstrap": {
+    "type": "CAR_CLUSTER_BOOTSTRAP",
+    "draws": 5000,
+    "seed": 20260913
+  },
+  "frozen_regime_B": {
+    "beta_track_mph_per_c": -0.03482533,
+    "beta_ambient_mph_per_c": 0.18239338,
+    "modified": false
+  },
+  "limitations": [
+    "Regime A direct repeat evidence is 2019 only.",
+    "Regime A has a small sample and strong delta-track/delta-ambient collinearity.",
+    "Regime C direct repeat evidence is 2025 only.",
+    "2026 contributes no same-day initial-round repeat transitions because of the qualifying format.",
+    "Bootstrap intervals describe empirical sampling uncertainty and are not proof of regulation-caused coefficient differences."
+  ]
+}

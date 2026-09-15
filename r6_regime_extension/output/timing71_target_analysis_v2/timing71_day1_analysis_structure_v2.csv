@@ -1,0 +1,6 @@
+year,id,top_type,top_len,top_keys
+2018,74622252638746b2821d6822ae31527a,dict,7,service | driver | state | session | static | lap | stint
+2019,5250b13f10ce468d85c6ed97731ec2e3,dict,7,service | driver | state | session | static | lap | stint
+2019,5250b13f10ce468d85c6ed97731ec2e3:1,dict,7,service | driver | state | session | static | lap | stint
+2019,5250b13f10ce468d85c6ed97731ec2e3:2,dict,7,service | driver | state | session | static | lap | stint
+2025,03072250-77e5-43d5-9844-4550ecd8ae34,dict,7,cars | messages | session | state | manifest | latestTimestamp | version

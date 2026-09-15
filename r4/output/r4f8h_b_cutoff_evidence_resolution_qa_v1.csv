@@ -1,0 +1,8 @@
+metric,value,expected,status
+existing_f8h_a_report_present,True,True,PASS
+candidate_cutoff_related_fields_found,133,MEASURED,PASS
+populated_cutoff_related_fields_found,118,MEASURED,PASS
+populated_exact_remaining_candidates,21,MEASURED_NOT_ASSUMED_VALID,PASS
+populated_session_end_candidates,91,MEASURED_NOT_ASSUMED_VALID,PASS
+monte_carlo_executed,False,False,PASS
+session_remaining_fabricated,False,False,PASS

@@ -1,0 +1,10 @@
+﻿driver_name,high_priority_attempt_targets,attempt_ids,official_statuses,candidate_sentences,high_value_candidates,medium_value_candidates,best_candidate_score
+Alexander Rossi,2,1e2facfd-2c67-5b5a-9556-04ef28eeb0d8|b3147013-0fda-5982-bea1-85788019ef89,|Withdrawn,0,0,0,0
+Callum Ilott,2,3cd6d98a-da75-5822-8dae-05e83ad8457c|8fa25fec-e5a6-5844-b3d7-f67c9dc91378,|Retired,0,0,0,0
+Colton Herta,1,88fe3936-d77d-5a12-bdd7-0104979729da,Waved Off,0,0,0,0
+David Malukas,2,619575d3-e7eb-5cce-886f-0a8485b98eba|85c917fa-1c7a-52cb-a47f-468b4bdae9a5,|Retired,0,0,0,0
+Helio Castroneves,2,01896a4f-c482-5093-a806-89bc4273641d|90eea27e-6e83-5e24-8428-811eae3ff157,|Withdrawn,1,0,0,5
+Marco Andretti,2,c044edbc-0f6c-5aab-bdef-9c4156b50617|63982b5e-7639-5140-a6a2-702a77c2fc85,|Retired,2,0,1,7
+Sage Karam,3,8e0c8731-4ddc-515a-949e-7902dd01eaeb|4778bf12-3fb5-5321-b4ae-9dc2f0880c25|2c453335-3a19-5653-8d5c-79d94db93028,|No Attempt|Withdrawn,0,0,0,0
+Stefan Wilson,1,f2811627-1280-5eea-845c-6057e526aaea,Incomplete,0,0,0,0
+Takuma Sato,1,21e8c99e-b04c-516d-85a8-ccfbaed7ff46,,9,1,1,12

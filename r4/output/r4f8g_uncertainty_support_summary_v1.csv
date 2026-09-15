@@ -1,0 +1,11 @@
+summary_type,group,rows,support_count_min,support_count_max,mean_error_mph,sd_error_mph,q05_error_mph,q25_error_mph,q50_error_mph,q75_error_mph,q95_error_mph,decision_sample_ready_rows,interpretation
+CALIBRATION_RESIDUALS,DEVELOPMENT_ALL,104,0,46,-0.028421356133,0.903050351191,-1.313844226665,-0.458419464286,0.011711516357,0.450916497565,1.302749954670,,"Held-out development calibration evidence only; subgroup variance is diagnostic, not independently fitted."
+CALIBRATION_RESIDUALS,DEVELOPMENT_EARLY_N_0_2,9,0,2,0.311449168912,0.638844074324,-0.557396428571,0.028094827586,0.311238461538,0.515735714286,1.219978369585,,"Held-out development calibration evidence only; subgroup variance is diagnostic, not independently fitted."
+CALIBRATION_RESIDUALS,DEVELOPMENT_LIMITED_N_3_9,21,3,9,-0.003135303381,0.892533901882,-1.015505769231,-0.607035714286,-0.049068965517,0.317061688312,1.481779761905,,"Held-out development calibration evidence only; subgroup variance is diagnostic, not independently fitted."
+CALIBRATION_RESIDUALS,DEVELOPMENT_ESTABLISHED_N_10_PLUS,74,10,46,-0.076932732257,0.933193083378,-1.397248969231,-0.470541359890,-0.053516483516,0.493939232018,1.144826759454,,"Held-out development calibration evidence only; subgroup variance is diagnostic, not independently fitted."
+RUN_TO_RUN_DIAGNOSTIC,CONSECUTIVE_COMPLETE_REPEAT_TRANSITIONS,92,,,0.329521739130,1.014203725750,-0.781800000000,-0.105250000000,0.194000000000,0.490000000000,1.980900000000,,Existing repeat-transition evidence is a scale cross-check only; it is not added independently because held-out prediction errors already include run variability.
+DECISION_APPLICATION,EARLY_BROAD_N_0_2,8,0,2,,,,,,,,8,Per-decision uncertainty/readiness coverage; no historical action evaluation.
+DECISION_APPLICATION,LATER_N_20_PLUS,21,20,32,,,,,,,,21,Per-decision uncertainty/readiness coverage; no historical action evaluation.
+DECISION_APPLICATION,LIMITED_N_3_9,10,3,9,,,,,,,,10,Per-decision uncertainty/readiness coverage; no historical action evaluation.
+DECISION_APPLICATION,MODERATE_N_10_19,20,10,19,,,,,,,,20,Per-decision uncertainty/readiness coverage; no historical action evaluation.
+DECISION_APPLICATION,NOT_SAMPLE_READY_MISSING_REFERENCE,1,0,0,,,,,,,,0,Per-decision uncertainty/readiness coverage; no historical action evaluation.

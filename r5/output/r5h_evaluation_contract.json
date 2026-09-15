@@ -1,0 +1,12 @@
+{
+  "ablation_definitions": {
+    "A_NO_CHANGE": "BASELINE",
+    "B_LEGACY_FAST_FRIDAY_CENTERED": "frozen R4F7 OOF consecutive predicted-speed difference",
+    "C_PHYSICS_NO_TRACK": "ABLATION_PHYSICS_NO_TRACK",
+    "D_PHYSICS_NO_SOLAR": "ABLATION_PHYSICS_NO_SOLAR",
+    "E_FINAL_PHYSICS": "M1_TRACK_LINEAR"
+  },
+  "no_post_evaluation_refit": true,
+  "phase": "R5H",
+  "version": "R5H_EVALUATION_V1"
+}

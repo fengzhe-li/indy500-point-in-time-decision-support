@@ -1,0 +1,11 @@
+﻿metric,value,status
+2020_parsed_rows,59,PASS
+2021_parsed_rows,59,PASS
+2022_parsed_rows,44,PASS
+2023_parsed_rows,84,PASS
+2024_parsed_rows,74,PASS
+source_files_missing,0,PASS
+canonical_data_mutated,0,PASS
+result_row_treated_as_chronology,0,PASS
+timestamps_inferred,0,PASS
+queue_or_lane_inferred,0,PASS

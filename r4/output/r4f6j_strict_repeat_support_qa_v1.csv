@@ -1,0 +1,7 @@
+metric,value,expected,status
+attempt_rows,329,329,PASS
+reference_rows,71,71,PASS
+repeat_pairs_found,92,>0,PASS
+car_numbers_never_integer_normalized,True,True,PASS
+interval_midpoints_not_used_as_observed_points,True,True,PASS
+no_model_fit_performed,True,True,PASS

@@ -1,0 +1,6 @@
+metric,value,expected,status
+first_run_residuals_found,79,>0,PASS
+repeat_residuals_preserved,40,40,PASS
+offline_target_rows_exist,265,>0,PASS
+offline_target_not_marked_as_live_feature,0,0,PASS
+first_run_field_center_available_years,2020;2021;2023;2024,OBSERVED,PASS

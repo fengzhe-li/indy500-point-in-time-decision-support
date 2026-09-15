@@ -1,0 +1,9 @@
+﻿metric,value,status
+target_driver_set_exact,1,PASS
+scott_first_attempt_speed_recovered,UNKNOWN,FAIL
+unresolved_missing_first_attempt_speeds,1,REVIEW
+sato_required_reattempt_mask,1,PASS
+action_applicability_rows,24,PASS
+hard_recommendation_leaks,0,PASS
+mc_draws_modified,0,PASS
+protected_r3b4_output_mutated,0,PASS

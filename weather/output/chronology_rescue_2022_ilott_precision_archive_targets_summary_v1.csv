@@ -1,0 +1,9 @@
+﻿metric,value
+canonical_ilott_attempts,0
+precision_queries,16
+r2a_local_matches,52
+known_late_improvement_evidence,2
+known_direct_repeat_evidence,0
+known_direct_action_evidence,0
+known_direct_lane_evidence,0
+recommended_next_stage,PRECISION_ARCHIVE_RETRIEVAL

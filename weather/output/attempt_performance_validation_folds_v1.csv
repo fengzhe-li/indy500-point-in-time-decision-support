@@ -1,0 +1,5 @@
+﻿validation_protocol_id,fold_id,fold_role,train_years,test_year,train_rows,test_rows,interpretation,validation_protocol_hash
+YEAR_GROUPED_LOYO_V1,PRIMARY_LOYO_2020,PRIMARY,"2021,2023",2020,77,39,Primary cross-year generalization fold.,4f26fae389c94fb9756cb1fb004a3c515130f9089dbc31516414eebbe182f812
+YEAR_GROUPED_LOYO_V1,PRIMARY_LOYO_2021,PRIMARY,"2020,2023",2021,67,49,Primary cross-year generalization fold.,4f26fae389c94fb9756cb1fb004a3c515130f9089dbc31516414eebbe182f812
+YEAR_GROUPED_LOYO_V1,PRIMARY_LOYO_2023,PRIMARY,"2020,2021",2023,88,28,Primary cross-year generalization fold.,4f26fae389c94fb9756cb1fb004a3c515130f9089dbc31516414eebbe182f812
+YEAR_GROUPED_LOYO_V1,SENSITIVITY_2024_TINY_HOLDOUT,SENSITIVITY_ONLY,"2020,2021,2023",2024,116,7,Tiny supported 2024 subset; do not use as primary performance conclusion.,4f26fae389c94fb9756cb1fb004a3c515130f9089dbc31516414eebbe182f812

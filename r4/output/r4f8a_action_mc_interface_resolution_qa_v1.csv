@@ -1,0 +1,8 @@
+metric,value,expected,status
+f2_rows,148,148,PASS
+f2_action_semantics_found,10,>0,PASS
+f2_benchmark_semantics_found,4,>0,PASS
+queue_or_mc_candidate_found,10,>0,PASS
+performance_contract_frozen,True,True,PASS
+validation_conclusion_frozen,True,True,PASS
+integration_resolution_only_no_simulation,True,True,PASS

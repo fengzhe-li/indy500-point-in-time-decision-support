@@ -1,0 +1,6 @@
+﻿metric,value
+forensic_rows,6
+v2_attempt_id_wrong_rows,0
+v2_metadata_only_wrong_rows,0
+v2_ambiguous_rows,3
+recommended_remediation,MANUAL_OR_TARGETED_RECONCILIATION_REQUIRED

@@ -1,0 +1,114 @@
+{
+  "phase": "R4F8H-B",
+  "purpose": "Resolve existing cutoff/session-end evidence only.",
+  "candidate_field_rows": 133,
+  "populated_candidate_field_rows": 118,
+  "exact_remaining_candidate_rows": 21,
+  "session_end_candidate_rows": 91,
+  "text_candidate_files": 131,
+  "top_candidate_paths": [
+    [
+      "r4/output/r4f8f_wait_queue_report_v1.json",
+      7
+    ],
+    [
+      "weather/output/queue_wait_cutoff_feasibility_grid_v1.csv",
+      5
+    ],
+    [
+      "r4/output/r4f8h_a_final_mc_readiness_report_v1.json",
+      5
+    ],
+    [
+      "weather/output/contemporaneous_decision_state_evidence_ledger_v2.csv",
+      4
+    ],
+    [
+      "r4/output/r4f8h_a_action_readiness_v1.csv",
+      3
+    ],
+    [
+      "weather/output/leaderboard_rescue_2022_candidate_adjudication_v1.csv",
+      3
+    ],
+    [
+      "weather/output/repeat_delta_outlier_error_contribution_v1.csv",
+      3
+    ],
+    [
+      "r4/config/observable_scenario.template.json",
+      3
+    ],
+    [
+      "r4/output/r4f8f_wait_queue_model_contract_v1.json",
+      3
+    ],
+    [
+      "r4/state/pit_wall_state.schema.json",
+      3
+    ],
+    [
+      "r4/state/observable_scenario.schema.json",
+      3
+    ],
+    [
+      "weather/output/r3b4_monte_carlo_performance_decision_envelope_v1.json",
+      3
+    ],
+    [
+      "weather/output/final_capability_summary_v1.json",
+      3
+    ],
+    [
+      "weather/output/r3b4_monte_carlo_action_envelope_v1.csv",
+      2
+    ],
+    [
+      "weather/output/decision_time_observable_state_v4_final.csv",
+      2
+    ],
+    [
+      "weather/output/r3b_simulator_input_pack_v1.csv",
+      2
+    ],
+    [
+      "weather/output/final_integrated_decision_compact_v1.csv",
+      2
+    ],
+    [
+      "weather/output/decision_time_observable_state_v2.csv",
+      2
+    ],
+    [
+      "weather/output/leaderboard_rescue_2022_external_temporal_evidence_v1.csv",
+      2
+    ],
+    [
+      "weather/output/decision_time_observable_state_v3.csv",
+      2
+    ],
+    [
+      "weather/output/large_gain_event_evidence_audit_v1.csv",
+      2
+    ],
+    [
+      "weather/output/decision_time_state_v3_transition_outcome_evidence.csv",
+      2
+    ],
+    [
+      "weather/output/r3c_final_monte_carlo_action_envelope_v1.csv",
+      2
+    ],
+    [
+      "weather/output/decision_time_observable_state_v4_1_final.csv",
+      2
+    ],
+    [
+      "weather/output/r3c_final_monte_carlo_action_envelope_v2.csv",
+      2
+    ]
+  ],
+  "important_boundary": "Presence of a field or textual mention does not establish decision-safe session remaining. Candidates require semantic inspection before use.",
+  "final_mc_executed": false,
+  "next_step": "Inspect the strongest populated session-end/cutoff candidates. If no defensible decision-safe source exists, freeze an explicit structural cutoff sensitivity policy rather than fabricating historical exact session remaining."
+}

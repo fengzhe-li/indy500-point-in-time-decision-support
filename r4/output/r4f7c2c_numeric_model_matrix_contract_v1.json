@@ -1,0 +1,51 @@
+{
+  "phase": "R4F7C2C",
+  "status": "R4F7C2C_FROZEN_NUMERIC_MODEL_MATRIX_READY",
+  "rows": {
+    "all": 110,
+    "development": 104,
+    "validation": 6
+  },
+  "split_policy": {
+    "development": [
+      2020,
+      2021,
+      2023
+    ],
+    "validation_only": [
+      2024
+    ],
+    "2022": "DEGRADED_CHRONOLOGY_VALIDATION_NOT_IN_MATRIX",
+    "2025": "TECHNICAL_REGIME_TRANSFER_NOT_IN_MAIN_MATRIX"
+  },
+  "target": "target_four_lap_average_speed_mph",
+  "reference": "fast_friday_reference_mph",
+  "secondary_target": "target_reference_residual_mph",
+  "ptsc_join_policy": "Same year. Latest PTSC observation with utc_datetime <= performance_time_utc. No future PTSC interpolation.",
+  "ptsc_slope_policy": "Slope computed from the two latest PTSC observations that both occurred no later than performance time.",
+  "hrrr_join_policy": "Direct attempt_id join to weather/output/performance_context_features.csv. Require leakage_safe=true and selected_issue_time_utc <= performance_time_utc.",
+  "initial_thermal_feature_set": [
+    "ptsc_track_temp_c_past_safe",
+    "ptsc_track_temp_slope_c_per_min_past_safe",
+    "forecast_temp_c",
+    "forecast_relative_humidity_pct",
+    "forecast_wind_speed_10m_ms",
+    "forecast_pressure_hpa",
+    "forecast_gust_ms",
+    "forecast_cloud_cover_pct",
+    "forecast_shortwave_radiation_wm2"
+  ],
+  "wind_direction_policy": "Raw direction retained for provenance; sin/cos transformation provided for modeling.",
+  "forbidden_same_attempt_predictor_features": [
+    "lap1_speed_mph",
+    "lap2_speed_mph",
+    "lap3_speed_mph",
+    "lap4_speed_mph",
+    "lap1_to_lap4_delta_mph",
+    "lap1_to_lap2_delta_mph",
+    "lap2_to_lap3_delta_mph",
+    "lap3_to_lap4_delta_mph",
+    "four_lap_total_seconds"
+  ],
+  "important_boundary": "Lap/run-shape measurements are outcomes for this attempt and are not external predictors of the same attempt's four-lap average speed."
+}

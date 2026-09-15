@@ -1,0 +1,9 @@
+metric,value,expected,status
+development_rows,104,104,PASS
+development_years,"2020,2021,2023","2020,2021,2023",PASS
+past_state_leakage_violations,0,0,PASS
+2024_validation_read,False,False,PASS
+common_field_excludes_current_driver,True,True,PASS
+strictly_earlier_time_rule,True,True,PASS
+historical_action_labels_used,False,False,PASS
+past_proxies_not_declared_latent_truth,True,True,PASS

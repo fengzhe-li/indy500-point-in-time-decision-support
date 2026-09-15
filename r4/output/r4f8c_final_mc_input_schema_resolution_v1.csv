@@ -1,0 +1,132 @@
+file,exists,rows,column,classes,sample_values
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,decision_id,,DAY1_2020_10_POST_FIRST_ATTEMPT | DAY1_2020_14_POST_FIRST_ATTEMPT | DAY1_2020_20_POST_FIRST_ATTEMPT | DAY1_2020_22_POST_FIRST_ATTEMPT
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,year,,2020 | 2021 | 2023
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,session_regime,TIME,DAY1
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,car_number,,10 | 14 | 20 | 22
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,driver_name,,Felix Rosenqvist | Tony Kanaan | Ed Carpenter | Simon Pagenaud
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,decision_stage,,POST_FIRST_ATTEMPT
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,source_attempt_id,,6041dd38-4b6d-5e38-81fd-8006cbe0bafd | cbdbf766-10d3-516e-83ad-3cb56f8c02fb | 9a2e168d-3dda-5e76-8daf-588c20d91341 | 2fb75f25-92ad-5b41-90a1-3a1457ae8012
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,current_result_mph,CURRENT_RESULT,230.254000 | 229.154000 | 229.811000 | 228.836000
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,current_rank,CURRENT_RESULT,9 | 18 | 12 | 1
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,benchmark_type,BENCHMARK,FAST_NINE_ADVANCEMENT | TOP_12_ADVANCEMENT
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,benchmark_rank,BENCHMARK,9 | 12
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,benchmark_speed_mph,BENCHMARK;PERFORMANCE,230.254000 | 230.539000 | 230.472000 | 227.099000
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,margin_to_benchmark_mph,BENCHMARK,0.000000 | -1.385000 | -0.443000 | -1.636000
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,qualification_state,,CURRENTLY_INSIDE_ADVANCEMENT | CURRENTLY_OUTSIDE_ADVANCEMENT
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,has_protected_result,CURRENT_RESULT;ACTION,True
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,feasible_action_set,ACTION,STOP|RETAIN_AND_REATTEMPT|WITHDRAW_AND_PRIORITY_REATTEMPT
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,action_mask_STOP,ACTION,True
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,action_mask_REATTEMPT,ACTION,False
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,action_mask_RETAIN_AND_REATTEMPT,ACTION,True
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,action_mask_WITHDRAW_AND_REATTEMPT,ACTION,False
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,action_mask_WITHDRAW_AND_PRIORITY_REATTEMPT,ACTION,True
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,observed_action,ACTION,STOP | REATTEMPT_SEMANTICS_UNRESOLVED
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,action_resolved,ACTION,True | False
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,action_evidence_quality,ACTION,HIGH | PARTIAL
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,decision_time_utc,TIME,2020-08-15T16:22:25+00:00 | 2020-08-15T17:19:05+00:00 | 2020-08-15T16:27:25+00:00 | 2020-08-15T17:09:06+00:00
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,time_quality,TIME,APPROXIMATE_POINT
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,state_numeric_complete,,True
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,thermal_state_available,,False
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,performance_uncertainty_available,PERFORMANCE,True
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,wait_model_available,WAIT,True
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,shared_feature_link_status,,PERFORMANCE_AND_WAIT_READY_THERMAL_PENDING
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,upstream_safe_for_policy_fit,,True | False
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,action_evidence_eligible,ACTION,True | False
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,decision_state_eligible,,True
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,counterfactual_model_input_eligible,,True
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,validation_only,,False
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,dataset_role,,COUNTERFACTUAL_MODEL_INPUT
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,hard_optimality_truth,,False
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,source_interface,,R4F1_DAY1
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,resolved_mc_eligibility_field,,decision_state_eligible
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,resolved_feasible_actions,ACTION,STOP;RETAIN_AND_REATTEMPT;WITHDRAW_AND_PRIORITY_REATTEMPT
+r4/output/r4f8b_final_mc_eligible_decision_rows_v1.csv,True,50,resolved_feasible_action_count,ACTION,3
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,decision_id,,DAY1_2020_10_POST_FIRST_ATTEMPT | DAY1_2020_14_POST_FIRST_ATTEMPT | DAY1_2020_20_POST_FIRST_ATTEMPT | DAY1_2020_22_POST_FIRST_ATTEMPT
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,year,,2020 | 2021 | 2023
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,session_regime,TIME,DAY1
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,driver_name,,Felix Rosenqvist | Tony Kanaan | Ed Carpenter | Simon Pagenaud
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,car_number,,10 | 14 | 20 | 22
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,source_attempt_id,,6041dd38-4b6d-5e38-81fd-8006cbe0bafd | cbdbf766-10d3-516e-83ad-3cb56f8c02fb | 9a2e168d-3dda-5e76-8daf-588c20d91341 | 2fb75f25-92ad-5b41-90a1-3a1457ae8012
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,decision_time_utc,TIME,2020-08-15T16:22:25+00:00 | 2020-08-15T17:19:05+00:00 | 2020-08-15T16:27:25+00:00 | 2020-08-15T17:09:06+00:00
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,action,ACTION,STOP | RETAIN_AND_REATTEMPT | WITHDRAW_AND_PRIORITY_REATTEMPT
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,current_result_mph,CURRENT_RESULT,230.254 | 229.154 | 229.811 | 228.836
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,current_rank,CURRENT_RESULT,9 | 18 | 12 | 1
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,benchmark_type,BENCHMARK,FAST_NINE_ADVANCEMENT | TOP_12_ADVANCEMENT
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,benchmark_rank,BENCHMARK,9 | 12
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,benchmark_speed_mph,BENCHMARK;PERFORMANCE,230.254 | 230.539 | 230.472 | 227.099
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,requires_wait_draw,WAIT,False | True
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,requires_new_attempt,,False | True
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,protected_result_retained,CURRENT_RESULT;ACTION,True | False
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,withdrawal_risk,ACTION,False | True
+r4/output/r4f8b_final_mc_action_expansion_v1.csv,True,150,wait_model_available,WAIT,True
+r4/output/r4f8b_final_action_mc_contract_v1.json,True,1,phase,,R4F8B
+r4/output/r4f8b_final_action_mc_contract_v1.json,True,1,status,,R4F8B_FINAL_ACTION_MC_CONTRACT_FROZEN
+r4/output/r4f8b_final_action_mc_contract_v1.json,True,1,canonical_decision_interface,,r4/output/r4f2_canonical_fused_decision_dataset_v2.csv
+r4/output/r4f8b_final_action_mc_contract_v1.json,True,1,counterfactual_eligibility_field,,decision_state_eligible
+r4/output/r4f8b_final_action_mc_contract_v1.json,True,1,decision_rows_total,,148
+r4/output/r4f8b_final_action_mc_contract_v1.json,True,1,mc_eligible_decision_rows,,50
+r4/output/r4f8b_final_action_mc_contract_v1.json,True,1,expanded_feasible_action_rows,ACTION,150
+r4/output/r4f8b_final_action_mc_contract_v1.json,True,1,performance_model,,"{'architecture': 'FAST_FRIDAY_REFERENCE_PLUS_ONLINE_SHRUNK_FIELD_CALIBRATION', 'shrinkage_k': 3.0, 'prior_mean_residual_mph': -0.685759615384616, 'prior_sd_residual_mph': 0.9003554799066349, 'external_validation_status': 'DEVELOPMENT_SUPPORTED_EXTERNAL_VALIDATION_MIXED', 'required_behavior': 'Use pe"
+r4/output/r4f8b_final_action_mc_contract_v1.json,True,1,action_semantics,ACTION,"{'STOP': {'new_attempt': False, 'wait_draw': False, 'protected_result_retained': True}, 'REATTEMPT': {'new_attempt': True, 'wait_draw': True, 'protected_result_retained': False, 'use_case': 'No protected valid result currently exists.'}, 'RETAIN_AND_REATTEMPT': {'new_attempt': True, 'wait_draw': Tru"
+r4/output/r4f8b_final_action_mc_contract_v1.json,True,1,monte_carlo_order,,"['sample_wait_time', 'propagate_session_calibration_uncertainty', 'sample_future_attempt_performance', 'sample_completion_or_no-run', 'sample_competitor_evolution', 'apply_action_result_retention_semantics', 'compute_final_result_and_rank']"
+r4/output/r4f8b_final_action_mc_contract_v1.json,True,1,mandatory_outputs,,"['p_beat_current_result', 'p_cross_advancement_benchmark', 'p_worse_than_current', 'p_complete_reattempt', 'expected_future_attempt_speed_mph', 'expected_final_result_mph', 'expected_rank_change', 'downside_probability', 'mean_wait_minutes', 'q50_wait_minutes', 'q95_wait_minutes']"
+r4/output/r4f8b_final_action_mc_contract_v1.json,True,1,uncertainty_policy,PERFORMANCE,"{'early_session': 'Broad calibration uncertainty is mandatory because 2024 external validation showed weak transport of the development prior mean.', 'online_update': 'Calibration uncertainty may shrink as strictly earlier current-session field observations accumulate.', 'run_noise': 'Future run per"
+r4/output/r4f8b_final_action_mc_contract_v1.json,True,1,historical_action_policy,ACTION,Historical observed actions are replay/sanity evidence only. They are never treated as optimality labels.
+r4/output/r4f8b_final_action_mc_contract_v1.json,True,1,old_r4p11_policy,,Reuse only wait-distribution mechanics/provenance where compatible. Do not reuse old p_improve/p_worse values as final counterfactual outputs because the performance model has changed.
+r4/output/r4f8b_final_action_mc_contract_v1.json,True,1,2024_policy,,External validation is frozen. No Action MC parameter may be selected by improving 2024 performance metrics.
+r4/output/r4f8b_final_action_mc_contract_v1.json,True,1,next_phase,,R4F8C_DECISION_LEVEL_STOCHASTIC_INPUT_ASSEMBLY
+r4/output/r4f7c7_final_performance_architecture_contract_v1.json,True,1,phase,,R4F7C7
+r4/output/r4f7c7_final_performance_architecture_contract_v1.json,True,1,status,,R4F7C7_FINAL_DEVELOPMENT_ARCHITECTURE_FROZEN
+r4/output/r4f7c7_final_performance_architecture_contract_v1.json,True,1,primary_performance_architecture,,FAST_FRIDAY_REFERENCE_PLUS_ONLINE_SHRUNK_FIELD_CALIBRATION
+r4/output/r4f7c7_final_performance_architecture_contract_v1.json,True,1,equation,,predicted_speed_i_t = FastFridayReference_i + ((k * prior_mean) + (n_t * observed_field_mean_t)) / (k + n_t)
+r4/output/r4f7c7_final_performance_architecture_contract_v1.json,True,1,selected_shrinkage_k,,3.0
+r4/output/r4f7c7_final_performance_architecture_contract_v1.json,True,1,development_selected_k_loyo_mae_mph,,0.6260306430673608
+r4/output/r4f7c7_final_performance_architecture_contract_v1.json,True,1,frozen_cross_year_prior_mean_residual_mph,PERFORMANCE,-0.685759615384616
+r4/output/r4f7c7_final_performance_architecture_contract_v1.json,True,1,frozen_cross_year_prior_sd_mph,PERFORMANCE,0.9003554799066349
+r4/output/r4f7c7_final_performance_architecture_contract_v1.json,True,1,prior_training_years,,"[2020, 2021, 2023]"
+r4/output/r4f7c7_final_performance_architecture_contract_v1.json,True,1,development_rows,,104
+r4/output/r4f7c7_final_performance_architecture_contract_v1.json,True,1,online_field_state_policy,,"{'eligible_observations': 'Only same-session qualifying attempts strictly earlier than the prediction time.', 'entry_exclusion': ""Current driver's earlier observations are excluded from the common field mean."", 'same_timestamp_policy': 'Attempts at the same timestamp are not allowed to inform one an"
+r4/output/r4f7c7_final_performance_architecture_contract_v1.json,True,1,model_promotion_decisions,,"{'FAST_FRIDAY_REFERENCE': 'PROMOTED_AS_ENTRY_STRENGTH_PRIOR', 'ONLINE_SHRUNK_FIELD_MEAN': 'PROMOTED_AS_PRIMARY_SESSION_CALIBRATION', 'ONLINE_RUNNING_FIELD_MEAN': 'RETAINED_AS_SIMPLER_ABLATION', 'ONLINE_EWMA': 'RETAINED_AS_DYNAMIC_ABLATION', 'ONLINE_KALMAN_LATENT_WINDOW': 'NOT_PROMOTED_COMPLEXITY_NOT"
+r4/output/r4f7c7_final_performance_architecture_contract_v1.json,True,1,thermal_role,,Auxiliary physical/context evidence and ablation only. Do not treat as a stable universal qualifying-speed coefficient.
+r4/output/r4f7c7_final_performance_architecture_contract_v1.json,True,1,latent_window_interpretation,,The selected online session-calibration posterior is the operational estimate of current field performance state. A more complex Kalman latent process was tested but did not earn promotion.
+r4/output/r4f7c7_final_performance_architecture_contract_v1.json,True,1,uncertainty_policy_for_next_phase,PERFORMANCE,Prediction uncertainty must include residual/run noise and calibration uncertainty; uncertainty should shrink as current-session field evidence accumulates.
+r4/output/r4f7c7_final_performance_architecture_contract_v1.json,True,1,validation_boundary,,"{'2024': 'UNOPENED_DURING_DEVELOPMENT_SELECTION_AND_RESERVED_FOR_FINAL_VALIDATION', '2022': 'DEGRADED_CHRONOLOGY_ROBUSTNESS_ONLY', '2025': 'TECHNICAL_REGIME_TRANSFER_ONLY'}"
+r4/output/r4f7c7_final_performance_architecture_contract_v1.json,True,1,next_phase,,R4F7V1_FINAL_2024_VALIDATION
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,decision_id,,2021_24_POST_GUARANTEED_BREAK | 2021_12_POST_GUARANTEED_BREAK | 2021_16_POST_GUARANTEED_BREAK | 2021_75_POST_GUARANTEED_BREAK
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,year,,2021 | 2023 | 2024
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,session_regime,TIME,LAST_CHANCE
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,source_session_regime,TIME,LAST_ROW | LAST_CHANCE
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,car_number,,24 | 12 | 16 | 75
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,driver_name,,Sage Karam | Will Power | Simona De Silvestro | RC Enerson
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,decision_stage,,POST_GUARANTEED_BREAK | FINAL_DECISION
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,qualification_state,,PROVISIONALLY_QUALIFIED | PROVISIONALLY_ON_BUBBLE | OUTSIDE_FIELD | OUTSIDE_FIELD_AFTER_BUMP
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,current_rank,CURRENT_RESULT,1 | 2 | 3 | 4
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,current_result_mph,CURRENT_RESULT,229.156000 | 228.876000 | 228.353000 | 229.649000
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,benchmark_type,BENCHMARK,LAST_CHANCE_SURVIVAL_BUBBLE
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,benchmark_speed_mph,BENCHMARK;PERFORMANCE,228.353000 | 229.159000 | 229.974000
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,margin_to_benchmark_mph,BENCHMARK,0.803000 | 0.523000 | 0.000000 | 0.490000
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,has_protected_result,CURRENT_RESULT;ACTION,True | False
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,outside_field,,False | True
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,action_semantics_regime,ACTION,LAST_CHANCE
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,feasible_action_set,ACTION,STOP|WITHDRAW_AND_REATTEMPT | STOP|REATTEMPT
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,action_mask_STOP,ACTION,True
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,action_mask_REATTEMPT,ACTION,False | True
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,action_mask_RETAIN_AND_REATTEMPT,ACTION,False
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,action_mask_WITHDRAW_AND_REATTEMPT,ACTION,True | False
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,action_mask_WITHDRAW_AND_PRIORITY_REATTEMPT,ACTION,False
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,observed_action_raw,ACTION,STOP | REATTEMPT
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,observed_action_unified,ACTION,STOP | REATTEMPT
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,withdrawal_required_for_observed_action,ACTION,False
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,outcome,,QUALIFIED_P31 | QUALIFIED_P32 | QUALIFIED_P33 | FAILED_TO_QUALIFY
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,state_quality,,MEDIUM | LOW | HIGH
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,action_quality,ACTION,HIGH
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,safe_for_policy_fit,,True | False
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,exact_timestamp,TIME,
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,time_remaining_seconds,TIME,
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,time_quality,TIME,UNKNOWN
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,thermal_state_available,,False
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,performance_uncertainty_available,PERFORMANCE,False
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,wait_model_available,WAIT,False
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,shared_feature_link_status,,PENDING
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,evidence_role,,POLICY_FIT_CANDIDATE | ACTION_ONLY_UNTIL_FIRST_RUN_SPEED_RESOLVED | POLICY_FIT_CANDIDATE_WITH_PARTIAL_NUMERIC_STATE | HIGH_VALUE_REPLAY_AND_POLICY_CANDIDATE
+r4/output/r4lc5e_last_chance_fused_interface_v2.csv,True,10,note,,Karam held one of the three qualifying positions after the guaranteed pass and did not make another attempt. | Power remained inside the qualifying three and did not make another Last Row attempt. | De Silvestro occupied the third qualifying position and did not make another attempt. | Enerson is known to have taken a second shot. His two official speeds exist but first-versus-second ordering is not yet independently resolved.

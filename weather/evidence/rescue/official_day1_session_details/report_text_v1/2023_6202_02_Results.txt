@@ -1,0 +1,106 @@
+Event:         107th Running of the Indianapolis 500                                                     Round 6
+Track:         Indianapolis Motor Speedway                                                          2.5 mile(s)
+
+Report:        Official Qualification Results                                       NTT INDYCAR SERIES
+Session: Qualifications - Day 1                                                                   May 20, 2023
+Rank   Car Driver Name             C/E/T   Lap 1     Lap 2     Lap 3      Lap 4      Total Time     Speed     Qualified On      Status
+
+ 1     6    Rosenqvist, Felix      D/C/F   38.4076   38.4107   38.4977    38.5650    02:33.8810     233.947       Day 1
+ 2     7    Rossi, Alexander       D/C/F   38.4325   38.5016   38.5623    38.6605    02:34.1569     233.528       Day 1
+ 3     10   Palou, Alex            D/H/F   38.4209   38.5113   38.6079    38.7031    02:34.2432     233.398       Day 1
+ 4     21   VeeKay, Rinus          D/C/F   38.4776   38.5261   38.6047    38.6365    02:34.2449     233.395       Day 1
+ 5     9    Dixon, Scott           D/H/F   38.4939   38.5038   38.5797    38.6810    02:34.2584     233.375       Day 1
+ 6     66   Kanaan, Tony           D/C/F   38.4521   38.5745   38.5677    38.6825    02:34.2768     233.347       Day 1
+ 7     11   Sato, Takuma           D/H/F   38.4476   38.5243   38.6581    38.6632    02:34.2932     233.322       Day 1
+ 8     5    O'Ward, Pato           D/C/F   38.4896   38.5635   38.6360    38.6503    02:34.3394     233.252       Day 1
+ 9     14   Ferrucci, Santino      D/C/F   38.5334   38.5873   38.6082    38.6804    02:34.4093     233.147       Day 1
+ 10    8    Ericsson, Marcus       D/H/F   38.5372   38.5840   38.6487    38.7167    02:34.4866     233.030       Day 1
+ 11    55   Pedersen, Benjamin     D/C/F   38.5775   38.6520   38.6975    38.7527    02:34.6797     232.739       Day 1
+ 12    12   Power, Will            D/C/F   38.6071   38.6492   38.7095    38.7274    02:34.6932     232.719       Day 1
+ 13    33   Carpenter, Ed          D/C/F   38.5227   38.7270   38.6922    38.7709    02:34.7128     232.689       Day 1
+ 14    3    McLaughlin, Scott      D/C/F   38.6409   38.6626   38.7084    38.7087    02:34.7206     232.677       Day 1
+ 15    27   Kirkwood, Kyle         D/H/F   38.5478   38.6164   38.7279    38.8390    02:34.7311     232.662       Day 1
+ 16    20   Daly, Conor            D/C/F   38.6052   38.6759   38.7675    38.8347    02:34.8833     232.433       Day 1
+ 17    2    Newgarden, Josef       D/C/F   38.6863   38.7298   38.7262    38.7616    02:34.9039     232.402       Day 1
+ 18    23   Hunter-Reay, Ryan      D/C/F   38.7189   38.7366   38.7918    38.8364    02:35.0837     232.133       Day 1
+ 19    28   Grosjean, Romain       D/H/F   38.6964   38.7765   38.8336    38.8679    02:35.1744     231.997       Day 1
+ 20    06   Castroneves, Helio     D/H/F   38.7358   38.7982   38.8212    38.8480    02:35.2032     231.954       Day 1
+ 21    26   Herta, Colton          D/H/F   38.7148   38.8143   38.8344    38.8420    02:35.2055     231.951       Day 1
+ 22    60   Pagenaud, Simon        D/H/F   38.8072   38.7957   38.7981    38.8529    02:35.2539     231.878       Day 1
+ 23    18   Malukas, David         D/H/F   38.7209   38.7854   38.8755    38.9452    02:35.3270     231.769       Day 1
+ 24    98   Andretti, Marco        D/H/F   38.7379   38.7932   38.9270    38.9276    02:35.3857     231.682       Day 1
+ 25    24   Wilson, Stefan         D/C/F   38.7534   38.7871   38.9713    38.8965    02:35.4083     231.648       Day 1
+ 26    29   DeFrancesco, Devlin    D/H/F   38.7679   38.8045   38.8869    39.1468    02:35.6061     231.353       Day 1
+ 27    78   Canapino, Agustin      D/C/F   38.7073   38.8576   38.9894    39.0744    02:35.6287     231.320       Day 1
+ 28    77   Ilott, Callum          D/C/F   38.7146   38.7908   38.9774    39.2384    02:35.7212     231.182       Day 1
+ 29    50   Enerson, RC            D/C/F   38.7988   38.8882   38.9780    39.0924    02:35.7574     231.129       Day 1
+ 30    44   Legge, Katherine       D/H/F   38.8607   38.8971   39.0152    39.0241    02:35.7971     231.070       Day 1        On Bubble
+ 31    6    Rosenqvist, Felix      D/C/F   38.5361   38.6051   38.6180    38.6816    02:34.4408     233.099       Day 1          Retired
+ 32    9    Dixon, Scott           D/H/F   38.5775   38.6184   38.6693    38.6983    02:34.5635     232.914       Day 1          Retired
+ 33    11   Sato, Takuma           D/H/F   38.5384   38.5860   38.6600    38.8170    02:34.6014     232.857       Day 1          Retired
+ 34    8    Ericsson, Marcus       D/H/F   38.5730   38.6795   38.6882    38.7415    02:34.6822     232.735       Day 1          Retired
+ 35    12   Power, Will            D/C/F   38.6048   38.6739   38.6955    38.7250    02:34.6992     232.710       Day 1      Failed Attempt
+ 36    33   Carpenter, Ed          D/C/F   38.5647   38.6653   38.7188    38.8103    02:34.7591     232.620       Day 1          Retired
+ 37    66   Kanaan, Tony           D/C/F   38.5723   38.6564   38.7293    38.8011    02:34.7591     232.620       Day 1          Retired
+ 38    27   Kirkwood, Kyle         D/H/F   38.5869   38.6586   38.7137    38.8013    02:34.7605     232.617       Day 1          Retired
+ 39    2    Newgarden, Josef       D/C/F   38.5849   38.6578   38.7735    38.7944    02:34.8106     232.542       Day 1        Withdrawn
+ 40    33   Carpenter, Ed          D/C/F   38.5836   38.6258   38.7312    38.8906    02:34.8312     232.511       Day 1      Failed Attempt
+ 41    3    McLaughlin, Scott      D/C/F   38.5415   38.6547   38.7370    38.9034    02:34.8366     232.503       Day 1          Retired
+ 42    66   Kanaan, Tony           D/C/F   38.5433   38.6605   38.8131    38.8576    02:34.8745     232.446       Day 1          Retired
+ 43    8    Ericsson, Marcus       D/H/F   38.5276   38.6283   38.6949    39.0403    02:34.8911     232.421       Day 1      Failed Attempt
+ 44    27   Kirkwood, Kyle         D/H/F   38.6052   38.7087   38.7974    38.8006    02:34.9119     232.390       Day 1          Retired
+ 45    20   Daly, Conor            D/C/F   38.5909   38.7277   38.7784    38.8186    02:34.9156     232.385       Day 1      Failed Attempt
+ 46    12   Power, Will            D/C/F   38.6411   38.7237   38.7738    38.8136    02:34.9522     232.330       Day 1          Retired
+ 47    28   Grosjean, Romain       D/H/F   38.7143   38.8006    0.0000     0.0000    01:17.5149     232.213       Day 1        Waved Off
+ 48    78   Canapino, Agustin      D/C/F   38.7507   38.7866    0.0000     0.0000    01:17.5373     232.146       Day 1        Waved Off
+ 49    98   Andretti, Marco        D/H/F   38.7434   38.7956    0.0000     0.0000    01:17.5390     232.141       Day 1        Waved Off
+ 50    23   Hunter-Reay, Ryan      D/C/F   38.6743   38.7171   38.8352    38.8919    02:35.1185     232.081       Day 1      Failed Attempt
+ 51    98   Andretti, Marco        D/H/F   38.7836    0.0000    0.0000     0.0000    00:38.7836     232.057       Day 1        Waved Off
+ 52    26   Herta, Colton          D/H/F   38.6848   38.7480   38.8827    38.9719    02:35.2874     231.828       Day 1      Failed Attempt
+ 53    20   Daly, Conor            D/C/F   38.7662   38.8242   38.9216     0.0000    01:56.5120     231.736       Day 1        Waved Off
+ 54    60   Pagenaud, Simon        D/H/F   38.8746   38.8206   38.8374    38.8492    02:35.3818     231.687       Day 1          Retired
+ 55    26   Herta, Colton          D/H/F   38.7201   38.8145   38.9124    38.9434    02:35.3904     231.675       Day 1      Failed Attempt
+ 56    23   Hunter-Reay, Ryan      D/C/F   38.7399   38.7693   38.9397    38.9830    02:35.4319     231.613       Day 1          Retired
+ 57    60   Pagenaud, Simon        D/H/F   38.8929   38.8663   38.9231     0.0000    01:56.6823     231.398       Day 1        Waved Off
+ 58    24   Wilson, Stefan         D/C/F   38.8129   38.9009   38.9944    38.8961    02:35.6043     231.356       Day 1          Retired
+ 59    26   Herta, Colton          D/H/F   38.6037   38.6703   38.7888    39.5874    02:35.6502     231.288       Day 1      Failed Attempt
+ 60    29   DeFrancesco, Devlin    D/H/F   38.8124   38.8955   38.9580    38.9940    02:35.6599     231.273       Day 1          Retired
+ 61    06   Castroneves, Helio     D/H/F   38.8082   39.0891    0.0000     0.0000    01:17.8973     231.073       Day 1        Waved Off
+ 62    45   Lundgaard, Christian   D/H/F   38.8988   38.9105   38.9799    39.0175    02:35.8067     231.056       Day 1          Bumped
+ 63    18   Malukas, David         D/H/F   38.9032   38.8696   38.9551    39.0963    02:35.8242     231.030       Day 1          Bumped
+ 64    24   Wilson, Stefan         D/C/F   38.7157   38.8315   38.9290    39.4001    02:35.8763     230.952       Day 1      Failed Attempt
+ 65    45   Lundgaard, Christian   D/H/F   38.9353   38.9722   38.9841    39.0479    02:35.9395     230.859       Day 1          Bumped
+ 66    18   Malukas, David         D/H/F   38.9385   38.9513   39.0419    39.0620    02:35.9937     230.779       Day 1          Bumped
+ 67    51   Robb, Sting Ray        D/H/F   38.9401   38.9841   39.0172    39.0785    02:36.0199     230.740       Day 1      Failed Attempt
+ 68    45   Lundgaard, Christian   D/H/F   38.9636   39.0196   39.0552    39.0658    02:36.1042     230.615       Day 1      Failed Attempt
+ 69    45   Lundgaard, Christian   D/H/F   39.0077   39.0478   39.0213    39.0908    02:36.1676     230.522       Day 1          Retired
+ 70    06   Castroneves, Helio     D/H/F   38.8166   38.8957   39.3872    39.1434    02:36.2429     230.410       Day 1          Retired
+ 71    18   Malukas, David         D/H/F   38.9874   39.0457   39.1848     0.0000    01:57.2179     230.340       Day 1        Waved Off
+ 72    51   Robb, Sting Ray        D/H/F   38.9809   39.0495   39.0945    39.2484    02:36.3733     230.218       Day 1      Failed Attempt
+ 73    30   Harvey, Jack           D/H/F   39.0507   39.0956   39.1445    39.1641    02:36.4549     230.098       Day 1          Bumped
+ 74    15   Rahal, Graham          D/H/F   39.0861   39.1752    0.0000     0.0000    01:18.2613     229.999       Day 1        Waved Off
+ 75    51   Robb, Sting Ray        D/H/F   39.0773   39.1162   39.1856    39.1735    02:36.5526     229.955       Day 1          Bumped
+ 76    30   Harvey, Jack           D/H/F   39.1114   39.1735    0.0000     0.0000    01:18.2849     229.929       Day 1        Waved Off
+ 77    51   Robb, Sting Ray        D/H/F   39.0580   39.1525   39.2805     0.0000    01:57.4910     229.805       Day 1        Waved Off
+ 78    30   Harvey, Jack           D/H/F   39.1363   39.1429   39.2401     0.0000    01:57.5193     229.749       Day 1        Waved Off
+ 79    15   Rahal, Graham          D/H/F   39.1838   39.1993   39.1886     0.0000    01:57.5717     229.647       Day 1        Waved Off
+ 80    15   Rahal, Graham          D/H/F   39.2514   39.2332   39.2416    39.5372    02:37.2634     228.915       Day 1      Failed Attempt
+ 81    15   Rahal, Graham          D/H/F   39.0353   39.1774   39.3529    39.9655    02:37.5311     228.526       Day 1          Bumped
+ 82    77   Ilott, Callum          D/C/F   39.1374   39.4435   39.6922    39.8158    02:38.0889     227.720       Day 1          Bumped
+
+                                                               Information provided by Indy Racing Information System - Copyright INDYCAR 2023
+83   28   Grosjean, Romain   D/H/F    38.7933     38.8543    42.7821     0.0000    02:00.4297     224.197       Day 1        Waved Off
+84   2    Newgarden, Josef   D/C/F    38.6818     42.8345     0.0000     0.0000    01:21.5163     220.815       Day 1        Waved Off
+
+                                                Field Average: 232.435 mph
+
+
+                                     Day 1 = May 20th : Pole Day = May 21st (Top 12, Fast 6)
+
+                             (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+
+
+                                                             Information provided by Indy Racing Information System - Copyright INDYCAR 2023
+

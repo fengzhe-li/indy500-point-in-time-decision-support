@@ -1,0 +1,12 @@
+﻿metric,value,status
+repeat_target_exact,1,PASS
+repeat_driver_count,8,PASS
+limited_simulator_ready,1,PASS
+full_observable_simulator_not_claimed,1,PASS
+hard_recommendation_not_claimed,1,PASS
+queue_wait_remains_latent,1,PASS
+service_remains_unknown,1,PASS
+rubber_grip_remains_unknown,1,PASS
+tire_state_remains_unknown,1,PASS
+elapsed_time_track_evolution_prohibited,1,PASS
+protected_ledgers_mutated,0,PASS

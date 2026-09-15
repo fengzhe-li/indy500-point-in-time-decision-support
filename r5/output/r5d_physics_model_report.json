@@ -1,0 +1,24 @@
+{
+  "candidate_models": [
+    "M0_ELAPSED_REFERENCE",
+    "M1_TRACK_LINEAR",
+    "M2_TRACK_NONLINEAR",
+    "M3_THERMAL_AIR_SOLAR",
+    "M4_EXTENDED_PHYSICS",
+    "M5_ONLINE_STATE",
+    "M_PHYSICS_PLUS_FF",
+    "ABLATION_PHYSICS_NO_TRACK",
+    "ABLATION_PHYSICS_NO_SOLAR"
+  ],
+  "coefficient_stability_warning": false,
+  "no_refit_after_evaluation": true,
+  "selected_model": "M1_TRACK_LINEAR",
+  "status": "PASS_WITH_LIMITATIONS",
+  "transition_N": 27,
+  "validation_metrics": {
+    "bias_mph": 0.21549381202880374,
+    "mae_mph": 0.9828447049529573,
+    "n": 27,
+    "rmse_mph": 1.320729989290426
+  }
+}

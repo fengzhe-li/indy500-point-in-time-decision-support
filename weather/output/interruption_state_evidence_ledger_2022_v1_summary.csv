@@ -1,0 +1,10 @@
+﻿metric,value
+ledger_rows,5
+approximate_timing_rows,2
+bounded_timing_rows,1
+derived_timing_rows,1
+ordering_only_rows,1
+track_cleaning_supported_rows,0
+track_reset_supported_rows,0
+known_grip_state_rows,0
+known_rubber_state_rows,0

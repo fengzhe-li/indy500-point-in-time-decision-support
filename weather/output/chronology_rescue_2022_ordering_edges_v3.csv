@@ -1,0 +1,4 @@
+﻿edge_id,from,relation,to,constraint_class,notes
+R1G8-4CA12B2302B8CFA3,MCLAUGHLIN_231.543_WITHDRAWN,BEFORE,MCLAUGHLIN_230.154_RERUN,ORDERING_ONLY,Secondary reporting plus official Results.
+R1G8-FECD1D2E195F8489,NEWGARDEN_231.580_ORIGINAL,BEFORE,NEWGARDEN_NO_ATTEMPT_RERUN,ORDERING_ONLY,Rerun began before second weather interruption.
+R1G8-55B2CF1B91F97DCB,NEWGARDEN_NO_ATTEMPT_RERUN,BEFORE_OR_INTERRUPTED_BY,SECOND_WEATHER_STOP,ORDERING_ONLY,Rerun had begun when weather caution stopped qualifying. Exact lap not fixed.

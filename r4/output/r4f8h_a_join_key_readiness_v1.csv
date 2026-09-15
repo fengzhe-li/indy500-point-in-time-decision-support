@@ -1,0 +1,9 @@
+semantic,decision_field,decision_nonempty,action_field,action_nonempty,wait_field,wait_nonempty,uncertainty_field,uncertainty_nonempty
+decision_id,fused_decision_id,60,fused_decision_id,170,,0,fused_decision_id,60
+action,,0,feasible_action,170,feasible_action,18,,0
+regime,regime,60,regime,170,regime,18,regime,60
+protected,protected_result_exists,60,protected_result_exists,170,,0,,0
+wait_distribution_id,,0,,0,distribution_id,18,,0
+predictive_mean,,0,,0,,0,predictive_mean_speed_mph,59
+predictive_sd,,0,,0,,0,predictive_sd_mph,59
+sample_ready,,0,,0,,0,performance_sample_ready,60

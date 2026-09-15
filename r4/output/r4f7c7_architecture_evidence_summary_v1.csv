@@ -1,0 +1,11 @@
+phase,test,model,mae_mph,interpretation
+R4F7C3,DRIVER_GROUPED_5FOLD,FAST_FRIDAY_REFERENCE_ONLY,0.8603942307692318,Baseline development comparison
+R4F7C3,DRIVER_GROUPED_5FOLD,FAST_FRIDAY_PLUS_THERMAL_RIDGE,0.6210645907344868,Baseline development comparison
+R4F7C4,YEAR_OFFSET_ATTRIBUTION,FAST_FRIDAY_PLUS_YEAR_OFFSET,0.6185963243468279,Tests whether thermal survives explicit annual calibration
+R4F7C4,YEAR_OFFSET_ATTRIBUTION,FAST_FRIDAY_PLUS_YEAR_OFFSET_PLUS_THERMAL_RIDGE,0.6269857164706202,Tests whether thermal survives explicit annual calibration
+R4F7C6,ONLINE_LOYO,ONLINE_SHRUNK_FIELD_MEAN,0.6375277441895731,Prospective sequential held-out-year evaluation
+R4F7C6,ONLINE_LOYO,ONLINE_RUNNING_FIELD_MEAN,0.6433468082148519,Prospective sequential held-out-year evaluation
+R4F7C6,ONLINE_LOYO,ONLINE_EWMA,0.649188162368072,Prospective sequential held-out-year evaluation
+R4F7C6,ONLINE_LOYO,ONLINE_KALMAN_LATENT_WINDOW,0.6509577162050777,Prospective sequential held-out-year evaluation
+R4F7C6,ONLINE_LOYO,CROSS_YEAR_PRIOR_CALIBRATION,0.656311837477292,Prospective sequential held-out-year evaluation
+R4F7C6,ONLINE_LOYO,FAST_FRIDAY_REFERENCE_ONLY,0.8603942307692318,Prospective sequential held-out-year evaluation

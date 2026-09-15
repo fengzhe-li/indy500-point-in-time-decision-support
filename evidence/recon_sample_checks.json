@@ -1,0 +1,23 @@
+{
+  "description": "One-off full-snapshot value-presence check, NOT a reconstructed chronology. Deltas not applied. A hit does not identify start time or prove uniqueness.",
+  "2021": {
+    "official_four_positive_laps": 51,
+    "same_car_lap4_value_seen": 50,
+    "missing_car": "98",
+    "missing_lap4_seconds": 39.2059
+  },
+  "2024": {
+    "official_four_positive_laps": 54,
+    "same_car_lap4_value_seen": 53,
+    "missing_rows": [
+      [
+        "35",
+        "26",
+        "Herta, Colton",
+        "38.8186",
+        null
+      ]
+    ],
+    "full_snapshot_count": 1550
+  }
+}

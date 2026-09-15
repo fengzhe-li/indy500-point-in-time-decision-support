@@ -1,0 +1,5 @@
+metric,value,expected,status
+bundle_http_200,200,200,PASS
+bundle_nontrivial,606987,>10000,PASS
+endpoint_related_hits,433,>0,PASS
+url_candidates,319,>0,PASS

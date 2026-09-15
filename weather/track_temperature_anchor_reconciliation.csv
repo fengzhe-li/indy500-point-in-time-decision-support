@@ -1,0 +1,4 @@
+anchor_observation_id,year,local_time,utc_datetime,anchor_value_f,anchor_source_class,ptsc_track_f,ptsc_sensor_avg_f,ptsc_track_minus_anchor_f,ptsc_sensor_avg_minus_anchor_f,match_method,assessment
+TC2022-T01,2022,11:00:00,2022-05-21T15:00:00Z,85.0,INDYCAR_OFFICIAL_EDITORIAL,86.0,85.625,1.0,0.625,EXACT_LOCAL_TIMESTAMP_NO_INTERPOLATION,Values differ; retained as separate source observations without forcing agreement.
+TC2022-T02,2022,12:30:00,2022-05-21T16:30:00Z,107.0,INDYCAR_OFFICIAL_EDITORIAL,105.0,105.3,-2.0,-1.7,EXACT_LOCAL_TIMESTAMP_NO_INTERPOLATION,Values differ; retained as separate source observations without forcing agreement.
+TC2024-T01,2024,11:00:00,2024-05-18T15:00:00Z,94.6,REPUTABLE_SECONDARY_SESSION_REPORT,95.0,94.95,0.4,0.35,EXACT_LOCAL_TIMESTAMP_NO_INTERPOLATION,Values differ; retained as separate source observations without forcing agreement.

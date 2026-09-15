@@ -1,0 +1,39 @@
+{
+  "phase": "R4F6F",
+  "status": "R4F6F_CANONICAL_FAST_FRIDAY_REFERENCE_PANEL_READY",
+  "candidate_rows": 2,
+  "canonical_rows": 2,
+  "reference_hierarchy": [
+    "FOUR_LAP_QUALIFYING_SIM",
+    "NO_TOW_SINGLE_LAP",
+    "GENERAL_FAST_FRIDAY_BEST_SPEED"
+  ],
+  "summary": [
+    {
+      "year": 2021,
+      "canonical_driver_references": 0,
+      "four_lap_refs": 0,
+      "no_tow_refs": 0,
+      "general_fast_friday_refs": 0,
+      "model_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2023,
+      "canonical_driver_references": 1,
+      "four_lap_refs": 0,
+      "no_tow_refs": 0,
+      "general_fast_friday_refs": 1,
+      "model_role": "CORE_DEVELOPMENT"
+    },
+    {
+      "year": 2024,
+      "canonical_driver_references": 1,
+      "four_lap_refs": 0,
+      "no_tow_refs": 0,
+      "general_fast_friday_refs": 1,
+      "model_role": "VALIDATION_ONLY"
+    }
+  ],
+  "important_constraint": "Automatic parsing is intentionally conservative. Ambiguous editorial/PDF contexts are retained in diagnostics and are not silently promoted.",
+  "next_phase": "Audit canonical driver coverage against Day1 qualifying entries, repair missing driver/car joins, then construct hierarchical pre-session entry references."
+}

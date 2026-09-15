@@ -1,0 +1,16 @@
+metric,value,expected,status
+2021_drivers_api,43,>0,PASS
+2021_driver_event_objects_found,35,>0,PASS
+2021_event_wide_session_union_nonempty,13,>0,PASS
+2021_target_session_found,1,>0,PASS
+2021_session_5847_details_json,True,True,PASS
+2023_drivers_api,37,>0,PASS
+2023_driver_event_objects_found,33,>0,PASS
+2023_event_wide_session_union_nonempty,12,>0,PASS
+2023_target_session_found,1,>0,PASS
+2023_session_6205_details_json,True,True,PASS
+2024_drivers_api,43,>0,PASS
+2024_driver_event_objects_found,34,>0,PASS
+2024_event_wide_session_union_nonempty,13,>0,PASS
+2024_target_session_found,1,>0,PASS
+2024_session_6385_details_json,True,True,PASS

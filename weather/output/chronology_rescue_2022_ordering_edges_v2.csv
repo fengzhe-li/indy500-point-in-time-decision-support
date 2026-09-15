@@ -1,0 +1,2 @@
+﻿edge_id,year,from_car_number,from_driver,from_speed_mph,from_result_status,to_car_number,to_driver,to_speed_mph,to_result_status,relation,constraint_class,source,chronology_usable,queue_replay_usable,notes
+R1G6-BDBAF01B5E1F4111,2022,51,Takuma Sato,232.196,Failed Attempt,51,Takuma Sato,231.708,,BEFORE,ORDERING_ONLY,INDYCAR_OFFICIAL_EDITORIAL+INDYCAR_OFFICIAL_RESULTS,True,False,First attempt disallowed; second attempt explicitly required.

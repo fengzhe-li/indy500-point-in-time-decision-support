@@ -1,0 +1,13 @@
+metric,value,expected,status
+final_decision_rows,60,60,PASS
+source_attempts_resolved,50,EXPECTED_AROUND_57,WARN
+source_attempts_unresolved,10,EXPECTED_AROUND_3,WARN
+resolved_rows_partition,50,50,PASS
+next_attempt_partition,26,26,PASS
+r4p5_crosscheck_rows,19,MEASURED,PASS
+r4p5_attempt_id_mismatches,0,0,PASS
+historical_actions_used_as_optimal_labels,False,False,PASS
+future_outcomes_used_as_r4f8h_inputs,False,False,PASS
+between_attempt_interval_called_queue_wait,False,False,PASS
+future_final_leaderboard_used,False,False,PASS
+model_refit,False,False,PASS

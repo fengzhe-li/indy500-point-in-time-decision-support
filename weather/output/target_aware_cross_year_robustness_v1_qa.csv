@@ -1,0 +1,15 @@
+﻿metric,value,status
+input_rows_equal_39,1,PASS
+input_normal_rows_equal_35,1,PASS
+input_recovery_rows_equal_4,1,PASS
+three_holdout_years,1,PASS
+profile_rows_match_expected,1,PASS
+recovery_rows_match_expected,1,PASS
+all_probabilities_in_0_1,1,PASS
+no_training_fold_loses_all_normal_rows,1,PASS
+no_training_fold_loses_all_recovery_rows,1,PASS
+all_policy_hashes_present,1,PASS
+loyo_profile_rows,24,INFO
+max_absolute_probability_deviation,0.10238095238095235,INFO
+max_loyo_probability_range,0.15128205128205124,INFO
+policy_hash,540fe455f49d9f77e8ee762467f460dc9c7134929a88d1ddad761ddd869771a1,INFO

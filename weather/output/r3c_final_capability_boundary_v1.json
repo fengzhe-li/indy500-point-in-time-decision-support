@@ -1,0 +1,26 @@
+{
+  "phase": "R3C.0",
+  "final_state_version": "V4_FINAL",
+  "driver_count": 8,
+  "first_attempt_speed_repairs": [],
+  "unresolved_first_attempt_speeds": [
+    "Scott McLaughlin"
+  ],
+  "absolute_envelope_rows_repaired": 0,
+  "sato_case": {
+    "classification": "REQUIRED_REATTEMPT_CASE",
+    "elective_stop_lane1_lane2_comparison": false,
+    "r3b4_envelope_role": "GENERIC_MATHEMATICAL_COUNTERFACTUAL_ONLY"
+  },
+  "rossi_mclaughlin_lane1": "DIRECT_HISTORICAL_ACTION_SUPPORTED",
+  "other_lane_assignments": "NOT_FULLY_IDENTIFIABLE",
+  "r3b4_monte_carlo_draws_changed": false,
+  "performance_only_lane2_nondominance": "PERFORMANCE_ONLY_DOWNSIDE_PROTECTION;NOT_A_DECISION_RECOMMENDATION",
+  "queue_wait": "LATENT_NOT_HISTORICAL_TRUTH",
+  "2022_future_weather": "NOT_IDENTIFIABLE_NOT_USED",
+  "rank_cutoff_probability": "NOT_IDENTIFIABLE",
+  "repeat_completion_probability": "NOT_MODELED",
+  "hard_recommendation_ready": false,
+  "final_supported_system": "UNCERTAINTY_AWARE_PERFORMANCE_DECISION_SUPPORT_WITH_EXPLICIT_IDENTIFIABILITY_BOUNDARIES",
+  "next_phase": "R3C0_REVIEW_REQUIRED"
+}

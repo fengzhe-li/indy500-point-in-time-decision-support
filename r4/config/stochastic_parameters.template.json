@@ -1,0 +1,34 @@
+{
+  "schema_version": "R4_STOCHASTIC_PARAMETERS_V1",
+  "status": "NOT_CONFIGURED",
+  "simulation": {
+    "trials_per_action": null,
+    "master_seed": null,
+    "seed_derivation": "SHA256_COMPONENT_STREAM_V1",
+    "actions": [
+      "STOP_RETAIN_CURRENT_RESULT",
+      "REPEAT_LANE2_RETAIN_CURRENT_RESULT",
+      "REPEAT_LANE1_WITHDRAW_CURRENT_RESULT"
+    ]
+  },
+  "models": {
+    "queue_wait_model": {"implementation": "NOT_CONFIGURED", "parameters": null},
+    "future_environment_model": {"implementation": "NOT_CONFIGURED", "parameters": null},
+    "repeat_performance_model": {"implementation": "NOT_CONFIGURED", "parameters": null},
+    "competitor_action_model": {"implementation": "NOT_CONFIGURED", "parameters": null},
+    "interruption_random_shock_model": {"implementation": "NOT_CONFIGURED", "parameters": null},
+    "leaderboard_update_model": {"implementation": "NOT_CONFIGURED", "parameters": null},
+    "utility_risk_profile_evaluator": {"implementation": "NOT_CONFIGURED", "parameters": null}
+  },
+  "research_definitions": {
+    "success_indicator": null,
+    "downside_indicator": null,
+    "utility_function": null,
+    "risk_profiles": null,
+    "decision_thresholds": null
+  },
+  "r3c1_read_only_inputs": {
+    "freeze_manifest": "weather/output/final_results_freeze_manifest_v1.csv",
+    "capability_summary": "weather/output/final_capability_summary_v1.json"
+  }
+}

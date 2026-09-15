@@ -1,0 +1,17 @@
+﻿metric,value,status
+ledger_row_count_is_5,5,PASS
+queue_state_ids_unique,1,PASS
+expected_state_set_exact,1,PASS
+mclaughlin_explicit_lane_rows_is_1,1,PASS
+mclaughlin_front_position_rows_is_1,1,PASS
+generic_line_membership_rows_is_2,2,PASS
+ordering_rows_is_2,2,PASS
+ilott_queue_position_not_inferred,1,PASS
+malukas_sato_lane_not_inferred,1,PASS
+exact_queue_wait_inferred,0,PASS
+bounded_queue_wait_inferred,0,PASS
+exact_timestamp_inferred,0,PASS
+inter_attempt_gap_used_as_queue_wait,0,PASS
+chronology_mutation,0,PASS
+action_lane_mutation,0,PASS
+decision_state_mutation,0,PASS

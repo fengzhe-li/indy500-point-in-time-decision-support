@@ -1,0 +1,332 @@
+candidate
+!== e.SessionType) return void console.warn(
+!== n.SessionType) return void console.warn(
+!== t.Track })).forEach((function (t) { var r = e.Points.find((function (e) { return e.EventsSessionsID === t.EventsSessionsID })); n.push(r ? r.Points :
+!== t.tagName && t.addEventListener(
+!==C.readyState&&!C.documentElement.doScroll?ie.setTimeout(ce.ready):(C.addEventListener(
+"!==t.params.mousewheel.eventsTarget&&(s=document.querySelector(t.params.mousewheel.eventsTarget)),s[e]("
+"!=typeof ce&&ce.event.triggered!==e.type?ce.event.dispatch.apply(t,arguments):void 0}),l=(e=(e||"
+"!=typeof g&&H(m.clicker).addClass(g),nt(m.clicker,{action:g},function(e){e.preventDefault(),Xe(t,e.data.action,!0)}),h.push(m.display)}u=at(t,"
+!=typeof i.el&&(i.el.removeEventListener(
+!=typeof t.el&&(t.el.removeEventListener(
+"!=typeof v.data&&(v.data=ce.param(v.data,v.traditional)),Vt(Bt,v,t,T),h)return T;for(i in(g=ce.event&&v.global)&&0==ce.active++&&ce.event.trigger("
+#all-drivers-results-table
+#all-drivers-results-table-container
+#all-races-results-table
+#all-races-results-table tbody
+#all-races-results-table-container
+#combined-results-btn
+#driver-practice-results-table
+#driver-practice-results-table tbody
+#driver-practice-results-table-container
+#driver-qualification-results-table
+#driver-qualification-results-table tbody
+#driver-qualification-results-table-container
+#driver-race-results-table
+#driver-race-results-table tbody
+#driver-race-results-table-container
+#driver-results .tabs-bar-scrolling-container
+#driver-results .tabs-details-descriptor
+#driver-results .tabs-details-header
+#driver-results .tabs-details-subheader
+#event-summary-btn
+#hdnEvent
+#hdnSession
+#overall-results-btn
+#practice-results-table
+#practice-results-table tbody
+#practice-results-table-container
+#qualifying-results-table
+#qualifying-results-table tbody
+#qualifying-results-table-container
+#race-results .tabs-details-descriptor
+#race-results .tabs-details-header
+#race-results .tabs-details-subheader
+#race-results-table
+#race-results-table tbody
+#race-results-table-container
+#season-results .tabs-details-header
+#season-results .tabs-details-subheader
+#season-results-table
+#season-results-table tbody
+#section-results-btn
+#top-section-times-btn
+&eventID=
+") ? e() : function (e) { if (!t) { e.preventDefault(), t = !0; var r = document.getElementById("
+") ? o(t) : n(t) })), t.addEventListener("
+") } return t.preventDefault(), !1 })) })), MicroModal.init({ onClose: function (t) { console.log("
+") })) })), document && document.addEventListener("
+") }, delegateYield: function (t, e, n) { return this.delegate = { iterator: O(t), resultName: e, nextLoc: n },"
+") }, delegateYield: function (t, r, n) { return this.delegate = { iterator: O(t), resultName: r, nextLoc: n },"
+)) { e.preventDefault(); var a = n.querySelector(
+")))}function p(){let{nextEl:e,prevEl:s}=t.navigation;e=T(e),s=T(s);const a=(e,s)=>{e.removeEventListener("
+")), a && (e = r.EventName) })), n.SeasonEvents.length > 0 && (r("
+")), n.SessionReports && n.SessionReports.length > 0 ? (r("
+")),s.forEach((e=>{e.complete?G(t,e):e.addEventListener("
+")),s.removeEventListener("
+)); try { var f = function () { var t = u.value; t.addEventListener(
+)); try { var v = function () { var t = p.value; t.addEventListener(
+"))}),r.wrapperEl.addEventListener("
+"))}function d(e){e.preventDefault(),(!t.isEnd||t.params.loop||t.params.rewind)&&(t.slideNext(),i("
+"), BuildAllDriversDisplay() }, error: this.ErrorHandler }) }, BuildDriverEventsDropDown = function () { var t = r("
+"), Results: r("
+"), e.focus(), e.addEventListener("
+"), n.Session = r(this).data("
+"), n.SessionReports.forEach((function (t) { if ("
+"), r(!0), e(!0) }(t, i) })), t.addEventListener("
+"), r(), n.addEventListener("
+"), setTimeout((function () { t = !1 }), 300) } }, r = function (r) { r.preventDefault(); var n = document.getElementById("
+"), t) })), null == e || e.addEventListener("
+"), t.UpdateSession() })), r("
+"), this.addEventListeners(), this.config.awaitOpenAnimation) { var o = function t() { e.modal.removeEventListener("
+"), this.removeEventListeners(), this.scrollBehaviour("
+"),Object.keys(s.eventsListeners).forEach((e=>{s.off(e)})),!1!==e&&(s.el&&"
+"),e.addEventListener("
+"),e}function Fe(e,t){var n,r,i,o,a,s;if(1===t.nodeType){if(_.hasData(e)&&(s=_.get(e).events))for(i in _.remove(t,"
+"),i.params.autoplay.waitForTransition?i.wrapperEl.addEventListener("
+"),n=ce.event.fix(e);n.type="
+"),s.initialized=!1,s.detachEvents(),a.loop&&s.loopDestroy(),t&&(s.removeClasses(),i&&"
+).addEventListener(
+").concat(r.EventName,"
+).concat(r.EventName.replaceAll(
+").concat(r.EventsSessionID,"
+").concat(r.SessionName,"
+").concat(t.EventName,"
+").concat(t.SessionId,"
+").concat(t.SessionName,"
+").forEach((e=>{a.eventsListeners[e]||(a.eventsListeners[e]=[]),a.eventsListeners[e][i](t)})),a},once(e,t,s){const a=this;if(!a.eventsListeners||a.destroyed)return a;if("
+).forEach((function (t) { t.addEventListener(
+").sort(),d){f=ce.event.special[d]||{},p=u[d=(r?f.delegateType:f.bindType)||d]||[],s=s[2]&&new RegExp("
+").text(e), this.UpdateRace()) }, a.prototype.UpdateRace = function () { var t = n.SeasonEvents.find((function (t) { return t.EventName.replaceAll("
+).text(e.SessionDate ||
+).text(e.SessionName ||
+").text(formattedEventDate);
+
+                    if (response.EventLogo) {
+                        $("
+).text(n.DriverEvent ||
+").text(n.Season) }, error: this.ErrorHandler }), BuildDriverNamesDropDown(), BuildDriverEventsDropDown() }, BuildDriverNamesDropDown = function () { var t = r("
+").text(response.RadioFrequency);
+
+                    let formattedEventDate = formatEventDate(response.EventStartDate, response.EventEndDate);
+                    $("
+").then((function () { n() })), window.addEventListener("
+).then((function (e) { e.addEventListener(
+").then((function (t) { a(), t.addEventListener("
+).then((function (t) { null == t || t.addEventListener(
+).then((function (t) { null == t || t.forEach((function (t) { t.addEventListener(
+).then((function (t) { t.addEventListener(
+).then((function (t) { t.forEach((function (t) { t.addEventListener(
+").toLowerCase() === n.Race })); t && (n.SeasonSessions = t.Sessions, this.PopulateSessionTabs()) }, a.prototype.PopulateSessionTabs = function () { var t = r("
+").toLowerCase() === n.Session })); -1 !== a && (e = a) } n.SeasonSessions.forEach((function (r, n) { var a = n === e ?"
+").val(), success: function (t) { n.DriverEvents = t, r("
+"):[];if(o=f=a=n=n||C,3!==n.nodeType&&8!==n.nodeType&&!Dt.test(d+ce.event.triggered)&&(-1<d.indexOf("
+"):e)),t};var Dt=/^(?:focusinfocus|focusoutblur)$/,Nt=function(e){e.stopPropagation()};ce.extend(ce.event,{trigger:function(e,t,n,r){var i,o,a,s,u,l,c,f,p=[n||C],d=ue.call(e,"
+"); a.append(n) })), n.DriverSessions.length > 0 && i(n.DriverSessions[0].SessionId), r("
+"); a.empty(), n.DriverSessions.length ? (n.DriverSessions.forEach((function (t, e) { var r = 0 === e ?"
+); e && e.addEventListener(
+); e && r && e.addEventListener(
+"); function a(t) { this.options = r.extend({}, this.defaults(), t), this.delegateEvents(), this.init() } function o(t) { var e = r("
+); if (s && null != a && a.events) { s.innerHTML =
+"); if (t.empty(), n.SeasonSessions && 0 !== n.SeasonSessions.length) { var e = 0; if (n.Session) { var a = n.SeasonSessions.findIndex((function (t) { return t.SessionName.replaceAll("
+); n.addEventListener(
+); r && e.addEventListener(
+); r ? (r.addEventListener(
+); r.forEach((function (t) { t.addEventListener(
+); t.addEventListener(
+"); t.empty(), n.Race || (n.Race = n.SeasonEvents[0].EventName.replaceAll("
+); var e = n.DriverSessions.find((function (e) { return e.SessionId.trim() == t })); if (e && e.Result) { var a = e.Result; r(
+)>=0&&nt().addEventListener(
+)}))}function pt(){nt().removeEventListener(
+")},detachEvents:function(){J(this,"
+"+ t, success: function (e) { if (e && e.Results) { c(), r("
+"+d,(e=e[ce.expando]?e:new ce.Event(d,"
+", (function () { c(t) })), r.addEventListener("
+", (function (e) { e.preventDefault(),"
+", (function (e) { e.preventDefault(), n(t) })), t.addEventListener("
+", (function (e) { e.preventDefault(); var r = t.closest("
+", (function (e) { e.preventDefault(); var r = t.getAttribute("
+", (function (e) { e.target === t && s() })), document.addEventListener("
+", (function (n) { n.preventDefault(); var o = t.getAttribute("
+", (function (o) { o.preventDefault(), a.forEach((function (t) { return t.setAttribute("
+", (function (t) { t.preventDefault(), e() })) })), document.addEventListener("
+", (function (t) { t.preventDefault(); var e = r(this).text().trim(), a = r(this).data("
+", (function (t) { t.preventDefault(); var e = r(this).text().trim(), n = r(this).data("
+", (function (t) { t.preventDefault(); var e = r(this).text().trim(); n.Season = e, r("
+", (function (t) { t.preventDefault(); var e = r(this).text().trim(); r("
+", (function (t) { t.preventDefault(); var e = t.currentTarget, n = e.dataset.videoId || e.getAttribute("
+", (function (t) { t.preventDefault(); var n ="
+", (function e() { t.classList.remove(o), t.removeEventListener("
+", a) })), document.addEventListener("
+", e.SessionType); r("
+", e.arg = o.arg, e.delegate = null, g; var i = o.arg; return i ? i.done ? (e[t.resultName] = i.value, e.next = t.nextLoc,"
+", function (e) {
+        e.preventDefault();
+
+        var raceName = $(this).data("
+", n.DriverEvents = [], n.DriverEvent ="
+", n.DriverSessions = [], n.ActiveTab ="
+", n.Session ="
+", n.SessionType); r("
+", r.arg = o.arg, r.delegate = null, g; var i = o.arg; return i ? i.done ? (r[t.resultName] = i.value, r.next = t.nextLoc,"
+", response.EventLogo);
+                    }
+
+                    var broadcastList = $("
+", s), null == t || t.addEventListener("
+", t) } c(void 0) })) }); function i() { return o.apply(this, arguments) } return i }()(), window.addEventListener("
+", t), e.addEventListener("
+", t, !1), e.setFocusToFirstNode() }; this.modal.addEventListener("
+", this.onClick), document.addEventListener("
+", this.onClick), document.removeEventListener("
+", this.onClick), this.modal.addEventListener("
+", this.onClick), this.modal.removeEventListener("
+",!0),1));const o=a.activeIndex<r.slidesPerGroupSkip?1:l,d=a.virtual&&r.virtual.enabled;if(r.loop){if(n&&!d&&r.loopPreventsSliding)return!1;if(a.loopFix({direction:"
+",(()=>{i.params.autoplay.enabled&&(i.params.autoplay.pauseOnMouseEnter&&(i.el.addEventListener("
+",(()=>{l&&i.cancelAnimationFrame(l),n&&n.unobserve&&t.el&&(n.unobserve(t.el),n=null),i.removeEventListener("
+",(()=>{t.params.hashNavigation.enabled&&t.params.hashNavigation.watchState&&d.removeEventListener("
+",(()=>{t.params.history.enabled&&(()=>{const e=r();t.params.history.replaceState||e.removeEventListener("
+",(function s(a){a.target===e&&(t.call(e,a),e.removeEventListener("
+",(function(){Y.props.interactive&&Y.state.isVisible&&Y.clearDelayTimeouts()})),$.addEventListener("
+",D))}function D(){var t=performance.now();t-A<20&&(T.isTouch=!1,document.removeEventListener("
+",Et)}}))}function bt(){z.forEach((function(t){var e=t.node,n=t.eventType,r=t.handler,o=t.options;e.removeEventListener(n,r,o)})),z=[]}function yt(t){var e,n=!1;if(Y.state.isEnabled&&!Ot(t)&&!I){var r="
+",I)),a().addEventListener("
+",I)),a().removeEventListener("
+",L),i.el.addEventListener("
+",L),i.el.removeEventListener("
+",L,!0),t.el.addEventListener("
+",L,!0),t.el.removeEventListener("
+",L,r),window.addEventListener("
+",L,s),t.wrapperEl.addEventListener("
+",L,s),t.wrapperEl.removeEventListener("
+",P),ie.addEventListener("
+",P),ie.removeEventListener("
+",P),t.el.addEventListener("
+",S,!0),t.el.addEventListener("
+",S,!0),t.el.removeEventListener("
+",[T,v]),--ce.active||ce.event.trigger("
+",[Y]),P.showOnCreate&&Lt(),$.addEventListener("
+",ct,!0),t.addEventListener("
+",ct,!0),t.removeEventListener("
+",ct,r),t.addEventListener("
+",ct,r),t.removeEventListener("
+",d),t.keyboard.enabled=!0)}function p(){t.keyboard.enabled&&(l.removeEventListener("
+",e)}function S(e){const{scrollbar:s,wrapperEl:a}=t,{el:i,dragEl:n}=s;m&&(e.preventDefault&&e.cancelable?e.preventDefault():e.returnValue=!1,E(e),a.style.transitionDuration="
+",e.onTouchEnd,{passive:!0}),(i.preventClicks||i.preventClicksPropagation)&&r[d]("
+",f)}function p(){n.removeEventListener("
+",ft,r)}function vt(){var t=nt();t.removeEventListener("
+",g)}function w(){return t.params.cssMode?(t.wrapperEl.removeEventListener("
+",i)}function F(e){const t=a(),s=this,i=s.touchEventsData,{params:r,touches:n,rtlTranslate:l,enabled:d}=s;if(!d)return;if(!r.simulateTouch&&"
+",i)}}function c(){t.keyboard.enabled||(l.addEventListener("
+",initialSlide:0,speed:300,cssMode:!1,updateOnWindowResize:!0,resizeObserver:!0,nested:!1,createElements:!1,eventsPrefix:"
+",lt,r),t.addEventListener("
+",lt,r),t.removeEventListener("
+",o),i.addEventListener("
+",o),i.removeEventListener("
+",p)):t.params.history.replaceState||e.addEventListener("
+",r),A=r}function gt(t,n,r){void 0===r&&(r=!1),c(Y.props.triggerTarget||e).forEach((function(e){e.addEventListener(t,n,r),z.push({node:e,eventType:t,handler:n,options:r})}))}function ht(){var t;Z()&&(gt("
+",r.update,$),function(){a&&p.forEach((function(e){e.removeEventListener("
+",r.update,$)})),f&&c.addEventListener("
+",r.update,$)})),f&&c.removeEventListener("
+",s),null===(t=js.get(e))||void 0===t||t(),window.removeEventListener("
+",t)}on(t,e){this.events[t]||(this.events[t]=new n);const s=this.events[t].add(e);return"
+",t,function(e){13===e.which&&(e.preventDefault(),n(e))}).on("
+",touchEventsTarget:"
+",w))),E()&&T(t.pagination.el).forEach((e=>{e.removeEventListener("
+",w))),s&&s.forEach((e=>e.removeEventListener("
+",w)}));a().removeEventListener("
+",w)}))}a().addEventListener("
+",{bubbles:!0,cancelable:!0,detail:{bySwiperTouchMove:!0}});s.wrapperEl.dispatchEvent(e)}i.allowMomentumBounce=!1,!r.grabCursor||!0!==s.allowSlideNext&&!0!==s.allowSlidePrev||s.setGrabCursor(!0),s.emit("
+",{bubbles:!0,cancelable:!0});t.wrapperEl.dispatchEvent(e)}))}))}}function ge(e,t,s){const a=`swiper-slide-shadow${s?`-${s}`:"
+-results-table
+.collapsible-section
+".concat(t.EventID,"
+.event-card
+.event-card-container
+.event-card-expand-collapse-header-button
+.event-card-header-chevron
+.event-card-title-container
+.radio-homepage-event-title
+.results-container
+/Results/
+/api/radio/GetPodcastEpisodes
+/api/radio/GetRaceSchedule
+/api/results/AllTimeWinnerSeriesByYear?year=
+/api/results/AllTimeWinnerYears
+/api/results/AllTimeWinnersByYearSeries?year=
+/api/results/DriverEventDetails?driverID=
+/api/results/DriverYearDetails?year=
+/api/results/DriversByYear?year=
+/api/results/EventsByYearSeries?year=
+/api/results/EventsSessionDetails?id=
+/api/results/SeasonDropDown?id=
+/api/results/YearPointSummary?year=
+/api/results/YearsBySeries?series=
+/results
+/results?type=driver
+/results?type=season
+; n.SeasonEvents.forEach((function (r) { var a = r.EventName.replaceAll(
+"; var l, u = e(a.events); try { for (u.s(); !(l = u.n()).done;) { var d = l.value, f = document.createElement("
+=== e.SessionType) i =
+=== e.SessionType) r(
+"=== e.SessionType) { var p = r(f), h = p.find("
+=== e.key && !e.shiftKey) { e.preventDefault(); var s = document.getElementById(c); s && s.focus() } if (
+"=== e.key && (e.preventDefault(),"
+"=== e.key && (e.preventDefault(), n(t)) })) })), document.addEventListener("
+=== n.SessionType ? (r(
+"=== n.SessionType) n.records.forEach((function (t) { var e, r = t.DriverName ||"
+=== n.SessionType) r(
+"=== n.SessionType) { var d = r(u), f = d.find("
+===e.params.touchEventsTarget?
+"===e.pointerType)return;let c,p=e;if(p.originalEvent&&(p=p.originalEvent),"
+"===e.type&&e.progressbarOpposite&&s.classList.add(e.progressbarOppositeClass),e.clickable&&s.addEventListener("
+===i.pointerType)return;if(t.animating&&l.preventInteractionOnTransition)return;!t.animating&&l.cssMode&&l.loop&&t.loopFix();let p=i.target;if(
+"===t.params.touchEventsTarget?t.el:t.wrapperEl;t.isElement&&(t.__preventObserver__=!0),s.style.cursor="
+===t.props.followCursor&&t.state.isVisible}function u(){n.addEventListener(
+"===y.type?0:i(Y.props.delay,t?0:1,R.delay)}function it(t){void 0===t&&(t=!1),$.style.pointerEvents=Y.props.interactive&&!t?"
+"==typeof r[0]||Array.isArray(r[0])?(t=r[0],s=r.slice(1,r.length),a=e):(t=r[0].events,s=r[0].data,a=r[0].context||e),s.unshift(a);return(Array.isArray(t)?t:t.split("
+"==typeof(r=e)?Fs(r):Ms(r,o))),c.addEventListener("
+>No results available</td></tr>
+Combined Qualifying
+Combined Results
+Error fetching driver event details:
+Error loading driver results:
+Error loading session details:
+Event Summary
+EventListener
+MouseEvent
+No matching session found for:
+No sessions available for this event.
+Overall Results
+Results
+Season Race Results
+Section Results
+Top Section Times
+Unknown Event
+Unknown Session
+"].forEach((e=>{t.wrapperEl.addEventListener(e,z,s)})),t.wrapperEl.addEventListener("
+"].forEach((e=>{t.wrapperEl.removeEventListener(e,z,s)})),t.wrapperEl.removeEventListener("
+"]:null,e.preventDefault(),e.stopPropagation(),i.style.transitionDuration="
+addEventListener
+addEventListeners
+all-drivers-results-table
+data-eventid=
+driver-results
+event-card-collapsed
+event-card-completed
+eventListeners
+eventid
+events
+handle events
+iterator result is not an object
+main-link-desktop-results
+onPanSessionStart
+prevent
+preventOverflow
+race-results
+removeEventListener
+removeEventListeners
+season-results
+"},history:{replaceState(){},pushState(){},go(){},back(){}},CustomEvent:function(){return this},addEventListener(){},removeEventListener(){},getComputedStyle:()=>({getPropertyValue:()=>"
+}; document.addEventListener(
+"}={}){const r=D(t),o=new WeakMap,a=new IntersectionObserver(t=>{t.forEach(t=>{const n=o.get(t.target);if(t.isIntersecting!==Boolean(n))if(t.isIntersecting){const n=e(t);"

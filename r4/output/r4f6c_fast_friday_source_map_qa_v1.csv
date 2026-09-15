@@ -1,0 +1,5 @@
+metric,value,expected,status
+core_years_present,5,5,PASS
+2023_four_lap_reference_confirmed,YES,YES,PASS
+2024_validation_role_preserved,VALIDATION_ONLY_REFERENCE,VALIDATION_ONLY_REFERENCE,PASS
+2025_transfer_role_preserved,TECHNICAL_REGIME_TRANSFER_REFERENCE,TECHNICAL_REGIME_TRANSFER_REFERENCE,PASS

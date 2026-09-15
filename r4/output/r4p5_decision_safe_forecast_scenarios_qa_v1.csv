@@ -1,0 +1,6 @@
+metric,value,expected,status
+transition_rows_with_before_point_time,40,>0,PASS
+rows_with_selected_safe_cycle,40,>0,PASS
+future_realized_environment_used,0,0,PASS
+cycle_availability_guard_violations,0,0,PASS
+decision_time_safe_rows,40,40,PASS

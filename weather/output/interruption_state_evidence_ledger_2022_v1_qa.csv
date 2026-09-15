@@ -1,0 +1,12 @@
+﻿metric,value,status
+ledger_rows_is_5,5,PASS
+event_ids_unique,1,PASS
+expected_event_set_exact,1,PASS
+wet_terminal_state_exactly_one,1,PASS
+source_native_exact_times_invented,0,PASS
+rain_interpreted_as_track_reset,0,PASS
+restart_interpreted_as_known_grip,0,PASS
+track_cleaning_inferred,0,PASS
+rubber_effect_inferred,0,PASS
+elapsed_time_used_as_track_evolution,0,PASS
+active_ledger_mutation,0,PASS

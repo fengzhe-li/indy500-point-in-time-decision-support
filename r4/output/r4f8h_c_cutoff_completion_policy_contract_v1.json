@@ -1,0 +1,53 @@
+{
+  "phase": "R4F8H-C",
+  "status": "R4F8H_CUTOFF_COMPLETION_SENSITIVITY_POLICY_FROZEN",
+  "problem_statement": "Exact decision-safe historical session remaining is unavailable for the general 60-decision universe. Therefore completion before cutoff cannot be represented as an exact historical feature.",
+  "authoritative_policy": {
+    "type": "STRUCTURAL_SENSITIVITY_GRID",
+    "time_remaining_minutes": [
+      5,
+      10,
+      15,
+      20,
+      30,
+      45,
+      60
+    ],
+    "probability_distribution_over_scenarios": null,
+    "equal_probability_assumed": false,
+    "historical_frequency_claim": false,
+    "scenario_interpretation": "Each remaining-time value is evaluated separately. The grid is a sensitivity envelope, not a probability law."
+  },
+  "completion_rule": "sampled_wait_minutes + sampled_run_duration_minutes <= assumed_time_remaining_minutes",
+  "stop_semantics": {
+    "requires_new_attempt": false,
+    "completion_before_cutoff_applicable": false,
+    "wait_minutes": 0
+  },
+  "non_stop_semantics": {
+    "requires_new_attempt": true,
+    "cutoff_completion_must_be_evaluated": true
+  },
+  "2024_policy": {
+    "known_scheduled_end_support": "2024-05-18T21:50:00Z",
+    "use_case_specific_exact_join_only_if_decision_safe": true,
+    "generalize_to_other_years": false
+  },
+  "last_chance_policy": {
+    "exact_remaining_minutes_available": false,
+    "bounded_or_qualitative_timing_may_exist": true,
+    "fabricate_exact_countdown": false,
+    "use_structural_sensitivity_envelope": true
+  },
+  "research_integrity": {
+    "scenario_grid_is_historical_observation": false,
+    "scenario_grid_is_empirical_frequency": false,
+    "session_remaining_fabricated": false,
+    "last_chance_timestamp_fabricated": false,
+    "future_outcome_leakage": false,
+    "performance_refit": false,
+    "old_r4p11_final_probabilities_used": false
+  },
+  "downstream_requirement": "R4F8H final MC must report action outcomes conditional on remaining-time scenario unless a source-supported exact historical decision-time countdown exists.",
+  "final_recommendation_rule": "Do not collapse sensitivity scenarios into a single recommendation without explicitly documenting an aggregation policy."
+}

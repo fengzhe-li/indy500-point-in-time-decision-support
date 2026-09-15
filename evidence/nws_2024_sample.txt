@@ -1,0 +1,168 @@
+
+747 
+FXUS63 KIND 181239 AAA
+AFDIND
+
+Area Forecast Discussion...UPDATED
+National Weather Service Indianapolis IN
+839 AM EDT Sat May 18 2024
+
+.KEY MESSAGES...
+
+- Dense fog early this morning
+
+- Isolated showers and storms this afternoon
+
+- Unseasonably warm Sunday-Tuesday with highs in 80s...ahead 
+of increasing strong t-storm threat late Tuesday and Wednesday
+
+&&
+
+.FORECAST UPDATE...
+Issued at 839 AM EDT Sat May 18 2024
+
+Optimal conditions for dense fog are present this morning across 
+central Indiana. MSLP pattern supporting calm winds, good radiative 
+conditions, and residual low level moisture that has not been 
+displaced. As diabatic surface heating continues this morning, fog 
+will diminish. Satellite/ob trends suggest western and northern 
+portions of the fog layer are improving first, and by around 10:00am 
+southeast portions of Central Indiana will see improving visibility.
+
+&&
+
+.SHORT TERM (Today and tonight)...
+Issued at 259 AM EDT Sat May 18 2024
+
+Early This Morning...
+
+Mostly clear skies, light winds, and moist low level atmosphere and 
+ground have lead to some fog formation, especially across the 
+southern forecast area. Satellite and surface observations show that 
+dense fog is not widespread, but larger areas of thicker fog are 
+developing in the far south.
+
+Based on the satellite trends, and little change in the lower 
+atmosphere, have issued a Dense Fog Advisory for the far south and 
+southeast portions of the area. Will issue a Special Weather 
+Statement farther north and west and will watch trends for possible 
+expansion of the Advisory.
+
+Today...
+
+Fog will mix out after sunrise, but stratus will take longer to do 
+so in the southeast where thicker fog was. Cumulus will pop up 
+during the later morning and afternoon, so partly cloudy looks good 
+for overall sky cover today.
+
+The area will remain in some broad upper troughing, but best forcing 
+will be south of central Indiana, closer to an upper low in the 
+Tennessee Valley. 
+
+In addition, there may be some lingering old surface boundaries 
+across the area, based on convection seen Friday night. 
+
+Given these, and some weak instability this afternoon, will keep an 
+isolated shower/thunderstorm mention across the southeast two-thirds 
+of the area. Confidence is not high though given the weak forcing.
+
+Temperatures will warm to around 80 degrees most areas.
+
+Tonight...
+
+What, if any, convection that develops this afternoon should be gone 
+or below mentionable coverage by 00Z. Will continue with a dry 
+forecast this evening.
+
+Overnight, a front will approach the area from the northwest. 
+However, an upper ridge will have moved in. The front would have 
+limited moisture to work with anyway, and with the ridge aloft, feel 
+that central Indiana will remain dry.
+
+Wouldn't be surprised if some patchy fog returns in the south given 
+the light winds and continued low level moisture.
+
+Low temperatures will be around 60.
+
+&&
+
+.LONG TERM (Sunday through Friday)...
+Issued at 259 AM EDT Sat May 18 2024
+
+Sunday through Monday Night...
+
+Unseasonable warmth and rather humid conditions will be the rule 
+through early next week as heights build into Indiana from the 
+Mexican Highlands ahead of a slowly-plunging trough over the western 
+CONUS.  Broad yet very weak surface high pressure aligned from the 
+Great lakes to the Mid-Atlantic will oversee light winds Sunday that 
+should trend to light to moderate southerly breezes by late Monday. 
+Can't rule out a stray shower, especially late Monday...yet 
+confidence was too low to deviate from the Blend's 14/less POPs. 
+Dewpoints in the 60-65F range will guide overnight minimums...while 
+afternoon highs reach the mid to upper 80s both days courtesy of 
+ample sunshine.
+
+Tuesday through Friday...
+
+Central Indiana's proximity in the very warm and unseasonably humid 
+warm sector of a slowly-approaching cold front...for what should be 
+at least 3 periods into Wednesday...will present favorable 
+conditions for at least a couple rounds of strong to severe storms. 
+Diurnally driven instability possibly exceeding 2000-3000 J/kg both 
+Tuesday and Wednesday should combine with ample mid-level lapse 
+rates and increasing wind shear.  Uncertainty lies in embedded short 
+waves in the southwesterly flow from the central High Plains to 
+Upper Midwest which will influence lift and placement/timing of 
+forcing aloft.  Wednesday should present the greater threat of 
+stronger storms as the front approaches/crosses the CWA...although 
+any prior MCS around the Tuesday night timeframe (and subsequent 
+cloudiness) could dampen Wednesday's potential.  This dynamic and 
+variable set-up will be refined in further updates into early next 
+week.
+
+Behind the mid-week frontal passage...a few showers cannot be ruled 
+out amid modest westerly flow.  The next weather system should track 
+into the Upper Midwest as the workweek ends, with POPs increasing 
+again as it's cold front approached around the end of the long term.
+Both max and min temperatures will approach record levels into 
+Tuesday...before several days of seasonable conditions follow.
+
+&&
+
+.AVIATION (12Z TAF Issuance)...
+Issued at 642 AM EDT Sat May 18 2024
+
+Impacts:
+
+- IFR and worse conditions early in the period
+
+Discussion: 
+
+Fog and stratus will persist early in the period across all sites. 
+There remains some uncertainty on how fast fog and then stratus will 
+mix out, so timing in the TAFs only has low to medium confidence. 
+
+Cumulus will then form later this morning and persist into the 
+afternoon. An isolated shower or thunderstorm is possible this 
+afternoon, but odds are much too low to include in the TAF.
+
+Additional fog may form overnight tonight.
+
+
+&&
+
+.IND WATCHES/WARNINGS/ADVISORIES...
+Dense Fog Advisory until 10 AM EDT this morning for INZ035>037-
+039>042-044>049-051>057-060>065-068>072.
+
+&&
+
+$$
+
+UPDATE...BRB
+SHORT TERM...50
+LONG TERM...AGM
+AVIATION...50
+
+

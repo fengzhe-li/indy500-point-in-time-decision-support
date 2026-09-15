@@ -1,0 +1,64 @@
+Event:         106th Running of the Indianapolis 500                                                              Round 6
+Track:         Indianapolis Motor Speedway                                                                    2.5 mile(s)
+
+Report:        Official Qualification Results                                              NTT INDYCAR SERIES
+Session: Qualifications - Day 1                                                                           May 21, 2022
+Rank   Car Driver Name             C/E/T     Lap 1       Lap 2       Lap 3        Lap 4     Total Time        Speed     Qualified On      Status
+
+ 1     21   VeeKay, Rinus          D/C/F    38.3465     38.4745      38.5681     38.6839     02:34.0730       233.655      Day 1
+ 2     5    O'Ward, Pato           D/C/F    38.5602     38.5975      38.6591     38.6652     02:34.4820       233.037      Day 1
+ 3     7    Rosenqvist, Felix      D/C/F    38.5419     38.6049      38.8046     38.7044     02:34.6558       232.775      Day 1
+ 4     10   Palou, Alex            D/H/F    38.5293     38.5976      38.6919     38.8377     02:34.6565       232.774      Day 1
+ 5     1    Kanaan, Tony           D/H/F    38.5968     38.6797      38.7326     38.7464     02:34.7555       232.625      Day 1
+ 6     48   Johnson, Jimmie        D/H/F    38.6043     38.7216      38.7707     38.8104     02:34.9070       232.398      Day 1
+ 7     33   Carpenter, Ed          D/C/F    38.6342     38.6611      38.7016     38.9107     02:34.9076       232.397      Day 1
+ 8     8    Ericsson, Marcus       D/H/F    38.6717     38.7254      38.7977     38.7942     02:34.9890       232.275      Day 1
+ 9     28   Grosjean, Romain       D/H/F    38.6937     38.7306      38.8006     38.8129     02:35.0378       232.201      Day 1
+ 10    9    Dixon, Scott           D/H/F    38.6681     38.7453      38.7964     38.8618     02:35.0716       232.151      Day 1
+ 11    12   Power, Will            D/C/F    38.7121     38.7537      38.8492     38.9634     02:35.2784       231.842      Day 1
+ 12    51   Sato, Takuma           D/H/F    38.7127     38.8115      38.9199     38.9238     02:35.3679       231.708      Day 1
+ 13    18   Malukas, David         D/H/F    38.7127     38.7587      39.0368     38.9274     02:35.4356       231.607      Day 1
+ 14    2    Newgarden, Josef       D/C/F    38.5920     38.7375      38.9300     39.1946     02:35.4541       231.580      Day 1
+ 15    23   Ferrucci, Santino      D/C/F    38.7531     38.8385      38.9056     39.0047     02:35.5019       231.508      Day 1
+ 16    60   Pagenaud, Simon        D/H/F    38.7615     38.8390      39.0138     39.0447     02:35.6590       231.275      Day 1
+ 17    11   Hildebrand, JR         D/C/F    38.8600     38.9412      38.9735     38.9937     02:35.7684       231.112      Day 1
+ 18    20   Daly, Conor            D/C/F    38.7183     38.8838      38.9911     39.2519     02:35.8451       230.999      Day 1
+ 19    77   Ilott, Callum          D/C/F    38.8151     38.8849      38.9907     39.1800     02:35.8707       230.961      Day 1
+ 20    27   Rossi, Alexander       D/H/F    38.8973     38.9483      39.0431     39.0826     02:35.9713       230.812      Day 1
+ 21    15   Rahal, Graham          D/H/F    38.9471     39.0214      39.0155     39.0182     02:36.0022       230.766      Day 1
+ 22    24   Karam, Sage            D/C/F    38.9436     39.0606      39.1276     39.0746     02:36.2064       230.464      Day 1
+ 23    98   Andretti, Marco        D/H/F    38.9617     39.0824      39.1106     39.1328     02:36.2875       230.345      Day 1
+ 24    29   DeFrancesco, Devlin    D/H/F    38.8751     38.9227      39.0054     39.4970     02:36.3002       230.326      Day 1
+ 25    26   Herta, Colton          D/H/F    39.0264     39.0829      39.1570     39.0957     02:36.3620       230.235      Day 1
+ 26    3    McLaughlin, Scott      D/C/F    39.0636     39.1096      39.1127     39.1308     02:36.4167       230.154      Day 1
+ 27    06   Castroneves, Helio     D/H/F    39.0784     39.1640      39.2037     39.3280     02:36.7741       229.630      Day 1
+ 28    14   Kirkwood, Kyle         D/C/F    39.1093     39.1768      39.2493     39.3915     02:36.9269       229.406      Day 1
+ 29    4    Kellett, Dalton        D/C/F    39.1861     39.2323      39.3807     39.4637     02:37.2628       228.916      Day 1
+ 30    6    Montoya, Juan Pablo    D/C/F    39.2195     39.2360      39.4915     39.5185     02:37.4655       228.622      Day 1
+ 31    30   Lundgaard, Christian   D/H/F    39.5436     39.3861      39.7186     39.9048     02:38.5531       227.053      Day 1
+ 32    45   Harvey, Jack           D/H/F    39.0623     39.9207      39.4682     40.2432     02:38.6944       226.851      Day 1
+ 33    51   Sato, Takuma           D/H/F    38.7399     38.7001      38.7706     38.8307     02:35.0413       232.196      Day 1       Failed Attempt
+ 34    3    McLaughlin, Scott      D/C/F    38.6547     38.8104      38.9606     39.0527     02:35.4784       231.543      Day 1         Withdrawn
+ 35    27   Rossi, Alexander       D/H/F    38.6797     38.7910      39.0844     39.0593     02:35.6144       231.341      Day 1         Withdrawn
+ 36    18   Malukas, David         D/H/F    38.8599     38.9115      38.9481     38.9674     02:35.6869       231.233      Day 1           Retired
+ 37    77   Ilott, Callum          D/C/F    38.9619     38.9667      39.0275     39.4214     02:36.3775       230.212      Day 1           Retired
+ 38    24   Karam, Sage            D/C/F    38.7005     38.8580      39.5910     39.4372     02:36.5867       229.905      Day 1         Withdrawn
+ 39    98   Andretti, Marco        D/H/F    39.0556     40.9216      39.9956     39.2433     02:39.2161       226.108      Day 1           Retired
+ 40    06   Castroneves, Helio     D/H/F    39.0275     39.0796      39.2705     42.2807     02:39.6583       225.482      Day 1         Withdrawn
+ 41    26   Herta, Colton          D/H/F     0.0000      0.0000       0.0000      0.0000     00:00.0000                    Day 1         Waved Off
+ 42    2    Newgarden, Josef       D/C/F     0.0000      0.0000       0.0000      0.0000     00:00.0000                    Day 1        No Attempt
+ 43    25   Wilson, Stefan         D/C/F     0.0000      0.0000       0.0000      0.0000     00:00.0000                    Day 1        Incomplete
+ 44    24   Karam, Sage            D/C/F     0.0000      0.0000       0.0000      0.0000     00:00.0000                    Day 1        No Attempt
+
+                                                      Field Average: 231.003 mph
+                                      Pursuant to rule 8.2.6.5.2, Car 2 had his withdrawn times reinstated.
+
+                                           Day 1 = May 21st : Pole Day = May 22nd (Top 12, Fast 6)
+
+                                   (C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+
+
+
+
+                                                                     Information provided by Indy Racing Information System - Copyright INDYCAR 2022
+

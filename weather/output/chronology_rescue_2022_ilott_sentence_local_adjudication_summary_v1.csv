@@ -1,0 +1,11 @@
+﻿metric,value
+sentence_local_ilott_rows,18
+unique_sentence_semantics,8
+context_join_false_positive_rows,2
+result_or_speed_only_rows,2
+direct_late_improvement_rows,1
+direct_repeat_rows,1
+direct_action_rows,0
+direct_lane_rows,0
+promotion_candidate_rows,1
+final_status,ILOTT_DIRECT_REPEAT_ACTION_EVIDENCE_ADJUDICATION_READY

@@ -1,0 +1,17 @@
+﻿metric,value,status
+state_target_exact,1,PASS
+normal_empirical_rows,35,PASS
+recovery_empirical_rows,4,PASS
+recovery_posterior_groups_exact,ALL_PRIMARY|AT_OR_ABOVE_BASELINE_MEDIAN|LOW_BASELINE,PASS
+wait_scenario_count,4,PASS
+environment_central_disabled,1,PASS
+action_summary_rows,288,PASS
+stop_semantic_violations,0,PASS
+lane2_negative_final_delta_rows,0,PASS
+max_mean_spread_across_wait_labels,0.000000000000,PASS
+hard_recommendation_claims,0,PASS
+rank_probability_claims,0,PASS
+historical_queue_wait_claims,0,PASS
+actual_2022_future_weather_used,0,PASS
+lane2_performance_only_nondominated_vs_lane1,1,PASS
+protected_outputs_mutated,0,PASS

@@ -1,0 +1,4 @@
+year,official_complete_attempts,matched_rows,strong_matches,strong_or_plausible_matches,strong_coverage,plausible_coverage,duplicate_timestamp_match_rows
+2018,44,0,0,0,0.0,0.0,0
+2019,65,0,0,0,0.0,0.0,0
+2025,61,61,57,58,0.9344262295081968,0.9508196721311475,6

@@ -1,0 +1,14 @@
+﻿metric,value,status
+canonical_pair_exactly_two,2,PASS
+expected_attempt_ids_verified,1,PASS
+expected_speeds_verified,1,PASS
+reported_delta_compatible,1,PASS
+both_attempts_linked_in_v3,1,PASS
+lane_inferred,0,PASS
+withdrawal_inferred,0,PASS
+queue_wait_inferred,0,PASS
+exact_timestamp_inferred,0,PASS
+results_row_order_used_as_chronology,0,PASS
+automatic_unified_ledger_mutation,0,PASS
+canonical_mutated,0,PASS
+phase5_to_phase8_mutated,0,PASS

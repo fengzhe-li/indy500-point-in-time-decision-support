@@ -1,0 +1,20 @@
+{
+  "phase": "R4F4",
+  "status": "R4F4_PAST_ONLY_CROSS_CAR_RESIDUAL_WINDOW_EVIDENCE_READY",
+  "decision_states": 50,
+  "usable_point_timed_attempts": 119,
+  "same_day_car_references": 79,
+  "repeat_residual_observations": 40,
+  "primary_window_minutes": 20,
+  "minimum_distinct_other_cars": 2,
+  "methodology": [
+    "Each car's first usable complete point-timed run establishes its same-day dynamic reference.",
+    "First runs do not contribute artificial zero residual votes to the common window.",
+    "Only later same-car complete runs generate performance residual observations.",
+    "Only residuals observed at or before the decision time are used.",
+    "The subject car is excluded from its own whole-field window context.",
+    "At most one latest residual observation per other car contributes inside each window."
+  ],
+  "interpretation": "This phase measures whether a latent common performance-window signal can be supported by cross-car normalized residual evidence rather than raw mph.",
+  "next_phase": "If residual density is sufficient, estimate a latent whole-field performance-window state. If sparse, combine residual evidence with thermal-state priors and wider-window partial pooling."
+}

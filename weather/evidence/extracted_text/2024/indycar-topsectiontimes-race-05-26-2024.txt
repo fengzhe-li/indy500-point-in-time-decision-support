@@ -1,0 +1,11600 @@
+--- PAGE 1 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+45
+Lundgaard, Christian
+D/H/F
+00:39.7574
+ 226.373
+175
+2
+33
+Rasmussen, Christian (R)
+D/C/F
+00:39.8843
+ 225.653
+176
+3
+15
+Rahal, Graham
+D/H/F
+00:39.9019
+ 225.553
+179
+4
+27
+Kirkwood, Kyle
+D/H/F
+00:39.9437
+ 225.317
+175
+5
+20
+Carpenter, Ed
+D/C/F
+00:39.9453
+ 225.308
+184
+6
+41
+Robb, Sting Ray
+D/C/F
+00:40.0082
+ 224.954
+172
+7
+14
+Ferrucci, Santino
+D/C/F
+00:40.0267
+ 224.850
+176
+8
+5
+O'Ward, Pato
+D/C/F
+00:40.0430
+ 224.758
+134
+9
+06
+Castroneves, Helio
+D/H/F
+00:40.0921
+ 224.483
+178
+10
+60
+Rosenqvist, Felix
+D/H/F
+00:40.0953
+ 224.465
+43
+11
+6
+Ilott, Callum
+D/C/F
+00:40.1214
+ 224.319
+181
+12
+21
+VeeKay, Rinus
+D/C/F
+00:40.1570
+ 224.120
+176
+13
+7
+Rossi, Alexander
+D/C/F
+00:40.1644
+ 224.079
+141
+14
+10
+Palou, Alex
+D/H/F
+00:40.1818
+ 223.982
+175
+15
+2
+Newgarden, Josef
+D/C/F
+00:40.2010
+ 223.875
+173
+16
+4
+Simpson, Kyffin (R)
+D/H/F
+00:40.2137
+ 223.804
+180
+17
+3
+McLaughlin, Scott
+D/C/F
+00:40.2223
+ 223.756
+176
+18
+9
+Dixon, Scott
+D/H/F
+00:40.2474
+ 223.617
+136
+19
+17
+Larson, Kyle (R)
+D/C/F
+00:40.2534
+ 223.584
+173
+20
+24
+Daly, Conor
+D/C/F
+00:40.2676
+ 223.505
+174
+21
+75
+Sato, Takuma
+D/H/F
+00:40.2731
+ 223.474
+129
+22
+77
+Grosjean, Romain
+D/C/F
+00:40.3339
+ 223.137
+183
+23
+78
+Canapino, Agustin
+D/C/F
+00:40.3694
+ 222.941
+133
+24
+26
+Herta, Colton
+D/H/F
+00:40.4628
+ 222.427
+120
+25
+12
+Power, Will
+D/C/F
+00:40.4882
+ 222.287
+135
+26
+98
+Andretti, Marco
+D/H/F
+00:40.6844
+ 221.215
+52
+27
+23
+Hunter-Reay, Ryan
+D/C/F
+00:40.7741
+ 220.728
+52
+28
+8
+Lundqvist, Linus (R)
+D/H/F
+00:40.8911
+ 220.097
+14
+29
+51
+Legge, Katherine
+D/H/F
+00:41.2415
+ 218.227
+13
+30
+11
+Armstrong, Marcus (R)
+D/H/F
+01:11.2092
+ 126.388
+1
+Section: Lap
+Length: 2.500000 mile(s)
+Track map included on last page of report
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 1 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 2 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+33
+Rasmussen, Christian (R)
+D/C/F
+00:02.8500
+ 236.362
+168
+2
+24
+Daly, Conor
+D/C/F
+00:02.8641
+ 235.198
+173
+3
+3
+McLaughlin, Scott
+D/C/F
+00:02.8643
+ 235.182
+175
+4
+12
+Power, Will
+D/C/F
+00:02.8672
+ 234.944
+145
+5
+7
+Rossi, Alexander
+D/C/F
+00:02.8765
+ 234.185
+140
+6
+6
+Ilott, Callum
+D/C/F
+00:02.8768
+ 234.160
+169
+7
+06
+Castroneves, Helio
+D/H/F
+00:02.8821
+ 233.730
+54
+8
+14
+Ferrucci, Santino
+D/C/F
+00:02.8826
+ 233.689
+141
+9
+60
+Rosenqvist, Felix
+D/H/F
+00:02.8829
+ 233.665
+48
+10
+75
+Sato, Takuma
+D/H/F
+00:02.8849
+ 233.503
+176
+11
+10
+Palou, Alex
+D/H/F
+00:02.8871
+ 233.325
+139
+12
+45
+Lundgaard, Christian
+D/H/F
+00:02.8936
+ 232.801
+135
+13
+17
+Larson, Kyle (R)
+D/C/F
+00:02.8937
+ 232.793
+92
+14
+9
+Dixon, Scott
+D/H/F
+00:02.8939
+ 232.777
+178
+15
+27
+Kirkwood, Kyle
+D/H/F
+00:02.8973
+ 232.503
+34
+16
+2
+Newgarden, Josef
+D/C/F
+00:02.9007
+ 232.231
+33
+17
+20
+Carpenter, Ed
+D/C/F
+00:02.9007
+ 232.231
+10
+18
+15
+Rahal, Graham
+D/H/F
+00:02.9018
+ 232.143
+157
+19
+5
+O'Ward, Pato
+D/C/F
+00:02.9024
+ 232.095
+133
+20
+21
+VeeKay, Rinus
+D/C/F
+00:02.9046
+ 231.919
+136
+21
+78
+Canapino, Agustin
+D/C/F
+00:02.9049
+ 231.895
+141
+22
+77
+Grosjean, Romain
+D/C/F
+00:02.9064
+ 231.775
+197
+23
+41
+Robb, Sting Ray
+D/C/F
+00:02.9101
+ 231.481
+12
+24
+4
+Simpson, Kyffin (R)
+D/H/F
+00:02.9103
+ 231.465
+176
+25
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.9188
+ 230.791
+36
+26
+26
+Herta, Colton
+D/H/F
+00:02.9219
+ 230.546
+10
+27
+51
+Legge, Katherine
+D/H/F
+00:02.9507
+ 228.296
+14
+28
+98
+Andretti, Marco
+D/H/F
+00:02.9570
+ 227.809
+67
+29
+8
+Lundqvist, Linus (R)
+D/H/F
+00:02.9892
+ 225.355
+13
+30
+28
+Ericsson, Marcus
+D/H/F
+00:03.4282
+ 196.497
+0
+31
+66
+Blomqvist, Tom (R)
+D/H/F
+00:03.5564
+ 189.414
+0
+32
+30
+Fittipaldi, Pietro
+D/H/F
+00:03.5658
+ 188.915
+0
+33
+11
+Armstrong, Marcus (R)
+D/H/F
+00:03.5880
+ 187.746
+0
+Section: Front Stretch 5
+Length: 0.187120 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 2 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 3 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+33
+Rasmussen, Christian (R)
+D/C/F
+00:01.9426
+ 233.403
+168
+2
+7
+Rossi, Alexander
+D/C/F
+00:01.9630
+ 230.978
+140
+3
+41
+Robb, Sting Ray
+D/C/F
+00:01.9723
+ 229.889
+172
+4
+9
+Dixon, Scott
+D/H/F
+00:01.9735
+ 229.749
+178
+5
+27
+Kirkwood, Kyle
+D/H/F
+00:01.9793
+ 229.076
+174
+6
+78
+Canapino, Agustin
+D/C/F
+00:01.9808
+ 228.902
+133
+7
+3
+McLaughlin, Scott
+D/C/F
+00:01.9831
+ 228.637
+175
+8
+45
+Lundgaard, Christian
+D/H/F
+00:01.9831
+ 228.637
+175
+9
+15
+Rahal, Graham
+D/H/F
+00:01.9861
+ 228.291
+176
+10
+2
+Newgarden, Josef
+D/C/F
+00:01.9891
+ 227.947
+179
+11
+24
+Daly, Conor
+D/C/F
+00:01.9914
+ 227.684
+173
+12
+75
+Sato, Takuma
+D/H/F
+00:01.9917
+ 227.649
+176
+13
+20
+Carpenter, Ed
+D/C/F
+00:01.9935
+ 227.444
+183
+14
+77
+Grosjean, Romain
+D/C/F
+00:01.9976
+ 226.977
+179
+15
+14
+Ferrucci, Santino
+D/C/F
+00:02.0040
+ 226.252
+174
+16
+06
+Castroneves, Helio
+D/H/F
+00:02.0053
+ 226.105
+133
+17
+5
+O'Ward, Pato
+D/C/F
+00:02.0056
+ 226.072
+194
+18
+17
+Larson, Kyle (R)
+D/C/F
+00:02.0069
+ 225.925
+172
+19
+21
+VeeKay, Rinus
+D/C/F
+00:02.0100
+ 225.577
+173
+20
+6
+Ilott, Callum
+D/C/F
+00:02.0125
+ 225.296
+180
+21
+10
+Palou, Alex
+D/H/F
+00:02.0215
+ 224.293
+139
+22
+4
+Simpson, Kyffin (R)
+D/H/F
+00:02.0226
+ 224.171
+173
+23
+26
+Herta, Colton
+D/H/F
+00:02.0228
+ 224.149
+164
+24
+12
+Power, Will
+D/C/F
+00:02.0547
+ 220.669
+132
+25
+51
+Legge, Katherine
+D/H/F
+00:02.0710
+ 218.932
+16
+26
+98
+Andretti, Marco
+D/H/F
+00:02.0711
+ 218.922
+45
+27
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.0832
+ 217.650
+50
+28
+60
+Rosenqvist, Felix
+D/H/F
+00:02.0926
+ 216.673
+48
+29
+8
+Lundqvist, Linus (R)
+D/H/F
+00:02.1746
+ 208.502
+13
+30
+28
+Ericsson, Marcus
+D/H/F
+00:02.4280
+ 186.742
+0
+31
+66
+Blomqvist, Tom (R)
+D/H/F
+00:02.5534
+ 177.571
+0
+32
+30
+Fittipaldi, Pietro
+D/H/F
+00:02.6115
+ 173.620
+0
+33
+11
+Armstrong, Marcus (R)
+D/H/F
+00:02.6999
+ 167.936
+0
+Section: Turn 1 Entry
+Length: 0.125947 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 3 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 4 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+33
+Rasmussen, Christian (R)
+D/C/F
+00:02.9785
+ 225.480
+168
+2
+27
+Kirkwood, Kyle
+D/H/F
+00:02.9800
+ 225.366
+174
+3
+78
+Canapino, Agustin
+D/C/F
+00:02.9809
+ 225.298
+133
+4
+7
+Rossi, Alexander
+D/C/F
+00:02.9834
+ 225.109
+140
+5
+45
+Lundgaard, Christian
+D/H/F
+00:02.9939
+ 224.320
+175
+6
+20
+Carpenter, Ed
+D/C/F
+00:03.0010
+ 223.789
+183
+7
+41
+Robb, Sting Ray
+D/C/F
+00:03.0059
+ 223.424
+172
+8
+06
+Castroneves, Helio
+D/H/F
+00:03.0114
+ 223.016
+133
+9
+77
+Grosjean, Romain
+D/C/F
+00:03.0119
+ 222.979
+178
+10
+9
+Dixon, Scott
+D/H/F
+00:03.0126
+ 222.927
+178
+11
+5
+O'Ward, Pato
+D/C/F
+00:03.0139
+ 222.831
+194
+12
+2
+Newgarden, Josef
+D/C/F
+00:03.0174
+ 222.573
+179
+13
+75
+Sato, Takuma
+D/H/F
+00:03.0185
+ 222.492
+176
+14
+14
+Ferrucci, Santino
+D/C/F
+00:03.0224
+ 222.204
+174
+15
+15
+Rahal, Graham
+D/H/F
+00:03.0254
+ 221.984
+135
+16
+17
+Larson, Kyle (R)
+D/C/F
+00:03.0258
+ 221.955
+183
+17
+6
+Ilott, Callum
+D/C/F
+00:03.0390
+ 220.991
+175
+18
+24
+Daly, Conor
+D/C/F
+00:03.0424
+ 220.744
+173
+19
+26
+Herta, Colton
+D/H/F
+00:03.0484
+ 220.309
+164
+20
+21
+VeeKay, Rinus
+D/C/F
+00:03.0536
+ 219.934
+173
+21
+3
+McLaughlin, Scott
+D/C/F
+00:03.0614
+ 219.374
+83
+22
+4
+Simpson, Kyffin (R)
+D/H/F
+00:03.0631
+ 219.252
+173
+23
+10
+Palou, Alex
+D/H/F
+00:03.0632
+ 219.245
+134
+24
+98
+Andretti, Marco
+D/H/F
+00:03.0908
+ 217.287
+35
+25
+51
+Legge, Katherine
+D/H/F
+00:03.1083
+ 216.064
+16
+26
+23
+Hunter-Reay, Ryan
+D/C/F
+00:03.1192
+ 215.309
+52
+27
+60
+Rosenqvist, Felix
+D/H/F
+00:03.1197
+ 215.274
+44
+28
+12
+Power, Will
+D/C/F
+00:03.1326
+ 214.388
+132
+29
+8
+Lundqvist, Linus (R)
+D/H/F
+00:03.2080
+ 209.349
+13
+30
+11
+Armstrong, Marcus (R)
+D/H/F
+00:03.7030
+ 181.364
+0
+31
+30
+Fittipaldi, Pietro
+D/H/F
+00:04.3776
+ 153.415
+0
+32
+28
+Ericsson, Marcus
+D/H/F
+00:04.9253
+ 136.355
+0
+33
+66
+Blomqvist, Tom (R)
+D/H/F
+00:05.4556
+ 123.101
+0
+Section: Turn 1 Exit
+Length: 0.186553 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 4 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 5 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+78
+Canapino, Agustin
+D/C/F
+00:03.0393
+ 223.661
+133
+2
+7
+Rossi, Alexander
+D/C/F
+00:03.0459
+ 223.177
+140
+3
+20
+Carpenter, Ed
+D/C/F
+00:03.0466
+ 223.125
+183
+4
+27
+Kirkwood, Kyle
+D/H/F
+00:03.0510
+ 222.804
+174
+5
+15
+Rahal, Graham
+D/H/F
+00:03.0518
+ 222.745
+179
+6
+45
+Lundgaard, Christian
+D/H/F
+00:03.0521
+ 222.723
+175
+7
+06
+Castroneves, Helio
+D/H/F
+00:03.0537
+ 222.607
+133
+8
+75
+Sato, Takuma
+D/H/F
+00:03.0571
+ 222.359
+174
+9
+77
+Grosjean, Romain
+D/C/F
+00:03.0609
+ 222.083
+178
+10
+14
+Ferrucci, Santino
+D/C/F
+00:03.0635
+ 221.894
+174
+11
+24
+Daly, Conor
+D/C/F
+00:03.0635
+ 221.894
+173
+12
+41
+Robb, Sting Ray
+D/C/F
+00:03.0655
+ 221.750
+172
+13
+5
+O'Ward, Pato
+D/C/F
+00:03.0678
+ 221.583
+186
+14
+2
+Newgarden, Josef
+D/C/F
+00:03.0682
+ 221.555
+176
+15
+33
+Rasmussen, Christian (R)
+D/C/F
+00:03.0687
+ 221.518
+172
+16
+6
+Ilott, Callum
+D/C/F
+00:03.0699
+ 221.432
+180
+17
+9
+Dixon, Scott
+D/H/F
+00:03.0724
+ 221.252
+178
+18
+17
+Larson, Kyle (R)
+D/C/F
+00:03.0736
+ 221.165
+183
+19
+21
+VeeKay, Rinus
+D/C/F
+00:03.0784
+ 220.820
+173
+20
+4
+Simpson, Kyffin (R)
+D/H/F
+00:03.0813
+ 220.613
+184
+21
+10
+Palou, Alex
+D/H/F
+00:03.0860
+ 220.277
+141
+22
+26
+Herta, Colton
+D/H/F
+00:03.0874
+ 220.177
+164
+23
+3
+McLaughlin, Scott
+D/C/F
+00:03.0942
+ 219.693
+173
+24
+12
+Power, Will
+D/C/F
+00:03.1157
+ 218.177
+132
+25
+60
+Rosenqvist, Felix
+D/H/F
+00:03.1237
+ 217.618
+47
+26
+98
+Andretti, Marco
+D/H/F
+00:03.1291
+ 217.243
+51
+27
+98
+Andretti, Marco
+D/H/F
+00:03.1291
+ 217.243
+74
+28
+23
+Hunter-Reay, Ryan
+D/C/F
+00:03.1357
+ 216.785
+35
+29
+51
+Legge, Katherine
+D/H/F
+00:03.1582
+ 215.241
+13
+30
+8
+Lundqvist, Linus (R)
+D/H/F
+00:03.1690
+ 214.507
+13
+31
+11
+Armstrong, Marcus (R)
+D/H/F
+00:03.6456
+ 186.464
+0
+32
+30
+Fittipaldi, Pietro
+D/H/F
+00:05.2426
+ 129.663
+0
+33
+28
+Ericsson, Marcus
+D/H/F
+00:05.3307
+ 127.521
+0
+34
+66
+Blomqvist, Tom (R)
+D/H/F
+00:05.5122
+ 123.322
+0
+Section: Turn 2 Entry
+Length: 0.188826 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 5 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 6 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+27
+Kirkwood, Kyle
+D/H/F
+00:01.9978
+ 222.858
+141
+2
+45
+Lundgaard, Christian
+D/H/F
+00:01.9993
+ 222.691
+174
+3
+5
+O'Ward, Pato
+D/C/F
+00:02.0043
+ 222.136
+186
+4
+06
+Castroneves, Helio
+D/H/F
+00:02.0078
+ 221.748
+133
+5
+14
+Ferrucci, Santino
+D/C/F
+00:02.0083
+ 221.693
+174
+6
+15
+Rahal, Graham
+D/H/F
+00:02.0083
+ 221.693
+178
+7
+24
+Daly, Conor
+D/C/F
+00:02.0087
+ 221.649
+173
+8
+7
+Rossi, Alexander
+D/C/F
+00:02.0105
+ 221.451
+141
+9
+26
+Herta, Colton
+D/H/F
+00:02.0120
+ 221.285
+10
+10
+41
+Robb, Sting Ray
+D/C/F
+00:02.0131
+ 221.165
+171
+11
+21
+VeeKay, Rinus
+D/C/F
+00:02.0133
+ 221.143
+175
+12
+78
+Canapino, Agustin
+D/C/F
+00:02.0143
+ 221.033
+132
+13
+2
+Newgarden, Josef
+D/C/F
+00:02.0153
+ 220.923
+175
+14
+4
+Simpson, Kyffin (R)
+D/H/F
+00:02.0179
+ 220.638
+184
+15
+17
+Larson, Kyle (R)
+D/C/F
+00:02.0180
+ 220.628
+182
+16
+33
+Rasmussen, Christian (R)
+D/C/F
+00:02.0183
+ 220.595
+42
+17
+6
+Ilott, Callum
+D/C/F
+00:02.0184
+ 220.584
+180
+18
+10
+Palou, Alex
+D/H/F
+00:02.0185
+ 220.573
+174
+19
+77
+Grosjean, Romain
+D/C/F
+00:02.0195
+ 220.464
+178
+20
+9
+Dixon, Scott
+D/H/F
+00:02.0233
+ 220.050
+178
+21
+60
+Rosenqvist, Felix
+D/H/F
+00:02.0255
+ 219.811
+34
+22
+20
+Carpenter, Ed
+D/C/F
+00:02.0261
+ 219.746
+181
+23
+75
+Sato, Takuma
+D/H/F
+00:02.0319
+ 219.118
+174
+24
+3
+McLaughlin, Scott
+D/C/F
+00:02.0384
+ 218.420
+172
+25
+12
+Power, Will
+D/C/F
+00:02.0448
+ 217.736
+100
+26
+8
+Lundqvist, Linus (R)
+D/H/F
+00:02.0517
+ 217.004
+15
+27
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.0525
+ 216.919
+93
+28
+98
+Andretti, Marco
+D/H/F
+00:02.0614
+ 215.983
+47
+29
+51
+Legge, Katherine
+D/H/F
+00:02.1230
+ 209.716
+12
+30
+11
+Armstrong, Marcus (R)
+D/H/F
+00:02.3719
+ 187.709
+0
+31
+28
+Ericsson, Marcus
+D/H/F
+00:03.2937
+ 135.175
+0
+32
+30
+Fittipaldi, Pietro
+D/H/F
+00:03.3332
+ 133.573
+0
+33
+66
+Blomqvist, Tom (R)
+D/H/F
+00:03.7208
+ 119.659
+0
+Section: Turn 2 Exit
+Length: 0.123674 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 6 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 7 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+27
+Kirkwood, Kyle
+D/H/F
+00:02.4855
+ 226.313
+141
+2
+26
+Herta, Colton
+D/H/F
+00:02.4909
+ 225.822
+10
+3
+5
+O'Ward, Pato
+D/C/F
+00:02.4959
+ 225.370
+186
+4
+45
+Lundgaard, Christian
+D/H/F
+00:02.4986
+ 225.126
+174
+5
+6
+Ilott, Callum
+D/C/F
+00:02.5022
+ 224.802
+180
+6
+41
+Robb, Sting Ray
+D/C/F
+00:02.5039
+ 224.650
+11
+7
+60
+Rosenqvist, Felix
+D/H/F
+00:02.5046
+ 224.587
+34
+8
+2
+Newgarden, Josef
+D/C/F
+00:02.5059
+ 224.470
+172
+9
+33
+Rasmussen, Christian (R)
+D/C/F
+00:02.5064
+ 224.425
+42
+10
+21
+VeeKay, Rinus
+D/C/F
+00:02.5079
+ 224.291
+175
+11
+15
+Rahal, Graham
+D/H/F
+00:02.5097
+ 224.130
+178
+12
+06
+Castroneves, Helio
+D/H/F
+00:02.5105
+ 224.059
+127
+13
+7
+Rossi, Alexander
+D/C/F
+00:02.5110
+ 224.014
+141
+14
+24
+Daly, Conor
+D/C/F
+00:02.5118
+ 223.943
+173
+15
+10
+Palou, Alex
+D/H/F
+00:02.5119
+ 223.934
+174
+16
+3
+McLaughlin, Scott
+D/C/F
+00:02.5179
+ 223.400
+173
+17
+9
+Dixon, Scott
+D/H/F
+00:02.5187
+ 223.329
+158
+18
+14
+Ferrucci, Santino
+D/C/F
+00:02.5208
+ 223.143
+174
+19
+4
+Simpson, Kyffin (R)
+D/H/F
+00:02.5222
+ 223.020
+184
+20
+17
+Larson, Kyle (R)
+D/C/F
+00:02.5256
+ 222.719
+182
+21
+78
+Canapino, Agustin
+D/C/F
+00:02.5275
+ 222.552
+133
+22
+8
+Lundqvist, Linus (R)
+D/H/F
+00:02.5311
+ 222.235
+13
+23
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.5312
+ 222.227
+93
+24
+20
+Carpenter, Ed
+D/C/F
+00:02.5322
+ 222.139
+10
+25
+75
+Sato, Takuma
+D/H/F
+00:02.5335
+ 222.025
+65
+26
+77
+Grosjean, Romain
+D/C/F
+00:02.5336
+ 222.016
+183
+27
+12
+Power, Will
+D/C/F
+00:02.5358
+ 221.823
+100
+28
+98
+Andretti, Marco
+D/H/F
+00:02.5496
+ 220.623
+35
+29
+51
+Legge, Katherine
+D/H/F
+00:02.6142
+ 215.171
+12
+30
+11
+Armstrong, Marcus (R)
+D/H/F
+00:03.2314
+ 174.073
+0
+31
+28
+Ericsson, Marcus
+D/H/F
+00:04.2900
+ 131.119
+0
+32
+30
+Fittipaldi, Pietro
+D/H/F
+00:04.4799
+ 125.561
+0
+33
+66
+Blomqvist, Tom (R)
+D/H/F
+00:04.8120
+ 116.895
+0
+Section: Back Stretch 1
+Length: 0.156250 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 7 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 8 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+5
+O'Ward, Pato
+D/C/F
+00:02.4090
+ 233.499
+69
+2
+41
+Robb, Sting Ray
+D/C/F
+00:02.4213
+ 232.313
+11
+3
+3
+McLaughlin, Scott
+D/C/F
+00:02.4223
+ 232.217
+94
+4
+27
+Kirkwood, Kyle
+D/H/F
+00:02.4252
+ 231.940
+157
+5
+26
+Herta, Colton
+D/H/F
+00:02.4255
+ 231.911
+10
+6
+75
+Sato, Takuma
+D/H/F
+00:02.4305
+ 231.434
+65
+7
+10
+Palou, Alex
+D/H/F
+00:02.4337
+ 231.130
+66
+8
+33
+Rasmussen, Christian (R)
+D/C/F
+00:02.4350
+ 231.006
+39
+9
+2
+Newgarden, Josef
+D/C/F
+00:02.4352
+ 230.987
+172
+10
+6
+Ilott, Callum
+D/C/F
+00:02.4356
+ 230.949
+180
+11
+60
+Rosenqvist, Felix
+D/H/F
+00:02.4364
+ 230.873
+34
+12
+21
+VeeKay, Rinus
+D/C/F
+00:02.4376
+ 230.760
+119
+13
+06
+Castroneves, Helio
+D/H/F
+00:02.4393
+ 230.599
+139
+14
+8
+Lundqvist, Linus (R)
+D/H/F
+00:02.4415
+ 230.391
+13
+15
+78
+Canapino, Agustin
+D/C/F
+00:02.4436
+ 230.193
+161
+16
+7
+Rossi, Alexander
+D/C/F
+00:02.4451
+ 230.052
+69
+17
+17
+Larson, Kyle (R)
+D/C/F
+00:02.4499
+ 229.601
+12
+18
+45
+Lundgaard, Christian
+D/H/F
+00:02.4514
+ 229.461
+120
+19
+15
+Rahal, Graham
+D/H/F
+00:02.4519
+ 229.414
+156
+20
+20
+Carpenter, Ed
+D/C/F
+00:02.4521
+ 229.395
+10
+21
+9
+Dixon, Scott
+D/H/F
+00:02.4522
+ 229.386
+119
+22
+14
+Ferrucci, Santino
+D/C/F
+00:02.4555
+ 229.078
+9
+23
+24
+Daly, Conor
+D/C/F
+00:02.4586
+ 228.789
+156
+24
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.4603
+ 228.631
+93
+25
+4
+Simpson, Kyffin (R)
+D/H/F
+00:02.4677
+ 227.945
+13
+26
+12
+Power, Will
+D/C/F
+00:02.4707
+ 227.668
+70
+27
+98
+Andretti, Marco
+D/H/F
+00:02.4751
+ 227.264
+11
+28
+77
+Grosjean, Romain
+D/C/F
+00:02.4758
+ 227.199
+158
+29
+51
+Legge, Katherine
+D/H/F
+00:02.5161
+ 223.560
+12
+30
+11
+Armstrong, Marcus (R)
+D/H/F
+00:03.5910
+ 156.642
+0
+31
+66
+Blomqvist, Tom (R)
+D/H/F
+00:04.6789
+ 120.221
+0
+32
+28
+Ericsson, Marcus
+D/H/F
+00:04.6820
+ 120.141
+0
+33
+30
+Fittipaldi, Pietro
+D/H/F
+00:04.7664
+ 118.014
+0
+Section: Back Stretch 2
+Length: 0.156250 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 8 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 9 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+26
+Herta, Colton
+D/H/F
+00:02.3731
+ 237.032
+11
+2
+41
+Robb, Sting Ray
+D/C/F
+00:02.3740
+ 236.942
+11
+3
+33
+Rasmussen, Christian (R)
+D/C/F
+00:02.3759
+ 236.752
+37
+4
+14
+Ferrucci, Santino
+D/C/F
+00:02.3767
+ 236.673
+193
+5
+27
+Kirkwood, Kyle
+D/H/F
+00:02.3776
+ 236.583
+157
+6
+7
+Rossi, Alexander
+D/C/F
+00:02.3810
+ 236.245
+15
+7
+21
+VeeKay, Rinus
+D/C/F
+00:02.3815
+ 236.196
+45
+8
+2
+Newgarden, Josef
+D/C/F
+00:02.3846
+ 235.889
+124
+9
+06
+Castroneves, Helio
+D/H/F
+00:02.3861
+ 235.740
+95
+10
+24
+Daly, Conor
+D/C/F
+00:02.3879
+ 235.563
+156
+11
+5
+O'Ward, Pato
+D/C/F
+00:02.3880
+ 235.553
+93
+12
+6
+Ilott, Callum
+D/C/F
+00:02.3899
+ 235.365
+187
+13
+20
+Carpenter, Ed
+D/C/F
+00:02.3910
+ 235.257
+68
+14
+17
+Larson, Kyle (R)
+D/C/F
+00:02.3915
+ 235.208
+187
+15
+12
+Power, Will
+D/C/F
+00:02.3930
+ 235.061
+65
+16
+10
+Palou, Alex
+D/H/F
+00:02.3935
+ 235.011
+65
+17
+45
+Lundgaard, Christian
+D/H/F
+00:02.3938
+ 234.982
+120
+18
+3
+McLaughlin, Scott
+D/C/F
+00:02.3962
+ 234.747
+158
+19
+15
+Rahal, Graham
+D/H/F
+00:02.3967
+ 234.698
+161
+20
+9
+Dixon, Scott
+D/H/F
+00:02.3985
+ 234.522
+39
+21
+8
+Lundqvist, Linus (R)
+D/H/F
+00:02.3997
+ 234.404
+13
+22
+98
+Andretti, Marco
+D/H/F
+00:02.4011
+ 234.268
+11
+23
+78
+Canapino, Agustin
+D/C/F
+00:02.4021
+ 234.170
+18
+24
+75
+Sato, Takuma
+D/H/F
+00:02.4027
+ 234.112
+142
+25
+4
+Simpson, Kyffin (R)
+D/H/F
+00:02.4034
+ 234.043
+13
+26
+4
+Simpson, Kyffin (R)
+D/H/F
+00:02.4034
+ 234.043
+40
+27
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.4069
+ 233.703
+11
+28
+60
+Rosenqvist, Felix
+D/H/F
+00:02.4074
+ 233.655
+33
+29
+77
+Grosjean, Romain
+D/C/F
+00:02.4169
+ 232.736
+164
+30
+51
+Legge, Katherine
+D/H/F
+00:02.4558
+ 229.050
+12
+31
+11
+Armstrong, Marcus (R)
+D/H/F
+00:03.9571
+ 142.150
+0
+32
+30
+Fittipaldi, Pietro
+D/H/F
+00:04.6894
+ 119.951
+0
+33
+28
+Ericsson, Marcus
+D/H/F
+00:04.7777
+ 117.734
+0
+34
+66
+Blomqvist, Tom (R)
+D/H/F
+00:05.1877
+ 108.430
+0
+Section: Back Stretch 3
+Length: 0.156250 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 9 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 10 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+41
+Robb, Sting Ray
+D/C/F
+00:02.3736
+ 236.982
+11
+2
+14
+Ferrucci, Santino
+D/C/F
+00:02.3760
+ 236.742
+183
+3
+15
+Rahal, Graham
+D/H/F
+00:02.3820
+ 236.146
+161
+4
+06
+Castroneves, Helio
+D/H/F
+00:02.3825
+ 236.097
+196
+5
+45
+Lundgaard, Christian
+D/H/F
+00:02.3840
+ 235.948
+193
+6
+27
+Kirkwood, Kyle
+D/H/F
+00:02.3866
+ 235.691
+72
+7
+6
+Ilott, Callum
+D/C/F
+00:02.3902
+ 235.336
+158
+8
+20
+Carpenter, Ed
+D/C/F
+00:02.3954
+ 234.825
+94
+9
+33
+Rasmussen, Christian (R)
+D/C/F
+00:02.3964
+ 234.727
+169
+10
+8
+Lundqvist, Linus (R)
+D/H/F
+00:02.3972
+ 234.649
+13
+11
+3
+McLaughlin, Scott
+D/C/F
+00:02.3997
+ 234.404
+177
+12
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.3998
+ 234.395
+10
+13
+17
+Larson, Kyle (R)
+D/C/F
+00:02.4020
+ 234.180
+12
+14
+2
+Newgarden, Josef
+D/C/F
+00:02.4024
+ 234.141
+185
+15
+75
+Sato, Takuma
+D/H/F
+00:02.4044
+ 233.946
+175
+16
+24
+Daly, Conor
+D/C/F
+00:02.4051
+ 233.878
+169
+17
+12
+Power, Will
+D/C/F
+00:02.4064
+ 233.752
+92
+18
+4
+Simpson, Kyffin (R)
+D/H/F
+00:02.4085
+ 233.548
+13
+19
+77
+Grosjean, Romain
+D/C/F
+00:02.4108
+ 233.325
+140
+20
+26
+Herta, Colton
+D/H/F
+00:02.4122
+ 233.190
+34
+21
+21
+VeeKay, Rinus
+D/C/F
+00:02.4138
+ 233.035
+45
+22
+5
+O'Ward, Pato
+D/C/F
+00:02.4178
+ 232.650
+93
+23
+9
+Dixon, Scott
+D/H/F
+00:02.4201
+ 232.428
+40
+24
+7
+Rossi, Alexander
+D/C/F
+00:02.4283
+ 231.644
+70
+25
+60
+Rosenqvist, Felix
+D/H/F
+00:02.4304
+ 231.443
+42
+26
+78
+Canapino, Agustin
+D/C/F
+00:02.4307
+ 231.415
+188
+27
+10
+Palou, Alex
+D/H/F
+00:02.4320
+ 231.291
+174
+28
+98
+Andretti, Marco
+D/H/F
+00:02.4337
+ 231.130
+95
+29
+51
+Legge, Katherine
+D/H/F
+00:02.4380
+ 230.722
+10
+30
+28
+Ericsson, Marcus
+D/H/F
+00:04.2522
+ 132.284
+0
+31
+11
+Armstrong, Marcus (R)
+D/H/F
+00:04.3222
+ 130.142
+0
+32
+66
+Blomqvist, Tom (R)
+D/H/F
+00:04.8137
+ 116.854
+0
+33
+30
+Fittipaldi, Pietro
+D/H/F
+00:04.8260
+ 116.556
+0
+Section: Back Stretch 4
+Length: 0.156250 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 10 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 11 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+2
+Newgarden, Josef
+D/C/F
+00:01.9586
+ 231.497
+176
+2
+33
+Rasmussen, Christian (R)
+D/C/F
+00:01.9664
+ 230.578
+175
+3
+24
+Daly, Conor
+D/C/F
+00:01.9674
+ 230.461
+100
+4
+20
+Carpenter, Ed
+D/C/F
+00:01.9676
+ 230.438
+183
+5
+15
+Rahal, Graham
+D/H/F
+00:01.9681
+ 230.379
+168
+6
+41
+Robb, Sting Ray
+D/C/F
+00:01.9699
+ 230.169
+171
+7
+4
+Simpson, Kyffin (R)
+D/H/F
+00:01.9752
+ 229.551
+179
+8
+06
+Castroneves, Helio
+D/H/F
+00:01.9763
+ 229.423
+177
+9
+17
+Larson, Kyle (R)
+D/C/F
+00:01.9767
+ 229.377
+176
+10
+21
+VeeKay, Rinus
+D/C/F
+00:01.9777
+ 229.261
+173
+11
+45
+Lundgaard, Christian
+D/H/F
+00:01.9793
+ 229.076
+173
+12
+14
+Ferrucci, Santino
+D/C/F
+00:01.9805
+ 228.937
+174
+13
+98
+Andretti, Marco
+D/H/F
+00:01.9818
+ 228.787
+49
+14
+9
+Dixon, Scott
+D/H/F
+00:01.9825
+ 228.706
+184
+15
+12
+Power, Will
+D/C/F
+00:01.9843
+ 228.498
+134
+16
+3
+McLaughlin, Scott
+D/C/F
+00:01.9844
+ 228.487
+175
+17
+77
+Grosjean, Romain
+D/C/F
+00:01.9860
+ 228.303
+175
+18
+75
+Sato, Takuma
+D/H/F
+00:01.9861
+ 228.291
+175
+19
+5
+O'Ward, Pato
+D/C/F
+00:01.9877
+ 228.107
+134
+20
+6
+Ilott, Callum
+D/C/F
+00:01.9962
+ 227.136
+172
+21
+78
+Canapino, Agustin
+D/C/F
+00:02.0019
+ 226.489
+185
+22
+7
+Rossi, Alexander
+D/C/F
+00:02.0024
+ 226.433
+168
+23
+26
+Herta, Colton
+D/H/F
+00:02.0034
+ 226.320
+164
+24
+10
+Palou, Alex
+D/H/F
+00:02.0061
+ 226.015
+140
+25
+51
+Legge, Katherine
+D/H/F
+00:02.0104
+ 225.532
+15
+26
+60
+Rosenqvist, Felix
+D/H/F
+00:02.0109
+ 225.476
+42
+27
+8
+Lundqvist, Linus (R)
+D/H/F
+00:02.0235
+ 224.072
+13
+28
+27
+Kirkwood, Kyle
+D/H/F
+00:02.0251
+ 223.895
+100
+29
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.0278
+ 223.597
+10
+30
+11
+Armstrong, Marcus (R)
+D/H/F
+00:03.6530
+ 124.120
+0
+31
+28
+Ericsson, Marcus
+D/H/F
+00:03.6578
+ 123.957
+0
+32
+66
+Blomqvist, Tom (R)
+D/H/F
+00:03.7943
+ 119.497
+0
+33
+30
+Fittipaldi, Pietro
+D/H/F
+00:04.1318
+ 109.736
+0
+Section: Turn 3 Entry
+Length: 0.125947 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 11 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 12 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Carpenter, Ed
+D/C/F
+00:03.0042
+ 223.551
+183
+2
+14
+Ferrucci, Santino
+D/C/F
+00:03.0100
+ 223.120
+174
+3
+33
+Rasmussen, Christian (R)
+D/C/F
+00:03.0108
+ 223.061
+175
+4
+41
+Robb, Sting Ray
+D/C/F
+00:03.0126
+ 222.927
+171
+5
+2
+Newgarden, Josef
+D/C/F
+00:03.0134
+ 222.868
+172
+6
+45
+Lundgaard, Christian
+D/H/F
+00:03.0151
+ 222.742
+173
+7
+9
+Dixon, Scott
+D/H/F
+00:03.0175
+ 222.565
+184
+8
+17
+Larson, Kyle (R)
+D/C/F
+00:03.0198
+ 222.396
+176
+9
+06
+Castroneves, Helio
+D/H/F
+00:03.0198
+ 222.396
+177
+10
+60
+Rosenqvist, Felix
+D/H/F
+00:03.0218
+ 222.249
+42
+11
+77
+Grosjean, Romain
+D/C/F
+00:03.0233
+ 222.138
+175
+12
+5
+O'Ward, Pato
+D/C/F
+00:03.0241
+ 222.080
+133
+13
+15
+Rahal, Graham
+D/H/F
+00:03.0253
+ 221.991
+168
+14
+24
+Daly, Conor
+D/C/F
+00:03.0254
+ 221.984
+177
+15
+4
+Simpson, Kyffin (R)
+D/H/F
+00:03.0382
+ 221.049
+179
+16
+7
+Rossi, Alexander
+D/C/F
+00:03.0427
+ 220.722
+179
+17
+12
+Power, Will
+D/C/F
+00:03.0448
+ 220.570
+134
+18
+3
+McLaughlin, Scott
+D/C/F
+00:03.0483
+ 220.317
+175
+19
+98
+Andretti, Marco
+D/H/F
+00:03.0486
+ 220.295
+49
+20
+10
+Palou, Alex
+D/H/F
+00:03.0497
+ 220.215
+140
+21
+78
+Canapino, Agustin
+D/C/F
+00:03.0549
+ 219.841
+132
+22
+21
+VeeKay, Rinus
+D/C/F
+00:03.0552
+ 219.819
+173
+23
+6
+Ilott, Callum
+D/C/F
+00:03.0563
+ 219.740
+175
+24
+27
+Kirkwood, Kyle
+D/H/F
+00:03.0564
+ 219.733
+45
+25
+75
+Sato, Takuma
+D/H/F
+00:03.0595
+ 219.510
+172
+26
+26
+Herta, Colton
+D/H/F
+00:03.0598
+ 219.488
+70
+27
+23
+Hunter-Reay, Ryan
+D/C/F
+00:03.0922
+ 217.189
+51
+28
+51
+Legge, Katherine
+D/H/F
+00:03.1402
+ 213.869
+15
+29
+8
+Lundqvist, Linus (R)
+D/H/F
+00:03.1428
+ 213.692
+13
+30
+66
+Blomqvist, Tom (R)
+D/H/F
+00:05.4312
+ 123.654
+0
+31
+11
+Armstrong, Marcus (R)
+D/H/F
+00:05.5910
+ 120.120
+0
+32
+28
+Ericsson, Marcus
+D/H/F
+00:05.9607
+ 112.670
+0
+33
+30
+Fittipaldi, Pietro
+D/H/F
+00:06.1872
+ 108.545
+0
+Section: Turn 3 Exit
+Length: 0.186553 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 12 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 13 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+60
+Rosenqvist, Felix
+D/H/F
+00:03.0070
+ 223.342
+42
+2
+33
+Rasmussen, Christian (R)
+D/C/F
+00:03.0129
+ 222.905
+175
+3
+5
+O'Ward, Pato
+D/C/F
+00:03.0197
+ 222.403
+173
+4
+45
+Lundgaard, Christian
+D/H/F
+00:03.0229
+ 222.168
+174
+5
+20
+Carpenter, Ed
+D/C/F
+00:03.0238
+ 222.102
+183
+6
+06
+Castroneves, Helio
+D/H/F
+00:03.0247
+ 222.036
+196
+7
+15
+Rahal, Graham
+D/H/F
+00:03.0253
+ 221.991
+180
+8
+12
+Power, Will
+D/C/F
+00:03.0260
+ 221.940
+134
+9
+14
+Ferrucci, Santino
+D/C/F
+00:03.0265
+ 221.903
+180
+10
+17
+Larson, Kyle (R)
+D/C/F
+00:03.0278
+ 221.808
+192
+11
+98
+Andretti, Marco
+D/H/F
+00:03.0283
+ 221.772
+10
+12
+41
+Robb, Sting Ray
+D/C/F
+00:03.0287
+ 221.742
+171
+13
+7
+Rossi, Alexander
+D/C/F
+00:03.0291
+ 221.713
+173
+14
+27
+Kirkwood, Kyle
+D/H/F
+00:03.0309
+ 221.581
+45
+15
+2
+Newgarden, Josef
+D/C/F
+00:03.0325
+ 221.464
+187
+16
+24
+Daly, Conor
+D/C/F
+00:03.0325
+ 221.464
+177
+17
+9
+Dixon, Scott
+D/H/F
+00:03.0350
+ 221.282
+181
+18
+10
+Palou, Alex
+D/H/F
+00:03.0372
+ 221.122
+43
+19
+77
+Grosjean, Romain
+D/C/F
+00:03.0403
+ 220.896
+140
+20
+26
+Herta, Colton
+D/H/F
+00:03.0433
+ 220.678
+42
+21
+6
+Ilott, Callum
+D/C/F
+00:03.0441
+ 220.620
+160
+22
+78
+Canapino, Agustin
+D/C/F
+00:03.0459
+ 220.490
+132
+23
+3
+McLaughlin, Scott
+D/C/F
+00:03.0463
+ 220.461
+175
+24
+21
+VeeKay, Rinus
+D/C/F
+00:03.0498
+ 220.208
+133
+25
+75
+Sato, Takuma
+D/H/F
+00:03.0504
+ 220.165
+175
+26
+4
+Simpson, Kyffin (R)
+D/H/F
+00:03.0547
+ 219.855
+179
+27
+23
+Hunter-Reay, Ryan
+D/C/F
+00:03.0550
+ 219.833
+51
+28
+8
+Lundqvist, Linus (R)
+D/H/F
+00:03.1059
+ 216.231
+12
+29
+51
+Legge, Katherine
+D/H/F
+00:03.1304
+ 214.538
+12
+30
+66
+Blomqvist, Tom (R)
+D/H/F
+00:05.7497
+ 116.804
+0
+31
+30
+Fittipaldi, Pietro
+D/H/F
+00:06.0169
+ 111.617
+0
+32
+11
+Armstrong, Marcus (R)
+D/H/F
+00:06.2434
+ 107.568
+0
+33
+28
+Ericsson, Marcus
+D/H/F
+00:06.2560
+ 107.351
+0
+Section: Turn 4 Entry
+Length: 0.186553 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 13 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 14 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+60
+Rosenqvist, Felix
+D/H/F
+00:02.0165
+ 224.850
+42
+2
+5
+O'Ward, Pato
+D/C/F
+00:02.0225
+ 224.183
+174
+3
+45
+Lundgaard, Christian
+D/H/F
+00:02.0227
+ 224.160
+174
+4
+17
+Larson, Kyle (R)
+D/C/F
+00:02.0256
+ 223.839
+189
+5
+2
+Newgarden, Josef
+D/C/F
+00:02.0266
+ 223.729
+187
+6
+98
+Andretti, Marco
+D/H/F
+00:02.0270
+ 223.685
+10
+7
+24
+Daly, Conor
+D/C/F
+00:02.0272
+ 223.663
+172
+8
+33
+Rasmussen, Christian (R)
+D/C/F
+00:02.0276
+ 223.619
+175
+9
+27
+Kirkwood, Kyle
+D/H/F
+00:02.0283
+ 223.541
+173
+10
+26
+Herta, Colton
+D/H/F
+00:02.0304
+ 223.310
+41
+11
+06
+Castroneves, Helio
+D/H/F
+00:02.0305
+ 223.299
+43
+12
+7
+Rossi, Alexander
+D/C/F
+00:02.0317
+ 223.167
+175
+13
+14
+Ferrucci, Santino
+D/C/F
+00:02.0319
+ 223.145
+179
+14
+9
+Dixon, Scott
+D/H/F
+00:02.0325
+ 223.080
+181
+15
+10
+Palou, Alex
+D/H/F
+00:02.0330
+ 223.025
+95
+16
+4
+Simpson, Kyffin (R)
+D/H/F
+00:02.0330
+ 223.025
+132
+17
+3
+McLaughlin, Scott
+D/C/F
+00:02.0361
+ 222.685
+189
+18
+75
+Sato, Takuma
+D/H/F
+00:02.0387
+ 222.401
+128
+19
+15
+Rahal, Graham
+D/H/F
+00:02.0397
+ 222.292
+178
+20
+12
+Power, Will
+D/C/F
+00:02.0403
+ 222.227
+134
+21
+21
+VeeKay, Rinus
+D/C/F
+00:02.0408
+ 222.172
+175
+22
+6
+Ilott, Callum
+D/C/F
+00:02.0416
+ 222.085
+140
+23
+77
+Grosjean, Romain
+D/C/F
+00:02.0417
+ 222.074
+140
+24
+41
+Robb, Sting Ray
+D/C/F
+00:02.0422
+ 222.020
+171
+25
+78
+Canapino, Agustin
+D/C/F
+00:02.0423
+ 222.009
+132
+26
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.0471
+ 221.489
+49
+27
+20
+Carpenter, Ed
+D/C/F
+00:02.0494
+ 221.240
+101
+28
+8
+Lundqvist, Linus (R)
+D/H/F
+00:02.0674
+ 219.314
+12
+29
+51
+Legge, Katherine
+D/H/F
+00:02.1147
+ 214.408
+11
+30
+28
+Ericsson, Marcus
+D/H/F
+00:02.9799
+ 152.156
+0
+31
+30
+Fittipaldi, Pietro
+D/H/F
+00:03.1303
+ 144.845
+0
+32
+66
+Blomqvist, Tom (R)
+D/H/F
+00:03.6507
+ 124.198
+0
+33
+11
+Armstrong, Marcus (R)
+D/H/F
+00:04.2003
+ 107.947
+0
+Section: Turn 4 Exit
+Length: 0.125947 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 14 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 15 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+60
+Rosenqvist, Felix
+D/H/F
+00:01.4584
+ 226.743
+9
+2
+5
+O'Ward, Pato
+D/C/F
+00:01.4603
+ 226.448
+174
+3
+27
+Kirkwood, Kyle
+D/H/F
+00:01.4611
+ 226.324
+141
+4
+24
+Daly, Conor
+D/C/F
+00:01.4617
+ 226.231
+172
+5
+45
+Lundgaard, Christian
+D/H/F
+00:01.4618
+ 226.215
+174
+6
+14
+Ferrucci, Santino
+D/C/F
+00:01.4630
+ 226.030
+179
+7
+06
+Castroneves, Helio
+D/H/F
+00:01.4631
+ 226.014
+140
+8
+17
+Larson, Kyle (R)
+D/C/F
+00:01.4642
+ 225.845
+189
+9
+26
+Herta, Colton
+D/H/F
+00:01.4645
+ 225.798
+41
+10
+2
+Newgarden, Josef
+D/C/F
+00:01.4646
+ 225.783
+187
+11
+98
+Andretti, Marco
+D/H/F
+00:01.4660
+ 225.567
+10
+12
+10
+Palou, Alex
+D/H/F
+00:01.4685
+ 225.183
+92
+13
+7
+Rossi, Alexander
+D/C/F
+00:01.4693
+ 225.061
+65
+14
+3
+McLaughlin, Scott
+D/C/F
+00:01.4693
+ 225.061
+173
+15
+33
+Rasmussen, Christian (R)
+D/C/F
+00:01.4700
+ 224.953
+175
+16
+4
+Simpson, Kyffin (R)
+D/H/F
+00:01.4700
+ 224.953
+132
+17
+6
+Ilott, Callum
+D/C/F
+00:01.4701
+ 224.938
+140
+18
+9
+Dixon, Scott
+D/H/F
+00:01.4709
+ 224.816
+181
+19
+21
+VeeKay, Rinus
+D/C/F
+00:01.4712
+ 224.770
+175
+20
+12
+Power, Will
+D/C/F
+00:01.4713
+ 224.755
+134
+21
+77
+Grosjean, Romain
+D/C/F
+00:01.4731
+ 224.480
+140
+22
+15
+Rahal, Graham
+D/H/F
+00:01.4737
+ 224.389
+11
+23
+75
+Sato, Takuma
+D/H/F
+00:01.4758
+ 224.069
+128
+24
+78
+Canapino, Agustin
+D/C/F
+00:01.4778
+ 223.766
+132
+25
+41
+Robb, Sting Ray
+D/C/F
+00:01.4779
+ 223.751
+156
+26
+20
+Carpenter, Ed
+D/C/F
+00:01.4786
+ 223.645
+101
+27
+23
+Hunter-Reay, Ryan
+D/C/F
+00:01.4821
+ 223.117
+10
+28
+8
+Lundqvist, Linus (R)
+D/H/F
+00:01.4902
+ 221.904
+12
+29
+51
+Legge, Katherine
+D/H/F
+00:01.5164
+ 218.070
+11
+30
+28
+Ericsson, Marcus
+D/H/F
+00:01.9008
+ 173.970
+0
+31
+30
+Fittipaldi, Pietro
+D/H/F
+00:01.9647
+ 168.311
+0
+32
+66
+Blomqvist, Tom (R)
+D/H/F
+00:02.1412
+ 154.438
+0
+33
+11
+Armstrong, Marcus (R)
+D/H/F
+00:02.2647
+ 146.016
+0
+Section: Front Stretch 1
+Length: 0.091856 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 15 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 16 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+27
+Kirkwood, Kyle
+D/H/F
+00:01.4310
+ 231.084
+141
+2
+5
+O'Ward, Pato
+D/C/F
+00:01.4343
+ 230.553
+174
+3
+24
+Daly, Conor
+D/C/F
+00:01.4379
+ 229.975
+172
+4
+60
+Rosenqvist, Felix
+D/H/F
+00:01.4382
+ 229.927
+9
+5
+14
+Ferrucci, Santino
+D/C/F
+00:01.4389
+ 229.816
+179
+6
+06
+Castroneves, Helio
+D/H/F
+00:01.4393
+ 229.752
+12
+7
+17
+Larson, Kyle (R)
+D/C/F
+00:01.4403
+ 229.592
+189
+8
+45
+Lundgaard, Christian
+D/H/F
+00:01.4417
+ 229.369
+174
+9
+10
+Palou, Alex
+D/H/F
+00:01.4445
+ 228.925
+92
+10
+3
+McLaughlin, Scott
+D/C/F
+00:01.4447
+ 228.893
+173
+11
+4
+Simpson, Kyffin (R)
+D/H/F
+00:01.4449
+ 228.861
+132
+12
+2
+Newgarden, Josef
+D/C/F
+00:01.4460
+ 228.687
+187
+13
+7
+Rossi, Alexander
+D/C/F
+00:01.4462
+ 228.656
+65
+14
+26
+Herta, Colton
+D/H/F
+00:01.4480
+ 228.371
+41
+15
+9
+Dixon, Scott
+D/H/F
+00:01.4498
+ 228.088
+173
+16
+12
+Power, Will
+D/C/F
+00:01.4502
+ 228.025
+133
+17
+6
+Ilott, Callum
+D/C/F
+00:01.4507
+ 227.946
+180
+18
+21
+VeeKay, Rinus
+D/C/F
+00:01.4511
+ 227.883
+175
+19
+33
+Rasmussen, Christian (R)
+D/C/F
+00:01.4516
+ 227.805
+174
+20
+15
+Rahal, Graham
+D/H/F
+00:01.4525
+ 227.664
+179
+21
+98
+Andretti, Marco
+D/H/F
+00:01.4531
+ 227.570
+10
+22
+41
+Robb, Sting Ray
+D/C/F
+00:01.4545
+ 227.351
+156
+23
+78
+Canapino, Agustin
+D/C/F
+00:01.4545
+ 227.351
+138
+24
+77
+Grosjean, Romain
+D/C/F
+00:01.4567
+ 227.007
+140
+25
+75
+Sato, Takuma
+D/H/F
+00:01.4572
+ 226.929
+144
+26
+23
+Hunter-Reay, Ryan
+D/C/F
+00:01.4576
+ 226.867
+10
+27
+20
+Carpenter, Ed
+D/C/F
+00:01.4593
+ 226.603
+101
+28
+8
+Lundqvist, Linus (R)
+D/H/F
+00:01.4691
+ 225.091
+12
+29
+51
+Legge, Katherine
+D/H/F
+00:01.4889
+ 222.098
+11
+30
+28
+Ericsson, Marcus
+D/H/F
+00:01.7785
+ 185.933
+0
+31
+30
+Fittipaldi, Pietro
+D/H/F
+00:01.8213
+ 181.563
+0
+32
+66
+Blomqvist, Tom (R)
+D/H/F
+00:01.9265
+ 171.649
+0
+33
+11
+Armstrong, Marcus (R)
+D/H/F
+00:01.9964
+ 165.639
+0
+Section: Front Stretch 2
+Length: 0.091856 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 16 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 17 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+27
+Kirkwood, Kyle
+D/H/F
+00:01.9476
+ 234.904
+141
+2
+5
+O'Ward, Pato
+D/C/F
+00:01.9514
+ 234.446
+67
+3
+06
+Castroneves, Helio
+D/H/F
+00:01.9564
+ 233.847
+12
+4
+24
+Daly, Conor
+D/C/F
+00:01.9575
+ 233.716
+172
+5
+14
+Ferrucci, Santino
+D/C/F
+00:01.9649
+ 232.836
+179
+6
+17
+Larson, Kyle (R)
+D/C/F
+00:01.9653
+ 232.788
+189
+7
+60
+Rosenqvist, Felix
+D/H/F
+00:01.9653
+ 232.788
+34
+8
+3
+McLaughlin, Scott
+D/C/F
+00:01.9681
+ 232.457
+173
+9
+4
+Simpson, Kyffin (R)
+D/H/F
+00:01.9713
+ 232.080
+132
+10
+45
+Lundgaard, Christian
+D/H/F
+00:01.9718
+ 232.021
+174
+11
+12
+Power, Will
+D/C/F
+00:01.9722
+ 231.974
+144
+12
+7
+Rossi, Alexander
+D/C/F
+00:01.9724
+ 231.950
+65
+13
+10
+Palou, Alex
+D/H/F
+00:01.9736
+ 231.809
+92
+14
+33
+Rasmussen, Christian (R)
+D/C/F
+00:01.9738
+ 231.786
+174
+15
+26
+Herta, Colton
+D/H/F
+00:01.9747
+ 231.680
+33
+16
+78
+Canapino, Agustin
+D/C/F
+00:01.9748
+ 231.668
+138
+17
+6
+Ilott, Callum
+D/C/F
+00:01.9759
+ 231.539
+98
+18
+77
+Grosjean, Romain
+D/C/F
+00:01.9773
+ 231.376
+120
+19
+75
+Sato, Takuma
+D/H/F
+00:01.9782
+ 231.270
+144
+20
+9
+Dixon, Scott
+D/H/F
+00:01.9796
+ 231.107
+143
+21
+15
+Rahal, Graham
+D/H/F
+00:01.9814
+ 230.897
+105
+22
+21
+VeeKay, Rinus
+D/C/F
+00:01.9837
+ 230.629
+76
+23
+2
+Newgarden, Josef
+D/C/F
+00:01.9883
+ 230.095
+140
+24
+41
+Robb, Sting Ray
+D/C/F
+00:01.9913
+ 229.749
+156
+25
+20
+Carpenter, Ed
+D/C/F
+00:01.9921
+ 229.657
+157
+26
+23
+Hunter-Reay, Ryan
+D/C/F
+00:01.9956
+ 229.254
+10
+27
+98
+Andretti, Marco
+D/H/F
+00:02.0027
+ 228.441
+17
+28
+8
+Lundqvist, Linus (R)
+D/H/F
+00:02.0092
+ 227.702
+16
+29
+51
+Legge, Katherine
+D/H/F
+00:02.0343
+ 224.892
+11
+30
+28
+Ericsson, Marcus
+D/H/F
+00:02.3411
+ 195.420
+0
+31
+30
+Fittipaldi, Pietro
+D/H/F
+00:02.4135
+ 189.558
+0
+32
+66
+Blomqvist, Tom (R)
+D/H/F
+00:02.4915
+ 183.624
+0
+33
+11
+Armstrong, Marcus (R)
+D/H/F
+00:02.5021
+ 182.846
+0
+Section: Front Stretch 3
+Length: 0.127083 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 17 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 18 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+5
+O'Ward, Pato
+D/C/F
+00:01.9216
+ 238.082
+96
+2
+14
+Ferrucci, Santino
+D/C/F
+00:01.9249
+ 237.674
+179
+3
+12
+Power, Will
+D/C/F
+00:01.9287
+ 237.206
+144
+4
+33
+Rasmussen, Christian (R)
+D/C/F
+00:01.9288
+ 237.193
+183
+5
+3
+McLaughlin, Scott
+D/C/F
+00:01.9291
+ 237.157
+173
+6
+27
+Kirkwood, Kyle
+D/H/F
+00:01.9310
+ 236.923
+122
+7
+06
+Castroneves, Helio
+D/H/F
+00:01.9320
+ 236.801
+156
+8
+60
+Rosenqvist, Felix
+D/H/F
+00:01.9331
+ 236.666
+34
+9
+15
+Rahal, Graham
+D/H/F
+00:01.9336
+ 236.605
+105
+10
+24
+Daly, Conor
+D/C/F
+00:01.9344
+ 236.507
+172
+11
+21
+VeeKay, Rinus
+D/C/F
+00:01.9351
+ 236.421
+76
+12
+7
+Rossi, Alexander
+D/C/F
+00:01.9357
+ 236.348
+180
+13
+17
+Larson, Kyle (R)
+D/C/F
+00:01.9362
+ 236.287
+188
+14
+26
+Herta, Colton
+D/H/F
+00:01.9372
+ 236.165
+33
+15
+20
+Carpenter, Ed
+D/C/F
+00:01.9387
+ 235.982
+157
+16
+23
+Hunter-Reay, Ryan
+D/C/F
+00:01.9398
+ 235.848
+35
+17
+6
+Ilott, Callum
+D/C/F
+00:01.9418
+ 235.606
+164
+18
+45
+Lundgaard, Christian
+D/H/F
+00:01.9435
+ 235.399
+180
+19
+41
+Robb, Sting Ray
+D/C/F
+00:01.9451
+ 235.206
+20
+20
+4
+Simpson, Kyffin (R)
+D/H/F
+00:01.9477
+ 234.892
+132
+21
+9
+Dixon, Scott
+D/H/F
+00:01.9488
+ 234.759
+118
+22
+10
+Palou, Alex
+D/H/F
+00:01.9491
+ 234.723
+66
+23
+75
+Sato, Takuma
+D/H/F
+00:01.9491
+ 234.723
+121
+24
+77
+Grosjean, Romain
+D/C/F
+00:01.9511
+ 234.482
+141
+25
+2
+Newgarden, Josef
+D/C/F
+00:01.9518
+ 234.398
+140
+26
+78
+Canapino, Agustin
+D/C/F
+00:01.9518
+ 234.398
+13
+27
+8
+Lundqvist, Linus (R)
+D/H/F
+00:01.9625
+ 233.120
+15
+28
+98
+Andretti, Marco
+D/H/F
+00:01.9639
+ 232.954
+104
+29
+51
+Legge, Katherine
+D/H/F
+00:02.0006
+ 228.681
+11
+30
+28
+Ericsson, Marcus
+D/H/F
+00:02.2127
+ 206.760
+0
+31
+30
+Fittipaldi, Pietro
+D/H/F
+00:02.3137
+ 197.735
+0
+32
+11
+Armstrong, Marcus (R)
+D/H/F
+00:02.3218
+ 197.045
+0
+33
+66
+Blomqvist, Tom (R)
+D/H/F
+00:02.3586
+ 193.970
+0
+Section: Front Stretch 4
+Length: 0.127083 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 18 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 19 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+33
+Rasmussen, Christian (R)
+D/C/F
+00:04.9211
+ 228.607
+168
+2
+7
+Rossi, Alexander
+D/C/F
+00:04.9464
+ 227.437
+140
+3
+27
+Kirkwood, Kyle
+D/H/F
+00:04.9593
+ 226.846
+174
+4
+78
+Canapino, Agustin
+D/C/F
+00:04.9617
+ 226.736
+133
+5
+45
+Lundgaard, Christian
+D/H/F
+00:04.9770
+ 226.039
+175
+6
+41
+Robb, Sting Ray
+D/C/F
+00:04.9782
+ 225.985
+172
+7
+9
+Dixon, Scott
+D/H/F
+00:04.9861
+ 225.627
+178
+8
+20
+Carpenter, Ed
+D/C/F
+00:04.9945
+ 225.247
+183
+9
+2
+Newgarden, Josef
+D/C/F
+00:05.0065
+ 224.707
+179
+10
+77
+Grosjean, Romain
+D/C/F
+00:05.0100
+ 224.550
+179
+11
+75
+Sato, Takuma
+D/H/F
+00:05.0102
+ 224.541
+176
+12
+06
+Castroneves, Helio
+D/H/F
+00:05.0167
+ 224.250
+133
+13
+5
+O'Ward, Pato
+D/C/F
+00:05.0195
+ 224.125
+194
+14
+15
+Rahal, Graham
+D/H/F
+00:05.0261
+ 223.831
+170
+15
+14
+Ferrucci, Santino
+D/C/F
+00:05.0264
+ 223.818
+174
+16
+24
+Daly, Conor
+D/C/F
+00:05.0338
+ 223.488
+173
+17
+17
+Larson, Kyle (R)
+D/C/F
+00:05.0351
+ 223.431
+183
+18
+6
+Ilott, Callum
+D/C/F
+00:05.0570
+ 222.463
+175
+19
+21
+VeeKay, Rinus
+D/C/F
+00:05.0636
+ 222.173
+173
+20
+26
+Herta, Colton
+D/H/F
+00:05.0712
+ 221.840
+164
+21
+4
+Simpson, Kyffin (R)
+D/H/F
+00:05.0857
+ 221.208
+173
+22
+10
+Palou, Alex
+D/H/F
+00:05.0961
+ 220.756
+134
+23
+3
+McLaughlin, Scott
+D/C/F
+00:05.1015
+ 220.523
+83
+24
+98
+Andretti, Marco
+D/H/F
+00:05.1704
+ 217.584
+45
+25
+51
+Legge, Katherine
+D/H/F
+00:05.1793
+ 217.210
+16
+26
+12
+Power, Will
+D/C/F
+00:05.1873
+ 216.875
+132
+27
+23
+Hunter-Reay, Ryan
+D/C/F
+00:05.2108
+ 215.897
+50
+28
+60
+Rosenqvist, Felix
+D/H/F
+00:05.2454
+ 214.473
+48
+29
+8
+Lundqvist, Linus (R)
+D/H/F
+00:05.3826
+ 209.006
+13
+30
+11
+Armstrong, Marcus (R)
+D/H/F
+00:06.4029
+ 175.701
+0
+31
+30
+Fittipaldi, Pietro
+D/H/F
+00:06.9891
+ 160.964
+0
+32
+28
+Ericsson, Marcus
+D/H/F
+00:07.6663
+ 146.746
+0
+33
+66
+Blomqvist, Tom (R)
+D/H/F
+00:08.0090
+ 140.467
+0
+Section: T1 to SS1
+Length: 0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 19 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 20 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+45
+Lundgaard, Christian
+D/H/F
+00:05.0546
+ 222.569
+174
+2
+27
+Kirkwood, Kyle
+D/H/F
+00:05.0589
+ 222.380
+141
+3
+7
+Rossi, Alexander
+D/C/F
+00:05.0605
+ 222.309
+140
+4
+06
+Castroneves, Helio
+D/H/F
+00:05.0615
+ 222.265
+133
+5
+78
+Canapino, Agustin
+D/C/F
+00:05.0627
+ 222.213
+133
+6
+15
+Rahal, Graham
+D/H/F
+00:05.0647
+ 222.125
+178
+7
+14
+Ferrucci, Santino
+D/C/F
+00:05.0718
+ 221.814
+174
+8
+5
+O'Ward, Pato
+D/C/F
+00:05.0721
+ 221.801
+186
+9
+24
+Daly, Conor
+D/C/F
+00:05.0722
+ 221.797
+173
+10
+20
+Carpenter, Ed
+D/C/F
+00:05.0747
+ 221.687
+183
+11
+77
+Grosjean, Romain
+D/C/F
+00:05.0804
+ 221.439
+178
+12
+6
+Ilott, Callum
+D/C/F
+00:05.0883
+ 221.095
+180
+13
+41
+Robb, Sting Ray
+D/C/F
+00:05.0888
+ 221.073
+171
+14
+75
+Sato, Takuma
+D/H/F
+00:05.0890
+ 221.064
+174
+15
+9
+Dixon, Scott
+D/H/F
+00:05.0957
+ 220.774
+178
+16
+2
+Newgarden, Josef
+D/C/F
+00:05.0961
+ 220.756
+179
+17
+17
+Larson, Kyle (R)
+D/C/F
+00:05.0965
+ 220.739
+182
+18
+4
+Simpson, Kyffin (R)
+D/H/F
+00:05.0992
+ 220.622
+184
+19
+21
+VeeKay, Rinus
+D/C/F
+00:05.1069
+ 220.289
+175
+20
+26
+Herta, Colton
+D/H/F
+00:05.1092
+ 220.190
+164
+21
+10
+Palou, Alex
+D/H/F
+00:05.1139
+ 219.988
+141
+22
+33
+Rasmussen, Christian (R)
+D/C/F
+00:05.1182
+ 219.803
+42
+23
+3
+McLaughlin, Scott
+D/C/F
+00:05.1332
+ 219.161
+173
+24
+60
+Rosenqvist, Felix
+D/H/F
+00:05.1530
+ 218.319
+47
+25
+12
+Power, Will
+D/C/F
+00:05.1795
+ 217.202
+100
+26
+98
+Andretti, Marco
+D/H/F
+00:05.1958
+ 216.520
+74
+27
+23
+Hunter-Reay, Ryan
+D/C/F
+00:05.2044
+ 216.163
+35
+28
+8
+Lundqvist, Linus (R)
+D/H/F
+00:05.2262
+ 215.261
+13
+29
+51
+Legge, Katherine
+D/H/F
+00:05.2819
+ 212.991
+13
+30
+11
+Armstrong, Marcus (R)
+D/H/F
+00:06.0175
+ 186.954
+0
+31
+30
+Fittipaldi, Pietro
+D/H/F
+00:08.5758
+ 131.183
+0
+32
+28
+Ericsson, Marcus
+D/H/F
+00:08.6244
+ 130.443
+0
+33
+66
+Blomqvist, Tom (R)
+D/H/F
+00:09.2330
+ 121.845
+0
+Section: SS1 to T2
+Length: 0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 20 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 21 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+5
+O'Ward, Pato
+D/C/F
+00:04.9087
+ 229.184
+69
+2
+26
+Herta, Colton
+D/H/F
+00:04.9164
+ 228.825
+10
+3
+27
+Kirkwood, Kyle
+D/H/F
+00:04.9165
+ 228.821
+141
+4
+41
+Robb, Sting Ray
+D/C/F
+00:04.9252
+ 228.416
+11
+5
+6
+Ilott, Callum
+D/C/F
+00:04.9378
+ 227.834
+180
+6
+60
+Rosenqvist, Felix
+D/H/F
+00:04.9410
+ 227.686
+34
+7
+2
+Newgarden, Josef
+D/C/F
+00:04.9411
+ 227.681
+172
+8
+33
+Rasmussen, Christian (R)
+D/C/F
+00:04.9438
+ 227.557
+42
+9
+3
+McLaughlin, Scott
+D/C/F
+00:04.9451
+ 227.497
+94
+10
+06
+Castroneves, Helio
+D/H/F
+00:04.9531
+ 227.130
+127
+11
+21
+VeeKay, Rinus
+D/C/F
+00:04.9569
+ 226.956
+175
+12
+45
+Lundgaard, Christian
+D/H/F
+00:04.9602
+ 226.805
+174
+13
+10
+Palou, Alex
+D/H/F
+00:04.9627
+ 226.690
+41
+14
+75
+Sato, Takuma
+D/H/F
+00:04.9640
+ 226.631
+65
+15
+7
+Rossi, Alexander
+D/C/F
+00:04.9692
+ 226.394
+11
+16
+8
+Lundqvist, Linus (R)
+D/H/F
+00:04.9726
+ 226.239
+13
+17
+14
+Ferrucci, Santino
+D/C/F
+00:04.9771
+ 226.035
+9
+18
+78
+Canapino, Agustin
+D/C/F
+00:04.9781
+ 225.989
+161
+19
+15
+Rahal, Graham
+D/H/F
+00:04.9798
+ 225.912
+178
+20
+9
+Dixon, Scott
+D/H/F
+00:04.9825
+ 225.790
+160
+21
+24
+Daly, Conor
+D/C/F
+00:04.9825
+ 225.790
+173
+22
+20
+Carpenter, Ed
+D/C/F
+00:04.9843
+ 225.708
+10
+23
+17
+Larson, Kyle (R)
+D/C/F
+00:04.9844
+ 225.703
+188
+24
+23
+Hunter-Reay, Ryan
+D/C/F
+00:04.9915
+ 225.382
+93
+25
+4
+Simpson, Kyffin (R)
+D/H/F
+00:05.0013
+ 224.941
+184
+26
+12
+Power, Will
+D/C/F
+00:05.0180
+ 224.192
+100
+27
+77
+Grosjean, Romain
+D/C/F
+00:05.0255
+ 223.858
+183
+28
+98
+Andretti, Marco
+D/H/F
+00:05.0291
+ 223.697
+35
+29
+51
+Legge, Katherine
+D/H/F
+00:05.1303
+ 219.285
+12
+30
+11
+Armstrong, Marcus (R)
+D/H/F
+00:06.8224
+ 164.897
+0
+31
+28
+Ericsson, Marcus
+D/H/F
+00:09.4064
+ 119.599
+0
+32
+66
+Blomqvist, Tom (R)
+D/H/F
+00:09.4909
+ 118.534
+0
+33
+30
+Fittipaldi, Pietro
+D/H/F
+00:09.6694
+ 116.346
+0
+Section: T2 to BS2
+Length: 0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 21 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 22 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+41
+Robb, Sting Ray
+D/C/F
+00:04.7476
+ 236.961
+11
+2
+14
+Ferrucci, Santino
+D/C/F
+00:04.7589
+ 236.398
+193
+3
+27
+Kirkwood, Kyle
+D/H/F
+00:04.7674
+ 235.977
+157
+4
+15
+Rahal, Graham
+D/H/F
+00:04.7787
+ 235.419
+161
+5
+06
+Castroneves, Helio
+D/H/F
+00:04.7870
+ 235.011
+196
+6
+6
+Ilott, Callum
+D/C/F
+00:04.7882
+ 234.952
+158
+7
+21
+VeeKay, Rinus
+D/C/F
+00:04.7953
+ 234.604
+45
+8
+8
+Lundqvist, Linus (R)
+D/H/F
+00:04.7969
+ 234.526
+13
+9
+26
+Herta, Colton
+D/H/F
+00:04.7975
+ 234.496
+12
+10
+45
+Lundgaard, Christian
+D/H/F
+00:04.7988
+ 234.433
+193
+11
+24
+Daly, Conor
+D/C/F
+00:04.7995
+ 234.399
+32
+12
+33
+Rasmussen, Christian (R)
+D/C/F
+00:04.8013
+ 234.311
+45
+13
+17
+Larson, Kyle (R)
+D/C/F
+00:04.8032
+ 234.218
+12
+14
+5
+O'Ward, Pato
+D/C/F
+00:04.8058
+ 234.091
+93
+15
+4
+Simpson, Kyffin (R)
+D/H/F
+00:04.8119
+ 233.795
+13
+16
+3
+McLaughlin, Scott
+D/C/F
+00:04.8153
+ 233.630
+158
+17
+2
+Newgarden, Josef
+D/C/F
+00:04.8161
+ 233.591
+185
+18
+75
+Sato, Takuma
+D/H/F
+00:04.8235
+ 233.232
+127
+19
+20
+Carpenter, Ed
+D/C/F
+00:04.8238
+ 233.218
+94
+20
+23
+Hunter-Reay, Ryan
+D/C/F
+00:04.8267
+ 233.078
+10
+21
+10
+Palou, Alex
+D/H/F
+00:04.8491
+ 232.001
+65
+22
+77
+Grosjean, Romain
+D/C/F
+00:04.8505
+ 231.934
+140
+23
+7
+Rossi, Alexander
+D/C/F
+00:04.8508
+ 231.920
+70
+24
+12
+Power, Will
+D/C/F
+00:04.8531
+ 231.810
+92
+25
+98
+Andretti, Marco
+D/H/F
+00:04.8595
+ 231.505
+11
+26
+9
+Dixon, Scott
+D/H/F
+00:04.8597
+ 231.495
+40
+27
+78
+Canapino, Agustin
+D/C/F
+00:04.8660
+ 231.195
+92
+28
+60
+Rosenqvist, Felix
+D/H/F
+00:04.8708
+ 230.967
+42
+29
+51
+Legge, Katherine
+D/H/F
+00:04.9060
+ 229.310
+12
+30
+11
+Armstrong, Marcus (R)
+D/H/F
+00:08.2793
+ 135.881
+0
+31
+28
+Ericsson, Marcus
+D/H/F
+00:09.0299
+ 124.586
+0
+32
+30
+Fittipaldi, Pietro
+D/H/F
+00:09.5154
+ 118.229
+0
+33
+66
+Blomqvist, Tom (R)
+D/H/F
+00:10.3421
+ 108.778
+0
+Section: BS2 to T3
+Length: 0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 22 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 23 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+20
+Carpenter, Ed
+D/C/F
+00:04.9718
+ 226.275
+183
+2
+2
+Newgarden, Josef
+D/C/F
+00:04.9737
+ 226.189
+172
+3
+33
+Rasmussen, Christian (R)
+D/C/F
+00:04.9772
+ 226.030
+175
+4
+41
+Robb, Sting Ray
+D/C/F
+00:04.9825
+ 225.790
+171
+5
+14
+Ferrucci, Santino
+D/C/F
+00:04.9905
+ 225.428
+174
+6
+15
+Rahal, Graham
+D/H/F
+00:04.9934
+ 225.297
+168
+7
+45
+Lundgaard, Christian
+D/H/F
+00:04.9944
+ 225.252
+173
+8
+06
+Castroneves, Helio
+D/H/F
+00:04.9961
+ 225.175
+177
+9
+17
+Larson, Kyle (R)
+D/C/F
+00:04.9965
+ 225.157
+176
+10
+9
+Dixon, Scott
+D/H/F
+00:05.0000
+ 224.999
+184
+11
+24
+Daly, Conor
+D/C/F
+00:05.0093
+ 224.582
+177
+12
+77
+Grosjean, Romain
+D/C/F
+00:05.0093
+ 224.582
+175
+13
+4
+Simpson, Kyffin (R)
+D/H/F
+00:05.0134
+ 224.398
+179
+14
+5
+O'Ward, Pato
+D/C/F
+00:05.0154
+ 224.308
+133
+15
+12
+Power, Will
+D/C/F
+00:05.0291
+ 223.697
+134
+16
+98
+Andretti, Marco
+D/H/F
+00:05.0304
+ 223.640
+49
+17
+3
+McLaughlin, Scott
+D/C/F
+00:05.0327
+ 223.537
+175
+18
+60
+Rosenqvist, Felix
+D/H/F
+00:05.0327
+ 223.537
+42
+19
+21
+VeeKay, Rinus
+D/C/F
+00:05.0329
+ 223.528
+173
+20
+7
+Rossi, Alexander
+D/C/F
+00:05.0477
+ 222.873
+179
+21
+6
+Ilott, Callum
+D/C/F
+00:05.0554
+ 222.534
+174
+22
+10
+Palou, Alex
+D/H/F
+00:05.0558
+ 222.516
+140
+23
+75
+Sato, Takuma
+D/H/F
+00:05.0590
+ 222.375
+175
+24
+78
+Canapino, Agustin
+D/C/F
+00:05.0623
+ 222.230
+185
+25
+26
+Herta, Colton
+D/H/F
+00:05.0685
+ 221.958
+164
+26
+27
+Kirkwood, Kyle
+D/H/F
+00:05.0933
+ 220.878
+185
+27
+23
+Hunter-Reay, Ryan
+D/C/F
+00:05.1277
+ 219.396
+51
+28
+51
+Legge, Katherine
+D/H/F
+00:05.1506
+ 218.420
+15
+29
+8
+Lundqvist, Linus (R)
+D/H/F
+00:05.1663
+ 217.757
+13
+30
+66
+Blomqvist, Tom (R)
+D/H/F
+00:09.2255
+ 121.944
+0
+31
+11
+Armstrong, Marcus (R)
+D/H/F
+00:09.2440
+ 121.700
+0
+32
+28
+Ericsson, Marcus
+D/H/F
+00:09.6185
+ 116.962
+0
+33
+30
+Fittipaldi, Pietro
+D/H/F
+00:10.3190
+ 109.022
+0
+Section: T3 to SS2
+Length: 0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 23 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 24 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+60
+Rosenqvist, Felix
+D/H/F
+00:05.0235
+ 223.947
+42
+2
+33
+Rasmussen, Christian (R)
+D/C/F
+00:05.0405
+ 223.191
+175
+3
+5
+O'Ward, Pato
+D/C/F
+00:05.0452
+ 222.984
+173
+4
+45
+Lundgaard, Christian
+D/H/F
+00:05.0456
+ 222.966
+174
+5
+98
+Andretti, Marco
+D/H/F
+00:05.0553
+ 222.538
+10
+6
+17
+Larson, Kyle (R)
+D/C/F
+00:05.0576
+ 222.437
+189
+7
+2
+Newgarden, Josef
+D/C/F
+00:05.0591
+ 222.371
+187
+8
+14
+Ferrucci, Santino
+D/C/F
+00:05.0595
+ 222.353
+179
+9
+7
+Rossi, Alexander
+D/C/F
+00:05.0627
+ 222.213
+173
+10
+06
+Castroneves, Helio
+D/H/F
+00:05.0643
+ 222.143
+43
+11
+12
+Power, Will
+D/C/F
+00:05.0663
+ 222.055
+134
+12
+15
+Rahal, Graham
+D/H/F
+00:05.0665
+ 222.046
+178
+13
+9
+Dixon, Scott
+D/H/F
+00:05.0675
+ 222.002
+181
+14
+27
+Kirkwood, Kyle
+D/H/F
+00:05.0693
+ 221.923
+45
+15
+24
+Daly, Conor
+D/C/F
+00:05.0697
+ 221.906
+172
+16
+41
+Robb, Sting Ray
+D/C/F
+00:05.0709
+ 221.853
+171
+17
+10
+Palou, Alex
+D/H/F
+00:05.0748
+ 221.683
+95
+18
+26
+Herta, Colton
+D/H/F
+00:05.0767
+ 221.600
+42
+19
+20
+Carpenter, Ed
+D/C/F
+00:05.0805
+ 221.434
+183
+20
+77
+Grosjean, Romain
+D/C/F
+00:05.0820
+ 221.369
+140
+21
+3
+McLaughlin, Scott
+D/C/F
+00:05.0830
+ 221.325
+185
+22
+78
+Canapino, Agustin
+D/C/F
+00:05.0882
+ 221.099
+132
+23
+75
+Sato, Takuma
+D/H/F
+00:05.0904
+ 221.004
+128
+24
+6
+Ilott, Callum
+D/C/F
+00:05.0931
+ 220.886
+158
+25
+4
+Simpson, Kyffin (R)
+D/H/F
+00:05.0938
+ 220.856
+132
+26
+21
+VeeKay, Rinus
+D/C/F
+00:05.0995
+ 220.609
+175
+27
+23
+Hunter-Reay, Ryan
+D/C/F
+00:05.1114
+ 220.096
+49
+28
+8
+Lundqvist, Linus (R)
+D/H/F
+00:05.1733
+ 217.462
+12
+29
+51
+Legge, Katherine
+D/H/F
+00:05.2618
+ 213.804
+12
+30
+28
+Ericsson, Marcus
+D/H/F
+00:09.3082
+ 120.861
+0
+31
+66
+Blomqvist, Tom (R)
+D/H/F
+00:09.5095
+ 118.302
+0
+32
+30
+Fittipaldi, Pietro
+D/H/F
+00:09.7267
+ 115.661
+0
+33
+11
+Armstrong, Marcus (R)
+D/H/F
+00:10.7651
+ 104.504
+0
+Section: SS2 to T4
+Length: 0.312499 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 24 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 25 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+27
+Kirkwood, Kyle
+D/H/F
+00:02.8921
+ 228.678
+141
+2
+5
+O'Ward, Pato
+D/C/F
+00:02.8946
+ 228.480
+174
+3
+60
+Rosenqvist, Felix
+D/H/F
+00:02.8966
+ 228.323
+9
+4
+24
+Daly, Conor
+D/C/F
+00:02.8996
+ 228.086
+172
+5
+14
+Ferrucci, Santino
+D/C/F
+00:02.9019
+ 227.906
+179
+6
+45
+Lundgaard, Christian
+D/H/F
+00:02.9035
+ 227.780
+174
+7
+17
+Larson, Kyle (R)
+D/C/F
+00:02.9045
+ 227.702
+189
+8
+06
+Castroneves, Helio
+D/H/F
+00:02.9046
+ 227.694
+140
+9
+2
+Newgarden, Josef
+D/C/F
+00:02.9106
+ 227.224
+187
+10
+26
+Herta, Colton
+D/H/F
+00:02.9125
+ 227.076
+41
+11
+10
+Palou, Alex
+D/H/F
+00:02.9130
+ 227.037
+92
+12
+3
+McLaughlin, Scott
+D/C/F
+00:02.9140
+ 226.959
+173
+13
+4
+Simpson, Kyffin (R)
+D/H/F
+00:02.9149
+ 226.889
+132
+14
+7
+Rossi, Alexander
+D/C/F
+00:02.9155
+ 226.843
+65
+15
+98
+Andretti, Marco
+D/H/F
+00:02.9191
+ 226.563
+10
+16
+12
+Power, Will
+D/C/F
+00:02.9219
+ 226.346
+134
+17
+33
+Rasmussen, Christian (R)
+D/C/F
+00:02.9220
+ 226.338
+175
+18
+21
+VeeKay, Rinus
+D/C/F
+00:02.9223
+ 226.315
+175
+19
+6
+Ilott, Callum
+D/C/F
+00:02.9238
+ 226.199
+140
+20
+9
+Dixon, Scott
+D/H/F
+00:02.9242
+ 226.168
+173
+21
+15
+Rahal, Graham
+D/H/F
+00:02.9287
+ 225.820
+11
+22
+77
+Grosjean, Romain
+D/C/F
+00:02.9298
+ 225.735
+140
+23
+41
+Robb, Sting Ray
+D/C/F
+00:02.9324
+ 225.535
+156
+24
+75
+Sato, Takuma
+D/H/F
+00:02.9332
+ 225.474
+128
+25
+20
+Carpenter, Ed
+D/C/F
+00:02.9379
+ 225.113
+101
+26
+23
+Hunter-Reay, Ryan
+D/C/F
+00:02.9397
+ 224.975
+10
+27
+78
+Canapino, Agustin
+D/C/F
+00:02.9409
+ 224.883
+138
+28
+8
+Lundqvist, Linus (R)
+D/H/F
+00:02.9593
+ 223.485
+12
+29
+51
+Legge, Katherine
+D/H/F
+00:03.0053
+ 220.064
+11
+30
+28
+Ericsson, Marcus
+D/H/F
+00:03.6793
+ 179.751
+0
+31
+30
+Fittipaldi, Pietro
+D/H/F
+00:03.7860
+ 174.686
+0
+32
+66
+Blomqvist, Tom (R)
+D/H/F
+00:04.0677
+ 162.588
+0
+33
+11
+Armstrong, Marcus (R)
+D/H/F
+00:04.2611
+ 155.209
+0
+Section: T4 to FS
+Length: 0.183711 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 25 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 26 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+27
+Kirkwood, Kyle
+D/H/F
+00:03.8817
+ 235.720
+141
+2
+5
+O'Ward, Pato
+D/C/F
+00:03.8880
+ 235.338
+96
+3
+14
+Ferrucci, Santino
+D/C/F
+00:03.8898
+ 235.229
+179
+4
+24
+Daly, Conor
+D/C/F
+00:03.8919
+ 235.102
+172
+5
+06
+Castroneves, Helio
+D/H/F
+00:03.8950
+ 234.915
+12
+6
+3
+McLaughlin, Scott
+D/C/F
+00:03.8972
+ 234.782
+173
+7
+60
+Rosenqvist, Felix
+D/H/F
+00:03.8984
+ 234.710
+34
+8
+12
+Power, Will
+D/C/F
+00:03.9009
+ 234.560
+144
+9
+33
+Rasmussen, Christian (R)
+D/C/F
+00:03.9091
+ 234.068
+183
+10
+26
+Herta, Colton
+D/H/F
+00:03.9119
+ 233.900
+33
+11
+15
+Rahal, Graham
+D/H/F
+00:03.9150
+ 233.715
+105
+12
+7
+Rossi, Alexander
+D/C/F
+00:03.9161
+ 233.649
+180
+13
+21
+VeeKay, Rinus
+D/C/F
+00:03.9188
+ 233.488
+76
+14
+4
+Simpson, Kyffin (R)
+D/H/F
+00:03.9190
+ 233.476
+132
+15
+17
+Larson, Kyle (R)
+D/C/F
+00:03.9202
+ 233.405
+188
+16
+6
+Ilott, Callum
+D/C/F
+00:03.9240
+ 233.179
+180
+17
+75
+Sato, Takuma
+D/H/F
+00:03.9283
+ 232.924
+144
+18
+45
+Lundgaard, Christian
+D/H/F
+00:03.9291
+ 232.876
+180
+19
+77
+Grosjean, Romain
+D/C/F
+00:03.9298
+ 232.835
+120
+20
+20
+Carpenter, Ed
+D/C/F
+00:03.9308
+ 232.776
+157
+21
+9
+Dixon, Scott
+D/H/F
+00:03.9356
+ 232.492
+118
+22
+10
+Palou, Alex
+D/H/F
+00:03.9358
+ 232.480
+65
+23
+78
+Canapino, Agustin
+D/C/F
+00:03.9368
+ 232.421
+138
+24
+23
+Hunter-Reay, Ryan
+D/C/F
+00:03.9369
+ 232.415
+35
+25
+2
+Newgarden, Josef
+D/C/F
+00:03.9401
+ 232.226
+140
+26
+41
+Robb, Sting Ray
+D/C/F
+00:03.9434
+ 232.032
+156
+27
+8
+Lundqvist, Linus (R)
+D/H/F
+00:03.9728
+ 230.315
+15
+28
+98
+Andretti, Marco
+D/H/F
+00:03.9780
+ 230.014
+104
+29
+51
+Legge, Katherine
+D/H/F
+00:04.0349
+ 226.770
+11
+30
+28
+Ericsson, Marcus
+D/H/F
+00:04.5538
+ 200.930
+0
+31
+30
+Fittipaldi, Pietro
+D/H/F
+00:04.7272
+ 193.559
+0
+32
+11
+Armstrong, Marcus (R)
+D/H/F
+00:04.8239
+ 189.679
+0
+33
+66
+Blomqvist, Tom (R)
+D/H/F
+00:04.8501
+ 188.655
+0
+Section: FS to SF
+Length: 0.254165 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 26 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 27 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+7
+Rossi, Alexander
+D/C/F
+00:10.0069
+ 224.844
+140
+2
+27
+Kirkwood, Kyle
+D/H/F
+00:10.0186
+ 224.582
+174
+3
+78
+Canapino, Agustin
+D/C/F
+00:10.0244
+ 224.452
+133
+4
+45
+Lundgaard, Christian
+D/H/F
+00:10.0395
+ 224.114
+175
+5
+33
+Rasmussen, Christian (R)
+D/C/F
+00:10.0626
+ 223.600
+168
+6
+20
+Carpenter, Ed
+D/C/F
+00:10.0692
+ 223.453
+183
+7
+06
+Castroneves, Helio
+D/H/F
+00:10.0782
+ 223.253
+133
+8
+41
+Robb, Sting Ray
+D/C/F
+00:10.0801
+ 223.211
+172
+9
+9
+Dixon, Scott
+D/H/F
+00:10.0818
+ 223.174
+178
+10
+77
+Grosjean, Romain
+D/C/F
+00:10.0939
+ 222.906
+179
+11
+14
+Ferrucci, Santino
+D/C/F
+00:10.0982
+ 222.811
+174
+12
+2
+Newgarden, Josef
+D/C/F
+00:10.1026
+ 222.714
+179
+13
+24
+Daly, Conor
+D/C/F
+00:10.1060
+ 222.639
+173
+14
+15
+Rahal, Graham
+D/H/F
+00:10.1143
+ 222.457
+135
+15
+5
+O'Ward, Pato
+D/C/F
+00:10.1345
+ 222.013
+194
+16
+17
+Larson, Kyle (R)
+D/C/F
+00:10.1348
+ 222.007
+183
+17
+6
+Ilott, Callum
+D/C/F
+00:10.1569
+ 221.524
+180
+18
+75
+Sato, Takuma
+D/H/F
+00:10.1692
+ 221.256
+174
+19
+26
+Herta, Colton
+D/H/F
+00:10.1804
+ 221.012
+164
+20
+21
+VeeKay, Rinus
+D/C/F
+00:10.1864
+ 220.882
+173
+21
+4
+Simpson, Kyffin (R)
+D/H/F
+00:10.2111
+ 220.348
+173
+22
+3
+McLaughlin, Scott
+D/C/F
+00:10.2452
+ 219.614
+83
+23
+10
+Palou, Alex
+D/H/F
+00:10.2733
+ 219.014
+134
+24
+98
+Andretti, Marco
+D/H/F
+00:10.3916
+ 216.520
+51
+25
+60
+Rosenqvist, Felix
+D/H/F
+00:10.4188
+ 215.955
+42
+26
+12
+Power, Will
+D/C/F
+00:10.4260
+ 215.806
+48
+27
+23
+Hunter-Reay, Ryan
+D/C/F
+00:10.4674
+ 214.952
+50
+28
+51
+Legge, Katherine
+D/H/F
+00:10.4747
+ 214.803
+13
+29
+8
+Lundqvist, Linus (R)
+D/H/F
+00:10.6088
+ 212.087
+13
+30
+11
+Armstrong, Marcus (R)
+D/H/F
+00:12.4204
+ 181.153
+0
+31
+28
+Ericsson, Marcus
+D/H/F
+00:17.1500
+ 131.195
+0
+32
+30
+Fittipaldi, Pietro
+D/H/F
+00:17.6484
+ 127.490
+0
+33
+66
+Blomqvist, Tom (R)
+D/H/F
+00:20.0505
+ 112.216
+0
+Section: T1 to T2
+Length: 0.624998 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 27 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 28 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+41
+Robb, Sting Ray
+D/C/F
+00:09.6728
+ 232.610
+11
+2
+27
+Kirkwood, Kyle
+D/H/F
+00:09.7260
+ 231.338
+157
+3
+2
+Newgarden, Josef
+D/C/F
+00:09.7632
+ 230.456
+172
+4
+26
+Herta, Colton
+D/H/F
+00:09.7684
+ 230.334
+12
+5
+8
+Lundqvist, Linus (R)
+D/H/F
+00:09.7695
+ 230.308
+13
+6
+3
+McLaughlin, Scott
+D/C/F
+00:09.7798
+ 230.065
+94
+7
+21
+VeeKay, Rinus
+D/C/F
+00:09.7828
+ 229.995
+45
+8
+5
+O'Ward, Pato
+D/C/F
+00:09.7867
+ 229.903
+93
+9
+15
+Rahal, Graham
+D/H/F
+00:09.7916
+ 229.788
+161
+10
+06
+Castroneves, Helio
+D/H/F
+00:09.7935
+ 229.743
+196
+11
+6
+Ilott, Callum
+D/C/F
+00:09.7937
+ 229.739
+187
+12
+14
+Ferrucci, Santino
+D/C/F
+00:09.7954
+ 229.699
+193
+13
+75
+Sato, Takuma
+D/H/F
+00:09.8184
+ 229.161
+142
+14
+17
+Larson, Kyle (R)
+D/C/F
+00:09.8186
+ 229.156
+12
+15
+45
+Lundgaard, Christian
+D/H/F
+00:09.8244
+ 229.021
+174
+16
+10
+Palou, Alex
+D/H/F
+00:09.8251
+ 229.005
+39
+17
+33
+Rasmussen, Christian (R)
+D/C/F
+00:09.8275
+ 228.949
+165
+18
+23
+Hunter-Reay, Ryan
+D/C/F
+00:09.8284
+ 228.928
+93
+19
+24
+Daly, Conor
+D/C/F
+00:09.8426
+ 228.597
+156
+20
+78
+Canapino, Agustin
+D/C/F
+00:09.8515
+ 228.391
+160
+21
+4
+Simpson, Kyffin (R)
+D/H/F
+00:09.8590
+ 228.217
+13
+22
+20
+Carpenter, Ed
+D/C/F
+00:09.8665
+ 228.044
+156
+23
+60
+Rosenqvist, Felix
+D/H/F
+00:09.8737
+ 227.877
+36
+24
+7
+Rossi, Alexander
+D/C/F
+00:09.8738
+ 227.875
+174
+25
+77
+Grosjean, Romain
+D/C/F
+00:09.8891
+ 227.523
+48
+26
+9
+Dixon, Scott
+D/H/F
+00:09.8895
+ 227.513
+81
+27
+98
+Andretti, Marco
+D/H/F
+00:09.9029
+ 227.205
+11
+28
+12
+Power, Will
+D/C/F
+00:09.9082
+ 227.084
+48
+29
+51
+Legge, Katherine
+D/H/F
+00:10.0363
+ 224.185
+12
+30
+11
+Armstrong, Marcus (R)
+D/H/F
+00:15.1017
+ 148.989
+0
+31
+28
+Ericsson, Marcus
+D/H/F
+00:18.5128
+ 121.537
+0
+32
+30
+Fittipaldi, Pietro
+D/H/F
+00:19.3635
+ 116.198
+0
+33
+66
+Blomqvist, Tom (R)
+D/H/F
+00:21.7276
+ 103.555
+0
+Section: T2 to T3
+Length: 0.624998 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 28 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 29 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+33
+Rasmussen, Christian (R)
+D/C/F
+00:10.0177
+ 224.602
+175
+2
+2
+Newgarden, Josef
+D/C/F
+00:10.0473
+ 223.940
+172
+3
+20
+Carpenter, Ed
+D/C/F
+00:10.0523
+ 223.829
+183
+4
+41
+Robb, Sting Ray
+D/C/F
+00:10.0534
+ 223.804
+171
+5
+60
+Rosenqvist, Felix
+D/H/F
+00:10.0562
+ 223.742
+42
+6
+45
+Lundgaard, Christian
+D/H/F
+00:10.0608
+ 223.640
+173
+7
+14
+Ferrucci, Santino
+D/C/F
+00:10.0747
+ 223.331
+174
+8
+17
+Larson, Kyle (R)
+D/C/F
+00:10.0813
+ 223.185
+176
+9
+5
+O'Ward, Pato
+D/C/F
+00:10.0819
+ 223.172
+133
+10
+24
+Daly, Conor
+D/C/F
+00:10.0861
+ 223.079
+177
+11
+15
+Rahal, Graham
+D/H/F
+00:10.0914
+ 222.961
+168
+12
+9
+Dixon, Scott
+D/H/F
+00:10.0927
+ 222.933
+184
+13
+06
+Castroneves, Helio
+D/H/F
+00:10.0949
+ 222.884
+177
+14
+12
+Power, Will
+D/C/F
+00:10.0954
+ 222.873
+134
+15
+77
+Grosjean, Romain
+D/C/F
+00:10.1070
+ 222.617
+175
+16
+7
+Rossi, Alexander
+D/C/F
+00:10.1173
+ 222.391
+173
+17
+4
+Simpson, Kyffin (R)
+D/H/F
+00:10.1228
+ 222.270
+179
+18
+3
+McLaughlin, Scott
+D/C/F
+00:10.1315
+ 222.079
+175
+19
+98
+Andretti, Marco
+D/H/F
+00:10.1461
+ 221.759
+10
+20
+10
+Palou, Alex
+D/H/F
+00:10.1528
+ 221.613
+140
+21
+75
+Sato, Takuma
+D/H/F
+00:10.1546
+ 221.574
+175
+22
+6
+Ilott, Callum
+D/C/F
+00:10.1629
+ 221.393
+172
+23
+27
+Kirkwood, Kyle
+D/H/F
+00:10.1699
+ 221.240
+45
+24
+78
+Canapino, Agustin
+D/C/F
+00:10.1736
+ 221.160
+132
+25
+26
+Herta, Colton
+D/H/F
+00:10.1812
+ 220.995
+70
+26
+21
+VeeKay, Rinus
+D/C/F
+00:10.1850
+ 220.912
+133
+27
+23
+Hunter-Reay, Ryan
+D/C/F
+00:10.2429
+ 219.664
+51
+28
+51
+Legge, Katherine
+D/H/F
+00:10.4542
+ 215.224
+15
+29
+8
+Lundqvist, Linus (R)
+D/H/F
+00:10.4648
+ 215.006
+12
+30
+66
+Blomqvist, Tom (R)
+D/H/F
+00:19.2178
+ 117.079
+0
+31
+11
+Armstrong, Marcus (R)
+D/H/F
+00:20.2650
+ 111.029
+0
+32
+28
+Ericsson, Marcus
+D/H/F
+00:20.5866
+ 109.294
+0
+33
+30
+Fittipaldi, Pietro
+D/H/F
+00:20.9501
+ 107.398
+0
+Section: T3 to T4
+Length: 0.624998 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 29 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 30 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+27
+Kirkwood, Kyle
+D/H/F
+00:06.7738
+ 232.714
+141
+2
+24
+Daly, Conor
+D/C/F
+00:06.7915
+ 232.107
+172
+3
+14
+Ferrucci, Santino
+D/C/F
+00:06.7917
+ 232.101
+179
+4
+5
+O'Ward, Pato
+D/C/F
+00:06.7978
+ 231.892
+96
+5
+06
+Castroneves, Helio
+D/H/F
+00:06.8037
+ 231.691
+12
+6
+60
+Rosenqvist, Felix
+D/H/F
+00:06.8076
+ 231.558
+50
+7
+3
+McLaughlin, Scott
+D/C/F
+00:06.8112
+ 231.436
+173
+8
+17
+Larson, Kyle (R)
+D/C/F
+00:06.8289
+ 230.836
+189
+9
+12
+Power, Will
+D/C/F
+00:06.8327
+ 230.708
+144
+10
+4
+Simpson, Kyffin (R)
+D/H/F
+00:06.8339
+ 230.667
+132
+11
+45
+Lundgaard, Christian
+D/H/F
+00:06.8349
+ 230.634
+174
+12
+26
+Herta, Colton
+D/H/F
+00:06.8360
+ 230.596
+33
+13
+33
+Rasmussen, Christian (R)
+D/C/F
+00:06.8416
+ 230.408
+156
+14
+7
+Rossi, Alexander
+D/C/F
+00:06.8459
+ 230.263
+180
+15
+10
+Palou, Alex
+D/H/F
+00:06.8490
+ 230.159
+65
+16
+6
+Ilott, Callum
+D/C/F
+00:06.8491
+ 230.155
+180
+17
+15
+Rahal, Graham
+D/H/F
+00:06.8539
+ 229.994
+179
+18
+21
+VeeKay, Rinus
+D/C/F
+00:06.8577
+ 229.867
+76
+19
+2
+Newgarden, Josef
+D/C/F
+00:06.8659
+ 229.592
+140
+20
+41
+Robb, Sting Ray
+D/C/F
+00:06.8758
+ 229.262
+156
+21
+75
+Sato, Takuma
+D/H/F
+00:06.8761
+ 229.252
+144
+22
+78
+Canapino, Agustin
+D/C/F
+00:06.8777
+ 229.198
+138
+23
+9
+Dixon, Scott
+D/H/F
+00:06.8787
+ 229.165
+143
+24
+77
+Grosjean, Romain
+D/C/F
+00:06.8868
+ 228.895
+169
+25
+20
+Carpenter, Ed
+D/C/F
+00:06.8891
+ 228.819
+125
+26
+23
+Hunter-Reay, Ryan
+D/C/F
+00:06.8967
+ 228.567
+10
+27
+98
+Andretti, Marco
+D/H/F
+00:06.9061
+ 228.256
+10
+28
+8
+Lundqvist, Linus (R)
+D/H/F
+00:06.9526
+ 226.729
+15
+29
+51
+Legge, Katherine
+D/H/F
+00:07.0402
+ 223.908
+11
+30
+28
+Ericsson, Marcus
+D/H/F
+00:08.2331
+ 191.466
+0
+31
+30
+Fittipaldi, Pietro
+D/H/F
+00:08.5132
+ 185.166
+0
+32
+66
+Blomqvist, Tom (R)
+D/H/F
+00:08.9178
+ 176.765
+0
+33
+11
+Armstrong, Marcus (R)
+D/H/F
+00:09.0850
+ 173.512
+0
+Section: T4 to SF
+Length: 0.437877 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 30 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 31 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+33
+Rasmussen, Christian (R)
+D/C/F
+00:00.3458
+ 236.603
+168
+2
+3
+McLaughlin, Scott
+D/C/F
+00:00.3472
+ 235.649
+175
+3
+24
+Daly, Conor
+D/C/F
+00:00.3488
+ 234.568
+173
+4
+75
+Sato, Takuma
+D/H/F
+00:00.3490
+ 234.433
+176
+5
+7
+Rossi, Alexander
+D/C/F
+00:00.3498
+ 233.897
+140
+6
+15
+Rahal, Graham
+D/H/F
+00:00.3514
+ 232.832
+178
+7
+9
+Dixon, Scott
+D/H/F
+00:00.3516
+ 232.700
+178
+8
+45
+Lundgaard, Christian
+D/H/F
+00:00.3519
+ 232.501
+175
+9
+27
+Kirkwood, Kyle
+D/H/F
+00:00.3523
+ 232.237
+177
+10
+10
+Palou, Alex
+D/H/F
+00:00.3525
+ 232.106
+139
+11
+41
+Robb, Sting Ray
+D/C/F
+00:00.3530
+ 231.777
+172
+12
+6
+Ilott, Callum
+D/C/F
+00:00.3532
+ 231.646
+180
+13
+77
+Grosjean, Romain
+D/C/F
+00:00.3540
+ 231.122
+197
+14
+4
+Simpson, Kyffin (R)
+D/H/F
+00:00.3541
+ 231.057
+176
+15
+78
+Canapino, Agustin
+D/C/F
+00:00.3543
+ 230.926
+133
+16
+5
+O'Ward, Pato
+D/C/F
+00:00.3545
+ 230.796
+78
+17
+20
+Carpenter, Ed
+D/C/F
+00:00.3547
+ 230.666
+132
+18
+2
+Newgarden, Josef
+D/C/F
+00:00.3550
+ 230.471
+33
+19
+17
+Larson, Kyle (R)
+D/C/F
+00:00.3550
+ 230.471
+181
+20
+21
+VeeKay, Rinus
+D/C/F
+00:00.3557
+ 230.017
+172
+21
+14
+Ferrucci, Santino
+D/C/F
+00:00.3564
+ 229.566
+141
+22
+06
+Castroneves, Helio
+D/H/F
+00:00.3564
+ 229.566
+133
+23
+12
+Power, Will
+D/C/F
+00:00.3567
+ 229.373
+132
+24
+60
+Rosenqvist, Felix
+D/H/F
+00:00.3567
+ 229.373
+27
+25
+26
+Herta, Colton
+D/H/F
+00:00.3617
+ 226.202
+164
+26
+51
+Legge, Katherine
+D/H/F
+00:00.3641
+ 224.711
+16
+27
+23
+Hunter-Reay, Ryan
+D/C/F
+00:00.3646
+ 224.403
+74
+28
+98
+Andretti, Marco
+D/H/F
+00:00.3667
+ 223.118
+45
+29
+8
+Lundqvist, Linus (R)
+D/H/F
+00:00.3789
+ 215.933
+13
+30
+28
+Ericsson, Marcus
+D/H/F
+00:00.4431
+ 184.647
+0
+31
+66
+Blomqvist, Tom (R)
+D/H/F
+00:00.4545
+ 180.016
+0
+32
+30
+Fittipaldi, Pietro
+D/H/F
+00:00.4644
+ 176.178
+0
+33
+11
+Armstrong, Marcus (R)
+D/H/F
+00:00.4782
+ 171.094
+0
+Section: T1T to T1
+Length: 0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 31 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 32 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+27
+Kirkwood, Kyle
+D/H/F
+00:00.3582
+ 228.412
+141
+2
+45
+Lundgaard, Christian
+D/H/F
+00:00.3593
+ 227.713
+174
+3
+06
+Castroneves, Helio
+D/H/F
+00:00.3596
+ 227.523
+133
+4
+5
+O'Ward, Pato
+D/C/F
+00:00.3598
+ 227.396
+186
+5
+26
+Herta, Colton
+D/H/F
+00:00.3601
+ 227.207
+10
+6
+15
+Rahal, Graham
+D/H/F
+00:00.3603
+ 227.081
+178
+7
+14
+Ferrucci, Santino
+D/C/F
+00:00.3604
+ 227.018
+174
+8
+24
+Daly, Conor
+D/C/F
+00:00.3607
+ 226.829
+173
+9
+7
+Rossi, Alexander
+D/C/F
+00:00.3609
+ 226.703
+141
+10
+2
+Newgarden, Josef
+D/C/F
+00:00.3613
+ 226.452
+175
+11
+21
+VeeKay, Rinus
+D/C/F
+00:00.3615
+ 226.327
+175
+12
+33
+Rasmussen, Christian (R)
+D/C/F
+00:00.3618
+ 226.139
+42
+13
+10
+Palou, Alex
+D/H/F
+00:00.3619
+ 226.077
+174
+14
+78
+Canapino, Agustin
+D/C/F
+00:00.3619
+ 226.077
+132
+15
+41
+Robb, Sting Ray
+D/C/F
+00:00.3620
+ 226.014
+171
+16
+4
+Simpson, Kyffin (R)
+D/H/F
+00:00.3620
+ 226.014
+184
+17
+6
+Ilott, Callum
+D/C/F
+00:00.3623
+ 225.827
+180
+18
+17
+Larson, Kyle (R)
+D/C/F
+00:00.3623
+ 225.827
+182
+19
+60
+Rosenqvist, Felix
+D/H/F
+00:00.3623
+ 225.827
+34
+20
+9
+Dixon, Scott
+D/H/F
+00:00.3632
+ 225.268
+158
+21
+77
+Grosjean, Romain
+D/C/F
+00:00.3635
+ 225.082
+177
+22
+75
+Sato, Takuma
+D/H/F
+00:00.3646
+ 224.403
+174
+23
+20
+Carpenter, Ed
+D/C/F
+00:00.3648
+ 224.280
+181
+24
+3
+McLaughlin, Scott
+D/C/F
+00:00.3649
+ 224.218
+100
+25
+12
+Power, Will
+D/C/F
+00:00.3661
+ 223.483
+100
+26
+23
+Hunter-Reay, Ryan
+D/C/F
+00:00.3670
+ 222.935
+93
+27
+8
+Lundqvist, Linus (R)
+D/H/F
+00:00.3672
+ 222.814
+15
+28
+98
+Andretti, Marco
+D/H/F
+00:00.3689
+ 221.787
+47
+29
+51
+Legge, Katherine
+D/H/F
+00:00.3793
+ 215.706
+12
+30
+11
+Armstrong, Marcus (R)
+D/H/F
+00:00.4371
+ 187.182
+0
+31
+28
+Ericsson, Marcus
+D/H/F
+00:00.5639
+ 145.092
+0
+32
+30
+Fittipaldi, Pietro
+D/H/F
+00:00.6046
+ 135.325
+0
+33
+66
+Blomqvist, Tom (R)
+D/H/F
+00:00.6704
+ 122.042
+0
+Section: T2T to T2
+Length: 0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 32 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 33 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+15
+Rahal, Graham
+D/H/F
+00:00.3450
+ 237.151
+161
+2
+14
+Ferrucci, Santino
+D/C/F
+00:00.3457
+ 236.671
+183
+3
+41
+Robb, Sting Ray
+D/C/F
+00:00.3460
+ 236.466
+11
+4
+06
+Castroneves, Helio
+D/H/F
+00:00.3460
+ 236.466
+196
+5
+8
+Lundqvist, Linus (R)
+D/H/F
+00:00.3470
+ 235.784
+13
+6
+24
+Daly, Conor
+D/C/F
+00:00.3477
+ 235.310
+170
+7
+6
+Ilott, Callum
+D/C/F
+00:00.3477
+ 235.310
+158
+8
+45
+Lundgaard, Christian
+D/H/F
+00:00.3479
+ 235.174
+193
+9
+27
+Kirkwood, Kyle
+D/H/F
+00:00.3480
+ 235.107
+72
+10
+20
+Carpenter, Ed
+D/C/F
+00:00.3480
+ 235.107
+94
+11
+33
+Rasmussen, Christian (R)
+D/C/F
+00:00.3481
+ 235.039
+175
+12
+75
+Sato, Takuma
+D/H/F
+00:00.3489
+ 234.500
+182
+13
+77
+Grosjean, Romain
+D/C/F
+00:00.3497
+ 233.964
+140
+14
+2
+Newgarden, Josef
+D/C/F
+00:00.3499
+ 233.830
+172
+15
+2
+Newgarden, Josef
+D/C/F
+00:00.3499
+ 233.830
+185
+16
+21
+VeeKay, Rinus
+D/C/F
+00:00.3506
+ 233.363
+173
+17
+17
+Larson, Kyle (R)
+D/C/F
+00:00.3508
+ 233.230
+12
+18
+4
+Simpson, Kyffin (R)
+D/H/F
+00:00.3511
+ 233.031
+179
+19
+3
+McLaughlin, Scott
+D/C/F
+00:00.3512
+ 232.965
+188
+20
+78
+Canapino, Agustin
+D/C/F
+00:00.3512
+ 232.965
+188
+21
+9
+Dixon, Scott
+D/H/F
+00:00.3513
+ 232.898
+40
+22
+23
+Hunter-Reay, Ryan
+D/C/F
+00:00.3518
+ 232.567
+10
+23
+12
+Power, Will
+D/C/F
+00:00.3520
+ 232.435
+48
+24
+98
+Andretti, Marco
+D/H/F
+00:00.3534
+ 231.514
+49
+25
+51
+Legge, Katherine
+D/H/F
+00:00.3541
+ 231.057
+10
+26
+7
+Rossi, Alexander
+D/C/F
+00:00.3547
+ 230.666
+173
+27
+5
+O'Ward, Pato
+D/C/F
+00:00.3556
+ 230.082
+133
+28
+10
+Palou, Alex
+D/H/F
+00:00.3566
+ 229.437
+194
+29
+60
+Rosenqvist, Felix
+D/H/F
+00:00.3572
+ 229.052
+42
+30
+26
+Herta, Colton
+D/H/F
+00:00.3583
+ 228.348
+164
+31
+11
+Armstrong, Marcus (R)
+D/H/F
+00:00.6404
+ 127.760
+0
+32
+28
+Ericsson, Marcus
+D/H/F
+00:00.6758
+ 121.067
+0
+33
+66
+Blomqvist, Tom (R)
+D/H/F
+00:00.6906
+ 118.473
+0
+34
+30
+Fittipaldi, Pietro
+D/H/F
+00:00.7104
+ 115.171
+0
+Section: T3T to T3
+Length: 0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 33 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 34 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+60
+Rosenqvist, Felix
+D/H/F
+00:00.3567
+ 229.373
+42
+2
+45
+Lundgaard, Christian
+D/H/F
+00:00.3576
+ 228.795
+174
+3
+27
+Kirkwood, Kyle
+D/H/F
+00:00.3577
+ 228.731
+173
+4
+98
+Andretti, Marco
+D/H/F
+00:00.3577
+ 228.731
+10
+5
+5
+O'Ward, Pato
+D/C/F
+00:00.3578
+ 228.667
+174
+6
+26
+Herta, Colton
+D/H/F
+00:00.3580
+ 228.540
+41
+7
+24
+Daly, Conor
+D/C/F
+00:00.3581
+ 228.476
+172
+8
+17
+Larson, Kyle (R)
+D/C/F
+00:00.3582
+ 228.412
+189
+9
+14
+Ferrucci, Santino
+D/C/F
+00:00.3584
+ 228.285
+179
+10
+2
+Newgarden, Josef
+D/C/F
+00:00.3587
+ 228.094
+187
+11
+4
+Simpson, Kyffin (R)
+D/H/F
+00:00.3587
+ 228.094
+132
+12
+06
+Castroneves, Helio
+D/H/F
+00:00.3591
+ 227.840
+43
+13
+06
+Castroneves, Helio
+D/H/F
+00:00.3591
+ 227.840
+51
+14
+78
+Canapino, Agustin
+D/C/F
+00:00.3591
+ 227.840
+132
+15
+3
+McLaughlin, Scott
+D/C/F
+00:00.3592
+ 227.776
+189
+16
+10
+Palou, Alex
+D/H/F
+00:00.3593
+ 227.713
+95
+17
+9
+Dixon, Scott
+D/H/F
+00:00.3594
+ 227.649
+181
+18
+33
+Rasmussen, Christian (R)
+D/C/F
+00:00.3595
+ 227.586
+175
+19
+7
+Rossi, Alexander
+D/C/F
+00:00.3596
+ 227.523
+175
+20
+75
+Sato, Takuma
+D/H/F
+00:00.3596
+ 227.523
+170
+21
+6
+Ilott, Callum
+D/C/F
+00:00.3605
+ 226.955
+158
+22
+77
+Grosjean, Romain
+D/C/F
+00:00.3609
+ 226.703
+169
+23
+12
+Power, Will
+D/C/F
+00:00.3609
+ 226.703
+134
+24
+15
+Rahal, Graham
+D/H/F
+00:00.3612
+ 226.515
+11
+25
+41
+Robb, Sting Ray
+D/C/F
+00:00.3614
+ 226.390
+171
+26
+21
+VeeKay, Rinus
+D/C/F
+00:00.3615
+ 226.327
+175
+27
+23
+Hunter-Reay, Ryan
+D/C/F
+00:00.3620
+ 226.014
+49
+28
+20
+Carpenter, Ed
+D/C/F
+00:00.3622
+ 225.890
+101
+29
+8
+Lundqvist, Linus (R)
+D/H/F
+00:00.3650
+ 224.157
+12
+30
+51
+Legge, Katherine
+D/H/F
+00:00.3724
+ 219.702
+11
+31
+28
+Ericsson, Marcus
+D/H/F
+00:00.4847
+ 168.800
+0
+32
+30
+Fittipaldi, Pietro
+D/H/F
+00:00.5031
+ 162.626
+0
+33
+66
+Blomqvist, Tom (R)
+D/H/F
+00:00.5547
+ 147.498
+0
+34
+11
+Armstrong, Marcus (R)
+D/H/F
+00:00.6031
+ 135.661
+0
+Section: T4T to T4
+Length: 0.022727 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 34 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 35 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+21
+VeeKay, Rinus
+D/C/F
+00:00.4685
+ 239.398
+179
+2
+41
+Robb, Sting Ray
+D/C/F
+00:00.4693
+ 238.990
+12
+3
+5
+O'Ward, Pato
+D/C/F
+00:00.4694
+ 238.939
+122
+4
+33
+Rasmussen, Christian (R)
+D/C/F
+00:00.4694
+ 238.939
+184
+5
+14
+Ferrucci, Santino
+D/C/F
+00:00.4699
+ 238.685
+97
+6
+7
+Rossi, Alexander
+D/C/F
+00:00.4703
+ 238.482
+181
+7
+12
+Power, Will
+D/C/F
+00:00.4715
+ 237.875
+95
+8
+26
+Herta, Colton
+D/H/F
+00:00.4717
+ 237.774
+42
+9
+23
+Hunter-Reay, Ryan
+D/C/F
+00:00.4717
+ 237.774
+36
+10
+06
+Castroneves, Helio
+D/H/F
+00:00.4725
+ 237.371
+72
+11
+24
+Daly, Conor
+D/C/F
+00:00.4728
+ 237.221
+103
+12
+6
+Ilott, Callum
+D/C/F
+00:00.4734
+ 236.920
+120
+13
+17
+Larson, Kyle (R)
+D/C/F
+00:00.4734
+ 236.920
+189
+14
+60
+Rosenqvist, Felix
+D/H/F
+00:00.4734
+ 236.920
+40
+15
+27
+Kirkwood, Kyle
+D/H/F
+00:00.4735
+ 236.870
+123
+16
+20
+Carpenter, Ed
+D/C/F
+00:00.4736
+ 236.820
+158
+17
+45
+Lundgaard, Christian
+D/H/F
+00:00.4740
+ 236.620
+138
+18
+15
+Rahal, Graham
+D/H/F
+00:00.4741
+ 236.570
+181
+19
+3
+McLaughlin, Scott
+D/C/F
+00:00.4742
+ 236.520
+175
+20
+77
+Grosjean, Romain
+D/C/F
+00:00.4742
+ 236.520
+123
+21
+2
+Newgarden, Josef
+D/C/F
+00:00.4758
+ 235.725
+141
+22
+10
+Palou, Alex
+D/H/F
+00:00.4764
+ 235.428
+13
+23
+10
+Palou, Alex
+D/H/F
+00:00.4764
+ 235.428
+181
+24
+78
+Canapino, Agustin
+D/C/F
+00:00.4767
+ 235.280
+97
+25
+8
+Lundqvist, Linus (R)
+D/H/F
+00:00.4767
+ 235.280
+16
+26
+75
+Sato, Takuma
+D/H/F
+00:00.4770
+ 235.132
+140
+27
+4
+Simpson, Kyffin (R)
+D/H/F
+00:00.4771
+ 235.083
+134
+28
+9
+Dixon, Scott
+D/H/F
+00:00.4775
+ 234.886
+65
+29
+9
+Dixon, Scott
+D/H/F
+00:00.4775
+ 234.886
+136
+30
+98
+Andretti, Marco
+D/H/F
+00:00.4787
+ 234.297
+34
+31
+51
+Legge, Katherine
+D/H/F
+00:00.4864
+ 230.588
+12
+32
+28
+Ericsson, Marcus
+D/H/F
+00:00.5365
+ 209.055
+0
+33
+11
+Armstrong, Marcus (R)
+D/H/F
+00:00.5581
+ 200.964
+0
+34
+30
+Fittipaldi, Pietro
+D/H/F
+00:00.5600
+ 200.282
+0
+35
+66
+Blomqvist, Tom (R)
+D/H/F
+00:00.5800
+ 193.376
+0
+Section: SF to SFT
+Length: 0.031155 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 35 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 36 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+11
+Armstrong, Marcus (R)
+D/H/F
+00:09.9595
+ 86.019
+5
+Section: PT4 to PI
+Length: 0.237973 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 36 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 37 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+33
+Rasmussen, Christian (R)
+D/C/F
+00:08.7871
+ 108.630
+174
+2
+27
+Kirkwood, Kyle
+D/H/F
+00:08.8463
+ 107.903
+176
+3
+10
+Palou, Alex
+D/H/F
+00:08.8745
+ 107.560
+132
+4
+9
+Dixon, Scott
+D/H/F
+00:08.9045
+ 107.198
+172
+5
+78
+Canapino, Agustin
+D/C/F
+00:08.9091
+ 107.143
+169
+6
+4
+Simpson, Kyffin (R)
+D/H/F
+00:08.9140
+ 107.084
+186
+7
+12
+Power, Will
+D/C/F
+00:08.9193
+ 107.020
+133
+8
+2
+Newgarden, Josef
+D/C/F
+00:08.9225
+ 106.982
+130
+9
+20
+Carpenter, Ed
+D/C/F
+00:08.9228
+ 106.978
+180
+10
+6
+Ilott, Callum
+D/C/F
+00:08.9239
+ 106.965
+131
+11
+17
+Larson, Kyle (R)
+D/C/F
+00:08.9297
+ 106.895
+184
+12
+14
+Ferrucci, Santino
+D/C/F
+00:08.9627
+ 106.502
+133
+13
+21
+VeeKay, Rinus
+D/C/F
+00:08.9753
+ 106.352
+174
+14
+5
+O'Ward, Pato
+D/C/F
+00:08.9979
+ 106.085
+172
+15
+15
+Rahal, Graham
+D/H/F
+00:08.9985
+ 106.078
+133
+16
+41
+Robb, Sting Ray
+D/C/F
+00:09.0000
+ 106.060
+170
+17
+77
+Grosjean, Romain
+D/C/F
+00:09.0052
+ 105.999
+136
+18
+06
+Castroneves, Helio
+D/H/F
+00:09.0113
+ 105.927
+132
+19
+7
+Rossi, Alexander
+D/C/F
+00:09.0276
+ 105.736
+132
+20
+24
+Daly, Conor
+D/C/F
+00:09.0357
+ 105.641
+43
+21
+45
+Lundgaard, Christian
+D/H/F
+00:09.0774
+ 105.156
+172
+22
+75
+Sato, Takuma
+D/H/F
+00:09.0803
+ 105.122
+170
+23
+3
+McLaughlin, Scott
+D/C/F
+00:09.1966
+ 103.793
+131
+24
+26
+Herta, Colton
+D/H/F
+00:09.2085
+ 103.659
+165
+25
+98
+Andretti, Marco
+D/H/F
+00:09.7988
+ 97.414
+30
+26
+23
+Hunter-Reay, Ryan
+D/C/F
+00:09.8534
+ 96.875
+61
+27
+51
+Legge, Katherine
+D/H/F
+00:11.6427
+ 81.986
+4
+28
+60
+Rosenqvist, Felix
+D/H/F
+00:12.4677
+ 76.561
+24
+29
+8
+Lundqvist, Linus (R)
+D/H/F
+00:13.2049
+ 72.287
+4
+Section: PO to PSS1
+Length: 0.265151 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 37 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 38 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+14
+Ferrucci, Santino
+D/C/F
+00:06.0088
+ 158.858
+133
+2
+5
+O'Ward, Pato
+D/C/F
+00:06.1045
+ 156.367
+137
+3
+78
+Canapino, Agustin
+D/C/F
+00:06.1050
+ 156.354
+131
+4
+27
+Kirkwood, Kyle
+D/H/F
+00:06.1059
+ 156.331
+140
+5
+41
+Robb, Sting Ray
+D/C/F
+00:06.1396
+ 155.473
+42
+6
+4
+Simpson, Kyffin (R)
+D/H/F
+00:06.1548
+ 155.089
+131
+7
+3
+McLaughlin, Scott
+D/C/F
+00:06.1649
+ 154.835
+131
+8
+12
+Power, Will
+D/C/F
+00:06.1736
+ 154.617
+133
+9
+33
+Rasmussen, Christian (R)
+D/C/F
+00:06.1918
+ 154.163
+132
+10
+10
+Palou, Alex
+D/H/F
+00:06.1926
+ 154.143
+173
+11
+2
+Newgarden, Josef
+D/C/F
+00:06.1987
+ 153.991
+171
+12
+7
+Rossi, Alexander
+D/C/F
+00:06.2099
+ 153.713
+132
+13
+24
+Daly, Conor
+D/C/F
+00:06.2173
+ 153.530
+144
+14
+45
+Lundgaard, Christian
+D/H/F
+00:06.2178
+ 153.518
+100
+15
+21
+VeeKay, Rinus
+D/C/F
+00:06.2195
+ 153.476
+138
+16
+9
+Dixon, Scott
+D/H/F
+00:06.2537
+ 152.637
+141
+17
+17
+Larson, Kyle (R)
+D/C/F
+00:06.2604
+ 152.473
+184
+18
+75
+Sato, Takuma
+D/H/F
+00:06.2653
+ 152.354
+141
+19
+6
+Ilott, Callum
+D/C/F
+00:06.2706
+ 152.225
+131
+20
+20
+Carpenter, Ed
+D/C/F
+00:06.3071
+ 151.344
+143
+21
+15
+Rahal, Graham
+D/H/F
+00:06.3548
+ 150.208
+133
+22
+26
+Herta, Colton
+D/H/F
+00:06.3881
+ 149.425
+85
+23
+06
+Castroneves, Helio
+D/H/F
+00:06.4350
+ 148.336
+132
+24
+77
+Grosjean, Romain
+D/C/F
+00:06.8057
+ 140.256
+136
+25
+98
+Andretti, Marco
+D/H/F
+00:07.0459
+ 135.475
+30
+26
+23
+Hunter-Reay, Ryan
+D/C/F
+00:07.7728
+ 122.806
+61
+27
+60
+Rosenqvist, Felix
+D/H/F
+00:09.9320
+ 96.108
+24
+28
+8
+Lundqvist, Linus (R)
+D/H/F
+00:11.9798
+ 79.679
+24
+Section: PSS1 to PT2
+Length: 0.265151 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 38 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 39 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+26
+Herta, Colton
+D/H/F
+00:12.0681
+ 59.746
+125
+2
+27
+Kirkwood, Kyle
+D/H/F
+00:12.0922
+ 59.627
+23
+3
+23
+Hunter-Reay, Ryan
+D/C/F
+00:12.1009
+ 59.584
+57
+4
+10
+Palou, Alex
+D/H/F
+00:12.1028
+ 59.575
+131
+5
+7
+Rossi, Alexander
+D/C/F
+00:12.1233
+ 59.474
+23
+6
+15
+Rahal, Graham
+D/H/F
+00:12.1271
+ 59.455
+132
+7
+60
+Rosenqvist, Felix
+D/H/F
+00:12.1295
+ 59.444
+23
+8
+21
+VeeKay, Rinus
+D/C/F
+00:12.1388
+ 59.398
+23
+9
+12
+Power, Will
+D/C/F
+00:12.1480
+ 59.353
+87
+10
+17
+Larson, Kyle (R)
+D/C/F
+00:12.1570
+ 59.309
+183
+11
+3
+McLaughlin, Scott
+D/C/F
+00:12.1615
+ 59.287
+87
+12
+20
+Carpenter, Ed
+D/C/F
+00:12.1709
+ 59.242
+142
+13
+2
+Newgarden, Josef
+D/C/F
+00:12.1798
+ 59.198
+87
+14
+5
+O'Ward, Pato
+D/C/F
+00:12.1798
+ 59.198
+57
+15
+6
+Ilott, Callum
+D/C/F
+00:12.2199
+ 59.004
+150
+16
+11
+Armstrong, Marcus (R)
+D/H/F
+00:12.2760
+ 58.734
+5
+17
+14
+Ferrucci, Santino
+D/C/F
+00:12.3349
+ 58.454
+132
+18
+78
+Canapino, Agustin
+D/C/F
+00:17.6336
+ 40.889
+170
+19
+45
+Lundgaard, Christian
+D/H/F
+00:18.8878
+ 38.174
+3
+20
+8
+Lundqvist, Linus (R)
+D/H/F
+00:19.5272
+ 36.924
+3
+21
+98
+Andretti, Marco
+D/H/F
+00:20.1095
+ 35.855
+29
+22
+9
+Dixon, Scott
+D/H/F
+00:22.0624
+ 32.681
+108
+23
+75
+Sato, Takuma
+D/H/F
+00:22.1839
+ 32.502
+169
+24
+77
+Grosjean, Romain
+D/C/F
+00:22.4915
+ 32.058
+135
+25
+24
+Daly, Conor
+D/C/F
+00:22.5723
+ 31.943
+170
+26
+06
+Castroneves, Helio
+D/H/F
+00:22.9591
+ 31.405
+87
+27
+33
+Rasmussen, Christian (R)
+D/C/F
+00:23.0700
+ 31.254
+131
+28
+41
+Robb, Sting Ray
+D/C/F
+00:23.6238
+ 30.521
+108
+29
+4
+Simpson, Kyffin (R)
+D/H/F
+00:24.2927
+ 29.681
+60
+30
+51
+Legge, Katherine
+D/H/F
+00:42.2888
+ 17.050
+3
+Section: PI to SFP
+Length: 0.200284 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 39 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 40 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+15
+Rahal, Graham
+D/H/F
+00:11.3468
+ 59.458
+132
+2
+27
+Kirkwood, Kyle
+D/H/F
+00:11.3584
+ 59.397
+92
+3
+51
+Legge, Katherine
+D/H/F
+00:11.3705
+ 59.334
+4
+4
+06
+Castroneves, Helio
+D/H/F
+00:11.3853
+ 59.257
+132
+5
+41
+Robb, Sting Ray
+D/C/F
+00:11.3870
+ 59.248
+77
+6
+8
+Lundqvist, Linus (R)
+D/H/F
+00:11.3878
+ 59.244
+4
+7
+24
+Daly, Conor
+D/C/F
+00:11.3883
+ 59.241
+109
+8
+98
+Andretti, Marco
+D/H/F
+00:11.3909
+ 59.228
+30
+9
+9
+Dixon, Scott
+D/H/F
+00:11.3960
+ 59.201
+109
+10
+45
+Lundgaard, Christian
+D/H/F
+00:11.3974
+ 59.194
+4
+11
+17
+Larson, Kyle (R)
+D/C/F
+00:11.4040
+ 59.160
+133
+12
+4
+Simpson, Kyffin (R)
+D/H/F
+00:11.4109
+ 59.124
+131
+13
+33
+Rasmussen, Christian (R)
+D/C/F
+00:11.4114
+ 59.121
+151
+14
+77
+Grosjean, Romain
+D/C/F
+00:11.4115
+ 59.121
+24
+15
+78
+Canapino, Agustin
+D/C/F
+00:11.5001
+ 58.665
+24
+16
+75
+Sato, Takuma
+D/H/F
+00:11.5039
+ 58.646
+109
+17
+6
+Ilott, Callum
+D/C/F
+00:18.6642
+ 36.147
+30
+18
+2
+Newgarden, Josef
+D/C/F
+00:20.7315
+ 32.543
+88
+19
+23
+Hunter-Reay, Ryan
+D/C/F
+00:20.8608
+ 32.341
+61
+20
+5
+O'Ward, Pato
+D/C/F
+00:21.2576
+ 31.737
+109
+21
+12
+Power, Will
+D/C/F
+00:21.2667
+ 31.724
+88
+22
+3
+McLaughlin, Scott
+D/C/F
+00:21.7651
+ 30.997
+24
+23
+7
+Rossi, Alexander
+D/C/F
+00:21.9104
+ 30.792
+88
+24
+14
+Ferrucci, Santino
+D/C/F
+00:21.9377
+ 30.753
+88
+25
+10
+Palou, Alex
+D/H/F
+00:22.0255
+ 30.631
+58
+26
+20
+Carpenter, Ed
+D/C/F
+00:22.2039
+ 30.385
+180
+27
+26
+Herta, Colton
+D/H/F
+00:22.5942
+ 29.860
+58
+28
+60
+Rosenqvist, Felix
+D/H/F
+00:22.6036
+ 29.847
+24
+29
+21
+VeeKay, Rinus
+D/C/F
+00:22.6157
+ 29.831
+174
+Section: SFP to PO
+Length: 0.187405 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 40 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 41 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+78
+Canapino, Agustin
+D/C/F
+00:02.6064
+ 124.519
+168
+2
+17
+Larson, Kyle (R)
+D/C/F
+00:03.0330
+ 107.005
+130
+3
+3
+McLaughlin, Scott
+D/C/F
+00:03.1377
+ 103.435
+170
+4
+2
+Newgarden, Josef
+D/C/F
+00:03.1470
+ 103.129
+170
+5
+15
+Rahal, Graham
+D/H/F
+00:03.2120
+ 101.042
+131
+6
+9
+Dixon, Scott
+D/H/F
+00:03.2620
+ 99.493
+171
+7
+27
+Kirkwood, Kyle
+D/H/F
+00:03.2769
+ 99.041
+139
+8
+45
+Lundgaard, Christian
+D/H/F
+00:03.2885
+ 98.692
+45
+9
+06
+Castroneves, Helio
+D/H/F
+00:03.2898
+ 98.653
+131
+10
+26
+Herta, Colton
+D/H/F
+00:03.4088
+ 95.209
+164
+11
+14
+Ferrucci, Santino
+D/C/F
+00:03.4662
+ 93.632
+172
+12
+24
+Daly, Conor
+D/C/F
+00:03.4932
+ 92.908
+143
+13
+10
+Palou, Alex
+D/H/F
+00:03.5108
+ 92.443
+172
+14
+5
+O'Ward, Pato
+D/C/F
+00:03.5154
+ 92.322
+171
+15
+21
+VeeKay, Rinus
+D/C/F
+00:03.5417
+ 91.636
+173
+16
+4
+Simpson, Kyffin (R)
+D/H/F
+00:03.5519
+ 91.373
+130
+17
+33
+Rasmussen, Christian (R)
+D/C/F
+00:03.5845
+ 90.542
+131
+18
+77
+Grosjean, Romain
+D/C/F
+00:03.6136
+ 89.813
+173
+19
+12
+Power, Will
+D/C/F
+00:03.6138
+ 89.808
+132
+20
+7
+Rossi, Alexander
+D/C/F
+00:03.6193
+ 89.671
+168
+21
+6
+Ilott, Callum
+D/C/F
+00:03.7025
+ 87.656
+176
+22
+20
+Carpenter, Ed
+D/C/F
+00:03.7732
+ 86.014
+108
+23
+75
+Sato, Takuma
+D/H/F
+00:03.7834
+ 85.782
+169
+24
+41
+Robb, Sting Ray
+D/C/F
+00:03.7915
+ 85.599
+41
+25
+23
+Hunter-Reay, Ryan
+D/C/F
+00:03.8575
+ 84.134
+87
+26
+98
+Andretti, Marco
+D/H/F
+00:03.8688
+ 83.888
+87
+27
+8
+Lundqvist, Linus (R)
+D/H/F
+00:03.9424
+ 82.322
+23
+28
+60
+Rosenqvist, Felix
+D/H/F
+00:04.1666
+ 77.893
+23
+29
+11
+Armstrong, Marcus (R)
+D/H/F
+00:04.7706
+ 68.031
+5
+30
+51
+Legge, Katherine
+D/H/F
+00:05.2239
+ 62.127
+3
+Section: PIC to PI
+Length: 0.090152 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 41 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 42 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+15
+Rahal, Graham
+D/H/F
+00:23.4844
+ 59.430
+133
+2
+27
+Kirkwood, Kyle
+D/H/F
+00:23.4943
+ 59.405
+92
+3
+17
+Larson, Kyle (R)
+D/C/F
+00:23.7890
+ 58.669
+133
+4
+78
+Canapino, Agustin
+D/C/F
+00:29.1361
+ 47.902
+171
+5
+45
+Lundgaard, Christian
+D/H/F
+00:30.2852
+ 46.085
+4
+6
+8
+Lundqvist, Linus (R)
+D/H/F
+00:30.9150
+ 45.146
+4
+7
+6
+Ilott, Callum
+D/C/F
+00:30.9724
+ 45.062
+30
+8
+98
+Andretti, Marco
+D/H/F
+00:31.5004
+ 44.307
+30
+9
+2
+Newgarden, Josef
+D/C/F
+00:32.9113
+ 42.407
+88
+10
+23
+Hunter-Reay, Ryan
+D/C/F
+00:33.0679
+ 42.207
+61
+11
+12
+Power, Will
+D/C/F
+00:33.4147
+ 41.768
+88
+12
+9
+Dixon, Scott
+D/H/F
+00:33.4584
+ 41.714
+109
+13
+5
+O'Ward, Pato
+D/C/F
+00:33.4704
+ 41.699
+109
+14
+75
+Sato, Takuma
+D/H/F
+00:33.6920
+ 41.425
+170
+15
+3
+McLaughlin, Scott
+D/C/F
+00:33.9410
+ 41.121
+24
+16
+77
+Grosjean, Romain
+D/C/F
+00:33.9421
+ 41.119
+136
+17
+24
+Daly, Conor
+D/C/F
+00:33.9637
+ 41.093
+171
+18
+7
+Rossi, Alexander
+D/C/F
+00:34.0546
+ 40.984
+88
+19
+10
+Palou, Alex
+D/H/F
+00:34.1405
+ 40.880
+58
+20
+14
+Ferrucci, Santino
+D/C/F
+00:34.2754
+ 40.720
+88
+21
+06
+Castroneves, Helio
+D/H/F
+00:34.3449
+ 40.637
+88
+22
+20
+Carpenter, Ed
+D/C/F
+00:34.3860
+ 40.589
+180
+23
+33
+Rasmussen, Christian (R)
+D/C/F
+00:34.4839
+ 40.473
+132
+24
+26
+Herta, Colton
+D/H/F
+00:34.6937
+ 40.229
+58
+25
+60
+Rosenqvist, Felix
+D/H/F
+00:34.7331
+ 40.183
+24
+26
+21
+VeeKay, Rinus
+D/C/F
+00:34.8002
+ 40.106
+174
+27
+41
+Robb, Sting Ray
+D/C/F
+00:35.0170
+ 39.857
+77
+28
+4
+Simpson, Kyffin (R)
+D/H/F
+00:35.7144
+ 39.079
+61
+29
+51
+Legge, Katherine
+D/H/F
+00:53.6593
+ 26.010
+4
+Section: PI to PO
+Length: 0.387689 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 42 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 43 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+33
+Rasmussen, Christian (R)
+D/C/F
+00:43.2845
+ 184.487
+174
+2
+4
+Simpson, Kyffin (R)
+D/H/F
+00:43.3522
+ 184.199
+186
+3
+10
+Palou, Alex
+D/H/F
+00:43.4501
+ 183.784
+173
+4
+78
+Canapino, Agustin
+D/C/F
+00:43.4875
+ 183.626
+131
+5
+7
+Rossi, Alexander
+D/C/F
+00:43.5228
+ 183.477
+132
+6
+14
+Ferrucci, Santino
+D/C/F
+00:43.5254
+ 183.466
+173
+7
+12
+Power, Will
+D/C/F
+00:43.5374
+ 183.415
+133
+8
+5
+O'Ward, Pato
+D/C/F
+00:43.5465
+ 183.377
+172
+9
+27
+Kirkwood, Kyle
+D/H/F
+00:43.6515
+ 182.936
+140
+10
+41
+Robb, Sting Ray
+D/C/F
+00:43.7096
+ 182.693
+170
+11
+21
+VeeKay, Rinus
+D/C/F
+00:43.7387
+ 182.571
+174
+12
+9
+Dixon, Scott
+D/H/F
+00:43.8221
+ 182.224
+141
+13
+17
+Larson, Kyle (R)
+D/C/F
+00:43.8373
+ 182.161
+184
+14
+3
+McLaughlin, Scott
+D/C/F
+00:43.9063
+ 181.874
+131
+15
+6
+Ilott, Callum
+D/C/F
+00:43.9856
+ 181.547
+131
+16
+20
+Carpenter, Ed
+D/C/F
+00:44.0012
+ 181.482
+180
+17
+2
+Newgarden, Josef
+D/C/F
+00:44.0792
+ 181.161
+171
+18
+15
+Rahal, Graham
+D/H/F
+00:44.0877
+ 181.126
+177
+19
+06
+Castroneves, Helio
+D/H/F
+00:44.1078
+ 181.044
+132
+20
+75
+Sato, Takuma
+D/H/F
+00:44.1482
+ 180.878
+141
+21
+24
+Daly, Conor
+D/C/F
+00:44.2758
+ 180.357
+171
+22
+45
+Lundgaard, Christian
+D/H/F
+00:44.3578
+ 180.023
+172
+23
+77
+Grosjean, Romain
+D/C/F
+00:45.1014
+ 177.055
+174
+24
+26
+Herta, Colton
+D/H/F
+00:45.2067
+ 176.643
+165
+25
+51
+Legge, Katherine
+D/H/F
+01:00.4264
+ 132.151
+4
+26
+23
+Hunter-Reay, Ryan
+D/C/F
+01:02.0495
+ 128.695
+61
+27
+98
+Andretti, Marco
+D/H/F
+01:06.6078
+ 119.887
+30
+28
+60
+Rosenqvist, Felix
+D/H/F
+01:09.3136
+ 115.207
+24
+29
+8
+Lundqvist, Linus (R)
+D/H/F
+01:12.2798
+ 110.479
+24
+Section: PO to SF
+Length: 2.218176 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 43 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 44 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+06
+Castroneves, Helio
+D/H/F
+00:39.5191
+ 209.528
+131
+2
+21
+VeeKay, Rinus
+D/C/F
+00:39.6006
+ 209.096
+173
+3
+17
+Larson, Kyle (R)
+D/C/F
+00:39.6058
+ 209.069
+132
+4
+78
+Canapino, Agustin
+D/C/F
+00:39.6765
+ 208.696
+168
+5
+15
+Rahal, Graham
+D/H/F
+00:39.6842
+ 208.656
+131
+6
+27
+Kirkwood, Kyle
+D/H/F
+00:39.7783
+ 208.162
+175
+7
+26
+Herta, Colton
+D/H/F
+00:39.7811
+ 208.148
+164
+8
+14
+Ferrucci, Santino
+D/C/F
+00:39.7816
+ 208.145
+172
+9
+33
+Rasmussen, Christian (R)
+D/C/F
+00:39.8272
+ 207.907
+173
+10
+45
+Lundgaard, Christian
+D/H/F
+00:39.8940
+ 207.559
+171
+11
+9
+Dixon, Scott
+D/H/F
+00:39.9063
+ 207.495
+171
+12
+3
+McLaughlin, Scott
+D/C/F
+00:39.9339
+ 207.351
+170
+13
+10
+Palou, Alex
+D/H/F
+00:40.0489
+ 206.756
+172
+14
+6
+Ilott, Callum
+D/C/F
+00:40.3473
+ 205.227
+176
+15
+4
+Simpson, Kyffin (R)
+D/H/F
+00:40.3651
+ 205.136
+185
+16
+2
+Newgarden, Josef
+D/C/F
+00:40.3877
+ 205.021
+129
+17
+20
+Carpenter, Ed
+D/C/F
+00:40.4320
+ 204.797
+179
+18
+77
+Grosjean, Romain
+D/C/F
+00:40.5098
+ 204.403
+173
+19
+5
+O'Ward, Pato
+D/C/F
+00:40.5206
+ 204.349
+171
+20
+7
+Rossi, Alexander
+D/C/F
+00:40.5332
+ 204.285
+131
+21
+24
+Daly, Conor
+D/C/F
+00:40.6794
+ 203.551
+42
+22
+41
+Robb, Sting Ray
+D/C/F
+00:41.0941
+ 201.497
+76
+23
+12
+Power, Will
+D/C/F
+00:41.2565
+ 200.704
+132
+24
+75
+Sato, Takuma
+D/H/F
+00:41.4249
+ 199.888
+169
+25
+51
+Legge, Katherine
+D/H/F
+00:51.5158
+ 160.734
+21
+26
+8
+Lundqvist, Linus (R)
+D/H/F
+00:57.9901
+ 142.789
+23
+27
+98
+Andretti, Marco
+D/H/F
+00:59.8415
+ 138.371
+23
+28
+23
+Hunter-Reay, Ryan
+D/C/F
+01:00.9887
+ 135.768
+23
+29
+60
+Rosenqvist, Felix
+D/H/F
+01:10.7115
+ 117.100
+23
+30
+11
+Armstrong, Marcus (R)
+D/H/F
+01:30.6604
+ 91.334
+5
+Section: SF to PI
+Length: 2.300095 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 44 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 45 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+14
+Ferrucci, Santino
+D/C/F
+00:17.8664
+ 138.337
+133
+2
+78
+Canapino, Agustin
+D/C/F
+00:17.9065
+ 138.027
+131
+3
+27
+Kirkwood, Kyle
+D/H/F
+00:17.9884
+ 137.399
+140
+4
+4
+Simpson, Kyffin (R)
+D/H/F
+00:18.0515
+ 136.919
+186
+5
+5
+O'Ward, Pato
+D/C/F
+00:18.0596
+ 136.857
+172
+6
+33
+Rasmussen, Christian (R)
+D/C/F
+00:18.0618
+ 136.841
+132
+7
+12
+Power, Will
+D/C/F
+00:18.0922
+ 136.611
+133
+8
+2
+Newgarden, Josef
+D/C/F
+00:18.0972
+ 136.573
+171
+9
+10
+Palou, Alex
+D/H/F
+00:18.0974
+ 136.571
+132
+10
+9
+Dixon, Scott
+D/H/F
+00:18.1322
+ 136.309
+141
+11
+17
+Larson, Kyle (R)
+D/C/F
+00:18.1828
+ 135.930
+184
+12
+7
+Rossi, Alexander
+D/C/F
+00:18.2003
+ 135.799
+132
+13
+21
+VeeKay, Rinus
+D/C/F
+00:18.2025
+ 135.783
+138
+14
+41
+Robb, Sting Ray
+D/C/F
+00:18.2147
+ 135.692
+42
+15
+6
+Ilott, Callum
+D/C/F
+00:18.2194
+ 135.657
+131
+16
+20
+Carpenter, Ed
+D/C/F
+00:18.2396
+ 135.507
+143
+17
+24
+Daly, Conor
+D/C/F
+00:18.2722
+ 135.265
+144
+18
+45
+Lundgaard, Christian
+D/H/F
+00:18.3109
+ 134.979
+100
+19
+3
+McLaughlin, Scott
+D/C/F
+00:18.3254
+ 134.872
+131
+20
+15
+Rahal, Graham
+D/H/F
+00:18.3669
+ 134.567
+177
+21
+06
+Castroneves, Helio
+D/H/F
+00:18.4942
+ 133.641
+132
+22
+75
+Sato, Takuma
+D/H/F
+00:18.5190
+ 133.462
+141
+23
+26
+Herta, Colton
+D/H/F
+00:18.8704
+ 130.977
+85
+24
+77
+Grosjean, Romain
+D/C/F
+00:18.9180
+ 130.647
+136
+25
+98
+Andretti, Marco
+D/H/F
+00:19.9783
+ 123.714
+30
+26
+23
+Hunter-Reay, Ryan
+D/C/F
+00:21.0749
+ 117.276
+61
+27
+51
+Legge, Katherine
+D/H/F
+00:23.9490
+ 103.202
+4
+28
+60
+Rosenqvist, Felix
+D/H/F
+00:26.9129
+ 91.837
+24
+29
+8
+Lundqvist, Linus (R)
+D/H/F
+00:27.3355
+ 90.417
+4
+Section: PO to BS
+Length: 0.686552 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 45 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 46 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+78
+Canapino, Agustin
+D/C/F
+00:05.3687
+ 159.574
+168
+2
+17
+Larson, Kyle (R)
+D/C/F
+00:05.8199
+ 147.202
+130
+3
+3
+McLaughlin, Scott
+D/C/F
+00:05.9116
+ 144.919
+170
+4
+2
+Newgarden, Josef
+D/C/F
+00:05.9284
+ 144.508
+170
+5
+27
+Kirkwood, Kyle
+D/H/F
+00:06.0239
+ 142.217
+139
+6
+9
+Dixon, Scott
+D/H/F
+00:06.1243
+ 139.886
+171
+7
+06
+Castroneves, Helio
+D/H/F
+00:06.1991
+ 138.198
+131
+8
+45
+Lundgaard, Christian
+D/H/F
+00:06.2241
+ 137.643
+45
+9
+15
+Rahal, Graham
+D/H/F
+00:06.2376
+ 137.345
+131
+10
+14
+Ferrucci, Santino
+D/C/F
+00:06.2440
+ 137.204
+172
+11
+21
+VeeKay, Rinus
+D/C/F
+00:06.3447
+ 135.027
+173
+12
+10
+Palou, Alex
+D/H/F
+00:06.3827
+ 134.223
+172
+13
+26
+Herta, Colton
+D/H/F
+00:06.3979
+ 133.904
+164
+14
+33
+Rasmussen, Christian (R)
+D/C/F
+00:06.4643
+ 132.528
+173
+15
+5
+O'Ward, Pato
+D/C/F
+00:06.4687
+ 132.438
+171
+16
+24
+Daly, Conor
+D/C/F
+00:06.4734
+ 132.342
+143
+17
+77
+Grosjean, Romain
+D/C/F
+00:06.4867
+ 132.071
+173
+18
+4
+Simpson, Kyffin (R)
+D/H/F
+00:06.5248
+ 131.299
+185
+19
+6
+Ilott, Callum
+D/C/F
+00:06.5492
+ 130.810
+176
+20
+7
+Rossi, Alexander
+D/C/F
+00:06.5971
+ 129.861
+168
+21
+20
+Carpenter, Ed
+D/C/F
+00:06.7046
+ 127.778
+142
+22
+12
+Power, Will
+D/C/F
+00:06.7054
+ 127.763
+132
+23
+75
+Sato, Takuma
+D/H/F
+00:06.8995
+ 124.169
+169
+24
+41
+Robb, Sting Ray
+D/C/F
+00:07.0141
+ 122.140
+41
+25
+8
+Lundqvist, Linus (R)
+D/H/F
+00:07.9103
+ 108.302
+23
+26
+23
+Hunter-Reay, Ryan
+D/C/F
+00:08.0350
+ 106.621
+87
+27
+98
+Andretti, Marco
+D/H/F
+00:08.2460
+ 103.893
+29
+28
+60
+Rosenqvist, Felix
+D/H/F
+00:08.8062
+ 97.284
+23
+29
+51
+Legge, Katherine
+D/H/F
+00:10.2907
+ 83.250
+3
+30
+11
+Armstrong, Marcus (R)
+D/H/F
+01:46.0193
+ 8.081
+5
+Section: T4 to PI
+Length: 0.237973 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 46 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 47 ---
+Rank
+Car
+Driver
+C/E/T
+Time
+Speed
+Lap
+1
+15
+Rahal, Graham
+D/H/F
+00:44.1237
+ 164.669
+132
+2
+17
+Larson, Kyle (R)
+D/C/F
+01:23.7771
+ 86.728
+132
+3
+78
+Canapino, Agustin
+D/C/F
+01:24.1861
+ 86.306
+170
+4
+4
+Simpson, Kyffin (R)
+D/H/F
+02:34.4509
+ 47.043
+152
+5
+26
+Herta, Colton
+D/H/F
+03:34.5366
+ 33.867
+169
+6
+23
+Hunter-Reay, Ryan
+D/C/F
+04:10.5236
+ 29.002
+60
+7
+27
+Kirkwood, Kyle
+D/H/F
+04:35.1645
+ 26.405
+91
+8
+6
+Ilott, Callum
+D/C/F
+06:57.0736
+ 17.421
+29
+9
+98
+Andretti, Marco
+D/H/F
+06:59.2553
+ 17.330
+29
+10
+45
+Lundgaard, Christian
+D/H/F
+07:25.9904
+ 16.291
+108
+11
+77
+Grosjean, Romain
+D/C/F
+14:10.1226
+ 8.547
+150
+12
+51
+Legge, Katherine
+D/H/F
+15:55.6215
+ 7.603
+21
+13
+41
+Robb, Sting Ray
+D/C/F
+15:56.6677
+ 7.595
+169
+14
+33
+Rasmussen, Christian (R)
+D/C/F
+16:59.2921
+ 7.128
+150
+15
+20
+Carpenter, Ed
+D/C/F
+17:21.2326
+ 6.978
+108
+16
+75
+Sato, Takuma
+D/H/F
+17:55.8088
+ 6.754
+108
+17
+5
+O'Ward, Pato
+D/C/F
+17:57.5126
+ 6.743
+108
+18
+9
+Dixon, Scott
+D/H/F
+17:57.9386
+ 6.740
+108
+19
+8
+Lundqvist, Linus (R)
+D/H/F
+18:25.6292
+ 6.572
+23
+20
+24
+Daly, Conor
+D/C/F
+25:41.2436
+ 4.714
+170
+21
+06
+Castroneves, Helio
+D/H/F
+26:39.0007
+ 4.544
+87
+22
+12
+Power, Will
+D/C/F
+26:39.7872
+ 4.542
+87
+23
+14
+Ferrucci, Santino
+D/C/F
+26:40.7419
+ 4.539
+87
+24
+3
+McLaughlin, Scott
+D/C/F
+26:40.7908
+ 4.539
+87
+25
+2
+Newgarden, Josef
+D/C/F
+26:40.9870
+ 4.538
+87
+26
+10
+Palou, Alex
+D/H/F
+26:41.8384
+ 4.536
+87
+27
+7
+Rossi, Alexander
+D/C/F
+26:42.6288
+ 4.534
+87
+28
+21
+VeeKay, Rinus
+D/C/F
+29:13.8944
+ 4.143
+57
+Section: PO to PI
+Length: 2.018277 mile(s)
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 47 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
+
+--- PAGE 48 ---
+Track Map
+Information provided by Indy Racing Information System - Copyright INDYCAR 2024
+Page 48 of 48
+(C)hassis: D=Dallara | (E)ngine: C=Chevy, H=Honda | (T)ire: F=Firestone
+Event:
+Track:
+Report:
+Session:
+108th Running of the Indianapolis 500
+Indianapolis Motor Speedway
+Top Section Times Report
+Round 5
+2.5 mile(s)
+May 26, 2024
+Race
+NTT INDYCAR SERIES
