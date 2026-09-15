@@ -1,37 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
 <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#45c7d8"/></marker></defs>
-<rect width="1600" height="900" fill="#0b1118"/>
-<text x="80" y="85" fill="#edf4f7" font-family="Arial" font-size="42" font-weight="700">Identifiability drove the architecture</text>
-<text x="80" y="125" fill="#9bb0bd" font-family="Arial" font-size="21">The missing opportunity process is exposed, not guessed.</text>
-<rect x="510" y="160" width="580" height="110" rx="18" fill="#141e29" stroke="#ff9f43" stroke-width="3"/>
-<text x="538" y="202" fill="#ff9f43" font-family="Arial" font-size="23" font-weight="700">ORIGINAL DECISION</text>
-<text x="538" y="240" fill="#edf4f7" font-family="Arial" font-size="19">retain result or withdraw for priority</text>
-<text x="538" y="271" fill="#9bb0bd" font-family="Arial" font-size="19">queue, time, weather, performance and downside interact</text>
-<path d="M800 270 L800 330" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
-<rect x="510" y="330" width="580" height="100" rx="18" fill="#141e29" stroke="#45c7d8" stroke-width="3"/>
-<text x="538" y="372" fill="#45c7d8" font-family="Arial" font-size="23" font-weight="700">HISTORICAL IDENTIFIABILITY AUDIT</text>
-<text x="538" y="410" fill="#edf4f7" font-family="Arial" font-size="19">Which quantities are consistently observable across seasons?</text>
-<path d="M650 430 L380 510" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
-<path d="M950 430 L1220 510" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
-<rect x="90" y="510" width="580" height="170" rx="18" fill="#141e29" stroke="#f26d6d" stroke-width="3" stroke-dasharray="12 9"/>
-<text x="118" y="552" fill="#f26d6d" font-family="Arial" font-size="23" font-weight="700">OPPORTUNITY PROCESS  P(H | Q)</text>
-<text x="118" y="590" fill="#edf4f7" font-family="Arial" font-size="19">NOT RELIABLY IDENTIFIABLE</text>
-<text x="118" y="621" fill="#9bb0bd" font-family="Arial" font-size="19">lane state • queue entry • withdrawal • requeue • intent</text>
-<text x="118" y="652" fill="#9bb0bd" font-family="Arial" font-size="19">kept outside the statistical model</text>
-<rect x="930" y="510" width="580" height="170" rx="18" fill="#141e29" stroke="#65d6a6" stroke-width="3"/>
-<text x="958" y="552" fill="#65d6a6" font-family="Arial" font-size="23" font-weight="700">PERFORMANCE PROCESS  p(Δv | H = h)</text>
-<text x="958" y="590" fill="#edf4f7" font-family="Arial" font-size="19">IDENTIFIABLE CONDITIONALLY</text>
-<text x="958" y="621" fill="#9bb0bd" font-family="Arial" font-size="19">same-car repeats • physical state • frozen evidence</text>
-<text x="958" y="652" fill="#9bb0bd" font-family="Arial" font-size="19">h is supplied as a scenario, not predicted</text>
-<path d="M1220 680 L1220 745" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
-<path d="M380 680 L380 745" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
-<rect x="120" y="745" width="520" height="95" rx="18" fill="#141e29" stroke="#ff9f43" stroke-width="3" stroke-dasharray="12 9"/>
-<text x="148" y="787" fill="#ff9f43" font-family="Arial" font-size="23" font-weight="700">LIVE EXTERNAL CONTEXT</text>
-<text x="148" y="825" fill="#edf4f7" font-family="Arial" font-size="19">queue • leaderboard • remaining time</text>
-<rect x="960" y="745" width="520" height="95" rx="18" fill="#141e29" stroke="#65d6a6" stroke-width="3"/>
-<text x="988" y="787" fill="#65d6a6" font-family="Arial" font-size="23" font-weight="700">FINAL_V2 OUTLOOK</text>
-<text x="988" y="825" fill="#edf4f7" font-family="Arial" font-size="19">distribution of four-lap speed change</text>
-<path d="M640 792 L760 792" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
-<path d="M960 792 L840 792" stroke="#45c7d8" stroke-width="3" fill="none" marker-end="url(#a)"/>
-<rect x="700" y="735" width="200" height="115" rx="58" fill="#45c7d8"/><text x="800" y="780" text-anchor="middle" fill="#0b1118" font-family="Arial" font-size="21" font-weight="700">HUMAN</text><text x="800" y="813" text-anchor="middle" fill="#0b1118" font-family="Arial" font-size="21" font-weight="700">PIT WALL</text>
+<rect width="1600" height="900" fill="#ffffff"/>
+<text x="80" y="85" fill="#17232d" font-family="Arial" font-size="42" font-weight="700">Identifiability drove the architecture</text>
+<text x="80" y="125" fill="#526672" font-family="Arial" font-size="21">The missing opportunity process is exposed, not guessed.</text>
+<rect x="510" y="160" width="580" height="110" rx="18" fill="#f5f8fa" stroke="#d87316" stroke-width="3"/>
+<text x="538" y="202" fill="#d87316" font-family="Arial" font-size="23" font-weight="700">ORIGINAL DECISION</text>
+<text x="538" y="240" fill="#17232d" font-family="Arial" font-size="19">retain result or withdraw for priority</text>
+<text x="538" y="271" fill="#526672" font-family="Arial" font-size="19">queue, time, weather, performance and downside interact</text>
+<path d="M800 270 L800 330" stroke="#168fa3" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="510" y="330" width="580" height="100" rx="18" fill="#f5f8fa" stroke="#168fa3" stroke-width="3"/>
+<text x="538" y="372" fill="#168fa3" font-family="Arial" font-size="23" font-weight="700">HISTORICAL IDENTIFIABILITY AUDIT</text>
+<text x="538" y="410" fill="#17232d" font-family="Arial" font-size="19">Which quantities are consistently observable across seasons?</text>
+<path d="M650 430 L380 510" stroke="#168fa3" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<path d="M950 430 L1220 510" stroke="#168fa3" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="90" y="510" width="580" height="170" rx="18" fill="#f5f8fa" stroke="#c94444" stroke-width="3" stroke-dasharray="12 9"/>
+<text x="118" y="552" fill="#c94444" font-family="Arial" font-size="23" font-weight="700">OPPORTUNITY PROCESS  P(H | Q)</text>
+<text x="118" y="590" fill="#17232d" font-family="Arial" font-size="19">NOT RELIABLY IDENTIFIABLE</text>
+<text x="118" y="621" fill="#526672" font-family="Arial" font-size="19">lane state • queue entry • withdrawal • requeue • intent</text>
+<text x="118" y="652" fill="#526672" font-family="Arial" font-size="19">kept outside the statistical model</text>
+<rect x="930" y="510" width="580" height="170" rx="18" fill="#f5f8fa" stroke="#168a62" stroke-width="3"/>
+<text x="958" y="552" fill="#168a62" font-family="Arial" font-size="23" font-weight="700">PERFORMANCE PROCESS  p(Δv | H = h)</text>
+<text x="958" y="590" fill="#17232d" font-family="Arial" font-size="19">IDENTIFIABLE CONDITIONALLY</text>
+<text x="958" y="621" fill="#526672" font-family="Arial" font-size="19">same-car repeats • physical state • frozen evidence</text>
+<text x="958" y="652" fill="#526672" font-family="Arial" font-size="19">h is supplied as a scenario, not predicted</text>
+<path d="M1220 680 L1220 745" stroke="#168fa3" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<path d="M380 680 L380 745" stroke="#168fa3" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="120" y="745" width="520" height="95" rx="18" fill="#f5f8fa" stroke="#d87316" stroke-width="3" stroke-dasharray="12 9"/>
+<text x="148" y="787" fill="#d87316" font-family="Arial" font-size="23" font-weight="700">LIVE EXTERNAL CONTEXT</text>
+<text x="148" y="825" fill="#17232d" font-family="Arial" font-size="19">queue • leaderboard • remaining time</text>
+<rect x="960" y="745" width="520" height="95" rx="18" fill="#f5f8fa" stroke="#168a62" stroke-width="3"/>
+<text x="988" y="787" fill="#168a62" font-family="Arial" font-size="23" font-weight="700">FINAL_V2 OUTLOOK</text>
+<text x="988" y="825" fill="#17232d" font-family="Arial" font-size="19">distribution of four-lap speed change</text>
+<path d="M640 792 L760 792" stroke="#168fa3" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<path d="M960 792 L840 792" stroke="#168fa3" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<rect x="700" y="735" width="200" height="115" rx="58" fill="#168fa3"/><text x="800" y="780" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="21" font-weight="700">HUMAN</text><text x="800" y="813" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="21" font-weight="700">PIT WALL</text>
 </svg>

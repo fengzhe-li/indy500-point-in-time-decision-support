@@ -74,6 +74,12 @@ The zero intercept encodes a narrow physical constraint: when both measured temp
 
 ![Frozen physical response](figures/portfolio/frozen-physical-response.svg)
 
+The frozen examples below expose both the measured physical-state changes and the gap between observed total performance change and the modelled physical contribution. They make the residual role visible instead of presenting the coefficients in isolation.
+
+![Physical-state transition examples](figures/portfolio/physical-state-transition-examples.png)
+
+![Observed versus frozen physical prediction](figures/portfolio/observed-vs-frozen-physical-prediction.png)
+
 ## Future physical state
 
 Future track temperature is estimated separately from the performance response. The retained **M2b** specification conditions on future ambient-temperature change, the current track-to-ambient thermal gap and mean solar elevation. One model is fitted for each scientific horizon, selected through leave-one-year-out comparison.
@@ -81,6 +87,8 @@ Future track temperature is estimated separately from the performance response. 
 ![Future track model](figures/portfolio/future-track-state-model.svg)
 
 ![Candidate-model comparison](figures/portfolio/future-track-model-selection.png)
+
+![Future track-state conformal calibration](figures/portfolio/future-track-conformal-calibration.png)
 
 The solar-state extension is retained in the future track-state pathway. A direct solar performance coefficient is not added to the speed model. Current heating/cooling rate and change in solar elevation were investigated and rejected when their out-of-year evidence did not justify extra complexity.
 
@@ -99,6 +107,12 @@ FINAL_V2 propagates three sources of uncertainty:
 Removing empirical performance residual uncertainty reduces mean 80% interval width by about **90.4% at 15 minutes** and **72.8% at 120 minutes**. This is an uncertainty-source ablation and sensitivity result, not an orthogonal variance decomposition. It shows why better track-temperature point prediction alone cannot collapse the final outcome interval.
 
 See [uncertainty architecture](docs/uncertainty.md).
+
+The leave-one-year-out coefficient traces below show why cross-year stability was inspected directly rather than inferred from a single full-sample fit.
+
+![Leave-one-year-out track coefficient](figures/portfolio/loyo-track-coefficient-stability.png)
+
+![Leave-one-year-out ambient coefficient](figures/portfolio/loyo-ambient-coefficient-stability.png)
 
 ## Calibrated support and operational interpolation
 
@@ -125,6 +139,10 @@ Wind is physically relevant. The available fixed-point and gridded historical pr
 The frozen model was exercised over **3 thermal-gap states × 3 ambient trajectories × 3 solar states × 5 horizons = 135 scenarios**. Every ambient trajectory remained within its corresponding historical support range.
 
 ![120-minute scenario stress test](figures/portfolio/scenario-stress-test-120min.png)
+
+![Scenario probability range by horizon](figures/portfolio/scenario-probability-range-by-horizon.png)
+
+![Scenario performance envelope by horizon](figures/portfolio/scenario-performance-envelope-by-horizon.png)
 
 At 120 minutes, P(improvement) ranges from **0.2055 to 0.6704**, while expected Δspeed ranges from **−0.4630 to +0.2248 mph**. Physical state can materially shift the odds without eliminating outcome uncertainty. The grid remains conditional on an opportunity occurring; it contains no queue model.
 
@@ -161,6 +179,12 @@ See [regime transfer](docs/regime-transfer.md).
 ![Operational performance outlook](figures/portfolio/operational-performance-outlook.png)
 
 ![Operational probability outlook](figures/portfolio/operational-probability-outlook.png)
+
+An externally supplied opportunity window can be overlaid without converting it into a queue prediction. These views show how live operational context and model evidence remain separate layers.
+
+![External opportunity-window performance overlay](figures/portfolio/external-opportunity-window-performance-overlay.png)
+
+![External opportunity-window probability overlay](figures/portfolio/external-opportunity-window-probability-overlay.png)
 
 The model returns expected Δspeed, median Δspeed, 80% and 90% predictive intervals, and P(Δv > 0) for a supplied physical scenario and opportunity horizon. A real pit-wall decision must combine that evidence with live queue position, cars ahead, leaderboard state, session remaining, interruption risk, withdrawal consequences and engineering judgement.
 
@@ -250,4 +274,3 @@ For the detailed module and status inventory, open [the repository guide](docs/r
 **Fengzhe Li** · University College London
 
 If this repository informs your work, cite the project and the versioned frozen artefacts used. The scientific core is `FINAL_V2`; the regulation-aware evidence extension is `R6_REGULATION_AWARE_EXTENSION_V1_FROZEN`.
-

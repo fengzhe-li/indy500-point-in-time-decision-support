@@ -23,15 +23,15 @@ import pandas as pd
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "figures" / "portfolio"
 
-BG = "#0b1118"
-PANEL = "#141e29"
-INK = "#edf4f7"
-MUTED = "#9bb0bd"
-CYAN = "#45c7d8"
-ORANGE = "#ff9f43"
-GREEN = "#65d6a6"
-RED = "#f26d6d"
-GRID = "#2b3b49"
+BG = "#ffffff"
+PANEL = "#f5f8fa"
+INK = "#17232d"
+MUTED = "#526672"
+CYAN = "#168fa3"
+ORANGE = "#d87316"
+GREEN = "#168a62"
+RED = "#c94444"
+GRID = "#d6e0e5"
 
 
 def esc(text: object) -> str:
@@ -308,13 +308,22 @@ def regime_plot() -> None:
 
 def copy_frozen_plots() -> None:
     mapping = {
+        "figures/figure3a_physical_state_transitions.png": "physical-state-transition-examples.png",
+        "figures/figure3b_observed_vs_frozen_prediction.png": "observed-vs-frozen-physical-prediction.png",
         "figures/figure4_future_track_model_selection.png": "future-track-model-selection.png",
+        "figures/figure5_conformal_calibration.png": "future-track-conformal-calibration.png",
         "figures/figure6_uncertainty_ablation.png": "uncertainty-source-ablation.png",
         "figures/figure7_v2e_120min_stress_test.png": "scenario-stress-test-120min.png",
         "figures/figure8_external_2025_validation.png": "external-validation-2025.png",
         "figures/figure8_external_2025_supported_120min.png": "external-validation-2025-supported.png",
         "figures/figure9a_operational_performance_curve.png": "operational-performance-outlook.png",
         "figures/figure9b_probability_improvement_curve.png": "operational-probability-outlook.png",
+        "figures/figure10a_scenario_probability_range.png": "scenario-probability-range-by-horizon.png",
+        "figures/figure10b_scenario_performance_envelope.png": "scenario-performance-envelope-by-horizon.png",
+        "figures/figure11a_loyo_beta_track.png": "loyo-track-coefficient-stability.png",
+        "figures/figure11b_loyo_beta_ambient.png": "loyo-ambient-coefficient-stability.png",
+        "figures/figure12a_queue_context_performance_overlay.png": "external-opportunity-window-performance-overlay.png",
+        "figures/figure12b_queue_context_probability_overlay.png": "external-opportunity-window-probability-overlay.png",
     }
     for src, dst in mapping.items():
         shutil.copy2(ROOT / src, OUT / dst)

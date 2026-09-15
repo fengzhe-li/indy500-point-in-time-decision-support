@@ -10,20 +10,29 @@ Repository figure names are semantic. Manuscript numbering is kept only in the p
 | [![Hierarchy](portfolio/evidence-hierarchy.svg)](portfolio/evidence-hierarchy.svg) | Evidence authority and quarantine | Canonical eligibility rules | Evidence summary |
 | [![Same car](portfolio/same-car-transition-design.svg)](portfolio/same-car-transition-design.svg) | Same-car differencing design | Frozen response core | Methodology |
 | [![Physical response](portfolio/frozen-physical-response.svg)](portfolio/frozen-physical-response.svg) | Frozen zero-intercept response and coefficients | R5.2 FINAL_V2 | Frozen model |
+| [![Physical-state examples](portfolio/physical-state-transition-examples.png)](portfolio/physical-state-transition-examples.png) | Measured physical-state transition examples | R5.2 response core | Paper-aligned result |
+| [![Observed versus predicted](portfolio/observed-vs-frozen-physical-prediction.png)](portfolio/observed-vs-frozen-physical-prediction.png) | Observed total change versus frozen physical contribution | R5.2 response core | Paper-aligned result |
 | [![Future state](portfolio/future-track-state-model.svg)](portfolio/future-track-state-model.svg) | Separate future track-state layer | V2-A | Frozen model |
 | [![Model selection](portfolio/future-track-model-selection.png)](portfolio/future-track-model-selection.png) | Out-of-year future-state candidate comparison | V2-A | Paper-aligned result |
+| [![Conformal calibration](portfolio/future-track-conformal-calibration.png)](portfolio/future-track-conformal-calibration.png) | Future-state interval calibration | V2-A | Paper-aligned result |
 | [![Uncertainty architecture](portfolio/three-source-uncertainty.svg)](portfolio/three-source-uncertainty.svg) | Three propagated sources | FINAL_V2 | System architecture |
 | [![Ablation](portfolio/uncertainty-source-ablation.png)](portfolio/uncertainty-source-ablation.png) | Predictive-width sensitivity | V2-D | Frozen diagnostic |
+| [![LOYO track coefficient](portfolio/loyo-track-coefficient-stability.png)](portfolio/loyo-track-coefficient-stability.png) | Track-coefficient out-of-year stability | R5.2 response core | Supplementary diagnostic |
+| [![LOYO ambient coefficient](portfolio/loyo-ambient-coefficient-stability.png)](portfolio/loyo-ambient-coefficient-stability.png) | Ambient-coefficient out-of-year stability | R5.2 response core | Supplementary diagnostic |
 | [![Horizon boundary](portfolio/calibrated-horizon-boundary.svg)](portfolio/calibrated-horizon-boundary.svg) | Calibration versus interpolation | OPERATIONAL_CURVE_V2 | Operational semantics |
 | [![Sections](portfolio/section-mechanism-coherence.png)](portfolio/section-mechanism-coherence.png) | Spatial coherence without sample inflation | V2-B | Frozen diagnostic |
 | [![Wind](portfolio/wind-residual-diagnostic.png)](portfolio/wind-residual-diagnostic.png) | Rejected wind extension | V2-C | Frozen diagnostic |
 | [![Stress test](portfolio/scenario-stress-test-120min.png)](portfolio/scenario-stress-test-120min.png) | 120-minute physical-state scenario surface | V2-E | Frozen stress test |
+| [![Probability range](portfolio/scenario-probability-range-by-horizon.png)](portfolio/scenario-probability-range-by-horizon.png) | Scenario P(improvement) range by horizon | V2-E | Supplementary frozen diagnostic |
+| [![Performance envelope](portfolio/scenario-performance-envelope-by-horizon.png)](portfolio/scenario-performance-envelope-by-horizon.png) | Expected-performance scenario envelope | V2-E | Supplementary frozen diagnostic |
 | [![External validation](portfolio/external-validation-2025.png)](portfolio/external-validation-2025.png) | All 15 external cases and support boundary | R6 external evaluation v2 | External validation |
 | [![Supported external subset](portfolio/external-validation-2025-supported.png)](portfolio/external-validation-2025-supported.png) | Four cases within production horizon | R6 external evaluation v2 | External validation subset |
 | [![Regime timeline](portfolio/technical-regime-timeline.svg)](portfolio/technical-regime-timeline.svg) | Technical and format boundaries | R6 frozen extension | Transfer/applicability |
 | [![Regime coefficients](portfolio/regime-coefficient-comparison.png)](portfolio/regime-coefficient-comparison.png) | Coefficient estimates and 90% intervals | R6 regime comparison | Supporting transfer analysis |
 | [![Operational curve](portfolio/operational-performance-outlook.png)](portfolio/operational-performance-outlook.png) | Expected speed and predictive bands | OPERATIONAL_CURVE_V2 | Operational presentation |
 | [![Operational probability](portfolio/operational-probability-outlook.png)](portfolio/operational-probability-outlook.png) | Conditional P(improvement) curve | OPERATIONAL_CURVE_V2 | Operational presentation |
+| [![Opportunity performance overlay](portfolio/external-opportunity-window-performance-overlay.png)](portfolio/external-opportunity-window-performance-overlay.png) | Externally supplied opportunity window over the performance curve | OPERATIONAL_CURVE_V2 | Operational illustration |
+| [![Opportunity probability overlay](portfolio/external-opportunity-window-probability-overlay.png)](portfolio/external-opportunity-window-probability-overlay.png) | Externally supplied opportunity window over P(improvement) | OPERATIONAL_CURVE_V2 | Operational illustration |
 | [![Freeze](portfolio/freeze-and-reproducibility.svg)](portfolio/freeze-and-reproducibility.svg) | Versioning and external-evidence separation | Freeze manifests | Reproducibility architecture |
 
 The SVG diagrams are explanatory views. Numerical plots are generated from or copied byte-for-byte from frozen outputs. None of the gallery assets refits a scientific model.
